@@ -1,0 +1,22 @@
+{
+  "title": "A Comprehensive Graph Framework for Question Answering with Mode-Seeking Preference Alignment",
+  "authors": [
+    "Quanwei Tang",
+    "Sophia Yat Mei Lee",
+    "Junshuang Wu",
+    "Dong Zhang",
+    "Shoushan Li",
+    "Erik Cambria",
+    "Guodong Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-acl.1108",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1108/"
+}

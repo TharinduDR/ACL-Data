@@ -1,0 +1,23 @@
+{
+  "title": "Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data",
+  "authors": [
+    "Xuemiao Zhang",
+    "Liangyu Xu",
+    "Feiyu Duan",
+    "Yongwei Zhou",
+    "Sirui Wang",
+    "Rongxiang Weng",
+    "Jingang Wang",
+    "Xunliang Cai"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1091",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1091/"
+}

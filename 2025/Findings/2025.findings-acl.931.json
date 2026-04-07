@@ -1,0 +1,43 @@
+{
+  "title": "The Devil Is in the Word Alignment Details: On Translation-Based Cross-Lingual Transfer for Token Classification Tasks",
+  "authors": [
+    "Benedikt Ebing",
+    "Goran Glavaš"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Danish",
+    "German",
+    "Indonesian",
+    "Italian",
+    "Kazakh",
+    "Dutch",
+    "Serbian",
+    "Turkish",
+    "Swahili",
+    "Luganda",
+    "Mossi",
+    "Chichewa",
+    "Shona",
+    "Setswana",
+    "Akan",
+    "Twi",
+    "Wolof",
+    "Xhosa",
+    "Zulu",
+    "Bambara",
+    "Ewe",
+    "Fon",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.findings-acl.931",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.931/"
+}

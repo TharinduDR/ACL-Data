@@ -1,0 +1,23 @@
+{
+  "title": "BridG MT: Enhancing LLMs' Machine Translation Capabilities with Sentence Bridging and Gradual MT",
+  "authors": [
+    "Seungwoo Choi",
+    "Gahyun Yoo",
+    "Jay-Yoon Lee"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Korean",
+    "Hindi",
+    "Swahili",
+    "Bengali",
+    "Marathi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.findings-acl.1336",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1336/"
+}

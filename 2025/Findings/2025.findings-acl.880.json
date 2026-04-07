@@ -1,0 +1,22 @@
+{
+  "title": "VP-MEL: Visual Prompts Guided Multimodal Entity Linking",
+  "authors": [
+    "Hongze Mi",
+    "Jinyuan Li",
+    "Xuying Zhang",
+    "Haoran Cheng",
+    "Jiahao Wang",
+    "Di Sun",
+    "Gang Pan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.findings-acl.880",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.880/"
+}

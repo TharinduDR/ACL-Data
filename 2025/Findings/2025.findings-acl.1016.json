@@ -1,0 +1,43 @@
+{
+  "title": "Data Interpreter: An LLM Agent For Data Science",
+  "authors": [
+    "Sirui Hong",
+    "Yizhang Lin",
+    "Bang Liu",
+    "Bangbang Liu",
+    "Binhao Wu",
+    "Ceyao Zhang",
+    "Danyang Li",
+    "Jiaqi Chen",
+    "Jiayi Zhang",
+    "Jinlin Wang",
+    "Li Zhang",
+    "Lingyao Zhang",
+    "Min Yang",
+    "Mingchen Zhuge",
+    "Taicheng Guo",
+    "Tuo Zhou",
+    "Wei Tao",
+    "Xiangru Tang",
+    "Xiangtao Lu",
+    "Xiawu Zheng",
+    "Xinbing Liang",
+    "Yaying Fei",
+    "Yuheng Cheng",
+    "Yongxin Ni",
+    "Zhibin Gou",
+    "Zongze Xu",
+    "Yuyu Luo",
+    "Chenglin Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.findings-acl.1016",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1016/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "GRAMMAR-LLM: Grammar-Constrained Natural Language Generation",
+  "authors": [
+    "Gabriele Tuccio",
+    "Luana Bulla",
+    "Maria Madonia",
+    "Aldo Gangemi",
+    "Misael Mongiovì"
+  ],
+  "languages": [
+    "English",
+    "Sign Language (unspecified)"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.findings-acl.177",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.177/"
+}

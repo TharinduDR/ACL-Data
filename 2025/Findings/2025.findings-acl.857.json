@@ -1,0 +1,20 @@
+{
+  "title": "ASTRID - An Automated and Scalable TRIaD for the Evaluation of RAG-based Clinical Question Answering Systems",
+  "authors": [
+    "Yajie Vera He",
+    "Mohita Chowdhury",
+    "Jared Joselowitz",
+    "Aisling Higham",
+    "Ernest Lim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-acl.857",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.857/"
+}

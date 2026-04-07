@@ -1,0 +1,22 @@
+{
+  "title": "EnigmaToM: Improve LLMs' Theory-of-Mind Reasoning Capabilities with Neural Knowledge Base of Entity States",
+  "authors": [
+    "Hainiu Xu",
+    "Siya Qi",
+    "Jiazheng Li",
+    "Yuxiang Zhou",
+    "Jinhua Du",
+    "Caroline Catmur",
+    "Yulan He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.findings-acl.699",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.699/"
+}

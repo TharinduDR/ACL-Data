@@ -1,0 +1,20 @@
+{
+  "title": "Communication-Efficient and Tensorized Federated Fine-Tuning of Large Language Models",
+  "authors": [
+    "Sajjad Ghiassvand",
+    "Yifan Yang",
+    "Zhiyu Xue",
+    "Mahnoosh Alizadeh",
+    "Zheng Zhang",
+    "Ramtin Pedarsani"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1241",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1241/"
+}

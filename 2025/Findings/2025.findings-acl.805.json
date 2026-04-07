@@ -1,0 +1,21 @@
+{
+  "title": "ZERONER: Fueling Zero-Shot Named Entity Recognition via Entity Type Descriptions",
+  "authors": [
+    "Alessio Cocchieri",
+    "Marcos Martínez Galindo",
+    "Giacomo Frisoni",
+    "Gianluca Moro",
+    "Claudio Sartori",
+    "Giuseppe Tagliavini"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.805",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.805/"
+}

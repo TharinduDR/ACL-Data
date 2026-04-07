@@ -1,0 +1,22 @@
+{
+  "title": "From Misleading Queries to Accurate Answers: A Three-Stage Fine-Tuning Method for LLMs",
+  "authors": [
+    "Guocong Li",
+    "Weize Liu",
+    "Yihang Wu",
+    "Ping Wang",
+    "Shuaihan Huang",
+    "Hongxia Xu",
+    "Jian Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.65",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.65/"
+}

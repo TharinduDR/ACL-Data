@@ -1,0 +1,47 @@
+{
+  "title": "HATEPRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation",
+  "authors": [
+    "Naquee Rizwan",
+    "Seid Muhie Yimam",
+    "Daryna Dementieva",
+    "Florian Skupin",
+    "Tim Fischer",
+    "Daniil Moskovskiy",
+    "Aarushi Ajay Borkar",
+    "Robert Geislinger",
+    "Punyajoy Saha",
+    "Sarthak Roy",
+    "Martin Semmann",
+    "Alexander Panchenko",
+    "Chris Biemann",
+    "Animesh Mukherjee"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Amharic",
+    "Bengali",
+    "Chinese",
+    "Croatian",
+    "Danish",
+    "Dutch",
+    "French",
+    "German",
+    "Hindi",
+    "Italian",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Spanish",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.findings-acl.824",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.824/"
+}

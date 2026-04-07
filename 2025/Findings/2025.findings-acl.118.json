@@ -1,0 +1,27 @@
+{
+  "title": "Adaptive-VP: A Framework for LLM-Based Virtual Patients that Adapts to Trainees' Dialogue to Facilitate Nurse Communication Training",
+  "authors": [
+    "Keyeun Lee",
+    "Seolhee Lee",
+    "Esther Hehsun Kim",
+    "Yena Ko",
+    "Jinsu Eun",
+    "Dahee Kim",
+    "Hyewon Cho",
+    "Haiyi Zhu",
+    "Robert E. Kraut",
+    "Eunyoung Suh",
+    "Eun-mee Kim",
+    "Hajin Lim"
+  ],
+  "languages": [
+    "Korean"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.findings-acl.118",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.118/"
+}

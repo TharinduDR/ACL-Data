@@ -1,0 +1,21 @@
+{
+  "title": "EpiCoDe: Boosting Model Performance Beyond Training with Extrapolation and Contrastive Decoding",
+  "authors": [
+    "Mingxu Tao",
+    "Jie Hu",
+    "Mingchuan Yang",
+    "Yunhuai Liu",
+    "Dongyan Zhao",
+    "Yansong Feng"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.findings-acl.769",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.769/"
+}

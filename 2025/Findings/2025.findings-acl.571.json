@@ -1,0 +1,23 @@
+{
+  "title": "Chain-of-Jailbreak Attack for Image Generation Models via Step by Step Editing",
+  "authors": [
+    "Wenxuan Wang",
+    "Kuiyi Gao",
+    "Youliang Yuan",
+    "Jen-tse Huang",
+    "Qiuzhi Liu",
+    "Shuai Wang",
+    "Wenxiang Jiao",
+    "Zhaopeng Tu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.findings-acl.571",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.571/"
+}

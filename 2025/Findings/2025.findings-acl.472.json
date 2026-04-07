@@ -1,0 +1,25 @@
+{
+  "title": "HellaSwag-Pro: A Large-Scale Bilingual Benchmark for Evaluating the Robustness of LLMs in Commonsense Reasoning",
+  "authors": [
+    "Xiaoyuan Li",
+    "Moxin Li",
+    "Rui Men",
+    "Yichang Zhang",
+    "Keqin Bao",
+    "Wenjie Wang",
+    "Fuli Feng",
+    "Dayiheng Liu",
+    "Junyang Lin"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-acl.472",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.472/"
+}

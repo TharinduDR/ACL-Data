@@ -1,0 +1,20 @@
+{
+  "title": "Weak-to-Strong Honesty Alignment via Learning-to-Rank Supervision",
+  "authors": [
+    "Yunfan Xie",
+    "Lixin Zou",
+    "Dan Luo",
+    "Min Tang",
+    "Chenliang Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.529",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.529/"
+}

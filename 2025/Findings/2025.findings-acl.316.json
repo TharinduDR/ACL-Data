@@ -1,0 +1,24 @@
+{
+  "title": "Mitigate Position Bias in LLMs via Scaling a Single Hidden States Channel",
+  "authors": [
+    "Yijiong Yu",
+    "Huiqiang Jiang",
+    "Xufang Luo",
+    "Qianhui Wu",
+    "Chin-Yew Lin",
+    "Dongsheng Li",
+    "Yuqing Yang",
+    "Yongfeng Huang",
+    "Lili Qiu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.316",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.316/"
+}

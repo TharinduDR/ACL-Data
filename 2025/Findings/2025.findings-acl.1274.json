@@ -1,0 +1,21 @@
+{
+  "title": "Token-Budget-Aware LLM Reasoning",
+  "authors": [
+    "Tingxu Han",
+    "Zhinting Wang",
+    "Chunrong Fang",
+    "Shiyu Zhao",
+    "Shiqing Ma",
+    "Zhenyu Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.1274",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1274/"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "STORM-BORN: A Challenging Mathematical Derivations Dataset Curated via a Human-in-the-Loop Multi-Agent Framework",
+  "authors": [
+    "Wenbao Liu",
+    "Zhenyi Lu",
+    "Xinyu Hu",
+    "Jierui Zhang",
+    "Dailin Li",
+    "Jiacheng Cen",
+    "Huiling Cao",
+    "Haiteng Wang",
+    "Yuhan Li",
+    "Kun Xie",
+    "Dandan Li",
+    "Pei Zhang",
+    "Chengbo Zhang",
+    "Yuxiang Ren",
+    "Xiaohong Huang",
+    "Yan Ma"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-acl.1227",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1227/"
+}

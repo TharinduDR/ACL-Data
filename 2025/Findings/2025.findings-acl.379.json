@@ -1,0 +1,27 @@
+{
+  "title": "A Bounding Box is Worth One Token - Interleaving Layout and Text in a Large Language Model for Document Understanding",
+  "authors": [
+    "Jinghui Lu",
+    "Haiyang Yu",
+    "Yanjie Wang",
+    "Yongjie Ye",
+    "Jingqun Tang",
+    "Ziwei Yang",
+    "Binghong Wu",
+    "Qi Liu",
+    "Hao Feng",
+    "Han Wang",
+    "Hao Liu",
+    "Can Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.379",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.379/"
+}

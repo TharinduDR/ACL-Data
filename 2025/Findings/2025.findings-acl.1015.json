@@ -1,0 +1,21 @@
+{
+  "title": "Explain-then-Process: Using Grammar Prompting to Enhance Grammatical Acceptability Judgments",
+  "authors": [
+    "Russell Scheinberg",
+    "Ameeta Agrawal",
+    "Amber Shore",
+    "So Young Lee"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2025.findings-acl.1015",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1015/"
+}

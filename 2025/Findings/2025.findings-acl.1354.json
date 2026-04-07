@@ -1,0 +1,32 @@
+{
+  "title": "RomanLens: The Role of Latent Romanization in Multilinguality in LLMs",
+  "authors": [
+    "Alan Saji",
+    "Jaavid Aktar Husain",
+    "Thanmay Jayakumar",
+    "Raj Dabre",
+    "Anoop Kunchukuttan",
+    "Ratish Puduppully"
+  ],
+  "languages": [
+    "Hindi",
+    "Gujarati",
+    "Tamil",
+    "Telugu",
+    "Malayalam",
+    "Chinese",
+    "Georgian",
+    "Greek",
+    "Ukrainian",
+    "Hebrew",
+    "Arabic",
+    "Amharic"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.1354",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1354/"
+}

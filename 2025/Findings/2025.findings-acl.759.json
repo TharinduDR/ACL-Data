@@ -1,0 +1,21 @@
+{
+  "title": "RECORDTWIN: Towards Creating Safe Synthetic Clinical Corpora",
+  "authors": [
+    "Seiji Shimizu",
+    "Ibrahim Baroud",
+    "Lisa Raithel",
+    "Shuntaro Yada",
+    "Shoko Wakamiya",
+    "Eiji Aramaki"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.759",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.759/"
+}

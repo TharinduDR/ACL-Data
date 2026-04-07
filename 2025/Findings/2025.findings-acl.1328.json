@@ -1,0 +1,23 @@
+{
+  "title": "Multilingual Definition Modeling",
+  "authors": [
+    "Edison Marrese-Taylor",
+    "Erica K. Shimomoto",
+    "Alfredo Solano",
+    "Enrique Reid"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Portuguese",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1328",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1328/"
+}

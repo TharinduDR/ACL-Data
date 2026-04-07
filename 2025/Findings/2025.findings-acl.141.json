@@ -1,0 +1,24 @@
+{
+  "title": "A Case Study of Cross-Lingual Zero-Shot Generalization for Classical Languages in LLMs",
+  "authors": [
+    "V.S.D.S. Mahesh Akavarapu",
+    "Hrishikesh Terdalkar",
+    "Pramit Bhattacharyya",
+    "Shubhangi Agarwal",
+    "Vishakha Deulgaonkar",
+    "Pralay Manna",
+    "Chaitali Dangarikar",
+    "Arnab Bhattacharya"
+  ],
+  "languages": [
+    "Sanskrit",
+    "Ancient Greek"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.141",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.141/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Towards Medical Complex Reasoning with LLMs through Medical Verifiable Problems",
+  "authors": [
+    "Junying Chen",
+    "Zhenyang Cai",
+    "Ke Ji",
+    "Xidong Wang",
+    "Wanlong Liu",
+    "Rongsheng Wang",
+    "Benyou Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-acl.751",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.751/"
+}

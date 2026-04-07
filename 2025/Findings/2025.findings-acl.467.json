@@ -1,0 +1,20 @@
+{
+  "title": "Boosting Vulnerability Detection of LLMs via Curriculum Preference Optimization with Synthetic Reasoning Data",
+  "authors": [
+    "Xin-Cheng Wen",
+    "Yijun Yang",
+    "Cuiyun Gao",
+    "Yang Xiao",
+    "Deheng Ye"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.467",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.467/"
+}

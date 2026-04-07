@@ -1,0 +1,23 @@
+{
+  "title": "Token-level Preference Self-Alignment Optimization for Multi-style Outline Controllable Generation",
+  "authors": [
+    "Zihao Li",
+    "Xuekong Xu",
+    "Ziyao Chen",
+    "Lixin Zou",
+    "Haijun Wu",
+    "Qiang Chen",
+    "Chenliang Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.findings-acl.823",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.823/"
+}

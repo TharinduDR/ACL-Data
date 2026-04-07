@@ -1,0 +1,25 @@
+{
+  "title": "TituLLMs: A Family of Bangla LLMs with Comprehensive Benchmarking",
+  "authors": [
+    "Shahriar Kabir Nahin",
+    "Rabindra Nath Nandi",
+    "Sagor Sarker",
+    "Quazi Sarwar Muhtaseem",
+    "Md Kowsher",
+    "Apu Chandraw Shill",
+    "Md Ibrahim",
+    "Mehadi Hasan Menon",
+    "Tareq Al Muntasir",
+    "Firoj Alam"
+  ],
+  "languages": [
+    "Bengali"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1279",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1279/"
+}

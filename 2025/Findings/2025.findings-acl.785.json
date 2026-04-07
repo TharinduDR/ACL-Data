@@ -1,0 +1,23 @@
+{
+  "title": "MeMo: Towards Language Models with Associative Memory Mechanisms",
+  "authors": [
+    "Fabio Massimo Zanzotto",
+    "Elena Sofia Ruzzetti",
+    "Giancarlo A. Xompero",
+    "Leonardo Ranaldi",
+    "Davide Venditti",
+    "Federico Ranaldi",
+    "Cristina Giannone",
+    "Andrea Favalli",
+    "Raniero Romagnoli"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.785",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.785/"
+}

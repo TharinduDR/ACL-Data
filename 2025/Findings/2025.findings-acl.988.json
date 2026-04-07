@@ -1,0 +1,33 @@
+{
+  "title": "X-WebAgentBench: A Multilingual Interactive Web Benchmark for Evaluating Global Agentic System",
+  "authors": [
+    "Peng Wang",
+    "Ruihan Tao",
+    "Qiguang Chen",
+    "Mengkang Hu",
+    "Libo Qin"
+  ],
+  "languages": [
+    "Chinese",
+    "French",
+    "Spanish",
+    "German",
+    "Greek",
+    "Bulgarian",
+    "Russian",
+    "Hindi",
+    "Urdu",
+    "Turkish",
+    "Arabic",
+    "Vietnamese",
+    "Thai",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.findings-acl.988",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.988/"
+}

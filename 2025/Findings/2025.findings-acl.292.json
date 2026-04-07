@@ -1,0 +1,23 @@
+{
+  "title": "HyperCRS: Hypergraph-Aware Multi-Grained Preference Learning to Burst Filter Bubbles in Conversational Recommendation System",
+  "authors": [
+    "Yongsen Zheng",
+    "Mingjie Qian",
+    "Guohua Wang",
+    "Yang Liu",
+    "Ziliang Chen",
+    "Mingzhi Mao",
+    "Liang Lin",
+    "Kwok-Yan Lam"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T01 Bias, Guardrails, filters",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.findings-acl.292",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.292/"
+}

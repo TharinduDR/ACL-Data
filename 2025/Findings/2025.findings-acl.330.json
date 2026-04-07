@@ -1,0 +1,20 @@
+{
+  "title": "Streamlining the Collaborative Chain of Models into A Single Forward Pass in Generation-Based Tasks",
+  "authors": [
+    "Yuanjie Lyu",
+    "Chao Zhang",
+    "Yuhao Chen",
+    "Yong Chen",
+    "Tong Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-acl.330",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.330/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "RASPberry: Retrieval-Augmented Monte Carlo Tree Self-Play with Reasoning Consistency for Multi-Hop Question Answering",
+  "authors": [
+    "Baixuan Li",
+    "Yunlong Fan",
+    "Tianyi Ma",
+    "Miao Gao",
+    "Chuanqi Shi",
+    "Zhiqiang Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.587",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.587/"
+}

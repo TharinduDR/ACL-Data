@@ -1,0 +1,20 @@
+{
+  "title": "Position-Aware Depth Decay Decoding (D³): Boosting Large Language Model Inference Efficiency",
+  "authors": [
+    "Siqi Fan",
+    "Xuezhi Fang",
+    "Xingrun Xing",
+    "Peng Han",
+    "Shuo Shang",
+    "Yequan Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.154",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.154/"
+}

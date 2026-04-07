@@ -1,0 +1,21 @@
+{
+  "title": "SQLForge: Synthesizing Reliable and Diverse Data to Enhance Text-to-SQL Reasoning in LLMs",
+  "authors": [
+    "Yu Guo",
+    "Dong Jin",
+    "Shenghao Ye",
+    "Shuangwu Chen",
+    "Jian Yang",
+    "Xiaobin Tan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-acl.443",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.443/"
+}

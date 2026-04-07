@@ -1,0 +1,28 @@
+{
+  "title": "FanChuan: A Multilingual and Graph-Structured Benchmark For Parody Detection and Analysis",
+  "authors": [
+    "Yilun Zheng",
+    "Sha Li",
+    "Fangkun Wu",
+    "Yang Ziyi",
+    "Lin Hongchao",
+    "Zhichao Hu",
+    "Cai Xinjun",
+    "Ziming Wang",
+    "Jinxuan Chen",
+    "Sitao Luan",
+    "Jiahao Xu",
+    "Lihui Chen"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.findings-acl.1131",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1131/"
+}

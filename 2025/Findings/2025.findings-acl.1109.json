@@ -1,0 +1,20 @@
+{
+  "title": "A MISMatched Benchmark for Scientific Natural Language Inference",
+  "authors": [
+    "Firoz Shaik",
+    "Mobashir Sadat",
+    "Nikita Gautam",
+    "Doina Caragea",
+    "Cornelia Caragea"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-acl.1109",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1109/"
+}

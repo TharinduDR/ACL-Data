@@ -1,0 +1,33 @@
+{
+  "title": "CLaMP 3: Universal Music Information Retrieval Across Unaligned Modalities and Unseen Languages",
+  "authors": [
+    "Shangda Wu",
+    "Zhancheng Guo",
+    "Ruibin Yuan",
+    "Junyan Jiang",
+    "Seungheon Doh",
+    "Gus Xia",
+    "Juhan Nam",
+    "Xiaobing Li",
+    "Feng Yu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Arabic",
+    "Chinese",
+    "Finnish",
+    "Greek",
+    "Kazakh",
+    "Amharic"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.findings-acl.133",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.133/"
+}

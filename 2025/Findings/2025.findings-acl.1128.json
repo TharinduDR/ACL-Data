@@ -1,0 +1,33 @@
+{
+  "title": "READOC: A Unified Benchmark for Realistic Document Structured Extraction",
+  "authors": [
+    "Zichao Li",
+    "Aizier Abulaiti",
+    "Yaojie Lu",
+    "Xuanang Chen",
+    "Jia Zheng",
+    "Hongyu Lin",
+    "Xianpei Han",
+    "Shanshan Jiang",
+    "Bin Dong",
+    "Le Sun"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Ukrainian",
+    "Portuguese",
+    "Dutch",
+    "Slovak",
+    "Indonesian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.findings-acl.1128",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1128/"
+}

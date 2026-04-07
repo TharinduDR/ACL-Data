@@ -1,0 +1,21 @@
+{
+  "title": "Answer When Needed, Forget When Not: Language Models Pretend to Forget via In-Context Knowledge Unlearning",
+  "authors": [
+    "Shota Takashiro",
+    "Takeshi Kojima",
+    "Andrew Gambardella",
+    "Qi Cao",
+    "Yusuke Iwasawa",
+    "Yutaka Matsuo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1276",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1276/"
+}

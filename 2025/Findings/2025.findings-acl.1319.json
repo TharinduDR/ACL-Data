@@ -1,0 +1,26 @@
+{
+  "title": "Reasoning with Graphs: Structuring Implicit Knowledge to Enhance LLMs Reasoning",
+  "authors": [
+    "Haoyu Han",
+    "Yaochen Xie",
+    "Hui Liu",
+    "Xianfeng Tang",
+    "Sreyashi Nag",
+    "William Headden",
+    "Yang Li",
+    "Chen Luo",
+    "Shuiwang Ji",
+    "Qi He",
+    "Jiliang Tang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.findings-acl.1319",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1319/"
+}

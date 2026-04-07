@@ -1,0 +1,21 @@
+{
+  "title": "Offline Reinforcement Learning for LLM Multi-step Reasoning",
+  "authors": [
+    "Huaijie Wang",
+    "Shibo Hao",
+    "Hanze Dong",
+    "Shenao Zhang",
+    "Yilin Bao",
+    "Ziran Yang",
+    "Yi Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-acl.464",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.464/"
+}

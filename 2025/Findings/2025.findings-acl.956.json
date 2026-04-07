@@ -1,0 +1,29 @@
+{
+  "title": "Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models",
+  "authors": [
+    "Yingqian Cui",
+    "Pengfei He",
+    "Jingying Zeng",
+    "Hui Liu",
+    "Xianfeng Tang",
+    "Zhenwei Dai",
+    "Yan Han",
+    "Chen Luo",
+    "Jing Huang",
+    "Zhen Li",
+    "Suhang Wang",
+    "Yue Xing",
+    "Jiliang Tang",
+    "Qi He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.956",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.956/"
+}

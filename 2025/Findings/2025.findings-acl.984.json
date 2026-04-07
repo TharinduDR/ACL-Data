@@ -1,0 +1,20 @@
+{
+  "title": "Sens-Merging: Sensitivity-Guided Parameter Balancing for Merging Large Language Models",
+  "authors": [
+    "Shuqi Liu",
+    "Han Wu",
+    "Bowei He",
+    "Xiongwei Han",
+    "Mingxuan Yuan",
+    "Linqi Song"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-acl.984",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.984/"
+}

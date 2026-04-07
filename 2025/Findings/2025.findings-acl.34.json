@@ -1,0 +1,27 @@
+{
+  "title": "CMQCIC-Bench: A Chinese Benchmark for Evaluating Large Language Models in Medical Quality Control Indicator Calculation",
+  "authors": [
+    "Guangya Yu",
+    "Yanbao Li",
+    "Zongying Jiang",
+    "Yuxiong Jin",
+    "Li Dai",
+    "Yupian Lin",
+    "Ruihui Hou",
+    "Weiyang Zhang",
+    "Yongqi Fan",
+    "Qi Ye",
+    "Jingping Liu",
+    "Tong Ruan"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.34",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.34/"
+}

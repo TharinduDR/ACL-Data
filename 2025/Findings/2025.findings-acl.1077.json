@@ -1,0 +1,21 @@
+{
+  "title": "G2S: A General-to-Specific Learning Framework for Temporal Knowledge Graph Forecasting with Large Language Models",
+  "authors": [
+    "Long Bai",
+    "Zixuan Li",
+    "Xiaolong Jin",
+    "Jiafeng Guo",
+    "Xueqi Cheng",
+    "Tat-Seng Chua"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-acl.1077",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1077/"
+}

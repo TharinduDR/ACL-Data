@@ -1,0 +1,19 @@
+{
+  "title": "Defensive Prompt Patch: A Robust and Generalizable Defense of Large Language Models against Jailbreak Attacks",
+  "authors": [
+    "Chen Xiong",
+    "Xiangyu Qi",
+    "Pin-Yu Chen",
+    "Tsung-Yi Ho"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.23",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.23/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Code-Switching and Syntax: A Large-Scale Experiment",
+  "authors": [
+    "Igor Sterner",
+    "Simone Teufel"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Indonesian",
+    "Swedish",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.600",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.600/"
+}

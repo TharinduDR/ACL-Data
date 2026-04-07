@@ -1,0 +1,20 @@
+{
+  "title": "Packing Analysis: Packing Is More Appropriate for Large Models or Datasets in Supervised Fine-tuning",
+  "authors": [
+    "Shuhe Wang",
+    "Guoyin Wang",
+    "Yizhong Wang",
+    "Jiwei Li",
+    "Eduard Hovy",
+    "Chen Guo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.256",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.256/"
+}

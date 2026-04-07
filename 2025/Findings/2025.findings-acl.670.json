@@ -1,0 +1,29 @@
+{
+  "title": "LAM SIMULATOR: Advancing Data Generation for Large Action Model Training via Online Exploration and Trajectory Feedback",
+  "authors": [
+    "Thai Hoang",
+    "Kung-Hsiang Huang",
+    "Shirley Kokane",
+    "Jianguo Zhang",
+    "Zuxin Liu",
+    "Ming Zhu",
+    "Jake Grigsby",
+    "Tian Lan",
+    "Michael S Ryoo",
+    "Chien-Sheng Wu",
+    "Shelby Heinecke",
+    "Huan Wang",
+    "Silvio Savarese",
+    "Caiming Xiong",
+    "Juan Carlos Niebles"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.670",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.670/"
+}

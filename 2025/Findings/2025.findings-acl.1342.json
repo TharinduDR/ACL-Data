@@ -1,0 +1,39 @@
+{
+  "title": "Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation",
+  "authors": [
+    "Qiyue Gao",
+    "Xinyu Pi",
+    "Kevin Liu",
+    "Junrong Chen",
+    "Ruolan Yang",
+    "Xin Qi Huang",
+    "Xinyu Fang",
+    "Lu Sun",
+    "Gautham Kishore",
+    "Bo Ai",
+    "Stone Tao",
+    "Mengyang Liu",
+    "Jiaxi Yang",
+    "Chao-Jung Lai",
+    "Chuanyang Jin",
+    "Jiannan Xiang",
+    "Benhao Huang",
+    "Zeming Chen",
+    "David Danks",
+    "Hao Su",
+    "Tianmin Shu",
+    "Ziqiao Ma",
+    "Lianhui Qin",
+    "Zhiting Hu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-acl.1342",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1342/"
+}

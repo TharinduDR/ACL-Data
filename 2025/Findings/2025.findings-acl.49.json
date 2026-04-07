@@ -1,0 +1,29 @@
+{
+  "title": "PersonaBench: Evaluating AI Models on Understanding Personal Information through Accessing (Synthetic) Private User Data",
+  "authors": [
+    "Juntao Tan",
+    "Liangwei Yang",
+    "Zuxin Liu",
+    "Zhiwei Liu",
+    "Rithesh Murthy",
+    "Tulika Manoj Awalgaonkar",
+    "Jianguo Zhang",
+    "Weiran Yao",
+    "Ming Zhu",
+    "Shirley Kokane",
+    "Silvio Savarese",
+    "Huan Wang",
+    "Caiming Xiong",
+    "Shelby Heinecke"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.49",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.49/"
+}

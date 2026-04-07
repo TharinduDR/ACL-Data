@@ -1,0 +1,22 @@
+{
+  "title": "KaFT: Knowledge-aware Fine-tuning for Boosting LLMs' Domain-specific Question-Answering Performance",
+  "authors": [
+    "Qihuang Zhong",
+    "Liang Ding",
+    "Xiantao Cai",
+    "Juhua Liu",
+    "Bo Du",
+    "Dacheng Tao"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-acl.1235",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1235/"
+}

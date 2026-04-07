@@ -1,0 +1,23 @@
+{
+  "title": "A Representation Level Analysis of NMT Model Robustness to Grammatical Errors",
+  "authors": [
+    "Abderrahmane Issam",
+    "Yusuf Can Semerci",
+    "Jan Scholtes",
+    "Gerasimos Spanakis"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.451",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.451/"
+}

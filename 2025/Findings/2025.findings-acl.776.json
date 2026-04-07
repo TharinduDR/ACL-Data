@@ -1,0 +1,22 @@
+{
+  "title": "AMXFP4: Taming Activation Outliers with Asymmetric Microscaling Floating-Point for 4-bit LLM Inference",
+  "authors": [
+    "Janghwan Lee",
+    "Jiwoong Park",
+    "Jinseok Kim",
+    "Yongjik Kim",
+    "Jungju Oh",
+    "Jinwook Oh",
+    "Jungwook Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.776",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.776/"
+}

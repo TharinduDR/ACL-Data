@@ -1,0 +1,27 @@
+{
+  "title": "IW-Bench: Evaluating Large Multimodal Models for Converting Image-to-Web",
+  "authors": [
+    "Hongcheng Guo",
+    "Wei Zhang",
+    "Junhao Chen",
+    "Yaonan Gu",
+    "Jian Yang",
+    "Junjia Du",
+    "Shaosheng Cao",
+    "Binyuan Hui",
+    "Tianyu Liu",
+    "Jianxin Ma",
+    "Chang Zhou",
+    "Zhoujun Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.334",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.334/"
+}

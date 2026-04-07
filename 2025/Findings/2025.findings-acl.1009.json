@@ -1,0 +1,32 @@
+{
+  "title": "MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct",
+  "authors": [
+    "Run Luo",
+    "Haonan Zhang",
+    "Longze Chen",
+    "Ting-En Lin",
+    "Xiong Liu",
+    "Yuchuan Wu",
+    "Min Yang",
+    "Yongbin Li",
+    "Minzheng Wang",
+    "Pengpeng Zeng",
+    "Lianli Gao",
+    "Heng Tao Shen",
+    "Yunshui Li",
+    "Hamid Alinejad-Rokny",
+    "Xiaobo Xia",
+    "Fei Huang",
+    "Jingkuan Song"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1009",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1009/"
+}

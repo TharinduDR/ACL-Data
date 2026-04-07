@@ -1,0 +1,25 @@
+{
+  "title": "FPE2M2: Approaching Lossless and Efficient Quantization with Native Floating Point",
+  "authors": [
+    "Ke Yi",
+    "Jianwei Zhang",
+    "Zhiying Xu",
+    "Xinlong Yang",
+    "Yang Zhou",
+    "Minmin Sun",
+    "Zengke Liu",
+    "Tong Zhang",
+    "Junyang Lin",
+    "Jingren Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.findings-acl.943",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.943/"
+}

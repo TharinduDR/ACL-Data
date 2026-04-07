@@ -1,0 +1,21 @@
+{
+  "title": "DRS: Deep Question Reformulation With Structured Output",
+  "authors": [
+    "Zhecheng Li",
+    "Yiwei Wang",
+    "Bryan Hooi",
+    "Yujun Cai",
+    "Nanyun Peng",
+    "Kai-Wei Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-acl.666",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.666/"
+}

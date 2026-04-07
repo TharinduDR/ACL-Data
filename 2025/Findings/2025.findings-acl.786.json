@@ -1,0 +1,21 @@
+{
+  "title": "DeRAGEC: Denoising Named Entity Candidates with Synthetic Rationale for ASR Error Correction",
+  "authors": [
+    "Solee Im",
+    "Wonjun Lee",
+    "Jinmyeong An",
+    "Yunsu Kim",
+    "Jungseul Ok",
+    "Gary Geunbae Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.findings-acl.786",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.786/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SuLoRA: Subspace Low-Rank Adaptation for Parameter-Efficient Fine-Tuning",
+  "authors": [
+    "Chen Hao Ding",
+    "Jiangyang Li",
+    "Songlin Dong",
+    "Xinyuan Gao",
+    "Yuhang He",
+    "Yihong Gong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.278",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.278/"
+}

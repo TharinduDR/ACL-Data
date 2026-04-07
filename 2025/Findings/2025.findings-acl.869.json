@@ -1,0 +1,29 @@
+{
+  "title": "mSTYLEDISTANCE: Multilingual Style Embeddings and their Evaluation",
+  "authors": [
+    "Justin Qiu",
+    "Jiacheng Zhu",
+    "Ajay Patel",
+    "Marianna Apidianaki",
+    "Chris Callison-Burch"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.869",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.869/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Qorgau: Evaluating LLM Safety in Kazakh-Russian Bilingual Contexts",
+  "authors": [
+    "Maiya Goloburda",
+    "Nurkhan Laiyk",
+    "Diana Turmakhan",
+    "Yuxia Wang",
+    "Mukhammed Togmanov",
+    "Jonibek Mansurov",
+    "Askhat Sametov",
+    "Nurdaulet Mukhituly",
+    "Minghan Wang",
+    "Daniil Orel",
+    "Zain Muhammad Mujahid",
+    "Fajri Koto",
+    "Timothy Baldwin",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "Kazakh",
+    "Russian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.findings-acl.507",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.507/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "System Prompt Hijacking via Permutation Triggers in LLM Supply Chains",
+  "authors": [
+    "Lu Yan",
+    "Siyuan Cheng",
+    "Xuan Chen",
+    "Kaiyuan Zhang",
+    "Guangyu Shen",
+    "Xiangyu Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.findings-acl.229",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.229/"
+}

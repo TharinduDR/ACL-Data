@@ -1,0 +1,27 @@
+{
+  "title": "COPR: Continual Human Preference Learning via Optimal Policy Regularization",
+  "authors": [
+    "Han Zhang",
+    "Lin Gui",
+    "Yu Lei",
+    "Yuanzhao Zhai",
+    "Yehong Zhang",
+    "Zhuo Zhang",
+    "Yulan He",
+    "Hui Wang",
+    "Yue Yu",
+    "Kam-Fai Wong",
+    "Bin Liang",
+    "Ruifeng Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.findings-acl.281",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.281/"
+}

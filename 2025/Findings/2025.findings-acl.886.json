@@ -1,0 +1,19 @@
+{
+  "title": "EMRs2CSP: Mining Clinical Status Pathway from Electronic Medical Records",
+  "authors": [
+    "Yifei Chen",
+    "Ruihui Hou",
+    "Jingping Liu",
+    "Tong Ruan"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.findings-acl.886",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.886/"
+}

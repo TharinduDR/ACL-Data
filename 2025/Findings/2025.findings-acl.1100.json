@@ -1,0 +1,22 @@
+{
+  "title": "Query-Driven Multimodal GraphRAG: Dynamic Local Knowledge Graph Construction for Online Reasoning",
+  "authors": [
+    "Chenyang Bu",
+    "Guojie Chang",
+    "Zihao Chen",
+    "Cunyuan Dang",
+    "Zhize Wu",
+    "Yi He",
+    "Xindong Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.findings-acl.1100",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1100/"
+}

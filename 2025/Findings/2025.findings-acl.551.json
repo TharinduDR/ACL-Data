@@ -1,0 +1,19 @@
+{
+  "title": "Q-Mamba: Towards more efficient Mamba models via post-training quantization",
+  "authors": [
+    "Tianqi Chen",
+    "Yuanteng Chen",
+    "Peisong Wang",
+    "Weixiang Xu",
+    "Zeyu Zhu",
+    "Jian Cheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.551",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.551/"
+}

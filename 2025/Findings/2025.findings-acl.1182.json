@@ -1,0 +1,24 @@
+{
+  "title": "Your Language Model May Think Too Rigidly: Achieving Reasoning Consistency with Symmetry-Enhanced Training",
+  "authors": [
+    "Yihang Yao",
+    "Zhepeng Cen",
+    "Miao Li",
+    "William Han",
+    "Yuyou Zhang",
+    "Emerson Liu",
+    "Zuxin Liu",
+    "Chuang Gan",
+    "Ding Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.1182",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1182/"
+}

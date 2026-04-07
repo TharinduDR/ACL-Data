@@ -1,0 +1,21 @@
+{
+  "title": "InImageTrans: Multimodal LLM-based Text Image Machine Translation",
+  "authors": [
+    "Fei Zuo",
+    "Kehai Chen",
+    "Yu Zhang",
+    "Zhengshan Xue",
+    "Min Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1039",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1039/"
+}

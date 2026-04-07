@@ -1,0 +1,22 @@
+{
+  "title": "ASPO: Adaptive Sentence-Level Preference Optimization for Fine-Grained Multimodal Reasoning",
+  "authors": [
+    "Yeyuan Wang",
+    "Dehong Gao",
+    "Rujiao Long",
+    "Lei Yi",
+    "Linbo Jin",
+    "Libin Yang",
+    "Xiaoyan Cai"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.267",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.267/"
+}

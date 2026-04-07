@@ -1,0 +1,20 @@
+{
+  "title": "CROSSAGENTIE: Cross-Type and Cross-Task Multi-Agent LLM Collaboration for Zero-Shot Information Extraction",
+  "authors": [
+    "Meng Lu",
+    "Yuzhang Xie",
+    "Zhenyu Bi",
+    "Shuxiang Cao",
+    "Xuan Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.718",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.718/"
+}

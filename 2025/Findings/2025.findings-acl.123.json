@@ -1,0 +1,26 @@
+{
+  "title": "Self-Critique Guided Iterative Reasoning for Multi-hop Question Answering",
+  "authors": [
+    "Zheng Chu",
+    "Huiming Fan",
+    "Jingchang Chen",
+    "Qianyu Wang",
+    "Mingda Yang",
+    "Jiafeng Liang",
+    "Zhongjie Wang",
+    "Hao Li",
+    "Guo Tang",
+    "Ming Liu",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-acl.123",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.123/"
+}

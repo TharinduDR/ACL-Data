@@ -1,0 +1,20 @@
+{
+  "title": "EMPEC: A Comprehensive Benchmark for Evaluating Large Language Models Across Diverse Healthcare Professions",
+  "authors": [
+    "Zheheng Luo",
+    "Chenhan Yuan",
+    "Qianqian Xie",
+    "Sophia Ananiadou"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-acl.518",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.518/"
+}

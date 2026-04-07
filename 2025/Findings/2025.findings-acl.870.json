@@ -1,0 +1,19 @@
+{
+  "title": "SeqMMR: Sequential Model Merging and LLM Routing for Enhanced Batched Sequential Knowledge Editing",
+  "authors": [
+    "Shanbao Qiao",
+    "Xuebing Liu",
+    "Akshat Gupta",
+    "Seung-hoon Na"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.870",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.870/"
+}

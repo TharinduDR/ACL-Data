@@ -1,0 +1,22 @@
+{
+  "title": "CoMuMDR: Code-mixed Multi-modal Multi-domain corpus for Discourse paRsing in conversations",
+  "authors": [
+    "Divyaksh Shukla",
+    "Ritesh Baviskar",
+    "Dwijesh Gohil",
+    "Aniket Tiwari",
+    "Atul Shree",
+    "Ashutosh Modi"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T05 Discourse and Pragmatics",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.findings-acl.565",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.565/"
+}

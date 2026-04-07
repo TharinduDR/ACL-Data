@@ -1,0 +1,27 @@
+{
+  "title": "MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning",
+  "authors": [
+    "Ke Wang",
+    "Junting Pan",
+    "Linda Wei",
+    "Aojun Zhou",
+    "Weikang Shi",
+    "Zimu Lu",
+    "Han Xiao",
+    "Yunqiao Yang",
+    "Houxing Ren",
+    "Mingjie Zhan",
+    "Hongsheng Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T27 Code generation and programming languages",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.findings-acl.128",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.128/"
+}

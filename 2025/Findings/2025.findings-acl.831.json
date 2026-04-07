@@ -1,0 +1,24 @@
+{
+  "title": "DPGA-TextSyn: Differentially Private Genetic Algorithm for Synthetic Text Generation",
+  "authors": [
+    "Zhonghao Sun",
+    "Zhihliang Tian",
+    "Yiping Song",
+    "Yuyi Si",
+    "Juhua Zhang",
+    "Minlie Huang",
+    "Kai Lu",
+    "Zeyu Xiong",
+    "Xinwang Liu",
+    "Dongsheng Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-acl.831",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.831/"
+}

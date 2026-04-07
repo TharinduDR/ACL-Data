@@ -1,0 +1,37 @@
+{
+  "title": "LLM-based Translation Inference with Iterative Bilingual Understanding",
+  "authors": [
+    "Andong Chen",
+    "Kehai Chen",
+    "Yang Xiang",
+    "Xuefeng Bai",
+    "Muyun Yang",
+    "Yang Feng",
+    "Tiejun Zhao",
+    "Min Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Japanese",
+    "Czech",
+    "Ukrainian",
+    "Croatian",
+    "Russian",
+    "Hindi",
+    "Tamil",
+    "Telugu",
+    "French",
+    "Spanish",
+    "Yakut",
+    "Livonian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.867",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.867/"
+}

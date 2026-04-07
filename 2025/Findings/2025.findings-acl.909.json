@@ -1,0 +1,20 @@
+{
+  "title": "Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in Multimodal Large Language Models for Chest X-ray Report Generation",
+  "authors": [
+    "Yunsoo Kim",
+    "Jinge Wu",
+    "Su-Hwan Kim",
+    "Pardeep Vasudev",
+    "Jiashu Shen",
+    "Honghan Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-acl.909",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.909/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Revisiting In-Context Learning with Long Context Language Models",
+  "authors": [
+    "Jinheon Baek",
+    "Sun Jae Lee",
+    "Prakhar Gupta",
+    "Geunseob (GS) Oh",
+    "Siddharth Dalmia",
+    "Prateek Kolhar"
+  ],
+  "languages": [
+    "English",
+    "Bemba",
+    "Kurdish",
+    "Ewe",
+    "Spanish",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-acl.1382",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1382/"
+}

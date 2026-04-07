@@ -1,0 +1,53 @@
+{
+  "title": "The Linguistic Connectivities Within Large Language Models",
+  "authors": [
+    "Dan Wang",
+    "Boxi Cao",
+    "Ning Bian",
+    "Xuanang Chen",
+    "Yaojie Lu",
+    "Hongyu Lin",
+    "Jia Zheng",
+    "Le Sun",
+    "Shanshan Jiang",
+    "Bin Dong",
+    "Xianpei Han"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "French",
+    "Arabic",
+    "Spanish",
+    "Portuguese",
+    "Russian",
+    "Italian",
+    "Dutch",
+    "Turkish",
+    "Korean",
+    "Japanese",
+    "Thai",
+    "Vietnamese",
+    "Indonesian",
+    "Malay",
+    "Bengali",
+    "Hindi",
+    "Marathi",
+    "Tamil",
+    "Telugu",
+    "Kannada",
+    "Malayalam",
+    "Sinhala",
+    "Burmese",
+    "Khmer",
+    "Lao"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.456",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.456/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "BenNumEval: A Benchmark to Assess LLMs' Numerical Reasoning Capabilities in Bengali",
+  "authors": [
+    "Kawsar Ahmed",
+    "Md Osama",
+    "Omar Sharif",
+    "Eftekhur Hossain",
+    "Mohammed Moshiul Hoque"
+  ],
+  "languages": [
+    "Bengali"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.findings-acl.915",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.915/"
+}

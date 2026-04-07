@@ -1,0 +1,26 @@
+{
+  "title": "Revisiting Self-Consistency from Dynamic Distributional Alignment Perspective on Answer Aggregation",
+  "authors": [
+    "Yiwei Li",
+    "Ji Zhang",
+    "Shaoxiong Feng",
+    "Peiwen Yuan",
+    "Xinglin Wang",
+    "Jiayi Shi",
+    "Yueqi Zhang",
+    "Chuyi Tan",
+    "Boyuan Pan",
+    "Yao Hu",
+    "Kan Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.1293",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1293/"
+}

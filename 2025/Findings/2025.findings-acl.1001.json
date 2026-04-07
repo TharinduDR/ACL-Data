@@ -1,0 +1,21 @@
+{
+  "title": "Out-of-Distribution Detection via LLM-Guided Outlier Generation for Text-attributed Graph",
+  "authors": [
+    "Xiangwei Lv",
+    "Mengze Li",
+    "Jingyuan Chen",
+    "Zhiang Dong",
+    "Sirui Han",
+    "Beishui Liao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1001",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1001/"
+}

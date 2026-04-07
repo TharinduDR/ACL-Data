@@ -1,0 +1,20 @@
+{
+  "title": "scRAG: Hybrid Retrieval-Augmented Generation for LLM-based Cross-Tissue Single-Cell Annotation",
+  "authors": [
+    "Zhiyin Yu",
+    "Chao Zheng",
+    "Chong Chen",
+    "Xian-Sheng Hua",
+    "Xiao Luo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.findings-acl.53",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.53/"
+}

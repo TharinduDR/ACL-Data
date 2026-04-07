@@ -1,0 +1,24 @@
+{
+  "title": "AMoPO: Adaptive Multi-objective Preference Optimization without Reward Models and Reference Models",
+  "authors": [
+    "Qi Liu",
+    "Jingqing Ruan",
+    "Hao Li",
+    "Haodong Zhao",
+    "Desheng Wang",
+    "Jiansong Chen",
+    "Guanglu Wan",
+    "Xunliang Cai",
+    "Zhi Zheng",
+    "Tong Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.462",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.462/"
+}

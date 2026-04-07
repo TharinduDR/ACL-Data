@@ -1,0 +1,23 @@
+{
+  "title": "Neuro-Symbolic Query Compiler",
+  "authors": [
+    "Yuyao Zhang",
+    "Zhicheng Dou",
+    "Xiaoxi Li",
+    "Jiajie Jin",
+    "Yongkang Wu",
+    "Zhonghua Li",
+    "Qi Ye",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.findings-acl.628",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.628/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Dictionaries to the Rescue: Cross-Lingual Vocabulary Transfer for Low-Resource Languages Using Bilingual Dictionaries",
+  "authors": [
+    "Haruki Sakajo",
+    "Yusuke Ide",
+    "Justin Vasselli",
+    "Yusuke Sakai",
+    "Yingtao Tian",
+    "Hidetaka Kamigaito",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "German",
+    "Japanese",
+    "Old English",
+    "Uyghur",
+    "Sanskrit",
+    "Khmer",
+    "Manchu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.findings-acl.1333",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1333/"
+}

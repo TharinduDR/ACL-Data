@@ -1,0 +1,23 @@
+{
+  "title": "GLiM: Integrating Graph Transformer and LLM for Document-Level Biomedical Relation Extraction with Incomplete Labeling",
+  "authors": [
+    "Hao Fang",
+    "Yuejie Zhang",
+    "Rui Feng",
+    "Yingwen Wang",
+    "Qing Wang",
+    "Wen He",
+    "Xiaobo Zhang",
+    "Tao Zhang",
+    "Shang Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-acl.727",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.727/"
+}

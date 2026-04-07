@@ -1,0 +1,19 @@
+{
+  "title": "Biases Propagate in Encoder-based Vision-Language Models: A Systematic Analysis From Intrinsic Measures to Zero-shot Retrieval Outcomes",
+  "authors": [
+    "Kshitish Ghate",
+    "Tessa Charlesworth",
+    "Mona Diab",
+    "Aylin Caliskan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.findings-acl.955",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.955/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Continued Pretraining and Interpretability-Based Evaluation for Low-Resource Languages: A Galician Case Study",
+  "authors": [
+    "Pablo Rodríguez",
+    "Silvia Paniagua Suárez",
+    "Pablo Gamallo",
+    "Susana Sotelo Docio"
+  ],
+  "languages": [
+    "Galician",
+    "Spanish",
+    "Portuguese",
+    "English",
+    "Catalan"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.findings-acl.240",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.240/"
+}

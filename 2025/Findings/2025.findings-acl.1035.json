@@ -1,0 +1,24 @@
+{
+  "title": "ShortGPT: Layers in Large Language Models are More Redundant Than You Expect",
+  "authors": [
+    "Xin Men",
+    "Mingyu Xu",
+    "Qingyu Zhang",
+    "Qianhao Yuan",
+    "Bingning Wang",
+    "Hongyu Lin",
+    "Yaojie Lu",
+    "Xianpei Han",
+    "Weipeng Chen"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1035",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1035/"
+}

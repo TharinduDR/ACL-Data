@@ -1,0 +1,26 @@
+{
+  "title": "BayesKD: Bayesian Knowledge Distillation for Compact LLMs in Constrained Fine-tuning Scenarios",
+  "authors": [
+    "Wei Li",
+    "Lujun Li",
+    "Mark Lee",
+    "Shengjie Sun",
+    "Lei Zhang",
+    "Wei Xue",
+    "Yike Guo"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Romanian",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.7",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.7/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Semantic Aware Linear Transfer by Recycling Pre-trained Language Models for Cross-lingual Transfer",
+  "authors": [
+    "Seungyoon Lee",
+    "Seongtae Hong",
+    "Hyeonseok Moon",
+    "Heuiseok Lim"
+  ],
+  "languages": [
+    "German",
+    "Arabic",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.832",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.832/"
+}

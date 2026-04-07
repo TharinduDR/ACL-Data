@@ -1,0 +1,51 @@
+{
+  "title": "Statement-Tuning Enables Efficient Cross-lingual Generalization in Encoder-only Models",
+  "authors": [
+    "Ahmed Elshabrawy",
+    "Thanh-Nhi Nguyen",
+    "Yeeun Kang",
+    "Lihan Feng",
+    "Annant Jain",
+    "Faadil A. Shaikh",
+    "Jonibek Mansurov",
+    "Mohamed Fazli Imam",
+    "Jesus-German Ortiz-Barajas",
+    "Rendi Chevi",
+    "Alham Fikri Aji"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Arabic",
+    "Hindi",
+    "German",
+    "Indonesian",
+    "Italian",
+    "Russian",
+    "Swahili",
+    "Chinese",
+    "Portuguese",
+    "Spanish",
+    "Turkish",
+    "Vietnamese",
+    "Kazakh",
+    "Kyrgyz",
+    "Maltese",
+    "Chichewa",
+    "Igbo",
+    "Icelandic",
+    "Korean",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.findings-acl.835",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.835/"
+}

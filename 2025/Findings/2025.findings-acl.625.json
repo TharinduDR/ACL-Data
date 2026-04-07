@@ -1,0 +1,20 @@
+{
+  "title": "WebNLG-IT: Construction of an aligned RDF-Italian corpus through Machine Translation techniques",
+  "authors": [
+    "Michael Oliverio",
+    "Pier Felice Balestrucci",
+    "Alessandro Mazzei",
+    "Valerio Basile"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.625",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.625/"
+}

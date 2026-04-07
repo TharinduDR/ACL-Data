@@ -1,0 +1,23 @@
+{
+  "title": "UnrealLLM: Towards Highly Controllable and Interactable 3D Scene Generation by LLM-powered Procedural Content Generation",
+  "authors": [
+    "Song Tang",
+    "Kaiyong Zhao",
+    "Lei Wang",
+    "Yuliang Li",
+    "Xuebo Liu",
+    "Junyi Zou",
+    "Qiang Wang",
+    "Xiaowen Chu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.994",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.994/"
+}

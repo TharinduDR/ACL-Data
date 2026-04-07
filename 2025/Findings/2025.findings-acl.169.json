@@ -1,0 +1,23 @@
+{
+  "title": "LONGFAITH: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data",
+  "authors": [
+    "Cehao Yang",
+    "Xueyuan Lin",
+    "Chengjin Xu",
+    "Xuhui Jiang",
+    "Shengjie Ma",
+    "Aofan Liu",
+    "Hui Xiong",
+    "Jian Guo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.169",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.169/"
+}

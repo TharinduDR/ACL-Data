@@ -1,0 +1,23 @@
+{
+  "title": "Multimodal Causal Reasoning Benchmark: Challenging Multimodal Large Language Models to Discern Causal Links Across Modalities",
+  "authors": [
+    "Zhiyuan Li",
+    "Heng Wang",
+    "Dongnan Liu",
+    "Chaoyi Zhang",
+    "Ao Ma",
+    "Jieting Long",
+    "Weidong Cai"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.288",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.288/"
+}

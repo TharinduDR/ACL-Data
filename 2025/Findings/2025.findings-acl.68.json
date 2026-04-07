@@ -1,0 +1,20 @@
+{
+  "title": "MoRE: A Mixture of Low-Rank Experts for Adaptive Multi-Task Learning",
+  "authors": [
+    "Dacao Zhang",
+    "Kun Zhang",
+    "Shimao Chu",
+    "Le Wu",
+    "Xin Li",
+    "Si Wei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.68",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.68/"
+}

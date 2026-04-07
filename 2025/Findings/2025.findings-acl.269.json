@@ -1,0 +1,21 @@
+{
+  "title": "Dynamic Attention-Guided Context Decoding for Mitigating Context Faithfulness Hallucinations in Large Language Models",
+  "authors": [
+    "Yanwen Huang",
+    "Yong Zhang",
+    "Ning Cheng",
+    "Zhitao Li",
+    "Shaojun Wang",
+    "Jing Xiao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.269",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.269/"
+}

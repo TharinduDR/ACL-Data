@@ -1,0 +1,19 @@
+{
+  "title": "ArgInstruct: Specialized Instruction Fine-Tuning for Computational Argumentation",
+  "authors": [
+    "Maja Stahl",
+    "Timon Ziegenbein",
+    "Joonsuk Park",
+    "Henning Wachsmuth"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.findings-acl.579",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.579/"
+}

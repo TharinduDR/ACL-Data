@@ -1,0 +1,23 @@
+{
+  "title": "RoleMRC: A Fine-Grained Composite Benchmark for Role-Playing and Instruction-Following",
+  "authors": [
+    "Junru Lu",
+    "Jiazhen Li",
+    "Guodong Shen",
+    "Lin Gui",
+    "Siyu An",
+    "Yulan He",
+    "Di Yin",
+    "Xing Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.1082",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1082/"
+}

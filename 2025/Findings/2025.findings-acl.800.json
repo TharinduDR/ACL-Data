@@ -1,0 +1,21 @@
+{
+  "title": "PISCO: Pretty Simple Compression for Retrieval-Augmented Generation",
+  "authors": [
+    "Maxime LOUIS",
+    "Hervé Dejean",
+    "Stéphane Clinchant"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Korean",
+    "Russian"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-acl.800",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.800/"
+}

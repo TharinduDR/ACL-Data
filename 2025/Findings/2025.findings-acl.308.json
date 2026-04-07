@@ -1,0 +1,23 @@
+{
+  "title": "ProMedTS: A Self-Supervised, Prompt-Guided Multimodal Approach for Integrating Medical Text and Time Series",
+  "authors": [
+    "Shuai Niu",
+    "Jing Ma",
+    "Hongzhan Lin",
+    "Liang Bai",
+    "Zhihua Wang",
+    "Wei Bi",
+    "Yida Xu",
+    "Guo Li",
+    "Xian Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-acl.308",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.308/"
+}

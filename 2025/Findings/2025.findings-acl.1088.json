@@ -1,0 +1,27 @@
+{
+  "title": "Implicit Cross-Lingual Rewarding for Efficient Multilingual Preference Alignment",
+  "authors": [
+    "Wen Yang",
+    "Junhong Wu",
+    "Chen Wang",
+    "Chengqing Zong",
+    "Jiajun Zhang"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Russian",
+    "German",
+    "French",
+    "Bengali",
+    "Swahili",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1088",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1088/"
+}

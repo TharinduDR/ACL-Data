@@ -1,0 +1,20 @@
+{
+  "title": "Bandit-Based Prompt Design Strategy Selection Improves Prompt Optimizers",
+  "authors": [
+    "Rin Ashizawa",
+    "Yoichi Hirose",
+    "Nozomu Yoshinari",
+    "Kento Uchida",
+    "Shinichi Shirakawa"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.1070",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1070/"
+}

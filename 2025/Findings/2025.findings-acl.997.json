@@ -1,0 +1,18 @@
+{
+  "title": "KVPR: Efficient LLM Inference with I/O-Aware KV Cache Partial Recomputation",
+  "authors": [
+    "Chaoyi Jiang",
+    "Lei Gao",
+    "Hossein Entezari Zarch",
+    "Murali Annavarm"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-acl.997",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.997/"
+}

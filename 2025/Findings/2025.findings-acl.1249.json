@@ -1,0 +1,22 @@
+{
+  "title": "Full-Step-DPO: Self-Supervised Preference Optimization with Step-wise Rewards for Mathematical Reasoning",
+  "authors": [
+    "Huimin Xu",
+    "Xin Mao",
+    "Feng-Lin Li",
+    "Xiaobao Wu",
+    "Wang Chen",
+    "Wei Zhang",
+    "Anh Tuan Luu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.findings-acl.1249",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1249/"
+}

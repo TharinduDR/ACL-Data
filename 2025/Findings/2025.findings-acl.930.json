@@ -1,0 +1,22 @@
+{
+  "title": "Process-based Self-Rewarding Language Models",
+  "authors": [
+    "Shimao Zhang",
+    "Xiao Liu",
+    "Xin Zhang",
+    "Junxiao Liu",
+    "Zheheng Luo",
+    "Shujian Huang",
+    "Yeyun Gong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.930",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.930/"
+}

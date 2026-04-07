@@ -1,0 +1,25 @@
+{
+  "title": "Reason from Future: Reverse Thought Chain Enhances LLM Reasoning",
+  "authors": [
+    "Yinlong Xu",
+    "Yanzhao Zheng",
+    "Shuoshuo Sun",
+    "Shuaihan Huang",
+    "Baohua Dong",
+    "Hangcheng Zhu",
+    "Ruohui Huang",
+    "Gang Yu",
+    "Hongxia Xu",
+    "Jian Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.1290",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1290/"
+}

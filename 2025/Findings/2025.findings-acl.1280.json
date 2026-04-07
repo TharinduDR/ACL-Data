@@ -1,0 +1,21 @@
+{
+  "title": "WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts",
+  "authors": [
+    "Negar Foroutan",
+    "Angelika Romanou",
+    "Matin Ansaripour",
+    "Julian Martin Eisenschlos",
+    "Karl Aberer",
+    "Rémi Lebret"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1280",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1280/"
+}

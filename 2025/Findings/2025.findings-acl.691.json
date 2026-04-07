@@ -1,0 +1,19 @@
+{
+  "title": "Multi-Sense Embeddings for Language Models and Knowledge Distillation",
+  "authors": [
+    "Qitong Wang",
+    "Mohammed J. Zaki",
+    "Georgios Kollias",
+    "Vasileios Kalantzis"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.findings-acl.691",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.691/"
+}

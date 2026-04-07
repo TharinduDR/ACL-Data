@@ -1,0 +1,23 @@
+{
+  "title": "MiLiC-Eval: Benchmarking Multilingual LLMs for China's Minority Languages",
+  "authors": [
+    "Chen Zhang",
+    "Mingxu Tao",
+    "Zhiyuan Liao",
+    "Yansong Feng"
+  ],
+  "languages": [
+    "Chinese",
+    "Tibetan",
+    "Uyghur",
+    "Kazakh",
+    "Mongolian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.578",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.578/"
+}

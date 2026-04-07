@@ -1,0 +1,20 @@
+{
+  "title": "Compute Optimal Scaling of Skills: Knowledge vs Reasoning",
+  "authors": [
+    "Nicholas Roberts",
+    "Niladri Chatterji",
+    "Sharan Narang",
+    "Mike Lewis",
+    "Dieuwke Hupkes"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.688",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.688/"
+}

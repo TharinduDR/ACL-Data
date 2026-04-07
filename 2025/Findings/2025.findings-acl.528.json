@@ -1,0 +1,30 @@
+{
+  "title": "DI-BENCH: Benchmarking Large Language Models on Dependency Inference with Testable Repositories at Scale",
+  "authors": [
+    "Linghao Zhang",
+    "Junhao Wang",
+    "Shilin He",
+    "Chaoyun Zhang",
+    "Yu Kang",
+    "Bowen Li",
+    "Jiaheng Wen",
+    "Chengxing Xie",
+    "Maoquan Wang",
+    "Yufan Huang",
+    "Elsie Nallipogu",
+    "Qingwei Lin",
+    "Yingnong Dang",
+    "Saravan Rajmohan",
+    "Dongmei Zhang",
+    "Qi Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.528",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.528/"
+}

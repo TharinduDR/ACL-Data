@@ -1,0 +1,23 @@
+{
+  "title": "LADDER: Language-Driven Slice Discovery and Error Rectification in Vision Classifiers",
+  "authors": [
+    "Shantanu Ghosh",
+    "Rayan Syed",
+    "Chenyu Wang",
+    "Vaibhav Choudhary",
+    "Bin Xu Li",
+    "Clare B Poynton",
+    "Shyam Visweswaran",
+    "Kayhan Batmanghelich"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.1177",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1177/"
+}

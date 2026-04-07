@@ -1,0 +1,19 @@
+{
+  "title": "Safeguarding RAG Pipelines with GMTP: A Gradient-based Masked Token Probability Method for Poisoned Document Detection",
+  "authors": [
+    "San Kim",
+    "Jonghwi Kim",
+    "Yejin Jeon",
+    "Gary Geunbae Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.1263",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1263/"
+}

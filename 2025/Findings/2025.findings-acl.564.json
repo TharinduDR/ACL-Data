@@ -1,0 +1,25 @@
+{
+  "title": "Dynamic Evil Score-Guided Decoding: An Efficient Decoding Framework For Red-Team Model",
+  "authors": [
+    "Cong Gao",
+    "Bo Zhang",
+    "Linkang Yang",
+    "Minghao Hu",
+    "Zhunchen Luo",
+    "Xiaoying Bai",
+    "Guotong Geng",
+    "Jun Zhang",
+    "Yunhua Xue"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.564",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.564/"
+}

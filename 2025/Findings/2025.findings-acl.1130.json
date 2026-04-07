@@ -1,0 +1,28 @@
+{
+  "title": "Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting",
+  "authors": [
+    "Hao Feng",
+    "Shu Wei",
+    "Xiang Fei",
+    "Wei Shi",
+    "Yingdong Han",
+    "Lei Liao",
+    "Jinghui Lu",
+    "Binghong Wu",
+    "Qi Liu",
+    "Chunhui Lin",
+    "Jingqun Tang",
+    "Hao Liu",
+    "Can Huang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.findings-acl.1130",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1130/"
+}

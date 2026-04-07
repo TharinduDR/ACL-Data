@@ -1,0 +1,24 @@
+{
+  "title": "Semantic Evaluation of Multilingual Knowledge Graph-to-Text Generation via NLI Fine-Tuning: Precision, Recall and F1 scores",
+  "authors": [
+    "William Soto Martinez",
+    "Yannick Parmentier",
+    "Claire Gardent"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Breton",
+    "Irish",
+    "Maltese",
+    "Welsh",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.542",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.542/"
+}

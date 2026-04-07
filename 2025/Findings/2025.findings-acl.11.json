@@ -1,0 +1,22 @@
+{
+  "title": "Multi-Prompting Decoder Helps Better Language Understanding",
+  "authors": [
+    "Zifeng Cheng",
+    "Zhaoling Chen",
+    "Zhiwei Jiang",
+    "Yafeng Yin",
+    "Cong Wang",
+    "Shiping Ge",
+    "Qing Gu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2025.findings-acl.11",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.11/"
+}

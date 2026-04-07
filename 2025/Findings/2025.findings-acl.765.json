@@ -1,0 +1,22 @@
+{
+  "title": "Benchmarking Query-Conditioned Natural Language Inference",
+  "authors": [
+    "Marc E. Canby",
+    "Xinchi Chen",
+    "Xing Niu",
+    "Jifan Chen",
+    "Bonan Min",
+    "Sergul Aydore",
+    "Vittorio Castelli"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-acl.765",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.765/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "M³FinMeeting: A Multilingual, Multi-Sector, and Multi-Task Financial Meeting Understanding Evaluation Dataset",
+  "authors": [
+    "Jie Zhu",
+    "Junhui Li",
+    "Yalong Wen",
+    "Xiangdong Li",
+    "Lifan Guo",
+    "Feng Chen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-acl.14",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.14/"
+}

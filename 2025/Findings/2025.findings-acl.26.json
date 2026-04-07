@@ -1,0 +1,23 @@
+{
+  "title": "Translate With Care: Addressing Gender Bias, Neutrality, and Reasoning in Large Language Model Translations",
+  "authors": [
+    "Pardis Sadat Zahraei",
+    "Ali Emami"
+  ],
+  "languages": [
+    "English",
+    "Persian",
+    "Turkish",
+    "Indonesian",
+    "Finnish",
+    "Estonian",
+    "Azerbaijani"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.26",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.26/"
+}

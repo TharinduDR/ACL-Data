@@ -1,0 +1,27 @@
+{
+  "title": "LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-Context QA",
+  "authors": [
+    "Jiajie Zhang",
+    "Yushi Bai",
+    "Xin Lv",
+    "Wanjun Gu",
+    "Danqing Liu",
+    "Minhao Zou",
+    "Shulin Cao",
+    "Lei Hou",
+    "Yuxiao Dong",
+    "Ling Feng",
+    "Juanzi Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.264",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.264/"
+}

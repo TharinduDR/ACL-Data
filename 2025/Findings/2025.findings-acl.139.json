@@ -1,0 +1,22 @@
+{
+  "title": "Revisiting LoRA through the Lens of Parameter Redundancy: Spectral Encoding Helps",
+  "authors": [
+    "Jiashun Cheng",
+    "Aochuan Chen",
+    "Nuo Chen",
+    "Ziqi Gao",
+    "Yuhan Li",
+    "Jia Li",
+    "Fugee Tsung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.139",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.139/"
+}

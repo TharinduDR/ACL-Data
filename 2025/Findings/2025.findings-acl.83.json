@@ -1,0 +1,23 @@
+{
+  "title": "Proverbs Run in Pairs: Evaluating Proverb Translation Capability of Large Language Model",
+  "authors": [
+    "Minghan Wang",
+    "Viet-Thanh Pham",
+    "Farhad Moghimifar",
+    "Thuy-Trang Vu"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "German",
+    "Indonesian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.findings-acl.83",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.83/"
+}

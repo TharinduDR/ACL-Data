@@ -1,0 +1,31 @@
+{
+  "title": "Adversarial Preference Learning for Robust LLM Alignment",
+  "authors": [
+    "Yuanfu Wang",
+    "Pengyu Wang",
+    "Chenyang Xi",
+    "Bo Tang",
+    "Junyi Zhu",
+    "Wenqiang Wei",
+    "Chen Chen",
+    "Chao Yang",
+    "Jingfeng Zhang",
+    "Chaochao Lu",
+    "Yijun Niu",
+    "Keming Mao",
+    "Zhiyu Li",
+    "Feiyu Xiong",
+    "Jie Hu",
+    "Mingchuan Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1126",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1126/"
+}

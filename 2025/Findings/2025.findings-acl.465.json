@@ -1,0 +1,19 @@
+{
+  "title": "Sampling-based Pseudo-Likelihood for Membership Inference Attacks",
+  "authors": [
+    "Masahiro Kaneko",
+    "Youmi Ma",
+    "Yuki Wata",
+    "Naoaki Okazaki"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.465",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.465/"
+}

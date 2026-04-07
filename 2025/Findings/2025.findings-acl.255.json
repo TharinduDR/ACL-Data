@@ -1,0 +1,22 @@
+{
+  "title": "Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation",
+  "authors": [
+    "Shuai Zhao",
+    "Xiaobao Wu",
+    "Cong-Duy Nguyen",
+    "Yanhao Jia",
+    "Meihui Zi Jia",
+    "Yichao Feng",
+    "Anh Tuan Luu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-acl.255",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.255/"
+}

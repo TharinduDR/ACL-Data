@@ -1,0 +1,21 @@
+{
+  "title": "ToolExpNet: Optimizing Multi-Tool Selection in LLMs with Similarity and Dependency-Aware Experience Networks",
+  "authors": [
+    "Zijing Zhang",
+    "Zhanpeng Chen",
+    "He Zhu",
+    "Ziyang Chen",
+    "Nan Du",
+    "Xiaolong Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.811",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.811/"
+}

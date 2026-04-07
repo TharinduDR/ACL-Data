@@ -1,0 +1,22 @@
+{
+  "title": "Accelerating Adaptive Retrieval Augmented Generation via Instruction-Driven Representation Reduction of Retrieval Overlaps",
+  "authors": [
+    "Jie Ou",
+    "Jinyu Guo",
+    "Shuaihong Jiang",
+    "Zhaokun Wang",
+    "Libo Qin",
+    "Shunyu Yao",
+    "Wenhong Tian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.findings-acl.1384",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1384/"
+}

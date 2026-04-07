@@ -1,0 +1,21 @@
+{
+  "title": "ESF: Efficient Sensitive Fingerprinting for Black-Box Tamper Detection of Large Language Models",
+  "authors": [
+    "Xiaofan Bai",
+    "Pingyi Hu",
+    "Xiaoqing Ma",
+    "Linchen Yu",
+    "Dongmei Zhang",
+    "Qi Zhang",
+    "Bin Benjamin Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.findings-acl.546",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.546/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Synergistic Augmentation: Enhancing Cross-Domain Zero-Shot Slot Filling with Small Model-Assisted Large Language Models",
+  "authors": [
+    "Weizhen Li",
+    "Junbao Huang",
+    "Peijie Huang",
+    "Yuhong Xu",
+    "Jiekun Fan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.findings-acl.1097",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1097/"
+}

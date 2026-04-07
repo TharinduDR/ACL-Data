@@ -1,0 +1,20 @@
+{
+  "title": "ClozeMath: Improving Mathematical Reasoning in Language Models by Learning to Fill Equations",
+  "authors": [
+    "Quang Hieu Pham",
+    "Thuy Duong Nguyen",
+    "Tung Pham",
+    "Anh Tuan Luu",
+    "Dat Quoc Nguyen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.findings-acl.738",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.738/"
+}

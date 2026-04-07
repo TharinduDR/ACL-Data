@@ -1,0 +1,22 @@
+{
+  "title": "BOSE: A Systematic Evaluation Method Optimized for Base Models",
+  "authors": [
+    "Hongzhi Luan",
+    "Changxin Tian",
+    "Zhaoxin Huan",
+    "Xiaolu Zhang",
+    "Kunlong Chen",
+    "Zhiqiang Zhang",
+    "Jun Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.830",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.830/"
+}

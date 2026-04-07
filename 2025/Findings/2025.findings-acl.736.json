@@ -1,0 +1,19 @@
+{
+  "title": "Robust Data Watermarking in Language Models by Injecting Fictitious Knowledge",
+  "authors": [
+    "Xinyue Cui",
+    "Johnny Tian-Zheng Wei",
+    "Swabha Swayamdipta",
+    "Robin Jia"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.736",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.736/"
+}

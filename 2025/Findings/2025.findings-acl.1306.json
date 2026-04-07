@@ -1,0 +1,23 @@
+{
+  "title": "ELI-WHY: Evaluating the Pedagogical Utility of Language Model Explanations",
+  "authors": [
+    "Brihi Joshi",
+    "Keyu He",
+    "Sahana Ramnath",
+    "Sadra Sabouri",
+    "Kaitlyn Zhou",
+    "Souti Chattopadhyay",
+    "Swabha Swayamdipta",
+    "Xiang Ren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1306",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1306/"
+}

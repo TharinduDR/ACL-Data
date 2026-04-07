@@ -1,0 +1,28 @@
+{
+  "title": "MLINGCONF: A Comprehensive Study of Multilingual Confidence Estimation on Large Language Models",
+  "authors": [
+    "Boyang Xue",
+    "Hongru Wang",
+    "Rui Wang",
+    "Sheng Wang",
+    "Zezhong Wang",
+    "Yiming Du",
+    "Bin Liang",
+    "Wenxuan Zhang",
+    "Kam-Fai Wong"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "French",
+    "Thai"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.129",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.129/"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "SEA-HELM: Southeast Asian Holistic Evaluation of Language Models",
+  "authors": [
+    "Yosephine Susanto",
+    "Adithya Venkatadri Hulagadri",
+    "Jann Railey Montalan",
+    "Jian Gang Ngui",
+    "Xian Bin Yong",
+    "Weiqi Leong",
+    "Hamsawardhini Rengarajan",
+    "Peerat Limkonchotiwat",
+    "Yifan Mai",
+    "William Chandra Tjhi"
+  ],
+  "languages": [
+    "Filipino",
+    "Indonesian",
+    "Tamil",
+    "Thai",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2025.findings-acl.636",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.636/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SIKeD: Self-guided Iterative Knowledge Distillation for Mathematical Reasoning",
+  "authors": [
+    "Shivam Adarsh",
+    "Kumar Shridhar",
+    "Caglar Gulcehre",
+    "Nicholas Monath",
+    "Mrinmaya Sachan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.513",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.513/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Is LLM an Overconfident Judge? Unveiling the Capabilities of LLMs in Detecting Offensive Language with Annotation Disagreement",
+  "authors": [
+    "Junyu Lu",
+    "Kai Ma",
+    "Kaichun Wang",
+    "Kelaiti Xiao",
+    "Roy Ka-Wei Lee",
+    "Bo Xu",
+    "Liang Yang",
+    "Hongfei Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.293",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.293/"
+}

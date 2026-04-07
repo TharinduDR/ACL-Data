@@ -1,0 +1,18 @@
+{
+  "title": "Low-Resource Grammatical Error Correction: Selective Data Augmentation with Round-Trip Machine Translation",
+  "authors": [
+    "Frank Palma Gomez",
+    "Alla Rozovskaya"
+  ],
+  "languages": [
+    "Russian",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.findings-acl.1322",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1322/"
+}

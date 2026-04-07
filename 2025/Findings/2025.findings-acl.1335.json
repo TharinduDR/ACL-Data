@@ -1,0 +1,28 @@
+{
+  "title": "The Million Authors Corpus: A Cross-Lingual and Cross-Domain Wikipedia Dataset for Authorship Verification",
+  "authors": [
+    "Abraham Israeli",
+    "Shuai Liu",
+    "Jonathan May",
+    "David Jurgens"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Russian",
+    "Italian",
+    "Portuguese",
+    "Polish",
+    "Dutch",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1335",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1335/"
+}

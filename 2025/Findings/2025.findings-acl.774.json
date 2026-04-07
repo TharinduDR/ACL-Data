@@ -1,0 +1,22 @@
+{
+  "title": "PGPO: Enhancing Agent Reasoning via Pseudocode-style Planning Guided Preference Optimization",
+  "authors": [
+    "Zouying Cao",
+    "Runze Wang",
+    "Yifei Yang",
+    "Xinbei Ma",
+    "Xiaoyong Zhu",
+    "Bo Zheng",
+    "Hai Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-acl.774",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.774/"
+}

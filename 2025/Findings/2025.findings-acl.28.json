@@ -1,0 +1,28 @@
+{
+  "title": "Distance between Relevant Information Pieces Causes Bias in Long-Context LLMs",
+  "authors": [
+    "Runchu Tian",
+    "Yanghao Li",
+    "Yuepeng Fu",
+    "Siyang Deng",
+    "Qinyu Luo",
+    "Cheng Qian",
+    "Shuo Wang",
+    "Xin Cong",
+    "Zhong Zhang",
+    "Yesai Wu",
+    "Yankai Lin",
+    "Huadong Wang",
+    "Xiaojiang Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.findings-acl.28",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.28/"
+}

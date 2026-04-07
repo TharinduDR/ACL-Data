@@ -1,0 +1,19 @@
+{
+  "title": "Unsupervised Morphological Tree Tokenizer",
+  "authors": [
+    "Qingyang Zhu",
+    "Xiang Hu",
+    "Pengyu Ji",
+    "Wei Wu",
+    "Kewei Tu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.findings-acl.1146",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1146/"
+}

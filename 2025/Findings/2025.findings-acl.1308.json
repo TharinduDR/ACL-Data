@@ -1,0 +1,22 @@
+{
+  "title": "CogSteer: Cognition-Inspired Selective Layer Intervention for Efficiently Steering Large Language Models",
+  "authors": [
+    "Xintong Wang",
+    "Jingheng Pan",
+    "Liang Ding",
+    "Longyue Wang",
+    "Longqin Jiang",
+    "Xingshan Li",
+    "Chris Biemann"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.findings-acl.1308",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1308/"
+}

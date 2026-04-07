@@ -1,0 +1,25 @@
+{
+  "title": "IntelliCockpitBench: A Comprehensive Benchmark to Evaluate VLMs for Intelligent Cockpit",
+  "authors": [
+    "Liang Lin",
+    "Siyuan Chai",
+    "Jiahao Wu",
+    "Hongbing Hu",
+    "Xiaotao Gu",
+    "Hao Hu",
+    "Fan Zhang",
+    "Wei Wang",
+    "Dan Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.798",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.798/"
+}

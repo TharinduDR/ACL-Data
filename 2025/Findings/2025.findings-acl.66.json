@@ -1,0 +1,20 @@
+{
+  "title": "Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety Re-Alignment for Fine-Tuned Language Models",
+  "authors": [
+    "Di Wu",
+    "Xin Lu",
+    "Yanyan Zhao",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.66",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.66/"
+}

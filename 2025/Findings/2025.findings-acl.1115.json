@@ -1,0 +1,25 @@
+{
+  "title": "A Reinforcement Learning Framework for Cross-Lingual Stance Detection Using Chain-of-Thought Alignment",
+  "authors": [
+    "Binghui Li",
+    "Minghui Zou",
+    "Xiaowang Zhang",
+    "Shizhan Chen",
+    "Zhiyong Feng"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Catalan",
+    "Spanish",
+    "Czech"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.findings-acl.1115",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1115/"
+}

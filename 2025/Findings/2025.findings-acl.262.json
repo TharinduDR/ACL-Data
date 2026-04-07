@@ -1,0 +1,19 @@
+{
+  "title": "BlockPruner: Fine-grained Pruning for Large Language Models",
+  "authors": [
+    "Longguang Zhong",
+    "Fanqi Wan",
+    "Ruijun Chen",
+    "Xiaojun Quan",
+    "Liangzhi Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.262",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.262/"
+}

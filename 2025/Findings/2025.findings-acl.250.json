@@ -1,0 +1,22 @@
+{
+  "title": "K-order Ranking Preference Optimization for Large Language Models",
+  "authors": [
+    "Shihao Cai",
+    "Chongming Gao",
+    "Yang Zhang",
+    "Wentao Shi",
+    "Jizhi Zhang",
+    "Keqin Bao",
+    "Qifan Wang",
+    "Fuli Feng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.findings-acl.250",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.250/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Explicit vs. Implicit: Investigating Social Bias in Large Language Models through Self-Reflection",
+  "authors": [
+    "Yachao Zhao",
+    "Bo Wang",
+    "Yan Wang",
+    "Dongming Zhao",
+    "Ruifang He",
+    "Yuxian Hou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.1",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1/"
+}

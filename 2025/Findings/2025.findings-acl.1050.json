@@ -1,0 +1,18 @@
+{
+  "title": "EMGLLM: Data-to-Text Alignment for Electromyogram Diagnosis Generation with Medical Numerical Data Encoding",
+  "authors": [
+    "Zefei Long",
+    "Zhenbiao Cao",
+    "Wei Chen",
+    "Zhongyu Wei"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-acl.1050",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1050/"
+}

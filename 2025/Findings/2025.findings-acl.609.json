@@ -1,0 +1,26 @@
+{
+  "title": "Cheap Character Noise for OCR-Robust Multilingual Embeddings",
+  "authors": [
+    "Andrianos Michail",
+    "Juri Opitz",
+    "Yining Wang",
+    "Robin Meister",
+    "Rico Sennrich",
+    "Simon Clematide"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "English",
+    "Luxembourgish",
+    "Arabic",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.findings-acl.609",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.609/"
+}

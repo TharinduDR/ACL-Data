@@ -1,0 +1,20 @@
+{
+  "title": "Achieving Binary Weight and Activation for LLMs Using Post-Training Quantization",
+  "authors": [
+    "Siqing Song",
+    "Chuang Wang",
+    "Ruiqi Wang",
+    "Yi Yang",
+    "Xu-Yao Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.459",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.459/"
+}

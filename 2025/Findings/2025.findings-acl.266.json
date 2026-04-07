@@ -1,0 +1,26 @@
+{
+  "title": "Combining the Best of Both Worlds: A Method for Hybrid NMT and LLM Translation",
+  "authors": [
+    "Zhanglin Wu",
+    "Daimeng Wei",
+    "Xiaoyu Chen",
+    "Hengchao Shang",
+    "Jiaxin Guo",
+    "Zongyao Li",
+    "Yuanchang Luo",
+    "Jinlong Yang",
+    "Zhiqiang Rao",
+    "Hao Yang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Japanese",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.findings-acl.266",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.266/"
+}

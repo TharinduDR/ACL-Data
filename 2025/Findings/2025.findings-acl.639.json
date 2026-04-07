@@ -1,0 +1,19 @@
+{
+  "title": "SGDPO: Self-Guided Direct Preference Optimization for Language Model Alignment",
+  "authors": [
+    "Wenqiao Zhu",
+    "Ji Liu",
+    "Lulu Wang",
+    "Jun Wu",
+    "Yulun Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.639",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.639/"
+}

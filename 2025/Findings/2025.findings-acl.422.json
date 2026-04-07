@@ -1,0 +1,29 @@
+{
+  "title": "Document Segmentation Matters for Retrieval-Augmented Generation",
+  "authors": [
+    "Zhitong Wang",
+    "Cheng Gao",
+    "Chaojun Xiao",
+    "Yufei Huang",
+    "Shuzheng Si",
+    "Kangyang Luo",
+    "Yuzhuo Bai",
+    "Wenhao Li",
+    "Tangjian Duan",
+    "Chuancheng Lv",
+    "Guoshan Lu",
+    "Gang Chen",
+    "Fanchao Qi",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-acl.422",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.422/"
+}

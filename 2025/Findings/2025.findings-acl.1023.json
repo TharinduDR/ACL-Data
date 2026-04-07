@@ -1,0 +1,26 @@
+{
+  "title": "Multimodal Large Language Models for Text-rich Image Understanding: A Comprehensive Review",
+  "authors": [
+    "Pei Fu",
+    "Tongkun Guan",
+    "Zining Wang",
+    "Zhentao Guo",
+    "Chen Duan",
+    "Hao Sun",
+    "Boming Chen",
+    "Jiayao Ma",
+    "Qianyi Jiang",
+    "Kai Zhou",
+    "Junfeng Luo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.1023",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1023/"
+}

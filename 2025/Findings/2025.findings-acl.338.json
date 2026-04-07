@@ -1,0 +1,32 @@
+{
+  "title": "Cross-lingual Multimodal Sentiment Analysis for Low-Resource Languages via Language Family Disentanglement and Rethinking Transfer",
+  "authors": [
+    "Long Chen",
+    "Shuoyu Guan",
+    "Xiaohua Huang",
+    "Wen-Jing Wang",
+    "Cai Xu",
+    "Ziyu Guan",
+    "Wei Zhao"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Occitan",
+    "Tamil",
+    "Luxembourgish",
+    "Tajik",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Javanese",
+    "Tatar"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.findings-acl.338",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.338/"
+}

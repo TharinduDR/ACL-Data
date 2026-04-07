@@ -1,0 +1,17 @@
+{
+  "title": "Lemmatisation & Morphological Analysis of Unedited Greek: Do Simple Tasks Need Complex Solutions?",
+  "authors": [
+    "Colin Swaelens",
+    "Ilse De Vos",
+    "Els Lefever"
+  ],
+  "languages": [
+    "Greek"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.findings-acl.399",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.399/"
+}

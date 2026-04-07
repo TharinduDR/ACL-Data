@@ -1,0 +1,28 @@
+{
+  "title": "InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model",
+  "authors": [
+    "Yuhang Zang",
+    "Xiaoyi Dong",
+    "Pan Zhang",
+    "Yuhang Cao",
+    "Ziyu Liu",
+    "Shengyuan Ding",
+    "Shenxi Wu",
+    "Yubo Ma",
+    "Haodong Duan",
+    "Wenwei Zhang",
+    "Kai Chen",
+    "Dahua Lin",
+    "Jiaqi Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2025.findings-acl.340",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.340/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Context-DPO: Aligning Language Models for Context-Faithfulness",
+  "authors": [
+    "Baolong Bi",
+    "Shaohan Huang",
+    "Yiwei Wang",
+    "Tianchi Yang",
+    "Zihan Zhang",
+    "Haizhen Huang",
+    "Lingrui Mei",
+    "Junfeng Fang",
+    "Zehao Li",
+    "Furu Wei",
+    "Weiwei Deng",
+    "Feng Sun",
+    "Qi Zhang",
+    "Shenghua Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.findings-acl.536",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.536/"
+}

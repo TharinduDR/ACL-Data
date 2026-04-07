@@ -1,0 +1,23 @@
+{
+  "title": "LIST: Linearly Incremental SQL Translator for Single-Hop Reasoning, Generation and Verification",
+  "authors": [
+    "Kaiyuan Guan",
+    "Ruoxin Li",
+    "Xudong Guo",
+    "Zhenning Huang",
+    "Xudong Weng",
+    "Hehuan Liu",
+    "Zheng Wei",
+    "Zang Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.1277",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1277/"
+}

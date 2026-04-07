@@ -1,0 +1,26 @@
+{
+  "title": "CA-GAR: Context-Aware Alignment of LLM Generation for Document Retrieval",
+  "authors": [
+    "Heng Yu",
+    "Junfeng Kang",
+    "Rui Li",
+    "Qi Liu",
+    "Liyang He",
+    "Zhenya Huang",
+    "Shuanghong Shen",
+    "Junyu Lu"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Swahili",
+    "Telugu",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.findings-acl.303",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.303/"
+}

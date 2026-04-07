@@ -1,0 +1,33 @@
+{
+  "title": "Towards Better Understanding of Program-of-Thought Reasoning in Cross-Lingual and Multilingual Environments",
+  "authors": [
+    "Patomporn Payougkhamdee",
+    "Pume Tuchinda",
+    "Jinheon Baek",
+    "Samuel Cahyawijaya",
+    "Can Udomcharoenchaikit",
+    "Potsawee Manakul",
+    "Peerat Limkonchotiwat",
+    "Ekapol Chuangsuwanich",
+    "Sarana Nutanong"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Russian",
+    "Chinese",
+    "Japanese",
+    "Thai",
+    "Swahili",
+    "Bengali"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T27 Code generation and programming languages",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.findings-acl.817",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.817/"
+}

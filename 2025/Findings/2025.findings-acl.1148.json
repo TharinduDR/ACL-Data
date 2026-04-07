@@ -1,0 +1,27 @@
+{
+  "title": "Towards Global AI Inclusivity: A Large-Scale Multilingual Terminology Dataset (GIST)",
+  "authors": [
+    "Jiarui Liu",
+    "Iman Ouzzani",
+    "Wen Kai Li",
+    "Lechen Zhang",
+    "Tianyue Ou",
+    "Houda Bouamor",
+    "Zhijing Jin",
+    "Mona Diab"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "French",
+    "Japanese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1148",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1148/"
+}

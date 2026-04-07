@@ -1,0 +1,44 @@
+{
+  "title": "Scaling Laws for Multilingual Language Models",
+  "authors": [
+    "Yifei He",
+    "Alon Benhaim",
+    "Barun Patra",
+    "Praneetha Vaddamanu",
+    "Sanchit Ahuja",
+    "Vishrav Chaudhary",
+    "Han Zhao",
+    "Xia Song"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Dutch",
+    "Danish",
+    "Spanish",
+    "French",
+    "Italian",
+    "Romanian",
+    "Catalan",
+    "Russian",
+    "Ukrainian",
+    "Slovak",
+    "Serbian",
+    "Croatian",
+    "Hindi",
+    "Bengali",
+    "Nepali",
+    "Marathi",
+    "Tamil",
+    "Telugu",
+    "Kannada",
+    "Malayalam",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.findings-acl.221",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.221/"
+}

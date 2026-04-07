@@ -1,0 +1,31 @@
+{
+  "title": "DoCIA: An Online Document-Level Context Incorporation Agent for Speech Translation",
+  "authors": [
+    "Xinglin Lyu",
+    "Wei Tang",
+    "Yuang Li",
+    "Xiaofeng Zhao",
+    "Ming Zhu",
+    "Junhui Li",
+    "Yunfei Lu",
+    "Min Zhang",
+    "Daimeng Wei",
+    "Hao Yang",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.771",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.771/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Self-Reasoning Language Models: Unfold Hidden Reasoning Chains with Few Reasoning Catalyst",
+  "authors": [
+    "Hongru Wang",
+    "Deng Cai",
+    "Wanjun Zhong",
+    "Shijue Huang",
+    "Jeff Z. Pan",
+    "Zeming Liu",
+    "Kam-Fai Wong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.291",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.291/"
+}

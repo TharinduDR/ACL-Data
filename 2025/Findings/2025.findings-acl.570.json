@@ -1,0 +1,20 @@
+{
+  "title": "LSC-Eval: A General Framework to Evaluate Methods for Assessing Dimensions of Lexical Semantic Change Using LLM-Generated Synthetic Data",
+  "authors": [
+    "Naomi Baes",
+    "Raphaël Merx",
+    "Nick Haslam",
+    "Ekaterina Vylomova",
+    "Haim Dubossarsky"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-acl.570",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.570/"
+}

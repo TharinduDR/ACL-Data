@@ -1,0 +1,19 @@
+{
+  "title": "SignMusketears: An Efficient Multi-Stream Approach for Sign Language Translation at Scale",
+  "authors": [
+    "Shester Gueuwou",
+    "Xiaodan Du",
+    "Greg Shakhnarovich",
+    "Karen Livescu"
+  ],
+  "languages": [
+    "English",
+    "American Sign Language"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.findings-acl.1157",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1157/"
+}

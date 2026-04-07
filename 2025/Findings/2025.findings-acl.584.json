@@ -1,0 +1,21 @@
+{
+  "title": "MEGen: Generative Backdoor into Large Language Models via Model Editing",
+  "authors": [
+    "Jiyang Qiu",
+    "Xinbei Ma",
+    "Zhuosheng Zhang",
+    "Hai Zhao",
+    "Yun Li",
+    "Qianren Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.584",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.584/"
+}

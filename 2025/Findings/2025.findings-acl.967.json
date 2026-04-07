@@ -1,0 +1,23 @@
+{
+  "title": "MedCite: Can Language Models Generate Verifiable Text for Medicine?",
+  "authors": [
+    "Xiao Wang",
+    "Mengjue Tan",
+    "Qiao Jin",
+    "Guangzhi Xiong",
+    "Yu Hu",
+    "Aidong Zhang",
+    "Zhiyong Lu",
+    "Minjia Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.967",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.967/"
+}

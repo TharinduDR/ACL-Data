@@ -1,0 +1,22 @@
+{
+  "title": "McBE: A Multi-task Chinese Bias Evaluation Benchmark for Large Language Models",
+  "authors": [
+    "Tian Lan",
+    "Xiangdong Su",
+    "Xu Liu",
+    "Ruirui Wang",
+    "Ke Chang",
+    "Jiang Li",
+    "Guanglai Gao"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.313",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.313/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "KARPA: A Training-free Method of Adapting Knowledge Graph as References for Large Language Model's Reasoning Path Aggregation",
+  "authors": [
+    "Siyuan Fang",
+    "Kaijing Ma",
+    "Tianyu Zheng",
+    "Xinrun Du",
+    "Ningxuan Lu",
+    "Ge Zhang",
+    "Qingkun Tang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-acl.1269",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1269/"
+}

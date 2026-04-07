@@ -1,0 +1,19 @@
+{
+  "title": "Localizing and Mitigating Errors in Long-form Question Answering",
+  "authors": [
+    "Rachneet Sachdeva",
+    "Yixiao Song",
+    "Mohit Iyyer",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1049",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1049/"
+}

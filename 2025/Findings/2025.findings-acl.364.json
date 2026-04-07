@@ -1,0 +1,39 @@
+{
+  "title": "Visibility as Survival: Generalizing NLP for Native Alaskan Language Identification",
+  "authors": [
+    "Ivory Yang",
+    "Chunhui Zhang",
+    "Yuxin Wang",
+    "Zhongyu Ouyang",
+    "Sorosh Vosoughi"
+  ],
+  "languages": [
+    "Siberian Yupik",
+    "Alutiiq",
+    "Deg Xinag",
+    "Gwich'in",
+    "Haida",
+    "Holikachuk",
+    "Eyak",
+    "Tanacross",
+    "Han",
+    "Lower Tanana",
+    "Central Alaskan Yup'ik",
+    "Ahtna",
+    "Tlingit",
+    "Aleut",
+    "Inupiaq",
+    "Tsimshian",
+    "Dena'ina",
+    "Upper Tanana",
+    "Koyukon",
+    "Upper Kuskokwim"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.364",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.364/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Well, Keep Thinking: Enhancing LLM Reasoning with Adaptive Injection Decoding",
+  "authors": [
+    "Hyunbin Jin",
+    "Je Won Yeom",
+    "Seunghyun Bae",
+    "Taesup Kim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.520",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.520/"
+}

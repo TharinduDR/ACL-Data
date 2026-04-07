@@ -1,0 +1,27 @@
+{
+  "title": "What Language Do Non-English-Centric Large Language Models Think in?",
+  "authors": [
+    "Chengzhi Zhong",
+    "Qianying Liu",
+    "Fei Cheng",
+    "Junfeng Jiang",
+    "Zhen Wan",
+    "Chenhui Chu",
+    "Yugo Murawaki",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "French",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2025.findings-acl.1350",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1350/"
+}

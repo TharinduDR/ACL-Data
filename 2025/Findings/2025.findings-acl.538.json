@@ -1,0 +1,30 @@
+{
+  "title": "TABLELLM: Enabling Tabular Data Manipulation by LLMs in Real Office Usage Scenarios",
+  "authors": [
+    "Xiaokang Zhang",
+    "Sijia Luo",
+    "Bohan Zhang",
+    "Zeyao Ma",
+    "Jing Zhang",
+    "Yang Li",
+    "Guanlin Li",
+    "Zijun Yao",
+    "Kangli Xu",
+    "Jinchang Zhou",
+    "Daniel Zhang-Li",
+    "Jifan Yu",
+    "Shu Zhao",
+    "Juanzi Li",
+    "Jie Tang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-acl.538",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.538/"
+}

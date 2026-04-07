@@ -1,0 +1,21 @@
+{
+  "title": "Streaming In-context Learning for Dynamic Interest Adaption in LLM-based Recommendation",
+  "authors": [
+    "Keqin Bao",
+    "Ming Yan",
+    "Yang Zhang",
+    "Jizhi Zhang",
+    "Wenjie Wang",
+    "Fuli Feng",
+    "Xiangnan He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.735",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.735/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Generalizable Cross-Lingual Cognitive Distortion Detection with Standardized Annotations and Multi-Task Learning",
+  "authors": [
+    "Hongzhi Qi",
+    "Nan Bai",
+    "Jianqiang Li",
+    "Wei Zhai",
+    "Qing Zhao",
+    "Qi Gao",
+    "Bing Xiang Yang",
+    "Guanghui Fu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.findings-acl.826",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.826/"
+}

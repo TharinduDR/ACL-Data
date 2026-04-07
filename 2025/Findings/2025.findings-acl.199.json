@@ -1,0 +1,24 @@
+{
+  "title": "SCI-TAT: A Question Answering Benchmark for Scientific Tables and Text Covering Diverse Reasoning Types",
+  "authors": [
+    "Xuanliang Zhang",
+    "Dingzirui Wang",
+    "Baoxin Wang",
+    "Longxu Dou",
+    "Xinyuan Lu",
+    "Keyan Xu",
+    "Dayong Wu",
+    "Qingfu Zhu",
+    "Wanxiang Che"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-acl.199",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.199/"
+}

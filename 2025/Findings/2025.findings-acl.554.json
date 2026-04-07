@@ -1,0 +1,20 @@
+{
+  "title": "RQT: Hierarchical Residual Quantization for Multi-Model Compression",
+  "authors": [
+    "Tianqi Chen",
+    "Peisong Wang",
+    "Weixiang Xu",
+    "Zeyu Zhu",
+    "Jian Cheng"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-acl.554",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.554/"
+}

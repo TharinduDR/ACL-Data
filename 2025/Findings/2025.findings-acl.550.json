@@ -1,0 +1,17 @@
+{
+  "title": "CoDet-M4: Detecting Machine-Generated Code in Multi-Lingual, Multi-Generator and Multi-Domain Settings",
+  "authors": [
+    "Danil Orel",
+    "Dilshod Azizov",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.findings-acl.550",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.550/"
+}

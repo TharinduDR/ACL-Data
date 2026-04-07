@@ -1,0 +1,21 @@
+{
+  "title": "NeuronMerge: Merging Models via Functional Neuron Groups",
+  "authors": [
+    "Wangyun Gu",
+    "Qianghua Gao",
+    "Lixin Zhang",
+    "Xu Shen",
+    "Jieping Ye"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-acl.471",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.471/"
+}

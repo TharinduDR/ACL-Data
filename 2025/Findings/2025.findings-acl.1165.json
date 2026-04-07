@@ -1,0 +1,20 @@
+{
+  "title": "CausalRAG: Integrating Causal Graphs into Retrieval-Augmented Generation",
+  "authors": [
+    "Nengbo Wang",
+    "Xiaotian Han",
+    "Jagdip Singh",
+    "Jing Ma",
+    "Vipin Chaudhary"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.1165",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1165/"
+}

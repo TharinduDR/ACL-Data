@@ -1,0 +1,22 @@
+{
+  "title": "TRemu: Towards Neuro-Symbolic Temporal Reasoning for LLM-Agents with Memory in Multi-Session Dialogues",
+  "authors": [
+    "Yubin Ge",
+    "Salvatore Romeo",
+    "Jason Cai",
+    "Raphael Shu",
+    "Yassine Benajiba",
+    "Monica Sunkara",
+    "Yi Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-acl.972",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.972/"
+}

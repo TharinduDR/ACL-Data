@@ -1,0 +1,22 @@
+{
+  "title": "Why Vision Language Models Struggle with Visual Arithmetic? Towards Enhanced Chart and Geometry Understanding",
+  "authors": [
+    "Kung-Hsiang Huang",
+    "Can Qin",
+    "Haoyi Qiu",
+    "Philippe Laban",
+    "Shafiq Joty",
+    "Caiming Xiong",
+    "Chien-Sheng Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.249",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.249/"
+}

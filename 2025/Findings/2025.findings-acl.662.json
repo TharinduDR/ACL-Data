@@ -1,0 +1,20 @@
+{
+  "title": "Knowing Before Saying: LLM Representations Encode Information About Chain-of-Thought Success Before Completion",
+  "authors": [
+    "Anum Afzal",
+    "Florian Matthes",
+    "Gal Chechik",
+    "Yftah Ziser"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T09 Inference and Reasoning",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.findings-acl.662",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.662/"
+}

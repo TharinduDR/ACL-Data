@@ -1,0 +1,18 @@
+{
+  "title": "Random Splitting Negatively Impacts NER Evaluation: Quantifying and Eliminating the Overestimation of NER Performance",
+  "authors": [
+    "Florian Babl",
+    "Moritz Hennen",
+    "Jakob Murauer",
+    "Michaela Geierhos"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.findings-acl.504",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.504/"
+}

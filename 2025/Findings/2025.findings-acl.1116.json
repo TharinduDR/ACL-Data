@@ -1,0 +1,25 @@
+{
+  "title": "CARE-STaR: Constraint-aware Self-taught Reasoner",
+  "authors": [
+    "Zhiyang Li",
+    "Bo Tang",
+    "Yijun Niu",
+    "Beihong Jin",
+    "Qiwen Shi",
+    "Yuchen Feng",
+    "Zhiyu Li",
+    "Jie Hu",
+    "Mingchuan Yang",
+    "Feiyu Xiong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-acl.1116",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1116/"
+}

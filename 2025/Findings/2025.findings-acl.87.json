@@ -1,0 +1,38 @@
+{
+  "title": "Group then Scale: Dynamic Mixture-of-Experts Multilingual Language Model",
+  "authors": [
+    "Chong Li",
+    "Yingzhao Deng",
+    "Jiajun Zhang",
+    "Chengqing Zong"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Malay",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Uyghur",
+    "Vietnamese",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.findings-acl.87",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.87/"
+}

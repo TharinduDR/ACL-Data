@@ -1,0 +1,30 @@
+{
+  "title": "JsonTuning: Towards Generalizable, Robust, and Controllable Instruction Tuning",
+  "authors": [
+    "Chang Gao",
+    "Wenxuan Zhang",
+    "Guizhen Chen",
+    "Wai Lam"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Chinese",
+    "Cantonese",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.findings-acl.1232",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1232/"
+}

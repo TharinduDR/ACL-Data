@@ -1,0 +1,20 @@
+{
+  "title": "NBDESCRIB: A Dataset for Text Description Generation from Tables and Code in Jupyter Notebooks with Guidelines",
+  "authors": [
+    "Xuye Liu",
+    "Tengfei Ma",
+    "Yimu Wang",
+    "Fengjie Wang",
+    "Jian Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1364",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1364/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Can Medical Vision-Language Pre-training Succeed with Purely Synthetic Data?",
+  "authors": [
+    "Che Liu",
+    "Zhongwei Wan",
+    "Haozhe Wang",
+    "Yinda Chen",
+    "Talha Qaiser",
+    "Chen Jin",
+    "Nikolay Burlutskiy",
+    "Fariba Yousefi",
+    "Rossella Arcucci"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-acl.843",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.843/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "PromptWizard: Optimizing Prompts via Task-Aware, Feedback-Driven Self-Evolution",
+  "authors": [
+    "Eshaan Agarwal",
+    "Raghav Magazine",
+    "Joykirat Singh",
+    "Vivek Dani",
+    "Tanuja Ganu",
+    "Akshay Nambi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.findings-acl.1025",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1025/"
+}

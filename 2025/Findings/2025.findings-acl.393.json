@@ -1,0 +1,23 @@
+{
+  "title": "DocFusion: A Unified Framework for Document Parsing Tasks",
+  "authors": [
+    "Mingxu Chai",
+    "Ziyu Shen",
+    "Chong Zhang",
+    "Yue Zhang",
+    "Xiao Wang",
+    "Shihan Dou",
+    "Jihua Kang",
+    "Jiazhen Zhang",
+    "Qi Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.findings-acl.393",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.393/"
+}

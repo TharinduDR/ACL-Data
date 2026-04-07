@@ -1,0 +1,27 @@
+{
+  "title": "LLM Critics Help Catch Bugs in Mathematics: Towards a Better Mathematical Verifier with Natural Language Feedback",
+  "authors": [
+    "Bofei Gao",
+    "Zefan Cai",
+    "Runxin Xu",
+    "Peiyi Wang",
+    "Ce Zheng",
+    "Runji Lin",
+    "Keming Lu",
+    "Dayiheng Liu",
+    "Chang Zhou",
+    "Wen Xiao",
+    "Tianyu Liu",
+    "Baobao Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.findings-acl.753",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.753/"
+}

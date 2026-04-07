@@ -1,0 +1,17 @@
+{
+  "title": "Continual Quantization-Aware Pre-Training: When to transition from 16-bit to 1.58-bit pre-training for BitNet language models?",
+  "authors": [
+    "Jacob Nielsen",
+    "Peter Schneider-Kamp",
+    "Lukas Galke"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.694",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.694/"
+}

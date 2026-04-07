@@ -1,0 +1,24 @@
+{
+  "title": "CTRLA: Adaptive Retrieval-Augmented Generation via Inherent Control",
+  "authors": [
+    "Huanshuo Liu",
+    "Hao Zhang",
+    "Zhijiang Guo",
+    "Jing Wang",
+    "Kuicai Dong",
+    "Xiangyang Li",
+    "Yi Quan Lee",
+    "Cong Zhang",
+    "Yong Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.652",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.652/"
+}

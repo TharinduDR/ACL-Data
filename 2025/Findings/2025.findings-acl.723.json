@@ -1,0 +1,27 @@
+{
+  "title": "CausalAbstain: Enhancing Multilingual LLMs with Causal Reasoning for Trustworthy Abstention",
+  "authors": [
+    "Yuxi Sun",
+    "Aoqi Zuo",
+    "Wei Gao",
+    "Jing Ma"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Arabic",
+    "Bengali",
+    "Telugu",
+    "Nepali",
+    "Kannada",
+    "Italian",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.723",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.723/"
+}

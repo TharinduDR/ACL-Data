@@ -1,0 +1,22 @@
+{
+  "title": "Each graph is a new language: Graph Learning with LLMs",
+  "authors": [
+    "Huachi Zhou",
+    "Jiahe Du",
+    "Chuang Zhou",
+    "Chang Yang",
+    "Yilin Xiao",
+    "Yuxuan Xie",
+    "Xiao Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.902",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.902/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Entriever: Energy-based Retriever for Knowledge-Grounded Dialog Systems",
+  "authors": [
+    "Yucheng Cai",
+    "Ke Li",
+    "Yi Huang",
+    "Junlan Feng",
+    "Zhijian Ou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.1105",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1105/"
+}

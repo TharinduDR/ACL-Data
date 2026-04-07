@@ -1,0 +1,21 @@
+{
+  "title": "GSQ-Tuning: Group-Shared Exponents Integer in Fully Quantized Training for LLMs On-Device Fine-tuning",
+  "authors": [
+    "Sifan Zhou",
+    "Shuo Wang",
+    "Zhihang Yuan",
+    "Mingjia Shi",
+    "Yuzhang Shang",
+    "Dawei Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1178",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1178/"
+}

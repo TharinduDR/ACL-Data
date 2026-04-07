@@ -1,0 +1,25 @@
+{
+  "title": "RAG-RewardBench: Benchmarking Reward Models in Retrieval Augmented Generation for Preference Alignment",
+  "authors": [
+    "Zhuoran Jin",
+    "Hongbang Yuan",
+    "Tianyi Men",
+    "Pengfei Cao",
+    "Yubo Chen",
+    "Jiexin Xu",
+    "Huaijun Li",
+    "Xiaojian Jiang",
+    "Kang Liu",
+    "Jun Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.877",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.877/"
+}

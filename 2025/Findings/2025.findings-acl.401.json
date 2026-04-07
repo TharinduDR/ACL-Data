@@ -1,0 +1,21 @@
+{
+  "title": "Chain-of-Scrutiny: Detecting Backdoor Attacks for Large Language Models",
+  "authors": [
+    "Xi Li",
+    "Ruofan Mao",
+    "Yusen Zhang",
+    "Renze Lou",
+    "Chen Wu",
+    "Jiaqi Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.findings-acl.401",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.401/"
+}

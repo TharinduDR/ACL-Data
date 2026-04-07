@@ -1,0 +1,22 @@
+{
+  "title": "Direct Behavior Optimization: Unlocking the Potential of Lightweight LLMs",
+  "authors": [
+    "Hongming Yang",
+    "Shi Lin",
+    "Jun Shao",
+    "Changting Lin",
+    "Donghai Zhu",
+    "Meng Han",
+    "Qinglei Kong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.998",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.998/"
+}

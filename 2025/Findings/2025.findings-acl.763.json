@@ -1,0 +1,17 @@
+{
+  "title": "REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space",
+  "authors": [
+    "Tomer Ashuach",
+    "Martin Tutek",
+    "Yonatan Belinkov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.763",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.763/"
+}

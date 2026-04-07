@@ -1,0 +1,21 @@
+{
+  "title": "MALAMUTE: A Multilingual, Highly-granular, Template-free, Education-based Probing Dataset",
+  "authors": [
+    "Sagi Shaier",
+    "George Arthur Baker",
+    "Chiranthan Sridhar",
+    "Lawrence E Hunter",
+    "Katharina von der Wense"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Polish"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.209",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.209/"
+}

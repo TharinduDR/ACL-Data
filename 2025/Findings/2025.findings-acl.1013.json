@@ -1,0 +1,25 @@
+{
+  "title": "Adaptive Detoxification: Safeguarding General Capabilities of LLMs through Toxicity-Aware Knowledge Editing",
+  "authors": [
+    "Yifan Lu",
+    "Yigeng Zhou",
+    "Jing Li",
+    "Yihui Zhang",
+    "Wenya Wang",
+    "Xiucheng Li",
+    "Meishan Zhang",
+    "Fangming Liu",
+    "Jun Yu",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.findings-acl.1013",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1013/"
+}

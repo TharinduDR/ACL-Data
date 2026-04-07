@@ -1,0 +1,21 @@
+{
+  "title": "Hierarchical Safety Realignment: Lightweight Restoration of Safety in Pruned Large Vision-Language Models",
+  "authors": [
+    "Yue Li",
+    "Xin Yi",
+    "Dongsheng Shi",
+    "Gerard de Melo",
+    "Xiaoling Wang",
+    "Linlin Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.394",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.394/"
+}

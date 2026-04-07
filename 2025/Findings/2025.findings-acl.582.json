@@ -1,0 +1,20 @@
+{
+  "title": "Unlocking Recursive Thinking of LLMs: Alignment via Refinement",
+  "authors": [
+    "Haoke Zhang",
+    "Xiaobo Liang",
+    "Cunxiang Wang",
+    "Juntao Li",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.582",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.582/"
+}

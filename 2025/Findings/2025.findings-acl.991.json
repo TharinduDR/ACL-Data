@@ -1,0 +1,22 @@
+{
+  "title": "LONGATTN: Selecting Long-context Training Data via Token-level Attention",
+  "authors": [
+    "Longyun Wu",
+    "Dawei Zhu",
+    "Guangxiang Zhao",
+    "Zhuocheng Yu",
+    "Jungfeng Ran",
+    "Xiangyu Wong",
+    "Lin Sun",
+    "Sujian Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.991",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.991/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Domain Regeneration: How well do LLMs match syntactic properties of text domains?",
+  "authors": [
+    "Da Ju",
+    "Hagen Blix",
+    "Adina Williams"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.findings-acl.120",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.120/"
+}

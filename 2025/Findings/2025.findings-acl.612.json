@@ -1,0 +1,24 @@
+{
+  "title": "ALPS: Attention Localization and Pruning Strategy for Efficient Alignment of Large Language Models",
+  "authors": [
+    "Hao Chen",
+    "Haoze Li",
+    "Zhiqing Xiao",
+    "Lirong Gao",
+    "Qi Zhang",
+    "Xiaomeng Hu",
+    "Ningtao Wang",
+    "Xing Fu",
+    "Junbo Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.612",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.612/"
+}

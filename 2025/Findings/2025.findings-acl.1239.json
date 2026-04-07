@@ -1,0 +1,29 @@
+{
+  "title": "Are LLMs Rational Investors? A Study on the Financial Bias in LLMs",
+  "authors": [
+    "Yuhang Zhou",
+    "Yuchen Ni",
+    "Zhiheng Xi",
+    "Zhangyue Yin",
+    "Yu He",
+    "Yunhui Gan",
+    "Xiang Liu",
+    "Jian Zhang",
+    "Sen Liu",
+    "Xipeng Qiu",
+    "Yixin Cao",
+    "Guangnan Ye",
+    "Hongfeng Chai"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1239",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1239/"
+}

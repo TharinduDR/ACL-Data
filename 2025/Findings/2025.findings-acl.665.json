@@ -1,0 +1,19 @@
+{
+  "title": "Dual Debiassing for Noisy In-Context Learning for Text Generation",
+  "authors": [
+    "Siqi Liang",
+    "Sumyeong Ahn",
+    "Paramveer S. Dhillon",
+    "Jiayu Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.665",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.665/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "UCS-SQL: Uniting Content and Structure for Enhanced Semantic Bridging In Text-to-SQL",
+  "authors": [
+    "Zhenhe Wu",
+    "Zhongqiu Li",
+    "Jie Zhang",
+    "Zhongjiang He",
+    "Jian Yang",
+    "Yu Zhao",
+    "Ruiyu Fang",
+    "Bing Wang",
+    "Hongyan Xie",
+    "Shuangyong Song",
+    "Zhoujun Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.findings-acl.427",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.427/"
+}

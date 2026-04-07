@@ -1,0 +1,22 @@
+{
+  "title": "TailorKV: A Hybrid Framework for Long-Context Inference via Tailored KV Cache Optimization",
+  "authors": [
+    "Dingyu Yao",
+    "Bowen Shen",
+    "Zheng Lin",
+    "Wei Liu",
+    "Jian Luan",
+    "Bin Wang",
+    "Weiping Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.1043",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1043/"
+}

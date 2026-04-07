@@ -1,0 +1,25 @@
+{
+  "title": "QueryAttack: Jailbreaking Aligned Large Language Models Using Structured Non-natural Query Language",
+  "authors": [
+    "Qingsong Zou",
+    "Jingyu Xiao",
+    "Qing Li",
+    "Zhi Yan",
+    "Yuhang Wang",
+    "Li Xu",
+    "Wenxuan Wang",
+    "Kuofeng Gao",
+    "Ruoyu Li",
+    "Yong Jiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-acl.298",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.298/"
+}

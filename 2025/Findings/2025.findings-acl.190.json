@@ -1,0 +1,19 @@
+{
+  "title": "SignAlignLM: Integrating Multimodal Sign Language Processing into Large Language Models",
+  "authors": [
+    "Mert İnan",
+    "Anthony Sicilia",
+    "Malihe Alikhani"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.findings-acl.190",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.190/"
+}

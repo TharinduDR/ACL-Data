@@ -1,0 +1,21 @@
+{
+  "title": "COSMIC: Generalized Refusal Direction Identification in LLM Activations",
+  "authors": [
+    "Vincent Siu",
+    "Nicholas Crispino",
+    "Zihao Yu",
+    "Sam Pan",
+    "Zhun Wang",
+    "Yang Liu",
+    "Dawn Song",
+    "Chenguang Wang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1310",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1310/"
+}

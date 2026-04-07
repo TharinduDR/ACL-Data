@@ -1,0 +1,20 @@
+{
+  "title": "SynGraph: A Dynamic Graph-LLM Synthesis Framework for Sparse Streaming User Sentiment Modeling",
+  "authors": [
+    "Xin Zhang",
+    "Qiyu Wei",
+    "Yingjie Zhu",
+    "Linhai Zhang",
+    "Deyu Zhou",
+    "Sophia Ananiadou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.findings-acl.840",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.840/"
+}

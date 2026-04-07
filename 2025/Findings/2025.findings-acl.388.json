@@ -1,0 +1,27 @@
+{
+  "title": "Boosting Policy and Process Reward Models with Monte Carlo Tree Search in Open-Domain QA",
+  "authors": [
+    "Chi-Min Chan",
+    "Chunpu Xu",
+    "Junqi Zhu",
+    "Jiaming Ji",
+    "Donghai Hong",
+    "Pengcheng Wen",
+    "Chunyang Jiang",
+    "Zhen Ye",
+    "Yaodong Yang",
+    "Wei Xue",
+    "Sirui Han",
+    "Yike Guo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.388",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.388/"
+}

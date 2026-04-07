@@ -1,0 +1,24 @@
+{
+  "title": "iAgent: LLM Agent as a Shield between User and Recommender Systems",
+  "authors": [
+    "Wujiang Xu",
+    "Yunxiao Shi",
+    "Zujie Liang",
+    "Xuying Ning",
+    "Kai Mei",
+    "Kun Wang",
+    "Xi Zhu",
+    "Min Xu",
+    "Yongfeng Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.928",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.928/"
+}

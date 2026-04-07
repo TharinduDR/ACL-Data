@@ -1,0 +1,23 @@
+{
+  "title": "Natural Language Processing in Support of Evidence-based Medicine: A Scoping Review",
+  "authors": [
+    "Zihan Xu",
+    "Haotian Ma",
+    "Gongbo Zhang",
+    "Yihao Ding",
+    "Chunhua Weng",
+    "Yifan Peng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.findings-acl.1103",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1103/"
+}

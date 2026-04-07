@@ -1,0 +1,35 @@
+{
+  "title": "mmE5: Improving Multimodal Multilingual Embeddings via High-quality Synthetic Data",
+  "authors": [
+    "Haonan Chen",
+    "Liang Wang",
+    "Nan Yang",
+    "Yutao Zhu",
+    "Ziliang Zhao",
+    "Furu Wei",
+    "Zhicheng Dou"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Spanish",
+    "French",
+    "Chinese",
+    "German",
+    "Persian",
+    "Indonesian",
+    "Portuguese",
+    "Russian",
+    "Polish",
+    "Japanese",
+    "Italian",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.433",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.433/"
+}

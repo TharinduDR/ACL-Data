@@ -1,0 +1,20 @@
+{
+  "title": "Vision-Language Models Struggle to Align Entities across Modalities",
+  "authors": [
+    "Iñigo Alonso",
+    "Gorka Azkune",
+    "Ander Salaberría",
+    "Jeremy Barnes",
+    "Oier Lopez de Lacalle"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.965",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.965/"
+}

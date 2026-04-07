@@ -1,0 +1,22 @@
+{
+  "title": "MONTROSE: LLM-driven Monte Carlo Tree Search Self-Refinement for Cross-Domain Rumor Detection",
+  "authors": [
+    "Shanshan Liu",
+    "Menglong Lu",
+    "Zhen Huang",
+    "Zejiang He",
+    "Liu Liu",
+    "Zhigang Sun",
+    "Dongsheng Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.findings-acl.1106",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1106/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Self-attention-based Graph-of-Thought for Math Problem Solving",
+  "authors": [
+    "Ruiqiao Bai",
+    "Xue Han",
+    "Shuo Lei",
+    "Junlan Feng",
+    "Yanyan Luo",
+    "Chao Deng"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.317",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.317/"
+}

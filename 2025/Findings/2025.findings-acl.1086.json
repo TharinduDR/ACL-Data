@@ -1,0 +1,18 @@
+{
+  "title": "Word-Level Detection of Code-Mixed Hate Speech with Multilingual Domain Transfer",
+  "authors": [
+    "Karin Niederreiter",
+    "Dagmar Gromann"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1086",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1086/"
+}

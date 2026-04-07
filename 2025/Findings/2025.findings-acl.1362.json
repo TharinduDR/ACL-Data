@@ -1,0 +1,24 @@
+{
+  "title": "Exploring In-context Example Generation for Machine Translation",
+  "authors": [
+    "Dohyun Lee",
+    "Seungil Chad Lee",
+    "Chanwoo Yang",
+    "Yujin Baek",
+    "Jaegul Choo"
+  ],
+  "languages": [
+    "English",
+    "Nepali",
+    "Khmer",
+    "Pashto",
+    "Zulu",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.1362",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1362/"
+}

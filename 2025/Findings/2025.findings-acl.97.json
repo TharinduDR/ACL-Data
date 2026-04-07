@@ -1,0 +1,22 @@
+{
+  "title": "HopRAG: Multi-Hop Reasoning for Logic-Aware Retrieval-Augmented Generation",
+  "authors": [
+    "Hao Liu",
+    "Zhengren Wang",
+    "Xi Chen",
+    "Zhiyu Li",
+    "Feiyu Xiong",
+    "Qinhan Yu",
+    "Wentao Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.findings-acl.97",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.97/"
+}

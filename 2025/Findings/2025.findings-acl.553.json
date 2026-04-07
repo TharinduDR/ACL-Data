@@ -1,0 +1,22 @@
+{
+  "title": "Refining Sentence Embedding Model through Ranking Sentences Generation with Large Language Models",
+  "authors": [
+    "Liyang He",
+    "Chenglong Liu",
+    "Rui Li",
+    "Zhenya Huang",
+    "Shulan Ruan",
+    "Jun Zhou",
+    "Enhong Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.553",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.553/"
+}

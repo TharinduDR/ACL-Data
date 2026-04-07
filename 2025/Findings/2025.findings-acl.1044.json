@@ -1,0 +1,25 @@
+{
+  "title": "The Elephant in the Room: Exploring the Role of Neutral Words in Language Model Group-Agnostic Debiasing",
+  "authors": [
+    "Xinwei Guo",
+    "Jiashi Gao",
+    "Junlei Zhou",
+    "Jiaxin Zhang",
+    "Guanhua Chen",
+    "Xiangyu Zhao",
+    "Quanying Liu",
+    "Haiyan Wu",
+    "Xin Yao",
+    "Xuetao Wei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.findings-acl.1044",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1044/"
+}

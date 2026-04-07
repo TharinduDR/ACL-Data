@@ -1,0 +1,23 @@
+{
+  "title": "TACO-RL: Task Aware Prompt Compression Optimization with Reinforcement Learning",
+  "authors": [
+    "Shivam Shandilya",
+    "Menglin Xia",
+    "Supriyo Ghosh",
+    "Huiqiang Jiang",
+    "Jue Zhang",
+    "Qianhui Wu",
+    "Victor Rühle",
+    "Saravan Rajmohan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.81",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.81/"
+}

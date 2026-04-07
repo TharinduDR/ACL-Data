@@ -1,0 +1,27 @@
+{
+  "title": "Grammar-Based Code Representation: Is It a Worthy Pursuit for LLMs?",
+  "authors": [
+    "Qingyuan Liang",
+    "Zhao Zhang",
+    "Zeyu Sun",
+    "Zheng Lin",
+    "Qi Luo",
+    "Yueyi Xiao",
+    "Yizhou Chen",
+    "Yuqun Zhang",
+    "Haotian Zhang",
+    "Lu Zhang",
+    "Bin Chen",
+    "Yingfei Xiong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.findings-acl.807",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.807/"
+}

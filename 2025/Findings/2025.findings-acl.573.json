@@ -1,0 +1,21 @@
+{
+  "title": "WirelessMathBench: A Mathematical Modeling Benchmark for LLMs in Wireless Communications",
+  "authors": [
+    "Xin Li",
+    "Mengbing Liu",
+    "Li Wei",
+    "Jiancheng An",
+    "Mérouane Debbah",
+    "Chau Yuen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.573",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.573/"
+}

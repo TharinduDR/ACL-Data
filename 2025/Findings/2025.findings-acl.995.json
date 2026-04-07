@@ -1,0 +1,20 @@
+{
+  "title": "Tree-of-Prompts: Abstracting Control-Flow for Prompt Optimization",
+  "authors": [
+    "Ji-hyuk Kim",
+    "Shubham Garg",
+    "Lahari Poddar",
+    "Seung-won Hwang",
+    "Christopher Hench"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-acl.995",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.995/"
+}

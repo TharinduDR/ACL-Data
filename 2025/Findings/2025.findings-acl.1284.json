@@ -1,0 +1,22 @@
+{
+  "title": "LegalCore: A Dataset for Event Coreference Resolution in Legal Documents",
+  "authors": [
+    "Kangda Wei",
+    "Xi Shi",
+    "Jonathan Tong",
+    "Sai Ramana Reddy",
+    "Anandhavelu Natarajan",
+    "Rajiv Jain",
+    "Aparna Garimella",
+    "Ruihong Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.findings-acl.1284",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1284/"
+}

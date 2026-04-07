@@ -1,0 +1,19 @@
+{
+  "title": "Autonomous Data Selection with Zero-shot Generative Classifiers for Mathematical Texts",
+  "authors": [
+    "Yifan Zhang",
+    "Yifan Luo",
+    "Yang Yuan",
+    "Andrew C Yao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.216",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.216/"
+}

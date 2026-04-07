@@ -1,0 +1,18 @@
+{
+  "title": "Eta-WavLM: Efficient Speaker Identity Removal in Self-Supervised Speech Representations Using a Simple Linear Equation",
+  "authors": [
+    "Giuseppe Ruggiero",
+    "Matteo Testa",
+    "Jurgen Van de Walle",
+    "Luigi Di Caro"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.findings-acl.127",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.127/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "MinosEval: Distinguishing Factoid and Non-Factoid for Tailored Open-Ended QA Evaluation with LLMs",
+  "authors": [
+    "Yongqi Fan",
+    "Yating Wang",
+    "Guandong Wang",
+    "Jie Zhai",
+    "Jingping Liu",
+    "Qi Ye",
+    "Tong Ruan"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.548",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.548/"
+}

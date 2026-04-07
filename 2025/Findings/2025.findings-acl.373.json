@@ -1,0 +1,21 @@
+{
+  "title": "DependEval: Benchmarking LLMs for Repository Dependency Understanding",
+  "authors": [
+    "Junjia Du",
+    "Yadi Liu",
+    "Hongcheng Guo",
+    "Jiawei Wang",
+    "Haojian Huang",
+    "Yunyi Ni",
+    "Zhoujun Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.373",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.373/"
+}

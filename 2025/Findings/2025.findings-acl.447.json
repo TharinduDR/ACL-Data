@@ -1,0 +1,20 @@
+{
+  "title": "ALW: Adaptive Layer-Wise contrastive decoding enhancing reasoning ability in Large Language Models",
+  "authors": [
+    "Yuechi Zhou",
+    "Chuyue Zhou",
+    "Jianxin Zhang",
+    "Juntao Li*",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.447",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.447/"
+}

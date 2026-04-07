@@ -1,0 +1,31 @@
+{
+  "title": "HATA: Trainable and Hardware-Efficient Hash-Aware Top-k Attention for Scalable Large Model Inference",
+  "authors": [
+    "Ping Gong",
+    "Jiawei Yi",
+    "Shengnan Wang",
+    "Juncheng Zhang",
+    "Zewen Jin",
+    "Ouxiang Zhou",
+    "Ruibo Liu",
+    "Guanbin Xu",
+    "Youhui Bai",
+    "Bowen Ye",
+    "Kun Yuan",
+    "Tong Yang",
+    "Gong Zhang",
+    "Renhai Chen",
+    "Feng Wu",
+    "Cheng Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.1275",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1275/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "MMXU: A Multi-Modal and Multi-X-ray Understanding Dataset for Disease Progression",
+  "authors": [
+    "Linjie Mu",
+    "Zhongzhen Huang",
+    "Shengqian Qin",
+    "Yakun Zhu",
+    "Shaoting Zhang",
+    "Xiaofan Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.508",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.508/"
+}

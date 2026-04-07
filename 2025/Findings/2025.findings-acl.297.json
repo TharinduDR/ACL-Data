@@ -1,0 +1,22 @@
+{
+  "title": "SELF-TUNING: Instructing LLMs to Effectively Acquire New Knowledge through Self-Teaching",
+  "authors": [
+    "Xiaoying Zhang",
+    "Baolin Peng",
+    "Ye Tian",
+    "Jingyan Zhou",
+    "Yipeng Zhang",
+    "Haitao Mi",
+    "Helen Meng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.findings-acl.297",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.297/"
+}

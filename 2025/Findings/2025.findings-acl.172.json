@@ -1,0 +1,19 @@
+{
+  "title": "Dynamic Prefix as Instructor for Incremental Named Entity Recognition: A Unified Seq2Seq Generation Framework",
+  "authors": [
+    "Zihao Wu",
+    "YongXiang Hua",
+    "Yongxin Zhu",
+    "Fang Zhang",
+    "Linli Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.172",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.172/"
+}

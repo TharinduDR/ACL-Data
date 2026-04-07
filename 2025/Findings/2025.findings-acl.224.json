@@ -1,0 +1,27 @@
+{
+  "title": "Wanda++: Pruning Large Language Models via Regional Gradients",
+  "authors": [
+    "Yifan Yang",
+    "Kai Zhen",
+    "Bhavana Ganesh",
+    "Aram Galstyan",
+    "Goeric Huybrechts",
+    "Markus Müller",
+    "Jonas M. Kübler",
+    "Rupak Vignesh Swaminathan",
+    "Athanasios Mouchtaris",
+    "Sravan Babu Bodapati",
+    "Nathan Susanj",
+    "Zheng Zhang",
+    "Jack FitzGerald",
+    "Abhishek Kumar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.224",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.224/"
+}

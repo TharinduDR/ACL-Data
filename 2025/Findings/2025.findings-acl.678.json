@@ -1,0 +1,23 @@
+{
+  "title": "mRAKL: Multilingual Retrieval-Augmented Knowledge Graph Construction for Low-Resourced Languages",
+  "authors": [
+    "Hellina Hailu Nigatu",
+    "Min Li",
+    "Maartje ter Hoeve",
+    "Saloni Potdar",
+    "Sarah E. Chasins"
+  ],
+  "languages": [
+    "Tigrinya",
+    "Amharic",
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.findings-acl.678",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.678/"
+}

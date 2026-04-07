@@ -1,0 +1,29 @@
+{
+  "title": "MutantPrompt: Prompt Optimization via Mutation Under a Budget on Modest-sized LMs",
+  "authors": [
+    "Arijit Nag",
+    "Animesh Mukherjee",
+    "Niloy Ganguly",
+    "Soumen Chakrabarti"
+  ],
+  "languages": [
+    "Assamese",
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Odia",
+    "Punjabi",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.1139",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1139/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction for Whisper-Enhanced Text Generation",
+  "authors": [
+    "Jilong Li",
+    "Zhenxi Song",
+    "Jiaqi Wang",
+    "Meishan Zhang",
+    "Honghai Liu",
+    "Min Zhang",
+    "Zhiguo Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.findings-acl.142",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.142/"
+}

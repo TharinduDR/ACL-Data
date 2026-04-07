@@ -1,0 +1,26 @@
+{
+  "title": "LLMs Can Achieve High-quality Simultaneous Machine Translation as Efficiently as Offline",
+  "authors": [
+    "Biao Fu",
+    "Minpeng Liao",
+    "Kai Fan",
+    "Chengxi Li",
+    "Liang Zhang",
+    "Yidong Chen",
+    "Xiaodong Shi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Russian",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1045",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1045/"
+}

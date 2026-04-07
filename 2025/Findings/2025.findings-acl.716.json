@@ -1,0 +1,28 @@
+{
+  "title": "FLAG-TRADER: Fusion LLM-Agent with Gradient-based Reinforcement Learning for Financial Trading",
+  "authors": [
+    "Guojun Xiong",
+    "Zhiyang Deng",
+    "Keyi Wang",
+    "Yupeng Cao",
+    "Haohang Li",
+    "Yangyang Yu",
+    "Xueqing Peng",
+    "Mingquan Lin",
+    "Kaleb E Smith",
+    "Xiao-Yang Liu Yanglet",
+    "Jimin Huang",
+    "Sophia Ananiadou",
+    "Qianqian Xie"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.716",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.716/"
+}

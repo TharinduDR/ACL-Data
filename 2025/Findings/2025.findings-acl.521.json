@@ -1,0 +1,20 @@
+{
+  "title": "SpeechT-RAG: Reliable Depression Detection in LLMs with Retrieval-Augmented Generation Using Speech Timing Information",
+  "authors": [
+    "Xiangyu Zhang",
+    "Hexin Liu",
+    "Qiquan Zhang",
+    "Beena Ahmed",
+    "Julien Epps"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.findings-acl.521",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.521/"
+}

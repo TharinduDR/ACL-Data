@@ -1,0 +1,21 @@
+{
+  "title": "Chain of Methodologies: Scaling Test Time Computation without Training",
+  "authors": [
+    "Cong Liu",
+    "Jie Wu",
+    "Weigang Wu",
+    "Xu Chen",
+    "Liang Lin",
+    "Wei-Shi Zheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.276",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.276/"
+}

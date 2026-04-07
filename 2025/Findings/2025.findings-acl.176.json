@@ -1,0 +1,23 @@
+{
+  "title": "Beyond In-Context Learning: Aligning Long-form Generation of Large Language Models via Task-Inherent Attribute Guidelines",
+  "authors": [
+    "Do Xuan Long",
+    "Duong Ngoc Yen",
+    "Do Xuan Trong",
+    "Luu Anh Tuan",
+    "Kenji Kawaguchi",
+    "Shafiq Joty",
+    "Min-Yen Kan",
+    "Nancy F. Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.176",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.176/"
+}

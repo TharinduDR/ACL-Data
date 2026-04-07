@@ -1,0 +1,28 @@
+{
+  "title": "STORYTELLER: An Enhanced Plot-planning Framework for Coherent and Cohesive Story Generation",
+  "authors": [
+    "Jiaming Li",
+    "Yukun Chen",
+    "Ziqiang Liu",
+    "Minghuan Tan",
+    "Lei Zhang",
+    "Yunshui Li",
+    "Run Luo",
+    "Longze Chen",
+    "Jing Luo",
+    "Ahmadreza Argha",
+    "Hamid Alinejad-Rokny",
+    "Wei Zhou",
+    "Min Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.1071",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1071/"
+}

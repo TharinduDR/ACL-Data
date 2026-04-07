@@ -1,0 +1,25 @@
+{
+  "title": "A Law Reasoning Benchmark for LLM with Tree-Organized Structures including Factum Probandum, Evidence and Experiences",
+  "authors": [
+    "Jiaxin Shen",
+    "Jinan Xu",
+    "Huiqi Hu",
+    "Luyi Lin",
+    "Fei Zheng",
+    "Guoyang Ma",
+    "Fandong Meng",
+    "Jie Zhou",
+    "Wenjuan Han"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.887",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.887/"
+}

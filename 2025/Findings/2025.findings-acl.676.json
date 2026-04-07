@@ -1,0 +1,23 @@
+{
+  "title": "ROSERAG: Robust Retrieval-augmented Generation with Small-scale LLMs via Margin-aware Preference Optimization",
+  "authors": [
+    "Tianci Liu",
+    "Haoxiang Jiang",
+    "Tianze Wang",
+    "Ran Xu",
+    "Yue Yu",
+    "Linjun Zhang",
+    "Tuo Zhao",
+    "Haoyu Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-acl.676",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.676/"
+}

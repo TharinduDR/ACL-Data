@@ -1,0 +1,20 @@
+{
+  "title": "AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward Modeling",
+  "authors": [
+    "Zihan Liu",
+    "Yang Chen",
+    "Mohammad Shoeybi",
+    "Bryan Catanzaro",
+    "Wei Ping"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.findings-acl.206",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.206/"
+}

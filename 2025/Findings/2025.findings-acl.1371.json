@@ -1,0 +1,25 @@
+{
+  "title": "skLEP: A Slovak General Language Understanding Benchmark",
+  "authors": [
+    "Marek Šuppa",
+    "Andrej Ridzik",
+    "Daniel Hládek",
+    "Tomáš Javůrek",
+    "Viktória Ondrejová",
+    "Kristína Sásiková",
+    "Martin Tamajka",
+    "Marián Šimko"
+  ],
+  "languages": [
+    "Slovak",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.findings-acl.1371",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1371/"
+}

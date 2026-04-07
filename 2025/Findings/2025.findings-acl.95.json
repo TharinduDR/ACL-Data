@@ -1,0 +1,23 @@
+{
+  "title": "EXECUTE: A Multilingual Benchmark for LLM Token Understanding",
+  "authors": [
+    "Lukas Edman",
+    "Helmut Schmid",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "Amharic",
+    "Arabic",
+    "Chinese",
+    "English",
+    "Hindi",
+    "Japanese",
+    "Korean",
+    "Russian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.95",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.95/"
+}

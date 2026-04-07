@@ -1,0 +1,22 @@
+{
+  "title": "ETRQA: A Comprehensive Benchmark for Evaluating Event Temporal Reasoning Abilities of Large Language Models",
+  "authors": [
+    "Sigang Luo",
+    "Yinan Liu",
+    "Dongying Lin",
+    "Yingying Zhai",
+    "Bin Wang",
+    "Xiaochun Yang",
+    "Jungpeng Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.findings-acl.1198",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1198/"
+}

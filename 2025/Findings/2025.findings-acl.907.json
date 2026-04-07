@@ -1,0 +1,19 @@
+{
+  "title": "JEBS: A Fine-grained Biomedical Lexical Simplification Task",
+  "authors": [
+    "William Xia",
+    "Ishita Unde",
+    "Brian Ondov",
+    "Dina Demner-Fushman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.findings-acl.907",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.907/"
+}

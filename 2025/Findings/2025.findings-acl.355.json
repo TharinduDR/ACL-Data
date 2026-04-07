@@ -1,0 +1,18 @@
+{
+  "title": "PROMTEC: Fast LLM Inference Decoding using Prompt Multi-Lookup with Template Database and Common Sequences",
+  "authors": [
+    "Alan Chi-Man Lee",
+    "Wing-Sun Cheng",
+    "Calvin Chun-Kit Chan"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-acl.355",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.355/"
+}

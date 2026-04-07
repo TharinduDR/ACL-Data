@@ -1,0 +1,22 @@
+{
+  "title": "Failing Forward: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation",
+  "authors": [
+    "Sreyan Ghosh",
+    "Mohammad Sadegh Rasooli",
+    "Michael Levit",
+    "Peidong Wang",
+    "Jian Xue",
+    "Dinesh Manocha",
+    "Jinyu Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.125",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.125/"
+}

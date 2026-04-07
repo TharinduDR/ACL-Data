@@ -1,0 +1,21 @@
+{
+  "title": "Self-Training Elicits Concise Reasoning in Large Language Models",
+  "authors": [
+    "Tergel Munkhbat",
+    "Namgyu Ho",
+    "Seo Hyun Kim",
+    "Yongjin Yang",
+    "Yujin Kim",
+    "Se-Young Yun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-acl.1289",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1289/"
+}

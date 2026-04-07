@@ -1,0 +1,19 @@
+{
+  "title": "PASTEL: Polarity-Aware Sentiment Triplet Extraction with LLM-as-a-Judge",
+  "authors": [
+    "Aaditya Bodke",
+    "Avinoor Singh Kohli",
+    "Hemant Pardeshi",
+    "Prathamesh Bhosale"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.1309",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1309/"
+}

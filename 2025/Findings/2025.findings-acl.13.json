@@ -1,0 +1,27 @@
+{
+  "title": "The Right Time Matters: Data Arrangement Affects Zero-Shot Generalization in Instruction Tuning",
+  "authors": [
+    "Bingxiang He",
+    "Ning Ding",
+    "Cheng Qian",
+    "Jia Deng",
+    "Ganqu Cui",
+    "Lifan Yuan",
+    "Haiwen Hong",
+    "Huan-ang Gao",
+    "Longtao Huang",
+    "Hui Xue",
+    "Huimin Chen",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.13",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.13/"
+}
