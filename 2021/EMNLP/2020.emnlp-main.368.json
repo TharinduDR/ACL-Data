@@ -1,0 +1,33 @@
+{
+  "title": "Zero-Shot Cross-Lingual Transfer with Meta Learning",
+  "authors": [
+    "Farhad Nooralahzadeh",
+    "Giannis Bekoulis",
+    "Johannes Bjerva",
+    "Isabelle Augenstein"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Greek",
+    "Bulgarian",
+    "Russian",
+    "Turkish",
+    "Arabic",
+    "Vietnamese",
+    "Thai",
+    "Chinese",
+    "Hindi",
+    "Swahili",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.emnlp-main.368",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.368/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Multi-Stage Pre-training for Low-Resource Domain Adaptation",
+  "authors": [
+    "Rong Zhang",
+    "Revanth Gangi Reddy",
+    "Md Arafat Sultan",
+    "Vittorio Castelli",
+    "Anthony Ferritto",
+    "Radu Florian",
+    "Efsun Sarioglu Kayi",
+    "Salim Roukos",
+    "Avirup Sil",
+    "Todd Ward"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2020.emnlp-main.440",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.440/"
+}

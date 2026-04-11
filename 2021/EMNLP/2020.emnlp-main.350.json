@@ -1,0 +1,17 @@
+{
+  "title": "Do sequence-to-sequence VAEs learn global features of sentences?",
+  "authors": [
+    "Tom Bosc",
+    "Pascal Vincent"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2020.emnlp-main.350",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.350/"
+}

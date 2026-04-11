@@ -1,0 +1,21 @@
+{
+  "title": "An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels",
+  "authors": [
+    "Ilias Chalkidis",
+    "Manos Fergadiotis",
+    "Sotiris Kotitsas",
+    "Prodromos Malakasiotis",
+    "Nikolaos Aletras",
+    "Ion Androutsopoulos"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2020.emnlp-main.607",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.607/"
+}

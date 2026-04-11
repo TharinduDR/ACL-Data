@@ -1,0 +1,19 @@
+{
+  "title": "SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling",
+  "authors": [
+    "Di Wu",
+    "Liang Ding",
+    "Fan Lu",
+    "Jian Xie"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.emnlp-main.152",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.152/"
+}

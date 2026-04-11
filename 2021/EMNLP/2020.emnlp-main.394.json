@@ -1,0 +1,26 @@
+{
+  "title": "An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training",
+  "authors": [
+    "Kristjan Arumae",
+    "Qing Sun",
+    "Parminder Bhatia"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.emnlp-main.394",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.394/"
+}

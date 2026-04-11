@@ -1,0 +1,23 @@
+{
+  "title": "Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages",
+  "authors": [
+    "Michael A. Hedderich",
+    "David I. Adelani",
+    "Dawei Zhu",
+    "Jesujoba Alabi",
+    "Udia Markus",
+    "Dietrich Klakow"
+  ],
+  "languages": [
+    "Hausa",
+    "Xhosa",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.emnlp-main.204",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.204/"
+}

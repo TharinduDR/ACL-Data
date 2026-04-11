@@ -1,0 +1,29 @@
+{
+  "title": "Conversational Semantic Parsing for Dialog State Tracking",
+  "authors": [
+    "Jianpeng Cheng",
+    "Devang Agrawal",
+    "Héctor Martínez Alonso",
+    "Shruti Bhargava",
+    "Joris Driesen",
+    "Federico Flego",
+    "Dain Kaplan",
+    "Dimitri Kartsaklis",
+    "Lin Li",
+    "Dhivya Piraviperumal",
+    "Jason D Williams",
+    "Hong Yu",
+    "Diarmuid Ó Séaghdha",
+    "Anders Johansson"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-main.651",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.651/"
+}

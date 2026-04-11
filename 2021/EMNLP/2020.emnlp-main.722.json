@@ -1,0 +1,21 @@
+{
+  "title": "Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning",
+  "authors": [
+    "Tao Shen",
+    "Yi Mao",
+    "Pengcheng He",
+    "Guodong Long",
+    "Adam Trischler",
+    "Weizhu Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2020.emnlp-main.722",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.722/"
+}

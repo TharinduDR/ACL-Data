@@ -1,0 +1,31 @@
+{
+  "title": "DAGA: Data Augmentation with a Generation Approach for Low-resource Tagging Tasks",
+  "authors": [
+    "Bosheng Ding",
+    "Linlin Liu",
+    "Lidong Bing",
+    "Canasai Kruengkrai",
+    "Thien Hai Nguyen",
+    "Shafiq Joty",
+    "Luo Si",
+    "Chunyan Miao"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Dutch",
+    "Thai",
+    "Vietnamese",
+    "Czech",
+    "Romanian",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-main.488",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.488/"
+}

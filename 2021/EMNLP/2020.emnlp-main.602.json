@@ -1,0 +1,19 @@
+{
+  "title": "POWERTRANSFORMER: Unsupervised Controllable Revision for Biased Language Correction",
+  "authors": [
+    "Xinyao (Michelle) Ma",
+    "Maarten Sap",
+    "Hannah Rashkin",
+    "Yejin Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.emnlp-main.602",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.602/"
+}

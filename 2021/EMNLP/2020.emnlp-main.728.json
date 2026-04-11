@@ -1,0 +1,20 @@
+{
+  "title": "PYMT5: multi-mode translation of natural language and PYTHON code with transformers",
+  "authors": [
+    "Colin B. Clement",
+    "Dawn Drain",
+    "Jonathan Timcheck",
+    "Alexey Svyatkovskiy",
+    "Neel Sundaresan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.emnlp-main.728",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.728/"
+}

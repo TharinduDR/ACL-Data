@@ -1,0 +1,26 @@
+{
+  "title": "RussianSuperGLUE: A Russian Language Understanding Evaluation Benchmark",
+  "authors": [
+    "Tatiana Shavrina",
+    "Alena Fenogenova",
+    "Anton Emelyanov",
+    "Denis Shevelev",
+    "Ekaterina Artemova",
+    "Valentin Malykh",
+    "Vladislav Mikhailov",
+    "Maria Tikhonova",
+    "Andrey Chertok",
+    "Andrey Evlampiev"
+  ],
+  "languages": [
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2020.emnlp-main.381",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.381/"
+}

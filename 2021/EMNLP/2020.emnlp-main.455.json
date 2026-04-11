@@ -1,0 +1,19 @@
+{
+  "title": "Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding",
+  "authors": [
+    "Samson Tan",
+    "Shafiq Joty",
+    "Lav R. Varshney",
+    "Min-Yen Kan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2020.emnlp-main.455",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.455/"
+}

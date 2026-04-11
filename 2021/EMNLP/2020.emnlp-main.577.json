@@ -1,0 +1,19 @@
+{
+  "title": "An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing",
+  "authors": [
+    "Martin Schmitt",
+    "Sahand Sharifzadeh",
+    "Volker Tresp",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2020.emnlp-main.577",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.577/"
+}

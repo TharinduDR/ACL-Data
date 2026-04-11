@@ -1,0 +1,24 @@
+{
+  "title": "Question Directed Graph Attention Network for Numerical Reasoning over Text",
+  "authors": [
+    "Kunlong Chen",
+    "Weidi Xu",
+    "Xingyi Cheng",
+    "Zou Xiaochuan",
+    "Yuyu Zhang",
+    "Le Song",
+    "Taifeng Wang",
+    "Yuan Qi",
+    "Wei Chu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2020.emnlp-main.549",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.549/"
+}

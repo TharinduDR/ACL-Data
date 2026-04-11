@@ -1,0 +1,19 @@
+{
+  "title": "Long-Short Term Masking Transformer: A Simple but Effective Baseline for Document-level Neural Machine Translation",
+  "authors": [
+    "Pei Zhang",
+    "Boxing Chen",
+    "NiYu Ge",
+    "Kai Fan"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T05 Discourse and Pragmatics"
+  ],
+  "paper_id": "2020.emnlp-main.81",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.81/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Do Explicit Alignments Robustly Improve Multilingual Encoders?",
+  "authors": [
+    "Shijie Wu",
+    "Mark Dredze"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "English",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Russian",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.emnlp-main.362",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.362/"
+}

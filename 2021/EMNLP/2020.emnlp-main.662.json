@@ -1,0 +1,20 @@
+{
+  "title": "Data and Representation for Turkish Natural Language Inference",
+  "authors": [
+    "Emrah Budur",
+    "Rıza Özçelik",
+    "Tunga Güngör",
+    "Christopher Potts"
+  ],
+  "languages": [
+    "English",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.662",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.662/"
+}

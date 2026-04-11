@@ -1,0 +1,23 @@
+{
+  "title": "Neural Deepfake Detection with Factual Structure of Text",
+  "authors": [
+    "Wanjun Zhong",
+    "Duyu Tang",
+    "Zenan Xu",
+    "Ruize Wang",
+    "Nan Duan",
+    "Ming Zhou",
+    "Jiahai Wang",
+    "Jian Yin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2020.emnlp-main.193",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.193/"
+}

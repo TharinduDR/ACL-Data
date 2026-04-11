@@ -1,0 +1,23 @@
+{
+  "title": "Alignment-free Cross-lingual Semantic Role Labeling",
+  "authors": [
+    "Rui Cai",
+    "Mirella Lapata"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.emnlp-main.319",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.319/"
+}

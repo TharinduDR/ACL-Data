@@ -1,0 +1,38 @@
+{
+  "title": "From Zero to Hero: On the Limitations of Zero-Shot Language Transfer with Multilingual Transformers",
+  "authors": [
+    "Anne Lauscher",
+    "Vinit Ravishankar",
+    "Ivan Vulić",
+    "Goran Glavaš"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "Finnish",
+    "Hebrew",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Swedish",
+    "Turkish",
+    "Spanish",
+    "Bulgarian",
+    "German",
+    "French",
+    "Vietnamese",
+    "Thai",
+    "Swahili",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.emnlp-main.363",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.363/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging",
+  "authors": [
+    "Kasturi Bhattacharjee",
+    "Miguel Ballesteros",
+    "Rishita Anubhai",
+    "Smaranda Muresan",
+    "Jie Ma",
+    "Faisal Ladha",
+    "Yaser Al-Onaizan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-main.636",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.636/"
+}

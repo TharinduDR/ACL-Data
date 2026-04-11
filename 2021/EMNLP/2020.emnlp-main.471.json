@@ -1,0 +1,18 @@
+{
+  "title": "Solving Historical Dictionary Codes with a Neural Language Model",
+  "authors": [
+    "Christopher Chu",
+    "Raphael Valenti",
+    "Kevin Knight"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2020.emnlp-main.471",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.471/"
+}

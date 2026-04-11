@@ -1,0 +1,42 @@
+{
+  "title": "X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models",
+  "authors": [
+    "Zhengbao Jiang",
+    "Antonios Anastasopoulos",
+    "Jun Araki",
+    "Haibo Ding",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Dutch",
+    "Spanish",
+    "Russian",
+    "Japanese",
+    "Chinese",
+    "Hungarian",
+    "Hebrew",
+    "Turkish",
+    "Korean",
+    "Vietnamese",
+    "Greek",
+    "Cebuano",
+    "Marathi",
+    "Bengali",
+    "Waray",
+    "Tagalog",
+    "Swahili",
+    "Punjabi",
+    "Malagasy",
+    "Yoruba",
+    "Ilocano"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.emnlp-main.479",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.479/"
+}

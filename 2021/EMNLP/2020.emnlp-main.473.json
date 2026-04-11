@@ -1,0 +1,22 @@
+{
+  "title": "Investigating African-American Vernacular English in Transformer-Based Text Generation",
+  "authors": [
+    "Sophie Groenwold",
+    "Lily Ou",
+    "Aesha Parekh",
+    "Samhita Honnavalli",
+    "Sharon Levy",
+    "Diba Mirza",
+    "William Yang Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2020.emnlp-main.473",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.473/"
+}

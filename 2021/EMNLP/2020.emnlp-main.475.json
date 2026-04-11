@@ -1,0 +1,19 @@
+{
+  "title": "Dynamic Data Selection and Weighting for Iterative Back-Translation",
+  "authors": [
+    "Zi-Yi Dou",
+    "Antonios Anastasopoulos",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Lithuanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.475",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.475/"
+}

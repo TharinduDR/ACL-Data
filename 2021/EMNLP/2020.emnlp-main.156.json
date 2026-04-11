@@ -1,0 +1,19 @@
+{
+  "title": "RNNs can generate bounded hierarchical languages with optimal memory",
+  "authors": [
+    "John Hewitt",
+    "Michael Hahn",
+    "Surya Ganguli",
+    "Percy Liang",
+    "Christopher D. Manning"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-main.156",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.156/"
+}

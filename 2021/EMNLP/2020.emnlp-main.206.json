@@ -1,0 +1,23 @@
+{
+  "title": "Direct Segmentation Models for Streaming Speech Translation",
+  "authors": [
+    "Javier Iranzo-Sánchez",
+    "Adrià Giménez Pastor",
+    "Joan Albert Silvestre-Cerdà",
+    "Pau Baquero-Arnal",
+    "Jorge Civera",
+    "Alfons Juan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.emnlp-main.206",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.206/"
+}

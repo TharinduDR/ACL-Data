@@ -1,0 +1,21 @@
+{
+  "title": "Simple Data Augmentation with the MASK Token Improves Domain Adaptation for Dialog Act Tagging",
+  "authors": [
+    "Semih Yavuz",
+    "Kazuma Hashimoto",
+    "Wenhao Liu",
+    "Nitish Shirish Keskar",
+    "Richard Socher",
+    "Caiming Xiong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2020.emnlp-main.412",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.412/"
+}

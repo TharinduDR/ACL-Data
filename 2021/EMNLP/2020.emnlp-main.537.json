@@ -1,0 +1,23 @@
+{
+  "title": "Semantic Role Labeling Guided Multi-turn Dialogue ReWriter",
+  "authors": [
+    "Kun Xu",
+    "Haochen Tan",
+    "Linfeng Song",
+    "Han Wu",
+    "Haisong Zhang",
+    "Linqi Song",
+    "Dong Yu"
+  ],
+  "languages": [
+    "Chinese",
+    "Cantonese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.emnlp-main.537",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.537/"
+}

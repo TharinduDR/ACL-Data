@@ -1,0 +1,28 @@
+{
+  "title": "Semi-Supervised Bilingual Lexicon Induction with Two-way Interaction",
+  "authors": [
+    "Xu Zhao",
+    "Zihao Wang",
+    "Hao Wu",
+    "Zhang Yong"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Russian",
+    "Italian",
+    "Chinese",
+    "Tamil",
+    "Japanese",
+    "Malay",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.emnlp-main.238",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.238/"
+}

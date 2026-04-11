@@ -1,0 +1,22 @@
+{
+  "title": "Cross Copy Network for Dialogue Generation",
+  "authors": [
+    "Changzhen Ji",
+    "Xin Zhou",
+    "Yating Zhang",
+    "Xiaozhong Liu",
+    "Changlong Sun",
+    "Conghui Zhu",
+    "Tiejun Zhao"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2020.emnlp-main.149",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.149/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Few-Shot Learning for Opinion Summarization",
+  "authors": [
+    "Arthur Bražinskas",
+    "Mirella Lapata",
+    "Ivan Titov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.337",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.337/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "ETC: Encoding Long and Structured Inputs in Transformers",
+  "authors": [
+    "Joshua Ainslie",
+    "Santiago Ontañón",
+    "Chris Alberti",
+    "Vaclav Cvicek",
+    "Zachary Fisher",
+    "Philip Pham",
+    "Anirudh Ravula",
+    "Sumit Sanghai",
+    "Qifan Wang",
+    "Li Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.19",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.19/"
+}

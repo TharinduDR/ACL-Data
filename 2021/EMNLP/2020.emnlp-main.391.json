@@ -1,0 +1,27 @@
+{
+  "title": "Unsupervised Cross-Lingual Part-of-Speech Tagging for Truly Low-Resource Scenarios",
+  "authors": [
+    "Ramy Eskander",
+    "Smaranda Muresan",
+    "Michael Collins"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Amharic",
+    "Basque",
+    "Bulgarian",
+    "Finnish",
+    "Hindi",
+    "Indonesian",
+    "Lithuanian",
+    "Persian",
+    "Portuguese",
+    "Telugu",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-main.391",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.391/"
+}

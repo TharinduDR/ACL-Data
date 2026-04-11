@@ -1,0 +1,20 @@
+{
+  "title": "Learning Which Features Matter: RoBERTa Acquires a Preference for Linguistic Generalizations (Eventually)",
+  "authors": [
+    "Alex Warstadt",
+    "Yian Zhang",
+    "Haau-Sing Li",
+    "Haokun Liu",
+    "Samuel R. Bowman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-main.16",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.16/"
+}

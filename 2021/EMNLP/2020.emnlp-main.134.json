@@ -1,0 +1,20 @@
+{
+  "title": "Beyond [CLS] through Ranking by Generation",
+  "authors": [
+    "Cicero Nogueira dos Santos",
+    "Xiaofei Ma",
+    "Ramesh Nallapati",
+    "Zhiheng Huang",
+    "Bing Xiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2020.emnlp-main.134",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.134/"
+}

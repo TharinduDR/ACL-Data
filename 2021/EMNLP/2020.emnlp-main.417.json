@@ -1,0 +1,22 @@
+{
+  "title": "CAT-Gen: Improving Robustness in NLP Models via Controlled Adversarial Text Generation",
+  "authors": [
+    "Tianlu Wang",
+    "Xuezhi Wang",
+    "Yao Qin",
+    "Ben Packer",
+    "Kang Lee",
+    "Jilin Chen",
+    "Alex Beutel",
+    "Ed Chi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.emnlp-main.417",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.417/"
+}

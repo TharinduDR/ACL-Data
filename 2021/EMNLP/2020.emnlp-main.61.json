@@ -1,0 +1,20 @@
+{
+  "title": "Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning",
+  "authors": [
+    "Zhiyuan Fang",
+    "Tejas Gokhale",
+    "Pratyay Banerjee",
+    "Chitta Baral",
+    "Yezhou Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.61",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.61/"
+}

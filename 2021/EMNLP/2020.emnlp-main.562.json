@@ -1,0 +1,23 @@
+{
+  "title": "DuSQL: A Large-Scale and Pragmatic Chinese Text-to-SQL Dataset",
+  "authors": [
+    "Lijie Wang",
+    "Ao Zhang",
+    "Kun Wu",
+    "Ke Sun",
+    "Zhenghua Li",
+    "Hua Wu",
+    "Min Zhang",
+    "Haifeng Wang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.562",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.562/"
+}

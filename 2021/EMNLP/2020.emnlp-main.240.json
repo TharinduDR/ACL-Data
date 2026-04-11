@@ -1,0 +1,42 @@
+{
+  "title": "A Simple Approach to Learning Unsupervised Multilingual Embeddings",
+  "authors": [
+    "Pratik Jawanpuria",
+    "Mayank Meghwanshi",
+    "Bamdev Mishra"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "English",
+    "French",
+    "Hindi",
+    "Russian",
+    "Bulgarian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Finnish",
+    "Hungarian",
+    "Italian",
+    "Swedish",
+    "Chinese",
+    "Cantonese",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-main.240",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.240/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Learning Music Helps You Read: Using Transfer to Study Linguistic Structure in Language Models",
+  "authors": [
+    "Isabel Papadimitriou",
+    "Dan Jurafsky"
+  ],
+  "languages": [
+    "Spanish",
+    "English",
+    "Portuguese",
+    "Italian",
+    "German",
+    "Finnish",
+    "Basque",
+    "Korean",
+    "Turkish",
+    "Japanese",
+    "Russian",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2020.emnlp-main.554",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.554/"
+}

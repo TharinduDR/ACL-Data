@@ -1,0 +1,20 @@
+{
+  "title": "Towards Medical Machine Reading Comprehension with Structural Knowledge and Plain Text",
+  "authors": [
+    "Dongfang Li",
+    "Baotian Hu",
+    "Qingcai Chen",
+    "Weihua Peng",
+    "Anqi Wang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.emnlp-main.111",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.111/"
+}

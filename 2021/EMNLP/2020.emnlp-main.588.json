@@ -1,0 +1,19 @@
+{
+  "title": "SLURP: A Spoken Language Understanding Resource Package",
+  "authors": [
+    "Emanuele Bastianelli",
+    "Andrea Vanzo",
+    "Pawel Swietojanski",
+    "Verena Rieser"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.588",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.588/"
+}

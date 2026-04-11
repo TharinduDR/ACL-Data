@@ -1,0 +1,17 @@
+{
+  "title": "Zero-Shot Crosslingual Sentence Simplification",
+  "authors": [
+    "Jonathan Mallinson",
+    "Rico Sennrich",
+    "Mirella Lapata"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2020.emnlp-main.415",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.415/"
+}

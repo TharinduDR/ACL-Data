@@ -1,0 +1,18 @@
+{
+  "title": "Learning Physical Common Sense as Knowledge Graph Completion via BERT Data Augmentation and Constrained Tucker Factorization",
+  "authors": [
+    "Zhenjie Zhao",
+    "Evangelos E. Papalexakis",
+    "Xiaojuan Ma"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2020.emnlp-main.266",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.266/"
+}

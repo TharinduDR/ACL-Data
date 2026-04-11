@@ -1,0 +1,22 @@
+{
+  "title": "Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble",
+  "authors": [
+    "Peerat Limkonchotiwat",
+    "Wannaphong Phatthiyaphaibun",
+    "Raheem Sarwar",
+    "Ekapol Chuangsuwanich",
+    "Sarana Nutanong"
+  ],
+  "languages": [
+    "Thai",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.315",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.315/"
+}

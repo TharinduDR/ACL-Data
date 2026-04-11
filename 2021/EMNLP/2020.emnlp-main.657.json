@@ -1,0 +1,19 @@
+{
+  "title": "Discriminatively-Tuned Generative Classifiers for Robust Natural Language Inference",
+  "authors": [
+    "Xiaoan Ding",
+    "Tianyu Liu",
+    "Baobao Chang",
+    "Zhifang Sui",
+    "Kevin Gimpel"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2020.emnlp-main.657",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.657/"
+}

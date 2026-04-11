@@ -1,0 +1,27 @@
+{
+  "title": "Multi-task Learning for Multilingual Neural Machine Translation",
+  "authors": [
+    "Yiren Wang",
+    "ChengXiang Zhai",
+    "Hany Hassan Awadalla"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Czech",
+    "German",
+    "Finnish",
+    "Latvian",
+    "Estonian",
+    "Romanian",
+    "Hindi",
+    "Turkish",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.75",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.75/"
+}

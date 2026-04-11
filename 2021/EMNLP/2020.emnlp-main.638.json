@@ -1,0 +1,24 @@
+{
+  "title": "Active Learning for BERT: An Empirical Study",
+  "authors": [
+    "Liat Ein-Dor",
+    "Alon Halfon",
+    "Ariel Gera",
+    "Eyal Shnarch",
+    "Lena Dankin",
+    "Leshem Choshen",
+    "Marina Danilevsky",
+    "Ranit Aharonov",
+    "Yoav Katz",
+    "Noam Slonim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.638",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.638/"
+}

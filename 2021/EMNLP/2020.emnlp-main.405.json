@@ -1,0 +1,24 @@
+{
+  "title": "Semantic Label Smoothing for Sequence to Sequence Problems",
+  "authors": [
+    "Michal Lukasik",
+    "Himanshu Jain",
+    "Aditya Krishna Menon",
+    "Seungyeon Kim",
+    "Srinadh Bhojanapalli",
+    "Felix Yu",
+    "Sanjiv Kumar"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2020.emnlp-main.405",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.405/"
+}

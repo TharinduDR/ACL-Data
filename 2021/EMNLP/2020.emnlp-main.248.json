@@ -1,0 +1,20 @@
+{
+  "title": "A Simple and Effective Model for Answering Multi-span Questions",
+  "authors": [
+    "Elad Segal",
+    "Avia Efrat",
+    "Mor Shoham",
+    "Amir Globerson",
+    "Jonathan Berant"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-main.248",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.248/"
+}

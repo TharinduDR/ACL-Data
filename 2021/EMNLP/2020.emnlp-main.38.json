@@ -1,0 +1,19 @@
+{
+  "title": "Self-Supervised Meta-Learning for Few-Shot Natural Language Classification Tasks",
+  "authors": [
+    "Trapit Bansal",
+    "Rishikesh Jha",
+    "Tsenduren Munkhdalai",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.emnlp-main.38",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.38/"
+}

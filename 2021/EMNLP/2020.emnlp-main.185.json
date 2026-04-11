@@ -1,0 +1,32 @@
+{
+  "title": "XCOPA: A Multilingual Dataset for Causal Commonsense Reasoning",
+  "authors": [
+    "Edoardo M. Ponti",
+    "Goran Glavaš",
+    "Olga Majewska",
+    "Qianchu Liu",
+    "Ivan Vulić",
+    "Anna Korhonen"
+  ],
+  "languages": [
+    "English",
+    "Estonian",
+    "Haitian Creole",
+    "Indonesian",
+    "Italian",
+    "Quechua",
+    "Swahili",
+    "Tamil",
+    "Thai",
+    "Turkish",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.emnlp-main.185",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.185/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Not Low-Resource Anymore: Aligner Ensembling, Batch Filtering, and New Datasets for Bengali-English Machine Translation",
+  "authors": [
+    "Tahmid Hasan",
+    "Abhik Bhattacharjee",
+    "Kazi Samin",
+    "Masum Hasan",
+    "Madhusudan Basak",
+    "M. Sohel Rahman",
+    "Rifat Shahriyar"
+  ],
+  "languages": [
+    "Bengali",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.207",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.207/"
+}

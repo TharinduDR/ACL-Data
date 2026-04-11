@@ -1,0 +1,23 @@
+{
+  "title": "A Supervised Word Alignment Method based on Cross-Language Span Prediction using Multilingual BERT",
+  "authors": [
+    "Masaaki Nagata",
+    "Katsuki Chousa",
+    "Masaaki Nishino"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "German",
+    "Romanian",
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.41",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.41/"
+}

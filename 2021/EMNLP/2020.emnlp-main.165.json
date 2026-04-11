@@ -1,0 +1,20 @@
+{
+  "title": "FedED: Federated Learning via Ensemble Distillation for Medical Relation Extraction",
+  "authors": [
+    "Dianbo Sui",
+    "Yubo Chen",
+    "Jun Zhao",
+    "Yantao Jia",
+    "Yuanta Xie",
+    "Weijian Sun"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.emnlp-main.165",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.165/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems",
+  "authors": [
+    "Siamak Shakeri",
+    "Cicero Nogueira dos Santos",
+    "Henry Zhu",
+    "Patrick Ng",
+    "Feng Nan",
+    "Zhiguo Wang",
+    "Ramesh Nallapati",
+    "Bing Xiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.439",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.439/"
+}

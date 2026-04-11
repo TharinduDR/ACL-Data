@@ -1,0 +1,22 @@
+{
+  "title": "A Rigorous Study on Named Entity Recognition: Can Fine-tuning Pretrained Model Lead to the Promised Land?",
+  "authors": [
+    "Hongyu Lin",
+    "Yaojie Lu",
+    "Jialong Tang",
+    "Xianpei Han",
+    "Le Sun",
+    "Zhicheng Wei",
+    "Nicholas Jing Yuan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.592",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.592/"
+}

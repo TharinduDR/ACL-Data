@@ -1,0 +1,19 @@
+{
+  "title": "Be More with Less: Hypergraph Attention Networks for Inductive Text Classification",
+  "authors": [
+    "Kaize Ding",
+    "Jianling Wang",
+    "Jundong Li",
+    "Dingcheng Li",
+    "Huan Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.emnlp-main.399",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.399/"
+}

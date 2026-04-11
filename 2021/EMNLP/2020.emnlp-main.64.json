@@ -1,0 +1,21 @@
+{
+  "title": "Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning",
+  "authors": [
+    "Haochen Liu",
+    "Wentao Wang",
+    "Yiqi Wang",
+    "Hui Liu",
+    "Zitao Liu",
+    "Jiliang Tang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.64",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.64/"
+}

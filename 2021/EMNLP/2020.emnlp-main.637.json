@@ -1,0 +1,18 @@
+{
+  "title": "Cold-start Active Learning through Self-supervised Language Modeling",
+  "authors": [
+    "Michelle Yuan",
+    "Hsuan-Tien Lin",
+    "Jordan Boyd-Graber"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.emnlp-main.637",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.637/"
+}

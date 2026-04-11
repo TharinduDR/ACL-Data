@@ -1,0 +1,19 @@
+{
+  "title": "Non-Autoregressive Machine Translation with Latent Alignments",
+  "authors": [
+    "Chitwan Saharia",
+    "William Chan",
+    "Saurabh Saxena",
+    "Mohammad Norouzi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.emnlp-main.83",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.83/"
+}

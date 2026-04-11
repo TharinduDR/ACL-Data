@@ -1,0 +1,19 @@
+{
+  "title": "Evaluating the Factual Consistency of Abstractive Text Summarization",
+  "authors": [
+    "Wojciech Kryściński",
+    "Bryan McCann",
+    "Caiming Xiong",
+    "Richard Socher"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.750",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.750/"
+}

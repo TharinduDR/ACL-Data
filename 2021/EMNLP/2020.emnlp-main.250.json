@@ -1,0 +1,19 @@
+{
+  "title": "Meta Fine-Tuning Neural Language Models for Multi-Domain Text Mining",
+  "authors": [
+    "Chengyu Wang",
+    "Minghui Qiu",
+    "Jun Huang",
+    "Xiaofeng He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.emnlp-main.250",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.250/"
+}

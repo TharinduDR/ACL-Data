@@ -1,0 +1,21 @@
+{
+  "title": "XL-AMR: Enabling Cross-Lingual AMR Parsing with Transfer Learning Techniques",
+  "authors": [
+    "Rexhina Blloshmi",
+    "Rocco Tripodi",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.emnlp-main.195",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.195/"
+}

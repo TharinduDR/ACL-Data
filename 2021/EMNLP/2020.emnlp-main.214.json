@@ -1,0 +1,18 @@
+{
+  "title": "Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT",
+  "authors": [
+    "Alexandra Chronopoulou",
+    "Dario Stojanovski",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.emnlp-main.214",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.214/"
+}

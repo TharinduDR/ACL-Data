@@ -1,0 +1,23 @@
+{
+  "title": "Connecting the Dots: Event Graph Schema Induction with Path Language Modeling",
+  "authors": [
+    "Manling Li",
+    "Qi Zeng",
+    "Ying Lin",
+    "KyungHyun Cho",
+    "Heng Ji",
+    "Jonathan May",
+    "Nathanael Chambers",
+    "Clare Voss"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.emnlp-main.50",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.50/"
+}

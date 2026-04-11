@@ -1,0 +1,23 @@
+{
+  "title": "Generating Fact Checking Briefs",
+  "authors": [
+    "Angela Fan",
+    "Aleksandra Piktus",
+    "Fabio Petroni",
+    "Guillaume Wenzek",
+    "Marzieh Saeidi",
+    "Andreas Vlachos",
+    "Antoine Bordes",
+    "Sebastian Riedel"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.580",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.580/"
+}

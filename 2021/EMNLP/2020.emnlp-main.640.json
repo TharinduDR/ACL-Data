@@ -1,0 +1,22 @@
+{
+  "title": "Vector-Vector-Matrix Architecture: A Novel Hardware-Aware Framework for Low-Latency Inference in NLP Applications",
+  "authors": [
+    "Matthew Khoury",
+    "Rumen Dangovski",
+    "Longwu Ou",
+    "Preslav Nakov",
+    "Yichen Shen",
+    "Li Jing"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.640",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.640/"
+}

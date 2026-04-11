@@ -1,0 +1,18 @@
+{
+  "title": "SLEDGE-Z: A Zero-Shot Baseline for COVID-19 Literature Search",
+  "authors": [
+    "Sean MacAvaney",
+    "Arman Cohan",
+    "Nazli Goharian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.emnlp-main.341",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.341/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Text Classification Using Label Names Only: A Language Model Self-Training Approach",
+  "authors": [
+    "Yu Meng",
+    "Yunyi Zhang",
+    "Jiaxin Huang",
+    "Chenyan Xiong",
+    "Heng Ji",
+    "Chao Zhang",
+    "Jiawei Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.emnlp-main.724",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.724/"
+}

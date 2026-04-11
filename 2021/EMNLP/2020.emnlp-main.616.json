@@ -1,0 +1,19 @@
+{
+  "title": "Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks",
+  "authors": [
+    "Denis Emelin",
+    "Ivan Titov",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.emnlp-main.616",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.616/"
+}

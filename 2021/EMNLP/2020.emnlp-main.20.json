@@ -1,0 +1,18 @@
+{
+  "title": "Pre-Training Transformers as Energy-Based Cloze Models",
+  "authors": [
+    "Kevin Clark",
+    "Minh-Thang Luong",
+    "Quoc V. Le",
+    "Christopher D. Manning"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.20",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.20/"
+}

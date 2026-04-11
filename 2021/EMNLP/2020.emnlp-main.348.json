@@ -1,0 +1,18 @@
+{
+  "title": "Sparse Text Generation",
+  "authors": [
+    "Pedro Henrique Martins",
+    "Zita Marinho",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2020.emnlp-main.348",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.348/"
+}

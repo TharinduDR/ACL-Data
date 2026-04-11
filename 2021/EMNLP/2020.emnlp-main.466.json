@@ -1,0 +1,18 @@
+{
+  "title": "AMBIGQA: Answering Ambiguous Open-domain Questions",
+  "authors": [
+    "Sewon Min",
+    "Julian Michael",
+    "Hannaneh Hajishirzi",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.466",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.466/"
+}

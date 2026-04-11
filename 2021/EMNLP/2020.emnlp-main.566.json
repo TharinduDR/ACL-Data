@@ -1,0 +1,19 @@
+{
+  "title": "Train No Evil: Selective Masking for Task-Guided Pre-Training",
+  "authors": [
+    "Yuxian Gu",
+    "Zhengyan Zhang",
+    "Xiaozhi Wang",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.emnlp-main.566",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.566/"
+}

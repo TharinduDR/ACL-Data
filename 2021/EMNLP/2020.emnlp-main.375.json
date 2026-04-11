@@ -1,0 +1,21 @@
+{
+  "title": "Structural Supervision Improves Few-Shot Learning and Syntactic Generalization in Neural Language Models",
+  "authors": [
+    "Ethan Wilcox",
+    "Peng Qian",
+    "Richard Futrell",
+    "Ryosuke Kohita",
+    "Roger Levy",
+    "Miguel Ballesteros"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2020.emnlp-main.375",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.375/"
+}

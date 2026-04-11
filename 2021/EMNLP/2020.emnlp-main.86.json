@@ -1,0 +1,19 @@
+{
+  "title": "IIRC: A Dataset of Incomplete Information Reading Comprehension Questions",
+  "authors": [
+    "James Ferguson",
+    "Matt Gardner",
+    "Hannaneh Hajishirzi",
+    "Tushar Khot",
+    "Pradeep Dasigi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2020.emnlp-main.86",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.86/"
+}

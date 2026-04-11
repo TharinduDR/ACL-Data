@@ -1,0 +1,22 @@
+{
+  "title": "Accurate Word Alignment Induction from Neural Machine Translation",
+  "authors": [
+    "Yun Chen",
+    "Yang Liu",
+    "Guanhua Chen",
+    "Xin Jiang",
+    "Qun Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.emnlp-main.42",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.42/"
+}

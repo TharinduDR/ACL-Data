@@ -1,0 +1,19 @@
+{
+  "title": "Point to the Expression: Solving Algebraic Word Problems using the Expression-Pointer Transformer Model",
+  "authors": [
+    "Bugeun Kim",
+    "Kyung Seo Ki",
+    "Donggeon Lee",
+    "Gahgene Gweon"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2020.emnlp-main.308",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.308/"
+}

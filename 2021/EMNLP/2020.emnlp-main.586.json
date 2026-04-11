@@ -1,0 +1,25 @@
+{
+  "title": "Probing Pretrained Language Models for Lexical Semantics",
+  "authors": [
+    "Ivan Vulić",
+    "Edoardo M. Ponti",
+    "Robert Litschko",
+    "Goran Glavaš",
+    "Anna Korhonen"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Finnish",
+    "Chinese",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.emnlp-main.586",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.586/"
+}

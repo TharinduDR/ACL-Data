@@ -1,0 +1,30 @@
+{
+  "title": "COMET: A Neural Framework for MT Evaluation",
+  "authors": [
+    "Ricardo Rei",
+    "Craig Stewart",
+    "Ana C Farinha",
+    "Alon Lavie"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech",
+    "Finnish",
+    "Gujarati",
+    "Korean",
+    "Latvian",
+    "Russian",
+    "Chinese",
+    "Persian",
+    "Portuguese",
+    "Swedish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.213",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.213/"
+}

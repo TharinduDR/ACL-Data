@@ -1,0 +1,24 @@
+{
+  "title": "Interactive Refinement of Cross-Lingual Word Embeddings",
+  "authors": [
+    "Michelle Yuan",
+    "Mozhi Zhang",
+    "Benjamin Van Durme",
+    "Leah Findlater",
+    "Jordan Boyd-Graber"
+  ],
+  "languages": [
+    "English",
+    "Ilocano",
+    "Sinhala",
+    "Tigrinya",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.emnlp-main.482",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.482/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "VolTAGE: Volatility Forecasting via Text Audio Fusion with Graph Convolution Networks for Earnings Calls",
+  "authors": [
+    "Ramit Sawhney",
+    "Piyush Khanna",
+    "Arshiya Aggarwal",
+    "Taru Jain",
+    "Puneet Mathur",
+    "Rajiv Ratn Shah"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.emnlp-main.643",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.643/"
+}

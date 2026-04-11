@@ -1,0 +1,21 @@
+{
+  "title": "Coarse-to-Fine Pre-training for Named Entity Recognition",
+  "authors": [
+    "Mengge Xue",
+    "Bowen Yu",
+    "Zhenyu Zhang",
+    "Tingwen Liu",
+    "Yue Zhang",
+    "Bin Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.514",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.514/"
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Intrinsic Probing through Dimension Selection",
+  "authors": [
+    "Lucas Torroba Hennigen",
+    "Adina Williams",
+    "Ryan Cotterell"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Arabic",
+    "Belarusian",
+    "Bulgarian",
+    "Catalan",
+    "Czech",
+    "Danish",
+    "German",
+    "English",
+    "Estonian",
+    "Basque",
+    "Persian",
+    "Finnish",
+    "French",
+    "Irish",
+    "Hebrew",
+    "Hindi",
+    "Croatian",
+    "Hungarian",
+    "Italian",
+    "Latin",
+    "Latvian",
+    "Lithuanian",
+    "Dutch",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Slovak",
+    "Slovenian",
+    "Spanish",
+    "Serbian",
+    "Swedish",
+    "Turkish",
+    "Ukrainian",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-main.15",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.15/"
+}

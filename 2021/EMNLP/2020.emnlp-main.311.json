@@ -1,0 +1,18 @@
+{
+  "title": "Routing Enforced Generative Model for Recipe Generation",
+  "authors": [
+    "Zhiwei Yu",
+    "Hongyu Zang",
+    "Xiaojun Wan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2020.emnlp-main.311",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.311/"
+}

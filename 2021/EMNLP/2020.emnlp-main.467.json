@@ -1,0 +1,23 @@
+{
+  "title": "Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space",
+  "authors": [
+    "Dayiheng Liu",
+    "Yeyun Gong",
+    "Jie Fu",
+    "Yu Yan",
+    "Jiusheng Chen",
+    "Jiancheng Lv",
+    "Nan Duan",
+    "Ming Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.467",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.467/"
+}

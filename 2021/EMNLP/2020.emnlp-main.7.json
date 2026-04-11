@@ -1,0 +1,28 @@
+{
+  "title": "Simulated Multiple Reference Training Improves Low-Resource Machine Translation",
+  "authors": [
+    "Huda Khayrallah",
+    "Brian Thompson",
+    "Matt Post",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "English",
+    "Hungarian",
+    "Indonesian",
+    "Czech",
+    "Serbian",
+    "Catalan",
+    "Swahili",
+    "Dutch",
+    "Polish",
+    "Macedonian",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.7",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.7/"
+}

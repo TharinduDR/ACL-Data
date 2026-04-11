@@ -1,0 +1,24 @@
+{
+  "title": "CLIRMatrix: A massively large collection of bilingual and multilingual datasets for Cross-Linguual Information Retrieval",
+  "authors": [
+    "Shuo Sun",
+    "Kevin Duh"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Japanese",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.emnlp-main.340",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.340/"
+}

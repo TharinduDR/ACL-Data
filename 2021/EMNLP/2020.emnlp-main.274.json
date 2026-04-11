@@ -1,0 +1,20 @@
+{
+  "title": "Variational Hierarchical Dialog Autoencoder for Dialog State Tracking Data Augmentation",
+  "authors": [
+    "Kang Min Yoo",
+    "Hanbit Lee",
+    "Franck Dernoncourt",
+    "Trung Bui",
+    "Walter Chang",
+    "Sang-goo Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2020.emnlp-main.274",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.274/"
+}

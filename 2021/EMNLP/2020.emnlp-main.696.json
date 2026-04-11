@@ -1,0 +1,16 @@
+{
+  "title": "Improving Low Compute Language Modeling with In-Domain Embedding Initialisation",
+  "authors": [
+    "Charles Welch",
+    "Rada Mihalcea",
+    "Jonathan K. Kummerfeld"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.696",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.696/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Iterative Domain-Repaired Back-Translation",
+  "authors": [
+    "Hao-Ran Wei",
+    "Zhirui Zhang",
+    "Boxing Chen",
+    "Weihua Luo"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.474",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.474/"
+}

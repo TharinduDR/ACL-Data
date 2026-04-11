@@ -1,0 +1,22 @@
+{
+  "title": "Understanding the Difficulty of Training Transformers",
+  "authors": [
+    "Liyuan Liu",
+    "Xiaodong Liu",
+    "Jianfeng Gao",
+    "Weizhu Chen",
+    "Jiawei Han"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.463",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.463/"
+}

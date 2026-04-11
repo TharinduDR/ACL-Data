@@ -1,0 +1,17 @@
+{
+  "title": "Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT: A Case Study on CoQA",
+  "authors": [
+    "Ieva Staliūnaitė",
+    "Ignacio Iacobacci"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T15 Lexicon and Semantics",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2020.emnlp-main.573",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.573/"
+}

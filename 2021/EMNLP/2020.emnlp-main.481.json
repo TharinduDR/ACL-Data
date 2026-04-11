@@ -1,0 +1,30 @@
+{
+  "title": "Localizing Open-Ontology QA Semantic Parsers in a Day Using Machine Translation",
+  "authors": [
+    "Mehrad Moradshahi",
+    "Giovanni Campagna",
+    "Sina J. Semnani",
+    "Silei Xu",
+    "Monica S. Lam"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Spanish",
+    "Persian",
+    "Finnish",
+    "Italian",
+    "Japanese",
+    "Polish",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-main.481",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.481/"
+}

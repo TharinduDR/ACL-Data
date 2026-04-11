@@ -1,0 +1,20 @@
+{
+  "title": "An Unsupervised Sentence Embedding Method by Mutual Information Maximization",
+  "authors": [
+    "Yan Zhang",
+    "Ruidan He",
+    "Zuozhu Liu",
+    "Kwan Hui Lim",
+    "Lidong Bing"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.124",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.124/"
+}

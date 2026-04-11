@@ -1,0 +1,41 @@
+{
+  "title": "Investigating Cross-Linguistic Adjective Ordering Tendencies with a Latent-Variable Model",
+  "authors": [
+    "Jun Yen Leung",
+    "Guy Emerson",
+    "Ryan Cotterell"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Russian",
+    "Bulgarian",
+    "Catalan",
+    "Croatian",
+    "Danish",
+    "Dutch",
+    "Estonian",
+    "Finnish",
+    "French",
+    "Greek",
+    "Hebrew",
+    "Hungarian",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Slovak",
+    "Slovenian",
+    "Spanish",
+    "Swedish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.emnlp-main.329",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.329/"
+}

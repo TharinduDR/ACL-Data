@@ -1,0 +1,20 @@
+{
+  "title": "Adversarial Self-Supervised Data-Free Distillation for Text Classification",
+  "authors": [
+    "Xinyin Ma",
+    "Yongliang Shen",
+    "Gongfan Fang",
+    "Chen Chen",
+    "Chenghao Jia",
+    "Weiming Lu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.emnlp-main.499",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.499/"
+}

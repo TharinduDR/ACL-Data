@@ -1,0 +1,19 @@
+{
+  "title": "Affective Event Classification with Discourse-enhanced Self-training",
+  "authors": [
+    "Yuan Zhuang",
+    "Tianyu Jiang",
+    "Ellen Riloff"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.emnlp-main.452",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.452/"
+}

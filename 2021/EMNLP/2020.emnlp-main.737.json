@@ -1,0 +1,19 @@
+{
+  "title": "F²-Softmax: Diversifying Neural Text Generation via Frequency Factorized Softmax",
+  "authors": [
+    "Byung-Ju Choi",
+    "Jimin Hong",
+    "David Keetae Park",
+    "Sang Wan Lee"
+  ],
+  "languages": [
+    "English",
+    "Korean"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2020.emnlp-main.737",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.737/"
+}

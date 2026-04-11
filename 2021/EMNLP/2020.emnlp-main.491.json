@@ -1,0 +1,20 @@
+{
+  "title": "Plug and Play Autoencoders for Conditional Text Generation",
+  "authors": [
+    "Florian Mai",
+    "Nikolaos Pappas",
+    "Ivan Montero",
+    "Noah A. Smith",
+    "James Henderson"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.emnlp-main.491",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.491/"
+}

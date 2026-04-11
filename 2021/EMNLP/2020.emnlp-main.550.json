@@ -1,0 +1,22 @@
+{
+  "title": "Dense Passage Retrieval for Open-Domain Question Answering",
+  "authors": [
+    "Vladimir Karpukhin",
+    "Barlas Oôôôz",
+    "Sewon Min",
+    "Patrick Lewis",
+    "Ledell Wu",
+    "Sergey Edunov",
+    "Danqi Chen",
+    "Wen-tau Yih"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2020.emnlp-main.550",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.550/"
+}

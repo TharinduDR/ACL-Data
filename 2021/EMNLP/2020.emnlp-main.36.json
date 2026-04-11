@@ -1,0 +1,20 @@
+{
+  "title": "Contrastive Distillation on Intermediate Representations for Language Model Compression",
+  "authors": [
+    "Siqi Sun",
+    "Zhe Gan",
+    "Yu Cheng",
+    "Yuwei Fang",
+    "Shuohang Wang",
+    "Jingjing Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.36",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.36/"
+}

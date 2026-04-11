@@ -1,0 +1,19 @@
+{
+  "title": "Unsupervised Parsing with S-DIORA: Single Tree Encoding for Deep Inside-Outside Recursive Autoencoders",
+  "authors": [
+    "Andrew Drozdov",
+    "Subendhu Rongali",
+    "Yi-Pei Chen",
+    "Tim O'Gorman",
+    "Mohit Iyyer",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-main.392",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.392/"
+}

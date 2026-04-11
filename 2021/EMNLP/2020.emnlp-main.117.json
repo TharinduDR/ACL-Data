@@ -1,0 +1,21 @@
+{
+  "title": "CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT",
+  "authors": [
+    "Akshay Smit",
+    "Saahil Jain",
+    "Pranav Rajpurkar",
+    "Anuj Pareek",
+    "Andrew Y. Ng",
+    "Matthew P. Lungren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.emnlp-main.117",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.117/"
+}

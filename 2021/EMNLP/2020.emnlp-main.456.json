@@ -1,0 +1,39 @@
+{
+  "title": "Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions",
+  "authors": [
+    "Arya D. McCarthy",
+    "Adina Williams",
+    "Shijia Liu",
+    "David Yarowsky",
+    "Ryan Cotterell"
+  ],
+  "languages": [
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Catalan",
+    "Hebrew",
+    "Greek",
+    "Hindi",
+    "Bulgarian",
+    "Croatian",
+    "Danish",
+    "Lithuanian",
+    "Latvian",
+    "Polish",
+    "Slovak",
+    "Slovenian",
+    "Swedish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.456",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.456/"
+}

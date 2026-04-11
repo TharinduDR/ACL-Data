@@ -1,0 +1,16 @@
+{
+  "title": "Debiasing knowledge graph embeddings",
+  "authors": [
+    "Joseph Fisher",
+    "Arpit Mittal",
+    "Dave Palfrey",
+    "Christos Christodoulopoulos"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.emnlp-main.595",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.595/"
+}

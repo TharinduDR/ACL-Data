@@ -1,0 +1,23 @@
+{
+  "title": "Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning",
+  "authors": [
+    "Lianhui Qin",
+    "Vered Shwartz",
+    "Peter West",
+    "Chandra Bhagavatula",
+    "Jena D. Hwang",
+    "Ronan Le Bras",
+    "Antoine Bosselut",
+    "Yejin Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.emnlp-main.58",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.58/"
+}

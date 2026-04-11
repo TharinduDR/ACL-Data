@@ -1,0 +1,23 @@
+{
+  "title": "Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection",
+  "authors": [
+    "Ruize Wang",
+    "Duyu Tang",
+    "Nan Duan",
+    "Wanjun Zhong",
+    "Zhongyu Wei",
+    "Xuanjing Huang",
+    "Daxin Jiang",
+    "Ming Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.emnlp-main.320",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.320/"
+}

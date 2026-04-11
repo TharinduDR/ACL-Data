@@ -1,0 +1,22 @@
+{
+  "title": "Discourse Self-Attention for Discourse Element Identification in Argumentative Student Essays",
+  "authors": [
+    "Wei Song",
+    "Ziyao Song",
+    "Ruiji Fu",
+    "Lizhen Liu",
+    "Miaomiao Cheng",
+    "Ting Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.emnlp-main.225",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.225/"
+}

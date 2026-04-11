@@ -1,0 +1,30 @@
+{
+  "title": "Learn to Cross-lingual Transfer with Meta Graph Learning Across Heterogeneous Languages",
+  "authors": [
+    "Zheng Li",
+    "Mukul Kumar",
+    "William Headden",
+    "Bing Yin",
+    "Ying Wei",
+    "Yu Zhang",
+    "Qiang Yang"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Japanese",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Cantonese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.emnlp-main.179",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.179/"
+}

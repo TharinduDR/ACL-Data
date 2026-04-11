@@ -1,0 +1,19 @@
+{
+  "title": "COMETA: A Corpus for Medical Entity Linking in the Social Media",
+  "authors": [
+    "Marco Basaldella",
+    "Fangyu Liu",
+    "Ehsan Shareghi",
+    "Nigel Collier"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.emnlp-main.253",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.253/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Exploring Contextualized Neural Language Models for Temporal Dependency Parsing",
+  "authors": [
+    "Hayley Ross",
+    "Jonathon Cai",
+    "Bonan Min"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.689",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.689/"
+}

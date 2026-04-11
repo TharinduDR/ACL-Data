@@ -1,0 +1,25 @@
+{
+  "title": "MAVEN: A Massive General Domain Event Detection Dataset",
+  "authors": [
+    "Xiaozhi Wang",
+    "Ziqi Wang",
+    "Xu Han",
+    "Wangyi Jiang",
+    "Rong Han",
+    "Zhiyuan Liu",
+    "Juanzi Li",
+    "Peng Li",
+    "Yankai Lin",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.129",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.129/"
+}

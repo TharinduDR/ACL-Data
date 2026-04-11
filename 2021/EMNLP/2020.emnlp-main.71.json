@@ -1,0 +1,44 @@
+{
+  "title": "Word class flexibility: A deep contextualized approach",
+  "authors": [
+    "Bai Li",
+    "Guillaume Thomas",
+    "Yang Xu",
+    "Frank Rudzicz"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Catalan",
+    "Chinese",
+    "Croatian",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "Galician",
+    "German",
+    "Hebrew",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Latin",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Slovenian",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2020.emnlp-main.71",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.71/"
+}

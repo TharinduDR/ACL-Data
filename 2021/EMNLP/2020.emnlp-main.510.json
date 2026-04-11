@@ -1,0 +1,19 @@
+{
+  "title": "Summarizing Text on Any Aspects: A Knowledge-Informed Weakly-Supervised Approach",
+  "authors": [
+    "Bowen Tan",
+    "Lianhui Qin",
+    "Eric P. Xing",
+    "Zhitong Hu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.510",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.510/"
+}

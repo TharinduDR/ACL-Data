@@ -1,0 +1,30 @@
+{
+  "title": "MedDialog: Large-scale Medical Dialogue Datasets",
+  "authors": [
+    "Guangtao Zeng",
+    "Wenmian Yang",
+    "Zeqian Ju",
+    "Yue Yang",
+    "Sicheng Wang",
+    "Ruisi Zhang",
+    "Meng Zhou",
+    "Jiaqi Zeng",
+    "Xiangyu Dong",
+    "Ruoyu Zhang",
+    "Hongchao Fang",
+    "Penghui Zhu",
+    "Shu Chen",
+    "Pengtao Xie"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.emnlp-main.743",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.743/"
+}

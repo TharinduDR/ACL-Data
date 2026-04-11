@@ -1,0 +1,29 @@
+{
+  "title": "LAReQA: Language-Agnostic Answer Retrieval from a Multilingual Pool",
+  "authors": [
+    "Uma Roy",
+    "Noah Constant",
+    "Rami Al-Rfou",
+    "Aditya Barua",
+    "Aaron Phillips",
+    "Yinfei Yang"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Spanish",
+    "Hindi",
+    "Russian",
+    "Thai",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.477",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.477/"
+}

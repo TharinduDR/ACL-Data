@@ -1,0 +1,19 @@
+{
+  "title": "Incorporating a Local Translation Mechanism into Non-autoregressive Translation",
+  "authors": [
+    "Xiang Kong",
+    "Zhisong Zhang",
+    "Eduard Hovy"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.emnlp-main.79",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.79/"
+}

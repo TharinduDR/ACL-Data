@@ -1,0 +1,20 @@
+{
+  "title": "SUBJQA: A Dataset for Subjectivity and Review Comprehension",
+  "authors": [
+    "Johannes Bjerva",
+    "Nikita Bhutani",
+    "Behzad Golshan",
+    "Wang-Chiew Tan",
+    "Isabelle Augenstein"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.emnlp-main.442",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.442/"
+}

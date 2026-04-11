@@ -1,0 +1,18 @@
+{
+  "title": "Online Back-Parsing for AMR-to-Text Generation",
+  "authors": [
+    "Xuefeng Bai",
+    "Linfeng Song",
+    "Yue Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.emnlp-main.92",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.92/"
+}

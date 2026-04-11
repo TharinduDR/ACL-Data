@@ -1,0 +1,30 @@
+{
+  "title": "Pre-tokenization of Multi-word Expressions in Cross-lingual Word Embeddings",
+  "authors": [
+    "Naoki Otani",
+    "Satoru Ozaki",
+    "Xingyuan Zhao",
+    "Yucen Li",
+    "Micaelah St Johns",
+    "Lori Levin"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Chinese",
+    "German",
+    "Hebrew",
+    "Hindi",
+    "Japanese",
+    "Russian",
+    "Spanish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.emnlp-main.360",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.360/"
+}

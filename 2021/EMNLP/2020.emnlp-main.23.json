@@ -1,0 +1,21 @@
+{
+  "title": "Multi-Dimensional Gender Bias Classification",
+  "authors": [
+    "Emily Dinan",
+    "Angela Fan",
+    "Ledell Wu",
+    "Jason Weston",
+    "Douwe Kiela",
+    "Adina Williams"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2020.emnlp-main.23",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.23/"
+}

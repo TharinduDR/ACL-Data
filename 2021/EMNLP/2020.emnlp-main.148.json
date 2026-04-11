@@ -1,0 +1,23 @@
+{
+  "title": "Structured Attention for Unsupervised Dialogue Structure Induction",
+  "authors": [
+    "Liang Qiu",
+    "Yizhou Zhao",
+    "Weiyang Shi",
+    "Yuan Liang",
+    "Feng Shi",
+    "Tao Yuan",
+    "Zhou Yu",
+    "Song-Chun Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-main.148",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.148/"
+}

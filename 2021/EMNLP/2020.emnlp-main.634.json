@@ -1,0 +1,20 @@
+{
+  "title": "Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting",
+  "authors": [
+    "Sanyuan Chen",
+    "Yutai Hou",
+    "Yiming Cui",
+    "Wanxiang Che",
+    "Ting Liu",
+    "Xiangzhan Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.634",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.634/"
+}

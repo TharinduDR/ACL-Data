@@ -1,0 +1,19 @@
+{
+  "title": "Text Segmentation by Cross Segment Attention",
+  "authors": [
+    "Michal Lukasik",
+    "Boris Dadachev",
+    "Kishore Papineni",
+    "Gonçalo Simões"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.380",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.380/"
+}

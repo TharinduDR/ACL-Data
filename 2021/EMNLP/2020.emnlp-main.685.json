@@ -1,0 +1,19 @@
+{
+  "title": "Learning to Ignore: Long Document Coreference with Bounded Memory Neural Networks",
+  "authors": [
+    "Shubham Toshniwal",
+    "Sam Wiseman",
+    "Allyson Ettinger",
+    "Karen Livescu",
+    "Kevin Gimpel"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.685",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.685/"
+}

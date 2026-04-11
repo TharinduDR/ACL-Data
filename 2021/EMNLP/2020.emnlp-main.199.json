@@ -1,0 +1,24 @@
+{
+  "title": "Comparative Evaluation of Label-Agnostic Selection Bias in Multilingual Hate Speech Datasets",
+  "authors": [
+    "Nedjma Ousidhoum",
+    "Yangqiu Song",
+    "Dit-Yan Yeung"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Arabic",
+    "Italian",
+    "Portuguese",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.emnlp-main.199",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.199/"
+}

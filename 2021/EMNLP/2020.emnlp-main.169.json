@@ -1,0 +1,22 @@
+{
+  "title": "Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation",
+  "authors": [
+    "Yan Zhang",
+    "Zhijiang Guo",
+    "Zhiyang Teng",
+    "Wei Lu",
+    "Shay B. Cohen",
+    "Zuozhu Liu",
+    "Lidong Bing"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-main.169",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.169/"
+}

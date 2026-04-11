@@ -1,0 +1,22 @@
+{
+  "title": "ENT-DESC: Entity Description Generation by Exploring Knowledge Graph",
+  "authors": [
+    "Liyang Cheng",
+    "Dekun Wu",
+    "Lidong Bing",
+    "Yan Zhang",
+    "Zhanming Jie",
+    "Wei Lu",
+    "Luo Si"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2020.emnlp-main.90",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.90/"
+}

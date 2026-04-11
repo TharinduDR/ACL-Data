@@ -1,0 +1,19 @@
+{
+  "title": "SLM: Learning a Discourse Language Representation with Sentence Unshuffling",
+  "authors": [
+    "Haejun Lee",
+    "Drew A. Hudson",
+    "Kangwook Lee",
+    "Christopher D. Manning"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T05 Discourse and Pragmatics"
+  ],
+  "paper_id": "2020.emnlp-main.120",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.120/"
+}

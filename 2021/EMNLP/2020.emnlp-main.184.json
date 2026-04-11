@@ -1,0 +1,22 @@
+{
+  "title": "Simultaneous Machine Translation with Visual Context",
+  "authors": [
+    "Ozan Caglayan",
+    "Julia Ive",
+    "Veneta Haralampieva",
+    "Pranava Madhyastha",
+    "Loïc Barrault",
+    "Lucia Specia"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2020.emnlp-main.184",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.184/"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "XL-WiC: A Multilingual Benchmark for Evaluating Semantic Contextualization",
+  "authors": [
+    "Alessandro Raganato",
+    "Tommaso Pasini",
+    "Jose Camacho-Collados",
+    "Mohammad Taher Pilehvar"
+  ],
+  "languages": [
+    "English",
+    "Bulgarian",
+    "Danish",
+    "Estonian",
+    "Persian",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Chinese",
+    "Croatian",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.584",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.584/"
+}

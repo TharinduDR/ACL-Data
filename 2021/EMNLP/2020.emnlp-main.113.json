@@ -1,0 +1,18 @@
+{
+  "title": "Planning and Generating Natural and Diverse Disfluent Texts as Augmentation for Disfluency Detection",
+  "authors": [
+    "Jingfeng Yang",
+    "Diyi Yang",
+    "Zhaoran Ma"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-main.113",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.113/"
+}

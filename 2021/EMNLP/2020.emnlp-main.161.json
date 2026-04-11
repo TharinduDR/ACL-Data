@@ -1,0 +1,21 @@
+{
+  "title": "HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training",
+  "authors": [
+    "Linjie Li",
+    "Yen-Chun Chen",
+    "Yu Cheng",
+    "Zhe Gan",
+    "Licheng Yu",
+    "Jingjing Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2020.emnlp-main.161",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.161/"
+}

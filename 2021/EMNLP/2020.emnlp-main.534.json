@@ -1,0 +1,21 @@
+{
+  "title": "Regularizing Dialogue Generation by Imitating Implicit Scenarios",
+  "authors": [
+    "Shaoxiong Feng",
+    "Xuancheng Ren",
+    "Hongshen Chen",
+    "Bin Sun",
+    "Kan Li",
+    "Xu Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.534",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.534/"
+}

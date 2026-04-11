@@ -1,0 +1,42 @@
+{
+  "title": "Translation Quality Estimation by Jointly Learning to Score and Rank",
+  "authors": [
+    "Jingyi Zhang",
+    "Josef van Genabith"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "Finnish",
+    "Gujarati",
+    "Lithuanian",
+    "Russian",
+    "Czech",
+    "French",
+    "Hungarian",
+    "Kannada",
+    "Korean",
+    "Latvian",
+    "Malayalam",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Serbian",
+    "Slovak",
+    "Slovenian",
+    "Spanish",
+    "Swedish",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Welsh",
+    "Yiddish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.205",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.205/"
+}

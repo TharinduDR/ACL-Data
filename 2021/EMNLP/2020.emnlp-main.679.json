@@ -1,0 +1,21 @@
+{
+  "title": "Competence-Level Prediction and Resume & Job Description Matching Using Context-Aware Transformer Models",
+  "authors": [
+    "Changmao Li",
+    "Elaine Fisher",
+    "Rebecca Thomas",
+    "Steve Pittard",
+    "Vicki Hertzberg",
+    "Jinho D. Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.emnlp-main.679",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.679/"
+}

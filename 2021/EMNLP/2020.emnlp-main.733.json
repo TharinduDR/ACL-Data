@@ -1,0 +1,21 @@
+{
+  "title": "On the Sentence Embeddings from Pre-trained Language Models",
+  "authors": [
+    "Bohan Li",
+    "Hao Zhou",
+    "Junxian He",
+    "Mingxuan Wang",
+    "Yiming Yang",
+    "Lei Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.733",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.733/"
+}

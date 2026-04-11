@@ -1,0 +1,27 @@
+{
+  "title": "Are All Good Word Vector Spaces Isomorphic?",
+  "authors": [
+    "Ivan Vulić",
+    "Sebastian Ruder",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Arabic",
+    "Japanese",
+    "Bengali",
+    "Tamil",
+    "Urdu",
+    "Quechua",
+    "Basque",
+    "Galician"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.257",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.257/"
+}

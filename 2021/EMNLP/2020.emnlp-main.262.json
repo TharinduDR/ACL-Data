@@ -1,0 +1,19 @@
+{
+  "title": "How do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking",
+  "authors": [
+    "Nicola De Cao",
+    "Michael Schlichtkrull",
+    "Wilker Aziz",
+    "Ivan Titov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.emnlp-main.262",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.262/"
+}

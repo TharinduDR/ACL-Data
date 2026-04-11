@@ -1,0 +1,19 @@
+{
+  "title": "Language Model Prior for Low-Resource Neural Machine Translation",
+  "authors": [
+    "Christos Baziotis",
+    "Barry Haddow",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.615",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.615/"
+}

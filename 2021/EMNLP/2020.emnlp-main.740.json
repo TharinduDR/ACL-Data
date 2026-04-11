@@ -1,0 +1,19 @@
+{
+  "title": "A Probabilistic End-To-End Task-Oriented Dialog Model with Latent Belief States towards Semi-Supervised Learning",
+  "authors": [
+    "Yichi Zhang",
+    "Zhijian Ou",
+    "Min Hu",
+    "Junlan Feng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.740",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.740/"
+}

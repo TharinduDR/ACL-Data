@@ -1,0 +1,26 @@
+{
+  "title": "Conversational Semantic Parsing",
+  "authors": [
+    "Armen Aghajanyan",
+    "Jean Maillard",
+    "Akshat Shrivastava",
+    "Keith Diedrick",
+    "Mike Haeger",
+    "Haoran Li",
+    "Yashar Mehdad",
+    "Ves Stoyanov",
+    "Anuj Kumar",
+    "Mike Lewis",
+    "Sonal Gupta"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2020.emnlp-main.408",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.408/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Self-Induced Curriculum Learning in Self-Supervised Neural Machine Translation",
+  "authors": [
+    "Dana Ruiter",
+    "Josef van Genabith",
+    "Cristina España-Bonet"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.202",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.202/"
+}

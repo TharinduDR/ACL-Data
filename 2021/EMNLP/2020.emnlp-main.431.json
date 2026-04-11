@@ -1,0 +1,19 @@
+{
+  "title": "Biomedical Event Extraction as Sequence Labeling",
+  "authors": [
+    "Alan Ramponi",
+    "Rob van der Goot",
+    "Rosario Lombardo",
+    "Barbara Plank"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-main.431",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.431/"
+}

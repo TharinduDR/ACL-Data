@@ -1,0 +1,21 @@
+{
+  "title": "Scene Restoring for Narrative Machine Reading Comprehension",
+  "authors": [
+    "Zhixing Tian",
+    "Yuanzhe Zhang",
+    "Kang Liu",
+    "Jun Zhao",
+    "Yantao Jia",
+    "Zhicheng Sheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2020.emnlp-main.247",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.247/"
+}

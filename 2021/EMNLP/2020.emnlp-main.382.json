@@ -1,0 +1,19 @@
+{
+  "title": "An Empirical Study of Pre-trained Transformers for Arabic Information Extraction",
+  "authors": [
+    "Wuwei Lan",
+    "Yang Chen",
+    "Wei Xu",
+    "Alan Ritter"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.382",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.382/"
+}

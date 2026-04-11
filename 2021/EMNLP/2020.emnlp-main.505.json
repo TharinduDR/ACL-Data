@@ -1,0 +1,23 @@
+{
+  "title": "Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation",
+  "authors": [
+    "Dayiheng Liu",
+    "Yeyun Gong",
+    "Yu Yan",
+    "Jie Fu",
+    "Bo Shao",
+    "Daxin Jiang",
+    "Jiancheng Lv",
+    "Nan Duan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.505",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.505/"
+}

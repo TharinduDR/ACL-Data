@@ -1,0 +1,20 @@
+{
+  "title": "Dialogue Response Ranking Training with Large-Scale Human Feedback Data",
+  "authors": [
+    "Xiang Gao",
+    "Yizhe Zhang",
+    "Michel Galley",
+    "Chris Brockett",
+    "Bill Dolan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.emnlp-main.28",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.28/"
+}

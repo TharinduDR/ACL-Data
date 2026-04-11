@@ -1,0 +1,23 @@
+{
+  "title": "Token-level Adaptive Training for Neural Machine Translation",
+  "authors": [
+    "Shuhao Gu",
+    "Jinchao Zhang",
+    "Fandong Meng",
+    "Yang Feng",
+    "Wanying Xie",
+    "Jie Zhou",
+    "Dong Yu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Romanian",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.emnlp-main.76",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.76/"
+}

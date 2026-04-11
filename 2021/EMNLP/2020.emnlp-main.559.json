@@ -1,0 +1,20 @@
+{
+  "title": "An Imitation Game for Learning Semantic Parsers from User Interaction",
+  "authors": [
+    "Ziyu Yao",
+    "Yiqi Tang",
+    "Wen-tau Yih",
+    "Huan Sun",
+    "Yu Su"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.559",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.559/"
+}

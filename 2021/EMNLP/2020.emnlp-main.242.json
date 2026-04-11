@@ -1,0 +1,20 @@
+{
+  "title": "BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance",
+  "authors": [
+    "Jianquan Li",
+    "Xiaokang Liu",
+    "Honghong Zhao",
+    "Ruifeng Xu",
+    "Min Yang",
+    "Yaohong Jin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.242",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.242/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "KERMIT: Complementing Transformer Architectures with Encoders of Explicit Syntactic Interpretations",
+  "authors": [
+    "Fabio Massimo Zanzotto",
+    "Andrea Santilli",
+    "Leonardo Rinaldi",
+    "Dario Onorati",
+    "Pierfrancesco Tommasino",
+    "Francesca Fallucchi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.emnlp-main.18",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.18/"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "LNMAP: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space",
+  "authors": [
+    "Tasnim Mohiuddin",
+    "M Saiful Bari",
+    "Shafiq Joty"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Italian",
+    "Arabic",
+    "Russian",
+    "Malay",
+    "Finnish",
+    "Estonian",
+    "Turkish",
+    "Greek",
+    "Persian",
+    "Hebrew",
+    "Tamil",
+    "Bengali",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.emnlp-main.215",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.215/"
+}
