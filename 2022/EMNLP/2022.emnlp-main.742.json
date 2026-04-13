@@ -1,0 +1,19 @@
+{
+  "title": "End-to-End Unsupervised Vision-and-Language Pre-training with Referring Expression Matching",
+  "authors": [
+    "Chi Chen",
+    "Peng Li",
+    "Maosong Sun",
+    "Yang Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.emnlp-main.742",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.742/"
+}

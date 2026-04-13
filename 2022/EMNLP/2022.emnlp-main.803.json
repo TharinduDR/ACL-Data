@@ -1,0 +1,30 @@
+{
+  "title": "SPE: Symmetrical Prompt Enhancement for Fact Probing",
+  "authors": [
+    "Yiyuan Li",
+    "Tong Che",
+    "Yezhen Wang",
+    "Zhengbao Jiang",
+    "Caiming Xiong",
+    "Snigdha Chaturvedi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Persian",
+    "Punjabi",
+    "Hindi",
+    "Urdu",
+    "Turkish",
+    "Bengali",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.803",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.803/"
+}

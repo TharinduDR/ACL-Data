@@ -1,0 +1,20 @@
+{
+  "title": "Estimating Soft Labels for Out-of-Domain Intent Detection",
+  "authors": [
+    "Hao Lang",
+    "Yinhe Zheng",
+    "Jian Sun",
+    "Fei Huang",
+    "Luo Si",
+    "Yongbin Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2022.emnlp-main.18",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.18/"
+}

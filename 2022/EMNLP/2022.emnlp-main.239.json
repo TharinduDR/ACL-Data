@@ -1,0 +1,19 @@
+{
+  "title": "Unsupervised Tokenization Learning",
+  "authors": [
+    "Anton Kolonin",
+    "Vignav Ramesh"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.emnlp-main.239",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.239/"
+}

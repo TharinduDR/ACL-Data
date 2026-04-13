@@ -1,0 +1,24 @@
+{
+  "title": "DANLI: Deliberative Agent for Following Natural Language Instructions",
+  "authors": [
+    "Yichi Zhang",
+    "Jianing Yang",
+    "Jiayi Pan",
+    "Shane Storks",
+    "Nikhil Devraj",
+    "Ziqiao Ma",
+    "Keunwoo Peter Yu",
+    "Yuwei Bao",
+    "Joyce Chai"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.emnlp-main.83",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.83/"
+}

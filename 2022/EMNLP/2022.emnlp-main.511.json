@@ -1,0 +1,23 @@
+{
+  "title": "Cross-lingual neural fuzzy matching for exploiting target-language monolingual corpora in computer-aided translation",
+  "authors": [
+    "Miquel Esplà-Gomis",
+    "Víctor M. Sánchez-Cartagena",
+    "Juan Antonio Pérez-Ortiz",
+    "Felipe Sánchez-Martínez"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Czech",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.511",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.511/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Continued Pretraining for Better Zero- and Few-Shot Promptability",
+  "authors": [
+    "Zhaofeng Wu",
+    "Robert L. Logan IV",
+    "Pete Walsh",
+    "Akshita Bhagia",
+    "Dirk Groeneveld",
+    "Sameer Singh",
+    "Iz Beltagy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.300",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.300/"
+}

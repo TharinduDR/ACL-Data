@@ -1,0 +1,20 @@
+{
+  "title": "Language Models of Code are Few-Shot Commonsense Learners",
+  "authors": [
+    "Aman Madaan",
+    "Shuyan Zhou",
+    "Uri Alon",
+    "Yiming Yang",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.90",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.90/"
+}

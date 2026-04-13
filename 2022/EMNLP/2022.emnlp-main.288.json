@@ -1,0 +1,30 @@
+{
+  "title": "MT-GenEval: A Counterfactual and Contextual Dataset for Evaluating Gender Accuracy in Machine Translation",
+  "authors": [
+    "Anna Currey",
+    "Maria Nadejde",
+    "Raghavendra Pappagari",
+    "Mia Mayer",
+    "Stanislas Lauly",
+    "Xing Niu",
+    "Benjamin Hsu",
+    "Georgiana Dinu"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Italian",
+    "Portuguese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.288",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.288/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Revisiting Pre-trained Language Models and their Evaluation for Arabic Natural Language Processing",
+  "authors": [
+    "Abbas Ghaddar",
+    "Yimeng Wu",
+    "Sunyam Bagga",
+    "Ahmad Rashid",
+    "Khalil Bibi",
+    "Mehdi Rezagholizadeh",
+    "Chao Xing",
+    "Yasheng Wang",
+    "Duan Xinyu",
+    "Zhefeng Wang",
+    "Baoxing Huai",
+    "Xin Jiang",
+    "Qun Liu",
+    "Philippe Langlais"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.emnlp-main.205",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.205/"
+}

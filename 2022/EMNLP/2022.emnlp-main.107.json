@@ -1,0 +1,22 @@
+{
+  "title": "SQUIRE: A Sequence-to-sequence Framework for Multi-hop Knowledge Graph Reasoning",
+  "authors": [
+    "Yushi Bai",
+    "Xin Lv",
+    "Juanzi Li",
+    "Lei Hou",
+    "Yincen Qu",
+    "Zelin Dai",
+    "Feiyu Xiong"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.emnlp-main.107",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.107/"
+}

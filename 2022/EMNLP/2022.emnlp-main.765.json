@@ -1,0 +1,20 @@
+{
+  "title": "Finding Skill Neurons in Pre-trained Transformer-based Language Models",
+  "authors": [
+    "Xiaozhi Wang",
+    "Kaiyue Wen",
+    "Zhengyan Zhang",
+    "Lei Hou",
+    "Zhiyuan Liu",
+    "Juanzi Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.emnlp-main.765",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.765/"
+}

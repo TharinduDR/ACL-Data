@@ -1,0 +1,21 @@
+{
+  "title": "Generalizing over Long Tail Concepts for Medical Term Normalization",
+  "authors": [
+    "Beatrice Portelli",
+    "Simone Scaboro",
+    "Enrico Santus",
+    "Hooman Sedghamiz",
+    "Emmanuele Chersoni",
+    "Giuseppe Serra"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.emnlp-main.588",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.588/"
+}

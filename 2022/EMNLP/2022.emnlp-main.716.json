@@ -1,0 +1,22 @@
+{
+  "title": "FaD-VLP: Fashion Vision-and-Language Pre-training towards Unified Retrieval and Captioning",
+  "authors": [
+    "Suvir Mirchandani",
+    "Licheng Yu",
+    "Mengjiao Wang",
+    "Animesh Sinha",
+    "Wenwen Jiang",
+    "Tao Xiang",
+    "Ning Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.emnlp-main.716",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.716/"
+}

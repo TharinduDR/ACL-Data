@@ -1,0 +1,33 @@
+{
+  "title": "Empowering Dual-Encoder with Query Generator for Cross-Lingual Dense Retrieval",
+  "authors": [
+    "Houxing Ren",
+    "Linjun Shou",
+    "Ning Wu",
+    "Ming Gong",
+    "Daxin Jiang"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Finnish",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Telugu",
+    "Chinese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.emnlp-main.203",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.203/"
+}

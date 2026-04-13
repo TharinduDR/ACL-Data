@@ -1,0 +1,24 @@
+{
+  "title": "Competency-Aware Neural Machine Translation: Can Machine Translation Know its Own Translation Quality?",
+  "authors": [
+    "Pei Zhang",
+    "Baosong Yang",
+    "Haoran Wei",
+    "Dayiheng Liu",
+    "Kai Fan",
+    "Luo Si",
+    "Jun Xie"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.330",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.330/"
+}

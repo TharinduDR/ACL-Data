@@ -1,0 +1,21 @@
+{
+  "title": "A Federated Approach to Predicting Emojis in Hindi Tweets",
+  "authors": [
+    "Deep Gandhi",
+    "Jash Mehta",
+    "Nirali Parekh",
+    "Karan Wagheela",
+    "Lynette D'Mello",
+    "Zeerak Talat"
+  ],
+  "languages": [
+    "Hindi"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2022.emnlp-main.819",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.819/"
+}

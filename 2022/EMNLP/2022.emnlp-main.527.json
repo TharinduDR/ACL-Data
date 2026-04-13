@@ -1,0 +1,23 @@
+{
+  "title": "Spectral Probing",
+  "authors": [
+    "Max Müller-Eberstein",
+    "Rob van der Goot",
+    "Barbara Plank"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Spanish",
+    "French",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-main.527",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.527/"
+}

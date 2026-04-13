@@ -1,0 +1,22 @@
+{
+  "title": "Modeling Consistency Preference via Lexical Chains for Document-level Neural Machine Translation",
+  "authors": [
+    "Xinglin Lyu",
+    "Junhui Li",
+    "Shimin Tao",
+    "Hao Yang",
+    "Ying Qin",
+    "Min Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.emnlp-main.424",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.424/"
+}

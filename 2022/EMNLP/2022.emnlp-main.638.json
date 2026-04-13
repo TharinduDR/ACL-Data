@@ -1,0 +1,18 @@
+{
+  "title": "Unsupervised Entity Linking with Guided Summarization and Multiple-Choice Selection",
+  "authors": [
+    "Young-Min Cho",
+    "Li Zhang",
+    "Chris Callison-Burch"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.emnlp-main.638",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.638/"
+}

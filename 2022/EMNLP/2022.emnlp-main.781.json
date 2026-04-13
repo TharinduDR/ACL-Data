@@ -1,0 +1,18 @@
+{
+  "title": "Identifying Physical Object Use in Sentences",
+  "authors": [
+    "Tianyu Jiang",
+    "Ellen Riloff"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.781",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.781/"
+}

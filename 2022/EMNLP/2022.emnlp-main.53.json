@@ -1,0 +1,25 @@
+{
+  "title": "Metric-guided Distillation: Distilling Knowledge from the Metric to Ranker and Retriever for Generative Commonsense Reasoning",
+  "authors": [
+    "Xingwei He",
+    "Yeyun Gong",
+    "A-Long Jin",
+    "Weizhen Qi",
+    "Hang Zhang",
+    "Jian Jiao",
+    "Bartuer Zhou",
+    "Biao Cheng",
+    "Siu Ming Yiu",
+    "Nan Duan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.53",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.53/"
+}

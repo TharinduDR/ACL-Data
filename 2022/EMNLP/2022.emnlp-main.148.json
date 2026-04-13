@@ -1,0 +1,26 @@
+{
+  "title": "WHEN FLUE MEETS FLANG: Benchmarks and Large Pre-trained Language Model for Financial Domain",
+  "authors": [
+    "Raj Sanjay Shah",
+    "Kunal Chawla",
+    "Dheeraj Eidnani",
+    "Agam Shah",
+    "Wendi Du",
+    "Sudheer Chava",
+    "Natraj Raman",
+    "Charese Smiley",
+    "Jiaao Chen",
+    "Diyi Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.148",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.148/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Whose Language Counts as High Quality? Measuring Language Ideologies in Text Data Selection",
+  "authors": [
+    "Suchin Gururangan",
+    "Dallas Card",
+    "Sarah K. Dreier",
+    "Emily K. Gade",
+    "Leroy Z. Wang",
+    "Zeyu Wang",
+    "Luke Zettlemoyer",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.165",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.165/"
+}

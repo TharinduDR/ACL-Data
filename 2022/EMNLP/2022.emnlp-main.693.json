@@ -1,0 +1,20 @@
+{
+  "title": "Adapting a Language Model While Preserving its General Knowledge",
+  "authors": [
+    "Zixuan Ke",
+    "Yijia Shao",
+    "Haowei Lin",
+    "Hu Xu",
+    "Lei Shu",
+    "Bing Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.emnlp-main.693",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.693/"
+}

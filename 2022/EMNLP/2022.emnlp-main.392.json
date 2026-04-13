@@ -1,0 +1,26 @@
+{
+  "title": "LILA: A Unified Benchmark for Mathematical Reasoning",
+  "authors": [
+    "Swaroop Mishra",
+    "Matthew Finlayson",
+    "Pan Lu",
+    "Leonard Tang",
+    "Sean Welleck",
+    "Chitta Baral",
+    "Tanmay Rajpurohit",
+    "Oyvind Tafjord",
+    "Ashish Sabharwal",
+    "Peter Clark",
+    "Ashwin Kalyan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.emnlp-main.392",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.392/"
+}

@@ -1,0 +1,39 @@
+{
+  "title": "EUR-Lex-Sum: A Multi- and Cross-lingual Dataset for Long-form Summarization in the Legal Domain",
+  "authors": [
+    "Dennis Aumiller",
+    "Ashish Chouhan",
+    "Michael Gertz"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Dutch",
+    "Danish",
+    "Greek",
+    "Finnish",
+    "Swedish",
+    "Romanian",
+    "Czech",
+    "Polish",
+    "Bulgarian",
+    "Latvian",
+    "Slovenian",
+    "Estonian",
+    "Lithuanian",
+    "Slovak",
+    "Maltese",
+    "Croatian",
+    "Irish"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2022.emnlp-main.519",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.519/"
+}

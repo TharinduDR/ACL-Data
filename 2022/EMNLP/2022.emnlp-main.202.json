@@ -1,0 +1,29 @@
+{
+  "title": "Multi-level Distillation of Semantic Knowledge for Pre-training Multilingual Language Model",
+  "authors": [
+    "Mingqi Li",
+    "Fei Ding",
+    "Dan Zhang",
+    "Long Cheng",
+    "Hongxin Hu",
+    "Feng Luo"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bulgarian",
+    "German",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Chinese",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.202",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.202/"
+}

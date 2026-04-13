@@ -1,0 +1,24 @@
+{
+  "title": "Invariant Language Modeling",
+  "authors": [
+    "Maxime Peyrard",
+    "Sarvjeet Singh Ghotra",
+    "Martin Josifoski",
+    "Vidhan Agarwal",
+    "Barun Patra",
+    "Dean Carignan",
+    "Emre Kiciman",
+    "Saurabh Tiwary",
+    "Robert West"
+  ],
+  "languages": [
+    "English",
+    "Persian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-main.387",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.387/"
+}

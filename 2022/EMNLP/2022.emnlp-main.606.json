@@ -1,0 +1,34 @@
+{
+  "title": "RAPO: An Adaptive Ranking Paradigm for Bilingual Lexicon Induction",
+  "authors": [
+    "Zhoujin Tian",
+    "Chaozhao Li",
+    "Shuo Ren",
+    "Zhiqiang Zuo",
+    "Zengxuan Wen",
+    "Xinyue Hu",
+    "Xiao Han",
+    "Haizhen Huang",
+    "Denvy Deng",
+    "Qi Zhang",
+    "Xing Xie"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Russian",
+    "Chinese",
+    "Persian",
+    "Turkish",
+    "Hebrew",
+    "Arabic",
+    "Estonian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.emnlp-main.606",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.606/"
+}

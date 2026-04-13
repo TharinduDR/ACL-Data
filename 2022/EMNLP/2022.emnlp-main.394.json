@@ -1,0 +1,23 @@
+{
+  "title": "GraphQ IR: Unifying the Semantic Parsing of Graph Query Languages with One Intermediate Representation",
+  "authors": [
+    "Lunyiu Nie",
+    "Shulin Cao",
+    "Jiaxin Shi",
+    "Jiuding Sun",
+    "Qi Tian",
+    "Lei Hou",
+    "Juanzi Li",
+    "Jidong Zhai"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-main.394",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.394/"
+}

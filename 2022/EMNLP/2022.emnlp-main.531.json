@@ -1,0 +1,23 @@
+{
+  "title": "DuQM: A Chinese Dataset of Linguistically Perturbed Natural Questions for Evaluating the Robustness of Question Matching Models",
+  "authors": [
+    "Hongyu Zhu",
+    "Yan Chen",
+    "Jing Yan",
+    "Jing Liu",
+    "Yu Hong",
+    "Ying Chen",
+    "Hua Wu",
+    "Haifeng Wang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-main.531",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.531/"
+}

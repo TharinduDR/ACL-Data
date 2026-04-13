@@ -1,0 +1,24 @@
+{
+  "title": "ReCo: Reliable Causal Chain Reasoning via Structural Causal Recurrent Neural Networks",
+  "authors": [
+    "Kai Xiong",
+    "Xiao Ding",
+    "Zhongyang Li",
+    "Li Du",
+    "Ting Liu",
+    "Bing Qin",
+    "Yi Zheng",
+    "Baoxing Huai"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.emnlp-main.431",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.431/"
+}

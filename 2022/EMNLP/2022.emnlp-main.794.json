@@ -1,0 +1,18 @@
+{
+  "title": "Diverse Parallel Data Synthesis for Cross-Database Adaptation of Text-to-SQL Parsers",
+  "authors": [
+    "Abhijeet Awasthi",
+    "Ashutosh Sathe",
+    "Sunita Sarawagi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.794",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.794/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "SpeechUT: Bridging Speech and Text with Hidden-Unit for Encoder-Decoder Based Speech-Text Pre-training",
+  "authors": [
+    "Ziqiang Zhang",
+    "Long Zhou",
+    "Junyi Ao",
+    "Shujie Liu",
+    "Lirong Dai",
+    "Jinyu Li",
+    "Furu Wei"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.emnlp-main.108",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.108/"
+}

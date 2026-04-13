@@ -1,0 +1,19 @@
+{
+  "title": "Few-shot Query-Focused Summarization with Prefix-Merging",
+  "authors": [
+    "Ruifeng Yuan",
+    "Zili Wang",
+    "Ziqiang Cao",
+    "Wenjie Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-main.243",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.243/"
+}

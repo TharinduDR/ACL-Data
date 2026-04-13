@@ -1,0 +1,20 @@
+{
+  "title": "Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue",
+  "authors": [
+    "Yingxiu Zhao",
+    "Yinhe Zheng",
+    "Zhiliang Tian",
+    "Chang Gao",
+    "Jian Sun",
+    "Nevin L. Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2022.emnlp-main.766",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.766/"
+}

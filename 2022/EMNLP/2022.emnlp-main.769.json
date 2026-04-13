@@ -1,0 +1,25 @@
+{
+  "title": "Textless Speech Emotion Conversion using Discrete & Decomposed Representations",
+  "authors": [
+    "Felix Kreuk",
+    "Adam Polyak",
+    "Jade Copet",
+    "Eugene Kharitonov",
+    "Tu-Anh Nguyen",
+    "Morgane Rivière",
+    "Wei-Ning Hsu",
+    "Abdelrahman Mohamed",
+    "Emmanuel Dupoux",
+    "Yossi Adi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.emnlp-main.769",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.769/"
+}

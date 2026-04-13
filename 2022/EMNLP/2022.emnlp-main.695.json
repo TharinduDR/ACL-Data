@@ -1,0 +1,20 @@
+{
+  "title": "Continual Training of Language Models for Few-Shot Learning",
+  "authors": [
+    "Zixuan Ke",
+    "Haowei Lin",
+    "Yijia Shao",
+    "Hu Xu",
+    "Lei Shu",
+    "Bing Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.emnlp-main.695",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.695/"
+}

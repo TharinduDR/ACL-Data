@@ -1,0 +1,22 @@
+{
+  "title": "Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations",
+  "authors": [
+    "Jaehun Jung",
+    "Lianhui Qin",
+    "Sean Welleck",
+    "Faeze Brahman",
+    "Chandra Bhagavatula",
+    "Ronan Le Bras",
+    "Yejin Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.emnlp-main.82",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.82/"
+}

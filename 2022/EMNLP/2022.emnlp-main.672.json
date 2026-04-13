@@ -1,0 +1,41 @@
+{
+  "title": "Exploring Document-Level Literary Machine Translation with Parallel Paragraphs from World Literature",
+  "authors": [
+    "Katherine Thai",
+    "Marzena Karpinska",
+    "Kalpesh Krishna",
+    "William Ray",
+    "Moira Inghilleri",
+    "John Wieting",
+    "Mohit Iyyer"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Russian",
+    "German",
+    "Spanish",
+    "Czech",
+    "Norwegian",
+    "Swedish",
+    "Portuguese",
+    "Italian",
+    "Japanese",
+    "Bengali",
+    "Tamil",
+    "Danish",
+    "Chinese",
+    "Dutch",
+    "Hungarian",
+    "Polish",
+    "Sesotho",
+    "Persian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-main.672",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.672/"
+}

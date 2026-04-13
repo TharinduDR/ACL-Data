@@ -1,0 +1,22 @@
+{
+  "title": "Hard Gate Knowledge Distillation - Leverage Calibration for a Robust and Reliable Language Model",
+  "authors": [
+    "Dongkyu Lee",
+    "Zhiliang Tian",
+    "Yingxiu Zhao",
+    "Ka Chun Cheung",
+    "Nevin L. Zhang"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.665",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.665/"
+}

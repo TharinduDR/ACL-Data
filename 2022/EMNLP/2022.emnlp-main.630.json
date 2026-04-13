@@ -1,0 +1,25 @@
+{
+  "title": "Overcoming Catastrophic Forgetting in Zero-Shot Cross-Lingual Generation",
+  "authors": [
+    "Tu Vu",
+    "Aditya Barua",
+    "Brian Lester",
+    "Daniel Cer",
+    "Mohit Iyyer",
+    "Noah Constant"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Vietnamese",
+    "Russian",
+    "Thai"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.emnlp-main.630",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.630/"
+}

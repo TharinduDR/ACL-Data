@@ -1,0 +1,18 @@
+{
+  "title": "ROBUSTLR: A Diagnostic Benchmark for Evaluating Logical Robustness of Deductive Reasoners",
+  "authors": [
+    "Soumya Sanyal",
+    "Zeyi Liao",
+    "Xiang Ren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2022.emnlp-main.653",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.653/"
+}

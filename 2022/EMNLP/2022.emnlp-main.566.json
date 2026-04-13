@@ -1,0 +1,19 @@
+{
+  "title": "ASQA: Factoid Questions Meet Long-Form Answers",
+  "authors": [
+    "Ivan Stelmakh",
+    "Yi Luan",
+    "Bhuwan Dhingra",
+    "Ming-Wei Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.566",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.566/"
+}

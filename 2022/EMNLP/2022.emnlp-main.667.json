@@ -1,0 +1,19 @@
+{
+  "title": "Correcting Diverse Factual Errors in Abstractive Summarization via Post-Editing and Language Model Infilling",
+  "authors": [
+    "Vidhisha Balachandran",
+    "Hannaneh Hajishirzi",
+    "William W. Cohen",
+    "Yulia Tsvetkov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.667",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.667/"
+}

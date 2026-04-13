@@ -1,0 +1,52 @@
+{
+  "title": "Toward the Limitation of Code-Switching in Cross-Lingual Transfer",
+  "authors": [
+    "Yukun Feng",
+    "Feng Li",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hindi",
+    "Chinese",
+    "Afrikaans",
+    "Arabic",
+    "Bengali",
+    "Dutch",
+    "Estonian",
+    "Finnish",
+    "French",
+    "Hebrew",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Malay",
+    "Marathi",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Sanskrit",
+    "Serbian",
+    "Sinhala",
+    "Spanish",
+    "Swedish",
+    "Tamil",
+    "Telugu",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Urdu",
+    "Vietnamese",
+    "Yoruba",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-main.400",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.400/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Don't Prompt, Search! Mining-based Zero-Shot Learning with Language Models",
+  "authors": [
+    "Mozes van de Kar",
+    "Mengzhou Xia",
+    "Danqi Chen",
+    "Mikel Artetxe"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.emnlp-main.509",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.509/"
+}

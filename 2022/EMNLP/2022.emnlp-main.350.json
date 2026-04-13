@@ -1,0 +1,24 @@
+{
+  "title": "Towards Knowledge-Intensive Text-to-SQL Semantic Parsing with Formulaic Knowledge",
+  "authors": [
+    "Longxu Dou",
+    "Yan Gao",
+    "Xuqi Liu",
+    "Mingyang Pan",
+    "Dingzirui Wang",
+    "Wanxiang Che",
+    "Min-Yen Kan",
+    "Dechen Zhan",
+    "Jian-Guang Lou"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-main.350",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.350/"
+}

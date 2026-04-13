@@ -1,0 +1,49 @@
+{
+  "title": "Crossmodal-3600: A Massively Multilingual Multimodal Evaluation Dataset",
+  "authors": [
+    "Ashish V. Thapliyal",
+    "Jordi Pont-Tuset",
+    "Xi Chen",
+    "Radu Soricut"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Hindi",
+    "Chinese",
+    "Arabic",
+    "Bengali",
+    "Czech",
+    "Danish",
+    "German",
+    "Greek",
+    "Persian",
+    "Finnish",
+    "Filipino",
+    "Hebrew",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Maori",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Quechua",
+    "Romanian",
+    "Russian",
+    "Swahili",
+    "Telugu",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.45",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.45/"
+}

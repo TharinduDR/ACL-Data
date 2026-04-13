@@ -1,0 +1,26 @@
+{
+  "title": "MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction",
+  "authors": [
+    "Xiaozhi Wang",
+    "Yulin Chen",
+    "Ning Ding",
+    "Hao Peng",
+    "Zimu Wang",
+    "Yankai Lin",
+    "Xu Han",
+    "Lei Hou",
+    "Juanzi Li",
+    "Zhiyuan Liu",
+    "Peng Li",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.emnlp-main.60",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.60/"
+}

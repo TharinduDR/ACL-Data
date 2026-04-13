@@ -1,0 +1,24 @@
+{
+  "title": "Correctable-DST: Mitigating Historical Context Mismatch between Training and Inference for Improved Dialogue State Tracking",
+  "authors": [
+    "Hongyan Xie",
+    "Haoxiang Su",
+    "Shuangyong Song",
+    "Hao Huang",
+    "Bo Zou",
+    "Kun Deng",
+    "Jianghua Lin",
+    "Zhihui Zhang",
+    "Xiaodong He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.56",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.56/"
+}

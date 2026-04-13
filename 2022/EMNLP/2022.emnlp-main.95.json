@@ -1,0 +1,19 @@
+{
+  "title": "COCO-DR: Combating Distribution Shifts in Zero-Shot Dense Retrieval with Contrastive and Distributionally Robust Learning",
+  "authors": [
+    "Yue Yu",
+    "Chenyan Xiong",
+    "Si Sun",
+    "Chao Zhang",
+    "Arnold Overwijk"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.emnlp-main.95",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.95/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The Aligned Multimodal Movie Treebank: An audio, video, dependency-parse treebank",
+  "authors": [
+    "Adam Yaari",
+    "Jan DeWitt",
+    "Henry Hu",
+    "Bennett Stankovits",
+    "Sue Felshin",
+    "Yevgeni Berzak",
+    "Helena Aparicio",
+    "Boris Katz",
+    "Ignacio Cases",
+    "Andrei Barbu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-main.648",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.648/"
+}

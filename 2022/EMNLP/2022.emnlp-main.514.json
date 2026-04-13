@@ -1,0 +1,19 @@
+{
+  "title": "Parameter-Efficient Tuning Makes a Good Classification Head",
+  "authors": [
+    "Zhuoyi Yang",
+    "Ming Ding",
+    "Yanhui Guo",
+    "Qingsong Lv",
+    "Jie Tang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.514",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.514/"
+}

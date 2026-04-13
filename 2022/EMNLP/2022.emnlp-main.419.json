@@ -1,0 +1,18 @@
+{
+  "title": "Bi-Directional Iterative Prompt-Tuning for Event Argument Extraction",
+  "authors": [
+    "Lu Dai",
+    "Bang Wang",
+    "Wei Xiang",
+    "Yijun Mo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-main.419",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.419/"
+}

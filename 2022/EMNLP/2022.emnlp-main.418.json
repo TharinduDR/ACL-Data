@@ -1,0 +1,23 @@
+{
+  "title": "TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models",
+  "authors": [
+    "Joel Jang",
+    "Seonghyeon Ye",
+    "Changho Lee",
+    "Sohee Yang",
+    "Joongbo Shin",
+    "Janghoon Han",
+    "Gyeonghun Kim",
+    "Minjoon Seo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.emnlp-main.418",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.418/"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Structural generalization is hard for sequence-to-sequence models",
+  "authors": [
+    "Yuekun Yao",
+    "Alexander Koller"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-main.337",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.337/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "EdgeFormer: A Parameter-Efficient Transformer for On-Device Seq2seq Generation",
+  "authors": [
+    "Tao Ge",
+    "Si-Qing Chen",
+    "Furu Wei"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2022.emnlp-main.741",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.741/"
+}

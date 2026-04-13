@@ -1,0 +1,19 @@
+{
+  "title": "Efficient Nearest Neighbor Search for Cross-Encoder Models using Matrix Factorization",
+  "authors": [
+    "Nishant Yadav",
+    "Nicholas Monath",
+    "Rico Angell",
+    "Manzil Zaheer",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.emnlp-main.140",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.140/"
+}

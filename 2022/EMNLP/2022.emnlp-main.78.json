@@ -1,0 +1,21 @@
+{
+  "title": "Z-LaVI: Zero-Shot Language Solver Fueled by Visual Imagination",
+  "authors": [
+    "Yue Yang",
+    "Wenlin Yao",
+    "Hongming Zhang",
+    "Xiaoyang Wang",
+    "Dong Yu",
+    "Jianshu Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.emnlp-main.78",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.78/"
+}

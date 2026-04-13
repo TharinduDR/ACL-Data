@@ -1,0 +1,21 @@
+{
+  "title": "UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation",
+  "authors": [
+    "Yongwei Zhou",
+    "Junwei Bao",
+    "Chaoqun Duan",
+    "Youzheng Wu",
+    "Xiaodong He",
+    "Tiejun Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2022.emnlp-main.508",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.508/"
+}

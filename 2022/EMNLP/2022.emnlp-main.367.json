@@ -1,0 +1,23 @@
+{
+  "title": "Towards Robust k-Nearest-Neighbor Machine Translation",
+  "authors": [
+    "Hui Jiang",
+    "Ziyao Lu",
+    "Fandong Meng",
+    "Chulun Zhou",
+    "Jie Zhou",
+    "Degen Huang",
+    "Jinsong Su"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.emnlp-main.367",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.367/"
+}

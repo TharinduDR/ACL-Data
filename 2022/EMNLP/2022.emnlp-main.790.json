@@ -1,0 +1,25 @@
+{
+  "title": "Zero-shot Cross-lingual Transfer of Prompt-based Tuning with a Unified Multilingual Prompt",
+  "authors": [
+    "Lianzhe Huang",
+    "Shuming Ma",
+    "Dongdong Zhang",
+    "Furu Wei",
+    "Houfeng Wang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.emnlp-main.790",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.790/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Passage-Mask: A Learnable Regularization Strategy for Retriever-Reader Models",
+  "authors": [
+    "Shujian Zhang",
+    "Chengyue Gong",
+    "Xingchao Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-main.260",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.260/"
+}

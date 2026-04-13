@@ -1,0 +1,33 @@
+{
+  "title": "On the Calibration of Massively Multilingual Language Models",
+  "authors": [
+    "Kabir Ahuja",
+    "Sunayana Sitaram",
+    "Sandipan Dandapat",
+    "Monojit Choudhury"
+  ],
+  "languages": [
+    "English",
+    "Swahili",
+    "Japanese",
+    "Chinese",
+    "Thai",
+    "Urdu",
+    "Hindi",
+    "Russian",
+    "French",
+    "German",
+    "Spanish",
+    "Indonesian",
+    "Vietnamese",
+    "Arabic",
+    "Bulgarian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.290",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.290/"
+}

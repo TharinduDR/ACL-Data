@@ -1,0 +1,21 @@
+{
+  "title": "Uni-Parser: Unified Semantic Parser for Question Answering on Knowledge Base and Database",
+  "authors": [
+    "Ye Liu",
+    "Semih Yavuz",
+    "Rui Meng",
+    "Dragomir Radev",
+    "Caiming Xiong",
+    "Yingbo Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-main.605",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.605/"
+}

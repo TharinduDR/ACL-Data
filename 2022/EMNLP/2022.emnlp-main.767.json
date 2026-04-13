@@ -1,0 +1,21 @@
+{
+  "title": "PreQuEL: Quality Estimation of Machine Translation Outputs in Advance",
+  "authors": [
+    "Shachar Don-Yehiya",
+    "Leshem Choshen",
+    "Omri Abend"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Estonian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.emnlp-main.767",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.767/"
+}

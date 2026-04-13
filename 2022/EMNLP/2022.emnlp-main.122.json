@@ -1,0 +1,18 @@
+{
+  "title": "Semantic Framework based Query Generation for Temporal Question Answering over Knowledge Graphs",
+  "authors": [
+    "Wentao Ding",
+    "Hao Chen",
+    "Huayu Li",
+    "Yuzhong Qu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.emnlp-main.122",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.122/"
+}

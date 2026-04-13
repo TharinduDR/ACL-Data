@@ -1,0 +1,29 @@
+{
+  "title": "Bernice: A Multilingual Pre-trained Encoder for Twitter",
+  "authors": [
+    "Alexandra DeLucia",
+    "Shijie Wu",
+    "Aaron Mueller",
+    "Carlos Aguirre",
+    "Mark Dredze",
+    "Philip Resnik"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French",
+    "German",
+    "Indonesian",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.emnlp-main.415",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.415/"
+}

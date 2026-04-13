@@ -1,0 +1,41 @@
+{
+  "title": "Polyglot Prompting: Multilingual Multitask Prompt Training",
+  "authors": [
+    "Jinlan Fu",
+    "See-Kiong Ng",
+    "Pengfei Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Vietnamese",
+    "Arabic",
+    "Bengali",
+    "Hindi",
+    "Indonesian",
+    "Malay",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-main.674",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.674/"
+}

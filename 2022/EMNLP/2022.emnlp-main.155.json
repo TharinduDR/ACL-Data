@@ -1,0 +1,23 @@
+{
+  "title": "Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations",
+  "authors": [
+    "Kang Min Yoo",
+    "Junyeb Kim",
+    "Hyuhng Joon Kim",
+    "Hyunsoo Cho",
+    "Hwiyeol Jo",
+    "Sang-Woo Lee",
+    "Sang-goo Lee",
+    "Taeuk Kim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.emnlp-main.155",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.155/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Recovering Gold from Black Sand: Multilingual Dense Passage Retrieval with Hard and False Negative Samples",
+  "authors": [
+    "Tianhao Shen",
+    "Mingtong Liu",
+    "Ming Zhou",
+    "Deyi Xiong"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "English",
+    "Finnish",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Telugu",
+    "Thai"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.emnlp-main.730",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.730/"
+}

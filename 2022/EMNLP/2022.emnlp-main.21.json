@@ -1,0 +1,27 @@
+{
+  "title": "Non-Parametric Domain Adaptation for End-to-End Speech Translation",
+  "authors": [
+    "Yichao Du",
+    "Weizhi Wang",
+    "Zhirui Zhang",
+    "Boxing Chen",
+    "Tong Xu",
+    "Jun Xie",
+    "Enhong Chen"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.emnlp-main.21",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.21/"
+}

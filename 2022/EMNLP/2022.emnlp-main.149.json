@@ -1,0 +1,21 @@
+{
+  "title": "Retrieval as Attention: End-to-end Learning of Retrieval and Reading within a Single Transformer",
+  "authors": [
+    "Zhengbao Jiang",
+    "Luyu Gao",
+    "Jun Araki",
+    "Haibo Ding",
+    "Zhiruo Wang",
+    "Jamie Callan",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.emnlp-main.149",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.149/"
+}

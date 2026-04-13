@@ -1,0 +1,32 @@
+{
+  "title": "GPS: Genetic Prompt Search for Efficient Few-shot Learning",
+  "authors": [
+    "Hanwei Xu",
+    "Yujun Chen",
+    "Yulun Du",
+    "Nan Shao",
+    "Yanggang Wang",
+    "Haiyu Li",
+    "Zhilin Yang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "French",
+    "Spanish",
+    "Italian",
+    "Russian",
+    "German",
+    "Arabic",
+    "Greek",
+    "Cantonese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.559",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.559/"
+}

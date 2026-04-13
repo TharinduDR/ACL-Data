@@ -1,0 +1,35 @@
+{
+  "title": "Hyper-X: A Unified Hypernetwork for Multi-Task Multilingual Transfer",
+  "authors": [
+    "Ahmet Üstün",
+    "Arianna Bisazza",
+    "Gosse Bouma",
+    "Gertjan van Noord",
+    "Sebastian Ruder"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Breton",
+    "Chinese",
+    "Icelandic",
+    "Kazakh",
+    "Tamil",
+    "Turkish",
+    "Yoruba",
+    "Faroese",
+    "Guarani",
+    "Upper Sorbian",
+    "Maltese",
+    "Sanskrit",
+    "Uyghur",
+    "Cantonese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-main.541",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.541/"
+}

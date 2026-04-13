@@ -1,0 +1,23 @@
+{
+  "title": "DivEMT: Neural Machine Translation Post-Editing Effort Across Typologically Diverse Languages",
+  "authors": [
+    "Gabriele Sarti",
+    "Arianna Bisazza",
+    "Ana Guerberof-Arenas",
+    "Antonio Toral"
+  ],
+  "languages": [
+    "Arabic",
+    "Dutch",
+    "Italian",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.532",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.532/"
+}

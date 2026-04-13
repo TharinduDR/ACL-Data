@@ -1,0 +1,19 @@
+{
+  "title": "Vector-Quantized Input-Contextualized Soft Prompts for Natural Language Understanding",
+  "authors": [
+    "Rishabh Bhardwaj",
+    "Amrita Saha",
+    "Steven C.H. Hoi",
+    "Soujanya Poria"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-main.455",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.455/"
+}

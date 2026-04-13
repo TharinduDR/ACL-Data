@@ -1,0 +1,23 @@
+{
+  "title": "ReSel: N-ary Relation Extraction from Scientific Text and Tables by Learning to Retrieve and Select",
+  "authors": [
+    "Yuchen Zhuang",
+    "Yinghao Li",
+    "Jerry Junyang Cheung",
+    "Yue Yu",
+    "Yingjun Mou",
+    "Xiang Chen",
+    "Le Song",
+    "Chao Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.emnlp-main.46",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.46/"
+}

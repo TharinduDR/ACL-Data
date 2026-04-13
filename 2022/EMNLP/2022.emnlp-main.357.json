@@ -1,0 +1,23 @@
+{
+  "title": "DuReader_retrieval: A Large-scale Chinese Benchmark for Passage Retrieval from Web Search Engine",
+  "authors": [
+    "Yifu Qiu",
+    "Hongyu Li",
+    "Yingqi Qu",
+    "Ying Chen",
+    "Qiaoqiao She",
+    "Jing Liu",
+    "Hua Wu",
+    "Haifeng Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.357",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.357/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Towards Opening the Black Box of Neural Machine Translation: Source and Target Interpretations of the Transformer",
+  "authors": [
+    "Javier Ferrando",
+    "Gerard I. Gállego",
+    "Belen Alastruey",
+    "Carlos Escolano",
+    "Marta R. Costa-jussà"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.emnlp-main.599",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.599/"
+}

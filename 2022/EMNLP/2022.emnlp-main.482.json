@@ -1,0 +1,21 @@
+{
+  "title": "Precisely the Point: Adversarial Augmentations for Faithful and Informative Text Generation",
+  "authors": [
+    "Wen Hao Wu",
+    "Wei Li",
+    "Jiachen Liu",
+    "Xinyan Xiao",
+    "Sujian Li",
+    "Yajuan Lyu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2022.emnlp-main.482",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.482/"
+}

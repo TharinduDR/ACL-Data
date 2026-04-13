@@ -1,0 +1,25 @@
+{
+  "title": "Generative Language Models for Paragraph-Level Question Generation",
+  "authors": [
+    "Asahi Ushio",
+    "Fernando Alva-Manchego",
+    "Jose Camacho-Collados"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Russian",
+    "Korean",
+    "French",
+    "Spanish",
+    "German",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.42",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.42/"
+}

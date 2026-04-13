@@ -1,0 +1,21 @@
+{
+  "title": "SynGEC: Syntax-Enhanced Grammatical Error Correction with a Tailored GEC-Oriented Parser",
+  "authors": [
+    "Yue Zhang",
+    "Bo Zhang",
+    "Zhenghua Li",
+    "Zuyi Bao",
+    "Chen Li",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-main.162",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.162/"
+}

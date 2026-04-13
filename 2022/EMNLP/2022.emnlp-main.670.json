@@ -1,0 +1,19 @@
+{
+  "title": "CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering",
+  "authors": [
+    "Maitreya Patel",
+    "Tejas Gokhale",
+    "Chitta Baral",
+    "Yezhou Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.670",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.670/"
+}

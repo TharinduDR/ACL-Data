@@ -1,0 +1,23 @@
+{
+  "title": "CISLR: Corpus for Indian Sign Language Recognition",
+  "authors": [
+    "Pradeep S",
+    "Abhinav Joshi",
+    "Ashwani Bhat",
+    "Priya Gole",
+    "Shreyansh Agarwal",
+    "Shashwat Gupta",
+    "Ashutosh Modi"
+  ],
+  "languages": [
+    "Indian Sign Language",
+    "American Sign Language"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.707",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.707/"
+}

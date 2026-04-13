@@ -1,0 +1,21 @@
+{
+  "title": "Automatic Generation of Socratic Subquestions for Teaching Math Word Problems",
+  "authors": [
+    "Kumar Shridhar",
+    "Jakub Macina",
+    "Mennatallah El-Assady",
+    "Tanmay Sinha",
+    "Manu Kapur",
+    "Mrinmay Sachan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-main.277",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.277/"
+}

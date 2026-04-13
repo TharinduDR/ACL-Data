@@ -1,0 +1,22 @@
+{
+  "title": "Norm-based Noisy Corpora Filtering and Refurbishing in Neural Machine Translation",
+  "authors": [
+    "Yu Lu",
+    "Jiajun Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Hebrew",
+    "Indonesian",
+    "Korean",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.emnlp-main.363",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.363/"
+}

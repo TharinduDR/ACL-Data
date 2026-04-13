@@ -1,0 +1,43 @@
+{
+  "title": "Don't Stop Fine-Tuning: On Training Regimes for Few-Shot Cross-Lingual Transfer with Multilingual Language Models",
+  "authors": [
+    "Fabian David Schmidt",
+    "Ivan Vulić",
+    "Goran Glavaš"
+  ],
+  "languages": [
+    "English",
+    "Aymara",
+    "Bribri",
+    "Guarani",
+    "Wixarika",
+    "Quechua",
+    "Shipibo",
+    "Raramuri",
+    "German",
+    "Spanish",
+    "French",
+    "Korean",
+    "Japanese",
+    "Chinese",
+    "Afrikaans",
+    "Arabic",
+    "Russian",
+    "Swahili",
+    "Tamil",
+    "Urdu",
+    "Vietnamese",
+    "Yoruba",
+    "Basque",
+    "Hindi",
+    "Hungarian",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-main.736",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.736/"
+}

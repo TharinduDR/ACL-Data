@@ -1,0 +1,23 @@
+{
+  "title": "A Generative Model for End-to-End Argument Mining with Reconstructed Positional Encoding and Constrained Pointer Mechanism",
+  "authors": [
+    "Jianzhu Bao",
+    "Yuhang He",
+    "Yang Sun",
+    "Bin Liang",
+    "Jiachen Du",
+    "Bing Qin",
+    "Min Yang",
+    "Ruifeng Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-main.713",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.713/"
+}

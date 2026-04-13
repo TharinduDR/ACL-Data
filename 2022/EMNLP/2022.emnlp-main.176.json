@@ -1,0 +1,18 @@
+{
+  "title": "Mitigating Data Sparsity for Short Text Topic Modeling by Topic-Semantic Contrastive Learning",
+  "authors": [
+    "Xiaobao Wu",
+    "Anh Tuan Luu",
+    "Xinshuai Dong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.emnlp-main.176",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.176/"
+}

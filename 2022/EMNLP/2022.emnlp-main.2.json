@@ -1,0 +1,23 @@
+{
+  "title": "CDConv: A Benchmark for Contradiction Detection in Chinese Conversations",
+  "authors": [
+    "Chujie Zheng",
+    "Jinfeng Zhou",
+    "Yinhe Zheng",
+    "Libiao Peng",
+    "Zhen Guo",
+    "Wenquan Wu",
+    "Zheng-Yu Niu",
+    "Hua Wu",
+    "Minlie Huang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.2",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.2/"
+}

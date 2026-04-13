@@ -1,0 +1,32 @@
+{
+  "title": "AfriCLIRMatrix: Enabling Cross-Lingual Information Retrieval for African Languages",
+  "authors": [
+    "Odunayo Ogundepo",
+    "Xinyu Zhang",
+    "Shuo Sun",
+    "Kevin Duh",
+    "Jimmy Lin"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Amharic",
+    "Arabic",
+    "Hausa",
+    "Igbo",
+    "Northern Sotho",
+    "Shona",
+    "Somali",
+    "Swahili",
+    "Tigrinya",
+    "Twi",
+    "Wolof",
+    "Yoruba",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.597",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.597/"
+}

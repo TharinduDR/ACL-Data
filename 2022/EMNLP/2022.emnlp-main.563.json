@@ -1,0 +1,21 @@
+{
+  "title": "Hierarchical Phrase-based Sequence-to-Sequence Learning",
+  "authors": [
+    "Bailin Wang",
+    "Ivan Titov",
+    "Jacob Andreas",
+    "Yoon Kim"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Cherokee"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-main.563",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.563/"
+}

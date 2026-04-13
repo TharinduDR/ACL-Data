@@ -1,0 +1,20 @@
+{
+  "title": "Dial2vec: Self-Guided Contrastive Learning of Unsupervised Dialogue Embeddings",
+  "authors": [
+    "Che Liu",
+    "Rui Wang",
+    "Junfeng Jiang",
+    "Yongbin Li",
+    "Fei Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.490",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.490/"
+}

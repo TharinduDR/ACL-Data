@@ -1,0 +1,22 @@
+{
+  "title": "Machine Translation Robustness to Natural Asemantic Variation",
+  "authors": [
+    "Jacob Bremerman",
+    "Xiang Ren",
+    "Jonathan May"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Japanese",
+    "Portuguese",
+    "Korean",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.230",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.230/"
+}

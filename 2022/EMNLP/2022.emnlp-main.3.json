@@ -1,0 +1,19 @@
+{
+  "title": "Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space",
+  "authors": [
+    "Mor Geva",
+    "Avi Caciularu",
+    "Kevin Ro Wang",
+    "Yoav Goldberg"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.emnlp-main.3",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.3/"
+}

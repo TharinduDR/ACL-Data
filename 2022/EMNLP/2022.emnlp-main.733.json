@@ -1,0 +1,18 @@
+{
+  "title": "PNeg: Prompt-based Negative Response Generation for Dialogue Response Selection Task",
+  "authors": [
+    "Nyoungwoo Lee",
+    "ChaeHun Park",
+    "Ho-Jin Choi",
+    "Jaegul Choo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-main.733",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.733/"
+}

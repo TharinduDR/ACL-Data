@@ -1,0 +1,23 @@
+{
+  "title": "Exploring Mode Connectivity for Pre-trained Language Models",
+  "authors": [
+    "Yujia Qin",
+    "Cheng Qian",
+    "Jing Yi",
+    "Weize Chen",
+    "Yankai Lin",
+    "Xu Han",
+    "Zhiyuan Liu",
+    "Maosong Sun",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.emnlp-main.451",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.451/"
+}

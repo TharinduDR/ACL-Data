@@ -1,0 +1,18 @@
+{
+  "title": "IDK-MRC: Unanswerable Questions for Indonesian Machine Reading Comprehension",
+  "authors": [
+    "Rifki Afina Putri",
+    "Alice Oh"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.465",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.465/"
+}

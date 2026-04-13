@@ -1,0 +1,22 @@
+{
+  "title": "Evaluating the Impact of Model Scale for Compositional Generalization in Semantic Parsing",
+  "authors": [
+    "Linlu Qiu",
+    "Peter Shaw",
+    "Panupong Pasupat",
+    "Tianze Shi",
+    "Jonathan Herzig",
+    "Emily Pitler",
+    "Fei Sha",
+    "Kristina Toutanova"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-main.624",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.624/"
+}

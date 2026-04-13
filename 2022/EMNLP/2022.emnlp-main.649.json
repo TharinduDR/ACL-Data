@@ -1,0 +1,30 @@
+{
+  "title": "DEMETR: Diagnosing Evaluation Metrics for Translation",
+  "authors": [
+    "Marzena Karpinska",
+    "Nishant Raj",
+    "Katherine Thai",
+    "Yixiao Song",
+    "Ankita Gupta",
+    "Mohit Iyyer"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Spanish",
+    "German",
+    "Czech",
+    "Polish",
+    "Russian",
+    "Hindi",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.emnlp-main.649",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.649/"
+}

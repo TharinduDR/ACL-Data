@@ -1,0 +1,25 @@
+{
+  "title": "Cross-Align: Modeling Deep Cross-lingual Interactions for Word Alignment",
+  "authors": [
+    "Siyu Lai",
+    "Zhen Yang",
+    "Fandong Meng",
+    "Yufeng Chen",
+    "Jinan Xu",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "French",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.emnlp-main.244",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.244/"
+}

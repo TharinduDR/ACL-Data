@@ -1,0 +1,19 @@
+{
+  "title": "PLM-based World Models for Text-based Games",
+  "authors": [
+    "Minsoo Kim",
+    "YeonJoon Jung",
+    "Dohyeon Lee",
+    "Seung-won Hwang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.86",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.86/"
+}

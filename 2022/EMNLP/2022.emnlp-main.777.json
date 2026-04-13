@@ -1,0 +1,22 @@
+{
+  "title": "Mitigating Spurious Correlation in Natural Language Understanding with Counterfactual Inference",
+  "authors": [
+    "Can Udomcharoenchaikit",
+    "Wuttikorn Ponwitayarat",
+    "Patomporn Payoungkhamdee",
+    "Kanruethai Masuk",
+    "Weerayut Buaphet",
+    "Ekapol Chuangsuanich",
+    "Sarana Nutanong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.777",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.777/"
+}

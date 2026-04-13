@@ -1,0 +1,30 @@
+{
+  "title": "WIDER & CLOSER: Mixture of Short-channel Distillers for Zero-shot Cross-lingual Named Entity Recognition",
+  "authors": [
+    "Jun-Yu Ma",
+    "Beiduo Chen",
+    "Jia-Chen Gu",
+    "Zhen-Hua Ling",
+    "Wu Guo",
+    "Quan Liu",
+    "Zhigang Chen",
+    "Cong Liu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Dutch",
+    "Arabic",
+    "Hindi",
+    "Chinese",
+    "Korean",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.emnlp-main.345",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.345/"
+}

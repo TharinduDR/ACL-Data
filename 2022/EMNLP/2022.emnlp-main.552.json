@@ -1,0 +1,44 @@
+{
+  "title": "Cross-Linguistic Syntactic Difference in Multilingual BERT: How Good is It and How Does It Affect Transfer?",
+  "authors": [
+    "Ningyu Xu",
+    "Tao Gui",
+    "Ruotian Ma",
+    "Qi Zhang",
+    "Jingting Ye",
+    "Menghan Zhang",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "German",
+    "Greek",
+    "English",
+    "Spanish",
+    "Estonian",
+    "Persian",
+    "Finnish",
+    "French",
+    "Hebrew",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Latvian",
+    "Dutch",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Turkish",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-main.552",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.552/"
+}

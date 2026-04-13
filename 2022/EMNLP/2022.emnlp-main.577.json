@@ -1,0 +1,26 @@
+{
+  "title": "ConNER: Consistency Training for Cross-lingual Named Entity Recognition",
+  "authors": [
+    "Ran Zhou",
+    "Xin Li",
+    "Lidong Bing",
+    "Erik Cambria",
+    "Luo Si",
+    "Chunyan Miao"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Dutch",
+    "Chinese",
+    "Arabic",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.emnlp-main.577",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.577/"
+}

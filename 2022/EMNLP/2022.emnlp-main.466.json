@@ -1,0 +1,24 @@
+{
+  "title": "XLM-D: Decorate Cross-lingual Pre-training Model as Non-Autoregressive Neural Machine Translation",
+  "authors": [
+    "Yong Wang",
+    "Shilin He",
+    "Guanhua Chen",
+    "Yun Chen",
+    "Daxin Jiang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian",
+    "French",
+    "Korean",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.emnlp-main.466",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.466/"
+}

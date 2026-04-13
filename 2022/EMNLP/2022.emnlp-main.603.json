@@ -1,0 +1,25 @@
+{
+  "title": "PromptBERT: Improving BERT Sentence Embeddings with Prompts",
+  "authors": [
+    "Ting Jiang",
+    "Jian Jiao",
+    "Shaohan Huang",
+    "Zihan Zhang",
+    "Deqing Wang",
+    "Fuzhen Zhuang",
+    "Furu Wei",
+    "Haizhen Huang",
+    "Denvy Deng",
+    "Qi Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.603",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.603/"
+}

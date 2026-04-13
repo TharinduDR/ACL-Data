@@ -1,0 +1,22 @@
+{
+  "title": "IsoVec: Controlling the Relative Isomorphism of Word Embedding Spaces",
+  "authors": [
+    "Kelly Marchisio",
+    "Neha Verma",
+    "Kevin Duh",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "Bengali",
+    "Ukrainian",
+    "Tamil",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.emnlp-main.404",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.404/"
+}

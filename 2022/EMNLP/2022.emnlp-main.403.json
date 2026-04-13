@@ -1,0 +1,26 @@
+{
+  "title": "NEWSCLAIMS: A New Benchmark for Claim Detection from News with Attribute Knowledge",
+  "authors": [
+    "Revanth Gangi Reddy",
+    "Sai Chetan Chinthakindi",
+    "Zhenhailong Wang",
+    "Yi R. Fung",
+    "Kathryn Conger",
+    "Ahmed Elsayed",
+    "Martha Palmer",
+    "Preslav Nakov",
+    "Eduard Hovy",
+    "Kevin Small",
+    "Heng Ji"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.emnlp-main.403",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.403/"
+}

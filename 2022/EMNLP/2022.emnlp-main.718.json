@@ -1,0 +1,24 @@
+{
+  "title": "Evaluating the Knowledge Dependency of Questions",
+  "authors": [
+    "Hyeongdon Moon",
+    "Yoonseok Yang",
+    "Jamin Shin",
+    "Hangyeol Yu",
+    "Seunghyun Lee",
+    "Myeongho Jeong",
+    "Juneyoung Park",
+    "Minsam Kim",
+    "Seungtaek Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.718",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.718/"
+}

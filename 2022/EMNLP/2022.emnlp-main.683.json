@@ -1,0 +1,21 @@
+{
+  "title": "Towards Efficient Dialogue Pre-training with Transferable and Interpretable Latent Structure",
+  "authors": [
+    "Xueliang Zhao",
+    "Lemao Liu",
+    "Tingchen Fu",
+    "Shuming Shi",
+    "Dongyan Zhao",
+    "Rui Yan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.emnlp-main.683",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.683/"
+}

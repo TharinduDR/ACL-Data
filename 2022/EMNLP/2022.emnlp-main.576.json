@@ -1,0 +1,18 @@
+{
+  "title": "IELM: An Open Information Extraction Benchmark for Pre-Trained Language Models",
+  "authors": [
+    "Chenguang Wang",
+    "Xiao Liu",
+    "Dawn Song"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.emnlp-main.576",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.576/"
+}

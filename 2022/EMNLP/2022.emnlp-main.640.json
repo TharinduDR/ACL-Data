@@ -1,0 +1,21 @@
+{
+  "title": "Exploring Dual Encoder Architectures for Question Answering",
+  "authors": [
+    "Zhe Dong",
+    "Jianmo Ni",
+    "Dan Bikel",
+    "Enrique Alfonsca",
+    "Yuan Wang",
+    "Chen Qu",
+    "Imed Zitouni"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.emnlp-main.640",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.640/"
+}

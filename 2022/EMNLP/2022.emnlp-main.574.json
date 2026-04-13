@@ -1,0 +1,23 @@
+{
+  "title": "ConsistTL: Modeling Consistency in Transfer Learning for Low-Resource Neural Machine Translation",
+  "authors": [
+    "Zhaocong Li",
+    "Xuebo Liu",
+    "Derek F. Wong",
+    "Lidia S. Chao",
+    "Min Zhang"
+  ],
+  "languages": [
+    "Turkish",
+    "Polish",
+    "Catalan",
+    "Indonesian",
+    "Hungarian",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.emnlp-main.574",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.574/"
+}

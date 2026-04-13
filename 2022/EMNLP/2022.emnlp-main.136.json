@@ -1,0 +1,25 @@
+{
+  "title": "ToKEN: Task Decomposition and Knowledge Infusion for Few-Shot Hate Speech Detection",
+  "authors": [
+    "Badr AlKhamissi",
+    "Faisal Lad hak",
+    "Srini Iyer",
+    "Ves Stoyanov",
+    "Zornitsa Kozareva",
+    "Xian Li",
+    "Pascale Fung",
+    "Lambert Mathias",
+    "Asli Celikyilmaz",
+    "Mona Diab"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.emnlp-main.136",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.136/"
+}

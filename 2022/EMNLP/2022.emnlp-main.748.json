@@ -1,0 +1,24 @@
+{
+  "title": "ECTSum: A New Benchmark Dataset For Bullet Point Summarization of Long Earnings Call Transcripts",
+  "authors": [
+    "Rajdeep Mukherjee",
+    "Abhinav Bohra",
+    "Akash Banerjee",
+    "Soumya Sharma",
+    "Manjunath Hegde",
+    "Afreen Shaikh",
+    "Shivani Shrivastava",
+    "Koustuv Dasgupta",
+    "Niloy Ganguly",
+    "Saptarshi Ghosh",
+    "Pawan Goyal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.emnlp-main.748",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.748/"
+}

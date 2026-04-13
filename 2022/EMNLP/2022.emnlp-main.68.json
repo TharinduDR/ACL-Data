@@ -1,0 +1,20 @@
+{
+  "title": "ELMER: A Non-Autoregressive Pre-trained Language Model for Efficient and Effective Text Generation",
+  "authors": [
+    "Junyi Li",
+    "Tianyi Tang",
+    "Wayne Xin Zhao",
+    "Jian-Yun Nie",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.emnlp-main.68",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.68/"
+}

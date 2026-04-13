@@ -1,0 +1,35 @@
+{
+  "title": "Training Dynamics for Curriculum Learning: A Study on Monolingual and Cross-lingual NLU",
+  "authors": [
+    "Fenia Christopoulou",
+    "Gerasimos Lampouras",
+    "Ignacio Iacobacci"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Vietnamese",
+    "Arabic",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2022.emnlp-main.167",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.167/"
+}

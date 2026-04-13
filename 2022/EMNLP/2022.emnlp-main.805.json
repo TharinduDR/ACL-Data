@@ -1,0 +1,21 @@
+{
+  "title": "MedJEx: A Medical Jargon Extraction Model with Wiki's Hyperlink Span and Contextualized Masked Language Model Score",
+  "authors": [
+    "Sunjae Kwon",
+    "Zonghai Yao",
+    "Harmon S. Jordan",
+    "David A. Levy",
+    "Brian Corner",
+    "Hong Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2022.emnlp-main.805",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.805/"
+}

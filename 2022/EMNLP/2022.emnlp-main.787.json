@@ -1,0 +1,25 @@
+{
+  "title": "GENIE: Toward Reproducible and Standardized Human Evaluation for Text Generation",
+  "authors": [
+    "Daniel Khashabi",
+    "Gabriel Stanovsky",
+    "Jonathan Bragg",
+    "Nicholas Lourie",
+    "Jungo Kasai",
+    "Yejin Choi",
+    "Noah A. Smith",
+    "Daniel S. Weld"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.emnlp-main.787",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.787/"
+}

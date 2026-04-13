@@ -1,0 +1,23 @@
+{
+  "title": "Character-level White-Box Adversarial Attacks against Transformers via Attachable Subwords Substitution",
+  "authors": [
+    "Aiwei Liu",
+    "Honghai Yu",
+    "Xuming Hu",
+    "Shu'ang Li",
+    "Li Lin",
+    "Fukun Ma",
+    "Yawen Yang",
+    "Lijie Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.emnlp-main.522",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.522/"
+}

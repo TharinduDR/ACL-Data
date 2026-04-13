@@ -1,0 +1,20 @@
+{
+  "title": "Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings",
+  "authors": [
+    "Malte Ostendorff",
+    "Nils Rethmeier",
+    "Isabelle Augenstein",
+    "Bela Gipp",
+    "Georg Rehm"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.802",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.802/"
+}

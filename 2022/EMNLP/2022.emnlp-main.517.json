@@ -1,0 +1,17 @@
+{
+  "title": "Debiasing Masks: A New Framework for Shortcut Mitigation in NLU",
+  "authors": [
+    "Johannes Mario Meissner",
+    "Saku Sugawara",
+    "Akiko Aizawa"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-main.517",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.517/"
+}

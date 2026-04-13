@@ -1,0 +1,25 @@
+{
+  "title": "CodeRetriever: Large-scale Contrastive Pre-training for Code Search",
+  "authors": [
+    "Xiaonan Li",
+    "Yeyun Gong",
+    "Yelong Shen",
+    "Xipeng Qiu",
+    "Hang Zhang",
+    "Bolun Yao",
+    "Weizhen Qi",
+    "Daxin Jiang",
+    "Weizhu Chen",
+    "Nan Duan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.emnlp-main.187",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.187/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "TeleMelody: Lyric-to-Melody Generation with a Template-Based Two-Stage Method",
+  "authors": [
+    "Zeqian Ju",
+    "Peiling Lu",
+    "Xu Tan",
+    "Rui Wang",
+    "Chen Zhang",
+    "Songruoyao Wu",
+    "Kejun Zhang",
+    "Xiangyang Li",
+    "Tao Qin",
+    "Tie-Yan Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.emnlp-main.364",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.364/"
+}

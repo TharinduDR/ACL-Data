@@ -1,0 +1,20 @@
+{
+  "title": "Tutoring Helps Students Learn Better: Improving Knowledge Distillation for BERT with Tutor Network",
+  "authors": [
+    "Junho Kim",
+    "Jun-Hyung Park",
+    "Mingyu Lee",
+    "Wing-Lam Mok",
+    "Joon-Young Choi",
+    "SangKeun Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2022.emnlp-main.498",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.498/"
+}

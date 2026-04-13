@@ -1,0 +1,29 @@
+{
+  "title": "Multilingual Relation Classification via Efficient and Effective Prompting",
+  "authors": [
+    "Yuxuan Chen",
+    "David Harbecke",
+    "Leonhard Hennig"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Swedish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.emnlp-main.69",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.69/"
+}

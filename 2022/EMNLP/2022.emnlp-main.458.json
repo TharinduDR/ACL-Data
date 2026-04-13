@@ -1,0 +1,35 @@
+{
+  "title": "Unifying the Convergences in Multilingual Neural Machine Translation",
+  "authors": [
+    "Yichong Huang",
+    "Xiaocheng Feng",
+    "Xinwei Geng",
+    "Bing Qin"
+  ],
+  "languages": [
+    "Bosnian",
+    "Marathi",
+    "Hindi",
+    "Macedonian",
+    "Greek",
+    "Bulgarian",
+    "French",
+    "Korean",
+    "Azerbaijani",
+    "Galician",
+    "Slovak",
+    "Czech",
+    "Turkish",
+    "Portuguese",
+    "Russian",
+    "Romanian",
+    "Estonian",
+    "Chinese",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.emnlp-main.458",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.458/"
+}

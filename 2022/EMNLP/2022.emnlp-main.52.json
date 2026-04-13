@@ -1,0 +1,22 @@
+{
+  "title": "LightEA: A Scalable, Robust, and Interpretable Entity Alignment Framework via Three-view Label Propagation",
+  "authors": [
+    "Xin Mao",
+    "Wenting Wang",
+    "Yuanbin Wu",
+    "Man Lan"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.52",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.52/"
+}

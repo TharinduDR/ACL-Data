@@ -1,0 +1,20 @@
+{
+  "title": "ProofInfer: Generating Proof via Iterative Hierarchical Inference",
+  "authors": [
+    "Zichu Fei",
+    "Qi Zhang",
+    "Xin Zhou",
+    "Tao Gui",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.emnlp-main.747",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.747/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Using Commonsense Knowledge to Answer Why-Questions",
+  "authors": [
+    "Yash Kumar Lal",
+    "Niket Tandon",
+    "Tanvi Aggarwal",
+    "Horace Liu",
+    "Nathanael Chambers",
+    "Raymond Mooney",
+    "Niranjan Balasubramanian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-main.79",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.79/"
+}

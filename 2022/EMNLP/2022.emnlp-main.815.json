@@ -1,0 +1,18 @@
+{
+  "title": "Model Criticism for Long-Form Text Generation",
+  "authors": [
+    "Yuntian Deng",
+    "Volodymyr Kuleshov",
+    "Alexander M. Rush"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T05 Discourse and Pragmatics"
+  ],
+  "paper_id": "2022.emnlp-main.815",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.815/"
+}

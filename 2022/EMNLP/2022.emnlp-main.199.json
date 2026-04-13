@@ -1,0 +1,22 @@
+{
+  "title": "Generative Entity Typing with Curriculum Learning",
+  "authors": [
+    "Siyu Yuan",
+    "Deqing Yang",
+    "Jiaqing Liang",
+    "Zhixu Li",
+    "Jinxi Liu",
+    "Jingyue Huang",
+    "Yanghua Xiao"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-main.199",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.199/"
+}

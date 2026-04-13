@@ -1,0 +1,24 @@
+{
+  "title": "Red Teaming Language Models with Language Models",
+  "authors": [
+    "Ethan Perez",
+    "Saffron Huang",
+    "Francis Song",
+    "Trevor Cai",
+    "Roman Ring",
+    "John Aslanides",
+    "Amelia Glaese",
+    "Nat McAleese",
+    "Geoffrey Irving"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.225",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.225/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "PRO-CS : An Instance-Based Prompt Composition Technique for Code-Switched Tasks",
+  "authors": [
+    "Srijan Bansal",
+    "Suraj Tripathi",
+    "Sumit Agarwal",
+    "Teruko Mitamura",
+    "Eric Nyberg"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.emnlp-main.698",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.698/"
+}

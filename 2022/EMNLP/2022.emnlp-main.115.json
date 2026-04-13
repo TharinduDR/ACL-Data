@@ -1,0 +1,23 @@
+{
+  "title": "Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference",
+  "authors": [
+    "Eric Mitchell",
+    "Joseph J. Noh",
+    "Siyan Li",
+    "William S. Armstrong",
+    "Ananth Agarwal",
+    "Patrick Liu",
+    "Chelsea Finn",
+    "Christopher D. Manning"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2022.emnlp-main.115",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.115/"
+}

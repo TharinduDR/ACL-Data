@@ -1,0 +1,18 @@
+{
+  "title": "Generating Literal and Implied Subquestions to Fact-check Complex Claims",
+  "authors": [
+    "Jifan Chen",
+    "Aniruddh Sriram",
+    "Eunsol Choi",
+    "Greg Durrett"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.emnlp-main.229",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.229/"
+}

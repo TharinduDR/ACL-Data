@@ -1,0 +1,21 @@
+{
+  "title": "MatchPrompt: Prompt-based Open Relation Extraction with Semantic Consistency Guided Clustering",
+  "authors": [
+    "Jiaxin Wang",
+    "Lingling Zhang",
+    "Jun Liu",
+    "Xi Liang",
+    "Yujie Zhong",
+    "YaQiang Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.emnlp-main.537",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.537/"
+}

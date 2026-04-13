@@ -1,0 +1,21 @@
+{
+  "title": "JANUS: Joint Autoregressive and Non-autoregressive Training with Auxiliary Loss for Sequence Generation",
+  "authors": [
+    "Xiaobo Liang",
+    "Juntao Li",
+    "Lijun Wu",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.emnlp-main.550",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.550/"
+}

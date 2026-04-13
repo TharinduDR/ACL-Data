@@ -1,0 +1,20 @@
+{
+  "title": "Transfer Learning from Semantic Role Labeling to Event Argument Extraction with Template-based Slot Querying",
+  "authors": [
+    "Zhisong Zhang",
+    "Emma Strubell",
+    "Eduard Hovy"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-main.169",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.169/"
+}

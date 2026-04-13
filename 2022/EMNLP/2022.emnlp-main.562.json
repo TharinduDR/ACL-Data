@@ -1,0 +1,21 @@
+{
+  "title": "Towards Table-to-Text Generation with Pretrained Language Model: A Table Structure Understanding and Text Deliberating Approach",
+  "authors": [
+    "Miao Chen",
+    "Xinjiang Lu",
+    "Tong Xu",
+    "Yanyan Li",
+    "Jingbo Zhou",
+    "Dejing Dou",
+    "Hui Xiong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.emnlp-main.562",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.562/"
+}

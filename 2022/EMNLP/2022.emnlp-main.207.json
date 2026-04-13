@@ -1,0 +1,22 @@
+{
+  "title": "Knowledge Prompting in Pre-trained Language Model for Natural Language Understanding",
+  "authors": [
+    "Jianing Wang",
+    "Wenkang Huang",
+    "QiuHui Shi",
+    "Hongbin Wang",
+    "Minghui Qiu",
+    "Xiang Li",
+    "Ming Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.emnlp-main.207",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.207/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "RelU-Net: Syntax-aware Graph U-Net for Relational Triple Extraction",
+  "authors": [
+    "Yunqi Zhang",
+    "Yubo Chen",
+    "Yongfeng Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-main.282",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.282/"
+}

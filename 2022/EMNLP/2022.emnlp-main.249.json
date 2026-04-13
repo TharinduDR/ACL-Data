@@ -1,0 +1,21 @@
+{
+  "title": "Improving Passage Retrieval with Zero-Shot Question Generation",
+  "authors": [
+    "Devendra Singh Sachan",
+    "Mike Lewis",
+    "Mandar Joshi",
+    "Armen Aghajanyan",
+    "Wen-tau Yih",
+    "Joelle Pineau",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.emnlp-main.249",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.249/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Chunk-based Nearest Neighbor Machine Translation",
+  "authors": [
+    "Pedro Henrique Martins",
+    "Zita Marinho",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Korean"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.emnlp-main.284",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.284/"
+}

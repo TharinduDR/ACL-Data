@@ -1,0 +1,27 @@
+{
+  "title": "Disentangling Uncertainty in Machine Translation Evaluation",
+  "authors": [
+    "Chrysoula Zerva",
+    "Taisiya Glushkova",
+    "Ricardo Rei",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Russian",
+    "Czech",
+    "Japanese",
+    "Polish",
+    "Persian",
+    "Thai",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.591",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.591/"
+}

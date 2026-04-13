@@ -1,0 +1,21 @@
+{
+  "title": "Counterfactual Recipe Generation: Exploring Compositional Generalization in a Realistic Scenario",
+  "authors": [
+    "Xiao Liu",
+    "Yansong Feng",
+    "Jizhi Tang",
+    "Chengang Hu",
+    "Dongyan Zhao"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-main.497",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.497/"
+}

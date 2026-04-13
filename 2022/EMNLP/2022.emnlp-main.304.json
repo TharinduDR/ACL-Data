@@ -1,0 +1,23 @@
+{
+  "title": "ExPUNations: Augmenting Puns with Keywords and Explanations",
+  "authors": [
+    "Jiao Sun",
+    "Anjali Narayan-Chen",
+    "Shereen Oraby",
+    "Alessandra Cervone",
+    "Tagyoung Chung",
+    "Jing Huang",
+    "Yang Liu",
+    "Nanyun Peng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-main.304",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.304/"
+}

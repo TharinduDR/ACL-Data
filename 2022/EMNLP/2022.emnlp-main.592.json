@@ -1,0 +1,19 @@
+{
+  "title": "Does Your Model Classify Entities Reasonably? Diagnosing and Mitigating Spurious Correlations in Entity Typing",
+  "authors": [
+    "Nan Xu",
+    "Fei Wang",
+    "Bangzheng Li",
+    "Mingtao Dong",
+    "Muhao Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.emnlp-main.592",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.592/"
+}

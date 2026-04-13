@@ -1,0 +1,20 @@
+{
+  "title": "Improving Factual Consistency in Summarization with Compression-Based Post-Editing",
+  "authors": [
+    "Alexander R. Fabbri",
+    "Prafulla Kumar Choubey",
+    "Jesse Vig",
+    "Chien-Sheng Wu",
+    "Caiming Xiong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2022.emnlp-main.623",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.623/"
+}

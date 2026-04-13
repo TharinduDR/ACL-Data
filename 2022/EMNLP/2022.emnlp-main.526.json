@@ -1,0 +1,24 @@
+{
+  "title": "CLIDSUM: A Benchmark Dataset for Cross-Lingual Dialogue Summarization",
+  "authors": [
+    "Jiaan Wang",
+    "Fandong Meng",
+    "Ziyao Lu",
+    "Duo Zheng",
+    "Zhixu Li",
+    "Jianfeng Qu",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.526",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.526/"
+}

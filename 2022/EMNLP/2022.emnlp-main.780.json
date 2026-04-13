@@ -1,0 +1,20 @@
+{
+  "title": "Prompting ELECTRA: Few-Shot Learning with Discriminative Pre-Trained Models",
+  "authors": [
+    "Mengzhou Xia",
+    "Mikel Artetxe",
+    "Jingfei Du",
+    "Danqi Chen",
+    "Ves Stoyanov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.780",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.780/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "KOLD: Korean Offensive Language Dataset",
+  "authors": [
+    "Younghoon Jeong",
+    "Juhyun Oh",
+    "Jongwon Lee",
+    "Jaimeen Ahn",
+    "Jihyung Moon",
+    "Sungjoon Park",
+    "Alice Oh"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.emnlp-main.744",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.744/"
+}

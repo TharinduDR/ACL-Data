@@ -1,0 +1,18 @@
+{
+  "title": "Entailer: Answering Questions with Faithful and Truthful Chains of Reasoning",
+  "authors": [
+    "Oyvind Tafjord",
+    "Bhavana Dalvi Mishra",
+    "Peter Clark"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2022.emnlp-main.134",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.134/"
+}

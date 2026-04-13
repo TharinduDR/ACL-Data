@@ -1,0 +1,26 @@
+{
+  "title": "TextFusion: Privacy-Preserving Pre-trained Model Inference via Token Fusion",
+  "authors": [
+    "Xin Zhou",
+    "Jin Zhu Lu",
+    "Tao Gui",
+    "Ruotian Ma",
+    "Zichu Fei",
+    "Yuran Wang",
+    "Yong Ding",
+    "Yibo Zhang",
+    "Qi Zhang",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.emnlp-main.572",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.572/"
+}

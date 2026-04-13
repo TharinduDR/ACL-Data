@@ -1,0 +1,21 @@
+{
+  "title": "DocInfer: Document-level Natural Language Inference using Optimal Evidence Selection",
+  "authors": [
+    "Puneet Mathur",
+    "Riyaz Bhat",
+    "Gautam Kunapuli",
+    "Manish Shrivastava",
+    "Dinesh Manocha",
+    "Maneesh Singh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2022.emnlp-main.51",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.51/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "D⁴: a Chinese Dialogue Dataset for Depression-Diagnosis-Oriented Chat",
+  "authors": [
+    "Binwei Yao",
+    "Chao Shi",
+    "Likai Zou",
+    "Lingfeng Dai",
+    "Mengyue Wu",
+    "Lu Chen",
+    "Zhen Wang",
+    "Kai Yu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.emnlp-main.156",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.156/"
+}

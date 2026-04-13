@@ -1,0 +1,27 @@
+{
+  "title": "SCROLLS: Standardized CompaRison Over Long Language Sequences",
+  "authors": [
+    "Uri Shacham",
+    "Elad Segal",
+    "Maor Ivgi",
+    "Avia Efrat",
+    "Ori Yoran",
+    "Adi Haviv",
+    "Ankit Gupta",
+    "Wenhan Xiong",
+    "Mor Geva",
+    "Jonathan Berant",
+    "Omer Levy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T18 Text Summarization",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2022.emnlp-main.823",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.823/"
+}

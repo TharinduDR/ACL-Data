@@ -1,0 +1,19 @@
+{
+  "title": "Distill the Image to Nowhere: Inversion Knowledge Distillation for Multimodal Machine Translation",
+  "authors": [
+    "Ru Peng",
+    "Yawen Zeng",
+    "Junbo Zhao"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.emnlp-main.152",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.152/"
+}

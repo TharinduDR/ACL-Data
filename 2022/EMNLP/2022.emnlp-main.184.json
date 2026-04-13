@@ -1,0 +1,27 @@
+{
+  "title": "LVP-M³: Language-aware Visual Prompt for Multilingual Multimodal Machine Translation",
+  "authors": [
+    "Hongcheng Guo",
+    "Jiaheng Liu",
+    "Haoyang Huang",
+    "Jian Yang",
+    "Zhoujun Li",
+    "Dongdong Zhang",
+    "Zheng Cui"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Czech",
+    "Latvian",
+    "Hindi",
+    "Turkish",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.emnlp-main.184",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.184/"
+}

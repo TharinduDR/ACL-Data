@@ -1,0 +1,23 @@
+{
+  "title": "WR-ONE2SET: Towards Well-Calibrated Keyphrase Generation",
+  "authors": [
+    "Binbin Xie",
+    "Xiangpeng Wei",
+    "Baosong Yang",
+    "Huan Lin",
+    "Jun Xie",
+    "Xiaoli Wang",
+    "Min Zhang",
+    "Jinsong Su"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-main.491",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.491/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "A Simple Contrastive Learning Framework for Interactive Argument Pair Identification via Argument-Context Extraction",
+  "authors": [
+    "Lida Shi",
+    "Fausto Giunchiglia",
+    "Rui Song",
+    "Daqian Shi",
+    "Tongtong Liu",
+    "Xiaolei Diao",
+    "Hao Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.emnlp-main.681",
+  "acl_url": "https://aclanthology.org/2022.emnlp-main.681/"
+}
