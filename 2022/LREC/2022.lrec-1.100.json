@@ -1,0 +1,23 @@
+{
+  "title": "Cross-lingual Transfer of Monolingual Models",
+  "authors": [
+    "Evangelia Gogoulou",
+    "Ariel Ekgren",
+    "Tim Isbister",
+    "Magnus Sahlgren"
+  ],
+  "languages": [
+    "English",
+    "Swedish",
+    "Dutch",
+    "Finnish",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.lrec-1.100",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.100/"
+}

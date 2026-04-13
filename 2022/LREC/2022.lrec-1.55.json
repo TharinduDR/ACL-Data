@@ -1,0 +1,19 @@
+{
+  "title": "VALET: Rule-Based Information Extraction for Rapid Deployment",
+  "authors": [
+    "Dayne Freitag",
+    "John Cadigan",
+    "Robert Sasseen",
+    "Paul Kalmar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.lrec-1.55",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.55/"
+}

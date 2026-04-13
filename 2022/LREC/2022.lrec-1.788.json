@@ -1,0 +1,29 @@
+{
+  "title": "ASCEND: A Spontaneous Chinese-English Dataset for Code-switching in Multi-turn Conversation",
+  "authors": [
+    "Holy Lovenia",
+    "Samuel Cahyawijaya",
+    "Genta Indra Winata",
+    "Peng Xu",
+    "Xu Yan",
+    "Zihan Liu",
+    "Rita Frieske",
+    "Tiezhen Yu",
+    "Wenliang Dai",
+    "Elham J. Barezi",
+    "Qifeng Chen",
+    "Xiaojuan Ma",
+    "Bertram E. Shi",
+    "Pascale Fung"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.lrec-1.788",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.788/"
+}

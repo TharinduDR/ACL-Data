@@ -1,0 +1,20 @@
+{
+  "title": "JaMIE: A Pipeline Japanese Medical Information Extraction System with Novel Relation Annotation",
+  "authors": [
+    "Fei Cheng",
+    "Shuntaro Yada",
+    "Ribeka Tanaka",
+    "Eiji Aramaki",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.lrec-1.397",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.397/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "RRGparbank: A Parallel Role and Reference Grammar Treebank",
+  "authors": [
+    "Tatiana Bladier",
+    "Kilian Evang",
+    "Valeria Generalova",
+    "Zahra Ghane",
+    "Laura Kallmeyer",
+    "Robin Möllemann",
+    "Natalia Moors",
+    "Rainer Osswald",
+    "Simon Petitjean"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Persian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.lrec-1.517",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.517/"
+}

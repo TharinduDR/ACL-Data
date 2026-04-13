@@ -1,0 +1,25 @@
+{
+  "title": "A Deep Transfer Learning Method for Cross-Lingual Natural Language Inference",
+  "authors": [
+    "Dibyanayan Bandyopadhyay",
+    "Arkadipta De",
+    "Baban Gain",
+    "Tanik Saikh",
+    "Asif Ekbal"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "French",
+    "German",
+    "Bulgarian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.lrec-1.330",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.330/"
+}

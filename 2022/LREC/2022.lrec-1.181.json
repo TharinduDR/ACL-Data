@@ -1,0 +1,26 @@
+{
+  "title": "Universal Proposition Bank 2.0",
+  "authors": [
+    "Ishan Jindal",
+    "Alexandre Rademaker",
+    "Michał Ulewicz",
+    "Linh Ha",
+    "Huyen Nguyen",
+    "Khoi-Nguyen Tran",
+    "Huaiyu Zhu",
+    "Yunyao Li"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Polish",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.lrec-1.181",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.181/"
+}

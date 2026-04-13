@@ -1,0 +1,22 @@
+{
+  "title": "ParCorFull2.0: a Parallel Corpus Annotated with Full Coreference",
+  "authors": [
+    "Ekaterina Lapshinova-Koltunski",
+    "Pedro Ferreira",
+    "Elina Lartaud",
+    "Christian Hardmeier"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2022.lrec-1.85",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.85/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Linghub2: Language Resource Discovery Tool for Language Technologies",
+  "authors": [
+    "Cécile Robin",
+    "Gautham Vadakkekara Suresh",
+    "Víctor Rodríguez Doncel",
+    "John McCrae",
+    "Paul Buitelaar"
+  ],
+  "languages": [
+    "Zulu",
+    "Chinese",
+    "English",
+    "German",
+    "Japanese",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.lrec-1.682",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.682/"
+}

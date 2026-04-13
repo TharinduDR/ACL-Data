@@ -1,0 +1,23 @@
+{
+  "title": "TeSum: Human-Generated Abstractive Summarization Corpus for Telugu",
+  "authors": [
+    "Ashok Urlana",
+    "Nirmal Surange",
+    "Pavan Baswani",
+    "Priyanka Ravva",
+    "Manish Shrivastava"
+  ],
+  "languages": [
+    "Telugu",
+    "Hindi",
+    "Marathi",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.614",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.614/"
+}

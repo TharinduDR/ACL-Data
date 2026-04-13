@@ -1,0 +1,22 @@
+{
+  "title": "Towards Understanding Gender-Seniority Compound Bias in Natural Language Generation",
+  "authors": [
+    "Samhita Honnavalli",
+    "Aesha Parekh",
+    "Lily Ou",
+    "Sophie Groenwald",
+    "Sharon Levy",
+    "Vicente Ordonez",
+    "William Yang Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.177",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.177/"
+}

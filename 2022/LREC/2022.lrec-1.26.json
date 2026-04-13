@@ -1,0 +1,18 @@
+{
+  "title": "CoVERT: A Corpus of Fact-checked Biomedical COVID-19 Tweets",
+  "authors": [
+    "Isabelle Mohr",
+    "Amelie Wüehrl",
+    "Roman Klinger"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.lrec-1.26",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.26/"
+}

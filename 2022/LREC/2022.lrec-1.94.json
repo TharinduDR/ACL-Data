@@ -1,0 +1,21 @@
+{
+  "title": "Domain Mismatch Doesn't Always Prevent Cross-Lingual Transfer Learning",
+  "authors": [
+    "Daniel Edmiston",
+    "Phillip Keung",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.lrec-1.94",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.94/"
+}

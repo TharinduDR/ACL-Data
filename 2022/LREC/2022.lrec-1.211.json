@@ -1,0 +1,24 @@
+{
+  "title": "BEA-Base: A Benchmark for ASR of Spontaneous Hungarian",
+  "authors": [
+    "Péter Mihajlik",
+    "András Balog",
+    "Tekla Etelka Gráczí",
+    "Anna Kohári",
+    "Balázs Tarján",
+    "Katalin Mády"
+  ],
+  "languages": [
+    "Hungarian",
+    "English",
+    "German",
+    "Italian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.211",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.211/"
+}

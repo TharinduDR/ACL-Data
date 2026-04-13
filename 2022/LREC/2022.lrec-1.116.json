@@ -1,0 +1,19 @@
+{
+  "title": "A Distant Supervision Corpus for Extracting Biomedical Relationships Between Chemicals, Diseases and Genes",
+  "authors": [
+    "Dongxu Zhang",
+    "Sunil Mohan",
+    "Michaela Torkar",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.lrec-1.116",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.116/"
+}

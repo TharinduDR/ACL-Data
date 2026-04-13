@@ -1,0 +1,19 @@
+{
+  "title": "ChiMST: A Chinese Medical Corpus for Word Segmentation and Medical Term Recognition",
+  "authors": [
+    "Yuanhe Tian",
+    "Han Qin",
+    "Fei Xia",
+    "Yan Song"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.lrec-1.607",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.607/"
+}

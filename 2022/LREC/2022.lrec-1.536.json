@@ -1,0 +1,49 @@
+{
+  "title": "The Construction and Evaluation of the LEAF TOP Dataset of Automatically Extracted Nouns in 1480 Languages",
+  "authors": [
+    "Greg Baker",
+    "Diego Molla-Aliod"
+  ],
+  "languages": [
+    "English",
+    "Korean",
+    "Arabic",
+    "Swahili",
+    "French",
+    "German",
+    "Hindi",
+    "Bengali",
+    "Telugu",
+    "Tamil",
+    "Sinhala",
+    "Urdu",
+    "Teso",
+    "Korafe",
+    "Melpa",
+    "Cebuano",
+    "Dobu",
+    "Hiligaynon",
+    "Hiri Motu",
+    "Kilivila",
+    "Nyindrou",
+    "Tagalog",
+    "Fon",
+    "Guinea Kpelle",
+    "Igbo",
+    "Samia",
+    "Luganda",
+    "Mano",
+    "Runyankole",
+    "Soga",
+    "Yoruba",
+    "Gunwinggu",
+    "Arnhem"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.536",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.536/"
+}

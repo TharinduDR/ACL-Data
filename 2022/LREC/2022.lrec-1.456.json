@@ -1,0 +1,19 @@
+{
+  "title": "CEPOC: The Cambridge Exams Publishing Open Cloze dataset",
+  "authors": [
+    "Mariano Felice",
+    "Shiva Taslimipoor",
+    "Øistein E. Andersen",
+    "Paula Buttery"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2022.lrec-1.456",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.456/"
+}

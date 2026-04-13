@@ -1,0 +1,19 @@
+{
+  "title": "Multi-Task Learning for Cross-Lingual Abstractive Summarization",
+  "authors": [
+    "Sho Takase",
+    "Naoaki Okazaki"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Arabic",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.lrec-1.322",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.322/"
+}

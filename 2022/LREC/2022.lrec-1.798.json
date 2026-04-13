@@ -1,0 +1,28 @@
+{
+  "title": "Deep learning-based end-to-end spoken language identification system for domain-mismatched scenario",
+  "authors": [
+    "Woo Hyun Kang",
+    "Jahangir Alam",
+    "Abderrahim Fathan"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.lrec-1.798",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.798/"
+}

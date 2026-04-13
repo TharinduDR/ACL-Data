@@ -1,0 +1,18 @@
+{
+  "title": "ALEXIS: A Dataset for Lexical Simplification in Spanish",
+  "authors": [
+    "Daniel Ferrés",
+    "Horacio Saggion"
+  ],
+  "languages": [
+    "Spanish",
+    "English"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.383",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.383/"
+}

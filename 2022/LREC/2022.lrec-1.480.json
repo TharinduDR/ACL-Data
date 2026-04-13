@@ -1,0 +1,20 @@
+{
+  "title": "DeepREF: A Framework for Optimized Deep Learning-based Relation Classification",
+  "authors": [
+    "Igor Nascimento",
+    "Rinaldo Lima",
+    "Adrian Chifu",
+    "Bernard Espinasse",
+    "Sébastien Fournier"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.lrec-1.480",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.480/"
+}

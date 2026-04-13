@@ -1,0 +1,40 @@
+{
+  "title": "Bicleaner AI: Bicleaner Goes Neural",
+  "authors": [
+    "Jaume Zaragoza-Bernabeu",
+    "Marta Bañón",
+    "Gema Ramírez-Sánchez",
+    "Sergio Ortiz-Rojas"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Latvian",
+    "Romanian",
+    "Czech",
+    "German",
+    "Estonian",
+    "French",
+    "Icelandic",
+    "Irish",
+    "Italian",
+    "Lithuanian",
+    "Maltese",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Slovenian",
+    "Spanish",
+    "Swedish",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.87",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.87/"
+}

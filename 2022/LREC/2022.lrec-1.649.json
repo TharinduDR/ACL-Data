@@ -1,0 +1,22 @@
+{
+  "title": "UMUTextStats: A linguistic feature extraction tool for Spanish",
+  "authors": [
+    "José Antonio García-Díaz",
+    "Pedro José Vivancos-Vicente",
+    "Ángela Almela",
+    "Rafael Valencia-García"
+  ],
+  "languages": [
+    "Spanish",
+    "English",
+    "Arabic",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.lrec-1.649",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.649/"
+}

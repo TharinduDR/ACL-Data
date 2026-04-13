@@ -1,0 +1,39 @@
+{
+  "title": "Reflections on 30 Years of Language Resource Development and Sharing",
+  "authors": [
+    "Christopher Cieri",
+    "Mark Liberman",
+    "Sunghye Cho",
+    "Stephanie Strassel",
+    "James Fiumara",
+    "Jonathan Wright"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Russian",
+    "Indonesian",
+    "Korean",
+    "Persian",
+    "Zulu",
+    "Xhosa",
+    "Uyghur",
+    "Kurdish",
+    "Turkish",
+    "Ukrainian",
+    "Dari",
+    "Georgian",
+    "Kazakh",
+    "Nahuatl",
+    "Pashto",
+    "Icelandic"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.lrec-1.57",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.57/"
+}

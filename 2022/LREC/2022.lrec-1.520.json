@@ -1,0 +1,30 @@
+{
+  "title": "CorefUD 1.0: Coreference Meets Universal Dependencies",
+  "authors": [
+    "Anna Nedoluzhko",
+    "Michal Novák",
+    "Martin Popel",
+    "Zdeněk Žabokrtský",
+    "Amir Zeldes",
+    "Daniel Zeman"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "French",
+    "German",
+    "Hungarian",
+    "Polish",
+    "Russian",
+    "Spanish",
+    "Dutch",
+    "Lithuanian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.lrec-1.520",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.520/"
+}

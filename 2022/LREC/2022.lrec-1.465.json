@@ -1,0 +1,18 @@
+{
+  "title": "Adapting Language Models When Training on Privacy-Transformed Data",
+  "authors": [
+    "M. A. Tuğtekin Turan",
+    "Dietrich Klakow",
+    "Emmanuel Vincent",
+    "Denis Jouvet"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.lrec-1.465",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.465/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Embeddings models for Buddhist Sanskrit",
+  "authors": [
+    "Ligeia Lugli",
+    "Matej Martinc",
+    "Andraž Pelicon",
+    "Senja Pollak"
+  ],
+  "languages": [
+    "Sanskrit"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.411",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.411/"
+}

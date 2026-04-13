@@ -1,0 +1,26 @@
+{
+  "title": "Extensions to Brahmic script processing within the Nisaba library: new scripts, languages and utilities",
+  "authors": [
+    "Alexander Gutkin",
+    "Cibu Johny",
+    "Raiomond Doctor",
+    "Lawrence Wolf-Sonkin",
+    "Brian Roark"
+  ],
+  "languages": [
+    "Bengali",
+    "Assamese",
+    "Santali",
+    "Kok Borok",
+    "Malayalam",
+    "Lepcha",
+    "Limbu",
+    "Maithili"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.lrec-1.692",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.692/"
+}

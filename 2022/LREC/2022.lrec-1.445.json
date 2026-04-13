@@ -1,0 +1,20 @@
+{
+  "title": "Evaluating Tokenizers Impact on OOVs Representation with Transformers Models",
+  "authors": [
+    "Alexandra Benamar",
+    "Cyril Grouin",
+    "Meryl Bothua",
+    "Anne Vilnat"
+  ],
+  "languages": [
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.lrec-1.445",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.445/"
+}

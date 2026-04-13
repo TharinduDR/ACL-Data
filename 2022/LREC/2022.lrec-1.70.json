@@ -1,0 +1,19 @@
+{
+  "title": "MuLVE, A Multi-Language Vocabulary Evaluation Data Set",
+  "authors": [
+    "Anik Jacobsen",
+    "Salar Mohtaj",
+    "Sebastian Möller"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.70",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.70/"
+}

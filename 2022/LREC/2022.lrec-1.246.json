@@ -1,0 +1,25 @@
+{
+  "title": "The Causal News Corpus: Annotating Causal Relations in Event Sentences from News",
+  "authors": [
+    "Fiona Anting Tan",
+    "Ali Hürriyetoğlu",
+    "Tommaso Caselli",
+    "Nelleke Oostdijk",
+    "Tadashi Nomoto",
+    "Hansi Hettiarachchi",
+    "Iqra Ameer",
+    "Onur Uca",
+    "Farhana Ferdousi Liza",
+    "Tiancheng Hu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.246",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.246/"
+}

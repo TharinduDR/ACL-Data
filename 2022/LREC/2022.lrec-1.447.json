@@ -1,0 +1,29 @@
+{
+  "title": "Medical Crossing: a Cross-lingual Evaluation of Clinical Entity Linking",
+  "authors": [
+    "Anton Alekseev",
+    "Zulfat Miftahutdinov",
+    "Elena Tutubalina",
+    "Artem Shelmanov",
+    "Vladimir Ivanov",
+    "Vladimir Kokh",
+    "Alexander Nesterov",
+    "Manvel Avetisian",
+    "Andrey Chertok",
+    "Sergey Nikolenko"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.447",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.447/"
+}

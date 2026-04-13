@@ -1,0 +1,19 @@
+{
+  "title": "Enhancing Deep Learning with Embedded Features for Arabic Named Entity Recognition",
+  "authors": [
+    "Ali Lotfy",
+    "Caroline Sabty",
+    "Slim Abdennadher"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.lrec-1.524",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.524/"
+}

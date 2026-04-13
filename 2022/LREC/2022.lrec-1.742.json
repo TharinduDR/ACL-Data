@@ -1,0 +1,21 @@
+{
+  "title": "A Simple Yet Effective Corpus Construction Method for Chinese Sentence Compression",
+  "authors": [
+    "Yang Zhao",
+    "Hiroshi Kanayama",
+    "Issei Yoshida",
+    "Masayasu Muraoka",
+    "Akiko Aizawa"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.742",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.742/"
+}

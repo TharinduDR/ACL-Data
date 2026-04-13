@@ -1,0 +1,24 @@
+{
+  "title": "Extracting Linguistic Knowledge from Speech: A Study of Stop Realization in 5 Romance Languages",
+  "authors": [
+    "Yaru Wu",
+    "Mathilde Hutin",
+    "Ioana Vasilescu",
+    "Lori Lamel",
+    "Martine Adda-Decker"
+  ],
+  "languages": [
+    "French",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2022.lrec-1.348",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.348/"
+}

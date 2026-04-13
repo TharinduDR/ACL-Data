@@ -1,0 +1,19 @@
+{
+  "title": "Dataset Construction for Scientific-Document Writing Support by Extracting Related Work Section and Citations from PDF Papers",
+  "authors": [
+    "Keita Kobayashi",
+    "Kohei Koyama",
+    "Hiromi Narimatsu",
+    "Yasuhiro Minami"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.609",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.609/"
+}

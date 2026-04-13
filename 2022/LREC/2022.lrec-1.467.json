@@ -1,0 +1,21 @@
+{
+  "title": "Evaluation of HTR models without Ground Truth Material",
+  "authors": [
+    "Phillip Benjamin Ströbel",
+    "Simon Clematide",
+    "Martin Volk",
+    "Raphael Schwitter",
+    "Tobias Hodel",
+    "David Schoch"
+  ],
+  "languages": [
+    "Early New High German"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.lrec-1.467",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.467/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "The Multilingual Microblog Translation Corpus: Improving and Evaluating Translation of User-Generated Text",
+  "authors": [
+    "Paul McNamee",
+    "Kevin Duh"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Persian",
+    "French",
+    "German",
+    "Hindi",
+    "Korean",
+    "Pashto",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Tagalog",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.lrec-1.96",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.96/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "TANDO: A Corpus for Document-level Machine Translation",
+  "authors": [
+    "Harritxu Gete",
+    "Thierry Etchegoyhen",
+    "David Ponce",
+    "Gorka Labaka",
+    "Nora Aranberri",
+    "Ander Corral",
+    "Xabier Saralegi",
+    "Igor Ellakuria Santos",
+    "Maite Martin"
+  ],
+  "languages": [
+    "Basque",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.324",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.324/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "On the Multilingual Capabilities of Very Large-Scale English Language Models",
+  "authors": [
+    "Jordi Armengol-Estapé",
+    "Ona de Gibert Bonet",
+    "Maite Melero"
+  ],
+  "languages": [
+    "English",
+    "Catalan",
+    "German",
+    "Spanish",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.lrec-1.327",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.327/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "SDS-200: A Swiss German Speech to Standard German Text Corpus",
+  "authors": [
+    "Michel Plüss",
+    "Manuela Hürlimann",
+    "Marc Cuny",
+    "Alla Stöckli",
+    "Nikolaos Kapotis",
+    "Julia Hartmann",
+    "Malgorzata Anna Ulasik",
+    "Christian Scheller",
+    "Yanick Schraner",
+    "Amit Jain",
+    "Jan Deriu",
+    "Mark Cieliebak",
+    "Manfred Vogel"
+  ],
+  "languages": [
+    "Swiss German",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.lrec-1.347",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.347/"
+}

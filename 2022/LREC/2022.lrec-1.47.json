@@ -1,0 +1,21 @@
+{
+  "title": "Semantic Role Labelling for Dutch Law Texts",
+  "authors": [
+    "R.M. Bakker",
+    "R.A.N. van Drie",
+    "M.H.T. de Boer",
+    "R. van Doesburg",
+    "T. van Engers"
+  ],
+  "languages": [
+    "Dutch",
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.lrec-1.47",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.47/"
+}

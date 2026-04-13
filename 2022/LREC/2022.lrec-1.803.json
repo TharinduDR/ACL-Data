@@ -1,0 +1,19 @@
+{
+  "title": "BERTifying Sinhala - A Comprehensive Analysis of Pre-trained Language Models for Sinhala Text Classification",
+  "authors": [
+    "Vinura Dhananjaya",
+    "Piyumal Demotte",
+    "Surangika Ranathunga",
+    "Sanath Jayasena"
+  ],
+  "languages": [
+    "Sinhala"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2022.lrec-1.803",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.803/"
+}

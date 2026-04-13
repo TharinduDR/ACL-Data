@@ -1,0 +1,24 @@
+{
+  "title": "Rosetta-LSF: an Aligned Corpus of French Sign Language and French for Text-to-Sign Translation",
+  "authors": [
+    "Élise Bertin-Lemée",
+    "Annelies Braffort",
+    "Camille Challant",
+    "Claire Danet",
+    "Boris Dauriac",
+    "Michael Filhol",
+    "Emmanuella Martinod",
+    "Jérémie Segouat"
+  ],
+  "languages": [
+    "French",
+    "French Sign Language"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.lrec-1.529",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.529/"
+}

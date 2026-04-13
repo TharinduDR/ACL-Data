@@ -1,0 +1,19 @@
+{
+  "title": "Predicting the Proficiency Level of Nonnative Hebrew Authors",
+  "authors": [
+    "Isabelle Nguyen",
+    "Shuly Wintner"
+  ],
+  "languages": [
+    "Hebrew",
+    "Arabic",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.lrec-1.573",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.573/"
+}

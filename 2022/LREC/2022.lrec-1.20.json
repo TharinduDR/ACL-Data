@@ -1,0 +1,50 @@
+{
+  "title": "Cross-Lingual Link Discovery for Under-Resourced Languages",
+  "authors": [
+    "Michael Rosner",
+    "Sina Ahmadi",
+    "Elena-Simona Apostol",
+    "Julia Bosque-Gil",
+    "Christian Chiarcos",
+    "Milan Dojchinovski",
+    "Katerina Gkirtzou",
+    "Jorge Gracia",
+    "Dagmar Gromann",
+    "Chaya Liebeskind",
+    "Giedrė Valūnaitė Oleškevičienė",
+    "Gilles Sérasset",
+    "Ciprian-Octavian Truică"
+  ],
+  "languages": [
+    "English",
+    "Bambara",
+    "Romanian",
+    "Latvian",
+    "Lithuanian",
+    "Portuguese",
+    "German",
+    "French",
+    "Spanish",
+    "Italian",
+    "Russian",
+    "Hausa",
+    "Georgian",
+    "Chinese",
+    "Tamil",
+    "Telugu",
+    "Kannada",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.lrec-1.20",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.20/"
+}

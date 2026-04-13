@@ -1,0 +1,22 @@
+{
+  "title": "MultiSubs: A Large-scale Multimodal and Multilingual Dataset",
+  "authors": [
+    "Josiah Wang",
+    "Josiel Figueiredo",
+    "Lucia Specia"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Portuguese",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.730",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.730/"
+}

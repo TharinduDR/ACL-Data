@@ -1,0 +1,18 @@
+{
+  "title": "Pre-training and Evaluating Transformer-based Language Models for Icelandic",
+  "authors": [
+    "Jón Friðrik Daðason",
+    "Hrafn Loftsson"
+  ],
+  "languages": [
+    "Icelandic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.lrec-1.804",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.804/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Lessons Learned from GPT-SW3: Building the First Large-Scale Generative Language Model for Swedish",
+  "authors": [
+    "Ariel Ekgren",
+    "Amaru Cuba Gyllensten",
+    "Evangelia Gogoulou",
+    "Alice Heiman",
+    "Severine Verlinden",
+    "Joey Öhman",
+    "Fredrik Carlsson",
+    "Magnus Sahlgren"
+  ],
+  "languages": [
+    "Swedish",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.376",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.376/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "A Benchmark Dataset for Multi-Level Complexity-Controllable Machine Translation",
+  "authors": [
+    "Kazuki Tani",
+    "Ryoya Yuasa",
+    "Kazuki Takikawa",
+    "Akihiro Tamura",
+    "Tomoyuki Kajiwara",
+    "Takashi Ninomiya",
+    "Tsuneo Kato"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.726",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.726/"
+}

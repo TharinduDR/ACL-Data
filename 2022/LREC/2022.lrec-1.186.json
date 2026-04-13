@@ -1,0 +1,21 @@
+{
+  "title": "DiHuTra: a Parallel Corpus to Analyse Differences between Human Translations",
+  "authors": [
+    "Ekaterina Lapshinova-Koltunski",
+    "Maja Popović",
+    "Maarit Koponen"
+  ],
+  "languages": [
+    "English",
+    "Croatian",
+    "Finnish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.lrec-1.186",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.186/"
+}

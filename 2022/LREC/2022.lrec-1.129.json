@@ -1,0 +1,31 @@
+{
+  "title": "CAMIO: A Corpus for OCR in Multiple Languages",
+  "authors": [
+    "Michael Arrigo",
+    "Stephanie Strassel",
+    "Nolan King",
+    "Thao Tran",
+    "Lisa Mason"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "Hindi",
+    "Japanese",
+    "Kannada",
+    "Korean",
+    "Persian",
+    "Russian",
+    "Tamil",
+    "Thai",
+    "Urdu",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.129",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.129/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Constrained Language Models for Interactive Poem Generation",
+  "authors": [
+    "Andrei Popescu-Belis",
+    "Àlex R. Atrio",
+    "Valentin Minder",
+    "Aris Xanthos",
+    "Gabriel Luthier",
+    "Simon Mattei",
+    "Antonio Rodriguez"
+  ],
+  "languages": [
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2022.lrec-1.377",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.377/"
+}

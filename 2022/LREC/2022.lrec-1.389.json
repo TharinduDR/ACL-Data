@@ -1,0 +1,25 @@
+{
+  "title": "GGPONC 2.0 — The German Clinical Guideline Corpus for Oncology: Curation Workflow, Annotation Policy, Baseline NER Taggers",
+  "authors": [
+    "Florian Borchert",
+    "Christina Lohr",
+    "Luise Modersohn",
+    "Jonas Witt",
+    "Thomas Langer",
+    "Markus Follmann",
+    "Matthias Gietzelt",
+    "Bert Arnrich",
+    "Udo Hahn",
+    "Matthieu-P. Schapranow"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.lrec-1.389",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.389/"
+}

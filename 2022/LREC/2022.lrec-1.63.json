@@ -1,0 +1,31 @@
+{
+  "title": "NaijaSent: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis",
+  "authors": [
+    "Shamsuddeen Hassan Muhammad",
+    "David Ifeoluwa Adelani",
+    "Sebastian Ruder",
+    "Ibrahim Sa'id Ahmad",
+    "Idris Abdulmumin",
+    "Bello Shehu Bello",
+    "Monojit Choudhury",
+    "Chris Chinenye Emezie",
+    "Saheed Salahudeen Abdullahi",
+    "Anuoluwapo Aremu",
+    "Alípio Jorge",
+    "Pavel Brazdil"
+  ],
+  "languages": [
+    "English",
+    "Hausa",
+    "Igbo",
+    "Yoruba",
+    "Nigerian Pidgin"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.lrec-1.63",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.63/"
+}

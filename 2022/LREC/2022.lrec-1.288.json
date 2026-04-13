@@ -1,0 +1,17 @@
+{
+  "title": "Klexikon: A German Dataset for Joint Summarization and Simplification",
+  "authors": [
+    "Dennis Aumiller",
+    "Michael Gertz"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2022.lrec-1.288",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.288/"
+}

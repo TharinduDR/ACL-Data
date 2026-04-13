@@ -1,0 +1,17 @@
+{
+  "title": "FinMath: Injecting a Tree-structured Solver for Question Answering over Financial Reports",
+  "authors": [
+    "Chenyin Li",
+    "Wenbo Ye",
+    "Yilun Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.lrec-1.661",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.661/"
+}

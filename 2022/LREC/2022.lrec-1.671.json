@@ -1,0 +1,23 @@
+{
+  "title": "ELRC Action: Covering Confidentiality, Correctness and Cross-linguality",
+  "authors": [
+    "Tom Vanallemeersch",
+    "Arne Defauw",
+    "Sara Szoc",
+    "Alina Kramchaninova",
+    "Joachim Van den Bogaert",
+    "Andrea Lösch"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.lrec-1.671",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.671/"
+}

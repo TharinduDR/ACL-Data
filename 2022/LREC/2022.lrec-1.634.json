@@ -1,0 +1,21 @@
+{
+  "title": "An automatic model and Gold Standard for translation alignment of Ancient Greek",
+  "authors": [
+    "Tariq Yousef",
+    "Chiara Palladino",
+    "Farnoosh Shamsian",
+    "Anise d'Orange Ferreira",
+    "Michel Ferreira dos Reis"
+  ],
+  "languages": [
+    "English",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.lrec-1.634",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.634/"
+}

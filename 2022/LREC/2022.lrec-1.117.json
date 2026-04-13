@@ -1,0 +1,19 @@
+{
+  "title": "DrugEHRQA: A Question Answering Dataset on Structured and Unstructured Electronic Health Records For Medicine Related Queries",
+  "authors": [
+    "Jayetri Bardhan",
+    "Anthony Colas",
+    "Kirk Roberts",
+    "Daisy Zhe Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.lrec-1.117",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.117/"
+}

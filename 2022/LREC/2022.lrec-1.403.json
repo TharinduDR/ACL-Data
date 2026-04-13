@@ -1,0 +1,18 @@
+{
+  "title": "Decorate the Examples: A Simple Method of Prompt Design for Biomedical Relation Extraction",
+  "authors": [
+    "Hui-Syuan Yeh",
+    "Thomas Laverge",
+    "Pierre Zweigenbaum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.lrec-1.403",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.403/"
+}

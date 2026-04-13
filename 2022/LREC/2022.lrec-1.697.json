@@ -1,0 +1,20 @@
+{
+  "title": "Survey on Thai NLP Language Resources and Tools",
+  "authors": [
+    "Ratchakrit Arreerard",
+    "Stephen Mander",
+    "Scott Piao"
+  ],
+  "languages": [
+    "Thai",
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.lrec-1.697",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.697/"
+}

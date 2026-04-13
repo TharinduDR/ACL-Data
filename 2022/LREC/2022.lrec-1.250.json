@@ -1,0 +1,26 @@
+{
+  "title": "The CRECIL Corpus: a New Dataset for Extraction of Relations between Characters in Chinese Multi-party Dialogues",
+  "authors": [
+    "Yuru Jiang",
+    "Yang Xu",
+    "Yuhang Zhan",
+    "Weikai He",
+    "Yilin Wang",
+    "Zixuan Xi",
+    "Meiyun Wang",
+    "Xinyu Li",
+    "Yu Li",
+    "Yanchao Yu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.lrec-1.250",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.250/"
+}

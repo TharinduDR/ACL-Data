@@ -1,0 +1,24 @@
+{
+  "title": "Common Phone: A Multilingual Dataset for Robust Acoustic Modelling",
+  "authors": [
+    "Philipp Klumpp",
+    "Tomás Arias-Vergara",
+    "Paula-Andrea Pérez-Toro",
+    "Elmar Nöth",
+    "Juan Rafael Orozco-Arroyave"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.lrec-1.81",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.81/"
+}

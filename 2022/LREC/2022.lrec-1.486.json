@@ -1,0 +1,20 @@
+{
+  "title": "Question Generation and Answering for exploring Digital Humanities collections",
+  "authors": [
+    "Frédéric Béchet",
+    "Elie Antoine",
+    "Jeremy Auguste",
+    "Géraldine Damnati"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.lrec-1.486",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.486/"
+}

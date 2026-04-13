@@ -1,0 +1,19 @@
+{
+  "title": "Sentence Selection Strategies for Distilling Word Embeddings from BERT",
+  "authors": [
+    "Yixiao Wang",
+    "Zied Bouraoui",
+    "Luis Espinosa-Anke",
+    "Steven Schockaert"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.lrec-1.277",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.277/"
+}

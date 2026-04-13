@@ -1,0 +1,25 @@
+{
+  "title": "The EuroPat Corpus: A Parallel Corpus of European Patent Data",
+  "authors": [
+    "Kenneth Heafield",
+    "Elaine Farrow",
+    "Jelmer van der Linde",
+    "Gema Ramírez-Sánchez",
+    "Dion Wiggins"
+  ],
+  "languages": [
+    "German",
+    "Spanish",
+    "French",
+    "Croatian",
+    "Norwegian",
+    "Polish",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.lrec-1.78",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.78/"
+}

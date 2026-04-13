@@ -1,0 +1,36 @@
+{
+  "title": "IndoUKC: a Concept-Centered Indian Multilingual Lexical Resource",
+  "authors": [
+    "Nandu Chandran Nair",
+    "Rajendran S. Velayuthan",
+    "Yamini Chandrashekar",
+    "Gabor Bella",
+    "Fausto Giunchiglia"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Malayalam",
+    "Tamil",
+    "Bengali",
+    "Odia",
+    "Punjabi",
+    "Sanskrit",
+    "Kannada",
+    "Konkani",
+    "Gujarati",
+    "Assamese",
+    "Bodo",
+    "Manipuri",
+    "Nepali",
+    "Telugu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.303",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.303/"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Introducing the CURLICAT Corpora: Seven-language Domain Specific Annotated Corpora from Curated Sources",
+  "authors": [
+    "Tamás Váradi",
+    "Bence Nyéki",
+    "Svetla Koeva",
+    "Marko Tadić",
+    "Vanja Štefanec",
+    "Maciej Ogrodniczuk",
+    "Bartłomiej Niton",
+    "Piotr Pęzik",
+    "Verginica Barbu Mititelu",
+    "Elena Irimia",
+    "Maria Mitrofan",
+    "Vasile Păiș",
+    "Dan Tuftiș",
+    "Radovan Garabík",
+    "Simon Krek",
+    "Andraž Repar"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Croatian",
+    "Hungarian",
+    "Polish",
+    "Romanian",
+    "Slovak",
+    "Slovenian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.lrec-1.11",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.11/"
+}

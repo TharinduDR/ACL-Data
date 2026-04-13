@@ -1,0 +1,19 @@
+{
+  "title": "DDisCo: A Discourse Coherence Dataset for Danish",
+  "authors": [
+    "Linea Flansmose",
+    "Oliver Kinch",
+    "Anders Jess Pedersen",
+    "Ophélie Lacroix"
+  ],
+  "languages": [
+    "Danish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T05 Discourse and Pragmatics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.lrec-1.260",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.260/"
+}

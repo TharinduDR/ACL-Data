@@ -1,0 +1,18 @@
+{
+  "title": "PerPaDa: A Persian Paraphrase Dataset based on Implicit Crowdsourcing Data Collection",
+  "authors": [
+    "Salar Mohtaj",
+    "Fatemeh Tavakkoli",
+    "Habibollah Asghari"
+  ],
+  "languages": [
+    "Persian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.544",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.544/"
+}

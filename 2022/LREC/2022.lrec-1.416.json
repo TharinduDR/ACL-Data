@@ -1,0 +1,53 @@
+{
+  "title": "HeLI-OTS, Off-the-shelf Language Identifier for Text",
+  "authors": [
+    "Tommi Jauhiainen",
+    "Heidi Jauhiainen",
+    "Krister Lindén"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Chinese",
+    "Japanese",
+    "French",
+    "Spanish",
+    "Catalan",
+    "Portuguese",
+    "Russian",
+    "Arabic",
+    "Persian",
+    "Korean",
+    "Thai",
+    "Vietnamese",
+    "Indonesian",
+    "Malay",
+    "Tagalog",
+    "Ewe",
+    "Igbo",
+    "Sardinian",
+    "Palatine German",
+    "Central Bikol",
+    "Finnish",
+    "Swedish",
+    "Danish",
+    "Norwegian",
+    "Dutch",
+    "Swiss German",
+    "Romansh",
+    "Sicilian",
+    "Neapolitan",
+    "Tuscan",
+    "Venetian",
+    "Emilian",
+    "Lombard",
+    "Friulian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.416",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.416/"
+}

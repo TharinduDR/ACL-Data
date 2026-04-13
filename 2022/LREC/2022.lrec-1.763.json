@@ -1,0 +1,20 @@
+{
+  "title": "Pars-ABSA: a Manually Annotated Aspect-based Sentiment Analysis Benchmark on Farsi Product Reviews",
+  "authors": [
+    "Taha Shangipour Ataei",
+    "Kamyar Darvishi",
+    "Soroush Javdan",
+    "Behrouz Minaei-Bidgoli",
+    "Sauleh Etemadi"
+  ],
+  "languages": [
+    "Persian"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.763",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.763/"
+}

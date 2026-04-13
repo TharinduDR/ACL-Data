@@ -1,0 +1,33 @@
+{
+  "title": "Predicting Embedding Reliability in Low-Resource Settings Using Corpus Similarity Measures",
+  "authors": [
+    "Jonathan Dunn",
+    "Haipeng Li",
+    "Damian Sastre"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Greek",
+    "Persian",
+    "Finnish",
+    "French",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Dutch",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.693",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.693/"
+}

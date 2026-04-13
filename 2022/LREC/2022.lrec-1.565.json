@@ -1,0 +1,26 @@
+{
+  "title": "Hollywood Identity Bias Dataset: A Context Oriented Bias Analysis of Movie Dialogues",
+  "authors": [
+    "Sandhya Singh",
+    "Prapti Roy",
+    "Nihar Sahoo",
+    "Niteesh Mallela",
+    "Himanshu Gupta",
+    "Pushpak Bhattacharyya",
+    "Milind Savagaonkar",
+    "Nidhi",
+    "Roshni Ramnani",
+    "Anutosh Maitra",
+    "Shubhashis Sengupta"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.lrec-1.565",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.565/"
+}

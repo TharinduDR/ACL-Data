@@ -1,0 +1,26 @@
+{
+  "title": "ELTE Poetry Corpus: A Machine Annotated Database of Canonical Hungarian Poetry",
+  "authors": [
+    "Péter Horváth",
+    "Péter Kundráth",
+    "Balázs Indig",
+    "Zsófia Fellegi",
+    "Eszter Szlávich",
+    "Tímea Borbála Bajzát",
+    "Zsófia Sárközi-Lindner",
+    "Bence Vida",
+    "Aslihan Karabulut",
+    "Mária Timári",
+    "Gábor Palkó"
+  ],
+  "languages": [
+    "Hungarian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.lrec-1.372",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.372/"
+}

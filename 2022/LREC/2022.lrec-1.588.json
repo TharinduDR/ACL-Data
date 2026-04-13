@@ -1,0 +1,27 @@
+{
+  "title": "KC4MT: A High-Quality Corpus for Multilingual Machine Translation",
+  "authors": [
+    "Van-Vinh Nguyen",
+    "Ha Nguyen-Tien",
+    "Huong Le-Thanh",
+    "Phuong-Thai Nguyen",
+    "Van-Tan Bui",
+    "Nghia-Luan Pham",
+    "Tuan-Anh Phan",
+    "Minh-Cong Nguyen Hoang",
+    "Hong-Viet Tran",
+    "Huu-Anh Tran"
+  ],
+  "languages": [
+    "Chinese",
+    "Lao",
+    "Khmer"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.588",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.588/"
+}

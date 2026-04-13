@@ -1,0 +1,21 @@
+{
+  "title": "The Bahrain Corpus: A Multi-genre Corpus of Bahraini Arabic",
+  "authors": [
+    "Dana Abdulrahim",
+    "Go Inoue",
+    "Latifa Shamsan",
+    "Salam Khalifa",
+    "Nizar Habash"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.251",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.251/"
+}

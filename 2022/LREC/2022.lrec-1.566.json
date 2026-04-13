@@ -1,0 +1,51 @@
+{
+  "title": "VoxCommunis: A Corpus for Cross-linguistic Phonetic Analysis",
+  "authors": [
+    "Emily P. Ahn",
+    "Eleanor Chodroff"
+  ],
+  "languages": [
+    "Abkhaz",
+    "Armenian",
+    "Bashkir",
+    "Basque",
+    "Belarusian",
+    "Bulgarian",
+    "Chuvash",
+    "Czech",
+    "Dutch",
+    "Georgian",
+    "Greek",
+    "Guarani",
+    "Hausa",
+    "Hindi",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Kazakh",
+    "Kurdish",
+    "Kyrgyz",
+    "Maltese",
+    "Polish",
+    "Portuguese",
+    "Punjabi",
+    "Romanian",
+    "Russian",
+    "Upper Sorbian",
+    "Swedish",
+    "Tamil",
+    "Tatar",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Uyghur",
+    "Uzbek",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2022.lrec-1.566",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.566/"
+}

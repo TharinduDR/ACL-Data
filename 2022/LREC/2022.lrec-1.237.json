@@ -1,0 +1,19 @@
+{
+  "title": "FQuAD2.0: French Question Answering and Learning When You Don’t Know",
+  "authors": [
+    "Quentin Heinrich",
+    "Gautier Viaud",
+    "Wacim Belblidia"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.237",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.237/"
+}

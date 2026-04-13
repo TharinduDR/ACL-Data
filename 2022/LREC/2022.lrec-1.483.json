@@ -1,0 +1,20 @@
+{
+  "title": "Using Sentence-level Classification Helps Entity Extraction from Material Science Literature",
+  "authors": [
+    "Ankan Mullick",
+    "Shubhraneel Pal",
+    "Tapas Nayak",
+    "Seung-Cheol Lee",
+    "Satadeep Bhattacharjee",
+    "Pawan Goyal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.lrec-1.483",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.483/"
+}

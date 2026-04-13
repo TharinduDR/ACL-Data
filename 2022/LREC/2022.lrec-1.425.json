@@ -1,0 +1,19 @@
+{
+  "title": "COPA-SSE: Semi-structured Explanations for Commonsense Reasoning",
+  "authors": [
+    "Ana Brassard",
+    "Benjamin Heinzerling",
+    "Pride Kavumba",
+    "Kentaro Inui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.lrec-1.425",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.425/"
+}

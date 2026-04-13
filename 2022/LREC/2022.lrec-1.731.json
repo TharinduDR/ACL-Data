@@ -1,0 +1,27 @@
+{
+  "title": "CI-AVSR: A Cantonese Audio-Visual Speech Dataset for In-car Command Recognition",
+  "authors": [
+    "Wenliang Dai",
+    "Samuel Cahyawijaya",
+    "Tiezheng Yu",
+    "Elham J. Barezi",
+    "Peng Xu",
+    "Cheuk Tung Shadow Yiu",
+    "Rita Frieske",
+    "Holy Lovenia",
+    "Genta Indra Winata",
+    "Qifeng Chen",
+    "Xiaojuan Ma",
+    "Bertram E. Shi",
+    "Pascale Fung"
+  ],
+  "languages": [
+    "Cantonese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.lrec-1.731",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.731/"
+}

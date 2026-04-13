@@ -1,0 +1,25 @@
+{
+  "title": "Hausa Visual Genome: A Dataset for Multi-Modal English to Hausa Machine Translation",
+  "authors": [
+    "Idris Abdulmumin",
+    "Satya Ranjan Dash",
+    "Musa Abdullahi Dawud",
+    "Shantipriya Parida",
+    "Shamsuddeen Hassan Muhammad",
+    "Ibrahim Sa'id Ahmad",
+    "Subhadarshi Panda",
+    "Ondřej Bojar",
+    "Bashir Shehu Galadanci",
+    "Bello Shehu Bello"
+  ],
+  "languages": [
+    "English",
+    "Hausa"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.lrec-1.694",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.694/"
+}

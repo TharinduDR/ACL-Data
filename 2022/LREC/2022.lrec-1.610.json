@@ -1,0 +1,21 @@
+{
+  "title": "RuPAWS: A Russian Adversarial Dataset for Paraphrase Identification",
+  "authors": [
+    "Nikita Martynov",
+    "Irina Krotova",
+    "Varvara Logacheva",
+    "Alexander Panchenko",
+    "Olga Kozlova",
+    "Nikita Semenov"
+  ],
+  "languages": [
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.610",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.610/"
+}

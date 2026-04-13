@@ -1,0 +1,21 @@
+{
+  "title": "Automatic Gloss-level Data Augmentation for Sign Language Translation",
+  "authors": [
+    "Jin Yea Jang",
+    "Hanmu Park",
+    "Saim Shin",
+    "Suna Shin",
+    "Byungcheon Yoon",
+    "Gahgene Gweon"
+  ],
+  "languages": [
+    "Korean"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.lrec-1.734",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.734/"
+}

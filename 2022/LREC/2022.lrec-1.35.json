@@ -1,0 +1,22 @@
+{
+  "title": "ViHealthBERT: Pre-trained Language Models for Vietnamese in Health Text Mining",
+  "authors": [
+    "Minh Phuc Nguyen",
+    "Vu Hoang Tran",
+    "Vu Hoang",
+    "Ta Duc Huy",
+    "Trung H. Bui",
+    "Steven Q. H. Truong"
+  ],
+  "languages": [
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.lrec-1.35",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.35/"
+}

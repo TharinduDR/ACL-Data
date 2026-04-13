@@ -1,0 +1,18 @@
+{
+  "title": "RadQA: A Question Answering Dataset to Improve Comprehension of Radiology Reports",
+  "authors": [
+    "Sarvesh Soni",
+    "Meghana Gudala",
+    "Atieh Pajouhi",
+    "Kirk Roberts"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.lrec-1.672",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.672/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "EmoWOZ: A Large-Scale Corpus and Labelling Scheme for Emotion Recognition in Task-Oriented Dialogue Systems",
+  "authors": [
+    "Shutong Feng",
+    "Nurul Lubis",
+    "Christian Geishauser",
+    "Hsien-chin Lin",
+    "Michael Heck",
+    "Carel van Niekerk",
+    "Milica Gašić"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.lrec-1.436",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.436/"
+}

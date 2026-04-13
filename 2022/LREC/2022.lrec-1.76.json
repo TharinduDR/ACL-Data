@@ -1,0 +1,24 @@
+{
+  "title": "DiaBiz – an Annotated Corpus of Polish Call Center Dialogs",
+  "authors": [
+    "Piotr Pęzik",
+    "Gosia Krawentek",
+    "Sylwia Karasińska",
+    "Paweł Wilk",
+    "Paulina Rybińska",
+    "Anna Cichosz",
+    "Angelika Peljak-Łapińska",
+    "Mikołaj Deckert",
+    "Michał Adamczyk"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2022.lrec-1.76",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.76/"
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Language Identification for Austronesian Languages",
+  "authors": [
+    "Jonathan Dunn",
+    "Wikke Nijhof"
+  ],
+  "languages": [
+    "Acehnese",
+    "Buginese",
+    "Cebuano",
+    "Chamorro",
+    "Chuukese",
+    "Fijian",
+    "Gilbertese",
+    "Hawaiian",
+    "Hiligaynon",
+    "Hiri Motu",
+    "Ilocano",
+    "Javanese",
+    "Marshallese",
+    "Malagasy",
+    "Maori",
+    "Malay",
+    "Niuean",
+    "Pangasinan",
+    "Pohnpeian",
+    "Cook Islands Maori",
+    "Samoan",
+    "Sundanese",
+    "Tahitian",
+    "Tagalog",
+    "Tongan",
+    "Tuvaluan",
+    "Waray",
+    "Wallisian",
+    "Yapese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.701",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.701/"
+}

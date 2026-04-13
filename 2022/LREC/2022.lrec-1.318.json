@@ -1,0 +1,42 @@
+{
+  "title": "Using the LARA Little Prince to compare human and TTS audio quality",
+  "authors": [
+    "Elham Akhlaghi",
+    "Ingibjörg Ída Auðunardóttir",
+    "Anna Bączkowska",
+    "Branislav Bédi",
+    "Hakeem Beedar",
+    "Harald Berthelsen",
+    "Cathy Chua",
+    "Catia Cucchiarini",
+    "Hanieh Habibi",
+    "Ivana Horváthová",
+    "Junta Ikeda",
+    "Christèle Maizonniaux",
+    "Neasa Ní Chiaráin",
+    "Chadi Raheb",
+    "Manny Rayner",
+    "John Sloan",
+    "Nikos Tsourakis",
+    "Chunlin Yao"
+  ],
+  "languages": [
+    "English",
+    "Persian",
+    "French",
+    "Icelandic",
+    "Irish",
+    "Italian",
+    "Japanese",
+    "Chinese",
+    "Polish",
+    "Slovak"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.lrec-1.318",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.318/"
+}

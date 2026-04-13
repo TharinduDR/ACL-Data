@@ -1,0 +1,36 @@
+{
+  "title": "MLQE-PE: A Multilingual Quality Estimation and Post-Editing Dataset",
+  "authors": [
+    "Marina Fomicheva",
+    "Shuo Sun",
+    "Erick Fonseca",
+    "Chrysoula Zerva",
+    "Frédéric Blain",
+    "Vishrav Chaudhary",
+    "Francisco Guzmán",
+    "Nina Lopatina",
+    "André F. T. Martins",
+    "Lucia Specia"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Russian",
+    "Romanian",
+    "Estonian",
+    "Nepali",
+    "Sinhala",
+    "Pashto",
+    "Khmer",
+    "Japanese",
+    "Czech"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.530",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.530/"
+}

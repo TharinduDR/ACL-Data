@@ -1,0 +1,23 @@
+{
+  "title": "NorDiaChange: Diachronic Semantic Change Dataset for Norwegian",
+  "authors": [
+    "Andrey Kutuzov",
+    "Samia Touileb",
+    "Petter Mæhlem",
+    "Tita Ranveig Enstad",
+    "Alexandra Wittemann"
+  ],
+  "languages": [
+    "Norwegian",
+    "English",
+    "Russian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.274",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.274/"
+}

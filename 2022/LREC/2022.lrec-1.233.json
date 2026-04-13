@@ -1,0 +1,22 @@
+{
+  "title": "SpecNFS: A Challenge Dataset Towards Extracting Formal Models from Natural Language Specifications",
+  "authors": [
+    "Sayontan Ghosh",
+    "Amanpreet Singh",
+    "Alex Merenstein",
+    "Wei Su",
+    "Scott A. Smolka",
+    "Erez Zadok",
+    "Niranjan Balasubramanian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.lrec-1.233",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.233/"
+}

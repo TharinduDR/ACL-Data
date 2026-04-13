@@ -1,0 +1,17 @@
+{
+  "title": "Leveraging a Bilingual Dictionary to Learn Wolastoqey Word Representations",
+  "authors": [
+    "Diego Bear",
+    "Paul Cook"
+  ],
+  "languages": [
+    "Wolastoqey",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.lrec-1.124",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.124/"
+}

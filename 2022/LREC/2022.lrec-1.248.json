@@ -1,0 +1,22 @@
+{
+  "title": "An Annotated Corpus of Textual Explanations for Clinical Decision Support",
+  "authors": [
+    "Roland Roller",
+    "Aljoscha Burchardt",
+    "Nils Feldhus",
+    "Laura Seiffe",
+    "Klemens Budde",
+    "Simon Ronicke",
+    "Bilgin Osmanodja"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.lrec-1.248",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.248/"
+}

@@ -1,0 +1,39 @@
+{
+  "title": "CVSS Corpus and Massively Multilingual Speech-to-Speech Translation",
+  "authors": [
+    "Ye Jia",
+    "Michelle Tadmor Ramanovich",
+    "Quan Wang",
+    "Heiga Zen"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Catalan",
+    "Welsh",
+    "German",
+    "Estonian",
+    "Spanish",
+    "Persian",
+    "French",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Latvian",
+    "Mongolian",
+    "Dutch",
+    "Portuguese",
+    "Russian",
+    "Slovenian",
+    "Swedish",
+    "Tamil",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.lrec-1.720",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.720/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SuMe: A Dataset Towards Summarizing Biomedical Mechanisms",
+  "authors": [
+    "Mohaddeseh Bastan",
+    "Nishant Shankar",
+    "Mihai Surdeanu",
+    "Niranjan Balasubramanian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.lrec-1.748",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.748/"
+}

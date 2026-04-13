@@ -1,0 +1,20 @@
+{
+  "title": "IRAC: A Domain-Specific Annotated Corpus of Implicit Reasoning in Arguments",
+  "authors": [
+    "Keshav Singh",
+    "Naoya Inoue",
+    "Farjana Sultana Mim",
+    "Shoichi Naitoh",
+    "Kentaro Inui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2022.lrec-1.499",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.499/"
+}

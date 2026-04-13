@@ -1,0 +1,45 @@
+{
+  "title": "Constructing Parallel Corpora from COVID-19 News using MediSys Metadata",
+  "authors": [
+    "Dimitris Roussis",
+    "Vassilis Papavassiliou",
+    "Sokratis Sofianopoulos",
+    "Prokopis Prokopidis",
+    "Stelios Piperidis"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bulgarian",
+    "Czech",
+    "Danish",
+    "German",
+    "Greek",
+    "Spanish",
+    "Estonian",
+    "Finnish",
+    "French",
+    "Irish",
+    "Hungarian",
+    "Icelandic",
+    "Italian",
+    "Lithuanian",
+    "Latvian",
+    "Maltese",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Slovak",
+    "Slovenian",
+    "Swedish",
+    "Macedonian",
+    "Albanian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.lrec-1.115",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.115/"
+}

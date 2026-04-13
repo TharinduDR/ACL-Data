@@ -1,0 +1,22 @@
+{
+  "title": "A Warm Start and a Clean Crawled Corpus - A Recipe for Good Language Models",
+  "authors": [
+    "Vésteinn Snæbjarnarson",
+    "Haukur Barri Símonarson",
+    "Pétur Orri Ragnarsson",
+    "Svanhvit Lilja Ingólfsdóttir",
+    "Haukur Páll Jónsson",
+    "Vilhjálmur Þorsteinsson",
+    "Hafsteinn Einarsson"
+  ],
+  "languages": [
+    "Icelandic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.lrec-1.464",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.464/"
+}

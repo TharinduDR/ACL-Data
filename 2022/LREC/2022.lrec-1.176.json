@@ -1,0 +1,20 @@
+{
+  "title": "MUSS: Multilingual Unsupervised Sentence Simplification by Mining Paraphrases",
+  "authors": [
+    "Louis Martin",
+    "Angela Fan",
+    "Éric de la Clergerie",
+    "Antoine Bordes",
+    "Benoît Sagot"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2022.lrec-1.176",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.176/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "BasqueParl: A Bilingual Corpus of Basque Parliamentary Transcriptions",
+  "authors": [
+    "Nayla Escribano",
+    "Jon Ander González",
+    "Julen Orbegozo-Terradillos",
+    "Ainara Larrondo-Ureta",
+    "Simón Peña-Fernández",
+    "Olatz Perez-de-Viñaspre",
+    "Rodrigo Agerri"
+  ],
+  "languages": [
+    "Basque",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2022.lrec-1.361",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.361/"
+}

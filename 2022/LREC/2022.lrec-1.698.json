@@ -1,0 +1,19 @@
+{
+  "title": "LaoPLM: Pre-trained Language Models for Lao",
+  "authors": [
+    "Nankai Lin",
+    "Yingwen Fu",
+    "Ziyu Yang",
+    "Chuwei Chen",
+    "Shengyi Jiang"
+  ],
+  "languages": [
+    "Lao"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.lrec-1.698",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.698/"
+}

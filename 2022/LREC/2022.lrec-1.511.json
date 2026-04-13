@@ -1,0 +1,22 @@
+{
+  "title": "gaBERT — an Irish Language Model",
+  "authors": [
+    "James Barry",
+    "Joachim Wagner",
+    "Lauren Cassidy",
+    "Alan Cowap",
+    "Teresa Lynn",
+    "Abigail Walsh",
+    "Mícheál J. Ó Meachair",
+    "Jennifer Foster"
+  ],
+  "languages": [
+    "Irish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.lrec-1.511",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.511/"
+}

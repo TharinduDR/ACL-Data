@@ -1,0 +1,23 @@
+{
+  "title": "Evaluating Pre-training Objectives for Low-Resource Translation into Morphologically Rich Languages",
+  "authors": [
+    "Prajit Dhar",
+    "Arianna Bisazza",
+    "Gertjan van Noord"
+  ],
+  "languages": [
+    "English",
+    "Estonian",
+    "Lithuanian",
+    "Tamil",
+    "Turkish",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.lrec-1.527",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.527/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "BERTrade: Using Contextual Embeddings to Parse Old French",
+  "authors": [
+    "Loïc Grobol",
+    "Mathilde Regnault",
+    "Pedro Ortiz Suárez",
+    "Benoît Sagot",
+    "Laurent Romary",
+    "Benoit Crabbé"
+  ],
+  "languages": [
+    "Old French",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.lrec-1.119",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.119/"
+}

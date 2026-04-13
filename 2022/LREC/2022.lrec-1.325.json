@@ -1,0 +1,34 @@
+{
+  "title": "Unsupervised Machine Translation in Real-World Scenarios",
+  "authors": [
+    "Ona de Gibert",
+    "Iakes Goenaga",
+    "Jordi Armengol-Estapé",
+    "Olatz Perez-de-Viñaspre",
+    "Carla Parra",
+    "Marina Sánchez-Torrón",
+    "Marcis Pinnis",
+    "Gorka Labaka",
+    "Maite Melero"
+  ],
+  "languages": [
+    "English",
+    "Basque",
+    "Catalan",
+    "Finnish",
+    "Georgian",
+    "German",
+    "Kazakh",
+    "Latvian",
+    "Norwegian",
+    "Spanish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.lrec-1.325",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.325/"
+}

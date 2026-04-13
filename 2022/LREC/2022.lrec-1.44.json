@@ -1,0 +1,17 @@
+{
+  "title": "KazNERD: Kazakh Named Entity Recognition Dataset",
+  "authors": [
+    "Rustem Yeshpanov",
+    "Yerbolat Khassanov",
+    "Huseyin Atakan Varol"
+  ],
+  "languages": [
+    "Kazakh"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.lrec-1.44",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.44/"
+}

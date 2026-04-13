@@ -1,0 +1,17 @@
+{
+  "title": "CATAMARAN: A Cross-lingual Long Text Abstractive Summarization Dataset",
+  "authors": [
+    "Zheng Chen",
+    "Hongyu Lin"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.lrec-1.749",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.749/"
+}

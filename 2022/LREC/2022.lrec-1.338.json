@@ -1,0 +1,21 @@
+{
+  "title": "BaSCo: An Annotated Basque-Spanish Code-Switching Corpus for Natural Language Understanding",
+  "authors": [
+    "Maia Aguirre",
+    "Laura García-Sardiña",
+    "Manex Serras",
+    "Ariane Méndez",
+    "Jacobo López"
+  ],
+  "languages": [
+    "Basque",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2022.lrec-1.338",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.338/"
+}

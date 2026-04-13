@@ -1,0 +1,17 @@
+{
+  "title": "Evaluating Pretraining Strategies for Clinical BERT Models",
+  "authors": [
+    "Anastasios Lamproudis",
+    "Aron Henriksson",
+    "Hercules Dalianis"
+  ],
+  "languages": [
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.lrec-1.43",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.43/"
+}

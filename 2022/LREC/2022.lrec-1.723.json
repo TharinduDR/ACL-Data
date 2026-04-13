@@ -1,0 +1,25 @@
+{
+  "title": "FGraDA: A Dataset and Benchmark for Fine-Grained Domain Adaptation in Machine Translation",
+  "authors": [
+    "Wen Hao Zhu",
+    "Shujian Huang",
+    "Tong Pu",
+    "Pingxuan Huang",
+    "Xu Zhang",
+    "Jian Yu",
+    "Wei Chen",
+    "Yanfeng Wang",
+    "Jiajun Chen"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.723",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.723/"
+}

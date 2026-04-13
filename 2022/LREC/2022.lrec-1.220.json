@@ -1,0 +1,41 @@
+{
+  "title": "EENLP: Cross-lingual Eastern European NLP Index",
+  "authors": [
+    "Alexey Tikhonov",
+    "Alex Malkhasov",
+    "Andrey Manoshin",
+    "George Dima",
+    "Réka Cserháti",
+    "Md.Sadek Hossain Asif",
+    "Matt Sárdi"
+  ],
+  "languages": [
+    "English",
+    "Armenian",
+    "Estonian",
+    "Latvian",
+    "Romanian",
+    "Russian",
+    "Slovak",
+    "Bulgarian",
+    "Polish",
+    "Croatian",
+    "Lithuanian",
+    "Slovenian",
+    "Czech",
+    "Serbian",
+    "Ukrainian",
+    "Hungarian",
+    "Kazakh",
+    "Georgian",
+    "Belarusian",
+    "Bosnian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.lrec-1.220",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.220/"
+}

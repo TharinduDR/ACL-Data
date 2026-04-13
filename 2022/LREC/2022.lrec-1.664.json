@@ -1,0 +1,39 @@
+{
+  "title": "MAKED: Multi-lingual Automatic Keyword Extraction Dataset",
+  "authors": [
+    "Yash Verma",
+    "Anubhav Jangra",
+    "Sriparna Saha",
+    "Adam Jatowt",
+    "Dwaipayan Roy"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Russian",
+    "French",
+    "Ukrainian",
+    "Portuguese",
+    "Japanese",
+    "Tamil",
+    "Hindi",
+    "Marathi",
+    "Gujarati",
+    "Bengali",
+    "Sinhala",
+    "Urdu",
+    "Pashto",
+    "Indonesian",
+    "Telugu",
+    "Punjabi",
+    "Nepali"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.lrec-1.664",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.664/"
+}

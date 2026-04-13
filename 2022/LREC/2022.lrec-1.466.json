@@ -1,0 +1,23 @@
+{
+  "title": "Evaluation of Transfer Learning for Polish with a Text-to-Text Model",
+  "authors": [
+    "Aleksandra Chrabrowa",
+    "Łukasz Dragan",
+    "Karol Grzegorczyk",
+    "Dariusz Kajtoch",
+    "Mikołaj Koszowski",
+    "Robert Mroczkowski",
+    "Piotr Rybak"
+  ],
+  "languages": [
+    "Polish",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.lrec-1.466",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.466/"
+}

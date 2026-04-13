@@ -1,0 +1,17 @@
+{
+  "title": "AsNER - Annotated Dataset and Baseline for Assamese Named Entity recognition",
+  "authors": [
+    "Dhrubajyoti Pathak",
+    "Sukumar Nandi",
+    "Priyankoo Sarmah"
+  ],
+  "languages": [
+    "Assamese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.lrec-1.706",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.706/"
+}

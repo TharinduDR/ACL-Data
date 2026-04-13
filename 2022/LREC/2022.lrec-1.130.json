@@ -1,0 +1,22 @@
+{
+  "title": "FABRA: French Aggregator-Based Readability Assessment toolkit",
+  "authors": [
+    "Rodrigo Wilkens",
+    "David Alfter",
+    "Xiaou Wang",
+    "Alice Pintard",
+    "Anaïs Tack",
+    "Kevin Yancey",
+    "Thomas François"
+  ],
+  "languages": [
+    "French"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.lrec-1.130",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.130/"
+}

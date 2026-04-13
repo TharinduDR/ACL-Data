@@ -1,0 +1,32 @@
+{
+  "title": "ISO-based Annotated Multilingual Parallel Corpus for Discourse Markers",
+  "authors": [
+    "Purificação Silvano",
+    "Mariana Damova",
+    "Giedré Valūnaitė Oleškevičienė",
+    "Chaya Liebeskind",
+    "Christian Chiarcos",
+    "Dimitar Trajanov",
+    "Ciprian-Octavian Truică",
+    "Elena-Simona Apostol",
+    "Anna Bączkowska"
+  ],
+  "languages": [
+    "English",
+    "Lithuanian",
+    "Bulgarian",
+    "German",
+    "Macedonian",
+    "Romanian",
+    "Hebrew",
+    "Portuguese",
+    "Polish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T05 Discourse and Pragmatics"
+  ],
+  "paper_id": "2022.lrec-1.293",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.293/"
+}

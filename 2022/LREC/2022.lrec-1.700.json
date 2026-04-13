@@ -1,0 +1,20 @@
+{
+  "title": "VIMQA: A Vietnamese Dataset for Advanced Reasoning and Explainable Multi-hop Question Answering",
+  "authors": [
+    "Nguyen-Khang Le",
+    "Dieu-Hien Nguyen",
+    "Tung Le",
+    "Minh Le Nguyen"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.700",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.700/"
+}

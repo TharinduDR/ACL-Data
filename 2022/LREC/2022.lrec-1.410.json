@@ -1,0 +1,17 @@
+{
+  "title": "The Norwegian Colossal Corpus: A Text Corpus for Training Large Norwegian Language Models",
+  "authors": [
+    "Per E Kummervold",
+    "Freddy Wetjen",
+    "Javier de la Rosa"
+  ],
+  "languages": [
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.lrec-1.410",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.410/"
+}

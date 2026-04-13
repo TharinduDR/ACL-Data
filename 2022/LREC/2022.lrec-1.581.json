@@ -1,0 +1,22 @@
+{
+  "title": "Classifying Implant-Bearing Patients via their Medical Histories: a Pre-Study on Swedish EMRs with Semi-Supervised GAN-BERT",
+  "authors": [
+    "Benjamin Danielsson",
+    "Marina Santini",
+    "Peter Lundberg",
+    "Yosef Al-Abasse",
+    "Arne Jönsson",
+    "Emma Eneling",
+    "Magnus Stridsman"
+  ],
+  "languages": [
+    "Swedish"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.581",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.581/"
+}

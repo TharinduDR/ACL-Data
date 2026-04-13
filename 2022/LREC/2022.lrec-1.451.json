@@ -1,0 +1,19 @@
+{
+  "title": "Downstream Task Performance of BERT Models Pre-Trained Using Automatically De-Identified Clinical Data",
+  "authors": [
+    "Thomas Vakili",
+    "Anastasios Lamproudis",
+    "Aron Henriksson",
+    "Hercules Dalianis"
+  ],
+  "languages": [
+    "Swedish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.lrec-1.451",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.451/"
+}

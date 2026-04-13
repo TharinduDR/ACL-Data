@@ -1,0 +1,23 @@
+{
+  "title": "Generating Extended and Multilingual Summaries with Pre-trained Transformers",
+  "authors": [
+    "Rémi Calizzano",
+    "Malte Ostendorff",
+    "Qian Ruan",
+    "Georg Rehm"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Polish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.lrec-1.175",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.175/"
+}

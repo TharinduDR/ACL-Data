@@ -1,0 +1,20 @@
+{
+  "title": "A Cross-document Coreference Dataset for Longitudinal Tracking across Radiology Reports",
+  "authors": [
+    "Surabhi Datta",
+    "Hio Cheng Lam",
+    "Atieh Pajouhi",
+    "Sunitha Mogalla",
+    "Kirk Roberts"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.lrec-1.393",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.393/"
+}

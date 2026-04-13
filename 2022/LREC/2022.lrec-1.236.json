@@ -1,0 +1,20 @@
+{
+  "title": "Unsupervised Embeddings with Graph Auto-Encoders for Multi-domain and Multilingual Hate Speech Detection",
+  "authors": [
+    "Gretel Liz De la Peña Sarracén",
+    "Paolo Rosso"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Turkish",
+    "Croatian",
+    "Albanian"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.lrec-1.236",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.236/"
+}

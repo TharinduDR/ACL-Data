@@ -1,0 +1,22 @@
+{
+  "title": "GeezSwitch: Language Identification in Typologically Related Low-resourced East African Languages",
+  "authors": [
+    "Fitsum Gaim",
+    "Wonsuk Yang",
+    "Jong C. Park"
+  ],
+  "languages": [
+    "Amharic",
+    "Blin",
+    "Ge'ez",
+    "Tigre",
+    "Tigrinya"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.707",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.707/"
+}

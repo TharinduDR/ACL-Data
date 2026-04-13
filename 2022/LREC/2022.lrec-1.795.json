@@ -1,0 +1,21 @@
+{
+  "title": "Multilingual Transfer Learning for Children Automatic Speech Recognition",
+  "authors": [
+    "Thomas Rolland",
+    "Alberto Abad",
+    "Catia Cucchiarini",
+    "Helmer Strik"
+  ],
+  "languages": [
+    "Swedish",
+    "German",
+    "English",
+    "Portuguese",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.lrec-1.795",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.795/"
+}

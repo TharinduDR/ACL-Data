@@ -1,0 +1,19 @@
+{
+  "title": "BehanceCC: A ChitChat Detection Dataset For Livestreaming Video Transcripts",
+  "authors": [
+    "Viet Dac Lai",
+    "Amir Pouran Ben Veyseh",
+    "Franck Dernoncourt",
+    "Thien Huu Nguyen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.lrec-1.791",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.791/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Building Sentiment Lexicons for Mainland Scandinavian Languages Using Machine Translation and Sentence Embeddings",
+  "authors": [
+    "Peng Liu",
+    "Cristina Marco",
+    "Jon Atle Gulla"
+  ],
+  "languages": [
+    "Danish",
+    "Swedish",
+    "Norwegian",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.lrec-1.301",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.301/"
+}

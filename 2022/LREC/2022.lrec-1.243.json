@@ -1,0 +1,19 @@
+{
+  "title": "CoRoSeOf - An Annotated Corpus of Romanian Sexist and Offensive Tweets",
+  "authors": [
+    "Diana Constantina Höfels",
+    "Çağrı Çöltekin",
+    "Irina Diana Mădroane"
+  ],
+  "languages": [
+    "Romanian",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.lrec-1.243",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.243/"
+}

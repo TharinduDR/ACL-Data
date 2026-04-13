@@ -1,0 +1,31 @@
+{
+  "title": "Challenging the Assumption of Structure-based embeddings in Few- and Zero-shot Knowledge Graph Completion",
+  "authors": [
+    "Filip Cornell",
+    "Chenda Zhang",
+    "Šarūnas Girdzijauskas",
+    "Jussi Karlgren"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.677",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.677/"
+}

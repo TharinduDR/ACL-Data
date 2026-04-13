@@ -1,0 +1,20 @@
+{
+  "title": "BasqueGLUE: A Natural Language Understanding Benchmark for Basque",
+  "authors": [
+    "Gorka Urbizu",
+    "Iñaki San Vicente",
+    "Xabier Saralegi",
+    "Rodrigo Agerri",
+    "Aitor Soroa"
+  ],
+  "languages": [
+    "Basque"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.lrec-1.172",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.172/"
+}

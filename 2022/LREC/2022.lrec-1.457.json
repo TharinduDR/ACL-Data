@@ -1,0 +1,20 @@
+{
+  "title": "ALBETO and DistilBETO: Lightweight Spanish Language Models",
+  "authors": [
+    "José Cañete",
+    "Sebastián Donoso",
+    "Felipe Bravo-Marquez",
+    "Andrés Carvallo",
+    "Vladimir Araujo"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.lrec-1.457",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.457/"
+}

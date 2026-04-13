@@ -1,0 +1,25 @@
+{
+  "title": "A Linguistically Motivated Test Suite to Semi-Automatically Evaluate German–English Machine Translation Output",
+  "authors": [
+    "Vivien Macketanz",
+    "Eleftherios Avramidis",
+    "Aljoscha Burchardt",
+    "He Wang",
+    "Renlong Ai",
+    "Shushen Manakhimova",
+    "Ursula Strohriegel",
+    "Sebastian Möller",
+    "Hans Uszkoreit"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.99",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.99/"
+}

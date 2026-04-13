@@ -1,0 +1,25 @@
+{
+  "title": "E-ConvRec: A Large-Scale Conversational Recommendation Dataset for E-Commerce Customer Service",
+  "authors": [
+    "Meihuizi Jia",
+    "Ruixue Liu",
+    "Peiying Wang",
+    "Yang Song",
+    "Zexi Xi",
+    "Haobin Li",
+    "Xin Shen",
+    "Meng Chen",
+    "Jinhui Pang",
+    "Xiaodong He"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.lrec-1.622",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.622/"
+}

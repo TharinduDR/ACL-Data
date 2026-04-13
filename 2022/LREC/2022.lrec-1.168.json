@@ -1,0 +1,20 @@
+{
+  "title": "BERTHA: Video Captioning Evaluation Via Transfer-Learned Human Assessment",
+  "authors": [
+    "Luis Lebron",
+    "Yvette Graham",
+    "Kevin McGuinness",
+    "Konstantinos Kouramas",
+    "Noel E. O'Connor"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.168",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.168/"
+}

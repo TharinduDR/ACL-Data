@@ -1,0 +1,18 @@
+{
+  "title": "A Benchmark Corpus for the Detection of Automatically Generated Text in Academic Publications",
+  "authors": [
+    "Vijini Liyanage",
+    "Davide Buscaldi",
+    "Adeline Nazarenko"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.lrec-1.501",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.501/"
+}

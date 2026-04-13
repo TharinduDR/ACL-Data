@@ -1,0 +1,21 @@
+{
+  "title": "Entity Linking over Nested Named Entities for Russian",
+  "authors": [
+    "Natalia Loukachevitch",
+    "Pavel Braslavski",
+    "Vladimir Ivanov",
+    "Tatiana Batura",
+    "Suresh Manandhar",
+    "Artem Shelmanov",
+    "Elena Tutubalina"
+  ],
+  "languages": [
+    "Russian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.lrec-1.474",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.474/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Towards a Broad Coverage Named Entity Resource: A Data-Efficient Approach for Many Diverse Languages",
+  "authors": [
+    "Silvia Severini",
+    "Ayyoob Imani",
+    "Philipp Dufter",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "Arabic",
+    "Finnish",
+    "Greek",
+    "Hebrew",
+    "Hindi",
+    "Kannada",
+    "Korean",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Tamil",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.lrec-1.417",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.417/"
+}

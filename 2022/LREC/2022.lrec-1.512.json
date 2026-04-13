@@ -1,0 +1,22 @@
+{
+  "title": "PoS Tagging, Lemmatization and Dependency Parsing of West Frisian",
+  "authors": [
+    "Wilbert Heeringa",
+    "Gosse Bouma",
+    "Martha Hofman",
+    "Jelle Brouwer",
+    "Eduard Drenth",
+    "Jan Wijffels",
+    "Hans Van de Velde"
+  ],
+  "languages": [
+    "Frisian",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.lrec-1.512",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.512/"
+}

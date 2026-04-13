@@ -1,0 +1,50 @@
+{
+  "title": "Towards Universal Segmentations: UniSegments 1.0",
+  "authors": [
+    "Zdeněk Žabokrtský",
+    "Niyati Bafna",
+    "Jan Bodnár",
+    "Lukáš Kyjánek",
+    "Emil Svoboda",
+    "Magda Ševčíková",
+    "Jonáš Vidra"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Czech",
+    "Italian",
+    "German",
+    "Russian",
+    "Persian",
+    "Marathi",
+    "Hindi",
+    "Malayalam",
+    "Kannada",
+    "Bengali",
+    "Dutch",
+    "Finnish",
+    "Turkish",
+    "Arabic",
+    "Croatian",
+    "Swedish",
+    "Portuguese",
+    "Mongolian",
+    "Polish",
+    "Serbo-Croatian",
+    "Spanish",
+    "Udmurt",
+    "Tajik",
+    "Erzya",
+    "Komi-Zyrian",
+    "Meadow Mari",
+    "Moksha"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.lrec-1.122",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.122/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Offensive language detection in Hebrew: can other languages help?",
+  "authors": [
+    "Natalia Vanetik",
+    "Marina Litvak",
+    "Chaya Liebeskind",
+    "Omar Hmdia",
+    "Rizek Abu Madeghem"
+  ],
+  "languages": [
+    "Hebrew",
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.lrec-1.396",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.396/"
+}

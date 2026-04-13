@@ -1,0 +1,24 @@
+{
+  "title": "Modeling Dutch Medical Texts for Detecting Functional Categories and Levels of COVID-19 Patients",
+  "authors": [
+    "Jenia Kim",
+    "Stella Verkijk",
+    "Edwin Geleijn",
+    "Marike van der Leeden",
+    "Carel Meskers",
+    "Caroline Meskers",
+    "Sabina van der Veen",
+    "Piek Vossen",
+    "Guy Widdershoven"
+  ],
+  "languages": [
+    "Dutch"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.lrec-1.488",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.488/"
+}

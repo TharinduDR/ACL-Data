@@ -1,0 +1,30 @@
+{
+  "title": "What a Creole Wants, What a Creole Needs",
+  "authors": [
+    "Heather Lent",
+    "Kelechi Ogueji",
+    "Miriyam de Lhoneux",
+    "Orevaoghene Ahia",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "Haitian Creole",
+    "Hawaiian Pidgin",
+    "Nigerian Pidgin",
+    "Singlish",
+    "Sri Lankan Malay",
+    "Reunionese Creole",
+    "Seychellois Creole",
+    "Louisiana Creole",
+    "Papiamento"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.lrec-1.691",
+  "acl_url": "https://aclanthology.org/2022.lrec-1.691/"
+}
