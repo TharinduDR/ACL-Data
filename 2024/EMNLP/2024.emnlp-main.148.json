@@ -1,0 +1,21 @@
+{
+  "title": "Instruction Pre-Training: Language Models are Supervised Multitask Learners",
+  "authors": [
+    "Daixuan Cheng",
+    "Yuxian Gu",
+    "Shaohan Huang",
+    "Junyu Bi",
+    "Minlie Huang",
+    "Furu Wei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2024.emnlp-main.148",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.148/"
+}

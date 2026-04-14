@@ -1,0 +1,27 @@
+{
+  "title": "NESTFUL: A Benchmark for Evaluating LLMs on Nested Sequences of API Calls",
+  "authors": [
+    "Kinjal Basu",
+    "Ibrahim Abdelaziz",
+    "Kiran Kate",
+    "Mayank Agarwal",
+    "Maxwell Crouse",
+    "Yara Rizk",
+    "Kelsey Bradford",
+    "Asim Munawar",
+    "Sadhana Kumaravel",
+    "Saurabh Goyal",
+    "Xin Wang",
+    "Luis A. Lastras",
+    "Pavan Kapanipathi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-main.1702",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1702/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "CoBa: Convergence Balancer for Multitask Finetuning of Large Language Models",
+  "authors": [
+    "Zi Gong",
+    "Hang Yu",
+    "Cong Liao",
+    "Bingchang Liu",
+    "Chaoyu Chen",
+    "Jiangguo Li"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "English",
+    "Finnish",
+    "Indonesian",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2024.emnlp-main.459",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.459/"
+}

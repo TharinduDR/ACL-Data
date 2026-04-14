@@ -1,0 +1,22 @@
+{
+  "title": "Can Machine Unlearning Reduce Social Bias in Language Models?",
+  "authors": [
+    "Omkar Dige",
+    "Diljot Singh",
+    "Tsz Fung Yau",
+    "Qixuan Zhang",
+    "Mohammad Bolandraftar",
+    "Xiaodan Zhu",
+    "Faiza Khan Khattak"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-industry.71",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.71/"
+}

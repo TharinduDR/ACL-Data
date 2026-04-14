@@ -1,0 +1,18 @@
+{
+  "title": "MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents",
+  "authors": [
+    "Liyan Tang",
+    "Philippe Laban",
+    "Greg Durrett"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.emnlp-main.499",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.499/"
+}

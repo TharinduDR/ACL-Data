@@ -1,0 +1,22 @@
+{
+  "title": "A Reasoner for Real-World Event Detection: Scaling Reinforcement Learning via Adaptive Perplexity-Aware Sampling Strategy",
+  "authors": [
+    "Xiaoyun Zhang",
+    "Jingqing Ruan",
+    "Xing Ma",
+    "Yawen Zhu",
+    "Jiansong Chen",
+    "Ke Zeng",
+    "Xunliang Cai"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-industry.21",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.21/"
+}

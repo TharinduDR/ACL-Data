@@ -1,0 +1,19 @@
+{
+  "title": "Measuring Chain of Thought Faithfulness by Unlearning Reasoning Steps",
+  "authors": [
+    "Martin Tutek",
+    "Fateme Hashemi Chaleshtori",
+    "Ana Marasović",
+    "Yonatan Belinkov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.504",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.504/"
+}

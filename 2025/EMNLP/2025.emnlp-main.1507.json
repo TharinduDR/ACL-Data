@@ -1,0 +1,26 @@
+{
+  "title": "Data-Efficient Hate Speech Detection via Cross-Lingual Nearest Neighbor Retrieval with Limited Labeled Data",
+  "authors": [
+    "Faeze Ghorbanpour",
+    "Daryna Dementieva",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Hindi",
+    "Arabic",
+    "Turkish",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.emnlp-main.1507",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1507/"
+}

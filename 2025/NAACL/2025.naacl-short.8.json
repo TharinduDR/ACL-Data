@@ -1,0 +1,23 @@
+{
+  "title": "Cross-lingual Transfer of Reward Models in Multilingual Alignment",
+  "authors": [
+    "Jiwoo Hong",
+    "Noah Lee",
+    "Rodrigo Martínez-Castaño",
+    "César Rodríguez",
+    "James Thorne"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian",
+    "Korean",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-short.8",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.8/"
+}

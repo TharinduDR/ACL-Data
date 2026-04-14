@@ -1,0 +1,20 @@
+{
+  "title": "GenLink: Generation-Driven Schema-Linking via Multi-Model Learning for Text-to-SQL",
+  "authors": [
+    "Zhifeng Hao",
+    "Junqi Huang",
+    "Shaobin Shi",
+    "Ruichu Cai",
+    "Boyan Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1518",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1518/"
+}

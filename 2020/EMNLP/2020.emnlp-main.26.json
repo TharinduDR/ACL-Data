@@ -8,9 +8,9 @@
     "English"
   ],
   "research_areas": [
-    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
-    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
-    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+    "T11",
+    "T21",
+    "T08"
   ],
   "paper_id": "2020.emnlp-main.26",
   "acl_url": "https://aclanthology.org/2020.emnlp-main.26/"

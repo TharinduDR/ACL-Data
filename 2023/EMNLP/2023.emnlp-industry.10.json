@@ -1,0 +1,27 @@
+{
+  "title": "Text2Topic: Multi-Label Text Classification System for Efficient Topic Detection in User Generated Content with Zero-Shot Capabilities",
+  "authors": [
+    "Fengjun Wang",
+    "Moran Beladev",
+    "Ofri Kleinfeld",
+    "Elina Frayerman",
+    "Tal Shachar",
+    "Eran Fainman",
+    "Karen Lastmann Assaraf",
+    "Sarai Mizrachi",
+    "Benjamin Wang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.emnlp-industry.10",
+  "acl_url": "https://aclanthology.org/2023.emnlp-industry.10/"
+}

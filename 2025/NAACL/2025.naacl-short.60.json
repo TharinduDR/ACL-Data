@@ -1,0 +1,28 @@
+{
+  "title": "Scaling Graph-Based Dependency Parsing with Arc Vectorization and Attention-Based Refinement",
+  "authors": [
+    "Nicolas Floquet",
+    "Joseph Le Roux",
+    "Nadi Tomeh",
+    "Thierry Charnois"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Italian",
+    "Dutch",
+    "Norwegian",
+    "Romanian",
+    "Russian",
+    "Portuguese",
+    "Catalan",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.naacl-short.60",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.60/"
+}

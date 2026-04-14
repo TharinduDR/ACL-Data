@@ -1,0 +1,20 @@
+{
+  "title": "BookSQL: A Large Scale Text-to-SQL Dataset for Accounting Domain",
+  "authors": [
+    "Rahul Kumar",
+    "Amar Raja Dibbu",
+    "Shrutendra Harsola",
+    "Vignesh Subrahmaniam",
+    "Ashutosh Modi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.naacl-long.28",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.28/"
+}

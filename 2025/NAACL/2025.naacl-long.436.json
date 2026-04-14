@@ -1,0 +1,22 @@
+{
+  "title": "STYLEDISTANCE: Stronger Content-Independent Style Embeddings with Synthetic Parallel Examples",
+  "authors": [
+    "Ajay Patel",
+    "Jiacheng Zhu",
+    "Justin Qiu",
+    "Zachary Horvitz",
+    "Marianna Apidianaki",
+    "Kathleen McKeown",
+    "Chris Callison-Burch"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.436",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.436/"
+}

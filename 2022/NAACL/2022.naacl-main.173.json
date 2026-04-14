@@ -1,0 +1,25 @@
+{
+  "title": "Does Summary Evaluation Survive Translation to Other Languages?",
+  "authors": [
+    "Spencer Braun",
+    "Oleg Vasilyev",
+    "Neslihan Iskender",
+    "John Bohannon"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Afrikaans",
+    "Hindi",
+    "Russian"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-main.173",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.173/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Scaling Parameter-Constrained Language Models with Quality Data",
+  "authors": [
+    "Ernie Chang",
+    "Matteo Paltenghi",
+    "Yang Li",
+    "Pin-Jie Lin",
+    "Changsheng Zhao",
+    "Patrick Huber",
+    "Zechun Liu",
+    "Rastislav Rabatin",
+    "Yangyang Shi",
+    "Vikas Chandra"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-industry.8",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.8/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "A New Pipeline for Knowledge Graph Reasoning Enhanced by Large Language Models Without Fine-Tuning",
+  "authors": [
+    "Zhongwu Chen",
+    "Long Bai",
+    "Zixuan Li",
+    "Zhen Huang",
+    "Xiaolong Jin",
+    "Yong Dou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.emnlp-main.81",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.81/"
+}

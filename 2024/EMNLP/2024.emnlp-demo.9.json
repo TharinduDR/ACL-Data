@@ -1,0 +1,25 @@
+{
+  "title": "TinyAgent: Function Calling at the Edge",
+  "authors": [
+    "Lutfi Eren Erdogan",
+    "Nicholas Lee",
+    "Siddharth Jha",
+    "Sehoon Kim",
+    "Ryan Tabrizi",
+    "Suhong Moon",
+    "Coleman Hooper",
+    "Gopala Anumanchipalli",
+    "Kurt Keutzer",
+    "Amir Gholami"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-demo.9",
+  "acl_url": "https://aclanthology.org/2024.emnlp-demo.9/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Simultaneous Interpretation Corpus Construction by Large Language Models in Distant Language Pair",
+  "authors": [
+    "Yusuke Sakai",
+    "Mana Makinae",
+    "Hidetaka Kamigaito",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.emnlp-main.1248",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1248/"
+}

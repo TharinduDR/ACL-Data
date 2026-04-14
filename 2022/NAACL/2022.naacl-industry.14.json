@@ -1,0 +1,28 @@
+{
+  "title": "CULG: Commercial Universal Language Generation",
+  "authors": [
+    "Haonan Li",
+    "Yameng Huang",
+    "Yeyun Gong",
+    "Jian Jiao",
+    "Ruofei Zhang",
+    "Timothy Baldwin",
+    "Nan Duan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.naacl-industry.14",
+  "acl_url": "https://aclanthology.org/2022.naacl-industry.14/"
+}

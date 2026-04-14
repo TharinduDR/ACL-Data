@@ -1,0 +1,18 @@
+{
+  "title": "FREB-TQA: A Fine-Grained Robustness Evaluation Benchmark for Table Question Answering",
+  "authors": [
+    "Wei Zhou",
+    "Mohsen Mesgar",
+    "Heike Adel",
+    "Annemarie Friedrich"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.naacl-long.137",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.137/"
+}

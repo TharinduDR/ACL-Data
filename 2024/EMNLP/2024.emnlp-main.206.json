@@ -1,0 +1,38 @@
+{
+  "title": "MTLS: Making Texts into Linguistic Symbols",
+  "authors": [
+    "Wenlong Fei",
+    "Xiaohua Wang",
+    "Min Hu",
+    "Qingyu Zhang",
+    "Hongbo Li"
+  ],
+  "languages": [
+    "Arabic",
+    "Basque",
+    "Chinese",
+    "Coptic",
+    "Czech",
+    "English",
+    "Estonian",
+    "French",
+    "Greek",
+    "Hindi",
+    "Japanese",
+    "Korean",
+    "Maltese",
+    "Persian",
+    "Russian",
+    "Tamil",
+    "Turkish",
+    "Urdu",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.emnlp-main.206",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.206/"
+}

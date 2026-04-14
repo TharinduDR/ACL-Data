@@ -1,0 +1,21 @@
+{
+  "title": "MemeIntel: Explainable Detection of Propagandistic and Hatefull Memes",
+  "authors": [
+    "Mohamed Bayan Kmainsi",
+    "Abul Hasnat",
+    "Md Arid Hasan",
+    "Ali Ezzat Shahroor",
+    "Firoj Alam"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.emnlp-main.1539",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1539/"
+}

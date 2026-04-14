@@ -1,0 +1,20 @@
+{
+  "title": "Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks",
+  "authors": [
+    "Nandan Thakur",
+    "Nils Reimers",
+    "Johannes Daxenberger",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.naacl-main.28",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.28/"
+}

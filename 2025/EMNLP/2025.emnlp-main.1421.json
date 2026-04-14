@@ -1,0 +1,21 @@
+{
+  "title": "Pre-trained Models Perform the Best When Token Distributions Follow Zipf's Law",
+  "authors": [
+    "Yanjin He",
+    "Qingkai Zeng",
+    "Meng Jiang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.emnlp-main.1421",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1421/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "LLM-Supported Natural Language to Bash Translation",
+  "authors": [
+    "Finnian Westenfelder",
+    "Erik Hemberg",
+    "Miguel Tulla",
+    "Stephen Moskal",
+    "Una-May O'Reilly",
+    "Silviu Chiricescu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.555",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.555/"
+}

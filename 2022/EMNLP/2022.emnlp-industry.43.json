@@ -1,0 +1,24 @@
+{
+  "title": "Distilling Multilingual Transformers into CNNs for Scalable Intent Classification",
+  "authors": [
+    "Besnik Fetahu",
+    "Akash Veeragouni",
+    "Oleg Rokhlenko",
+    "Shervin Malmasi"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14",
+    "T09"
+  ],
+  "paper_id": "2022.emnlp-industry.43",
+  "acl_url": "https://aclanthology.org/2022.emnlp-industry.43/"
+}

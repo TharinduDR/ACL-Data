@@ -1,0 +1,22 @@
+{
+  "title": "OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems",
+  "authors": [
+    "Linyong Nan",
+    "Weining Fang",
+    "Ailin Rasteh",
+    "Pouya Lahabi",
+    "Weijin Zou",
+    "Yilun Zhao",
+    "Arman Cohan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-industry.75",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.75/"
+}

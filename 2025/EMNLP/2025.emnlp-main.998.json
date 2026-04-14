@@ -1,0 +1,20 @@
+{
+  "title": "Search Wisely: Mitigating Sub-optimal Agentic Searches By Reducing Uncertainty",
+  "authors": [
+    "Peilin Wu",
+    "Mian Zhang",
+    "Xinlu Zhang",
+    "Xinya Du",
+    "Zhiyu Zoey Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.998",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.998/"
+}

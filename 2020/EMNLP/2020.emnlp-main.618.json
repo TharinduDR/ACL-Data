@@ -1,0 +1,41 @@
+{
+  "title": "Translation Artifacts in Cross-lingual Transfer Learning",
+  "authors": [
+    "Mikel Artetxe",
+    "Gorka Labaka",
+    "Eneko Agirre"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Greek",
+    "Bulgarian",
+    "Russian",
+    "Turkish",
+    "Arabic",
+    "Vietnamese",
+    "Thai",
+    "Chinese",
+    "Hindi",
+    "Swahili",
+    "Urdu",
+    "Portuguese",
+    "Italian",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-main.618",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.618/"
+}

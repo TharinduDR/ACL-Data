@@ -1,0 +1,49 @@
+{
+  "title": "RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios",
+  "authors": [
+    "Xinya Du",
+    "Zixuan Zhang",
+    "Sha Li",
+    "Ziqi Wang",
+    "Pengfei Yu",
+    "Hongwei Wang",
+    "Tuan Manh Lai",
+    "Xudong Lin",
+    "Iris Liu",
+    "Ben Zhou",
+    "Haoyang Wen",
+    "Manling Li",
+    "Darryl Hannan",
+    "Jie Lei",
+    "Hyounghun Kim",
+    "Rotem Dror",
+    "Haoyu Wang",
+    "Michael Regan",
+    "Qi Zeng",
+    "Qing Lyu",
+    "Charles Yu",
+    "Carl Edwards",
+    "Xiaomeng Jin",
+    "Yizhu Jiao",
+    "Ghazaleh Kazeminejad",
+    "Zhenhailong Wang",
+    "Chris Callison-Burch",
+    "Carl Vondrick",
+    "Mohit Bansal",
+    "Dan Roth",
+    "Jiawei Han",
+    "Shih-Fu Chang",
+    "Martha Palmer",
+    "Heng Ji"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.naacl-demo.7",
+  "acl_url": "https://aclanthology.org/2022.naacl-demo.7/"
+}

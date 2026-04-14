@@ -1,0 +1,25 @@
+{
+  "title": "PCFGs Can Do Better: Inducing Probabilistic Context-Free Grammars with Many Symbols",
+  "authors": [
+    "Songlin Yang",
+    "Yanpeng Zhao",
+    "Kewei Tu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Basque",
+    "German",
+    "French",
+    "Hebrew",
+    "Hungarian",
+    "Korean",
+    "Polish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.naacl-main.117",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.117/"
+}

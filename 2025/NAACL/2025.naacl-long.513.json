@@ -1,0 +1,21 @@
+{
+  "title": "Evaluating and Improving Graph-to-Text Generation with Large Language Models",
+  "authors": [
+    "Jie He",
+    "Yijun Yang",
+    "Wanqiu Long",
+    "Deyi Xiong",
+    "Víctor Gutiérrez Basulto",
+    "Jeff Z. Pan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.naacl-long.513",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.513/"
+}

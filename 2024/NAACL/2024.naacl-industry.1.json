@@ -1,0 +1,22 @@
+{
+  "title": "HPipe: Large Language Model Pipeline Parallelism for Long Context on Heterogeneous Cost-effective Devices",
+  "authors": [
+    "Ruilong Ma",
+    "Xiang Yang",
+    "Jingyu Wang",
+    "Qi Qi",
+    "Haifeng Sun",
+    "Jing Wang",
+    "Zirui Zhuang",
+    "Jianxin Liao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.naacl-industry.1",
+  "acl_url": "https://aclanthology.org/2024.naacl-industry.1/"
+}

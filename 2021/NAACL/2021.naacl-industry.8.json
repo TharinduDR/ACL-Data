@@ -1,0 +1,22 @@
+{
+  "title": "Continuous Model Improvement for Language Understanding with Machine Translation",
+  "authors": [
+    "Abdalghani Abujabal",
+    "Claudio Delli Bovi",
+    "Sungho Ryu",
+    "Turan Gojayev",
+    "Yannick Versley",
+    "Fabian Trifienbach"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.naacl-industry.8",
+  "acl_url": "https://aclanthology.org/2021.naacl-industry.8/"
+}

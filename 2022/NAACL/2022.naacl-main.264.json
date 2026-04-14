@@ -1,0 +1,21 @@
+{
+  "title": "When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer",
+  "authors": [
+    "Ameet Deshpande",
+    "Partha Talukdar",
+    "Karthik Narasimhan"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Hindi",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-main.264",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.264/"
+}

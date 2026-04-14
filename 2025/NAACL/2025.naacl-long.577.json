@@ -1,0 +1,26 @@
+{
+  "title": "Multilingual Reasoning via Self-training",
+  "authors": [
+    "Leonardo Ranaldi",
+    "Giulia Pucci"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Japanese",
+    "Russian",
+    "Spanish",
+    "Bengali",
+    "Telugu",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2025.naacl-long.577",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.577/"
+}

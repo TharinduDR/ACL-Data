@@ -1,0 +1,19 @@
+{
+  "title": "Evaluation Dataset for Japanese Medical Text Simplification",
+  "authors": [
+    "Koki Horiguchi",
+    "Tomoyuki Kajiwara",
+    "Yuki Arase",
+    "Takashi Ninomiya"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.naacl-srw.23",
+  "acl_url": "https://aclanthology.org/2024.naacl-srw.23/"
+}

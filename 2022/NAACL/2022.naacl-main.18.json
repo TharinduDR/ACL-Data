@@ -1,0 +1,19 @@
+{
+  "title": "Cooperative Self-training of Machine Reading Comprehension",
+  "authors": [
+    "Hongyin Luo",
+    "Shang-Wen Li",
+    "Mingye Gao",
+    "Seunghak Yu",
+    "James Glass"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.naacl-main.18",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.18/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "SQUAB: Evaluating LLM robustness to Ambiguous and Unanswerable Questions in Semantic Parsing",
+  "authors": [
+    "Simone Papicchio",
+    "Luca Cagliero",
+    "Paolo Papotti"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.emnlp-main.906",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.906/"
+}

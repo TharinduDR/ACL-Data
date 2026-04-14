@@ -1,0 +1,47 @@
+{
+  "title": "The BIGGEN BENCH: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models",
+  "authors": [
+    "Seungone Kim",
+    "Juyoung Suk",
+    "Ji Yong Cho",
+    "Shayne Longpre",
+    "Chaeun Kim",
+    "Dongkeun Yoon",
+    "Guijin Son",
+    "Yejin Cho",
+    "Sheikh Shafayat",
+    "Jinheon Baek",
+    "Sue Hyun Park",
+    "Hyeonbin Hwang",
+    "Jinkyung Jo",
+    "Hyowon Cho",
+    "Haebin Shin",
+    "Seongyun Lee",
+    "Hanseok Oh",
+    "Noah Lee",
+    "Namgyu Ho",
+    "Se June Joo",
+    "Miyoung Ko",
+    "Yoonjoo Lee",
+    "Hyungjoo Chae",
+    "Jamin Shin",
+    "Joel Jang",
+    "Seonghyeon Ye",
+    "Bill Yuchen Lin",
+    "Sean Welleck",
+    "Graham Neubig",
+    "Moontae Lee",
+    "Kyungjae Lee",
+    "Minjoon Seo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.naacl-long.303",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.303/"
+}

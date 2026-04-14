@@ -1,0 +1,30 @@
+{
+  "title": "Rehearsal-Free Modular and Compositional Continual Learning for Language Models",
+  "authors": [
+    "Mingyang Wang",
+    "Heike Adel",
+    "Lukas Lange",
+    "Jannik Strötgen",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Amharic",
+    "Igbo",
+    "Kinyarwanda",
+    "Moroccan Arabic",
+    "Nigerian Pidgin",
+    "Mozambican Portuguese",
+    "Swahili",
+    "Twi",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis",
+    "T19 Text Simplification"
+  ],
+  "paper_id": "2024.naacl-short.39",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.39/"
+}

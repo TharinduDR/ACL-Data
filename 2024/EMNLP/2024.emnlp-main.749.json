@@ -1,0 +1,19 @@
+{
+  "title": "Leveraging Context-Aware Prompting for Commit Message Generation",
+  "authors": [
+    "Zhihua Jiang",
+    "Jianwei Chen",
+    "Dongning Rao",
+    "Guanghui Ye"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.emnlp-main.749",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.749/"
+}

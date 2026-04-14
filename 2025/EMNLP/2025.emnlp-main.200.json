@@ -1,0 +1,21 @@
+{
+  "title": "KO-BLEX: Open Legal Question Answering with Multi-hop Reasoning",
+  "authors": [
+    "Ji-hyung Lee",
+    "Daehui Kim",
+    "Seonjeong Hwang",
+    "Hyoung-hun Kim",
+    "Gary Geunbae Lee"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.200",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.200/"
+}

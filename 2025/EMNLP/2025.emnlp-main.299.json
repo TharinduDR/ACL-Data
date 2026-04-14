@@ -1,0 +1,20 @@
+{
+  "title": "LLM-Driven Implicit Target Augmentation and Fine-Grained Contextual Modeling for Zero-Shot and Few-Shot Stance Detection",
+  "authors": [
+    "Yanxu Ji",
+    "Jinzhong Ning",
+    "Yijia Zhang",
+    "Zhi Liu",
+    "Hongfei Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.emnlp-main.299",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.299/"
+}

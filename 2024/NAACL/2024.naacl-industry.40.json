@@ -1,0 +1,23 @@
+{
+  "title": "EIVEN: Efficient Implicit Attribute Value Extraction using Multimodal LLM",
+  "authors": [
+    "Henry Peng Zou",
+    "Gavin Heqing Yu",
+    "Ziwei Fan",
+    "Dan Bu",
+    "Han Liu",
+    "Peng Dai",
+    "Dongmei Jia",
+    "Cornelia Caragea"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.naacl-industry.40",
+  "acl_url": "https://aclanthology.org/2024.naacl-industry.40/"
+}

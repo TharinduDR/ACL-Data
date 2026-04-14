@@ -1,0 +1,19 @@
+{
+  "title": "CmdCaliper: A Semantic-Aware Command-Line Embedding Model and Dataset for Security Research",
+  "authors": [
+    "Sian-Yao Huang",
+    "Cheng-Lin Yang",
+    "Che-Yu Lin",
+    "Chun-Ying Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.emnlp-main.1126",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1126/"
+}

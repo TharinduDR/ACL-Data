@@ -1,0 +1,26 @@
+{
+  "title": "Benchmarking Large Language Models Under Data Contamination: A Survey from Static to Dynamic Evaluation",
+  "authors": [
+    "Simin Chen",
+    "Yiming Chen",
+    "Zexin Li",
+    "Yifan Jiang",
+    "Zhongwei Wan",
+    "Yixin He",
+    "Dezhi Ran",
+    "Tianle Gu",
+    "Haizhou Li",
+    "Tao Xie",
+    "Baishakhi Ray"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.511",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.511/"
+}

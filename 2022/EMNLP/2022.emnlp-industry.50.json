@@ -1,0 +1,21 @@
+{
+  "title": "QUILL: Query Intent with Large Language Models using Retrieval Augmentation and Multi-stage Distillation",
+  "authors": [
+    "Krishna Srinivasan",
+    "Karthik Raman",
+    "Anupam Samanta",
+    "Lingrui Liao",
+    "Luca Bertelli",
+    "Mike Bendersky"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-industry.50",
+  "acl_url": "https://aclanthology.org/2022.emnlp-industry.50/"
+}

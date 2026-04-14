@@ -1,0 +1,22 @@
+{
+  "title": "Multilingual Native Language Identification with Large Language Models",
+  "authors": [
+    "Dhiman Goswami",
+    "Marcos Zampieri",
+    "Kai North",
+    "Shervin Malmasi",
+    "Antonios Anastopoulos"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Norwegian",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.naacl-srw.19",
+  "acl_url": "https://aclanthology.org/2025.naacl-srw.19/"
+}

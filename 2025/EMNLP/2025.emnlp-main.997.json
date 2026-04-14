@@ -1,0 +1,28 @@
+{
+  "title": "DSMoE: Matrix-Partitioned Experts with Dynamic Routing for Computation-Efficient Dense LLMs",
+  "authors": [
+    "Minxuan Lv",
+    "Zhenpeng Su",
+    "Leiyu Pan",
+    "Yizhe Xiong",
+    "Zijia Lin",
+    "Hui Chen",
+    "Wei Zhou",
+    "Jungong Han",
+    "Guiguang Ding",
+    "Cheng Luo",
+    "Di Zhang",
+    "Kun Gai",
+    "Songlin Hu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.997",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.997/"
+}

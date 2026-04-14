@@ -1,0 +1,53 @@
+{
+  "title": "MiTTenS: A Dataset for Evaluating Gender Mistranslation",
+  "authors": [
+    "Kevin Robinson",
+    "Sneha Kudugunta",
+    "Romina Stella",
+    "Sunipa Dev",
+    "Jasmijn Bastings"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "German",
+    "Spanish",
+    "Finnish",
+    "Indonesian",
+    "Polish",
+    "Telugu",
+    "Turkish",
+    "Thai",
+    "Oromo",
+    "Lingala",
+    "Assamese",
+    "Bhojpuri",
+    "Luganda",
+    "Amharic",
+    "Czech",
+    "Farsi",
+    "Maithili",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Portuguese",
+    "Russian",
+    "Arabic",
+    "Chinese",
+    "French",
+    "Greek",
+    "Hebrew",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.238",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.238/"
+}

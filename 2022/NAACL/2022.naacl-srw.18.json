@@ -1,0 +1,19 @@
+{
+  "title": "ViT5: Pretrained Text-to-Text Transformer for Vietnamese Language Generation",
+  "authors": [
+    "Long Phan",
+    "Hieu Tran",
+    "Hieu Nguyen",
+    "Trieu H. Trinh"
+  ],
+  "languages": [
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2022.naacl-srw.18",
+  "acl_url": "https://aclanthology.org/2022.naacl-srw.18/"
+}

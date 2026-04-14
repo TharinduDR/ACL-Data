@@ -1,0 +1,25 @@
+{
+  "title": "BrailleLLM: Braille Instruction Tuning with Large Language Models for Braille Domain Tasks",
+  "authors": [
+    "Tianyuan Huang",
+    "Zepeng Zhu",
+    "Hangdi Xing",
+    "Zirui Shao",
+    "Zhi Yu",
+    "Chaoxiong Yang",
+    "Jiaxian He",
+    "Xiaozhong Liu",
+    "Jiajun Bu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2025.emnlp-main.1454",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1454/"
+}

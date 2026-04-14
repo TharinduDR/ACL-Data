@@ -1,0 +1,22 @@
+{
+  "title": "Predicting Rewards Alongside Tokens: Non-disruptive Parameter Insertion for Efficient Inference Intervention in Large Language Model",
+  "authors": [
+    "Chenhan Yuan",
+    "Fei Huang",
+    "Ru Peng",
+    "Keming Lu",
+    "Bowen Yu",
+    "Chang Zhou",
+    "Jingren Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.emnlp-main.316",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.316/"
+}

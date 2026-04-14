@@ -1,0 +1,24 @@
+{
+  "title": "CGF: Constrained Generation Framework for Query Rewriting in Conversational AI",
+  "authors": [
+    "Jie Hao",
+    "Yang Liu",
+    "Xing Fan",
+    "Saurabh Gupta",
+    "Saleh Soltan",
+    "Rakesh Chada",
+    "Pradeep Natarajan",
+    "Chenlei Guo",
+    "Gokhan Tur"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2022.emnlp-industry.48",
+  "acl_url": "https://aclanthology.org/2022.emnlp-industry.48/"
+}

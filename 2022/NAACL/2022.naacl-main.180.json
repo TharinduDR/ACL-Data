@@ -1,0 +1,20 @@
+{
+  "title": "AnswerSumm: A Manually-Curated Dataset and Pipeline for Answer Summarization",
+  "authors": [
+    "Alexander R. Fabbri",
+    "Xiaojian Wu",
+    "Srini Iyer",
+    "Haoran Li",
+    "Mona Diab"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.naacl-main.180",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.180/"
+}

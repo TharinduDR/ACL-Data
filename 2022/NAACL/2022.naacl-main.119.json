@@ -1,0 +1,24 @@
+{
+  "title": "OPERA: Operation-Pivoted Discrete Reasoning over Text",
+  "authors": [
+    "Yongwei Zhou",
+    "Junwei Bao",
+    "Chaoqun Duan",
+    "Haipeng Sun",
+    "Jiahui Liang",
+    "Yifan Wang",
+    "Jing Zhao",
+    "Youzheng Wu",
+    "Xiaodong He",
+    "Tiejun Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.naacl-main.119",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.119/"
+}

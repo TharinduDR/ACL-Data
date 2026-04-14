@@ -1,0 +1,26 @@
+{
+  "title": "ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model",
+  "authors": [
+    "Zhongyi Zhou",
+    "Yichen Zhu",
+    "Minjie Zhu",
+    "Junjie Wen",
+    "Ning Liu",
+    "Zhiyuan Xu",
+    "Weibin Meng",
+    "Yaxin Peng",
+    "Chaomin Shen",
+    "Feifei Feng",
+    "Yi Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.273",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.273/"
+}

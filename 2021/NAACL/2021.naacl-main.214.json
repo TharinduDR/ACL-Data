@@ -1,0 +1,27 @@
+{
+  "title": "Cross-Linguual Word Embedding Refinement by ℓ1 Norm Optimisation",
+  "authors": [
+    "Xutan Peng",
+    "Chenghua Lin",
+    "Mark Stevenson"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Chinese",
+    "Finnish",
+    "Italian",
+    "Turkish",
+    "Spanish",
+    "Persian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.naacl-main.214",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.214/"
+}

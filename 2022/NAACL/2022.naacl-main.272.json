@@ -1,0 +1,20 @@
+{
+  "title": "ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction",
+  "authors": [
+    "Keshav Santhanam",
+    "Omar Khattab",
+    "Jon Saad-Falcon",
+    "Christopher Potts",
+    "Matei Zaharia"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-main.272",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.272/"
+}

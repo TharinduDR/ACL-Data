@@ -1,0 +1,30 @@
+{
+  "title": "GUIDELLM: Exploring LLM-Guided Conversation with Applications in Autobiography Interviewing",
+  "authors": [
+    "Jinhao Duan",
+    "Xinyu Zhao",
+    "Zhuoxuan Zhang",
+    "Eunhye Ko",
+    "Lily Boddy",
+    "Chenan Wang",
+    "Tianhao Li",
+    "Alexander Rasgon",
+    "Junyuan Hong",
+    "Min Kyung Lee",
+    "Chenxi Yuan",
+    "Qi Long",
+    "Ying Ding",
+    "Tianlong Chen",
+    "Kaidi Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.naacl-long.287",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.287/"
+}

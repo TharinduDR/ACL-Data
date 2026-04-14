@@ -1,0 +1,21 @@
+{
+  "title": "DenseSSM: State Space Models with Dense Hidden Connection for Efficient Large Language Models",
+  "authors": [
+    "Wei He",
+    "Kai Han",
+    "Yehui Tang",
+    "Chengcheng Wang",
+    "Yujie Yang",
+    "Tianyu Guo",
+    "Yunhe Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.467",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.467/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "VisLingInstruct: Elevating Zero-Shot Learning in Multi-Modal Language Models with Autonomous Instruction Optimization",
+  "authors": [
+    "Dongsheng Zhu",
+    "Xunzhu Tang",
+    "Weidong Han",
+    "Jinghui Lu",
+    "Yukun Zhao",
+    "Guoliang Xing",
+    "Junfeng Wang",
+    "Dawei Yin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.117",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.117/"
+}

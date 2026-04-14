@@ -1,0 +1,25 @@
+{
+  "title": "ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models",
+  "authors": [
+    "Ronak Pradeep",
+    "Daniel Lee",
+    "Ali Mousavi",
+    "Jeff Pound",
+    "Yisi Sang",
+    "Jimmy Lin",
+    "Ihab Ilyas",
+    "Saloni Potdar",
+    "Mostafa Arefyan",
+    "Yunyao Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.emnlp-industry.89",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.89/"
+}

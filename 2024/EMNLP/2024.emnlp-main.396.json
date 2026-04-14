@@ -1,0 +1,46 @@
+{
+  "title": "Revealing the Parallel Multilingual Learning within Large Language Models",
+  "authors": [
+    "Yongyu Mu",
+    "Peinan Feng",
+    "Zhiquan Cao",
+    "Yuzhang Wu",
+    "Bei Li",
+    "Chenglong Wang",
+    "Tong Xiao",
+    "Kai Song",
+    "Tongran Liu",
+    "Chunliang Zhang",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Ukrainian",
+    "Italian",
+    "Spanish",
+    "Chinese",
+    "Cantonese",
+    "Japanese",
+    "Korean",
+    "Thai",
+    "Vietnamese",
+    "Indonesian",
+    "Portuguese",
+    "Arabic",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2024.emnlp-main.396",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.396/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SwahBERT: Language Model of Swahili",
+  "authors": [
+    "Gati L Martin",
+    "Medard E Mswahili",
+    "Young-Seob Jeong",
+    "Jiyoung Woo"
+  ],
+  "languages": [
+    "Swahili",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.naacl-main.23",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.23/"
+}

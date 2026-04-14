@@ -1,0 +1,24 @@
+{
+  "title": "SEG2ACT: Global Context-aware Action Generation for Document Logical Structuring",
+  "authors": [
+    "Zichao Li",
+    "Shaojie He",
+    "Meng Liao",
+    "Xuanang Chen",
+    "Yaojie Lu",
+    "Hongyu Lin",
+    "Yanxiong Lu",
+    "Xianpei Han",
+    "Le Sun"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.emnlp-main.1003",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1003/"
+}

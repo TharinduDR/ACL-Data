@@ -1,0 +1,20 @@
+{
+  "title": "Auto-Cypher: Improving LLMs on Cypher generation via LLM-supervised generation-verification framework",
+  "authors": [
+    "Aman Tiwari",
+    "Shiva Krishna Reddy Malay",
+    "Vikas Yadav",
+    "Masoud Hashemi",
+    "Sathwik Tejaswi Madhusudhan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-short.53",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.53/"
+}

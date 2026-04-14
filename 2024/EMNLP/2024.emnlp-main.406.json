@@ -1,0 +1,22 @@
+{
+  "title": "Learning to Retrieve Iteratively for In-Context Learning",
+  "authors": [
+    "Yunmo Chen",
+    "Tongfei Chen",
+    "Harsh Jhamtani",
+    "Patrick Xia",
+    "Richard Shin",
+    "Jason Eisner",
+    "Benjamin Van Durme"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.emnlp-main.406",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.406/"
+}

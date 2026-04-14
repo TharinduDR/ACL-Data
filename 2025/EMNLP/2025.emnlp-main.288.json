@@ -1,0 +1,23 @@
+{
+  "title": "Improving Low-Resource Sequence Labeling with Knowledge Fusion and Contextual Label Explanations",
+  "authors": [
+    "Peichao Lai",
+    "Jiaxin Gan",
+    "Feiyang Ye",
+    "Wentao Zhang",
+    "Fangcheng Fu",
+    "Yilei Wang",
+    "Bin Cui"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.288",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.288/"
+}

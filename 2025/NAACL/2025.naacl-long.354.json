@@ -1,0 +1,20 @@
+{
+  "title": "Wav2Prompt: End-to-End Speech Prompt Learning and Task-based Fine-tuning for Text-based LLMs",
+  "authors": [
+    "Keqi Deng",
+    "Guangzhi Sun",
+    "Philip C. Woodland"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.naacl-long.354",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.354/"
+}

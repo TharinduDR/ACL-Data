@@ -1,0 +1,35 @@
+{
+  "title": "Development of an Enterprise-Grade Contract Understanding System",
+  "authors": [
+    "A. Agarwal",
+    "L. Chiticariu",
+    "P. Chozhiyath Raman",
+    "M. Danilevsky",
+    "D. Ghazi",
+    "A. Gupta",
+    "S. Guttula",
+    "Y. Katsis",
+    "R. Krishnamurthy",
+    "Y. Li",
+    "S. Mudgal",
+    "V. Munigala",
+    "N. Phan",
+    "D. Sonawane",
+    "S. Srinivasan",
+    "S. Thitte",
+    "M. Vasa",
+    "R. Venkatachalam",
+    "V. Yaski",
+    "H. Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.naacl-industry.28",
+  "acl_url": "https://aclanthology.org/2021.naacl-industry.28/"
+}

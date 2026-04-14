@@ -1,0 +1,25 @@
+{
+  "title": "Deploying Tiny LVLM Judges for Real-World Evaluation of Chart Models: Lessons Learned and Best Practices",
+  "authors": [
+    "Md Tahmid Rahman Laskar",
+    "Mohammed Saidul Islam",
+    "Ridwan Mahbub",
+    "Mizanur Rahman",
+    "Md Amran Hossen Bhuiyan",
+    "Israt Jahan",
+    "Mir Tafseer Nayeem",
+    "Shafiq Joty",
+    "Enamul Hoque",
+    "Jimmy Xiangji Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-industry.134",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.134/"
+}

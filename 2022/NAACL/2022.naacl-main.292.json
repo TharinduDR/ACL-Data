@@ -1,0 +1,20 @@
+{
+  "title": "Towards Debiasing Translation Artifacts",
+  "authors": [
+    "Koel Dutta Chowdhury",
+    "Rricha Jalota",
+    "Cristina España-Bonet",
+    "Josef van Genabith"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.naacl-main.292",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.292/"
+}

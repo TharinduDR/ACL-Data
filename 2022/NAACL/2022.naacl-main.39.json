@@ -1,0 +1,21 @@
+{
+  "title": "Fine-tuning Pre-trained Language Models for Few-shot Intent Detection: Supervised Pre-training and Isotropization",
+  "authors": [
+    "Haode Zhang",
+    "Haowen Liang",
+    "Yuwei Zhang",
+    "Liming Zhan",
+    "Xiaolei Lu",
+    "Albert Y.S. Lam",
+    "Xiao-Ming Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2022.naacl-main.39",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.39/"
+}

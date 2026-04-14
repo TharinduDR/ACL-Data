@@ -1,0 +1,27 @@
+{
+  "title": "Using Language Models to Disambiguate Lexical Choices in Translation",
+  "authors": [
+    "Josh Barua",
+    "Sanjay Subramanian",
+    "Kayo Yin",
+    "Alane Suhr"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Armenian",
+    "Persian",
+    "Galician",
+    "Hindi",
+    "Japanese",
+    "Latvian",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-main.278",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.278/"
+}

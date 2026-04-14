@@ -1,0 +1,18 @@
+{
+  "title": "Backward Lens: Projecting Language Model Gradients into the Vocabulary Space",
+  "authors": [
+    "Shahar Katz",
+    "Yonatan Belinkov",
+    "Mor Geva",
+    "Lior Wolf"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.142",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.142/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Generative Models for Product Attribute Extraction",
+  "authors": [
+    "Ansel Blume",
+    "Nasser Zalmout",
+    "Heng Ji",
+    "Xian Li"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.emnlp-industry.55",
+  "acl_url": "https://aclanthology.org/2023.emnlp-industry.55/"
+}

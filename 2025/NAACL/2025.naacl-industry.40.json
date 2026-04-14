@@ -1,0 +1,27 @@
+{
+  "title": "Evaluating Large Language Models with Enterprise Benchmarks",
+  "authors": [
+    "Bing Zhang",
+    "Mikio Takeuchi",
+    "Ryo Kawahara",
+    "Shubhi Asthana",
+    "Md. Maruf Hossain",
+    "Guang-Jie Ren",
+    "Kate Soule",
+    "Yifan Mai",
+    "Yada Zhu"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.naacl-industry.40",
+  "acl_url": "https://aclanthology.org/2025.naacl-industry.40/"
+}

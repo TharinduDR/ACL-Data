@@ -1,0 +1,25 @@
+{
+  "title": "Enhanced Hallucination Detection in Neural Machine Translation through Simple Detector Aggregation",
+  "authors": [
+    "Anas Himmi",
+    "Guillaume Staerman",
+    "Marine Picot",
+    "Pierre Colombo",
+    "Nuno M. Guerreiro"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Arabic",
+    "Russian",
+    "Spanish",
+    "Chinese",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.emnlp-main.1033",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1033/"
+}

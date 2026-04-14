@@ -1,0 +1,23 @@
+{
+  "title": "Discrepancy Detection at the Data Level: Toward Consistent Multilingual Question Answering",
+  "authors": [
+    "Lorena Calvo-Bartolomé",
+    "Valérie Aldana",
+    "Karla Cantarero",
+    "Alonso Madroñal de Mesa",
+    "Jerónimo Arenas-García",
+    "Jordan Boyd-Graber"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1120",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1120/"
+}

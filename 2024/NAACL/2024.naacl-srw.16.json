@@ -1,0 +1,24 @@
+{
+  "title": "Improving Multi-lingual Alignment Through Soft Contrastive Learning",
+  "authors": [
+    "Minsu Park",
+    "Seyeon Choi",
+    "Chanyeol Choi",
+    "Jun-Seong Kim",
+    "Jy-yong Sohn"
+  ],
+  "languages": [
+    "English",
+    "Korean",
+    "French",
+    "Japanese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.naacl-srw.16",
+  "acl_url": "https://aclanthology.org/2024.naacl-srw.16/"
+}

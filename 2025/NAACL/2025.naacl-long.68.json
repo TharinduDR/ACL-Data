@@ -1,0 +1,20 @@
+{
+  "title": "ITALIC: An Italian Culture-Aware Natural Language Benchmark",
+  "authors": [
+    "Andrea Seveso",
+    "Daniele Poterti",
+    "Edoardo Federici",
+    "Mario Mezzanzanica",
+    "Fabio Mercurio"
+  ],
+  "languages": [
+    "Italian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.naacl-long.68",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.68/"
+}

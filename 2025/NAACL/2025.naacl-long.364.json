@@ -1,0 +1,22 @@
+{
+  "title": "Investigating Hallucinations in Simultaneous Machine Translation: Knowledge Distillation Solution and Components Analysis",
+  "authors": [
+    "Donglei Yu",
+    "Xiaomian Kang",
+    "Yuchen Liu",
+    "Feifei Zhai",
+    "Nanchang Cheng",
+    "Yu Zhou",
+    "Chengqing Zong"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.naacl-long.364",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.364/"
+}

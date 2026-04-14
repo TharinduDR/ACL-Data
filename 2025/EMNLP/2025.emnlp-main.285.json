@@ -1,0 +1,25 @@
+{
+  "title": "Tree-of-Quote Prompting Improves Factuality and Attribution in Multi-Hop and Medical Reasoning",
+  "authors": [
+    "Justin Xu",
+    "Yiming Li",
+    "Zizheng Zhang",
+    "Augustine YH Luk",
+    "Mayank Jobanputra",
+    "Samarth Oza",
+    "Ashley Murray",
+    "Meghana R Kasula",
+    "Andrew Parker",
+    "David W Eyre"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.emnlp-main.285",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.285/"
+}

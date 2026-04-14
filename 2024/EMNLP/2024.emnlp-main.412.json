@@ -1,0 +1,22 @@
+{
+  "title": "Aligning Large Language Models with Diverse Political Viewpoints",
+  "authors": [
+    "Dominik Stammback",
+    "Philine Widmer",
+    "Eunjung Cho",
+    "Caglar Gulcehre",
+    "Elliott Ash"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.emnlp-main.412",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.412/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "CLARITY: Clinical Assistant for Routing, Inference, and Triage",
+  "authors": [
+    "Vladimir Shaposhnikov",
+    "Aleksandr Nesterov",
+    "Ilia Kopanichuk",
+    "Ivan Bakulin",
+    "Egor Zhelvakov",
+    "Ruslan Abramov",
+    "Ekaterina Tsapieva",
+    "Iaroslav Bespalov",
+    "Dmitry V. Dylov",
+    "Ivan Oseledets"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-industry.127",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.127/"
+}

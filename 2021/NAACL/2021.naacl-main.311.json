@@ -1,0 +1,23 @@
+{
+  "title": "Self-Training for Unsupervised Neural Machine Translation in Unbalanced Training Data Scenarios",
+  "authors": [
+    "Haipeng Sun",
+    "Rui Wang",
+    "Kehai Chen",
+    "Masao Utiyama",
+    "Eiichiro Sumita",
+    "Tiejun Zhao"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Romanian",
+    "Estonian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2021.naacl-main.311",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.311/"
+}

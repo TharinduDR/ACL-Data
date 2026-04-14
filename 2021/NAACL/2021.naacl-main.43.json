@@ -1,0 +1,18 @@
+{
+  "title": "Open Domain Question Answering over Tables via Dense Retrieval",
+  "authors": [
+    "Jonathan Herzig",
+    "Thomas Müller",
+    "Syrine Krichene",
+    "Julian Martin Eisenschlos"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, extractive and abstractive QA",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.naacl-main.43",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.43/"
+}

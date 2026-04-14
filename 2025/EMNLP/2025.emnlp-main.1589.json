@@ -1,0 +1,31 @@
+{
+  "title": "Token-level Proximal Policy Optimization for Query Generation",
+  "authors": [
+    "Yichen Ouyang",
+    "Lu Wang",
+    "Fangkai Yang",
+    "Pu Zhao",
+    "Chenghua Huang",
+    "Jianfeng Liu",
+    "Bochen Pang",
+    "Yaming Yang",
+    "Yuefeng Zhan",
+    "Hao Sun",
+    "Qingwei Lin",
+    "Saravan Rajmohan",
+    "Weiwei Deng",
+    "Dongmei Zhang",
+    "Feng Sun",
+    "Qi Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1589",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1589/"
+}

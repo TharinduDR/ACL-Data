@@ -1,0 +1,26 @@
+{
+  "title": "WECHSEL: Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models",
+  "authors": [
+    "Benjamin Minixhofer",
+    "Fabian Paischer",
+    "Navid Rekabsaz"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Chinese",
+    "Swahili",
+    "Sundanese",
+    "Scottish Gaelic",
+    "Uyghur",
+    "Malagasy"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-main.293",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.293/"
+}

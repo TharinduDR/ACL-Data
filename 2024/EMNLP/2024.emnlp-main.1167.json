@@ -1,0 +1,24 @@
+{
+  "title": "TokenVerse: Towards Unifying Speech and NLP Tasks via Transducer-based ASR",
+  "authors": [
+    "Shashi Kumar",
+    "Srikanth Madikeri",
+    "Juan Zuluaga-Gomez",
+    "Iulia Thorbecke",
+    "Esaú Villatoro-Tello",
+    "Sergio Burdisso",
+    "Petr Motlcek",
+    "Karthik Pandia",
+    "Aravind Ganapathiraju"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.1167",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1167/"
+}

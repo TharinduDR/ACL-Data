@@ -1,0 +1,23 @@
+{
+  "title": "Multi-Hop Transformer for Document-Level Machine Translation",
+  "authors": [
+    "Long Zhang",
+    "Tong Zhang",
+    "Haibo Zhang",
+    "Baosong Yang",
+    "Wei Ye",
+    "Shikun Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T09 Inference and Reasoning",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.naacl-main.309",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.309/"
+}

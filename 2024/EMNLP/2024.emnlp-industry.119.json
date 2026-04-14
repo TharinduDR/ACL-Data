@@ -1,0 +1,24 @@
+{
+  "title": "Course-Correction: Safety Alignment Using Synthetic Preferences",
+  "authors": [
+    "Rongwu Xu",
+    "Yishuo Cai",
+    "Zhenhong Zhou",
+    "Renjie Gu",
+    "Haiqin Weng",
+    "Yan Liu",
+    "Tianwei Zhang",
+    "Wei Xu",
+    "Han Qiu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2024.emnlp-industry.119",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.119/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Why Do Some Inputs Break Low-Bit LLM Quantization?",
+  "authors": [
+    "Ting-Yun Chang",
+    "Muru Zhang",
+    "Jesse Thomason",
+    "Robin Jia"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.168",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.168/"
+}

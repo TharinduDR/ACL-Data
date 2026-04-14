@@ -1,0 +1,52 @@
+{
+  "title": "Grounding Multilingual Multimodal LLMs With Cultural Knowledge",
+  "authors": [
+    "Jean de Dieu Nyandwi",
+    "Yueqi Song",
+    "Simran Khanuja",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Indonesian",
+    "Spanish",
+    "Turkish",
+    "Japanese",
+    "Portuguese",
+    "Arabic",
+    "Chinese",
+    "Bengali",
+    "Hindi",
+    "Korean",
+    "Persian",
+    "Swahili",
+    "Thai",
+    "Urdu",
+    "Vietnamese",
+    "Czech",
+    "Dutch",
+    "Finnish",
+    "Greek",
+    "Italian",
+    "Malay",
+    "Polish",
+    "Russian",
+    "Sinhala",
+    "Tamil",
+    "Telugu",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.1232",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1232/"
+}

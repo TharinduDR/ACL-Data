@@ -1,0 +1,23 @@
+{
+  "title": "Language Model Based Text-to-Audio Generation: Anti-Causally Aligned Collaborative Residual Transformers",
+  "authors": [
+    "Juncheng Wang",
+    "Chao Xu",
+    "Cheng Yu",
+    "Zhe Hu",
+    "Haoyu Xie",
+    "Guoqi Yu",
+    "Lei Shang",
+    "Shujun Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.emnlp-main.1322",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1322/"
+}

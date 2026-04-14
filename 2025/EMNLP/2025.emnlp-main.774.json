@@ -1,0 +1,18 @@
+{
+  "title": "KLAAD: Refining Attention Mechanisms to Reduce Societal Bias in Generative Language Models",
+  "authors": [
+    "Seorin Kim",
+    "Dongyoung Lee",
+    "Jaejin Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.emnlp-main.774",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.774/"
+}

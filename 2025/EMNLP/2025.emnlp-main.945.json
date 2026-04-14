@@ -1,0 +1,23 @@
+{
+  "title": "ULTRAIF: Advancing Instruction Following from the Wild",
+  "authors": [
+    "Kaikai An",
+    "Li Sheng",
+    "Ganqu Cui",
+    "Shuzheng Si",
+    "Ning Ding",
+    "Yu Cheng",
+    "Baobao Chang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-main.945",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.945/"
+}

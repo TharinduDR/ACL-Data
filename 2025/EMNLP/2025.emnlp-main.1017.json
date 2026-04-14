@@ -1,0 +1,18 @@
+{
+  "title": "Efficient Context Selection for Long-Context QA: No Tuning, No Iteration, Just Adaptive-k",
+  "authors": [
+    "Chihiro Taguchi",
+    "Seiji Maekawa",
+    "Nikita Bhutani"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2025.emnlp-main.1017",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1017/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Fine-Tuning Large Language Models with Sequential Instructions",
+  "authors": [
+    "Hanxu Hu",
+    "Simon Yu",
+    "Pinzhen Chen",
+    "Edoardo M. Ponti"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Russian",
+    "Spanish",
+    "Arabic",
+    "Greek",
+    "Vietnamese",
+    "Hindi",
+    "Turkish",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.288",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.288/"
+}

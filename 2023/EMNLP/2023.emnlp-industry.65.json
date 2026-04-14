@@ -1,0 +1,25 @@
+{
+  "title": "DUBLIN: Visual Document Understanding By Language-Image Network",
+  "authors": [
+    "Kriti Aggarwal",
+    "Aditi Khandelwal",
+    "Kumar Tanmay",
+    "Owais Mohammed Khan",
+    "Qiang Liu",
+    "Monojit Choudhury",
+    "Hardik Hansrajbai Chauhan",
+    "Subhojit Som",
+    "Vishrav Chaudhary",
+    "Saurabh Tiwary"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.emnlp-industry.65",
+  "acl_url": "https://aclanthology.org/2023.emnlp-industry.65/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "MUCAR: Benchmarking Multilingual Cross-Modal Ambiguity Resolution for Multimodal Large Language Models",
+  "authors": [
+    "Xiaolong Wang",
+    "Zhaolu Kang",
+    "Wangyuxuan Zhai",
+    "Xinyue Lou",
+    "Yunghwei Lai",
+    "Ziyue Wang",
+    "Yawen Wang",
+    "Kaiyu Huang",
+    "Yile Wang",
+    "Peng Li",
+    "Yang Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Malay"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.emnlp-main.760",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.760/"
+}

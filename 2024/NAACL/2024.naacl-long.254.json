@@ -1,0 +1,23 @@
+{
+  "title": "Backdoor Attacks on Multilingual Machine Translation",
+  "authors": [
+    "Jun Wang",
+    "Qiongkai Xu",
+    "Xuanli He",
+    "Benjamin I. P. Rubinstein",
+    "Trevor Cohn"
+  ],
+  "languages": [
+    "English",
+    "Indonesian",
+    "Javanese",
+    "Malay",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2024.naacl-long.254",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.254/"
+}

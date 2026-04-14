@@ -1,0 +1,18 @@
+{
+  "title": "ARGCMV: An Argument Summarization Benchmark for the LLM-era",
+  "authors": [
+    "Omkar Gurjar",
+    "Agam Goyal",
+    "Eshwar Chandrasekharan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.emnlp-main.1110",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1110/"
+}

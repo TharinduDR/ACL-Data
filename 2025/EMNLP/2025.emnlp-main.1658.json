@@ -1,0 +1,22 @@
+{
+  "title": "Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning",
+  "authors": [
+    "Chan Young Park",
+    "Jillian Fisher",
+    "Marius Memmel",
+    "Dipika Khullar",
+    "Seohyung Yun",
+    "Abhishek Gupta",
+    "Yejin Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.1658",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1658/"
+}

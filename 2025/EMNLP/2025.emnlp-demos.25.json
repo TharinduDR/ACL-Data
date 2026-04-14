@@ -1,0 +1,28 @@
+{
+  "title": "Co-DETECT: Collaborative Discovery of Edge Cases in Text Classification",
+  "authors": [
+    "Chenfei Xiong",
+    "Jingwei Ni",
+    "Yu Fan",
+    "Vilém Zouhar",
+    "Donya Rooein",
+    "Lorena Calvo-Bartolomé",
+    "Alexander Hoyle",
+    "Zhijing Jin",
+    "Mrinmaya Sachan",
+    "Markus Leippold",
+    "Dirk Hovy",
+    "Mennatallah El-Assady",
+    "Elliott Ash"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-demos.25",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.25/"
+}

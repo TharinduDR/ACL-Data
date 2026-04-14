@@ -1,0 +1,20 @@
+{
+  "title": "Knowledge Graph-Guided Retrieval Augmented Generation",
+  "authors": [
+    "Xiangrong Zhu",
+    "Yuexiang Xie",
+    "Yi Liu",
+    "Yaliang Li",
+    "Wei Hu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.naacl-long.449",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.449/"
+}

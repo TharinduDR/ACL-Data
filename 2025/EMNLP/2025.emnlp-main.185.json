@@ -1,0 +1,25 @@
+{
+  "title": "T²: An Adaptive Test-Time Scaling Strategy for Contextual Question Answering",
+  "authors": [
+    "Zhengyi Zhao",
+    "Shubo Zhang",
+    "Zezhong Wang",
+    "Huimin Wang",
+    "Yutian Zhao",
+    "Bin Liang",
+    "Yefeng Zheng",
+    "Binyang Li",
+    "Kam-Fai Wong",
+    "Xian Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.185",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.185/"
+}

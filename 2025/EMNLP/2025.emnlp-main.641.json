@@ -1,0 +1,21 @@
+{
+  "title": "Breaking Bad Tokens: Detoxification of LLMs Using Sparse Autoencoders",
+  "authors": [
+    "Agam Goyal",
+    "Vedant Rathi",
+    "William Yeh",
+    "Yian Wang",
+    "Yuen Chen",
+    "Hari Sundaram"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.641",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.641/"
+}

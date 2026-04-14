@@ -1,0 +1,24 @@
+{
+  "title": "SERVAL: Surprisingly Effective Zero-Shot Visual Document Retrieval Powered by Large Vision and Language Models",
+  "authors": [
+    "Thong Nguyen",
+    "Yibin Lei",
+    "Jia-Huei Ju",
+    "Andrew Yates"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Chinese",
+    "Swahili",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.emnlp-main.1568",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1568/"
+}

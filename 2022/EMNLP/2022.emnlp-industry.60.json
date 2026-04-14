@@ -1,0 +1,23 @@
+{
+  "title": "PILE: Pairwise Iterative Logits Ensemble for Multi-Teacher Labeled Distillation",
+  "authors": [
+    "Lianshang Cai",
+    "Linhao Zhang",
+    "Dehong Ma",
+    "Jun Fan",
+    "Daiting Shi",
+    "Yi Wu",
+    "Zhichong Cheng",
+    "Simiu Gu",
+    "Dawei Yin"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.emnlp-industry.60",
+  "acl_url": "https://aclanthology.org/2022.emnlp-industry.60/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "TOOLFLOW: Boosting LLM Tool-Calling Through Natural and Coherent Dialogue Synthesis",
+  "authors": [
+    "Zezhong Wang",
+    "Xingshan Zeng",
+    "Weiwen Liu",
+    "Liangyou Li",
+    "Yasheng Wang",
+    "Lifeng Shang",
+    "Xin Jiang",
+    "Qun Liu",
+    "Kam-Fai Wong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.214",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.214/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Expanding before Inferring: Enhancing Factuality in Large Language Models through Premature Layers Interpolation",
+  "authors": [
+    "Dingwei Chen",
+    "Ziqiang Liu",
+    "Feiteng Fang",
+    "Chak Tou Leong",
+    "Shiwen Ni",
+    "Ahmadreza Argha",
+    "Hamid Alinejad-Rokny",
+    "Min Yang",
+    "Chengming Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2025.emnlp-main.645",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.645/"
+}

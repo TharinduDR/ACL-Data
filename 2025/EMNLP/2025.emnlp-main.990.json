@@ -1,0 +1,20 @@
+{
+  "title": "Path Drift in Large Reasoning Models: How First-Person Commitments Override Safety",
+  "authors": [
+    "Yuyi Huang",
+    "Runzhe Zhan",
+    "Lidia S. Chao",
+    "Ailin Tao",
+    "Derek F. Wong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.990",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.990/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Open-Domain Question Answering Goes Conversational via Question Rewriting",
+  "authors": [
+    "Raviteja Anantha",
+    "Svitlana Vakulenko",
+    "Zhucheng Tu",
+    "Shayne Longpre",
+    "Stephen Pulman",
+    "Srinivas Chappidi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.naacl-main.44",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.44/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCOI: Syntax-augmented Coverage-based In-context Example Selection for Machine Translation",
+  "authors": [
+    "Chenming Tang",
+    "Zhixiang Wang",
+    "Yunfang Wu"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.emnlp-main.555",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.555/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Fine-tuning Pre-trained Named Entity Recognition Models For Indian Languages",
+  "authors": [
+    "Sankalp Bahad",
+    "Pruthwik Mishra",
+    "Karunesh Arora",
+    "Rakesh Chandra Balabantaray",
+    "Dipti Misra Sharma",
+    "Parameswari Krishnamurthy"
+  ],
+  "languages": [
+    "Hindi",
+    "Odia",
+    "Telugu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.naacl-srw.9",
+  "acl_url": "https://aclanthology.org/2024.naacl-srw.9/"
+}

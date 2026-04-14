@@ -1,0 +1,26 @@
+{
+  "title": "Lost in Pronunciation: Detecting Chinese Offensive Language Disguised by Phonetic Cloaking Replacement",
+  "authors": [
+    "Haotan Guo",
+    "Jianfei He",
+    "Jiayuan Ma",
+    "Hongbin Na",
+    "Zimu Wang",
+    "Haiyang Zhang",
+    "Qi Chen",
+    "Wei Wang",
+    "Zijing Shi",
+    "Tao Shen",
+    "Ling Chen"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-industry.172",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.172/"
+}

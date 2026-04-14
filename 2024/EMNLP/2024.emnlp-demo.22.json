@@ -1,0 +1,31 @@
+{
+  "title": "OpenResearcher: Unleashing AI for Accelerated Scientific Research",
+  "authors": [
+    "Yuxiang Zheng",
+    "Shichao Sun",
+    "Lin Qiu",
+    "Dongyu Ru",
+    "Cheng Jiayang",
+    "Xuefeng Li",
+    "Jifan Lin",
+    "Binjie Wang",
+    "Yun Luo",
+    "Renjie Pan",
+    "Yang Xu",
+    "Qingkai Min",
+    "Zizhao Zhang",
+    "Yiwen Wang",
+    "Wenjie Li",
+    "Pengfei Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.emnlp-demo.22",
+  "acl_url": "https://aclanthology.org/2024.emnlp-demo.22/"
+}

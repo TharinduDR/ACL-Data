@@ -1,0 +1,23 @@
+{
+  "title": "BPE Gets Picky: Efficient Vocabulary Refinement During Tokenizer Training",
+  "authors": [
+    "Pavel Chizhov",
+    "Catherine Arnett",
+    "Elizaveta Korotkova",
+    "Ivan P. Yamshchikov"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Estonian",
+    "Ukrainian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.925",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.925/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "PROMETHEUS 2: An Open Source Language Model Specialized in Evaluating Other Language Models",
+  "authors": [
+    "Seungone Kim",
+    "Juyoung Suk",
+    "Shayne Longpre",
+    "Bill Yuchen Lin",
+    "Jamin Shin",
+    "Sean Welleck",
+    "Graham Neubig",
+    "Moontae Lee",
+    "Kyungjae Lee",
+    "Minjoon Seo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.248",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.248/"
+}

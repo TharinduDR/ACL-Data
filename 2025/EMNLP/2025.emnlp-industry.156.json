@@ -1,0 +1,22 @@
+{
+  "title": "ECHO-LLaMA: Efficient Caching for High-Performance LLaMA Training",
+  "authors": [
+    "Maryam Dialameh",
+    "Rezaul Karim",
+    "Hossein Rajabzadeh",
+    "Omar Mohamed Awad",
+    "Boxing Chen",
+    "Walid Ahmed",
+    "Yang Liu",
+    "Hyock Ju Kwon"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-industry.156",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.156/"
+}

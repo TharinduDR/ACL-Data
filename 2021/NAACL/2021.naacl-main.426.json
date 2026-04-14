@@ -1,0 +1,23 @@
+{
+  "title": "Self-training Improves Pre-training for Natural Language Understanding",
+  "authors": [
+    "Jingfei Du",
+    "Edouard Grave",
+    "Beliz Gunel",
+    "Vishrav Chaudhary",
+    "Onur Celebi",
+    "Michael Auli",
+    "Veselin Stoyanov",
+    "Alexis Conneau"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.naacl-main.426",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.426/"
+}

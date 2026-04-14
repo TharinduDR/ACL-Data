@@ -1,0 +1,22 @@
+{
+  "title": "CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference",
+  "authors": [
+    "Erxin Yu",
+    "Jing Li",
+    "Ming Liao",
+    "Siqi Wang",
+    "Zuchen Gao",
+    "Fei Mi",
+    "Lanqing Hong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2024.emnlp-main.968",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.968/"
+}

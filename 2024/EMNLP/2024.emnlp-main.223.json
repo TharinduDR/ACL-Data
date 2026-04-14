@@ -1,0 +1,25 @@
+{
+  "title": "Advancing Large Language Model Attribution through Self-Improving",
+  "authors": [
+    "Lei Huang",
+    "Xiaocheng Feng",
+    "Weitao Ma",
+    "Liang Zhao",
+    "Yuchun Fan",
+    "Weihong Zhong",
+    "Dongliang Xu",
+    "Qing Yang",
+    "Hongtao Liu",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.223",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.223/"
+}

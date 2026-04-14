@@ -1,0 +1,27 @@
+{
+  "title": "ViDove: A Translation Agent System with Multimodal Context and Memory-Augmented Reasoning",
+  "authors": [
+    "Yichen Lu",
+    "Wei Dai",
+    "Jiaen Liu",
+    "Ching Wing Kwok",
+    "Zongheng Wu",
+    "Xudong Xiao",
+    "Ao Sun",
+    "Sheng Fu",
+    "Jianyuan Zhan",
+    "Yian Wang",
+    "Takatomo Saito",
+    "Sicheng Lai"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.emnlp-demos.17",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.17/"
+}

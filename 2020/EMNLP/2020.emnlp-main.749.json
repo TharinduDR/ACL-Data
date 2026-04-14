@@ -13,8 +13,8 @@
   ],
   "research_areas": [
     "T18 Text Summarization",
-    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
-    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+    "T10 Question Answering",
+    "T11 Information Extraction"
   ],
   "paper_id": "2020.emnlp-main.749",
   "acl_url": "https://aclanthology.org/2020.emnlp-main.749/"

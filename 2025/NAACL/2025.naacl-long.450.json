@@ -1,0 +1,25 @@
+{
+  "title": "Amphista: Bi-directional Multi-head Decoding for Accelerating LLM Inference",
+  "authors": [
+    "Zeping Li",
+    "Xinlong Yang",
+    "Ziheng Gao",
+    "Ji Liu",
+    "Guanchen Li",
+    "Zhuang Liu",
+    "Dong Li",
+    "Jin Zhang Peng",
+    "Lu Tian",
+    "Emad Barsoum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.naacl-long.450",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.450/"
+}

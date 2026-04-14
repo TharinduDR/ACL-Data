@@ -1,0 +1,19 @@
+{
+  "title": "Compositional Generalisation for Explainable Hate Speech Detection",
+  "authors": [
+    "Agostina Calabrese",
+    "Tom Sherborne",
+    "Björn Ross",
+    "Mirella Lapata"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.703",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.703/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Causal Distillation for Language Models",
+  "authors": [
+    "Zhengxuan Wu",
+    "Atticus Geiger",
+    "Joshua Rozner",
+    "Elisa Kreiss",
+    "Hanson Lu",
+    "Thomas Icard",
+    "Christopher Potts",
+    "Noah D. Goodman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.naacl-main.318",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.318/"
+}

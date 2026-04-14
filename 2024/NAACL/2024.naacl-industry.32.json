@@ -1,0 +1,23 @@
+{
+  "title": "AMA-LSTM: Pioneering Robust and Fair Financial Audio Analysis for Stock Volatility Prediction",
+  "authors": [
+    "Shengkun Wang",
+    "Taoran Ji",
+    "Jianfeng He",
+    "Mariam Almutairi",
+    "Dan Wang",
+    "Linhan Wang",
+    "Min Zhang",
+    "Chang-Tien Lu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.naacl-industry.32",
+  "acl_url": "https://aclanthology.org/2024.naacl-industry.32/"
+}

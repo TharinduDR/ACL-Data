@@ -1,0 +1,21 @@
+{
+  "title": "X-PARADE: Cross-Lingual Textual Entailment and Information Divergence across Paragraphs",
+  "authors": [
+    "Juan Diego Rodriguez",
+    "Katrin Erk",
+    "Greg Durrett"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Hindi",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.66",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.66/"
+}

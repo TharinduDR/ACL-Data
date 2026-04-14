@@ -1,0 +1,21 @@
+{
+  "title": "Investigating Table-to-Text Generation Capabilities of LLMs in Real-World Information Seeking Scenarios",
+  "authors": [
+    "Yilun Zhao",
+    "Haowei Zhang",
+    "Shengyun Si",
+    "Linyong Nan",
+    "Xiangru Tang",
+    "Arman Cohan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.emnlp-industry.17",
+  "acl_url": "https://aclanthology.org/2023.emnlp-industry.17/"
+}

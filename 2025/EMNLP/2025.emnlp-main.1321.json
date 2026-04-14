@@ -1,0 +1,46 @@
+{
+  "title": "Definition Generation for Word Meaning Modeling: Monolingual, Multilingual, and Cross-Lingual Perspectives",
+  "authors": [
+    "Francesco Periti",
+    "Roksana Goworek",
+    "Haim Dubossarsky",
+    "Nina Tahmasebi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Dutch",
+    "Swedish",
+    "Norwegian",
+    "Danish",
+    "Catalan",
+    "Japanese",
+    "Chinese",
+    "Kurdish",
+    "Malagasy",
+    "Lithuanian",
+    "Latin",
+    "Russian",
+    "Polish",
+    "Finnish",
+    "Greek",
+    "Turkish",
+    "Persian",
+    "Cantonese",
+    "Indonesian",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1321",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1321/"
+}

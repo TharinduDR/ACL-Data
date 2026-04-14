@@ -1,0 +1,23 @@
+{
+  "title": "AQuilt: Weaving Logic and Self-Inspection into Low-Cost, High-Relevance Data Synthesis for Specialist LLMs",
+  "authors": [
+    "Xiaopeng Ke",
+    "Hexuan Deng",
+    "Xuebo Liu",
+    "Jun Rao",
+    "Zhenxi Song",
+    "Jun Yu",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.293",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.293/"
+}

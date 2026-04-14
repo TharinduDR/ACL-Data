@@ -1,0 +1,30 @@
+{
+  "title": "Bilingual Tabular Inference: A Case Study on Indic Languages",
+  "authors": [
+    "Chaitanya Agarwal",
+    "Vivek Gupta",
+    "Anoop Kunchukuttan",
+    "Manish Shrivastava"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Hindi",
+    "Gujarati",
+    "Punjabi",
+    "Tamil",
+    "Malayalam",
+    "Kannada",
+    "Telugu",
+    "Assamese",
+    "Marathi",
+    "Oriya"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-main.295",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.295/"
+}

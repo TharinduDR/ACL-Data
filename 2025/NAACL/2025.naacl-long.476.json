@@ -1,0 +1,23 @@
+{
+  "title": "MASTER: A Multi-Agent System with LLM Specialized MCTS",
+  "authors": [
+    "Bingzheng Gan",
+    "Yufan Zhao",
+    "Tianyi Zhang",
+    "Jing Huang",
+    "Yusu Li",
+    "Shu Xian Teo",
+    "Changwang Zhang",
+    "Wei Shi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.naacl-long.476",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.476/"
+}

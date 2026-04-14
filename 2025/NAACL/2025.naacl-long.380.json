@@ -1,0 +1,23 @@
+{
+  "title": "How to Make the Most of LLMs' Grammatical Knowledge for Acceptability Judgments",
+  "authors": [
+    "Yusuke Ide",
+    "Yuto Nishida",
+    "Justin Vasselli",
+    "Miyu Oba",
+    "Yusuke Sakai",
+    "Hidetaka Kamigaito",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.380",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.380/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Training LLMs to be Better Text Embedders through Bidirectional Reconstruction",
+  "authors": [
+    "Chang Su",
+    "Dengliang Shi",
+    "Siyuan Huang",
+    "Jintao Du",
+    "Changhua Meng",
+    "Yu Cheng",
+    "Weiqiang Wang",
+    "Zhouhan Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.emnlp-main.216",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.216/"
+}

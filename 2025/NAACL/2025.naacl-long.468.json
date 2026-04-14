@@ -1,0 +1,22 @@
+{
+  "title": "A Mixed-Language Multi-Document News Summarization Dataset and a Graphs-Based Extract-Generate Model",
+  "authors": [
+    "Shengxiang Gao",
+    "Fang Nan",
+    "Yongbing Zhang",
+    "Yuxin Huang",
+    "Kaiwen Tan",
+    "Zhengtao Yu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.naacl-long.468",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.468/"
+}

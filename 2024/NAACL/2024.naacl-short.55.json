@@ -1,0 +1,46 @@
+{
+  "title": "A diverse Multilingual News Headlines Dataset from around the World",
+  "authors": [
+    "Felix Leeb",
+    "Bernhard Schölkopf"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Chinese",
+    "German",
+    "Portuguese",
+    "Arabic",
+    "Indonesian",
+    "Italian",
+    "Turkish",
+    "Greek",
+    "Japanese",
+    "Polish",
+    "Russian",
+    "Dutch",
+    "Thai",
+    "Swedish",
+    "Korean",
+    "Serbian",
+    "Hungarian",
+    "Czech",
+    "Hebrew",
+    "Bulgarian",
+    "Ukrainian",
+    "Romanian",
+    "Norwegian",
+    "Slovak",
+    "Latvian",
+    "Lithuanian",
+    "Slovenian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2024.naacl-short.55",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.55/"
+}

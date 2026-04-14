@@ -1,0 +1,50 @@
+{
+  "title": "No Culture Left Behind: ArtELingo-28, a Benchmark of WikiArt with Captions in 28 Languages",
+  "authors": [
+    "Youssef Mohamed",
+    "Runjia Li",
+    "Ibrahim Said Ahmad",
+    "Kilichbek Haydarov",
+    "Philip Torr",
+    "Kenneth Ward Church",
+    "Mohamed Elhoseiny"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "Burmese",
+    "Kinyarwanda",
+    "Swahili",
+    "Thai",
+    "Hindi",
+    "Indonesian",
+    "Vietnamese",
+    "Malay",
+    "Turkish",
+    "Darija",
+    "Urdu",
+    "Korean",
+    "Zulu",
+    "Xhosa",
+    "Igbo",
+    "Yoruba",
+    "Tamil",
+    "Tagalog",
+    "Kazakh",
+    "Kyrgyz",
+    "Setswana",
+    "IsiZulu",
+    "IsiXhosa",
+    "Emakhuwa",
+    "Hausa",
+    "Bengali"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.1165",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1165/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "STACKFEED: Structured Textual Actor-Critic Knowledge base editing with FEEDback",
+  "authors": [
+    "Shashank Kirtania",
+    "Naman Gupta",
+    "Priyanshu Gupta",
+    "Sumit Gulwani",
+    "Arun Iyer",
+    "Suresh Parthasarathy",
+    "Arjun Radhakrishna",
+    "Sriram K. Rajamani",
+    "Gustavo Soares"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-industry.176",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.176/"
+}

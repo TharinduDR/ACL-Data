@@ -1,0 +1,23 @@
+{
+  "title": "Task-aware Contrastive Mixture of Experts for Quadruple Extraction in Conversations with Code-like Replies and Non-opinion Detection",
+  "authors": [
+    "Chenyuan He",
+    "Fei Gao",
+    "Hongde Liu",
+    "Senbin Zhu",
+    "Yuxiang Jia",
+    "Hongying Zan",
+    "Min Peng"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2025.emnlp-main.207",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.207/"
+}

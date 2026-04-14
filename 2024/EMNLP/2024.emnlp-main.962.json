@@ -1,0 +1,20 @@
+{
+  "title": "MedCoT: Medical Chain of Thought via Hierarchical Expert",
+  "authors": [
+    "Jiaxiang Liu",
+    "Yuan Wang",
+    "Jiawei Du",
+    "Joey Tianyi Zhou",
+    "Zuozhu Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.emnlp-main.962",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.962/"
+}

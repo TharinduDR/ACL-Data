@@ -1,0 +1,23 @@
+{
+  "title": "Word Alignment as Preference for Machine Translation",
+  "authors": [
+    "Qiyu Wu",
+    "Masaaki Nagata",
+    "Zhongtao Miao",
+    "Yoshimasa Tsuruoka"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Icelandic",
+    "Russian",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.188",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.188/"
+}

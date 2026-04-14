@@ -1,0 +1,23 @@
+{
+  "title": "TOBUGraph: Knowledge Graph-Based Retrieval for Enhanced LLM Performance Beyond RAG",
+  "authors": [
+    "Savini Kashmira",
+    "Jayanaka L. Dantanarayana",
+    "Joshua Brodsky",
+    "Ashish Mahendra",
+    "Yiping Kang",
+    "Krisztian Flautner",
+    "Lingjia Tang",
+    "Jason Mars"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-industry.93",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.93/"
+}

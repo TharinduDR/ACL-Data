@@ -1,0 +1,21 @@
+{
+  "title": "DASA-Trans-STM: Adaptive Efficient Transformer for Short Text Matching using Data Augmentation and Semantic Awareness",
+  "authors": [
+    "Jiguo Liu",
+    "Chao Liu",
+    "Meimei Li",
+    "Nan Li",
+    "Shihao Gao",
+    "Dali Zhu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2025.emnlp-main.228",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.228/"
+}

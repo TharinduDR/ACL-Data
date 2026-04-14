@@ -1,0 +1,21 @@
+{
+  "title": "3MDBench: Medical Multimodal Multi-agent Dialogue Benchmark",
+  "authors": [
+    "Ivan Sviridov",
+    "Amina Miftakhova",
+    "Artemiy Tereshchenko",
+    "Galina Zubkova",
+    "Pavel Blinov",
+    "Andrey Savchenko"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.emnlp-main.1353",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1353/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "LogicST: A Logical Self-Training Framework for Document-Level Relation Extraction with Incomplete Annotations",
+  "authors": [
+    "Shengda Fan",
+    "Yanting Wang",
+    "Shasha Mo",
+    "Jianwei Niu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.emnlp-main.314",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.314/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "MedTutor: A Retrieval-Augmented LLM System for Case-Based Medical Education",
+  "authors": [
+    "Dongsuk Jang",
+    "Ziyao Shangguan",
+    "Kyle Tegtmeyer",
+    "Anurag Gupta",
+    "Jan Czerminski",
+    "Sophie Chheang",
+    "Arman Cohan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T29 NLP for education",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-demos.24",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.24/"
+}

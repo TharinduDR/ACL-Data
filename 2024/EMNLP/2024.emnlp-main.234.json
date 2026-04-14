@@ -1,0 +1,20 @@
+{
+  "title": "When Context Leads but Parametric Memory Follows in Large Language Models",
+  "authors": [
+    "Yufei Tao",
+    "Adam Hiatt",
+    "Erik Haake",
+    "Antonie J. Jetter",
+    "Ameeta Agrawal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.234",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.234/"
+}

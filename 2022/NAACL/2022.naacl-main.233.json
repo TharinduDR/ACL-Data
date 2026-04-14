@@ -1,0 +1,22 @@
+{
+  "title": "A Dataset for N-ary Relation Extraction of Drug Combinations",
+  "authors": [
+    "Aryeh Tiktinsky",
+    "Vijay Viswanathan",
+    "Danna Niezni",
+    "Dana Meron Azagury",
+    "Yosi Shamay",
+    "Hillel Taub-Tabib",
+    "Tom Hope",
+    "Yoav Goldberg"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.naacl-main.233",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.233/"
+}

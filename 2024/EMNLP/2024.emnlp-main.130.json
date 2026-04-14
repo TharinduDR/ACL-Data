@@ -1,0 +1,21 @@
+{
+  "title": "FuseGen: PLM Fusion for Data-generation based Zero-shot Learning",
+  "authors": [
+    "Tianyuan Zou",
+    "Yang Liu",
+    "Peng Li",
+    "Jianqing Zhang",
+    "Jingjing Liu",
+    "Ya-Qin Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.emnlp-main.130",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.130/"
+}

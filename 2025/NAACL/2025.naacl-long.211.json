@@ -1,0 +1,19 @@
+{
+  "title": "The Good, The Bad, and The Greedy: Evaluation of LLMs Should Not Ignore Non-Determinism",
+  "authors": [
+    "Yifan Song",
+    "Guoyin Wang",
+    "Sujian Li",
+    "Bill Yuchen Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.naacl-long.211",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.211/"
+}

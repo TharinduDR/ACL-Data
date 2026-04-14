@@ -1,0 +1,27 @@
+{
+  "title": "Taming Text-to-Image Synthesis for Novices: User-centric Prompt Generation via Multi-turn Guidance",
+  "authors": [
+    "Yilun Liu",
+    "Minggui He",
+    "Feiyu Yao",
+    "Yuhe Ji",
+    "Shimin Tao",
+    "Jingzhou Du",
+    "Duan Li",
+    "Jian Gao",
+    "Li Zhang",
+    "Hao Yang",
+    "Boxing Chen",
+    "Osamu Yoshie"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.444",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.444/"
+}

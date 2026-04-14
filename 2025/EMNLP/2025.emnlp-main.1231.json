@@ -1,0 +1,20 @@
+{
+  "title": "LLMs Don't Know Their Own Decision Boundaries: The Unreliability of Self-Generated Counterfactual Explanations",
+  "authors": [
+    "Harry Mayne",
+    "Ryan Othniel Kearns",
+    "Yushi Yang",
+    "Andrew M. Bean",
+    "Eoin Delaney",
+    "Chris Russell",
+    "Adam Mahdi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.1231",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1231/"
+}

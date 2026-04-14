@@ -1,0 +1,17 @@
+{
+  "title": "Interpreting Context Look-ups in Transformers: Investigating Attention-MLP Interactions",
+  "authors": [
+    "Clement Neo",
+    "Shay B. Cohen",
+    "Fazl Barez"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.930",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.930/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Detecting Omissions in LLM-Generated Medical Summaries",
+  "authors": [
+    "Achir Oukelmoun",
+    "Nasredine Semmar",
+    "Gaël de Chalendar",
+    "Clément Cormi",
+    "Mariame Oukelmoun",
+    "Eric Vibert",
+    "Marc-Antoine Allard"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.emnlp-industry.22",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.22/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Unraveling Babel: Exploring Multilingual Activation Patterns of LLMs and Their Applications",
+  "authors": [
+    "Weize Liu",
+    "Yinlong Xu",
+    "Hongxia Xu",
+    "Jintai Chen",
+    "Xuming Hu",
+    "Jian Wu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Bengali",
+    "Urdu",
+    "Hindi",
+    "Arabic",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-main.662",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.662/"
+}

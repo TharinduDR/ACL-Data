@@ -1,0 +1,19 @@
+{
+  "title": "Masked Conditional Random Fields for Sequence Labeling",
+  "authors": [
+    "Tianwen Wei",
+    "Jianwei Qi",
+    "Shenghuan He",
+    "Songtao Sun"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.naacl-main.163",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.163/"
+}

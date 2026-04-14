@@ -1,0 +1,29 @@
+{
+  "title": "Mastering the Craft of Data Synthesis for CodeLLMs",
+  "authors": [
+    "Meng Chen",
+    "Philip Arthur",
+    "Qianyu Feng",
+    "Cong Duy Vu Hoang",
+    "Yu-Heng Hong",
+    "Mahdi Kazemi Moghaddam",
+    "Omid Nezami",
+    "Thien Nguyen",
+    "Gioacchino Tangari",
+    "Duy Vu",
+    "Thanh Vu",
+    "Mark Johnson",
+    "Krishnaram Kenthapadi",
+    "Don Dharmasiri",
+    "Long Duong",
+    "Yuan-Fang Li"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.620",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.620/"
+}

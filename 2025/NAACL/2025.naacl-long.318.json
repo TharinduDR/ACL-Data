@@ -1,0 +1,32 @@
+{
+  "title": "FinEval: A Chinese Financial Domain Knowledge Evaluation Benchmark for Large Language Models",
+  "authors": [
+    "Xin Guo",
+    "Haotian Xia",
+    "Zhaowei Liu",
+    "Hanyang Cao",
+    "Zhi Yang",
+    "Zhiqiang Liu",
+    "Sizhe Wang",
+    "Jinyi Niu",
+    "Chuqi Wang",
+    "Yanhui Wang",
+    "Xiaolong Liang",
+    "Xiaoming Huang",
+    "Bing Zhu",
+    "Zhongyu Wei",
+    "Yun Chen",
+    "Weining Shen",
+    "Liwen Zhang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.naacl-long.318",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.318/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "MoFE: Mixture of Frozen Experts Architecture",
+  "authors": [
+    "Jean Seo",
+    "Jaeyoon Kim",
+    "Hyopil Shin"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.naacl-industry.28",
+  "acl_url": "https://aclanthology.org/2025.naacl-industry.28/"
+}

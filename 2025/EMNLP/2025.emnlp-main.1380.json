@@ -1,0 +1,29 @@
+{
+  "title": "Enhancing LLM Language Adaption through Cross-lingual In-Context Pre-training",
+  "authors": [
+    "Linjuan Wu",
+    "Haoran Wei",
+    "Huan Lin",
+    "Tianhao Li",
+    "Baosong Yang",
+    "Fei Huang",
+    "Weiming Lu"
+  ],
+  "languages": [
+    "Arabic",
+    "Spanish",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Thai",
+    "Chinese",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.1380",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1380/"
+}

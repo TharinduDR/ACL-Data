@@ -1,0 +1,19 @@
+{
+  "title": "PoSum-Bench: Benchmarking Position Bias in LLM-based Conversational Summarization",
+  "authors": [
+    "Xu SUN",
+    "Lionel Delphin-Poulat",
+    "Christèle Tarnec",
+    "Anastasia Shimorina"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.404",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.404/"
+}

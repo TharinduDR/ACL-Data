@@ -1,0 +1,19 @@
+{
+  "title": "Effective Large Language Model Adaptation for Improved Grounding and Citation Generation",
+  "authors": [
+    "Xi Ye",
+    "Ruoxi Sun",
+    "Sercan Ö. Arık",
+    "Tomas Pfister"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.naacl-long.346",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.346/"
+}

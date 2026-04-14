@@ -1,0 +1,26 @@
+{
+  "title": "ProLongVid: A Simple but Strong Baseline for Long-context Video Instruction Tuning",
+  "authors": [
+    "Rui Wang",
+    "Bohao Li",
+    "Xiyang Dai",
+    "Jianwei Yang",
+    "Yi-Ling Chen",
+    "Zhen Xing",
+    "Yifan Yang",
+    "Dongdong Chen",
+    "Xipeng Qiu",
+    "Zuxuan Wu",
+    "Yu-Gang Jiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.1570",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1570/"
+}

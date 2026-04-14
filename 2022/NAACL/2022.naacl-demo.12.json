@@ -1,0 +1,28 @@
+{
+  "title": "PaddleSpeech: An Easy-to-Use All-in-One Speech Toolkit",
+  "authors": [
+    "Hui Zhang",
+    "Tian Yuan",
+    "Junkun Chen",
+    "Xintong Li",
+    "Renjie Zheng",
+    "Yuxin Huang",
+    "Xiaojie Chen",
+    "Enlei Gong",
+    "Zeyu Chen",
+    "Xiaoguang Hu",
+    "Dianhai Yu",
+    "Yanjun Ma",
+    "Liang Huang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.naacl-demo.12",
+  "acl_url": "https://aclanthology.org/2022.naacl-demo.12/"
+}

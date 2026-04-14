@@ -1,0 +1,43 @@
+{
+  "title": "Getting The Most Out of Your Training Data: Exploring Unsupervised Tasks for Morphological Inflection",
+  "authors": [
+    "Abhishek Purushothama",
+    "Adam Wiemerslage",
+    "Katharina von der Wense"
+  ],
+  "languages": [
+    "Arabic",
+    "Amharic",
+    "Arabic, Egyptian",
+    "Belarusian",
+    "Danish",
+    "German",
+    "English",
+    "Finnish",
+    "French",
+    "Ancient Greek",
+    "Hebrew",
+    "Hebrew, Unvocalized",
+    "Hungarian",
+    "Eastern Armenian",
+    "Italian",
+    "Japanese",
+    "Georgian",
+    "Khaling",
+    "Macedonian",
+    "Navajo",
+    "Russian",
+    "Sanskrit",
+    "Sami",
+    "Spanish",
+    "Albanian",
+    "Swahili",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.emnlp-main.1055",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1055/"
+}

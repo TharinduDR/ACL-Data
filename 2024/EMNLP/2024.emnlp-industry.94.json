@@ -1,0 +1,21 @@
+{
+  "title": "Prompt Leakage effect and defense strategies for multi-turn LLM interactions",
+  "authors": [
+    "Divyansh Agarwal",
+    "Alexander R. Fabbri",
+    "Ben Risher",
+    "Philippe Laban",
+    "Shafiq Joty",
+    "Chien-Sheng Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2024.emnlp-industry.94",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.94/"
+}

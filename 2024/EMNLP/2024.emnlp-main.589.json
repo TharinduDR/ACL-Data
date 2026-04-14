@@ -1,0 +1,20 @@
+{
+  "title": "Decoding Matters: Addressing Amplification Bias and Homogeneity Issue for LLM-based Recommendation",
+  "authors": [
+    "Keqin Bao",
+    "Jizhi Zhang",
+    "Yang Zhang",
+    "Xinyue Huo",
+    "Chong Chen",
+    "Fuli Feng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.589",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.589/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Static Word Embeddings for Sentence Semantic Representation",
+  "authors": [
+    "Takashi Wada",
+    "Yuki Hirakawa",
+    "Ryotaro Shimizu",
+    "Takahiro Kawashima",
+    "Yuki Saito"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.emnlp-main.316",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.316/"
+}

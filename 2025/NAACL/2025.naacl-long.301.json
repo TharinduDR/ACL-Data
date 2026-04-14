@@ -1,0 +1,19 @@
+{
+  "title": "Do RAG Systems Cover What Matters? Evaluating and Optimizing Responses with Sub-Question Coverage",
+  "authors": [
+    "Kaige Xie",
+    "Philippe Laban",
+    "Prafulla Kumar Choubey",
+    "Caiming Xiong",
+    "Chien-Sheng Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.301",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.301/"
+}

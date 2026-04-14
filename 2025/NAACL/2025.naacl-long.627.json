@@ -1,0 +1,20 @@
+{
+  "title": "Tonguescape: Exploring Language Models Understanding of Vowel Articulation",
+  "authors": [
+    "Haruki Sakajo",
+    "Yusuke Sakai",
+    "Hidetaka Kamigaito",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.naacl-long.627",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.627/"
+}

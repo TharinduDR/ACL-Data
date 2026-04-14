@@ -1,0 +1,18 @@
+{
+  "title": "CoRAG: Collaborative Retrieval-Augmented Generation",
+  "authors": [
+    "Aashiq Muhammed",
+    "Mona Diab",
+    "Virginia Smith"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-short.23",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.23/"
+}

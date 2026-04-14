@@ -1,0 +1,33 @@
+{
+  "title": "DynamicNER: A Dynamic, Multilingual, and Fine-Grained Dataset for LLM-based Named Entity Recognition",
+  "authors": [
+    "Hanjun Luo",
+    "Yingbin Jin",
+    "Yiran Wang",
+    "Xinfeng Li",
+    "Tong Shang",
+    "Xuecheng Liu",
+    "Ruizhe Chen",
+    "Kun Wang",
+    "Hanan Salam",
+    "Qingsong Wen",
+    "ZuoZhu Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "French",
+    "German",
+    "Japanese",
+    "Korean",
+    "Russian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.835",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.835/"
+}

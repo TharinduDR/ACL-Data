@@ -1,0 +1,25 @@
+{
+  "title": "On the Multilingual Ability of Decoder-based Pre-trained Language Models: Finding and Controlling Language-Specific Neurons",
+  "authors": [
+    "Takeshi Kojima",
+    "Itsuki Okimura",
+    "Yusuke Iwasawa",
+    "Hitomi Yanaka",
+    "Yutaka Matsuo"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.naacl-long.384",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.384/"
+}

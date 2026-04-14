@@ -1,0 +1,24 @@
+{
+  "title": "I've Decided to Leak: Probing Internals Behind Prompt Leakage Intents",
+  "authors": [
+    "Jianshuo Dong",
+    "Yutong Zhang",
+    "Yan Liu",
+    "Zhenyu Zhong",
+    "Tao Wei",
+    "Ke Xu",
+    "Minlie Huang",
+    "Chao Zhang",
+    "Han Qiu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1082",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1082/"
+}

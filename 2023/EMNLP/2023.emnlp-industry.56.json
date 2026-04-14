@@ -1,0 +1,24 @@
+{
+  "title": "CarExpert: Leveraging Large Language Models for In-Car Conversational Question Answering",
+  "authors": [
+    "Md Rashad Al Hasan Rony",
+    "Christian Süß",
+    "Sinchana Ramakanth Bhat",
+    "Viju Sudhi",
+    "Julia Schneider",
+    "Maximilian Vogel",
+    "Roman Teucher",
+    "Ken E. Friedl",
+    "Soumya Sahoo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.emnlp-industry.56",
+  "acl_url": "https://aclanthology.org/2023.emnlp-industry.56/"
+}

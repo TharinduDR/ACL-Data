@@ -1,0 +1,21 @@
+{
+  "title": "Can Prompts Rewind Time for LLMs? Evaluating the Effectiveness of Prompted Knowledge Cutoffs",
+  "authors": [
+    "Xin Gao",
+    "Ruiyi Zhang",
+    "Daniel Du",
+    "Saurabh Mahindre",
+    "Sai Ashish Somayajula",
+    "Pengtao Xie"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.emnlp-main.1049",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1049/"
+}

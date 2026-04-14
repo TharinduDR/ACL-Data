@@ -1,0 +1,25 @@
+{
+  "title": "kNN-ICL: Compositional Task-Oriented Parsing Generalization with Nearest Neighbor In-Context Learning",
+  "authors": [
+    "Wenting Zhao",
+    "Ye Liu",
+    "Yao Wan",
+    "Yibo Wang",
+    "Qingyang Wu",
+    "Zhongfen Deng",
+    "Jiangshu Du",
+    "Shuaiqi Liu",
+    "Yunlong Xu",
+    "Philip S. Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.naacl-long.19",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.19/"
+}

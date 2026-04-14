@@ -1,0 +1,24 @@
+{
+  "title": "Semi-supervised Adversarial Text Generation based on Seq2Seq models",
+  "authors": [
+    "Hieu Le",
+    "Dieu-Thu Le",
+    "Verena Weber",
+    "Chris Church",
+    "Kay Rottmann",
+    "Melanie Bradford",
+    "Peter Chin"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-industry.26",
+  "acl_url": "https://aclanthology.org/2022.emnlp-industry.26/"
+}

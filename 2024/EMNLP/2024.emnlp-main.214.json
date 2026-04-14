@@ -1,0 +1,28 @@
+{
+  "title": "What do Large Language Models Need for Machine Translation Evaluation?",
+  "authors": [
+    "Shenbin Qian",
+    "Archchana Sindhuja",
+    "Minnie Kabra",
+    "Diptesh Kanojia",
+    "Constantin Orăsan",
+    "Tharindu Ranasinghe",
+    "Frédéric Blain"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Estonian",
+    "Nepali",
+    "Romanian",
+    "Russian",
+    "Sinhala"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.214",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.214/"
+}

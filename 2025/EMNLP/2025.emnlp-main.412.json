@@ -1,0 +1,25 @@
+{
+  "title": "NILE: Internal Consistency Alignment in Large Language Models",
+  "authors": [
+    "Minda Hu",
+    "Qiyuan Zhang",
+    "Yufei Wang",
+    "Bowei He",
+    "Hongru Wang",
+    "Jingyan Zhou",
+    "Liangyou Li",
+    "Yasheng Wang",
+    "Chen Ma",
+    "Irwin King"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.412",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.412/"
+}

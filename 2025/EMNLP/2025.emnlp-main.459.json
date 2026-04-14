@@ -1,0 +1,21 @@
+{
+  "title": "LLM-OREF: An Open Relation Extraction Framework Based on Large Language Models",
+  "authors": [
+    "Hongyao Tu",
+    "Liang Zhang",
+    "Yujie Lin",
+    "Xin Lin",
+    "Haibo Zhang",
+    "Long Zhang",
+    "Jinsong Su"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.459",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.459/"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Efficient Unseen Language Adaptation for Multilingual Pre-Trained Language Models",
+  "authors": [
+    "Po-Heng Chen",
+    "Yun-Nung Chen"
+  ],
+  "languages": [
+    "English",
+    "Igbo",
+    "Lingala",
+    "Luganda",
+    "Naija",
+    "Rundi",
+    "chiShona",
+    "Tigrinya",
+    "Yorùbá",
+    "Aymara",
+    "Bribri",
+    "Asháninka",
+    "Guarani",
+    "Wixarika",
+    "Náhuatl",
+    "Otomi",
+    "Quechua",
+    "Rarámuri",
+    "Shipibo-Konibo"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.emnlp-main.1057",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1057/"
+}

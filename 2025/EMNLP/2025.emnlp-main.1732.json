@@ -1,0 +1,22 @@
+{
+  "title": "Lookahead Q-Cache: Achieving More Consistent KV Cache Eviction via Pseudo Query",
+  "authors": [
+    "Yixuan Wang",
+    "Shiyu Ji",
+    "Yijun Liu",
+    "Yuzhuang Xu",
+    "Yang Xu",
+    "Qingfu Zhu",
+    "Wanxiang Che"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.emnlp-main.1732",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1732/"
+}

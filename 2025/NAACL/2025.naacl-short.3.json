@@ -1,0 +1,23 @@
+{
+  "title": "ChaI-TeA: A Benchmark for Evaluating Autocompletion of Interactions with LLM-based Chatbots",
+  "authors": [
+    "Shani Goren",
+    "Oren Kalinsky",
+    "Tomer Stav",
+    "Yuri Rapoport",
+    "Yaron Fairstein",
+    "Ram Yazdi",
+    "Nachshon Cohen",
+    "Alexander Libov",
+    "Guy Kushilevitz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-short.3",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.3/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Med-PRM: Medical Reasoning Models with Stepwise, Guideline-verified Process Rewards",
+  "authors": [
+    "Jaehoon Yun",
+    "Jiwoong Sohn",
+    "Jungwoo Park",
+    "Hyunjae Kim",
+    "Xiangru Tang",
+    "Yanjun Shao",
+    "Yonghoe Koo",
+    "Minhyeok Ko",
+    "Qingyu Chen",
+    "Mark Gerstein",
+    "Michael Moor",
+    "Jaewoo Kang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T10 Question Answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.837",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.837/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "ASL STEM Wiki: Dataset and Benchmark for Interpreting STEM Articles",
+  "authors": [
+    "Kayo Yin",
+    "Chinmay Singh",
+    "Fyodor O Minakov",
+    "Vanessa Milan",
+    "Hal Daumé III",
+    "Cyril Zhang",
+    "Alex X. Lu",
+    "Danielle Bragg"
+  ],
+  "languages": [
+    "English",
+    "American Sign Language"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.emnlp-main.801",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.801/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "MART: Improving LLM Safety with Multi-round Automatic Red-Teaming",
+  "authors": [
+    "Suyu Ge",
+    "Chunting Zhou",
+    "Rui Hou",
+    "Madian Khabsa",
+    "Yi-Chia Wang",
+    "Qifan Wang",
+    "Jiawei Han",
+    "Yuning Mao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.107",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.107/"
+}

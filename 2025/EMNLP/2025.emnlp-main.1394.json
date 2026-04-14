@@ -1,0 +1,23 @@
+{
+  "title": "You Are What You Train: Effects of Data Composition on Training Context-aware Machine Translation Models",
+  "authors": [
+    "Paweł Mąka",
+    "Yusuf Can Semerci",
+    "Jan Scholtes",
+    "Gerasimos Spanakis"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Polish",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1394",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1394/"
+}

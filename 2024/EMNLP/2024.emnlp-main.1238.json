@@ -1,0 +1,22 @@
+{
+  "title": "Simul-MuST-C: Simultaneous Multilingual Speech Translation Corpus Using Large Language Model",
+  "authors": [
+    "Mana Makinae",
+    "Yusuke Sakai",
+    "Hidetaka Kamigaito",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Chinese",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.emnlp-main.1238",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1238/"
+}

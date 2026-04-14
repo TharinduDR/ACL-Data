@@ -1,0 +1,21 @@
+{
+  "title": "LRQ: Optimizing Post-Training Quantization for Large Language Models by Learning Low-Rank Weight-Scaling Matrices",
+  "authors": [
+    "Jung Hyun Lee",
+    "Jeonghoon Kim",
+    "June Yong Yang",
+    "Se Jung Kwon",
+    "Eunho Yang",
+    "Kang Min Yoo",
+    "Dongsoo Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.393",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.393/"
+}

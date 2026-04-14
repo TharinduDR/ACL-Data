@@ -1,0 +1,28 @@
+{
+  "title": "THREAD: A Logic-Based Data Organization Paradigm for How-To Question Answering with Retrieval Augmented Generation",
+  "authors": [
+    "Kaikai An",
+    "Fangkai Yang",
+    "Liqun Li",
+    "Junting Lu",
+    "Sitao Cheng",
+    "Shuzheng Si",
+    "Lu Wang",
+    "Pu Zhao",
+    "Lele Cao",
+    "Qingwei Lin",
+    "Saravan Rajmohan",
+    "Dongmei Zhang",
+    "Baobao Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-main.923",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.923/"
+}

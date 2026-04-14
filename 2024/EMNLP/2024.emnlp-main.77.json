@@ -1,0 +1,20 @@
+{
+  "title": "Mitigating Language Bias of LMMs in Social Intelligence Understanding with Virtual Counterfactual Calibration",
+  "authors": [
+    "Peng Chen",
+    "Xiao-Yu Guo",
+    "Yuan-Fang Li",
+    "Xiaowang Zhang",
+    "Zhiyong Feng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.emnlp-main.77",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.77/"
+}

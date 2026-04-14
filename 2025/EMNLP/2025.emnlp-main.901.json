@@ -1,0 +1,20 @@
+{
+  "title": "Phi: Preference Hijacking in Multi-modal Large Language Models at Inference Time",
+  "authors": [
+    "Yifan Lan",
+    "Yuanpu Cao",
+    "Weitong Zhang",
+    "Lu Lin",
+    "Jinghui Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.emnlp-main.901",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.901/"
+}

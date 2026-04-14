@@ -1,0 +1,36 @@
+{
+  "title": "Breaking the Curse of Multilinguality with Cross-lingual Expert Language Models",
+  "authors": [
+    "Terra Blevins",
+    "Tomasz Limisiewicz",
+    "Suchin Gururangan",
+    "Margaret Li",
+    "Hila Gonen",
+    "Noah A. Smith",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "German",
+    "Greek",
+    "English",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Turkish",
+    "Urdu",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.emnlp-main.604",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.604/"
+}

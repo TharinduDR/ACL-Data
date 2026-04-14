@@ -1,0 +1,28 @@
+{
+  "title": "LMR-BENCH: Evaluating LLM Agents' Ability on Reproducing Language Modeling Research",
+  "authors": [
+    "Shuo Yan",
+    "Ruochen Li",
+    "Ziming Luo",
+    "Zimu Wang",
+    "Daoyang Li",
+    "Liqiang Jing",
+    "Kaiyu He",
+    "Peilin Wu",
+    "George Michalopoulos",
+    "Yue Zhang",
+    "Ziyang Zhang",
+    "Mian Zhang",
+    "Zhiyu Chen",
+    "Xinya Du"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.314",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.314/"
+}

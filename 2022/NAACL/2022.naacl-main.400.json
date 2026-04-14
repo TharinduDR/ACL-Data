@@ -1,0 +1,22 @@
+{
+  "title": "ConfiBERT: A Pre-trained Language Model for Political Conflict and Violence",
+  "authors": [
+    "Yibo Hu",
+    "MohammadSaleh Hosseini",
+    "Erick Skorupa Parolin",
+    "Javier Osorio",
+    "Latifur Khan",
+    "Patrick T. Brandt",
+    "Vito J. D'Orazio"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-main.400",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.400/"
+}

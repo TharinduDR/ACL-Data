@@ -1,0 +1,21 @@
+{
+  "title": "Humans Hallucinate Too: Language Models Identify and Correct Subjective Annotation Errors With Label-in-a-Haystack Prompts",
+  "authors": [
+    "Georgios Chochlakis",
+    "Peter Wu",
+    "Arjun Bedi",
+    "Marcus Ma",
+    "Kristina Lerman",
+    "Shrikanth Narayanan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.993",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.993/"
+}

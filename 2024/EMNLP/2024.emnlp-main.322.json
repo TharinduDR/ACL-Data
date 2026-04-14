@@ -1,0 +1,30 @@
+{
+  "title": "Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA",
+  "authors": [
+    "Minzheng Wang",
+    "Longze Chen",
+    "Cheng Fu",
+    "Shengyi Liao",
+    "Xinghua Zhang",
+    "Bingli Wu",
+    "Haiyang Yu",
+    "Nan Xu",
+    "Lei Zhang",
+    "Run Luo",
+    "Yunshui Li",
+    "Min Yang",
+    "Fei Huang",
+    "Yongbin Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2024.emnlp-main.322",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.322/"
+}

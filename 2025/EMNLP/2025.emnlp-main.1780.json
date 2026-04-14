@@ -1,0 +1,23 @@
+{
+  "title": "BRSpeech-DF: A Deep Fake Synthetic Speech Dataset for Portuguese Zero-Shot TTS",
+  "authors": [
+    "Alexandre C. Ferro Filho",
+    "Rafaello Virgilli",
+    "Lucas A. Souza",
+    "Frederico S. de Oliveira",
+    "Marcelo Henrique L. Ferreira",
+    "Daniel Tunnermann",
+    "Gustavo R. Oliveira",
+    "Anderson S. Soares",
+    "Arlindo R. Galvão Filho"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.emnlp-main.1780",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1780/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "LaMemo: Language Modeling with Look-Ahead Memory",
+  "authors": [
+    "Haozhe Ji",
+    "Rongsheng Zhang",
+    "Zhenyu Yang",
+    "Zhipeng Hu",
+    "Minlie Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.naacl-main.422",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.422/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Contrastive Policy Gradient: Aligning LLMs on sequence-level scores in a supervised-friendly fashion",
+  "authors": [
+    "Yannis Flet-Berliac",
+    "Nathan Grinsztajn",
+    "Florian Strub",
+    "Bill Wu",
+    "Eugene Choi",
+    "Chris Cremer",
+    "Arash Ahmadian",
+    "Yash Chandak",
+    "Mohammad Gheshlaghi Azar",
+    "Olivier Pietquin",
+    "Matthieu Geist"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.emnlp-main.1190",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1190/"
+}

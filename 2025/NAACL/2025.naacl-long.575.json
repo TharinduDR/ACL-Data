@@ -1,0 +1,26 @@
+{
+  "title": "SimRAG: Self-Improving Retrieval-Augmented Generation for Adapting Large Language Models to Specialized Domains",
+  "authors": [
+    "Ran Xu",
+    "Hui Liu",
+    "Sreyashi Nag",
+    "Zhenwei Dai",
+    "Yaochen Xie",
+    "Xianfeng Tang",
+    "Chen Luo",
+    "Yang Li",
+    "Joyce C. Ho",
+    "Carl Yang",
+    "Qi He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.naacl-long.575",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.575/"
+}

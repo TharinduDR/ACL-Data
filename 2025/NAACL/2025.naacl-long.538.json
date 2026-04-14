@@ -1,0 +1,22 @@
+{
+  "title": "MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback",
+  "authors": [
+    "Zonghai Yao",
+    "Aditya Parashar",
+    "Huixue Zhou",
+    "Won Seok Jang",
+    "Feiyun Ouyang",
+    "Zhichao Yang",
+    "Hong Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T10 Question Answering",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2025.naacl-long.538",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.538/"
+}

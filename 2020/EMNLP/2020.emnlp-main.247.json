@@ -12,9 +12,9 @@
     "English"
   ],
   "research_areas": [
-    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+    "T13",
+    "T14",
+    "T10"
   ],
   "paper_id": "2020.emnlp-main.247",
   "acl_url": "https://aclanthology.org/2020.emnlp-main.247/"

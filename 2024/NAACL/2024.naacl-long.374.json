@@ -1,0 +1,21 @@
+{
+  "title": "Intent-conditioned and Non-toxic Counterspeech Generation using Multi-Task Instruction Tuning with RLAIF",
+  "authors": [
+    "Amey Hengle",
+    "Aswini Kumar",
+    "Sahajpreet Singh",
+    "Anil Bandhakavi",
+    "Md Shad Akhtar",
+    "Tanmoy Chakraborty"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.374",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.374/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Read to Hear: A Zero-Shot Pronunciation Assessment Using Textual Descriptions and LLMs",
+  "authors": [
+    "Yu-Wen Chen",
+    "Melody Ma",
+    "Julia Hirschberg"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.134",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.134/"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Unsupervised Cross-Lingual Transfer of Structured Predictors without Source Data",
+  "authors": [
+    "Kemal Kurniawan",
+    "Lea Frermann",
+    "Philip Schulz",
+    "Trevor Cohn"
+  ],
+  "languages": [
+    "Persian",
+    "Arabic",
+    "Indonesian",
+    "Korean",
+    "Turkish",
+    "Hindi",
+    "Croatian",
+    "Hebrew",
+    "Bulgarian",
+    "Italian",
+    "Portuguese",
+    "French",
+    "Spanish",
+    "Norwegian",
+    "Swedish",
+    "Dutch",
+    "German"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.naacl-main.149",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.149/"
+}

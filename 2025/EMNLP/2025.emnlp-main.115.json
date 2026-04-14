@@ -1,0 +1,19 @@
+{
+  "title": "CondAmbigQA: A Benchmark and Dataset for Conditional Ambiguous Question Answering",
+  "authors": [
+    "Zongxi Li",
+    "Yang Li",
+    "Haoran Xie",
+    "S. Joe Qin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.115",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.115/"
+}

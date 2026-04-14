@@ -1,0 +1,20 @@
+{
+  "title": "Self-Bootstrapped Visual-Language Model for Knowledge Selection and Question Answering",
+  "authors": [
+    "Dongze Hao",
+    "Qunbo Wang",
+    "Longteng Guo",
+    "Jie Jiang",
+    "Jing Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.emnlp-main.110",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.110/"
+}

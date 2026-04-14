@@ -1,0 +1,24 @@
+{
+  "title": "Triggerless Backdoor Attack for NLP Tasks with Clean Labels",
+  "authors": [
+    "Leilei Gan",
+    "Jiwei Li",
+    "Tianwei Zhang",
+    "Xiaoya Li",
+    "Yuxian Meng",
+    "Fei Wu",
+    "Yi Yang",
+    "Shangwei Guo",
+    "Chun Fan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2022.naacl-main.214",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.214/"
+}

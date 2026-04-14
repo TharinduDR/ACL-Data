@@ -1,0 +1,35 @@
+{
+  "title": "Transformer-Based Temporal Information Extraction and Application: A Review",
+  "authors": [
+    "Xin Su",
+    "Phillip Howard",
+    "Steven Bethard"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Spanish",
+    "Arabic",
+    "Vietnamese",
+    "Japanese",
+    "Korean",
+    "Dutch",
+    "Persian",
+    "Cantonese",
+    "Indonesian",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.1467",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1467/"
+}

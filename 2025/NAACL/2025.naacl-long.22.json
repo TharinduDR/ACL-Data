@@ -1,0 +1,18 @@
+{
+  "title": "PeerQA: A Scientific Question Answering Dataset from Peer Reviews",
+  "authors": [
+    "Tim Baumgärtner",
+    "Ted Briscoe",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.naacl-long.22",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.22/"
+}

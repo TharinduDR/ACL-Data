@@ -1,0 +1,22 @@
+{
+  "title": "DocEdit-v2: Document Structure Editing Via Multimodal LLM Grounding",
+  "authors": [
+    "Manan Suri",
+    "Puneet Mathur",
+    "Franck Dernoncourt",
+    "Rajiv Jain",
+    "Vlad I. Morariu",
+    "Ramit Sawhney",
+    "Preslav Nakov",
+    "Dinesh Manocha"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.emnlp-main.867",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.867/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Bias Mitigation or Cultural Commonsense? Evaluating LLMs with a Japanese Dataset",
+  "authors": [
+    "Taisei Yamamoto",
+    "Ryoma Kumon",
+    "Danushka Bollegala",
+    "Hitomi Yanaka"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.emnlp-main.874",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.874/"
+}

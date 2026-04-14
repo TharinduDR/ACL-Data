@@ -1,0 +1,28 @@
+{
+  "title": "Entity Resolution in Open-domain Conversations",
+  "authors": [
+    "Mingyue Shang",
+    "Tong Wang",
+    "Mihail Eric",
+    "Jiangning Chen",
+    "Jiyang Wang",
+    "Matthew Welch",
+    "Tiantong Deng",
+    "Akshay Grewal",
+    "Han Wang",
+    "Yue Liu",
+    "Imre Kiss",
+    "Yang Liu",
+    "Dilek Hakkani-Tur"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.naacl-industry.4",
+  "acl_url": "https://aclanthology.org/2021.naacl-industry.4/"
+}

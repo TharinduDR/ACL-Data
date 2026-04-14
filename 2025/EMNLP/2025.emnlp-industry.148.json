@@ -1,0 +1,27 @@
+{
+  "title": "AttributeForge: An Agentic LLM Framework for Automated Product Schema Modeling",
+  "authors": [
+    "Yunhan Huang",
+    "Klevis Ramo",
+    "Andrea Iovine",
+    "Melvin Monteiro",
+    "Sedat Gokalp",
+    "Arjun Bakshi",
+    "Hasan Turalic",
+    "Arsh Kumar",
+    "Jona Neumeier",
+    "Ripley Yates",
+    "Rejaul Monir",
+    "Simon Hartmann",
+    "Tushar Manglik",
+    "Mohamed Yakout"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-industry.148",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.148/"
+}

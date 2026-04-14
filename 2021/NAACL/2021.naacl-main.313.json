@@ -1,0 +1,21 @@
+{
+  "title": "Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation",
+  "authors": [
+    "Yongchang Hao",
+    "Shilin He",
+    "Wenxiang Jiao",
+    "Zhaopeng Tu",
+    "Michael R. Lyu",
+    "Xing Wang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.naacl-main.313",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.313/"
+}

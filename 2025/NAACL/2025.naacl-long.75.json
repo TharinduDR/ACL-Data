@@ -1,0 +1,21 @@
+{
+  "title": "Mitigating Hallucinations in Multi-modal Large Language Models via Image Token Attention-Guided Decoding",
+  "authors": [
+    "Xinhao Xu",
+    "Hui Chen",
+    "Mengyao Lyu",
+    "Sicheng Zhao",
+    "Yizhe Xiong",
+    "Zijia Lin",
+    "Jungong Han",
+    "Guiguang Ding"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.naacl-long.75",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.75/"
+}

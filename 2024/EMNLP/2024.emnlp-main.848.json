@@ -1,0 +1,19 @@
+{
+  "title": "XDetox: Text Detoxification with Token-Level Toxicity Explanations",
+  "authors": [
+    "Beomseok Lee",
+    "Hyunwoo Kim",
+    "Keon Kim",
+    "Yong Suk Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-main.848",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.848/"
+}

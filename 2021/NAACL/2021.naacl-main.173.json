@@ -1,0 +1,17 @@
+{
+  "title": "COVID-19 Named Entity Recognition for Vietnamese",
+  "authors": [
+    "Thinh Hung Truong",
+    "Mai Hoang Dao",
+    "Dat Quoc Nguyen"
+  ],
+  "languages": [
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.naacl-main.173",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.173/"
+}

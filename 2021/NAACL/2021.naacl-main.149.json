@@ -1,0 +1,19 @@
+{
+  "title": "End-to-end ASR to jointly predict transcriptions and linguistic annotations",
+  "authors": [
+    "Motoi Omachi",
+    "Yuya Fujita",
+    "Shinji Watanabe",
+    "Matthew Wiesner"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.naacl-main.149",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.149/"
+}

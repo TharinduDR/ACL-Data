@@ -1,0 +1,28 @@
+{
+  "title": "AMPO: Automatic Multi-Branced Prompt Optimization",
+  "authors": [
+    "Sheng Yang",
+    "Yurong Wu",
+    "Yan Gao",
+    "Zineng Zhou",
+    "Bin Benjamin Zhu",
+    "Xiaodi Sun",
+    "Jian-Guang Lou",
+    "Zhiming Ding",
+    "Anbang Hu",
+    "Yuan Fang",
+    "Yunsong Li",
+    "Junyan Chen",
+    "Linjun Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.emnlp-main.1130",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1130/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation",
+  "authors": [
+    "Alexander R. Fabbri",
+    "Simeng Han",
+    "Haoyuan Li",
+    "Haoran Li",
+    "Marjan Ghazvininejad",
+    "Shafiq Joty",
+    "Dragomir Radev",
+    "Yashar Mehdad"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.naacl-main.57",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.57/"
+}

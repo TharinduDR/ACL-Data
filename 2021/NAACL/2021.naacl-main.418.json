@@ -1,0 +1,20 @@
+{
+  "title": "MIMOQA: Multimodal Input Multimodal Output Question Answering",
+  "authors": [
+    "Hrituraj Singh",
+    "Anshul Nasery",
+    "Denil Mehta",
+    "Aishwarya Agarwal",
+    "Jatin Lamba",
+    "Balaji Vasan Srinivasan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2021.naacl-main.418",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.418/"
+}

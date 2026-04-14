@@ -1,0 +1,24 @@
+{
+  "title": "RuCCoD: Towards Automated ICD Coding in Russian",
+  "authors": [
+    "Aleksandr Nesterov",
+    "Andrey Sakhovskiy",
+    "Ivan Sviridov",
+    "Airat Valiev",
+    "Vladimir Makharev",
+    "Petr Anokhin",
+    "Galina Zubkova",
+    "Elena Tutubalina"
+  ],
+  "languages": [
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.emnlp-main.129",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.129/"
+}

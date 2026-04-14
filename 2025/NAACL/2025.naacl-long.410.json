@@ -1,0 +1,21 @@
+{
+  "title": "HMT: Hierarchical Memory Transformer for Efficient Long Context Language Processing",
+  "authors": [
+    "Zifan He",
+    "Yingqi Cao",
+    "Zongyue Qin",
+    "Neha Prakriya",
+    "Yizhou Sun",
+    "Jason Cong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.naacl-long.410",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.410/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "World to Code: Multi-modal Data Generation via Self-Instructed Compositional Captioning and Filtering",
+  "authors": [
+    "Jiacong Wang",
+    "Bohong Wu",
+    "Haiyong Jiang",
+    "Xun Zhou",
+    "Xin Xiao",
+    "Haoyuan Guo",
+    "Jun Xiao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.emnlp-main.265",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.265/"
+}

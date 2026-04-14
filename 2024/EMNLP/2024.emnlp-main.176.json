@@ -1,0 +1,27 @@
+{
+  "title": "Zero-shot Cross-Lingual Transfer for Synthetic Data Generation in Grammatical Error Detection",
+  "authors": [
+    "Gaetan Lopez Latouche",
+    "Marc-André Carbonneau",
+    "Ben Swanson"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Estonian",
+    "Russian",
+    "Icelandic",
+    "Spanish",
+    "Swedish",
+    "Italian",
+    "Czech",
+    "Arabic",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T29",
+    "T14"
+  ],
+  "paper_id": "2024.emnlp-main.176",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.176/"
+}

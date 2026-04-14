@@ -1,0 +1,30 @@
+{
+  "title": "PLLuM-Align: Polish Preference Dataset for Large Language Model Alignment",
+  "authors": [
+    "Karolina Seweryn",
+    "Anna Kołos",
+    "Agnieszka Karlińska",
+    "Katarzyna Lorenc",
+    "Katarzyna Dziewulska",
+    "Maciej Chrabąszcz",
+    "Aleksandra Krasnodębska",
+    "Paula Betscher",
+    "Zofia Cieślińska",
+    "Katarzyna Kowol",
+    "Julia Moska",
+    "Dawid Motyka",
+    "Paweł Walkowiak",
+    "Bartosz Żuk",
+    "Arkadiusz Janz"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.1219",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1219/"
+}

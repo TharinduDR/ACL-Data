@@ -1,0 +1,30 @@
+{
+  "title": "Empowering Healthcare Practitioners with Language Models: Structuring Speech Transcripts in Two Real-World Clinical Applications",
+  "authors": [
+    "Jean-Philippe Corbeil",
+    "Asma Ben Abacha",
+    "George Michalopoulos",
+    "Phillip Swazinna",
+    "Miguel Del-Agua",
+    "Jérôme Tremblay",
+    "Akila Jeeson Daniel",
+    "Cari Bader",
+    "Yu-Cheng Cho",
+    "Pooja Krishnan",
+    "Nathan Bodenstab",
+    "Thomas Lin",
+    "Wenxuan Teng",
+    "Francois Beaulieu",
+    "Paul Vozila"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.emnlp-industry.58",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.58/"
+}

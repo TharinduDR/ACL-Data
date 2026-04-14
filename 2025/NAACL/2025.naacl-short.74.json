@@ -1,0 +1,28 @@
+{
+  "title": "Self-Debiasing Large Language Models: Zero-Shot Recognition and Reduction of Stereotypes",
+  "authors": [
+    "Isabel O. Gallegos",
+    "Ryan Aponte",
+    "Ryan A. Rossi",
+    "Joe Barrow",
+    "Md Mehrab Tanjim",
+    "Tong Yu",
+    "Hanieh Deilamsalehy",
+    "Ruiyi Zhang",
+    "Sungchul Kim",
+    "Franck Dernoncourt",
+    "Nedim Lipka",
+    "Deonna Owens",
+    "Jiuxiang Gu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.naacl-short.74",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.74/"
+}

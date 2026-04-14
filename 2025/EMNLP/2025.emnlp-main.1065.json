@@ -1,0 +1,27 @@
+{
+  "title": "Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary",
+  "authors": [
+    "Licheng Pan",
+    "Yongqi Tong",
+    "Xin Zhang",
+    "Xiaolu Zhang",
+    "Jun Zhou",
+    "Zhixuan Chu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Italian",
+    "Spanish",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.1065",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1065/"
+}

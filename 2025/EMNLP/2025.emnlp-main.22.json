@@ -1,0 +1,22 @@
+{
+  "title": "DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments",
+  "authors": [
+    "Yuxiang Zheng",
+    "Dayuan Fu",
+    "Xiangkun Hu",
+    "Xiaojie Cai",
+    "Lyumanshan Ye",
+    "Pengrui Lu",
+    "Pengfei Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.22",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.22/"
+}

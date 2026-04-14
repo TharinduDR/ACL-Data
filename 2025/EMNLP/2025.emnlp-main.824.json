@@ -1,0 +1,20 @@
+{
+  "title": "KG-CQR: Leveraging Structured Relation Representations in Knowledge Graphs for Contextual Query Retrieval",
+  "authors": [
+    "Chi Minh Bui",
+    "Ngoc Mai Thieu",
+    "Van Vinh Nguyen",
+    "Jason J. Jung",
+    "Khac-Hoai Nam Bui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.emnlp-main.824",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.824/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "EquiBench: Benchmarking Large Language Models' Reasoning about Program Semantics via Equivalence Checking",
+  "authors": [
+    "Anjiang Wei",
+    "Jiannan Cao",
+    "Ran Li",
+    "Hongyu Chen",
+    "Yuhui Zhang",
+    "Ziheng Wang",
+    "Yuan Liu",
+    "Thiago S. F. X. Teixeira",
+    "Diyi Yang",
+    "Ke Wang",
+    "Alex Aiken"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.1718",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1718/"
+}

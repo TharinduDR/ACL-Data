@@ -1,0 +1,39 @@
+{
+  "title": "Noise Robust Named Entity Understanding for Voice Assistants",
+  "authors": [
+    "Deepak Muralidharan",
+    "Joel Ruben Antony Moniz",
+    "Sida Gao",
+    "Xiao Yang",
+    "Justine Kao",
+    "Stephen Pulman",
+    "Atish Kothari",
+    "Ray Shen",
+    "Yinping Pan",
+    "Vivek Kaul",
+    "Mubarak Seyed Ibrahim",
+    "Gang Xiang",
+    "Nan Dun",
+    "Yidan Zhou",
+    "Andy O",
+    "Yuan Zhang",
+    "Pooja Chitkara",
+    "Xuan Wang",
+    "Alkesh Patel",
+    "Kushal Tayal",
+    "Roger Zheng",
+    "Peter Grasch",
+    "Jason D. Williams",
+    "Lin Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.naacl-industry.25",
+  "acl_url": "https://aclanthology.org/2021.naacl-industry.25/"
+}

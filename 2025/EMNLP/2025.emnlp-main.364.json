@@ -1,0 +1,37 @@
+{
+  "title": "NOVA-63: Native Omni-lingual Versatile Assessments of 63 Disciplines",
+  "authors": [
+    "Jinyang Zhang",
+    "Kexin Yang",
+    "Yu Wan",
+    "Muyang Ye",
+    "Yue Fang",
+    "Baosong Yang",
+    "Fei Huang",
+    "Junyang Lin",
+    "Dayiheng Liu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Russian",
+    "Arabic",
+    "Spanish",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Thai",
+    "Vietnamese",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.emnlp-main.364",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.364/"
+}

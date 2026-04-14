@@ -1,0 +1,20 @@
+{
+  "title": "NewsEdits: A News Article Revision Dataset and a Document-Level Reasoning Challenge",
+  "authors": [
+    "Alexander Spangher",
+    "Xiang Ren",
+    "Jonathan May",
+    "Nanyun Peng"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2022.naacl-main.10",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.10/"
+}

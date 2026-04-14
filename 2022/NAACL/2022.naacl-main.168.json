@@ -1,0 +1,19 @@
+{
+  "title": "GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval",
+  "authors": [
+    "Kexin Wang",
+    "Nandan Thakur",
+    "Nils Reimers",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.naacl-main.168",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.168/"
+}

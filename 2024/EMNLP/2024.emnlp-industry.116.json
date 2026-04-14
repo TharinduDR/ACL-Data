@@ -1,0 +1,20 @@
+{
+  "title": "Efficient Answer Retrieval System (EARS): Combining Local DB Search and Web Search for Generative QA",
+  "authors": [
+    "Nikita Krayko",
+    "Ivan Sidorov",
+    "Fedor Laputin",
+    "Daria Galimzianova",
+    "Vasily Konovalov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-industry.116",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.116/"
+}

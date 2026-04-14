@@ -1,0 +1,32 @@
+{
+  "title": "Unsupervised Stem-based Cross-lingual Part-of-Speech Tagging for Morphologically Rich Low-Resource Languages",
+  "authors": [
+    "Ramy Eskander",
+    "Cass Lowry",
+    "Sujay Khandagale",
+    "Judith Klavans",
+    "Maria Polinsky",
+    "Smaranda Muresan"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Russian",
+    "Arabic",
+    "Amharic",
+    "Basque",
+    "Finnish",
+    "Indonesian",
+    "Kazakh",
+    "Telugu",
+    "Turkish",
+    "Georgian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.naacl-main.298",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.298/"
+}

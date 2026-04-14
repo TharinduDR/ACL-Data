@@ -1,0 +1,25 @@
+{
+  "title": "CoMMIT: Coordinated Multimodal Instruction Tuning",
+  "authors": [
+    "Xintong Li",
+    "Junda Wu",
+    "Tong Yu",
+    "Rui Wang",
+    "Yu Wang",
+    "Xiang Chen",
+    "Jiuxiang Gu",
+    "Lina Yao",
+    "Julian McAuley",
+    "Jingbo Shang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.582",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.582/"
+}

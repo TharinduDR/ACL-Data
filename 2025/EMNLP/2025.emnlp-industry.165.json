@@ -1,0 +1,26 @@
+{
+  "title": "ixi-GEN: Efficient Industrial sLLMs through Domain Adaptive Continual Pretraining",
+  "authors": [
+    "Seonwu Kim",
+    "Yohan Na",
+    "Kihun Kim",
+    "Hanhee Cho",
+    "Geun Lim",
+    "Mintae Kim",
+    "Seongik Park",
+    "Ki Hyun Kim",
+    "Youngsub Han",
+    "Byoung-Ki Jeon"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.emnlp-industry.165",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.165/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "A Study of Nationality Bias in Names and Perplexity using Off-the-Shelf Affect-related Tweet Classifiers",
+  "authors": [
+    "Valentin Barriere",
+    "Sebastian Cifuentes"
+  ],
+  "languages": [
+    "English",
+    "Basque",
+    "Maori",
+    "Dutch",
+    "Spanish",
+    "Hindi",
+    "Malayalam",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2024.emnlp-main.34",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.34/"
+}

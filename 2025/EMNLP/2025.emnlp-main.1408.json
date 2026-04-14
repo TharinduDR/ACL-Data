@@ -1,0 +1,31 @@
+{
+  "title": "Scaling Low-Resource MT via Synthetic Data Generation with LLMs",
+  "authors": [
+    "Ona de Gibert",
+    "Joseph Attieh",
+    "Teemu Vahtola",
+    "Mikko Aulamo",
+    "Zihao Li",
+    "Raúl Vázquez",
+    "Tiancheng Hu",
+    "Jörg Tiedemann"
+  ],
+  "languages": [
+    "English",
+    "Basque",
+    "Scottish Gaelic",
+    "Icelandic",
+    "Georgian",
+    "Macedonian",
+    "Somali",
+    "Ukrainian",
+    "Finnish",
+    "Somali"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.emnlp-main.1408",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1408/"
+}

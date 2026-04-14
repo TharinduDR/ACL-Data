@@ -1,0 +1,23 @@
+{
+  "title": "PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization",
+  "authors": [
+    "Jiayi Wu",
+    "Hengyi Cai",
+    "Lingyong Yan",
+    "Hao Sun",
+    "Xiang Li",
+    "Shuaiqiang Wang",
+    "Dawei Yin",
+    "Ming Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.459",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.459/"
+}

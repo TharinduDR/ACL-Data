@@ -1,0 +1,27 @@
+{
+  "title": "Low-code LLM: Graphical User Interface over Large Language Models",
+  "authors": [
+    "Yuzhe Cai",
+    "Shaoguang Mao",
+    "Wenshan Wu",
+    "Zehua Wang",
+    "Yaobo Liang",
+    "Tao Ge",
+    "Chenfei Wu",
+    "Wang You",
+    "Ting Song",
+    "Yan Xia",
+    "Nan Duan",
+    "Furu Wei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2024.naacl-demo.2",
+  "acl_url": "https://aclanthology.org/2024.naacl-demo.2/"
+}

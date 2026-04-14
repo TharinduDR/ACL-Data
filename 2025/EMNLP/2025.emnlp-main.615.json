@@ -1,0 +1,23 @@
+{
+  "title": "Facilitating Long Context Understanding via Supervised Chain-of-Thought Reasoning",
+  "authors": [
+    "Jingyang Lin",
+    "Andy Wong",
+    "Tian Xia",
+    "Shenghua He",
+    "Hui Wei",
+    "Mei Han",
+    "Jiebo Luo"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.615",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.615/"
+}

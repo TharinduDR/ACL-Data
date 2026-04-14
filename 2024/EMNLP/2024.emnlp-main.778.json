@@ -1,0 +1,24 @@
+{
+  "title": "MAIR: A Massive Benchmark for Evaluating Instructed Retrieval",
+  "authors": [
+    "Weiwei Sun",
+    "Zhengliang Shi",
+    "Jiulong Wu",
+    "Lingyong Yan",
+    "Xinyu Ma",
+    "Yiding Liu",
+    "Min Cao",
+    "Dawei Yin",
+    "Zhaochun Ren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.emnlp-main.778",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.778/"
+}

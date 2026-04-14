@@ -1,0 +1,19 @@
+{
+  "title": "zFLoRA: Zero-Latency Fused Low-Rank Adapters",
+  "authors": [
+    "Dhananjaya Gowda",
+    "Seoha Song",
+    "Harshith Goka",
+    "Junhyun Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.emnlp-main.1086",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1086/"
+}

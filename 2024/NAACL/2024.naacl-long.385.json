@@ -1,0 +1,46 @@
+{
+  "title": "NLP Progress in Indigenous Latin American Languages",
+  "authors": [
+    "Atnafu Lambebo Tonja",
+    "Fazlourrahman Balouchzahi",
+    "Sabur Butt",
+    "Olga Kolesnikova",
+    "Hector Ceballos",
+    "Alexander Gelbukh",
+    "Thamar Solorio"
+  ],
+  "languages": [
+    "Quechua",
+    "Shipibo-Konibo",
+    "Nahuatl",
+    "Aymara",
+    "Guarani",
+    "Mapudungun",
+    "Wixarika",
+    "Yanesha",
+    "Yoloxochitl Mixtec",
+    "Tepehua",
+    "Otomi",
+    "Popoloca",
+    "Mazatec",
+    "Maya",
+    "Mixtec",
+    "Kaapor",
+    "Popoloca",
+    "Apurinã",
+    "Asháninka",
+    "Bribri",
+    "Cabécar",
+    "Jopara",
+    "Raramuri",
+    "k'iche'",
+    "Akuntsu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.naacl-long.385",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.385/"
+}

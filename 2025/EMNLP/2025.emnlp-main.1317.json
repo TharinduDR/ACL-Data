@@ -1,0 +1,26 @@
+{
+  "title": "Corrupted but Not Broken: Understanding and Mitigating the Negative Impacts of Corrupted Data in Visual Instruction Tuning",
+  "authors": [
+    "Yunhao Gou",
+    "Hansi Yang",
+    "Zhili Liu",
+    "Kai Chen",
+    "Yihan Zeng",
+    "Lanqing Hong",
+    "Zhenguo Li",
+    "Qun Liu",
+    "Bo Han",
+    "James T. Kwok",
+    "Yu Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1317",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1317/"
+}

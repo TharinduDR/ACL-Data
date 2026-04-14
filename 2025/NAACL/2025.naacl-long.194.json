@@ -1,0 +1,24 @@
+{
+  "title": "CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments",
+  "authors": [
+    "Kung-Hsiang Huang",
+    "Akshara Prabhakar",
+    "Sidharth Dhawan",
+    "Yixin Mao",
+    "Huan Wang",
+    "Silvio Savarese",
+    "Caiming Xiong",
+    "Philippe Laban",
+    "Chien-Sheng Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.naacl-long.194",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.194/"
+}

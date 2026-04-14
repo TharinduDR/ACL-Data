@@ -1,0 +1,24 @@
+{
+  "title": "TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection",
+  "authors": [
+    "Wei Wu",
+    "Zhuoshi Pan",
+    "Kun Fu",
+    "Chao Wang",
+    "Li Yi Chen",
+    "Yunchu Bai",
+    "Tianfu Wang",
+    "Zheng Wang",
+    "Hui Xiong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.1079",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1079/"
+}

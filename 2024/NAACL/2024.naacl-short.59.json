@@ -1,0 +1,18 @@
+{
+  "title": "Removing RLHF Protections in GPT-4 via Fine-Tuning",
+  "authors": [
+    "Qiusi Zhan",
+    "Richard Fang",
+    "Rohan Bindu",
+    "Akul Gupta",
+    "Tatsunori Hashimoto",
+    "Daniel Kang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.naacl-short.59",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.59/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "RAG-QA Arena: Evaluating Domain Robustness for Long-Form Retrieval-Augmented Question Answering",
+  "authors": [
+    "Rujun Han",
+    "Yuhao Zhang",
+    "Peng Qi",
+    "Yumo Xu",
+    "Jenyuan Wang",
+    "Lan Liu",
+    "William Yang Wang",
+    "Bonan Min",
+    "Vittorio Castelli"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.249",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.249/"
+}

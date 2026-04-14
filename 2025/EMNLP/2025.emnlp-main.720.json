@@ -1,0 +1,22 @@
+{
+  "title": "MuCAL: Contrastive Alignment for Preference-Driven KG-to-Text Generation",
+  "authors": [
+    "Yifei Song",
+    "Claire Gardent"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "French",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.emnlp-main.720",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.720/"
+}

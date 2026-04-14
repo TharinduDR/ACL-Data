@@ -1,0 +1,25 @@
+{
+  "title": "SimANS: Simple Ambiguous Negatives Sampling for Dense Text Retrieval",
+  "authors": [
+    "Kun Zhou",
+    "Yeyun Gong",
+    "Xiao Liu",
+    "Wayne Xin Zhao",
+    "Yelong Shen",
+    "Anlei Dong",
+    "Jingwen Lu",
+    "Rangan Majumder",
+    "Ji-Rong Wen",
+    "Nan Duan",
+    "Weizhu Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.emnlp-industry.56",
+  "acl_url": "https://aclanthology.org/2022.emnlp-industry.56/"
+}

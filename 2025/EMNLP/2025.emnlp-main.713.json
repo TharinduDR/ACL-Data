@@ -1,0 +1,24 @@
+{
+  "title": "G2: Guided Generation for Enhanced Output Diversity in LLMs",
+  "authors": [
+    "Zhiwen Ruan",
+    "Yixia Li",
+    "Yefeng Liu",
+    "Yun Chen",
+    "Weihua Luo",
+    "Peng Li",
+    "Yang Liu",
+    "Guanhua Chen"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.713",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.713/"
+}

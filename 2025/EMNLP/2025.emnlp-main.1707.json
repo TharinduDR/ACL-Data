@@ -1,0 +1,19 @@
+{
+  "title": "SYNC: A Synthetic Long-Context Understanding Benchmark for Controlled Comparisons of Model Capabilities",
+  "authors": [
+    "Shuyang Cao",
+    "Kaijian Zou",
+    "Lu Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.1707",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1707/"
+}

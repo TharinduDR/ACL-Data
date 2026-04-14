@@ -1,0 +1,23 @@
+{
+  "title": "Lexically Grounded Subword Segmentation",
+  "authors": [
+    "Jindřich Libovický",
+    "Jindřich Helcl"
+  ],
+  "languages": [
+    "Czech",
+    "English",
+    "French",
+    "Hungarian",
+    "Italian",
+    "Mongolian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.emnlp-main.421",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.421/"
+}

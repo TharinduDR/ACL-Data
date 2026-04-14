@@ -1,0 +1,20 @@
+{
+  "title": "Interpretable Proof Generation via Iterative Backward Reasoning",
+  "authors": [
+    "Hanhan Qu",
+    "Yu Cao",
+    "Jun Gao",
+    "Liang Ding",
+    "Ruifeng Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2022.naacl-main.216",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.216/"
+}

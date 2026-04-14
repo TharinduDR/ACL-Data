@@ -1,0 +1,23 @@
+{
+  "title": "You Only Read Once (YORO): Learning to Internalize Database Knowledge for Text-to-SQL",
+  "authors": [
+    "Hideo Kobayashi",
+    "Wuwei Lan",
+    "Peng Shi",
+    "Shuaichen Chang",
+    "Jiang Guo",
+    "Henghui Zhu",
+    "Zhiguo Wang",
+    "Patrick Ng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2025.naacl-long.94",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.94/"
+}

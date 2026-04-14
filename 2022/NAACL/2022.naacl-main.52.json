@@ -1,0 +1,22 @@
+{
+  "title": "Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification",
+  "authors": [
+    "Xiaolei Huang"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Danish",
+    "Spanish",
+    "Italian",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.naacl-main.52",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.52/"
+}

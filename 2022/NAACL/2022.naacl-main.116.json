@@ -1,0 +1,21 @@
+{
+  "title": "MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation",
+  "authors": [
+    "Simiao Zuo",
+    "Qingru Zhang",
+    "Chen Liang",
+    "Pengcheng He",
+    "Tuo Zhao",
+    "Weizhu Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-main.116",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.116/"
+}

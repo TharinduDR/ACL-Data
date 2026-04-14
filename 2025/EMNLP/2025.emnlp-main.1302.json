@@ -1,0 +1,19 @@
+{
+  "title": "CMedCalc-Bench: A Fine-Grained Benchmark for Chinese Medical Calculations in LLMs",
+  "authors": [
+    "Yunyan Zhang",
+    "Zhihong Zhu",
+    "Xian Wu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.1302",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1302/"
+}

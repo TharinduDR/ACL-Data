@@ -1,0 +1,25 @@
+{
+  "title": "EmojiPrompt: Generative Prompt Obfuscation for Privacy-Preserving Communication with Cloud-based LLMs",
+  "authors": [
+    "Sam Lin",
+    "Wenyue Hua",
+    "Zhenting Wang",
+    "Mingyu Jin",
+    "Lizhou Fan",
+    "Yongfeng Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.naacl-long.614",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.614/"
+}

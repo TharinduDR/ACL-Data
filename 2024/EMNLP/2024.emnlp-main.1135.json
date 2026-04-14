@@ -1,0 +1,21 @@
+{
+  "title": "Multi-expert Prompting Improves Reliability, Safety and Usefulness of Large Language Models",
+  "authors": [
+    "Do Xuan Long",
+    "Duong Ngoc Yen",
+    "Luu Anh Tuan",
+    "Kenji Kawaguchi",
+    "Min-Yen Kan",
+    "Nancy F. Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.emnlp-main.1135",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1135/"
+}

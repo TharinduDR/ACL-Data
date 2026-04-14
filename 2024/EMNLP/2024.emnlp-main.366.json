@@ -1,0 +1,20 @@
+{
+  "title": "EH-MAM: Easy-to-Hard Masked Acoustic Modeling for Self-Supervised Speech Representation Learning",
+  "authors": [
+    "Ashish Seth",
+    "Ramaneswaran Selvakumar",
+    "S Sakshi",
+    "Sonal Kumar",
+    "Sreyan Ghosh",
+    "Dinesh Manocha"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.emnlp-main.366",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.366/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "End-to-End Chinese Speaker Identification",
+  "authors": [
+    "Dian Yu",
+    "Ben Zhou",
+    "Dong Yu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.naacl-main.165",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.165/"
+}

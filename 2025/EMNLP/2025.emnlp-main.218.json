@@ -1,0 +1,22 @@
+{
+  "title": "SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation",
+  "authors": [
+    "Zhiyuan Peng",
+    "Xin Yin",
+    "Rui Qian",
+    "Peiqin Lin",
+    "Yongkang Liu",
+    "Hao Zhang",
+    "Chenhao Ying",
+    "Yuan Luo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.218",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.218/"
+}

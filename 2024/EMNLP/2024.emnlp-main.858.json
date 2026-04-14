@@ -1,0 +1,33 @@
+{
+  "title": "AudioVSR: Enhancing Video Speech Recognition with Audio Data",
+  "authors": [
+    "Xiaoda Yang",
+    "Xize Cheng",
+    "Jiaqi Duan",
+    "Hongshun Qiu",
+    "Minjie Hong",
+    "Minghui Fang",
+    "Shengpeng Ji",
+    "Jialung Zuo",
+    "Zhiqing Hong",
+    "Zhimeng Zhang",
+    "Tao Jin"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Greek",
+    "Spanish",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.emnlp-main.858",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.858/"
+}

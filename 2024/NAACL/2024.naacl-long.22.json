@@ -1,0 +1,38 @@
+{
+  "title": "SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning",
+  "authors": [
+    "Bin Wang",
+    "Zhengyuan Liu",
+    "Xin Huang",
+    "Fangkai Jiao",
+    "Yang Ding",
+    "AiTi Aw",
+    "Nancy F. Chen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Indonesian",
+    "Spanish",
+    "Vietnamese",
+    "Malay",
+    "Filipino",
+    "Korean",
+    "Turkish",
+    "German",
+    "Thai",
+    "French",
+    "Romanian",
+    "Tamil",
+    "Portuguese",
+    "Arabic",
+    "Persian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.naacl-long.22",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.22/"
+}

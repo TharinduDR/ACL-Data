@@ -1,0 +1,24 @@
+{
+  "title": "Rationale-Guided Retrieval Augmented Generation for Medical Question Answering",
+  "authors": [
+    "Jiwoong Sohn",
+    "Yein Park",
+    "Chanwoong Yoon",
+    "Siheon Park",
+    "Hyeon Hwang",
+    "Mujeen Sung",
+    "Hyunjae Kim",
+    "Jaewoo Kang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.naacl-long.635",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.635/"
+}

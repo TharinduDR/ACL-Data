@@ -1,0 +1,21 @@
+{
+  "title": "Practical Transformer-based Multilingual Text Classification",
+  "authors": [
+    "Cindy Wang",
+    "Michele Banko"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Japanese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2021.naacl-industry.16",
+  "acl_url": "https://aclanthology.org/2021.naacl-industry.16/"
+}

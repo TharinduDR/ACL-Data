@@ -1,0 +1,21 @@
+{
+  "title": "POSITION BIAS MITIGATES POSITION BIAS: Mitigate Position Bias Through Inter-Position Knowledge Distillation",
+  "authors": [
+    "Yifei Wang",
+    "Feng Xiong",
+    "Yong Wang",
+    "Linjing Li",
+    "Xiangxiang Chu",
+    "Daniel Dajun Zeng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.78",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.78/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "A Simple Yet Effective Method for Non-Refusing Context Relevant Fine-grained Safety Steering in LLMs",
+  "authors": [
+    "Shaona Ghosh",
+    "Amrita Bhattacharjee",
+    "Yftah Ziser",
+    "Christopher Parisien"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.1781",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1781/"
+}

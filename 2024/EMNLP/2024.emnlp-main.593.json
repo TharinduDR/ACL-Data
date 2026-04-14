@@ -1,0 +1,23 @@
+{
+  "title": "When Generative Adversarial Networks Meet Sequence Labeling Challenges",
+  "authors": [
+    "Yu Tong",
+    "Ge Chen",
+    "Guokai Zheng",
+    "Rui Li",
+    "Dazhi Jiang"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.593",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.593/"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "TelAgentBench: A Multi-faceted Benchmark for Evaluating LLM-based Agents in Telecommunications",
+  "authors": [
+    "Sunwoo Lee",
+    "Daseong Jang",
+    "Dhammiko Arya",
+    "Gyoung-eun Han",
+    "Injee Song",
+    "Saerom Kim",
+    "SangJin Kim",
+    "Seojin Lee",
+    "Seokyoung Hong",
+    "Sereimony Sek",
+    "Seung-Mo Cho",
+    "Sohee Park",
+    "Sungbin Yoon",
+    "Wonbeom Jang",
+    "Eric Davis"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2025.emnlp-industry.83",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.83/"
+}

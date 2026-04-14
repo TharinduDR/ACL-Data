@@ -1,0 +1,26 @@
+{
+  "title": "Improving Neutral Point-of-View Generation with Data- and Parameter-Efficient RL",
+  "authors": [
+    "Jessica Hoffmann",
+    "Christiane Ahlheim",
+    "Zac Yu",
+    "Aria Walftrand",
+    "Jarvis Jin",
+    "Marie Tano",
+    "Ahmad Beirami",
+    "Erin van Liemt",
+    "Nithum Thain",
+    "Hakim Sidahmed",
+    "Lucas Dixon"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.emnlp-main.1395",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1395/"
+}

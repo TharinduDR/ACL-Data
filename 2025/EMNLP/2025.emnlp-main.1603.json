@@ -1,0 +1,20 @@
+{
+  "title": "RALS: Resources and Baselines for Romanian Automatic Lexical Simplification",
+  "authors": [
+    "Fabian Anghel",
+    "Petru Theodor Cristea",
+    "Claudiu Creangă",
+    "Sergiu Nisioi"
+  ],
+  "languages": [
+    "Romanian",
+    "English"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.emnlp-main.1603",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1603/"
+}

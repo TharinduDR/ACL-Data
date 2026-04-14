@@ -1,0 +1,27 @@
+{
+  "title": "MAKAR: a Multi-Agent framework based Knowledge-Augmented Reasoning for Grounded Multimodal Named Entity Recognition",
+  "authors": [
+    "Xinkui Lin",
+    "Yuhui Zhang",
+    "Yongxiu Xu",
+    "Kun Huang",
+    "Hongzhang Mu",
+    "Yubin Wang",
+    "Gaopeng Gou",
+    "Li Qian",
+    "Li Peng",
+    "Wei Liu",
+    "Jian Luan",
+    "Hongbo Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.emnlp-main.311",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.311/"
+}

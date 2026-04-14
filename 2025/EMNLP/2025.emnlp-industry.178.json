@@ -1,0 +1,25 @@
+{
+  "title": "CTR-Guided Generative Query Suggestion in Conversational Search",
+  "authors": [
+    "Erxue Min",
+    "Hsiu-Yuan Huang",
+    "Xihong Yang",
+    "Min Yang",
+    "Xin Jia",
+    "Yunfang Wu",
+    "Hengyi Cai",
+    "Junfeng Wang",
+    "Shuaiqiang Wang",
+    "Dawei Yin"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-industry.178",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.178/"
+}

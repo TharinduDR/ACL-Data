@@ -1,0 +1,24 @@
+{
+  "title": "KMMLU: Measuring Massive Multitask Language Understanding in Korean",
+  "authors": [
+    "Guijin Son",
+    "Hanwool Lee",
+    "Sungdong Kim",
+    "Seungone Kim",
+    "Niklas Muennighoff",
+    "Taekyoon Choi",
+    "Cheonbok Park",
+    "Kang Min Yoo",
+    "Stella Biderman"
+  ],
+  "languages": [
+    "Korean"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.naacl-long.206",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.206/"
+}

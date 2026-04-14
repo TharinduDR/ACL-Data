@@ -1,0 +1,24 @@
+{
+  "title": "SUMTra: A Differentiable Pipeline for Few-Shot Cross-Lingual Summarization",
+  "authors": [
+    "Jacob Parnell",
+    "Iñigo Jauregi Unanue",
+    "Massimo Piccardi"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Bengali",
+    "Arabic",
+    "Chinese",
+    "Thai",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2024.naacl-long.133",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.133/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Controlled Generation for Private Synthetic Text",
+  "authors": [
+    "Zihao Zhao",
+    "Anjalie Field"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.emnlp-main.1663",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1663/"
+}

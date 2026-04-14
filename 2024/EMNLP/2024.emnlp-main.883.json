@@ -1,0 +1,30 @@
+{
+  "title": "ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models",
+  "authors": [
+    "Haiquan Zhao",
+    "Lingyu Li",
+    "Shisong Chen",
+    "Shuqi Kong",
+    "Jiaan Wang",
+    "Kexin Huang",
+    "Tianle Gu",
+    "Yixu Wang",
+    "Jian Wang",
+    "Dandan Liang",
+    "Zhixu Li",
+    "Yan Teng",
+    "Yanghua Xiao",
+    "Yingchun Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.emnlp-main.883",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.883/"
+}

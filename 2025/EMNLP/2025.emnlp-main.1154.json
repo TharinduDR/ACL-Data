@@ -1,0 +1,22 @@
+{
+  "title": "Enhancing Chinese Offensive Language Detection with Homophonic Perturbation",
+  "authors": [
+    "Junqi Wu",
+    "Shujie Ji",
+    "Kang Zhong",
+    "Huiling Peng",
+    "Zhendong Xiao",
+    "Xiongding Liu",
+    "Wu Wei"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.emnlp-main.1154",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1154/"
+}

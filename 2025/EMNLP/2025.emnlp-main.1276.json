@@ -1,0 +1,31 @@
+{
+  "title": "WebMMU: A Benchmark for Multimodal Multilingual Website Understanding and Code Generation",
+  "authors": [
+    "Rabiul Awal",
+    "Mahsa Massoud",
+    "Aarash Feizi",
+    "Zichao Li",
+    "Suyuchen Wang",
+    "Christopher Pal",
+    "Aishwarya Agrawal",
+    "David Vazquez",
+    "Siva Reddy",
+    "Juan A. Rodriguez",
+    "Perouz Taslakian",
+    "Spandana Gella",
+    "Sai Rajeswar"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1276",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1276/"
+}

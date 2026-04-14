@@ -1,0 +1,26 @@
+{
+  "title": "Multilingual Federated Low-Rank Adaptation for Collaborative Content Anomaly Detection across Multilingual Social Media Participants",
+  "authors": [
+    "Jiaxin Li",
+    "Geng Zhao",
+    "Xiaoci Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Japanese",
+    "Korean",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Italian",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.emnlp-main.770",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.770/"
+}

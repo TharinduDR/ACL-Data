@@ -1,0 +1,29 @@
+{
+  "title": "MILU: A Multi-task Indic Language Understanding Benchmark",
+  "authors": [
+    "Sshubam Verma",
+    "Mohammed Safi Ur Rahman Khan",
+    "Vishwajeet Kumar",
+    "Rudra Murthy",
+    "Jaydeep Sen"
+  ],
+  "languages": [
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Odia",
+    "Punjabi",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T29 NLP for education",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-long.507",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.507/"
+}

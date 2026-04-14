@@ -1,0 +1,22 @@
+{
+  "title": "CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking",
+  "authors": [
+    "Xuming Hu",
+    "Zhijiang Guo",
+    "Guanyu Wu",
+    "Aiwei Liu",
+    "Lijie Wen",
+    "Philip S. Yu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.naacl-main.246",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.246/"
+}

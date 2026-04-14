@@ -1,0 +1,21 @@
+{
+  "title": "FlipGuard: Defending Preference Alignment against Update Regression with Constrained Optimization",
+  "authors": [
+    "Mingye Zhu",
+    "Yi Liu",
+    "Quan Wang",
+    "Junbo Guo",
+    "Zhendong Mao"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.emnlp-main.960",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.960/"
+}

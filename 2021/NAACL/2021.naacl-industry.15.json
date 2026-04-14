@@ -1,0 +1,20 @@
+{
+  "title": "LightSeq: A High Performance Inference Library for Transformers",
+  "authors": [
+    "Xiaohui Wang",
+    "Ying Xiong",
+    "Yang Wei",
+    "Mingxuan Wang",
+    "Lei Li"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2021.naacl-industry.15",
+  "acl_url": "https://aclanthology.org/2021.naacl-industry.15/"
+}

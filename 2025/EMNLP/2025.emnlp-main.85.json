@@ -1,0 +1,19 @@
+{
+  "title": "From Schema to State: Zero-Shot Scheme-Only Dialogue State Tracking via Diverse Synthetic Dialogue and Step-by-Step Distillation",
+  "authors": [
+    "Huan Xu",
+    "Zequan Li",
+    "Wen Tang",
+    "Jian Jun Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.85",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.85/"
+}

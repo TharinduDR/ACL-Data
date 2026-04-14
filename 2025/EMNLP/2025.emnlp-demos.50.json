@@ -1,0 +1,20 @@
+{
+  "title": "TokenSmith: Streamlining Data Editing, Search, and Inspection for Large-Scale Language Model Training and Interpretability",
+  "authors": [
+    "Mohammad Aflah Khan",
+    "Ameya Godbole",
+    "Johnny Tian-Zheng Wei",
+    "Ryan Wang",
+    "James Flemings",
+    "Krishna P. Gummadi",
+    "Willie Neiswanger",
+    "Robin Jia"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-demos.50",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.50/"
+}

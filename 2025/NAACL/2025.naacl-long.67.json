@@ -1,0 +1,25 @@
+{
+  "title": "On the Role of Speech Data in Reducing Toxicity Detection Bias",
+  "authors": [
+    "Samuel J. Bell",
+    "Mariano Coria Meglioli",
+    "Megan Richards",
+    "Eduardo Sánchez",
+    "Christophe Ropers",
+    "Skyler Wang",
+    "Adina Williams",
+    "Levent Sagun",
+    "Marta R. Costa-jussà"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.naacl-long.67",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.67/"
+}

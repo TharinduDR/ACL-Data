@@ -1,0 +1,20 @@
+{
+  "title": "Bridging External and Parametric Knowledge: Mitigating Hallucination of LLMs with Shared-Private Semantic Synergy in Dual-Stream Knowledge",
+  "authors": [
+    "Yi Sui",
+    "Chaozhuo Li",
+    "Chen Zhang",
+    "Dawei Song",
+    "Qiuchi Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.emnlp-main.549",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.549/"
+}

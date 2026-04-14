@@ -1,0 +1,21 @@
+{
+  "title": "Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach",
+  "authors": [
+    "Yue Yu",
+    "Simiao Zuo",
+    "Haoming Jiang",
+    "Wendi Ren",
+    "Tuo Zhao",
+    "Chao Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.naacl-main.84",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.84/"
+}

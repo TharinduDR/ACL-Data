@@ -1,0 +1,23 @@
+{
+  "title": "JUREX-4E: Juridical Expert-Annotated Four-Element Knowledge Base for Legal Reasoning",
+  "authors": [
+    "Huanghai Liu",
+    "Quzhe Huang",
+    "Qingjing Chen",
+    "Yiran Hu",
+    "Jiayu Ma",
+    "Yun Liu",
+    "Weixing Shen",
+    "Yansong Feng"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.188",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.188/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "DOCAMR: Multi-Sentence AMR Representation and Evaluation",
+  "authors": [
+    "Tahira Naseem",
+    "Austin Blodgett",
+    "Sadhana Kumaravel",
+    "Tim O'Gorman",
+    "Young-Suk Lee",
+    "Jeffrey Flanigan",
+    "Ramón Fernandez Astudillo",
+    "Radu Florian",
+    "Salim Roukos",
+    "Nathan Schneider"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-main.256",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.256/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Task Arithmetic can Mitigate Synthetic-to-Real Gap in Automatic Speech Recognition",
+  "authors": [
+    "Hsuan Su",
+    "Hua Farn",
+    "Fan-Yun Sun",
+    "Shang-Tse Chen",
+    "Hung-yi Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.emnlp-main.503",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.503/"
+}

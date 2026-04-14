@@ -1,0 +1,19 @@
+{
+  "title": "Context-Efficient Retrieval with Factual Decomposition",
+  "authors": [
+    "Yanhong Li",
+    "David Yunis",
+    "David McAllester",
+    "Jiawei Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.naacl-short.16",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.16/"
+}

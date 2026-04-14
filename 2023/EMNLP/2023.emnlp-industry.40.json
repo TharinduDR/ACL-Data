@@ -1,0 +1,25 @@
+{
+  "title": "CL-QR: Cross-Lingual Enhanced Query Reformulation for Multi-lingual Conversational AI Agents",
+  "authors": [
+    "Zhongkai Sun",
+    "Zhengyang Zhao",
+    "Sixing Lu",
+    "Chengyuan Ma",
+    "Xiaohu Liu",
+    "Xing Fan",
+    "Wei Shen",
+    "Chenlei Guo"
+  ],
+  "languages": [
+    "Spanish",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.emnlp-industry.40",
+  "acl_url": "https://aclanthology.org/2023.emnlp-industry.40/"
+}

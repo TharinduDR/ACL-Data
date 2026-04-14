@@ -1,0 +1,25 @@
+{
+  "title": "Towards a Generalizable Native American Language Identification System",
+  "authors": [
+    "Ivory Yang",
+    "Weicheng Ma",
+    "Carlos Guerrero Alvarez",
+    "William Dinauer",
+    "Sorouch Vosoughi"
+  ],
+  "languages": [
+    "Plains Apache",
+    "Navajo",
+    "Mescalero Apache",
+    "Jicarilla Apache",
+    "Lipan Apache",
+    "Western Apache"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2025.naacl-srw.10",
+  "acl_url": "https://aclanthology.org/2025.naacl-srw.10/"
+}

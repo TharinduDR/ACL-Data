@@ -1,0 +1,23 @@
+{
+  "title": "Sycophancy Mitigation Through Reinforcement Learning with Uncertainty-Aware Adaptive Reasoning Trajectories",
+  "authors": [
+    "Mohammad Beigi",
+    "Ying Shen",
+    "Parshin Shojaei",
+    "Qifan Wang",
+    "Zichao Wang",
+    "Chandan K Reddy",
+    "Ming Jin",
+    "Lifu Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.661",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.661/"
+}

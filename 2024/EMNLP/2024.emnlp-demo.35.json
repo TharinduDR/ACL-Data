@@ -1,0 +1,38 @@
+{
+  "title": "LLM-DetectAIve: a Tool for Fine-Grained Machine-Generated Text Detection",
+  "authors": [
+    "Mervat Abassy",
+    "Kareem Elozeiri",
+    "Alexander Aziz",
+    "Minh Ngoc Ta",
+    "Raj Vardhan Tomar",
+    "Bimarsha Adhikari",
+    "Saad El Dine Ahmed",
+    "Yuxia Wang",
+    "Osama Mohammed Afzal",
+    "Zhuohan Xie",
+    "Jonibek Mansurov",
+    "Ekaterina Artemova",
+    "Vladislav Mikhailov",
+    "Rui Xing",
+    "Jiahui Geng",
+    "Hasan Iqbal",
+    "Zain Muhammad Mujahid",
+    "Tarek Mahmoud",
+    "Akim Tsvigun",
+    "Alham Fikri Aji",
+    "Artem Shelmanov",
+    "Nizar Habash",
+    "Iryna Gurevych",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.emnlp-demo.35",
+  "acl_url": "https://aclanthology.org/2024.emnlp-demo.35/"
+}

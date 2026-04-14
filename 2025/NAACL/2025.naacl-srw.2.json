@@ -1,0 +1,18 @@
+{
+  "title": "INSIGHTBUDDY-AI: Medication Extraction and Entity Linking using Pre-Trained Language Models and Ensemble Learning",
+  "authors": [
+    "Pablo Romero",
+    "Lifeng Han",
+    "Goran Nenadic"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.naacl-srw.2",
+  "acl_url": "https://aclanthology.org/2025.naacl-srw.2/"
+}

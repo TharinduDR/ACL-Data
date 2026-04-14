@@ -1,0 +1,21 @@
+{
+  "title": "Can LLMs Convert Graphs to Text-Attributed Graphs?",
+  "authors": [
+    "Zehong Wang",
+    "Sidney Liu",
+    "Zheyuan Zhang",
+    "Tianyi Ma",
+    "Chuxu Zhang",
+    "Yanfang Ye"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.naacl-long.65",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.65/"
+}

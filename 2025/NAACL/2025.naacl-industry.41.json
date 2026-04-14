@@ -1,0 +1,17 @@
+{
+  "title": "Can Post-Training Quantization Benefit from an Additional QLoRA Integration?",
+  "authors": [
+    "Xiliang Zhu",
+    "Elena Khasanova",
+    "Cheng Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.naacl-industry.41",
+  "acl_url": "https://aclanthology.org/2025.naacl-industry.41/"
+}

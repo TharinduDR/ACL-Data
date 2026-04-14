@@ -1,0 +1,26 @@
+{
+  "title": "Masked Part-Of-Speech Model: Does Modeling Long Context Help Unsupervised POS-tagging?",
+  "authors": [
+    "Xiang Zhou",
+    "Shiyue Zhang",
+    "Mohit Bansal"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Indonesian",
+    "Korean",
+    "Japanese",
+    "Portuguese",
+    "Italian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.naacl-main.81",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.81/"
+}

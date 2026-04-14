@@ -1,0 +1,29 @@
+{
+  "title": "Mind the Inclusivity Gap: Multilingual Gender-Neutral Translation Evaluation with mGENTE",
+  "authors": [
+    "Beatrice Savoldi",
+    "Giuseppe Attanasio",
+    "Eleonora Cupin",
+    "Eleni Gkovedarou",
+    "Janiça Hackenbuchner",
+    "Anne Lauscher",
+    "Matteo Negri",
+    "Andrea Piergentili",
+    "Manjinder Thind",
+    "Luisa Bentivogli"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Spanish",
+    "German",
+    "Greek"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.692",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.692/"
+}

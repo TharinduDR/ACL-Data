@@ -1,0 +1,25 @@
+{
+  "title": "Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters",
+  "authors": [
+    "Euiin Yi",
+    "Taehyeon Kim",
+    "Hongseok Jeung",
+    "Du-Seong Chang",
+    "Se-Young Yun"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.602",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.602/"
+}

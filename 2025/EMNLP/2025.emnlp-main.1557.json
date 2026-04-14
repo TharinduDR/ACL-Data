@@ -1,0 +1,19 @@
+{
+  "title": "Can LLMs Extract Frame-Semantic Arguments?",
+  "authors": [
+    "Jacob Devasier",
+    "Rishabh Mediratta",
+    "Chengkai Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.1557",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1557/"
+}

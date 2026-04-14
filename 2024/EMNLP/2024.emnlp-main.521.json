@@ -1,0 +1,20 @@
+{
+  "title": "LLM See, LLM Do: Leveraging Active Inheritance to Target Non-Differentiable Objectives",
+  "authors": [
+    "Luísa Shimabucoro",
+    "Sebastian Ruder",
+    "Julia Kreutzer",
+    "Marzieh Fadaee",
+    "Sara Hooker"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.521",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.521/"
+}

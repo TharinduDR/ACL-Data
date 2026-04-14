@@ -1,0 +1,19 @@
+{
+  "title": "Train It and Forget It: Merge Lists are Unnecessary for BPE Inference in Language Models",
+  "authors": [
+    "Tomohiro Sawada",
+    "Kartik Goyal"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.emnlp-main.1775",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1775/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Generative Annotation for ASR Named Entity Correction",
+  "authors": [
+    "Yuanchang Luo",
+    "Daimeng Wei",
+    "Shaojun Li",
+    "Hengchao Shang",
+    "Jiaxin Guo",
+    "Zongyao Li",
+    "Zhanglin Wu",
+    "Xiaoyu Chen",
+    "Zhiqiang Rao",
+    "Jinlong Yang",
+    "Hao Yang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.emnlp-main.1052",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1052/"
+}

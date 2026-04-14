@@ -1,0 +1,21 @@
+{
+  "title": "Is It Good Data for Multilingual Instruction Tuning or Just Bad Multilingual Evaluation for Large Language Models?",
+  "authors": [
+    "Pinzhen Chen",
+    "Simon Yu",
+    "Zhicheng Guo",
+    "Barry Haddow"
+  ],
+  "languages": [
+    "Chinese",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.542",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.542/"
+}

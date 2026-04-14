@@ -1,0 +1,28 @@
+{
+  "title": "Empowering Multi-step Reasoning across Languages via Program-Aided Language Models",
+  "authors": [
+    "Leonardo Ranaldi",
+    "Giulia Pucci",
+    "Barry Haddow",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "French",
+    "Russian",
+    "Swahili",
+    "Spanish",
+    "Bengali",
+    "Japanese",
+    "Telugu",
+    "Thai"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T16 Machine Translation and Translation Aids",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2024.emnlp-main.678",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.678/"
+}

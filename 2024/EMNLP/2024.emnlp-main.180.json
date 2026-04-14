@@ -1,0 +1,23 @@
+{
+  "title": "BC-Prover: Backward Chaining Prover for Formal Theorem Proving",
+  "authors": [
+    "Yuhang He",
+    "Jihai Zhang",
+    "Jianzhu Bao",
+    "Fangquan Lin",
+    "Cheng Yang",
+    "Bing Qin",
+    "Ruifeng Xu",
+    "Wotao Yin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.emnlp-main.180",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.180/"
+}

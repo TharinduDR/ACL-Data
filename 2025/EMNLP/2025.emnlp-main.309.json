@@ -1,0 +1,23 @@
+{
+  "title": "DMDTEval: An Evaluation and Analysis of LLMs on Disambiguation in Multi-domain Translation",
+  "authors": [
+    "Zhibo Man",
+    "Yuanmeng Chen",
+    "Yujie Zhang",
+    "Jinan Xu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Japanese",
+    "Korean"
+  ],
+  "research_areas": [
+    "T16",
+    "T08",
+    "T15"
+  ],
+  "paper_id": "2025.emnlp-main.309",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.309/"
+}

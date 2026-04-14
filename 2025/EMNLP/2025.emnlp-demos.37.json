@@ -1,0 +1,20 @@
+{
+  "title": "End-to-End Multilingual Automatic Dubbing via Duration-based Translation with Large Language Models",
+  "authors": [
+    "Hyun-Sik Won",
+    "DongJin Jeong",
+    "HyunKyu Choi",
+    "JinWon Kim"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Korean"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.emnlp-demos.37",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.37/"
+}

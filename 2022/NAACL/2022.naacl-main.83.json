@@ -1,0 +1,20 @@
+{
+  "title": "CoSe-Co: Text Conditioned Generative CommonSense Contextualizer",
+  "authors": [
+    "Rachit Bansal",
+    "Milan Aggarwal",
+    "Sumit Bhatia",
+    "Jivat Neet Kaur",
+    "Balaji Krishnamurthy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.naacl-main.83",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.83/"
+}

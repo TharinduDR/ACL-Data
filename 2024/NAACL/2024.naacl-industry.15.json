@@ -1,0 +1,25 @@
+{
+  "title": "AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators",
+  "authors": [
+    "Xingwei He",
+    "Zhenghao Lin",
+    "Yeyun Gong",
+    "A-Long Jin",
+    "Hang Zhang",
+    "Chen Lin",
+    "Jian Jiao",
+    "Siu-Ming Yiu",
+    "Nan Duan",
+    "Weizhu Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.naacl-industry.15",
+  "acl_url": "https://aclanthology.org/2024.naacl-industry.15/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering",
+  "authors": [
+    "Sungho Ko",
+    "Hyunjin Cho",
+    "Hyungjoo Chae",
+    "Jinyoung Yeo",
+    "Dongha Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.emnlp-main.594",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.594/"
+}

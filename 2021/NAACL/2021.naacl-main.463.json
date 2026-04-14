@@ -1,0 +1,19 @@
+{
+  "title": "TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference",
+  "authors": [
+    "Deming Ye",
+    "Yankai Lin",
+    "Yufei Huang",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T20 Opinion & Argument Mining, Sentiment Analysis"
+  ],
+  "paper_id": "2021.naacl-main.463",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.463/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Dialect-SQL: An Adaptive Framework for Bridging the Dialect Gap in Text-to-SQL",
+  "authors": [
+    "Jie Shi",
+    "Xi Cao",
+    "Bo Xu",
+    "Jiaqing Liang",
+    "Yanghua Xiao",
+    "Jia Chen",
+    "Peng Wang",
+    "Wei Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.178",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.178/"
+}

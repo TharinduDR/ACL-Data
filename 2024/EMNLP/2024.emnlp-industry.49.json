@@ -1,0 +1,23 @@
+{
+  "title": "MILD Bot: Multidisciplinary Childhood Cancer Survivor Question-Answering Bot",
+  "authors": [
+    "Mirae Kim",
+    "Kyubum Hwang",
+    "Hayoung Oh",
+    "Min Ah Kim",
+    "Chaerim Park",
+    "Yehwi Park",
+    "Chungyeon Lee"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2024.emnlp-industry.49",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.49/"
+}

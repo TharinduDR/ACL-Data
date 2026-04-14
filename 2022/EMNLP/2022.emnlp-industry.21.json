@@ -1,0 +1,25 @@
+{
+  "title": "SLATE: A Sequence Labeling Approach for Task Extraction from Free-form Inked Content",
+  "authors": [
+    "Apurva Gandhi",
+    "Ryan Serrao",
+    "BiYi Fang",
+    "Gilbert Antonius",
+    "Jenna Hong",
+    "Tra My Nguyen",
+    "Sheng Yi",
+    "Ehi Nosakhare",
+    "Irene Shaffer",
+    "Soundararajan Srinivasan",
+    "Vivek Gupta"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-industry.21",
+  "acl_url": "https://aclanthology.org/2022.emnlp-industry.21/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Datasets and Recipes for Video Temporal Grounding via Reinforcement Learning",
+  "authors": [
+    "Ruizhe Chen",
+    "Tianze Luo",
+    "Zhiting Fan",
+    "Heqing Zou",
+    "Zhaopeng Feng",
+    "Guiyang Xie",
+    "Hansheng Zhang",
+    "Zhuochen Wang",
+    "Zuozhu Liu",
+    "Huaijian Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-industry.66",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.66/"
+}

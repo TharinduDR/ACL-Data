@@ -1,0 +1,26 @@
+{
+  "title": "Exploring the Impact of Table-to-Text Methods on Augmenting LLM-based Question Answering with Domain Hybrid Data",
+  "authors": [
+    "Dehai Min",
+    "Nan Hu",
+    "Rihui Jin",
+    "Nuo Lin",
+    "Jiaoyan Chen",
+    "Yongrui Chen",
+    "Yu Li",
+    "Guilin Qi",
+    "Yun Li",
+    "Nijun Li",
+    "Qianren Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-industry.41",
+  "acl_url": "https://aclanthology.org/2024.naacl-industry.41/"
+}

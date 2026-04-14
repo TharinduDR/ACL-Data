@@ -1,0 +1,22 @@
+{
+  "title": "VocalNet: Speech LLMs with Multi-Token Prediction for Faster and High-Quality Generation",
+  "authors": [
+    "Yuhao Wang",
+    "Heyang Liu",
+    "Ziyang Cheng",
+    "Ronghua Wu",
+    "Qunshan Gu",
+    "Yanfeng Wang",
+    "Yu Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2025.emnlp-main.989",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.989/"
+}

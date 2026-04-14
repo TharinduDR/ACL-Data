@@ -1,0 +1,27 @@
+{
+  "title": "Fair Abstractive Summarization of Diverse Perspectives",
+  "authors": [
+    "Yusen Zhang",
+    "Nan Zhang",
+    "Yixin Liu",
+    "Alexander Fabbri",
+    "Junru Liu",
+    "Ryo Kamoi",
+    "Xiaoxin Lu",
+    "Caiming Xiong",
+    "Jieyu Zhao",
+    "Dragomir Radev",
+    "Kathleen McKeown",
+    "Rui Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.187",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.187/"
+}

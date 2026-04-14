@@ -1,0 +1,27 @@
+{
+  "title": "Towards Knowledge Checking in Retrieval-augmented Generation: A Representation Perspective",
+  "authors": [
+    "Shenglai Zeng",
+    "Jiankun Zhang",
+    "Bingheng Li",
+    "Yuping Lin",
+    "Tianqi Zheng",
+    "Dante Everaert",
+    "Hanqing Lu",
+    "Hui Liu",
+    "Hui Liu",
+    "Yue Xing",
+    "Monica Xiao Cheng",
+    "Jiliang Tang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-long.151",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.151/"
+}

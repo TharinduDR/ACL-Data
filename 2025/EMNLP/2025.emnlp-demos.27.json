@@ -1,0 +1,25 @@
+{
+  "title": "MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models",
+  "authors": [
+    "Zhiwei Liu",
+    "Jielin Qiu",
+    "Shiyu Wang",
+    "Jianguo Zhang",
+    "Zuxin Liu",
+    "Roshan Ram",
+    "Haolin Chen",
+    "Weiran Yao",
+    "Shelby Heinecke",
+    "Silvio Savarese",
+    "Huan Wang",
+    "Caiming Xiong"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.emnlp-demos.27",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.27/"
+}

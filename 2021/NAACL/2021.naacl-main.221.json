@@ -1,0 +1,21 @@
+{
+  "title": "EDGE: Enriching Knowledge Graph Embeddings with External Text",
+  "authors": [
+    "Saed Rezayi",
+    "Handong Zhao",
+    "Sungchul Kim",
+    "Ryan A. Rossi",
+    "Nedim Lipka",
+    "Sheng Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.naacl-main.221",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.221/"
+}

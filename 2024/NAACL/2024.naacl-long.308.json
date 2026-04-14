@@ -1,0 +1,19 @@
+{
+  "title": "Retrieval Helps or Hurts? A Deeper Dive into the Efficacy of Retrieval Augmentation to Language Models",
+  "authors": [
+    "Seiji Maekawa",
+    "Hayate Iso",
+    "Sairam Gurajada",
+    "Nikita Bhutani"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.naacl-long.308",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.308/"
+}

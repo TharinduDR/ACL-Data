@@ -1,0 +1,24 @@
+{
+  "title": "Self-Adjust Softmax",
+  "authors": [
+    "Chuanyang Zheng",
+    "Yihang Gao",
+    "Guoxuan Chen",
+    "Han Shi",
+    "Jing Xiong",
+    "Xiaozhe Ren",
+    "Chao Huang",
+    "Zhenguo Li",
+    "Yu Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.397",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.397/"
+}

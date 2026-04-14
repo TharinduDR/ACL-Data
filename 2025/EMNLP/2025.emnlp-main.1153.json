@@ -1,0 +1,28 @@
+{
+  "title": "MiLQ: Benchmarking IR Models for Bilingual Web Search with Mixed Language Queries",
+  "authors": [
+    "Jonghwi Kim",
+    "Deokhyung Kang",
+    "Seonjeong Hwang",
+    "Yunsu Kim",
+    "Jungseul Ok",
+    "Gary Geunbae Lee"
+  ],
+  "languages": [
+    "English",
+    "Swahili",
+    "Somali",
+    "Finnish",
+    "German",
+    "French",
+    "Chinese",
+    "Persian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1153",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1153/"
+}

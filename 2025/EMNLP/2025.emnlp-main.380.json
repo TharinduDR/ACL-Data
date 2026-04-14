@@ -1,0 +1,20 @@
+{
+  "title": "RTE-GMoE: A Model-agnostic Approach for Relation Triplet Extraction via Graph-based Mixture-of-Expert Mutual Learning",
+  "authors": [
+    "Aziguli Wulamu",
+    "Kaiyuan Gong",
+    "Lyu Zhengyu",
+    "Yu Han",
+    "Zhihong Zhu",
+    "Bowen Xing"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.emnlp-main.380",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.380/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models",
+  "authors": [
+    "Hyungjoo Chae",
+    "Yeonghyeon Kim",
+    "Seungone Kim",
+    "Kai Tzu-iunn Ong",
+    "Beong-woo Kwak",
+    "Moohyeon Kim",
+    "Seonghwan Kim",
+    "Taeyoon Kwon",
+    "Seungjun Moon",
+    "Jiwan Chung",
+    "Youngjae Yu",
+    "Jinyoung Yeo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.emnlp-main.1253",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1253/"
+}

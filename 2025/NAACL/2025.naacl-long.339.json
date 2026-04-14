@@ -1,0 +1,41 @@
+{
+  "title": "LegalViz: Legal Text Visualization by Text To Diagram Generation",
+  "authors": [
+    "Eri Onami",
+    "Taiki Miyaniishi",
+    "Koki Maeda",
+    "Shuhei Kurita"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Spanish",
+    "Czech",
+    "Danish",
+    "German",
+    "Estonian",
+    "Greek",
+    "English",
+    "French",
+    "Croatian",
+    "Italian",
+    "Latvian",
+    "Lithuanian",
+    "Hungarian",
+    "Maltese",
+    "Dutch",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Slovak",
+    "Slovenian",
+    "Finnish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.naacl-long.339",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.339/"
+}

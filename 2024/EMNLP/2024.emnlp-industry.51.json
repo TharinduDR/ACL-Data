@@ -1,0 +1,16 @@
+{
+  "title": "Improving Few-Shot Cross-Domain Named Entity Recognition by Instruction Tuning a Word-Embedding based Retrieval Augmented Large Language Model",
+  "authors": [
+    "Subhadip Nandi",
+    "Neeraj Agrawal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-industry.51",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.51/"
+}

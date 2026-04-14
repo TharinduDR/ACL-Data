@@ -1,0 +1,28 @@
+{
+  "title": "WordArt Designer: User-Driven Artistic Typography Synthesis using Large Language Models",
+  "authors": [
+    "Jun-Yan He",
+    "Zhi-Qi Cheng",
+    "Chenyang Li",
+    "Jingdong Sun",
+    "Wangmeng Xiang",
+    "Xianhui Lin",
+    "Xiaoyang Kang",
+    "Zengke Jin",
+    "Yusen Hu",
+    "Bin Luo",
+    "Yifeng Geng",
+    "Xuansong Xie"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.emnlp-industry.23",
+  "acl_url": "https://aclanthology.org/2023.emnlp-industry.23/"
+}

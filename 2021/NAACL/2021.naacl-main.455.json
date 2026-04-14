@@ -1,0 +1,21 @@
+{
+  "title": "SGG: Learning to Select, Guide, and Generate for Keyphrase Generation",
+  "authors": [
+    "Jing Zhao",
+    "Junwei Bao",
+    "Yifan Wang",
+    "Youzheng Wu",
+    "Xiaodong He",
+    "Bowen Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.naacl-main.455",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.455/"
+}

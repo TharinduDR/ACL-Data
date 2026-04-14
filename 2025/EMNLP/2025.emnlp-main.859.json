@@ -1,0 +1,20 @@
+{
+  "title": "Calibrating LLMs for Text-to-SQL Parsing by Leveraging Sub-clause Frequencies",
+  "authors": [
+    "Terrance Liu",
+    "Shuyi Wang",
+    "Daniel PreoŢiuc-Pietro",
+    "Yash Chandarana",
+    "Chirag Gupta"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.859",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.859/"
+}

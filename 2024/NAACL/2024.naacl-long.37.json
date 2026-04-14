@@ -1,0 +1,22 @@
+{
+  "title": "InsCL: A Data-efficient Continual Learning Paradigm for Fine-tuning Large Language Models with Instructions",
+  "authors": [
+    "Yifan Wang",
+    "Yafei Liu",
+    "Chufan Shi",
+    "Haoling Li",
+    "Chen Chen",
+    "Haonan Lu",
+    "Yujiu Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.naacl-long.37",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.37/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Large Language Models Badly Generalize across Option Length, Problem Types, and Irrelevant Noun Replacements",
+  "authors": [
+    "Guangxiang Zhao",
+    "Saier Hu",
+    "Xiaoqi Jian",
+    "Jin Zhu Wu",
+    "Yuhan Wu",
+    "Lin Sun",
+    "Xiangzheng Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.1362",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1362/"
+}

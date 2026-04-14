@@ -1,0 +1,27 @@
+{
+  "title": "A Comparison of Language Modeling and Translation as Multilingual Pretraining Objectives",
+  "authors": [
+    "Zihao Li",
+    "Shaoxiong Ji",
+    "Timothee Mickus",
+    "Vincent Segonne",
+    "Jörg Tiedemann"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Chinese",
+    "Russian",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.emnlp-main.888",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.888/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "M3T: A New Benchmark Dataset for Multi-Modal Document-Level Machine Translation",
+  "authors": [
+    "Benjamin Hsu",
+    "Xiaoyu Liu",
+    "Huayang Li",
+    "Yoshinari Fujinuma",
+    "Maria Nadeje",
+    "Xing Niu",
+    "Yair Kittenplon",
+    "Ron Litman",
+    "Raghavendra Pappagari"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-short.41",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.41/"
+}

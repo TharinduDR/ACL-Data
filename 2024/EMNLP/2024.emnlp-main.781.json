@@ -1,0 +1,19 @@
+{
+  "title": "Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Hop Queries",
+  "authors": [
+    "Eden Biran",
+    "Daniela Gottesman",
+    "Sohee Yang",
+    "Mor Geva",
+    "Amir Globerson"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-main.781",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.781/"
+}

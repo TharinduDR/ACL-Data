@@ -1,0 +1,19 @@
+{
+  "title": "A Probabilistic Framework for LLM Hallucination Detection via Belief Tree Propagation",
+  "authors": [
+    "Bairu Hou",
+    "Yang Zhang",
+    "Jacob Andreas",
+    "Shiyu Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.naacl-long.158",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.158/"
+}

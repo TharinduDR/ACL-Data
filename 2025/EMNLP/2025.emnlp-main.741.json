@@ -1,0 +1,20 @@
+{
+  "title": "WISE: Weak-Supervision-Guided Step-by-Step Explanations for Multimodal LLMs in Image Classification",
+  "authors": [
+    "Yiwen Jiang",
+    "Deval Mehta",
+    "Siyuan Yan",
+    "Yaling Shen",
+    "Zimu Wang",
+    "Zongyuan Ge"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.emnlp-main.741",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.741/"
+}

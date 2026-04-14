@@ -1,0 +1,19 @@
+{
+  "title": "GRASS: Compute Efficient Low-Memory LLM Training with Structured Sparse Gradients",
+  "authors": [
+    "Aashiq Muhammed",
+    "Oscar Li",
+    "David Woodruff",
+    "Mona Diab",
+    "Virginia Smith"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2024.emnlp-main.835",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.835/"
+}

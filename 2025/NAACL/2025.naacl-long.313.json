@@ -1,0 +1,40 @@
+{
+  "title": "Examining and Adapting Time for Multilingual Classification via Mixture of Temporal Experts",
+  "authors": [
+    "Weisi Liu",
+    "Guangzeng Han",
+    "Xiaolei Huang"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Danish",
+    "Spanish",
+    "Croatian",
+    "Maltese",
+    "Italian",
+    "Polish",
+    "Romanian",
+    "Dutch",
+    "Greek",
+    "Hungarian",
+    "Portuguese",
+    "Czech",
+    "Swedish",
+    "Bulgarian",
+    "Finnish",
+    "Slovak",
+    "Lithuanian",
+    "Slovene",
+    "Estonian",
+    "Latvian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.naacl-long.313",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.313/"
+}

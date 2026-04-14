@@ -1,0 +1,25 @@
+{
+  "title": "Language Mixing in Reasoning Language Models: Patterns, Impact, and Internal Causes",
+  "authors": [
+    "Mingyang Wang",
+    "Lukas Lange",
+    "Heike Adel",
+    "Yunpu Ma",
+    "Jannik Strötgen",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "French",
+    "Hindi",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.132",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.132/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Joint Pre-Encoding Representation and Structure Embedding for Efficient and Low-Resource Knowledge Graph Completion",
+  "authors": [
+    "Chenyu Qiu",
+    "Pengjiang Qian",
+    "Chuang Wang",
+    "Jian Yao",
+    "Li Liu",
+    "Wei Fang",
+    "Eddie-Yin-Kwee Ng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.851",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.851/"
+}

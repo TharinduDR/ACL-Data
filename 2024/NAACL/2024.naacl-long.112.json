@@ -1,0 +1,24 @@
+{
+  "title": "Are Multilingual LLMs Culturally-Diverse Reasoners? An Investigation into Multicultural Proverbs and Sayings",
+  "authors": [
+    "Chen Cecilia Liu",
+    "Fajri Koto",
+    "Timothy Baldwin",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Russian",
+    "Bengali",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.naacl-long.112",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.112/"
+}

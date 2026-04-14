@@ -1,0 +1,21 @@
+{
+  "title": "JOLT-SQL: Joint Loss Tuning of Text-to-SQL with Confusion-aware Noisy Schema Sampling",
+  "authors": [
+    "Jinwang Song",
+    "Hongying Zan",
+    "Kunli Zhang",
+    "Lingling Mu",
+    "Yingjie Han",
+    "Haobo Hua",
+    "Min Peng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-main.308",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.308/"
+}

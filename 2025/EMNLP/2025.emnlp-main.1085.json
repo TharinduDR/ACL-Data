@@ -1,0 +1,23 @@
+{
+  "title": "Reinforcement Learning for Large Language Models via Group Preference Reward Shaping",
+  "authors": [
+    "Huaisheng Zhu",
+    "Siyuan Xu",
+    "Hangfan Zhang",
+    "Teng Xiao",
+    "Zhimeng Guo",
+    "Shijie Zhou",
+    "Shuyue Hu",
+    "Vasant G Honavar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.1085",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1085/"
+}

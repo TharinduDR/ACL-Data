@@ -1,0 +1,22 @@
+{
+  "title": "Beyond Yes and No: Improving Zero-Shot LLM Rankers via Scoring Fine-Grained Relevance Labels",
+  "authors": [
+    "Honglei Zhuang",
+    "Zhen Qin",
+    "Kai Hui",
+    "Junru Wu",
+    "Le Yan",
+    "Xuanhui Wang",
+    "Michael Bendersky"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-short.31",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.31/"
+}

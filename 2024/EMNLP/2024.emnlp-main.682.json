@@ -1,0 +1,23 @@
+{
+  "title": "README++: Benchmarking Multilingual Language Models for Multi-Domain Readability Assessment",
+  "authors": [
+    "Tarek Naous",
+    "Michael J. Ryan",
+    "Anton Lavrouk",
+    "Mohit Chandra",
+    "Wei Xu"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "French",
+    "Hindi",
+    "Russian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.682",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.682/"
+}

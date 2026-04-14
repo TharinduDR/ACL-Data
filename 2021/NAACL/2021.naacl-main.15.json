@@ -1,0 +1,22 @@
+{
+  "title": "Data Filtering using Cross-Lingual Word Embeddings",
+  "authors": [
+    "Christian Herold",
+    "Jan Rosendahl",
+    "Joris Vanvinckenroye",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Turkish",
+    "Czech",
+    "Khmer"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.naacl-main.15",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.15/"
+}

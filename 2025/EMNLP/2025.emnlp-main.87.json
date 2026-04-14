@@ -1,0 +1,19 @@
+{
+  "title": "Beyond Input Activations: Identifying Influential Latents by Gradient Sparse Autoencoders",
+  "authors": [
+    "Dong Shu",
+    "Xuansheng Wu",
+    "Haiyan Zhao",
+    "Mengnan Du",
+    "Ninghao Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.87",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.87/"
+}

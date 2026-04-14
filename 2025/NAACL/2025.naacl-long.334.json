@@ -1,0 +1,20 @@
+{
+  "title": "tRAG: Term-Level Retrieval-Augmented Generation for Domain-Adaptive Retrieval",
+  "authors": [
+    "Dohyeon Lee",
+    "Jongyoon Kim",
+    "Jihyuk Kim",
+    "Seung-won Hwang",
+    "Joon-suk Park"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.naacl-long.334",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.334/"
+}

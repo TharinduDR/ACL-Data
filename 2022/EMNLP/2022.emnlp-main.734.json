@@ -5,11 +5,12 @@
     "Bonnie Webber"
   ],
   "languages": [
-    "English"
+    "English",
+    "Chinese"
   ],
   "research_areas": [
     "T05 Discourse and Pragmatics",
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T14 Language Modeling",
     "T15 Lexicon and Semantics"
   ],
   "paper_id": "2022.emnlp-main.734",

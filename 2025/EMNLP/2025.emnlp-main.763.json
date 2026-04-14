@@ -1,0 +1,22 @@
+{
+  "title": "BTC-SAM: Leveraging LLMs for Generation of Bias Test Cases for Sentiment Analysis Models",
+  "authors": [
+    "Zsolt T. Kardkovács",
+    "Lynda Djennane",
+    "Anna Field",
+    "Boualem Benatallah",
+    "Yacine Gaci",
+    "Fabio Casati",
+    "Walid Gaaloul"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.763",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.763/"
+}

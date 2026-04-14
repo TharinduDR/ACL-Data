@@ -1,0 +1,22 @@
+{
+  "title": "HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-Tuning LLM with Zeroth-Order Optimization",
+  "authors": [
+    "Huaqin Zhao",
+    "Jiaxi Li",
+    "Yi Pan",
+    "Shizhe Liang",
+    "Xiaofeng Yang",
+    "Fei Dou",
+    "Tianming Liu",
+    "Jin Lu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1323",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1323/"
+}

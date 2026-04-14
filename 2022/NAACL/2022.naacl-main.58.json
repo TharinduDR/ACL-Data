@@ -1,0 +1,36 @@
+{
+  "title": "PARADISE: Exploiting Parallel Data for Multilingual Sequence-to-Sequence Pretraining",
+  "authors": [
+    "Machel Reid",
+    "Mikel Artetxe"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Greek",
+    "Bulgarian",
+    "Russian",
+    "Turkish",
+    "Arabic",
+    "Vietnamese",
+    "Thai",
+    "Chinese",
+    "Hindi",
+    "Sinhala",
+    "Nepali",
+    "Romanian",
+    "Swahili",
+    "Urdu",
+    "Japanese",
+    "Basque"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2022.naacl-main.58",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.58/"
+}

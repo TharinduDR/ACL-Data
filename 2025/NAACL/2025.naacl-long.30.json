@@ -1,0 +1,26 @@
+{
+  "title": "Direct Preference Optimization of Video Large Multimodal Models from Language Model Reward",
+  "authors": [
+    "Ruohong Zhang",
+    "Liangke Gui",
+    "Zhiqing Sun",
+    "Yihao Feng",
+    "Keyang Xu",
+    "Yuanhan Zhang",
+    "Di Fu",
+    "Chunyuan Li",
+    "Alexander Hauptmann",
+    "Yonatan Bisk",
+    "Yiming Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.30",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.30/"
+}

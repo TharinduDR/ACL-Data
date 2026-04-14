@@ -1,0 +1,23 @@
+{
+  "title": "Faster In-Context Learning for LLMs via N-Gram Trie Speculative Decoding",
+  "authors": [
+    "Jinglin Chen",
+    "Qiwei Li",
+    "Zuchao Li",
+    "Baoyuan Qi",
+    "Guoming Liu",
+    "Haojun Ai",
+    "Hai Zhao",
+    "Ping Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.emnlp-main.911",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.911/"
+}

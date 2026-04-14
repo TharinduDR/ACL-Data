@@ -1,0 +1,19 @@
+{
+  "title": "LM-PUB-QUIZ: A Comprehensive Framework for Zero-Shot Evaluation of Relational Knowledge in Language Models",
+  "authors": [
+    "Max Ploner",
+    "Jacek Wiland",
+    "Sebastian Pohl",
+    "Alan Akbik"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-demo.4",
+  "acl_url": "https://aclanthology.org/2025.naacl-demo.4/"
+}

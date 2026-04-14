@@ -1,0 +1,20 @@
+{
+  "title": "INSPECTORRAGET: An Introspection Platform for RAG Evaluation",
+  "authors": [
+    "Kshitij Fadnis",
+    "Siva Sankalp Patel",
+    "Odellia Boni",
+    "Yannis Katsis",
+    "Sara Rosenthal",
+    "Benjamin Sznajder",
+    "Marina Danilevsky"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.naacl-demo.13",
+  "acl_url": "https://aclanthology.org/2025.naacl-demo.13/"
+}

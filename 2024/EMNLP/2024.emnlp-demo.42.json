@@ -1,0 +1,40 @@
+{
+  "title": "WALLED EVAL: A Comprehensive Safety Evaluation Toolkit for Large Language Models",
+  "authors": [
+    "Prannaya Gupta",
+    "Le Qi Yau",
+    "Hao Han Low",
+    "I-Shiang Lee",
+    "Hugo M. Lim",
+    "Yu Xin Teoh",
+    "Jia Hng Koh",
+    "Dar Win Liew",
+    "Rishabh Bhardwaj",
+    "Rajat Bhardwaj",
+    "Soujanya Poria"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Filipino",
+    "French",
+    "Hindi",
+    "Russian",
+    "Serbian",
+    "Spanish",
+    "Chinese",
+    "Portuguese",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-demo.42",
+  "acl_url": "https://aclanthology.org/2024.emnlp-demo.42/"
+}

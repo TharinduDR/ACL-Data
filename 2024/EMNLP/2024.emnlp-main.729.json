@@ -1,0 +1,43 @@
+{
+  "title": "RLHF Can Speak Many Languages: Unlocking Multilingual Preference Optimization for LLMs",
+  "authors": [
+    "John Dang",
+    "Arash Ahmadian",
+    "Kelly Marchisio",
+    "Julia Kreutzer",
+    "Ahmet Üstün",
+    "Sara Hooker"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Czech",
+    "German",
+    "Greek",
+    "Spanish",
+    "Persian",
+    "French",
+    "Hebrew",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Dutch",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.729",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.729/"
+}

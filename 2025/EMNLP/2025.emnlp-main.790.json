@@ -1,0 +1,24 @@
+{
+  "title": "TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review",
+  "authors": [
+    "Yuan Chang",
+    "Ziyue Li",
+    "Hengyuan Zhang",
+    "Yuanbo Kong",
+    "Yanru Wu",
+    "Hayden Kwok-Hay So",
+    "Zhijiang Guo",
+    "Liya Zhu",
+    "Ngai Wong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.emnlp-main.790",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.790/"
+}

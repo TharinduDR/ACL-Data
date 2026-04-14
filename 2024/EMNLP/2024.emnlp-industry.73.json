@@ -1,0 +1,20 @@
+{
+  "title": "Building an Efficient Multilingual Non-Profit IR System for the Islamic Domain Leveraging Multiprocessing Design in Rust",
+  "authors": [
+    "Vera Pavlova",
+    "Mohammed Makhloof"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Russian",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2024.emnlp-industry.73",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.73/"
+}

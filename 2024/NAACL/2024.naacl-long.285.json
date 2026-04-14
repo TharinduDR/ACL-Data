@@ -1,0 +1,21 @@
+{
+  "title": "Generating Mental Health Transcripts with SAPE (Spanish Adaptive Prompt Engineering)",
+  "authors": [
+    "Daniel Cabrera Lozoya",
+    "Alejandro Casar Berazaluce",
+    "Juan Alberto Barajas Perches",
+    "Eloy Hernández Lúa",
+    "Mike Conway",
+    "Simon D'Alfonso"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.285",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.285/"
+}

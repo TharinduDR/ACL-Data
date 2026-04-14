@@ -1,0 +1,25 @@
+{
+  "title": "EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records",
+  "authors": [
+    "Wenqi Shi",
+    "Ran Xu",
+    "Yuchen Zhuang",
+    "Yue Yu",
+    "Jieyu Zhang",
+    "Hang Wu",
+    "Yuanda Zhu",
+    "Joyce Ho",
+    "Carl Yang",
+    "May D. Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.emnlp-main.1245",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1245/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Text2Sql: Pure Fine-Tuning and Pure Knowledge Distillation",
+  "authors": [
+    "Gaoyu Zhu",
+    "Wei Shao",
+    "Xichou Zhu",
+    "Lei Yu",
+    "Jiafeng Guo",
+    "Xueqi Cheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.naacl-industry.5",
+  "acl_url": "https://aclanthology.org/2025.naacl-industry.5/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning",
+  "authors": [
+    "Xuekai Zhu",
+    "Biqing Qi",
+    "Kaiyan Zhang",
+    "Xinwei Long",
+    "Zhouhan Lin",
+    "Bowen Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.naacl-long.142",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.142/"
+}

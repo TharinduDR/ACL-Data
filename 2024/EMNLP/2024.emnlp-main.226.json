@@ -1,0 +1,21 @@
+{
+  "title": "PRompt Optimization in Multi-Step Tasks (PROMST): Integrating Human Feedback and Heuristic-based Sampling",
+  "authors": [
+    "Yongchao Chen",
+    "Jacob Arkin",
+    "Yilun Hao",
+    "Yang Zhang",
+    "Nicholas Roy",
+    "Chuchu Fan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-main.226",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.226/"
+}

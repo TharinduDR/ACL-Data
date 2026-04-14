@@ -1,0 +1,24 @@
+{
+  "title": "GRAFT: A Graph-based Flow-aware Agentic Framework for Document-level Machine Translation",
+  "authors": [
+    "Himanshu Dutta",
+    "Sunny Manchanda",
+    "Prakhar Bapat",
+    "Meva Ram Gurjar",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T05 Discourse and Pragmatics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-industry.166",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.166/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "QuZO: Quantized Zeroth-Order Fine-Tuning for Large Language Models",
+  "authors": [
+    "Jiajun Zhou",
+    "Yifan Yang",
+    "Kai Zhen",
+    "Ziyue Liu",
+    "Yequan Zhao",
+    "Ershad Banijamali",
+    "Athanasios Mouchtaris",
+    "Ngai Wong",
+    "Zheng Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.271",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.271/"
+}

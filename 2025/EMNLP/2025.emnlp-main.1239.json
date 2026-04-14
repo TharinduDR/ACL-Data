@@ -1,0 +1,20 @@
+{
+  "title": "Hallucination Detection in LLMs Using Spectral Features of Attention Maps",
+  "authors": [
+    "Jakub Binkowski",
+    "Denis Janiak",
+    "Albert Sawczyn",
+    "Bogdan Gabrys",
+    "Tomasz Kajdanowicz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.emnlp-main.1239",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1239/"
+}

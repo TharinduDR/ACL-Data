@@ -1,0 +1,22 @@
+{
+  "title": "QDyLoRA: Quantized Dynamic Low-Rank Adaptation for Efficient Large Language Model Tuning",
+  "authors": [
+    "Hossein Rajabzadeh",
+    "Mojtaba Valipour",
+    "Tianshu Zhu",
+    "Marzieh Tahaei",
+    "Hyock Ju Kwon",
+    "Ali Ghodsi",
+    "Boxing Chen",
+    "Mehdi Rezagholizadeh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-industry.53",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.53/"
+}

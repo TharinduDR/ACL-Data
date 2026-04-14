@@ -1,0 +1,36 @@
+{
+  "title": "IndiSentiment140: Sentiment Analysis Dataset for Indian Languages with Emphasis on Low-Resource Languages using Machine Translation",
+  "authors": [
+    "Saurabh Kumar",
+    "Sanasam Ranbir Singh",
+    "Sukumar Nandi"
+  ],
+  "languages": [
+    "Assamese",
+    "Bengali",
+    "Dogri",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Konkani",
+    "Maithili",
+    "Malayalam",
+    "Marathi",
+    "Manipuri",
+    "Mizo",
+    "Nepali",
+    "Odia",
+    "Punjabi",
+    "Sanskrit",
+    "Sindhi",
+    "Tamil",
+    "Telugu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.naacl-long.425",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.425/"
+}

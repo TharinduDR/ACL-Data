@@ -1,0 +1,20 @@
+{
+  "title": "TURBOFUZZLLM: Turbocharging Mutation-based Fuzzing for Effectively Jailbreaking Large Language Models in Practice",
+  "authors": [
+    "Aman Goel",
+    "Xian Carrie Wu",
+    "Zhe Wang",
+    "Dmitriy Bespalov",
+    "Yanjun Qi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-industry.43",
+  "acl_url": "https://aclanthology.org/2025.naacl-industry.43/"
+}

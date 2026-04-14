@@ -1,0 +1,26 @@
+{
+  "title": "Re-Evaluating Evaluation for Multilingual Summarization",
+  "authors": [
+    "Jessica Zosa Forde",
+    "Ruo Chen Zhang",
+    "Lintang Sutawika",
+    "Alham Fikri Aji",
+    "Samuel Cahyawijaya",
+    "Genta Indra Winata",
+    "Minghao Wu",
+    "Carsten Eickhoff",
+    "Stella Biderman",
+    "Ellie Pavlick"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.1085",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1085/"
+}

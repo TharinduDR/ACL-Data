@@ -1,0 +1,24 @@
+{
+  "title": "Knowledge Inheritance for Pre-trained Language Models",
+  "authors": [
+    "Yujia Qin",
+    "Yankai Lin",
+    "Jing Yi",
+    "Jiajie Zhang",
+    "Xu Han",
+    "Zhengyan Zhang",
+    "Yusheng Su",
+    "Zhiyuan Liu",
+    "Peng Li",
+    "Maosong Sun",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.naacl-main.288",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.288/"
+}

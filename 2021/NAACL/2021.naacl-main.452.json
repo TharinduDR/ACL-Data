@@ -1,0 +1,22 @@
+{
+  "title": "Open Hierarchical Relation Extraction",
+  "authors": [
+    "Kai Zhang",
+    "Yuan Yao",
+    "Ruobing Xie",
+    "Xu Han",
+    "Zhiyuan Liu",
+    "Fen Lin",
+    "Leyu Lin",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.naacl-main.452",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.452/"
+}

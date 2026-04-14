@@ -1,0 +1,21 @@
+{
+  "title": "IndiGEC: Multilingual Grammar Error Correction for Low-Resource Indian Languages",
+  "authors": [
+    "Ujjwal Sharma",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Marathi",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.emnlp-main.1139",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1139/"
+}

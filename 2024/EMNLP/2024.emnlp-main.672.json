@@ -1,0 +1,25 @@
+{
+  "title": "Subword Segmentation in LLMs: Looking at Inflection and Consistency",
+  "authors": [
+    "Marion Di Marco",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Finnish",
+    "Swedish",
+    "Czech",
+    "Hungarian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.emnlp-main.672",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.672/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "The Generation Gap: Exploring Age Bias in the Value Systems of Large Language Models",
+  "authors": [
+    "Siyang Liu",
+    "Trisha Maturi",
+    "Bowen Yi",
+    "Siqi Shen",
+    "Rada Mihalcea"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Indonesian",
+    "Portuguese",
+    "Persian",
+    "Swahili",
+    "Zulu",
+    "Xhosa",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.emnlp-main.1094",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1094/"
+}

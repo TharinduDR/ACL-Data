@@ -1,0 +1,20 @@
+{
+  "title": "AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents",
+  "authors": [
+    "Luca Gioacchini",
+    "Giuseppe Siracusano",
+    "Davide Sanvito",
+    "Kiril Gashteovski",
+    "David Friede",
+    "Roberto Bifulco",
+    "Carolin Lawrence"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.naacl-demo.19",
+  "acl_url": "https://aclanthology.org/2024.naacl-demo.19/"
+}

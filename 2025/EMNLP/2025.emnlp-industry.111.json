@@ -1,0 +1,25 @@
+{
+  "title": "Bidirectional Reasoning Supervision for Multilingual Financial Decision Making",
+  "authors": [
+    "Muhammad Rafsan Kabir",
+    "Jawad Ibn Ahad",
+    "Robin Krambroeckers",
+    "Silvia Ahmed",
+    "M M Lutfe Elahi",
+    "Nabeel Mohammed",
+    "Shafin Rahman"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Hindi",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.emnlp-industry.111",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.111/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Media Bias Detection Across Families of Language Models",
+  "authors": [
+    "Iffat Maab",
+    "Edison Marrese-Taylor",
+    "Sebastian Pado",
+    "Yutaka Matsuo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.naacl-long.227",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.227/"
+}

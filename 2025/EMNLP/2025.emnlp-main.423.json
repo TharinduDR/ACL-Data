@@ -1,0 +1,24 @@
+{
+  "title": "Robust Native Language Identification through Agentic Decomposition",
+  "authors": [
+    "Ahmet Yavuz Uluslu",
+    "Tannon Kew",
+    "Tilia Ellendorff",
+    "Gerold Schneider",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.423",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.423/"
+}

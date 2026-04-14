@@ -1,0 +1,22 @@
+{
+  "title": "E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning",
+  "authors": [
+    "Zihan Liao",
+    "Jun Wang",
+    "Hang Yu",
+    "Lingxiao Wei",
+    "Jianguo Li",
+    "Jun Wang",
+    "Wei Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.emnlp-main.970",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.970/"
+}

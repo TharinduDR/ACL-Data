@@ -1,0 +1,22 @@
+{
+  "title": "Language Model Based Unsupervised Dependency Parsing with Conditional Mutual Information and Grammatical Constraints",
+  "authors": [
+    "Junjie Chen",
+    "Xiangheng He",
+    "Yusuke Miyao"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.naacl-long.352",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.352/"
+}

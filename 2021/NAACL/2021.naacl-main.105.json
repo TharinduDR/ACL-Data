@@ -1,0 +1,21 @@
+{
+  "title": "Structure-Grounded Pretraining for Text-to-SQL",
+  "authors": [
+    "Xiang Deng",
+    "Ahmed Hassan Awadallah",
+    "Christopher Meek",
+    "Oleksandr Polozov",
+    "Huan Sun",
+    "Matthew Richardson"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.naacl-main.105",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.105/"
+}

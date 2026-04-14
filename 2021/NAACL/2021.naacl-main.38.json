@@ -1,0 +1,32 @@
+{
+  "title": "When Being Unseen from mBERT is just the Beginning: Handling New Languages With Multilingual Language Models",
+  "authors": [
+    "Benjamin Muller",
+    "Antonios Anastasopoulos",
+    "Benoît Sagot",
+    "Djamé Seddah"
+  ],
+  "languages": [
+    "Faroese",
+    "Mingrelian",
+    "Naija",
+    "Swiss German",
+    "Bambara",
+    "Wolof",
+    "Maltese",
+    "Narabizi",
+    "Erzya",
+    "Livvi",
+    "Mari",
+    "Uyghur",
+    "Sindhi",
+    "Sorani Kurdish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.naacl-main.38",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.38/"
+}

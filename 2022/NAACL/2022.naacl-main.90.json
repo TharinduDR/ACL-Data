@@ -1,0 +1,18 @@
+{
+  "title": "MultiSpanQA: A Dataset for Multi-Span Question Answering",
+  "authors": [
+    "Haonan Li",
+    "Maria Vasardani",
+    "Martin Tomko",
+    "Timothy Baldwin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-main.90",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.90/"
+}

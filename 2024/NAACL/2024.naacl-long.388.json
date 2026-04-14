@@ -1,0 +1,20 @@
+{
+  "title": "UniArk: Improving Generalisation and Consistency for Factual Knowledge Extraction through Debiasing",
+  "authors": [
+    "Yijun Yang",
+    "Jie He",
+    "Pinzhen Chen",
+    "Víctor Gutiérrez-Basulto",
+    "Jeff Z. Pan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.naacl-long.388",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.388/"
+}

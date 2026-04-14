@@ -1,0 +1,18 @@
+{
+  "title": "Iterative Prompt Refinement for Safer Text-to-Image Generation",
+  "authors": [
+    "Jinwoo Jeon",
+    "JunHyeok Oh",
+    "Hayeong Lee",
+    "Byung-Jun Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.emnlp-main.913",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.913/"
+}

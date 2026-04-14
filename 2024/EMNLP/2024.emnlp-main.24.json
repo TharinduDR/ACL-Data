@@ -1,0 +1,30 @@
+{
+  "title": "Fine-Tuning Large Language Models to Translate: Will a Touch of Noisy Data in Misaligned Languages Suffice?",
+  "authors": [
+    "Dawei Zhu",
+    "Pinzhen Chen",
+    "Miaoran Zhang",
+    "Barry Haddow",
+    "Xiaoyu Shen",
+    "Dietrich Klakow"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Croatian",
+    "Russian",
+    "Japanese",
+    "Czech",
+    "French",
+    "Hausa",
+    "Icelandic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.24",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.24/"
+}

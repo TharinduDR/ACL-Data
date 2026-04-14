@@ -1,0 +1,28 @@
+{
+  "title": "On Relation-Specific Neurons in Large Language Models",
+  "authors": [
+    "Yihong Liu",
+    "Runsheng Chen",
+    "Lea Hirlimann",
+    "Ahmad Dawar Hakimi",
+    "Mingyang Wang",
+    "Amir Hossein Kargar",
+    "Sascha Rothe",
+    "François Yvon",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.52",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.52/"
+}

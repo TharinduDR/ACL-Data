@@ -1,0 +1,19 @@
+{
+  "title": "DispatchQA: A Benchmark for Small Function Calling Language Models in E-Commerce Applications",
+  "authors": [
+    "Joachim Daiber",
+    "Victor Maricato",
+    "Ayan Sinha",
+    "Andrew Rabinovich"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.emnlp-industry.154",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.154/"
+}

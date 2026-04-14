@@ -1,0 +1,21 @@
+{
+  "title": "How Is LLM Reasoning Distracted by Irrelevant Context? An Analysis Using a Controlled Benchmark",
+  "authors": [
+    "Minglai Yang",
+    "Ethan Huang",
+    "Liang Zhang",
+    "Mihai Surdeanu",
+    "William Wang",
+    "Liangming Pan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.674",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.674/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "JarviX: A LLM No code Platform for Tabular Data Analysis and Optimization",
+  "authors": [
+    "Shang-Ching Liu",
+    "ShengKun Wang",
+    "Wenqi Lin",
+    "Chung-Wei Hsiung",
+    "Yi-Chen Hsieh",
+    "Yu-Ping Cheng",
+    "Sian-Hong Luo",
+    "Tsungyao Chang",
+    "Jianwei Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.emnlp-industry.59",
+  "acl_url": "https://aclanthology.org/2023.emnlp-industry.59/"
+}

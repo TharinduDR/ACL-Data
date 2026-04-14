@@ -1,0 +1,23 @@
+{
+  "title": "Diverse In-Context Example Selection After Decomposing Programs and Aligned Utterances Improves Semantic Parsing",
+  "authors": [
+    "Mayank Kothari",
+    "Sunita Sarawagi",
+    "Soumen Chakrabarti",
+    "Gaurav Arora",
+    "Srujana Merugu"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.289",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.289/"
+}

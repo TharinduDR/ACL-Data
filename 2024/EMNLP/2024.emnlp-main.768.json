@@ -1,0 +1,25 @@
+{
+  "title": "Curriculum Consistency Learning for Conditional Sentence Generation",
+  "authors": [
+    "Liangxin Liu",
+    "Xuebo Liu",
+    "Lian Lian",
+    "Shengjun Cheng",
+    "Jun Rao",
+    "Tengfei Yu",
+    "Hexuan Deng",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality"
+  ],
+  "paper_id": "2024.emnlp-main.768",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.768/"
+}

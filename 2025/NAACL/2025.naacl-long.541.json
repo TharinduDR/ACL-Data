@@ -1,0 +1,23 @@
+{
+  "title": "KMI: A Dataset of Korean Motivational Interviewing Dialogues for Psychotherapy",
+  "authors": [
+    "Hyunjong Kim",
+    "Suyeon Lee",
+    "Yeongjae Cho",
+    "Eunseo Ryu",
+    "Yohan Jo",
+    "Suran Seong",
+    "Sungzoon Cho"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.naacl-long.541",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.541/"
+}

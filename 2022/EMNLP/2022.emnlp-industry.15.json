@@ -1,0 +1,20 @@
+{
+  "title": "Unsupervised training data reweighting for natural language understanding with local distribution approximation",
+  "authors": [
+    "Jose Garrido Ramas",
+    "Dieu-Thu Le",
+    "Bei Chen",
+    "Manoj Kumar",
+    "Kay Rottmann"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.emnlp-industry.15",
+  "acl_url": "https://aclanthology.org/2022.emnlp-industry.15/"
+}

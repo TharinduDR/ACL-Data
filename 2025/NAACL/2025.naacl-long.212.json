@@ -1,0 +1,17 @@
+{
+  "title": "CVE-Bench: Benchmarking LLM-based Software Engineering Agent's Ability to Repair Real-World CVE Vulnerabilities",
+  "authors": [
+    "Peiran Wang",
+    "Xiaogeng Liu",
+    "Chaowei Xiao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.212",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.212/"
+}

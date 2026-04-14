@@ -1,0 +1,20 @@
+{
+  "title": "MultiParaDetox: Extending Text Detoxification with Parallel Data to New Languages",
+  "authors": [
+    "Daryna Dementieva",
+    "Nikolay Babakov",
+    "Alexander Panchenko"
+  ],
+  "languages": [
+    "Russian",
+    "Ukrainian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.naacl-short.12",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.12/"
+}

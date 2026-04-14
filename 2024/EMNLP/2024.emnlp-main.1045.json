@@ -1,0 +1,18 @@
+{
+  "title": "Fuse to Forget: Bias Reduction and Selective Memorization through Model Fusion",
+  "authors": [
+    "Kerem Zaman",
+    "Leshem Choshen",
+    "Shashank Srivastava"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.emnlp-main.1045",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1045/"
+}

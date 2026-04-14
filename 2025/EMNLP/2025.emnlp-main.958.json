@@ -1,0 +1,19 @@
+{
+  "title": "CAIR: Counterfactual-based Agent Influence Ranker for Agentic AI Workflows",
+  "authors": [
+    "Amit Giloni",
+    "Chiara Picardi",
+    "Roy Betser",
+    "Shamik Bose",
+    "Aishvarya Priya Rathina Sabapathy",
+    "Roman Vainshtein"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.emnlp-main.958",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.958/"
+}

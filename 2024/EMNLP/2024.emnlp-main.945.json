@@ -1,0 +1,20 @@
+{
+  "title": "COMMUNITY-CROSS-INSTRUCT: Unsupervised Instruction Generation for Aligning Large Language Models to Online Communities",
+  "authors": [
+    "Zihao He",
+    "Minh Duc Chu",
+    "Rebecca Dorn",
+    "Siyi Guo",
+    "Kristina Lerman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T23 Social Media Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.945",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.945/"
+}

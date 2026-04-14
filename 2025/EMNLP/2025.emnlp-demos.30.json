@@ -1,0 +1,21 @@
+{
+  "title": "SWE-MERA: A Dynamic Benchmark for Agentically Evaluating Large Language Models on Software Engineering Tasks",
+  "authors": [
+    "Pavel Adamenko",
+    "Mikhail Ivanov",
+    "Aidar Valeev",
+    "Rodion Levichev",
+    "Pavel Zadorozhny",
+    "Ivan Lopatin",
+    "Dmitrii Babaev",
+    "Alena Fenogenova",
+    "Valentin Malykh"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-demos.30",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.30/"
+}

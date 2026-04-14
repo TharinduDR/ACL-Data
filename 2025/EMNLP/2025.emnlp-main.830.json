@@ -1,0 +1,27 @@
+{
+  "title": "Not-Just-Scaling Laws: Towards a Better Understanding of the Downstream Impact of Language Model Design Decisions",
+  "authors": [
+    "Emmy Liu",
+    "Amanda Bertsch",
+    "Lintang Sutawika",
+    "Lindia Tjuatja",
+    "Patrick Fernandes",
+    "Lara Marinov",
+    "Michael Chen",
+    "Shreya Singhal",
+    "Carolin Lawrence",
+    "Aditi Raghunathan",
+    "Kiril Gashteovski",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.830",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.830/"
+}

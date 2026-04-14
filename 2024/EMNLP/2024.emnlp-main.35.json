@@ -1,0 +1,31 @@
+{
+  "title": "Mitigating the Alignment Tax of RLHF",
+  "authors": [
+    "Yong Lin",
+    "Hangyu Lin",
+    "Wei Xiong",
+    "Shizhe Diao",
+    "Jianmeng Liu",
+    "Jipeng Zhang",
+    "Rui Pan",
+    "Haoxiang Wang",
+    "Wenbin Hu",
+    "Hanning Zhang",
+    "Hanze Dong",
+    "Renjie Pi",
+    "Han Zhao",
+    "Nan Jiang",
+    "Heng Ji",
+    "Yuan Yao",
+    "Tong Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.35",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.35/"
+}

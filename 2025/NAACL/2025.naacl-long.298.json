@@ -1,0 +1,28 @@
+{
+  "title": "VoiceTextBlender: Augmenting Large Language Models with Speech Capabilities via Single-Stage Joint Speech-Text Supervised Fine-Tuning",
+  "authors": [
+    "Yifan Peng",
+    "Krishna C. Puvvada",
+    "Zhehuai Chen",
+    "Piotr Zelasko",
+    "He Huang",
+    "Kunal Dhawan",
+    "Ke Hu",
+    "Shinji Watanabe",
+    "Jagadeesh Balam",
+    "Boris Ginsburg"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.naacl-long.298",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.298/"
+}

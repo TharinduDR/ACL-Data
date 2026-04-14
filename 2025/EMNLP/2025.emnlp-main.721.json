@@ -1,0 +1,25 @@
+{
+  "title": "Advancing Fine-Grained Visual Understanding with Multi-Scale Alignment in Multi-Modal Models",
+  "authors": [
+    "Wei Wang",
+    "Zhaowei Li",
+    "Qi Xu",
+    "Linfeng Li",
+    "Yiqing Cai",
+    "Botian Jiang",
+    "Hang Song",
+    "Xingcan Hu",
+    "Pengyu Wang",
+    "Li Xiao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.721",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.721/"
+}

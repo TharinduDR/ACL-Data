@@ -1,0 +1,30 @@
+{
+  "title": "Ghostbuster: Detecting Text Ghostwritten by Large Language Models",
+  "authors": [
+    "Vivek Verma",
+    "Eve Fleisig",
+    "Nicholas Tomlin",
+    "Dan Klein"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "French",
+    "German",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Spanish",
+    "Telugu",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T29 NLP for education",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.95",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.95/"
+}

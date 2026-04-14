@@ -1,0 +1,23 @@
+{
+  "title": "M2Edit: Locate and Edit Multi-Granularity Knowledge in Multimodal Large Language Model",
+  "authors": [
+    "Yang Zhou",
+    "Pengfei Cao",
+    "Yubo Chen",
+    "Qingbin Liu",
+    "Dianbo Sui",
+    "Xi Chen",
+    "Kang Liu",
+    "Jun Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.1478",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1478/"
+}

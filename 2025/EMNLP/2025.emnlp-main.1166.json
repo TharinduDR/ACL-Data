@@ -1,0 +1,20 @@
+{
+  "title": "Mixture of Weight-shared Heterogeneous Group Attention Experts for Dynamic Token-wise KV Optimization",
+  "authors": [
+    "Guanghui Song",
+    "Dongping Liao",
+    "Yiren Zhao",
+    "Kejiang Ye",
+    "Cheng-zhong Xu",
+    "Xitong Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.1166",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1166/"
+}

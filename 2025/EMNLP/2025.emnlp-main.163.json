@@ -1,0 +1,50 @@
+{
+  "title": "Few-Shot Learning Translation from New Languages",
+  "authors": [
+    "Carlos Mullov",
+    "Alexander Waibel"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Arabic",
+    "Bengali",
+    "Danish",
+    "German",
+    "Greek",
+    "Spanish",
+    "Persian",
+    "French",
+    "Hindi",
+    "Russian",
+    "Tamil",
+    "Turkish",
+    "Ukrainian",
+    "Croatian",
+    "Tagalog",
+    "Macedonian",
+    "Bosnian",
+    "Kazakh",
+    "Icelandic",
+    "Galician",
+    "Georgian",
+    "Northern Uzbek",
+    "Swahili",
+    "Gujarati",
+    "Urdu",
+    "Kannada",
+    "Sinhala",
+    "Nepali",
+    "Kirghiz",
+    "Irish",
+    "Cebuano",
+    "Zulu",
+    "Waray"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.emnlp-main.163",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.163/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Concept Space Alignment in Multilingual LLMs",
+  "authors": [
+    "Qiwei Peng",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Romanian",
+    "Finnish",
+    "Japanese",
+    "Thai",
+    "Basque"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.emnlp-main.315",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.315/"
+}

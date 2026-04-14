@@ -1,0 +1,22 @@
+{
+  "title": "TableEval: A Real-World Benchmark for Complex, Multilingual, and Multi-Structured Table Question Answering",
+  "authors": [
+    "Junnan Zhu",
+    "Jingyi Wang",
+    "Bohan Yu",
+    "Xiaoyu Wu",
+    "Junbo Li",
+    "Lei Wang",
+    "Nan Xu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.363",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.363/"
+}

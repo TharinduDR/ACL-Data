@@ -1,0 +1,22 @@
+{
+  "title": "Memory-QA: Answering Recall Questions Based on Multimodal Memories",
+  "authors": [
+    "Hongda Jiang",
+    "Xinyuan Zhang",
+    "Siddhant Garg",
+    "Rishab Arora",
+    "Shiun-Zu Kuo",
+    "Jiayang Xu",
+    "Aaron Colak",
+    "Xin Luna Dong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.emnlp-main.1234",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1234/"
+}

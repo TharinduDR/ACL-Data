@@ -1,0 +1,21 @@
+{
+  "title": "Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots",
+  "authors": [
+    "Hongming Zhang",
+    "Xiaoman Pan",
+    "Hongwei Wang",
+    "Kaixin Ma",
+    "Wenbao Yu",
+    "Dong Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-demo.29",
+  "acl_url": "https://aclanthology.org/2025.naacl-demo.29/"
+}

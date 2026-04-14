@@ -1,0 +1,22 @@
+{
+  "title": "ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents",
+  "authors": [
+    "Qiuchen Wang",
+    "Ruixue Ding",
+    "Zehui Chen",
+    "Weiqi Wu",
+    "Shihang Wang",
+    "Pengjun Xie",
+    "Feng Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.464",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.464/"
+}

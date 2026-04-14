@@ -1,0 +1,42 @@
+{
+  "title": "Leveraging Multilingual Training for Authorship Representation: Enhancing Generalization across Languages and Domains",
+  "authors": [
+    "Junghwan Kim",
+    "Haotian Zhang",
+    "David Jurgens"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "French",
+    "German",
+    "Hebrew",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Kazakh",
+    "Korean",
+    "Malayalam",
+    "Macedonian",
+    "Persian",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Serbian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Welsh",
+    "Yoruba",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.emnlp-main.1766",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1766/"
+}

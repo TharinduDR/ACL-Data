@@ -1,0 +1,24 @@
+{
+  "title": "Quality-Aware Decoding for Neural Machine Translation",
+  "authors": [
+    "Patrick Fernandes",
+    "António Farinhas",
+    "Ricardo Rei",
+    "José G. C. de Souza",
+    "Perez Ogayo",
+    "Graham Neubig",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-main.100",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.100/"
+}

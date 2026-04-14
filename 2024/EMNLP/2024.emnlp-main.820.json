@@ -1,0 +1,19 @@
+{
+  "title": "BiasAlert: A Plug-and-play Tool for Social Bias Detection in LLMs",
+  "authors": [
+    "Zhitin Fan",
+    "Ruizhe Chen",
+    "Ruiling Xu",
+    "ZuoZhu Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-main.820",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.820/"
+}

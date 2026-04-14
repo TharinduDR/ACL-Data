@@ -1,0 +1,24 @@
+{
+  "title": "Modeling User Preferences with Automatic Metrics: Creating a High-Quality Preference Dataset for Machine Translation",
+  "authors": [
+    "Sweta Agrawal",
+    "José G. C. de Souza",
+    "Ricardo Rei",
+    "António Farinhas",
+    "Gonçalo Faria",
+    "Patrick Fernandes",
+    "Nuno M Guerreiro",
+    "André F.T. Martins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.803",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.803/"
+}

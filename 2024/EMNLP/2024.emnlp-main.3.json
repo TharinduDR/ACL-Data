@@ -1,0 +1,19 @@
+{
+  "title": "FIZZ: Factual Inconsistency Detection by Zoom-in Summary and Zoom-out Document",
+  "authors": [
+    "Joonho Yang",
+    "Seunghyun Yoon",
+    "Byeongjeong Kim",
+    "Hwanhee Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.3",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.3/"
+}

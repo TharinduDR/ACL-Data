@@ -1,0 +1,31 @@
+{
+  "title": "Adaptive Cross-lingual Text Classification through In-Context One-Shot Demonstrations",
+  "authors": [
+    "Emilio Villa-Cueva",
+    "A. Pastor López-Monroy",
+    "Fernando Sánchez-Vega",
+    "Thamar Solorio"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "Turkish",
+    "Russian",
+    "French",
+    "Japanese",
+    "Spanish",
+    "Swahili",
+    "Thai",
+    "Indonesian",
+    "Amharic",
+    "Arabic",
+    "Azeri"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.460",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.460/"
+}

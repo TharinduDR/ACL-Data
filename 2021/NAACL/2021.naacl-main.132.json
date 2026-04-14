@@ -1,0 +1,19 @@
+{
+  "title": "Explicitly Modeling Syntax in Language Models with Incremental Parsing and a Dynamic Oracle",
+  "authors": [
+    "Yikang Shen",
+    "Shawn Tan",
+    "Alessandro Sordoni",
+    "Siva Reddy",
+    "Aaron Courville"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.naacl-main.132",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.132/"
+}

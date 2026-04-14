@@ -1,0 +1,20 @@
+{
+  "title": "Nearest Neighbor Knowledge Distillation for Neural Machine Translation",
+  "authors": [
+    "Zhixian Yang",
+    "Renliang Sun",
+    "Xiaojun Wan"
+  ],
+  "languages": [
+    "German",
+    "Vietnamese",
+    "Korean",
+    "Medical",
+    "Law"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.naacl-main.406",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.406/"
+}

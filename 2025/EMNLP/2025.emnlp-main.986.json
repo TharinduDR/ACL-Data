@@ -1,0 +1,22 @@
+{
+  "title": "Speculative Streaming: Efficient and Scalable Speculative Decoding with Multi-Stream Attention",
+  "authors": [
+    "Nikhil Bhendawade",
+    "Irina Belousova",
+    "Qichen Fu",
+    "Henry Mason",
+    "Antonie Lin",
+    "Mohammad Rastegari",
+    "Mahyar Najibi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-main.986",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.986/"
+}

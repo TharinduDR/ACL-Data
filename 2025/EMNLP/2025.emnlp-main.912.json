@@ -1,0 +1,28 @@
+{
+  "title": "From Surveys to Narratives: Rethinking Cultural Value Adaptation in LLMs",
+  "authors": [
+    "M. Farid Adilazuarda",
+    "Chen Cecilia Liu",
+    "Iryna Gurevych",
+    "Alham Fikri Aji"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Chinese",
+    "English",
+    "German",
+    "Greek",
+    "Korean",
+    "Portuguese",
+    "Spanish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.912",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.912/"
+}

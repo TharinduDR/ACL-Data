@@ -1,0 +1,24 @@
+{
+  "title": "BMRETRIEVER: Tuning Large Language Models as Better Biomedical Text Retrievers",
+  "authors": [
+    "Ran Xu",
+    "Wenqi Shi",
+    "Yue Yu",
+    "Yuchen Zhuang",
+    "Yanqiao Zhu",
+    "May D. Wang",
+    "Joyce C. Ho",
+    "Chao Zhang",
+    "Carl Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.emnlp-main.1241",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1241/"
+}

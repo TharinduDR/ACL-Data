@@ -1,0 +1,23 @@
+{
+  "title": "Benchmarking LLMs for Translating Classical Chinese Poetry: Evaluating Adequacy, Fluency, and Elegance",
+  "authors": [
+    "Andong Chen",
+    "Lianzhang Lou",
+    "Kehai Chen",
+    "Xuefeng Bai",
+    "Yang Xiang",
+    "Muyun Yang",
+    "Tiejun Zhao",
+    "Min Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1678",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1678/"
+}

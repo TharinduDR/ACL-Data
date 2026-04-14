@@ -1,0 +1,25 @@
+{
+  "title": "NL2Lean: Translating Natural Language into Lean 4 through Multi-Aspect Reinforcement Learning",
+  "authors": [
+    "Yue Fang",
+    "Shaohan Huang",
+    "Xin Yu",
+    "Haizhen Huang",
+    "Zihan Zhang",
+    "Weiwei Deng",
+    "Furu Wei",
+    "Feng Sun",
+    "Qi Zhang",
+    "Zhi Jin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1586",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1586/"
+}

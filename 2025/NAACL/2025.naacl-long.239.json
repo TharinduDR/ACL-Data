@@ -1,0 +1,21 @@
+{
+  "title": "Constrained Decoding with Speculative Lookaheads",
+  "authors": [
+    "Nishanth Nakshatri",
+    "Shamik Roy",
+    "Rajarshi Das",
+    "Suthee Chaidaroon",
+    "Leonid Boytsov",
+    "Rashmi Gangadharaih"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.239",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.239/"
+}

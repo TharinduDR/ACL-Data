@@ -1,0 +1,21 @@
+{
+  "title": "Modularized Multilingual NMT with Fine-grained Interlingua",
+  "authors": [
+    "Sungjun Lim",
+    "Yoonjung Choi",
+    "Sangha Kim"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Russian",
+    "Arabic",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.naacl-long.328",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.328/"
+}

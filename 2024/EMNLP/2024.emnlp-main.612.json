@@ -1,0 +1,18 @@
+{
+  "title": "Unlabeled Debiasing in Downstream Tasks via Class-wise Low Variance Regularization",
+  "authors": [
+    "Shahed Masoudian",
+    "Markus Frohmann",
+    "Navid Rekabsaz",
+    "Markus Schedl"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.612",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.612/"
+}

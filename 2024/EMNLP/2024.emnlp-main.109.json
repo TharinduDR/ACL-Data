@@ -1,0 +1,24 @@
+{
+  "title": "An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification",
+  "authors": [
+    "ZhuoWei Chen",
+    "Lianxi Wang",
+    "Yuben Wu",
+    "Xinfeng Liao",
+    "Yujia Tian",
+    "Junyang Zhong"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Arabic",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.emnlp-main.109",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.109/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Koel-TTS: Enhancing LLM based Speech Generation with Preference Alignment and Classifier Free Guidance",
+  "authors": [
+    "Shehzeen Samarah Hussain",
+    "Paarth Neekhara",
+    "Xuesong Yang",
+    "Edresson Casanova",
+    "Subhankar Ghosh",
+    "Mikyas T. Desta",
+    "Roy Fejgin",
+    "Rafael Valle",
+    "Jason Li"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "French",
+    "Italian",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.emnlp-main.1076",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1076/"
+}

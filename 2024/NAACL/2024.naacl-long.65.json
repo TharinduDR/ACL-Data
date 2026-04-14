@@ -1,0 +1,25 @@
+{
+  "title": "Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models",
+  "authors": [
+    "Yi Luo",
+    "Zhenghao Lin",
+    "Yuhao Zhang",
+    "Jiashuo Sun",
+    "Chen Lin",
+    "Chengjin Xu",
+    "Xiangdong Su",
+    "Yelong Shen",
+    "Jian Guo",
+    "Yeyun Gong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.65",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.65/"
+}

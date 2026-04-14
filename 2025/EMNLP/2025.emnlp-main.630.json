@@ -1,0 +1,25 @@
+{
+  "title": "CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space",
+  "authors": [
+    "Yong Zhao",
+    "Kai Xu",
+    "Zhengqiu Zhu",
+    "Yue Hu",
+    "Zhiheng Zheng",
+    "Yingfeng Chen",
+    "Yatai Ji",
+    "Chen Gao",
+    "Yong Li",
+    "Jincai Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.630",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.630/"
+}

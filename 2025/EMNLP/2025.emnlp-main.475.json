@@ -1,0 +1,20 @@
+{
+  "title": "FaST: Feature-aware Sampling and Tuning for Personalized Preference Alignment with Limited Data",
+  "authors": [
+    "Thibaut Thonet",
+    "Germán Kruszewski",
+    "Jos Rozen",
+    "Pierre Erbacher",
+    "Marc Dymetman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.475",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.475/"
+}

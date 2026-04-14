@@ -1,0 +1,24 @@
+{
+  "title": "Evaluating Large Language Models along Dimensions of Language Variation: A Systematik Investigatio uv Cross-lingual Generalization",
+  "authors": [
+    "Niyati Bafna",
+    "Kenton Murray",
+    "David Yarowsky"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Indonesian",
+    "Arabic",
+    "German",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.1044",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1044/"
+}

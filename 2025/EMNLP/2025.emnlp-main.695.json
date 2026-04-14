@@ -1,0 +1,22 @@
+{
+  "title": "Unmasking Deceptive Visuals: Benchmarking Multimodal Large Language Models on Misleading Chart Question Answering",
+  "authors": [
+    "Zixin Chen",
+    "Sicheng Song",
+    "Kashun Shum",
+    "Yanna Lin",
+    "Rui Sheng",
+    "Weiqi Wang",
+    "Huamin Qu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.695",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.695/"
+}

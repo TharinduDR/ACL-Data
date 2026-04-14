@@ -1,0 +1,27 @@
+{
+  "title": "FLAMES: Benchmarking Value Alignment of LLMs in Chinese",
+  "authors": [
+    "Kexin Huang",
+    "Xiangyang Liu",
+    "Qianyu Guo",
+    "Tianxiang Sun",
+    "Jiawei Sun",
+    "Yaru Wang",
+    "Zeyang Zhou",
+    "Yixu Wang",
+    "Yan Teng",
+    "Xipeng Qiu",
+    "Yingchun Wang",
+    "Dahua Lin"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2024.naacl-long.256",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.256/"
+}

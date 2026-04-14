@@ -1,0 +1,25 @@
+{
+  "title": "Group Preference Alignment: Customized LLM Response Generation from In-Situ Conversations",
+  "authors": [
+    "Ishani Mondal",
+    "Jack W. Stokes",
+    "Sujay Kumar Jauhar",
+    "Mengting Wan",
+    "Xiaofeng Xu",
+    "Xia Song",
+    "Jordan Boyd-Graber",
+    "Jennifer Neville"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.emnlp-industry.56",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.56/"
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Beyond Literal Token Overlap: Token Alignability for Multilinguality",
+  "authors": [
+    "Katharina Hämmel",
+    "Tomasz Limisiewicz",
+    "Jindřich Libovický",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "Arabic",
+    "Turkish",
+    "Chinese",
+    "Greek",
+    "Spanish",
+    "English",
+    "Swahili",
+    "Hindi",
+    "Marathi",
+    "Urdu",
+    "Tamil",
+    "Telugu",
+    "Thai",
+    "Russian",
+    "Bulgarian",
+    "Hebrew",
+    "Georgian",
+    "Vietnamese",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.naacl-short.63",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.63/"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Large Language Models Share Representations of Latent Grammatical Concepts Across Typologically Diverse Languages",
+  "authors": [
+    "Jannik Brinkmann",
+    "Chris Wendler",
+    "Christian Bartelt",
+    "Aaron Mueller"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Turkish",
+    "Indonesian",
+    "Chinese",
+    "Japanese",
+    "Persian",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Ukrainian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T12",
+    "T16",
+    "T21"
+  ],
+  "paper_id": "2025.naacl-long.312",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.312/"
+}

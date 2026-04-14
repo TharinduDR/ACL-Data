@@ -1,0 +1,17 @@
+{
+  "title": "CorrSynth - A Correlated Sampling Method for Diverse Dataset Generation from LLMs",
+  "authors": [
+    "Suhas S Kowshik",
+    "Abhishek Divekar",
+    "Vijit Malik"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.emnlp-main.899",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.899/"
+}

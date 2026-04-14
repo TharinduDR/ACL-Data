@@ -1,0 +1,30 @@
+{
+  "title": "SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature",
+  "authors": [
+    "David Wadden",
+    "Kejian Shi",
+    "Jacob Morrison",
+    "Alan Li",
+    "Aakanksha Naik",
+    "Shruti Singh",
+    "Nitzan Barzilay",
+    "Kyle Lo",
+    "Tom Hope",
+    "Luca Soldaini",
+    "Shannon Zejiang Shen",
+    "Doug Downey",
+    "Hannaneh Hajishirzi",
+    "Arman Cohan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.310",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.310/"
+}

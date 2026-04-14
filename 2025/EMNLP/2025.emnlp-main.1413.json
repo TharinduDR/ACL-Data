@@ -1,0 +1,35 @@
+{
+  "title": "AFRiDOC-MT: Document-level MT Corpus for African Languages",
+  "authors": [
+    "Jesujoba O. Alabi",
+    "Israel Abebe Azime",
+    "Miaoran Zhang",
+    "Cristina España-Bonet",
+    "Rachel Bawden",
+    "Dawei Zhu",
+    "David Ifeoluwa Adelani",
+    "Clement Oyeleke Odoje",
+    "Idris Akinade",
+    "Iffat Maab",
+    "Davis David",
+    "Shamsuddeen Hassan Muhammad",
+    "Neo Putini",
+    "David O. Ademuyiwa",
+    "Andrew Caines",
+    "Dietrich Klakow"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "Hausa",
+    "Swahili",
+    "Yoruba",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1413",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1413/"
+}

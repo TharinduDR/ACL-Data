@@ -1,0 +1,30 @@
+{
+  "title": "T2R-bench: A Benchmark for Generating Article-Level Reports from Real World Industrial Tables",
+  "authors": [
+    "Jie Zhang",
+    "Changzai Pan",
+    "Sishi Xiong",
+    "Kaiwen Wei",
+    "Yu Zhao",
+    "Xiangyu Li",
+    "Jiaxin Peng",
+    "Xiaoyan Gu",
+    "Jian Yang",
+    "Wenhan Chang",
+    "Zhenhe Wu",
+    "Jiang Zhong",
+    "Shuangyong Song",
+    "Xuelong Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.1141",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1141/"
+}

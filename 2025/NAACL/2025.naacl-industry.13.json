@@ -1,0 +1,24 @@
+{
+  "title": "QSpell 250K: A Large-Scale, Practical Dataset for Chinese Search Query Spell Correction",
+  "authors": [
+    "Dezhi Ye",
+    "Haomei Jia",
+    "Junwei Hu",
+    "Bowen Tian",
+    "Jie Liu",
+    "Haijin Liang",
+    "Jin Ma",
+    "Wenmin Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-industry.13",
+  "acl_url": "https://aclanthology.org/2025.naacl-industry.13/"
+}

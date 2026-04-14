@@ -1,0 +1,19 @@
+{
+  "title": "User-Generated Text Corpus for Evaluating Japanese Morphological Analysis and Lexical Normalization",
+  "authors": [
+    "Shohei Higashiyama",
+    "Masao Utiyama",
+    "Taro Watanabe",
+    "Eiichiro Sumita"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.naacl-main.438",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.438/"
+}

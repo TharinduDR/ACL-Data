@@ -1,0 +1,19 @@
+{
+  "title": "From Shortcuts to Triggers: Backdoor Defense with Denoised PoE",
+  "authors": [
+    "Qin Liu",
+    "Fei Wang",
+    "Chaowei Xiao",
+    "Muhao Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.naacl-long.27",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.27/"
+}

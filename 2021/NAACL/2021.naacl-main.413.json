@@ -1,0 +1,20 @@
+{
+  "title": "SpanPredict: Extraction of Predictive Document Spans with Neural Attention",
+  "authors": [
+    "Vivek Subramanian",
+    "Matthew Engelhard",
+    "Samuel Berchuck",
+    "Liqun Chen",
+    "Ricardo Henao",
+    "Lawrence Carin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2021.naacl-main.413",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.413/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "TITA: A Two-stage Interaction and Topic-Aware Text Matching Model",
+  "authors": [
+    "Xingwu Sun",
+    "Yanling Cui",
+    "Hongyin Tang",
+    "Qiuyu Zhu",
+    "Fuzheng Zhang",
+    "Beihong Jin"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.naacl-main.428",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.428/"
+}

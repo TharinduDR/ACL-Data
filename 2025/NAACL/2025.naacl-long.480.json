@@ -1,0 +1,19 @@
+{
+  "title": "Not All Adapters Matter: Selective Adapter Freezing for Memory-Efficient Fine-Tuning of Language Models",
+  "authors": [
+    "Hyegang Son",
+    "Yonglak Son",
+    "Changhoon Kim",
+    "Young Geun Kim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.naacl-long.480",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.480/"
+}

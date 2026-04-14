@@ -1,0 +1,21 @@
+{
+  "title": "On-the-fly Definition Augmentation of LLMs for Biomedical NER",
+  "authors": [
+    "Monica Munnangi",
+    "Sergey Feldman",
+    "Byron C Wallace",
+    "Silvio Amir",
+    "Tom Hope",
+    "Aakanksha Naik"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.naacl-long.212",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.212/"
+}

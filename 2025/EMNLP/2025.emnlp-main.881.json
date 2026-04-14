@@ -1,0 +1,36 @@
+{
+  "title": "LORAXBENCH: A Multitask, Multilingual Benchmark Suite for 20 Indonesian Languages",
+  "authors": [
+    "Alham Fikri Aji",
+    "Trevor Cohn"
+  ],
+  "languages": [
+    "Indonesian",
+    "Javanese",
+    "Sundanese",
+    "Madurese",
+    "Acehnese",
+    "Ambonese Malay",
+    "Balinese",
+    "Banjar",
+    "Batak Toba",
+    "Betawi",
+    "Buginese",
+    "Gorontalo",
+    "Iban",
+    "Jambi Malay",
+    "Lampung Nyo",
+    "Minangkabau",
+    "Musi",
+    "Ngaju",
+    "Sasak",
+    "Sundanese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.881",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.881/"
+}

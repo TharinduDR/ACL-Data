@@ -1,0 +1,50 @@
+{
+  "title": "CHURRO: Making History Readable with an Open-Weight Large Vision-Language Model for High-Accuracy, Low-Cost Historical Text Recognition",
+  "authors": [
+    "Sina J. Semnani",
+    "Han Zhang",
+    "Xinyan He",
+    "Merve Tekgürler",
+    "Monica S. Lam"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Catalan",
+    "Chinese",
+    "Czech",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Greek",
+    "Hebrew",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Khmer",
+    "Malayalam",
+    "Norwegian",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Sanskrit",
+    "Serbian",
+    "Slovenian",
+    "Spanish",
+    "Swedish",
+    "Turkish",
+    "Vietnamese",
+    "Yiddish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1763",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1763/"
+}

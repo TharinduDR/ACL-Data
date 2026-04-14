@@ -1,0 +1,21 @@
+{
+  "title": "LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-Training",
+  "authors": [
+    "Tong Zhu",
+    "Xiaoye Qu",
+    "Daize Dong",
+    "Jiacheng Ruan",
+    "Jingqi Tong",
+    "Conghui He",
+    "Yu Cheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.890",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.890/"
+}

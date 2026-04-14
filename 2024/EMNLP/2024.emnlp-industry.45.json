@@ -1,0 +1,28 @@
+{
+  "title": "TelBench: A Benchmark for Evaluating Telco-Specific Large Language Models",
+  "authors": [
+    "Sunwoo Lee",
+    "Dhammiko Arya",
+    "Seung-Mo Cho",
+    "Gyoung-eun Han",
+    "Seokyoung Hong",
+    "Wonbeom Jang",
+    "Seojin Lee",
+    "Sohee Park",
+    "Sereimony Sek",
+    "Injee Song",
+    "Sungbin Yoon",
+    "Eric Davis"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.emnlp-industry.45",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.45/"
+}

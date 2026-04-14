@@ -1,0 +1,20 @@
+{
+  "title": "Double Perturbation: On the Robustness of Robustness and Counterfactual Bias Evaluation",
+  "authors": [
+    "Chong Zhang",
+    "Jieyu Zhao",
+    "Huan Zhang",
+    "Kai-Wei Chang",
+    "Cho-Jui Hsieh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.naacl-main.305",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.305/"
+}

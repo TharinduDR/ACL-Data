@@ -1,0 +1,35 @@
+{
+  "title": "MrGuard: A Multilingual Reasoning Guardrail for Universal LLM Safety",
+  "authors": [
+    "Yahan Yang",
+    "Soham Dan",
+    "Shuo Li",
+    "Dan Roth",
+    "Insup Lee"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Spanish",
+    "Russian",
+    "French",
+    "Hindi",
+    "Swahili",
+    "Italian",
+    "Korean",
+    "Japanese",
+    "Portuguese",
+    "Serbian",
+    "Bengali",
+    "Filipino",
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.1392",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1392/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Uncertainty Quantification for In-Context Learning of Large Language Models",
+  "authors": [
+    "Chen Ling",
+    "Xujiang Zhao",
+    "Xuchao Zhang",
+    "Wei Cheng",
+    "Yanchi Liu",
+    "Yiyou Sun",
+    "Mika Oishi",
+    "Takao Osaki",
+    "Katsushi Matsuda",
+    "Jie Ji",
+    "Guangji Bai",
+    "Liang Zhao",
+    "Haifeng Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.naacl-long.184",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.184/"
+}

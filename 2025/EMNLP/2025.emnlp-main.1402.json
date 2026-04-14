@@ -1,0 +1,26 @@
+{
+  "title": "When Life Gives You Samples: The Benefits of Scaling up Inference Compute for Multilingual LLMs",
+  "authors": [
+    "Ammar Khairi",
+    "Daniel D'souza",
+    "Ye Shen",
+    "Julia Kreutzer",
+    "Sara Hooker"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Japanese",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1402",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1402/"
+}

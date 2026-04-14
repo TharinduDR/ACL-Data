@@ -1,0 +1,39 @@
+{
+  "title": "Granite-Function Calling Model: Introducing Function Calling Abilities via Multi-task Learning of Granular Tasks",
+  "authors": [
+    "Ibrahim Abdelaziz",
+    "Kinjal Basu",
+    "Mayank Agarwal",
+    "Sadhana Kumaravel",
+    "Matthew Stallone",
+    "Rameswar Panda",
+    "Yara Rizk",
+    "GP Bhargav",
+    "Maxwell Crouse",
+    "Chulaka Gunasekara",
+    "Shajith Ikbal",
+    "Sachin Joshi",
+    "Hima Karanam",
+    "Vineet Kumar",
+    "Asim Munawar",
+    "Sumit Neelam",
+    "Dinesh Raghu",
+    "Udit Sharma",
+    "Adriana Meza Soria",
+    "Dheeraj Sreedhar",
+    "Praveen Venkateswaran",
+    "Merve Unuvar",
+    "David Cox",
+    "Salim Roukos",
+    "Luis Lastras",
+    "Pavan Kapanipathi"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-industry.85",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.85/"
+}

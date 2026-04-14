@@ -1,0 +1,22 @@
+{
+  "title": "RedCoast: A Lightweight Tool to Automate Distributed Training of LLMs on Any GPU/TPUs",
+  "authors": [
+    "Bowen Tan",
+    "Yun Zhu",
+    "Lijuan Liu",
+    "Hongyi Wang",
+    "Yonghao Zhuang",
+    "Jindong Chen",
+    "Eric Xing",
+    "Zhiting Hu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.naacl-demo.14",
+  "acl_url": "https://aclanthology.org/2024.naacl-demo.14/"
+}

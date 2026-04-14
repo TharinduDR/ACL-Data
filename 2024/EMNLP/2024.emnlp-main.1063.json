@@ -1,0 +1,28 @@
+{
+  "title": "FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture",
+  "authors": [
+    "Wenyan Li",
+    "Xinyu Zhang",
+    "Jiaang Li",
+    "Qiwei Peng",
+    "Raphael Tang",
+    "Li Zhou",
+    "Weijia Zhang",
+    "Guimin Hu",
+    "Yifei Yuan",
+    "Anders Søgaard",
+    "Daniel Hershcovich",
+    "Desmond Elliott"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.emnlp-main.1063",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1063/"
+}

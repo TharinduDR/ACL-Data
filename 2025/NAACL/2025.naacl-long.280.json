@@ -1,0 +1,45 @@
+{
+  "title": "Multilingual Machine Translation with Open Large Language Models at Practical Scale: An Empirical Study",
+  "authors": [
+    "Menglong Cui",
+    "Pengzhi Gao",
+    "Wei Liu",
+    "Jian Luan",
+    "Bin Wang"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Czech",
+    "German",
+    "Spanish",
+    "Persian",
+    "French",
+    "Hebrew",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Khmer",
+    "Korean",
+    "Lao",
+    "Malay",
+    "Burmese",
+    "Dutch",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Thai",
+    "Tagalog",
+    "Turkish",
+    "Urdu",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2025.naacl-long.280",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.280/"
+}

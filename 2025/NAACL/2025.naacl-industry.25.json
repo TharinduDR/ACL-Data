@@ -1,0 +1,27 @@
+{
+  "title": "Efficient Continual Pre-training of LLMs for Low-resource Languages",
+  "authors": [
+    "Arijit Nag",
+    "Animesh Mukherjee",
+    "Niloy Ganguly",
+    "Soumen Chakrabarti"
+  ],
+  "languages": [
+    "Urdu",
+    "Bengali",
+    "Telugu",
+    "Sanskrit",
+    "Assamese",
+    "Punjabi",
+    "Santali",
+    "Konkani",
+    "Bodo"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2025.naacl-industry.25",
+  "acl_url": "https://aclanthology.org/2025.naacl-industry.25/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Adapting LLMs for Structured Natural Language API Integration",
+  "authors": [
+    "Robin Chan",
+    "Katsiaryna Mirylenka",
+    "Thomas Gschwind",
+    "Christoph Miksovich-Czasch",
+    "Paolo Scotton",
+    "Enrico Toniato",
+    "Abdel Labbi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2024.emnlp-industry.74",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.74/"
+}

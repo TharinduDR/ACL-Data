@@ -1,0 +1,37 @@
+{
+  "title": "Improving Multilingual Retrieval-Augmented Language Models through Dialectic Reasoning Argumentations",
+  "authors": [
+    "Leonardo Ranaldi",
+    "Federico Ranaldi",
+    "Fabio Massimo Zanzotto",
+    "Barry Haddow",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "German",
+    "Finnish",
+    "Russian",
+    "Spanish",
+    "Portuguese",
+    "Italian",
+    "Korean",
+    "Telugu",
+    "Hindi",
+    "Persian",
+    "Japanese",
+    "Vietnamese",
+    "Thai",
+    "Bengali",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.461",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.461/"
+}

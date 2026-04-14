@@ -1,0 +1,21 @@
+{
+  "title": "ScriptMix: Mixing Scripts for Low-resource Language Parsing",
+  "authors": [
+    "Jaeseong Lee",
+    "Dohyeon Lee",
+    "Seung-won Hwang"
+  ],
+  "languages": [
+    "Uyghur",
+    "Old Church Slavonic",
+    "Russia Buriat",
+    "Erzya",
+    "Amharic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.naacl-long.357",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.357/"
+}

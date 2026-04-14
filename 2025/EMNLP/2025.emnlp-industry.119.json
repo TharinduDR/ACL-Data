@@ -1,0 +1,35 @@
+{
+  "title": "Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems",
+  "authors": [
+    "Kayhan Behdin",
+    "Ata Fatahibaarzi",
+    "Qingquan Song",
+    "Yun Dai",
+    "Aman Gupta",
+    "Zhipeng Wang",
+    "Shao Tang",
+    "Hejian Sang",
+    "Gregory Dexter",
+    "Sirou Zhu",
+    "Siyu Zhu",
+    "Tejas Dharamsi",
+    "Vignesh Kothapalli",
+    "Zhoutong Fu",
+    "Yihan Cao",
+    "Pin-Lun Hsu",
+    "Fedor Borisyuk",
+    "Natesh Pillai",
+    "Luke Simon",
+    "Rahul Mazumder"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.emnlp-industry.119",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.119/"
+}

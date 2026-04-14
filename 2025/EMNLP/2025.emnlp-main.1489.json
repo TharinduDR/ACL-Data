@@ -1,0 +1,21 @@
+{
+  "title": "TinySQL: A Progressive Text-to-SQL Dataset for Mechanistic Interpretability Research",
+  "authors": [
+    "Abir Harrasse",
+    "Philip Quirke",
+    "Clement Neo",
+    "Dhruv Nathawani",
+    "Luke Marks",
+    "Amir Abdullah"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.1489",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1489/"
+}

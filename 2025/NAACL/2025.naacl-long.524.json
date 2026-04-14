@@ -1,0 +1,20 @@
+{
+  "title": "LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs",
+  "authors": [
+    "Sumin An",
+    "Junyoung Sung",
+    "Wonpyo Park",
+    "Chanjun Park",
+    "Paul HongSuck Seo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.524",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.524/"
+}

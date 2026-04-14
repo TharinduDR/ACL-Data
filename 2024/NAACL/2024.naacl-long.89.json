@@ -1,0 +1,25 @@
+{
+  "title": "Sub-Sentence Encoder: Contrastive Learning of Propositional Semantic Representations",
+  "authors": [
+    "Sihao Chen",
+    "Hongming Zhang",
+    "Tong Chen",
+    "Ben Zhou",
+    "Wenbao Yu",
+    "Dian Yu",
+    "Baolin Peng",
+    "Hongwei Wang",
+    "Dan Roth",
+    "Dong Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.naacl-long.89",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.89/"
+}

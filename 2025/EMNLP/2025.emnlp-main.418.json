@@ -1,0 +1,29 @@
+{
+  "title": "A Rigorous Evaluation of LLM Data Generation Strategies for Low-Resource Languages",
+  "authors": [
+    "Tatiana Anikina",
+    "Jan Cegin",
+    "Jakub Simko",
+    "Simon Ostermann"
+  ],
+  "languages": [
+    "English",
+    "Azerbaijani",
+    "Welsh",
+    "German",
+    "Hebrew",
+    "Indonesian",
+    "Romanian",
+    "Slovenian",
+    "Swahili",
+    "Telugu",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.emnlp-main.418",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.418/"
+}

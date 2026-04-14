@@ -1,0 +1,28 @@
+{
+  "title": "RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation",
+  "authors": [
+    "Xuanwang Zhang",
+    "Yunze Song",
+    "Yidong Wang",
+    "Shuyun Tang",
+    "Xinfeng Li",
+    "Zhengran Zeng",
+    "Zhen Wu",
+    "Wei Ye",
+    "Wenyuan Xu",
+    "Yue Zhang",
+    "Xinyu Dai",
+    "Shikun Zhang",
+    "Qingsong Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-demo.43",
+  "acl_url": "https://aclanthology.org/2024.emnlp-demo.43/"
+}

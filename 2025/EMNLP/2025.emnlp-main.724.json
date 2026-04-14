@@ -1,0 +1,25 @@
+{
+  "title": "QCRD: Quality-guided Contrastive Rationale Distillation for Large Language Models",
+  "authors": [
+    "Wei Wang",
+    "Zhaowei Li",
+    "Qi Xu",
+    "Yiqing Cai",
+    "Hang Song",
+    "Qi Qi",
+    "Ran Zhou",
+    "Zhida Huang",
+    "Tao Wang",
+    "Li Xiao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.724",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.724/"
+}

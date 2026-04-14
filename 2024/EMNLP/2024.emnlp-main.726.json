@@ -1,0 +1,21 @@
+{
+  "title": "SciER: An Entity and Relation Extraction Dataset for Datasets, Methods, and Tasks in Scientific Documents",
+  "authors": [
+    "Qi Zhang",
+    "Zhijia Chen",
+    "Huitong Pan",
+    "Cornelia Caragea",
+    "Longin Jan Latecki",
+    "Eduard Dragut"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.emnlp-main.726",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.726/"
+}

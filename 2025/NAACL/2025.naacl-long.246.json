@@ -1,0 +1,23 @@
+{
+  "title": "SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture",
+  "authors": [
+    "Jiayi Han",
+    "Liang Du",
+    "Hongwei Du",
+    "Xiangguo Zhou",
+    "Yiwen Wu",
+    "Yuanfang Zhang",
+    "Weibo Zheng",
+    "Donghong Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.246",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.246/"
+}

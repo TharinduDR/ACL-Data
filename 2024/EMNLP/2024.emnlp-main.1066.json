@@ -1,0 +1,25 @@
+{
+  "title": "DetoxLLM: A Framework for Detoxification with Explanations",
+  "authors": [
+    "Md Tawkat Islam Khondaker",
+    "Muhammad Abdul-Mageed",
+    "Laks V.S. Lakshmanan"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "German",
+    "Hindi",
+    "Russian",
+    "Spanish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Offensive Language/ Hate speech/ Toxic Language Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-main.1066",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1066/"
+}

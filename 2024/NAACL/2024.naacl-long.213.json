@@ -1,0 +1,25 @@
+{
+  "title": "This Land is {Your, My} Land: Evaluating Geopolitical Bias in Language Models through Territorial Disputes",
+  "authors": [
+    "Bryan Li",
+    "Samar Haider",
+    "Chris Callison-Burch"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Arabic",
+    "Russian",
+    "Ukrainian",
+    "Hindi",
+    "Urdu",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2024.naacl-long.213",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.213/"
+}

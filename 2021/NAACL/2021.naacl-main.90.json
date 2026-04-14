@@ -1,0 +1,42 @@
+{
+  "title": "Macro-Average: Rare Types Are Important Too",
+  "authors": [
+    "Thamme Gowda",
+    "Weiqiu You",
+    "Constantine Lignos",
+    "Jonathan May"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Romanian",
+    "Chinese",
+    "Lithuanian",
+    "Pashto",
+    "Bulgarian",
+    "Czech",
+    "Hungarian",
+    "Finnish",
+    "Russian",
+    "Korean",
+    "Japanese",
+    "Vietnamese",
+    "Thai",
+    "Lao",
+    "Khmer",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.naacl-main.90",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.90/"
+}

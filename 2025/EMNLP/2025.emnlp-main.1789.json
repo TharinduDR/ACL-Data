@@ -1,0 +1,21 @@
+{
+  "title": "Retracing the Past: LLMs Emit Training Data When They Get Lost",
+  "authors": [
+    "Myeongseob Ko",
+    "Nikhil Reddy Billa",
+    "Adam Nguyen",
+    "Charles Fleming",
+    "Ming Jin",
+    "Ruoxi Jia"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1789",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1789/"
+}

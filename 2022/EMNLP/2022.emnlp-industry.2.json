@@ -1,0 +1,22 @@
+{
+  "title": "DynaMaR: Dynamic Prompt with Mask Token Representation",
+  "authors": [
+    "Xiaodi Sun",
+    "Sunny Rajagopalan",
+    "Priyanka Nigam",
+    "Weiyi Lu",
+    "Yi Xu",
+    "Iman Keivanloo",
+    "Belinda Zeng",
+    "Trishul Chilimbi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.emnlp-industry.2",
+  "acl_url": "https://aclanthology.org/2022.emnlp-industry.2/"
+}

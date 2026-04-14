@@ -1,0 +1,18 @@
+{
+  "title": "Enhancing Contextual Understanding in Large Language Models through Contrastive Decoding",
+  "authors": [
+    "Zheng Zhao",
+    "Emilio Monti",
+    "Jens Lehmann",
+    "Haytham Assem"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.naacl-long.237",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.237/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Detecting Knowledge Boundary of Vision Large Language Models by Sampling-Based Inference",
+  "authors": [
+    "Zhuo Chen",
+    "Xinyu Wang",
+    "Yong Jiang",
+    "Zhen Zhang",
+    "Xinyu Geng",
+    "Pengjun Xie",
+    "Fei Huang",
+    "Kewei Tu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1458",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1458/"
+}

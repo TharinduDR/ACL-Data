@@ -1,0 +1,21 @@
+{
+  "title": "Hyper-QKSG: Framework for Automating Query Generation and Knowledge-Snippet Extraction from Tables and Lists",
+  "authors": [
+    "Dooyoung Kim",
+    "Yoonjin Jang",
+    "Dongwook Shin",
+    "Chanhoon Park",
+    "Youngjoong Ko"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering",
+    "T11 Information Extraction",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2024.emnlp-industry.100",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.100/"
+}

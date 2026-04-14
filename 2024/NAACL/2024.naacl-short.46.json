@@ -1,0 +1,45 @@
+{
+  "title": "Do Multilingual Language Models Think Better in English?",
+  "authors": [
+    "Julen Etxaniz",
+    "Gorka Azkune",
+    "Aitor Soroa",
+    "Oier Lopez de Lacalle",
+    "Mikel Artetxe"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Chinese",
+    "Russian",
+    "Arabic",
+    "Persian",
+    "Portuguese",
+    "Italian",
+    "Indonesian",
+    "Thai",
+    "Vietnamese",
+    "Bulgarian",
+    "Catalan",
+    "Hindi",
+    "Estonian",
+    "Bengali",
+    "Tamil",
+    "Urdu",
+    "Swahili",
+    "Telugu",
+    "Basque",
+    "Burmese",
+    "Haitian Creole",
+    "Quechua"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-short.46",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.46/"
+}

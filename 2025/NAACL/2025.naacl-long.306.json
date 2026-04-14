@@ -1,0 +1,22 @@
+{
+  "title": "AEGIS2.0: A Diverse AI Safety Dataset and Risks Taxonomy for Alignment of LLM Guardrails",
+  "authors": [
+    "Shaona Ghosh",
+    "Prasoon Varshney",
+    "Makesh Narsimhan Sreedhar",
+    "Aishwarya Padmakumar",
+    "Traian Rebedea",
+    "Jibin Rajan Varghese",
+    "Christopher Parisien"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.306",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.306/"
+}

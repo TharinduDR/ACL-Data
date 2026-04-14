@@ -1,0 +1,21 @@
+{
+  "title": "DACIP-RC: Domain Adaptive Continual Instruction Pre-Training via Reading Comprehension on Business Conversations",
+  "authors": [
+    "Elena Khasanova",
+    "Harsh Saini",
+    "Md Tahmid Rahman Laskar",
+    "Xue-Yong Fu",
+    "Cheng Chen",
+    "Shashi Bhushan TN"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.emnlp-industry.131",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.131/"
+}

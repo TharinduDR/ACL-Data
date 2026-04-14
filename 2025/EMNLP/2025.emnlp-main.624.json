@@ -1,0 +1,38 @@
+{
+  "title": "Boosting Data Utilization for Multilingual Dense Retrieval",
+  "authors": [
+    "Chao Huang",
+    "Fengran Mo",
+    "Yufeng Chen",
+    "Changhao Guan",
+    "Zhenrui Yue",
+    "Xinyu Wang",
+    "Jinan Xu",
+    "Kaiyu Huang"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "English",
+    "Spanish",
+    "Persian",
+    "Finnish",
+    "French",
+    "Hindi",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Telugu",
+    "Thai",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.624",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.624/"
+}

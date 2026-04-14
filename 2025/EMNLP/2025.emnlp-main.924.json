@@ -1,0 +1,30 @@
+{
+  "title": "Unsupervised Word-level Quality Estimation for Machine Translation Through the Lens of Annotators (Dis)agreement",
+  "authors": [
+    "Gabriele Sarti",
+    "Vilém Zouhar",
+    "Malvina Nissim",
+    "Arianna Bisazza"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Dutch",
+    "Arabic",
+    "Turkish",
+    "Vietnamese",
+    "Ukrainian",
+    "Japanese",
+    "Chinese",
+    "Hindi",
+    "Czech",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.924",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.924/"
+}

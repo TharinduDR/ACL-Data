@@ -1,0 +1,21 @@
+{
+  "title": "Split-Merge: Scalable and Memory-Efficient Merging of Expert LLMs",
+  "authors": [
+    "Sruthi Gorantla",
+    "Aditya Rawal",
+    "Devamanyu Hazarika",
+    "Kaixiang Lin",
+    "Mingyi Hong",
+    "Mahdi Namazifar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.emnlp-main.1533",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1533/"
+}

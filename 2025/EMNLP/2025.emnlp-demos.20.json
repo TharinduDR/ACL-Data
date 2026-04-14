@@ -1,0 +1,22 @@
+{
+  "title": "LIONGUARD 2: Building Lightweight, Data-Efficient & Localised Multilingual Content Moderators",
+  "authors": [
+    "Leanne Tan",
+    "Gabriel Chua",
+    "Ziyu Ge",
+    "Roy Ka-Wei Lee"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Malay",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-demos.20",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.20/"
+}

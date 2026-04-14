@@ -1,0 +1,33 @@
+{
+  "title": "Autoregressive Pre-Training on Pixels and Texts",
+  "authors": [
+    "Yekun Chai",
+    "Qingyi Liu",
+    "Jingwu Xiao",
+    "Shuohuan Wang",
+    "Yu Sun",
+    "Hua Wu"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bulgarian",
+    "German",
+    "Greek",
+    "Hindi",
+    "Spanish",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Urdu",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.182",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.182/"
+}

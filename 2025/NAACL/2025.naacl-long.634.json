@@ -1,0 +1,19 @@
+{
+  "title": "SALAD: Improving Robustness and Generalization through Contrastive Learning with Structure-Aware and LLM-Driven Augmented Data",
+  "authors": [
+    "Suyoung Bae",
+    "Hyojun Kim",
+    "YunSeok Choi",
+    "Jee-Hyong Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.634",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.634/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Improving Large Language Models Function Calling and Interpretability via Guided-Structured Templates",
+  "authors": [
+    "Hy Dang",
+    "Tianyi Liu",
+    "Zhuofeng Wu",
+    "Jingfeng Yang",
+    "Haoming Jiang",
+    "Tao Yang",
+    "Pei Chen",
+    "Zhengyang Wang",
+    "Helen Wang",
+    "Huasheng Li",
+    "Bing Yin",
+    "Meng Jiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1242",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1242/"
+}

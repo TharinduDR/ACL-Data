@@ -1,0 +1,23 @@
+{
+  "title": "ROBOTO2: An Interactive System and Dataset for LLM-assisted Clinical Trial Risk of Bias Assessment",
+  "authors": [
+    "Anthony Hevia",
+    "Sanjana Chintalapati",
+    "Veronica Ka Wai Lai",
+    "Thanh Tam Nguyen",
+    "Wai-Tat Wong",
+    "Terry Klassen",
+    "Lucy Lu Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.emnlp-demos.2",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.2/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Biomedical NER for the Enterprise with Distilled BERN2 and the Kazu Framework",
+  "authors": [
+    "Wonjin Yoon",
+    "Richard Jackson",
+    "Elliot Ford",
+    "Vladimir Poroshin",
+    "Jaewoo Kang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.emnlp-industry.63",
+  "acl_url": "https://aclanthology.org/2022.emnlp-industry.63/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Cross-lingual Back-Parsing: Utterance Synthesis from Meaning Representation for Zero-Resource Semantic Parsing",
+  "authors": [
+    "Deokhyung Kang",
+    "Seonjeong Hwang",
+    "Yunsu Kim",
+    "Gary Geunbae Lee"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Spanish",
+    "Persian",
+    "Finnish",
+    "Italian",
+    "Japanese",
+    "Polish",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2024.emnlp-main.792",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.792/"
+}

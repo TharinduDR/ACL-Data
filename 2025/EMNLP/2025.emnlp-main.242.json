@@ -1,0 +1,33 @@
+{
+  "title": "P-MMEVAL: A Parallel Multilingual Multitask Benchmark for Consistent Evaluation of LLMs",
+  "authors": [
+    "Yidan Zhang",
+    "Yu Wan",
+    "Boyi Deng",
+    "Baosong Yang",
+    "Haoran Wei",
+    "Fei Huang",
+    "Bowen Yu",
+    "Dayiheng Liu",
+    "Junyang Lin",
+    "Jingren Zhou"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Spanish",
+    "Japanese",
+    "Korean",
+    "French",
+    "Portuguese",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.242",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.242/"
+}

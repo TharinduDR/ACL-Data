@@ -1,0 +1,21 @@
+{
+  "title": "RAGferee: Building Contextual Reward Models for Retrieval-Augmented Generation",
+  "authors": [
+    "Andrei C. Coman",
+    "Ionut-Teodor Sorodoc",
+    "Leonardo F. R. Ribeiro",
+    "James Henderson",
+    "Bill Byrne",
+    "Adrià de Gispert"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.414",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.414/"
+}

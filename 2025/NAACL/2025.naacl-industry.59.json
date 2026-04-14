@@ -1,0 +1,23 @@
+{
+  "title": "Medical Spoken Named Entity Recognition",
+  "authors": [
+    "Khai Le-Duc",
+    "David Thulke",
+    "Hung-Phong Tran",
+    "Long Vo-Dang",
+    "Khai-Nguyen Nguyen",
+    "Truong-Son Hy",
+    "Ralf Schlüter"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.naacl-industry.59",
+  "acl_url": "https://aclanthology.org/2025.naacl-industry.59/"
+}

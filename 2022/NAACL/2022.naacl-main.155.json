@@ -1,0 +1,23 @@
+{
+  "title": "Building a Role Specified Open-Domain Dialogue System Leveraging Large-Scale Language Models",
+  "authors": [
+    "Sanghwan Bae",
+    "Donghyun Kwak",
+    "Sungdong Kim",
+    "Donghoon Ham",
+    "Soyoung Kang",
+    "Sang-Woo Lee",
+    "Woomyoung Park"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-main.155",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.155/"
+}

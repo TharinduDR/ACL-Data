@@ -1,0 +1,19 @@
+{
+  "title": "ViGPTQA - State-of-the-Art LLMs for Vietnamese Question Answering: System Overview, Core Models Training, and Evaluations",
+  "authors": [
+    "Minh-Thuan Nguyen",
+    "Khanh-Tung Tran",
+    "Vincent Nguyen",
+    "Xuan-Son Vu"
+  ],
+  "languages": [
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2023.emnlp-industry.70",
+  "acl_url": "https://aclanthology.org/2023.emnlp-industry.70/"
+}

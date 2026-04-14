@@ -1,0 +1,19 @@
+{
+  "title": "Control-DAG: Constrained Decoding for Non-Autoregressive Directed Acyclic T5 using Weighted Finite State Automata",
+  "authors": [
+    "Jinghong Chen",
+    "Weizhe Lin",
+    "Jingbiao Mei",
+    "Bill Byrne"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-short.42",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.42/"
+}

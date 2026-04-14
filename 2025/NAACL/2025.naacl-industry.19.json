@@ -1,0 +1,20 @@
+{
+  "title": "Zero-Shot ATC Coding with Large Language Models for Clinical Assessments",
+  "authors": [
+    "Zijian Chen",
+    "John-Michael Gamble",
+    "Micaela Jantzi",
+    "John P. Hirdes",
+    "Jimmy Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.naacl-industry.19",
+  "acl_url": "https://aclanthology.org/2025.naacl-industry.19/"
+}

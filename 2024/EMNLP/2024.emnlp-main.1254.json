@@ -1,0 +1,25 @@
+{
+  "title": "COFFEE-GYM: An Environment for Evaluating and Improving Natural Language Feedback on Erroneous Code",
+  "authors": [
+    "Hyungjoo Chae",
+    "Taeyoon Kwon",
+    "Seungjun Moon",
+    "Yongho Song",
+    "Dongjin Kang",
+    "Kai Tzu-iunn Ong",
+    "Beong-woo Kwak",
+    "Seonghyeon Bae",
+    "Seung-won Hwang",
+    "Jinyoung Yeo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.1254",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1254/"
+}

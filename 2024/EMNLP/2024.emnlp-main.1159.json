@@ -1,0 +1,25 @@
+{
+  "title": "Investigating Multilingual Instruction-Tuning: Do Polyglot Models Demand for Multilingual Instructions?",
+  "authors": [
+    "Alexander Arno Weber",
+    "Klaudia Thellmann",
+    "Jan Ebert",
+    "Nicolas Flores-Herr",
+    "Jens Lehmann",
+    "Michael Fromm",
+    "Mehdi Ali"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.1159",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1159/"
+}

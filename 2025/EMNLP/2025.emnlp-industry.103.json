@@ -1,0 +1,19 @@
+{
+  "title": "Contrastive Learning Using Graph Embeddings for Domain Adaptation of Language Models in the Process Industry",
+  "authors": [
+    "Anastasia Zhukova",
+    "Jonas Lührs",
+    "Christian E. Lobmüller",
+    "Bela Gipp"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.emnlp-industry.103",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.103/"
+}

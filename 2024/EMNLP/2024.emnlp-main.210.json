@@ -1,0 +1,22 @@
+{
+  "title": "A User-Centric Multi-Intent Benchmark for Evaluating Large Language Models",
+  "authors": [
+    "Jiayin Wang",
+    "Fengran Mo",
+    "Weizhi Ma",
+    "Peijie Sun",
+    "Min Zhang",
+    "Jian-Yun Nie"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.emnlp-main.210",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.210/"
+}

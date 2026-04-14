@@ -1,0 +1,35 @@
+{
+  "title": "Where are you from? Geolocating Speech and Applications to Language Identification",
+  "authors": [
+    "Patrick Foley",
+    "Matthew Wiesner",
+    "Bismarck Bamfo Odoom",
+    "Leibny Paola Garcia",
+    "Kenton Murray",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "French",
+    "Russian",
+    "Malayalam",
+    "Filipino",
+    "Japanese",
+    "Spanish",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.naacl-long.286",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.286/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "MOSAICo: a Multilingual Open-text Semantically Annotated Interlinked Corpus",
+  "authors": [
+    "Simone Conia",
+    "Edoardo Barba",
+    "Abelardo Carlos Martínez Lorenzo",
+    "Pere-Lluís Huguet Cabot",
+    "Riccardo Orlando",
+    "Luigi Procopio",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.naacl-long.442",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.442/"
+}

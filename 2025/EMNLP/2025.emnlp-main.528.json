@@ -1,0 +1,24 @@
+{
+  "title": "Bit-Flip Error Resilience in LLMs: A Comprehensive Analysis and Defense Framework",
+  "authors": [
+    "Yuhang Chen",
+    "Zhen Tan",
+    "Ajay Jaiswal",
+    "Huaizhi Qu",
+    "Xinyu Zhao",
+    "Qi Lin",
+    "Yu Cheng",
+    "Andrew Kwong",
+    "Zhichao Cao",
+    "Tianlong Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.528",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.528/"
+}

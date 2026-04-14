@@ -1,0 +1,23 @@
+{
+  "title": "DETQUS: Decomposition-Enhanced Transformers for QQuery-focused Summarization",
+  "authors": [
+    "Yasir Khan",
+    "Xinlei Wu",
+    "Sangpil Youm",
+    "Justin Ho",
+    "Aryaan Shaikh",
+    "Jairo Garciga",
+    "Rohan Sharma",
+    "Bonnie J. Dorr"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.naacl-long.138",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.138/"
+}

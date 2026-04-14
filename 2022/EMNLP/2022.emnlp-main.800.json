@@ -11,7 +11,9 @@
     "English"
   ],
   "research_areas": [
-    "T06 Information Retrieval and Cross-lingual Retrieval"
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],
   "paper_id": "2022.emnlp-main.800",
   "acl_url": "https://aclanthology.org/2022.emnlp-main.800/"

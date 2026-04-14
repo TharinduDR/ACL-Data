@@ -1,0 +1,25 @@
+{
+  "title": "How LLMs React to Industrial Spatio-Temporal Data? Assessing Hallucination with a Novel Traffic Incident Benchmark Dataset",
+  "authors": [
+    "Qiang Li",
+    "Mingkun Tan",
+    "Dan Zhang",
+    "Daoan Zhang",
+    "Xun Zhao",
+    "Porawit Kamnoedboon",
+    "Shengzhao Lei",
+    "Lujun Li",
+    "S.H. Chu"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.naacl-industry.4",
+  "acl_url": "https://aclanthology.org/2025.naacl-industry.4/"
+}

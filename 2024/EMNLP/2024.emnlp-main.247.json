@@ -1,0 +1,23 @@
+{
+  "title": "An Analysis of Multilingual FActScore",
+  "authors": [
+    "Vu Trong Kim",
+    "Michael Krumdick",
+    "Varshini Reddy",
+    "Franck Dernoncourt",
+    "Viet Dac Lai"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Arabic",
+    "Bengali"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2024.emnlp-main.247",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.247/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models",
+  "authors": [
+    "Zeping Yu",
+    "Yonatan Belinkov",
+    "Sophia Ananiadou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.567",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.567/"
+}

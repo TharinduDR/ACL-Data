@@ -1,0 +1,20 @@
+{
+  "title": "Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking",
+  "authors": [
+    "Wuwei Zhang",
+    "Fangcong Yin",
+    "Howard Yen",
+    "Danqi Chen",
+    "Xi Ye"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.1214",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1214/"
+}

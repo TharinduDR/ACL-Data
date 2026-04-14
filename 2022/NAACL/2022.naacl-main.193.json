@@ -1,0 +1,19 @@
+{
+  "title": "Learning to Retrieve Passages without Supervision",
+  "authors": [
+    "Ori Ram",
+    "Gal Shachaf",
+    "Omer Levy",
+    "Jonathan Berant",
+    "Amir Globerson"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.naacl-main.193",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.193/"
+}

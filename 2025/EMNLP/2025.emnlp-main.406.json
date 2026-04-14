@@ -1,0 +1,22 @@
+{
+  "title": "Layer-Aware Representation Filtering: Purifying Finetuning Data to Preserve LLM Safety Alignment",
+  "authors": [
+    "Hao Li",
+    "Lijun Li",
+    "Zhenghao Lu",
+    "Xianyi Wei",
+    "Rui Li",
+    "Jing Shao",
+    "Lei Sha"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-main.406",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.406/"
+}

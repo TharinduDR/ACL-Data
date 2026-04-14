@@ -1,0 +1,25 @@
+{
+  "title": "Mitigating the Privacy Issues in Retrieval-Augmented Generation (RAG) via Pure Synthetic Data",
+  "authors": [
+    "Shenglai Zeng",
+    "Jiankun Zhang",
+    "Pengfei He",
+    "Jie Ren",
+    "Tianqi Zheng",
+    "Hanqing Lu",
+    "Han Xu",
+    "Hui Liu",
+    "Yue Xing",
+    "Jiliang Tang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.1247",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1247/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "DisLoRA: Task-specific Low-Rank Adaptation via Orthogonal Basis from Singular Value Decomposition",
+  "authors": [
+    "She Yifei",
+    "Xinhao Wei",
+    "Yulong Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.emnlp-main.694",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.694/"
+}

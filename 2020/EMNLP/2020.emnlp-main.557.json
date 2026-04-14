@@ -12,7 +12,7 @@
   "research_areas": [
     "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
     "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
   ],
   "paper_id": "2020.emnlp-main.557",
   "acl_url": "https://aclanthology.org/2020.emnlp-main.557/"

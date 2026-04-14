@@ -1,0 +1,25 @@
+{
+  "title": "SafeSpeech: A Comprehensive and Interactive Tool for Analysing Sexist and Abusive Language in Conversations",
+  "authors": [
+    "Xingwei Tan",
+    "Chen Lyu",
+    "Hafiz M. Umer",
+    "Sahrish Khan",
+    "Mahathi Parvatham",
+    "Lois Arthurs",
+    "Simon Cullen",
+    "Shelley Wilson",
+    "Arshad Jhumka",
+    "Gabriele Pergola"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T18 Text Summarization",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.naacl-demo.31",
+  "acl_url": "https://aclanthology.org/2025.naacl-demo.31/"
+}

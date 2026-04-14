@@ -1,0 +1,32 @@
+{
+  "title": "Multilingual Language Model Pretraining using Machine-translated Data",
+  "authors": [
+    "Jiayi Wang",
+    "Yao Lu",
+    "Maurice Weber",
+    "Max Ryabinin",
+    "David Ifeoluwa Adelani",
+    "Yihong Chen",
+    "Raphael Tang",
+    "Pontus Stenetorp"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French",
+    "German",
+    "Indonesian",
+    "Italian",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Welsh"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1426",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1426/"
+}

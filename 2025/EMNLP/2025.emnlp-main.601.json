@@ -1,0 +1,21 @@
+{
+  "title": "MoR: Better Handling Diverse Queries with a Mixture of Sparse, Dense, and Human Retrievers",
+  "authors": [
+    "Jushaan Kalra",
+    "Xinran Zhao",
+    "To Eun Kim",
+    "Fengyu Cai",
+    "Fernando Diaz",
+    "Tongshuang Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.emnlp-main.601",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.601/"
+}

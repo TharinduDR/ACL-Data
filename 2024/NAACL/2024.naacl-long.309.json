@@ -1,0 +1,25 @@
+{
+  "title": "AudioChatLlama: Towards General-Purpose Speech Abilities for LLMs",
+  "authors": [
+    "Yassir Fathullah",
+    "Chunyang Wu",
+    "Egor Lakomkin",
+    "Ke Li",
+    "Junteng Jia",
+    "Yuan Shangguan",
+    "Jay Mahadeokar",
+    "Ozlem Kalinli",
+    "Christian Fuegen",
+    "Mike Seltzer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.naacl-long.309",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.309/"
+}

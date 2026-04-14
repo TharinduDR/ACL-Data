@@ -10,9 +10,9 @@
     "English"
   ],
   "research_areas": [
-    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
     "T18 Text Summarization",
-    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+    "T20 Opinion & Argument Mining",
+    "T11 Information Extraction"
   ],
   "paper_id": "2020.emnlp-main.454",
   "acl_url": "https://aclanthology.org/2020.emnlp-main.454/"

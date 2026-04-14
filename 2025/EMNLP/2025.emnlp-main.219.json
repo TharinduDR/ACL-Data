@@ -1,0 +1,27 @@
+{
+  "title": "In-Context Learning Boosts Speech Recognition via Human-like Adaptation to Speakers and Language Varieties",
+  "authors": [
+    "Nathan Roll",
+    "Calbert Graham",
+    "Yuka Tatsumi",
+    "Kim Tien Nguyen",
+    "Meghan Sumner",
+    "Dan Jurafsky"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Korean",
+    "Hindi",
+    "Vietnamese",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2025.emnlp-main.219",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.219/"
+}

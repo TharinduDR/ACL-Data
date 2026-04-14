@@ -1,0 +1,21 @@
+{
+  "title": "Metric Calculating Benchmark: Code-Verifiable Complicate Instruction Following Benchmark for Large Language Models",
+  "authors": [
+    "Hyeonseok Moon",
+    "Seongtae Hong",
+    "Jaehyung Seo",
+    "Heuiseok Lim"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Dzongkha",
+    "Emoji"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-main.1051",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1051/"
+}

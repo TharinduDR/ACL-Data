@@ -1,0 +1,36 @@
+{
+  "title": "X-METRA-ADA: Cross-lingual Meta-Transfer Learning Adaptation to Natural Language Understanding and Question Answering",
+  "authors": [
+    "Meryem M'hamdi",
+    "Doo Soon Kim",
+    "Franck Dernoncourt",
+    "Trung Bui",
+    "Xiang Ren",
+    "Jonathan May"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Thai",
+    "Arabic",
+    "Bengali",
+    "Finnish",
+    "Indonesian",
+    "Russian",
+    "Swahili",
+    "Telugu",
+    "German",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Japanese",
+    "Korean"
+  ],
+  "research_areas": [
+    "T10",
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2021.naacl-main.283",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.283/"
+}

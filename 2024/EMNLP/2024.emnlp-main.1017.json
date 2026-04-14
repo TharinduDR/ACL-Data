@@ -1,0 +1,23 @@
+{
+  "title": "Simultaneous Masking, Not Prompting Optimization: A Paradigm Shift in Fine-tuning LLMs for Simultaneous Translation",
+  "authors": [
+    "Matthew Raffel",
+    "Victor Agostinelli",
+    "Lizhong Chen"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Dutch",
+    "Italian",
+    "Romanian",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.1017",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1017/"
+}

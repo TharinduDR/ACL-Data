@@ -1,0 +1,21 @@
+{
+  "title": "MixLoRA-DSI: Dynamically Expandable Mixture-of-LoRA Experts for Rehearsal-Free Generative Retrieval over Dynamic Corpora",
+  "authors": [
+    "Tuan-Luc Huynh",
+    "Thuy-Trang Vu",
+    "Weiqing Wang",
+    "Trung Le",
+    "Dragan Gašević",
+    "Yuan-Fang Li",
+    "Thanh-Toan Do"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.emnlp-main.20",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.20/"
+}

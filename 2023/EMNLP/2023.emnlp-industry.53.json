@@ -1,0 +1,22 @@
+{
+  "title": "InsightNet: Structured Insight Mining from Customer Feedback",
+  "authors": [
+    "Sandeep Sricharan Mukku",
+    "Manan Soni",
+    "Jitenkumar Rana",
+    "Chetan Aggarwal",
+    "Promod Yenigalla",
+    "Rashmi Patange",
+    "Shyam Mohan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.emnlp-industry.53",
+  "acl_url": "https://aclanthology.org/2023.emnlp-industry.53/"
+}

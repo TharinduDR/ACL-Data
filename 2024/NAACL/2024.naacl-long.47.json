@@ -1,0 +1,21 @@
+{
+  "title": "Dial-MAE: ConTextual Masked Auto-Encoder for Retrieval-based Dialogue Systems",
+  "authors": [
+    "Zhenpeng Su",
+    "Xing Wu",
+    "Wei Zhou",
+    "Guangyuan Ma",
+    "Songlin Hu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.naacl-long.47",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.47/"
+}

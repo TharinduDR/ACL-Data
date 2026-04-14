@@ -1,0 +1,28 @@
+{
+  "title": "RepoAgent: An LLM-Powered Open-Source Framework for Repository-level Code Documentation Generation",
+  "authors": [
+    "Qinyu Luo",
+    "Yining Ye",
+    "Shihao Liang",
+    "Zhong Zhang",
+    "Yujia Qin",
+    "Yaxi Lu",
+    "Yesai Wu",
+    "Xin Cong",
+    "Yankai Lin",
+    "Yingli Zhang",
+    "Xiaoyin Che",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-demo.46",
+  "acl_url": "https://aclanthology.org/2024.emnlp-demo.46/"
+}

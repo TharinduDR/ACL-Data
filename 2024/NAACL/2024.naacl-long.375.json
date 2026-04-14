@@ -1,0 +1,21 @@
+{
+  "title": "Attacks, Defenses and Evaluations for LLM Conversation Safety: A Survey",
+  "authors": [
+    "Zhichen Dong",
+    "Zhanhui Zhou",
+    "Chao Yang",
+    "Jing Shao",
+    "Yu Qiao"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection"
+  ],
+  "paper_id": "2024.naacl-long.375",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.375/"
+}

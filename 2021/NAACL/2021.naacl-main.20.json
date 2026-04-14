@@ -1,0 +1,28 @@
+{
+  "title": "Multilingual BERT Post-Pretraining Alignment",
+  "authors": [
+    "Lin Pan",
+    "Chung-Wei Hang",
+    "Haode Qi",
+    "Abhishek Shah",
+    "Saloni Potdar",
+    "Mo Yu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Bulgarian",
+    "Arabic",
+    "Chinese",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.naacl-main.20",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.20/"
+}

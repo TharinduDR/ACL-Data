@@ -1,0 +1,25 @@
+{
+  "title": "ACCESS: A Benchmark for Abstract Causal Event Discovery and Reasoning",
+  "authors": [
+    "Vy Vo",
+    "Lizhen Qu",
+    "Tao Feng",
+    "Yuncheng Hua",
+    "Xiaoxi Kang",
+    "Songhai Fan",
+    "Tim Dwyer",
+    "Lay-Ki Soon",
+    "Gholamreza Haffari"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.naacl-long.49",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.49/"
+}

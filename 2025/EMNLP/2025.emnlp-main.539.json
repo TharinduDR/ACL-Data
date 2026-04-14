@@ -1,0 +1,25 @@
+{
+  "title": "Measuring the Effect of Disfluency in Multilingual Knowledge Probing Benchmarks",
+  "authors": [
+    "Kirill Semenov",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "Russian",
+    "Czech",
+    "Ukrainian",
+    "Croatian",
+    "Spanish",
+    "Chinese",
+    "Vietnamese",
+    "Indonesian",
+    "Danish"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.539",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.539/"
+}

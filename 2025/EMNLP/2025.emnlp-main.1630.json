@@ -1,0 +1,26 @@
+{
+  "title": "RAG+: Enhancing Retrieval-Augmented Generation with Application-Aware Reasoning",
+  "authors": [
+    "Yu Wang",
+    "Shiwan Zhao",
+    "Zhihu Wang",
+    "Ming Fan",
+    "Xicheng Zhang",
+    "Yubo Zhang",
+    "Zhengfan Wang",
+    "Heyuan Huang",
+    "Ting Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.emnlp-main.1630",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1630/"
+}

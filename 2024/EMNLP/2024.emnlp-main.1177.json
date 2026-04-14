@@ -1,0 +1,45 @@
+{
+  "title": "Exploring Intrinsic Language-specific Subspaces in Fine-tuning Multilingual Neural Machine Translation",
+  "authors": [
+    "Zhe Cao",
+    "Zhi Qu",
+    "Hidetaka Kamigaito",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Chinese",
+    "Dutch",
+    "Japanese",
+    "Korean",
+    "Occitan",
+    "Oriya",
+    "Sindhi",
+    "Wolof",
+    "Arabic",
+    "Hindi",
+    "Maltese",
+    "Norwegian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Afrikaans",
+    "Amharic",
+    "Armenian",
+    "Hausa",
+    "Shona",
+    "Yoruba",
+    "Zulu",
+    "Fula",
+    "Kamba"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.1177",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1177/"
+}

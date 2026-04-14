@@ -1,0 +1,23 @@
+{
+  "title": "Ab Antiquo: Neural Proto-language Reconstruction",
+  "authors": [
+    "Carlo Meloni",
+    "Shauli Ravfogel",
+    "Yoav Goldberg"
+  ],
+  "languages": [
+    "Latin",
+    "French",
+    "Italian",
+    "Spanish",
+    "Portuguese",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2021.naacl-main.353",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.353/"
+}

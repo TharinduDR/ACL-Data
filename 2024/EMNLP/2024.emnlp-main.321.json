@@ -1,0 +1,21 @@
+{
+  "title": "REAR: A Relevance-Aware Retrieval-Augmented Framework for Open-Domain Question Answering",
+  "authors": [
+    "Yuhao Wang",
+    "Ruiyang Ren",
+    "Junyi Li",
+    "Wayne Xin Zhao",
+    "Jing Liu",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.emnlp-main.321",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.321/"
+}

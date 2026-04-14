@@ -1,0 +1,27 @@
+{
+  "title": "GenSim: A General Social Simulation Platform with Large Language Model based Agents",
+  "authors": [
+    "Jiakai Tang",
+    "Heyang Gao",
+    "Xuchen Pan",
+    "Lei Wang",
+    "Haoran Tan",
+    "Dawei Gao",
+    "Yushuo Chen",
+    "Xu Chen",
+    "Yankai Lin",
+    "Yaliang Li",
+    "Bolin Ding",
+    "Jingren Zhou",
+    "Jun Wang",
+    "Ji-Rong Wen"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-demo.15",
+  "acl_url": "https://aclanthology.org/2025.naacl-demo.15/"
+}

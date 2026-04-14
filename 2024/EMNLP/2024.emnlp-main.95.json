@@ -1,0 +1,23 @@
+{
+  "title": "Cross-domain NER with Generated Task-Oriented Knowledge: An Empirical Study from Information Density Perspective",
+  "authors": [
+    "Zhihao Zhang",
+    "Sophia Yat Mei Lee",
+    "Junshuang Wu",
+    "Dong Zhang",
+    "Shoushan Li",
+    "Erik Cambria",
+    "Guodong Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-main.95",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.95/"
+}

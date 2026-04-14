@@ -1,0 +1,23 @@
+{
+  "title": "Re-Reading Improves Reasoning in Large Language Models",
+  "authors": [
+    "Xiaohan Xu",
+    "Chongyang Tao",
+    "Tao Shen",
+    "Can Xu",
+    "Hongbo Xu",
+    "Guodong Long",
+    "Jian-guang Lou",
+    "Shuai Ma"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.871",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.871/"
+}

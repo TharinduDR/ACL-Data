@@ -1,0 +1,48 @@
+{
+  "title": "GlotEval: A Test Suite for Massively Multilingual Evaluation of Large Language Models",
+  "authors": [
+    "Hengyu Luo",
+    "Zihao Li",
+    "Joseph Attieh",
+    "Sawal Devkota",
+    "Ona de Gibert",
+    "Xu Huang",
+    "Shaoxiong Ji",
+    "Peiqin Lin",
+    "Bhavani Sai Praneeth Varma Mantina",
+    "Ananda Sreenidhi",
+    "Raúl Vázquez",
+    "Mengjie Wang",
+    "Samea Yusofi",
+    "Fei Yuan",
+    "Jörg Tiedemann"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Swahili",
+    "Vietnamese",
+    "Indonesian",
+    "Kyrgyz",
+    "Russian",
+    "Serbian",
+    "Ukrainian",
+    "Arabic",
+    "Bengali",
+    "Hindi",
+    "Nepali",
+    "Sinhala",
+    "Telugu",
+    "Amharic",
+    "Japanese",
+    "Korean",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-demos.43",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.43/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models",
+  "authors": [
+    "Ziwen Xu",
+    "Shuxun Wang",
+    "Kewei Xu",
+    "Haoming Xu",
+    "Mengru Wang",
+    "Xinle Deng",
+    "Yunzhi Yao",
+    "Guozhou Zheng",
+    "Huajun Chen",
+    "Ningyu Zhang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.emnlp-demos.38",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.38/"
+}

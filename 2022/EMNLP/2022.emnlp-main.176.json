@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T15 Lexicon and Semantics",
-    "T23 Social Media Processing"
+    "T14 Language Modeling",
+    "T13 Knowledge discovery/representation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],
   "paper_id": "2022.emnlp-main.176",
   "acl_url": "https://aclanthology.org/2022.emnlp-main.176/"

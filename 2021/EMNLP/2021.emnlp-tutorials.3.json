@@ -1,0 +1,19 @@
+{
+  "title": "Knowledge-Enriched Natural Language Generation",
+  "authors": [
+    "Wen Hao Yu",
+    "Meng Jiang",
+    "Zhiting Hu",
+    "Qingyun Wang",
+    "Heng Ji",
+    "Nazneen Rajani"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.emnlp-tutorials.3",
+  "acl_url": "https://aclanthology.org/2021.emnlp-tutorials.3/"
+}

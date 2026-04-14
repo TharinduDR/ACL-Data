@@ -14,9 +14,9 @@
     "French"
   ],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
-    "T12 Interpretability/explainability of language models and language and speech processing tools"
+    "T14",
+    "T16",
+    "T12"
   ],
   "paper_id": "2022.emnlp-main.278",
   "acl_url": "https://aclanthology.org/2022.emnlp-main.278/"

@@ -1,0 +1,21 @@
+{
+  "title": "Measuring Fairness with Biased Rulers: A Comparative Study on Bias Metrics for Pre-trained Language Models",
+  "authors": [
+    "Pieter Delobelle",
+    "Ewoenam Kwaku Tokpo",
+    "Toon Calders",
+    "Bettina Berendt"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.naacl-main.122",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.122/"
+}

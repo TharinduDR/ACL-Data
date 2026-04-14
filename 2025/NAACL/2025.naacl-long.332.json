@@ -1,0 +1,20 @@
+{
+  "title": "TRANSIENTTABLES: Evaluating LLMs' Reasoning on Temporally Evolving Semi-structured Tables",
+  "authors": [
+    "Abhilash Shankarampeta",
+    "Harsh Mahajan",
+    "Tushar Kataria",
+    "Dan Roth",
+    "Vivek Gupta"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.naacl-long.332",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.332/"
+}

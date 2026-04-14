@@ -1,0 +1,18 @@
+{
+  "title": "Generative Biomedical Entity Linking via Knowledge Base-Guided Pre-training and Synonyms-Aware Fine-tuning",
+  "authors": [
+    "Hongyi Yuan",
+    "Zheng Yuan",
+    "Sheng Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.naacl-main.296",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.296/"
+}

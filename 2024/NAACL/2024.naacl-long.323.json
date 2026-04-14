@@ -1,0 +1,26 @@
+{
+  "title": "RESPrOMPT: Residual Connection Prompting Advances Multi-Step Reasoning in Large Language Models",
+  "authors": [
+    "Song Jiang",
+    "Zahra Shakeri",
+    "Aaron Chan",
+    "Maziar Sanjabi",
+    "Hamed Firooz",
+    "Yinglong Xia",
+    "Bugra Akyildiz",
+    "Yizhou Sun",
+    "Jinchao Li",
+    "Qifan Wang",
+    "Asli Celikyilmaz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.naacl-long.323",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.323/"
+}

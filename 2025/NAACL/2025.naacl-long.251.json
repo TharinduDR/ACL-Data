@@ -1,0 +1,23 @@
+{
+  "title": "Explanation based In-Context Demonstrations Retrieval for Multilingual Grammatical Error Correction",
+  "authors": [
+    "Wei Li",
+    "Wen Luo",
+    "Guangyue Peng",
+    "Houfeng Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Russian",
+    "Estonian"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.naacl-long.251",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.251/"
+}

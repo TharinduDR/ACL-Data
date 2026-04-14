@@ -1,0 +1,29 @@
+{
+  "title": "MAIN: Mutual Alignment Is Necessary for instruction tuning",
+  "authors": [
+    "Fanyi Yang",
+    "Jianfeng Liu",
+    "Xin Zhang",
+    "Haoyu Liu",
+    "Xixin Cao",
+    "Yuefeng Zhan",
+    "Hao Sun",
+    "Weiwei Deng",
+    "Feng Sun",
+    "Qi Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Japanese",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T19 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.644",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.644/"
+}

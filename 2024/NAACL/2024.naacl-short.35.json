@@ -1,0 +1,18 @@
+{
+  "title": "EchoPrompt: Instructing the Model to Rephrase Queries for Improved In-context Learning",
+  "authors": [
+    "Rajasekhar Reddy Mekala",
+    "Yasaman Razeghi",
+    "Sameer Singh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.naacl-short.35",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.35/"
+}

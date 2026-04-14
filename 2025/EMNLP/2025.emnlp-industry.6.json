@@ -1,0 +1,26 @@
+{
+  "title": "PolyNorm: Few-Shot LLM-Based Text Normalization for Text-to-Speech",
+  "authors": [
+    "Michel Wong",
+    "Ali Alshehri",
+    "Sophia Kao",
+    "Haotian He"
+  ],
+  "languages": [
+    "German",
+    "American English",
+    "Mexican Spanish",
+    "French",
+    "Italian",
+    "Lithuanian",
+    "Mandarin Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-industry.6",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.6/"
+}

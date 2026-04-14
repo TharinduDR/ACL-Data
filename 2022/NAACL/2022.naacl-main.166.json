@@ -1,0 +1,26 @@
+{
+  "title": "MINION: a Large-Scale and Diverse Dataset for Multilingual Event Detection",
+  "authors": [
+    "Amir Pouran Ben Veyseh",
+    "Minh Van Nguyen",
+    "Franck Dernoncourt",
+    "Thien Huu Nguyen"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Portuguese",
+    "Polish",
+    "Turkish",
+    "Hindi",
+    "Japanese",
+    "Korean"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.naacl-main.166",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.166/"
+}

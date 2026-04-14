@@ -1,0 +1,25 @@
+{
+  "title": "Cross-modal Contrastive Learning for Speech Translation",
+  "authors": [
+    "Rong Ye",
+    "Mingxuan Wang",
+    "Lei Li"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.naacl-main.376",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.376/"
+}

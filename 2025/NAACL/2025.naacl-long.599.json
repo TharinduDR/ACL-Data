@@ -1,0 +1,32 @@
+{
+  "title": "Prompting with Phonemes: Enhancing LLMs' Multilinguality for non-Latin Script Languages",
+  "authors": [
+    "Hoang Nguyen",
+    "Khyati Mahajan",
+    "Vikas Yadav",
+    "Julian Salazar",
+    "Philip S. Yu",
+    "Masoud Hashemi",
+    "Rishabh Maheshwary"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Arabic",
+    "Chinese",
+    "Japanese",
+    "German",
+    "French",
+    "Dutch",
+    "Italian",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.naacl-long.599",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.599/"
+}

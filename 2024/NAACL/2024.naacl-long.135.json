@@ -1,0 +1,22 @@
+{
+  "title": "How Well Do Large Language Models Truly Ground?",
+  "authors": [
+    "Hyunji Lee",
+    "Se June Joo",
+    "Chaeun Kim",
+    "Joel Jang",
+    "Doyoung Kim",
+    "Kyoung-Woon On",
+    "Minjoon Seo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.naacl-long.135",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.135/"
+}

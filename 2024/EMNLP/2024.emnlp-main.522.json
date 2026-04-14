@@ -1,0 +1,27 @@
+{
+  "title": "RuBLiMP: Russian Benchmark of Linguistic Minimal Pairs",
+  "authors": [
+    "Ekaterina Taktasheva",
+    "Maxim Bazhukov",
+    "Kirill Koncha",
+    "Alena Fenogenova",
+    "Ekaterina Artemova",
+    "Vladislav Mikhailov"
+  ],
+  "languages": [
+    "Russian",
+    "English",
+    "Chinese",
+    "Japanese",
+    "French",
+    "German",
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.522",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.522/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "DecEx-RAG: Boosting Agentic Retrieval-Augmented Generation with Decision and Execution Optimization via Process Supervision",
+  "authors": [
+    "Yongqi Leng",
+    "Yikun Lei",
+    "Xikai Liu",
+    "Meizhi Zhong",
+    "Bojian Xiong",
+    "Yurong Zhang",
+    "Yan Gao",
+    "Yi Wu",
+    "Yao Hu",
+    "Deyi Xiong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-industry.99",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.99/"
+}

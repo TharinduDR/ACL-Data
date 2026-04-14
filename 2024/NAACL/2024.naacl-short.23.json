@@ -1,0 +1,25 @@
+{
+  "title": "Advancing the Robustness of Large Language Models through Self-Denoised Smoothing",
+  "authors": [
+    "Jiabao Ji",
+    "Bairu Hou",
+    "Zhen Zhang",
+    "Guanhua Zhang",
+    "Wenqi Fan",
+    "Qing Li",
+    "Yang Zhang",
+    "Gaowen Liu",
+    "Sijia Liu",
+    "Shiyu Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2024.naacl-short.23",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.23/"
+}

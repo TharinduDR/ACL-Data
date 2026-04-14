@@ -1,0 +1,19 @@
+{
+  "title": "Balancing Forget Quality and Model Utility: A Reverse KL-Divergence Knowledge Distillation Approach for Better Unlearning in LLMs",
+  "authors": [
+    "Bichen Wang",
+    "Yuzhe Zi",
+    "Yixin Sun",
+    "Yanyan Zhao",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.60",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.60/"
+}

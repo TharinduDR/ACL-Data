@@ -1,0 +1,26 @@
+{
+  "title": "SANDWiCH: Semantical Analysis of Neighbours for Disambiguating Words in Context ad Hoc",
+  "authors": [
+    "Daniel Guzman-Olivares",
+    "Lara Quijano-Sanchez",
+    "Federico Liberator"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "Estonian",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Spanish",
+    "Croatian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.358",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.358/"
+}

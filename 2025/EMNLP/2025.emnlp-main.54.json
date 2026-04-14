@@ -1,0 +1,23 @@
+{
+  "title": "ProtoVQA: An Adaptable Prototypical Framework for Explainable Fine-Grained Visual Question Answering",
+  "authors": [
+    "Xingjian Diao",
+    "Weiyi Wu",
+    "Keyi Kong",
+    "Peijun Qing",
+    "Xinwen Xu",
+    "Ming Cheng",
+    "Sorouch Vosoughi",
+    "Jiang Gui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.54",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.54/"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "EASE: Entity-Aware Contrastive Learning of Sentence Embedding",
+  "authors": [
+    "Sosuke Nishikawa",
+    "Ryokan Ri",
+    "Ikuya Yamada",
+    "Yoshimasa Tsuruoka",
+    "Isao Echizen"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Spanish",
+    "German",
+    "French",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Swedish",
+    "Turkish",
+    "Chinese",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2022.naacl-main.284",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.284/"
+}

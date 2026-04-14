@@ -1,0 +1,20 @@
+{
+  "title": "FACTGRAPH: Evaluating Factuality in Summarization with Semantic Graph Representations",
+  "authors": [
+    "Leonardo F. R. Ribeiro",
+    "Mengwen Liu",
+    "Iryna Gurevych",
+    "Markus Dreyer",
+    "Mohit Bansal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-main.236",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.236/"
+}

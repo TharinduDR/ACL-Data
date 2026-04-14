@@ -1,0 +1,23 @@
+{
+  "title": "Overcoming Catastrophic Forgetting During Domain Adaptation of Seq2seq Language Generation",
+  "authors": [
+    "Dingcheng Li",
+    "Zheng Chen",
+    "Eunah Cho",
+    "Jie Hao",
+    "Xiaohu Liu",
+    "Xing Fan",
+    "Chenlei Guo",
+    "Yang Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2022.naacl-main.398",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.398/"
+}

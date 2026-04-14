@@ -1,0 +1,24 @@
+{
+  "title": "Mitigating Biases of Large Language Models in Stance Detection with Counterfactual Augmented Calibration",
+  "authors": [
+    "Ang Li",
+    "Jingqian Zhao",
+    "Bin Liang",
+    "Lin Gui",
+    "Hui Wang",
+    "Xi Zeng",
+    "Xingwei Liang",
+    "Kam-Fai Wong",
+    "Ruifeng Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.naacl-long.362",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.362/"
+}

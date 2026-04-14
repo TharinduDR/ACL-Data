@@ -1,0 +1,22 @@
+{
+  "title": "zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models",
+  "authors": [
+    "Zifeng Ding",
+    "Heling Cai",
+    "Jingpei Wu",
+    "Yunpu Ma",
+    "Ruotong Liao",
+    "Bo Xiong",
+    "Volker Tresp"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.naacl-long.104",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.104/"
+}

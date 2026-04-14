@@ -1,0 +1,20 @@
+{
+  "title": "PyMarian: Fast Neural Machine Translation and Evaluation in Python",
+  "authors": [
+    "Thamme Gowda",
+    "Roman Grundkiewicz",
+    "Elijah Rippeth",
+    "Matt Post",
+    "Marcin Junczys-Dowmunt"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-demo.34",
+  "acl_url": "https://aclanthology.org/2024.emnlp-demo.34/"
+}

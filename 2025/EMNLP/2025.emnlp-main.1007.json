@@ -1,0 +1,21 @@
+{
+  "title": "Topic Coverage-based Demonstration Retrieval for In-Context Learning",
+  "authors": [
+    "Wonbin Kweon",
+    "SeongKu Kang",
+    "Runchu Tian",
+    "Pengcheng Jiang",
+    "Jiawei Han",
+    "Hwanjo Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.emnlp-main.1007",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1007/"
+}

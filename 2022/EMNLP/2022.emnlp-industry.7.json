@@ -1,0 +1,22 @@
+{
+  "title": "PENTATRON: PErsonalized coNText-Aware Transformer for Retrieval-based cOnversational uNderstanding",
+  "authors": [
+    "Niranjan Uma Naresh",
+    "Ziyan Jiang",
+    "Ankit",
+    "Sungjin Lee",
+    "Jie Hao",
+    "Xing Fan",
+    "Chenlei Guo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.emnlp-industry.7",
+  "acl_url": "https://aclanthology.org/2022.emnlp-industry.7/"
+}

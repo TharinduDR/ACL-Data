@@ -1,0 +1,19 @@
+{
+  "title": "BUSTER: a \"BUSiness Transaction Entity Recognition\" dataset",
+  "authors": [
+    "Andrea Zugarni",
+    "Andrew Zamai",
+    "Marco Ernandes",
+    "Leonardo Rigutini"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.emnlp-industry.57",
+  "acl_url": "https://aclanthology.org/2023.emnlp-industry.57/"
+}

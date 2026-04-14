@@ -1,0 +1,34 @@
+{
+  "title": "Linguistic Neuron Overlap Patterns to Facilitate Cross-lingual Transfer on Low-resource Languages",
+  "authors": [
+    "Yuemei Xu",
+    "Kexin Xu",
+    "Jian Zhou",
+    "Ling Hu",
+    "Lin Gui"
+  ],
+  "languages": [
+    "Chinese",
+    "Arabic",
+    "Hebrew",
+    "Swahili",
+    "Indonesian",
+    "Tagalog",
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Spanish",
+    "Finnish",
+    "Hungarian",
+    "Persian"
+  ],
+  "research_areas": [
+    "T12",
+    "T16",
+    "T14"
+  ],
+  "paper_id": "2025.emnlp-main.1407",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1407/"
+}

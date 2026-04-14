@@ -1,0 +1,20 @@
+{
+  "title": "ClaimLens: Automated, Explainable Fact-Checking on Voting Claims Using Frame-Semantics",
+  "authors": [
+    "Jacob Devasier",
+    "Rishabh Mediratta",
+    "Phuong Anh Le",
+    "David Huang",
+    "Chengkai Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.emnlp-demo.32",
+  "acl_url": "https://aclanthology.org/2024.emnlp-demo.32/"
+}

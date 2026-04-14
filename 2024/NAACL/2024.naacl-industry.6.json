@@ -1,0 +1,20 @@
+{
+  "title": "Modeling and Detecting Company Risks from News",
+  "authors": [
+    "Jiaxin Pei",
+    "Soumya Vadlamannati",
+    "Liang-Kang Huang",
+    "Daniel Preotiuc-Pietro",
+    "Xinyu Hua"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.naacl-industry.6",
+  "acl_url": "https://aclanthology.org/2024.naacl-industry.6/"
+}

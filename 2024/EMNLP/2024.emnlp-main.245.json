@@ -1,0 +1,23 @@
+{
+  "title": "SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning",
+  "authors": [
+    "Jinghan Jia",
+    "Yihua Zhang",
+    "Yimeng Zhang",
+    "Jiancheng Liu",
+    "Bharat Runwal",
+    "James Diffenderfer",
+    "Bhavya Kailkhura",
+    "Sijia Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.245",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.245/"
+}

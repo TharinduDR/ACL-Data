@@ -1,0 +1,21 @@
+{
+  "title": "GRASP: Replace Redundant Layers with Adaptive Singular Parameters for Efficient Model Compression",
+  "authors": [
+    "Kainan Liu",
+    "Yong Zhang",
+    "Ning Cheng",
+    "Zhitao Li",
+    "Shaojun Wang",
+    "Jing Xiao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.1338",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1338/"
+}

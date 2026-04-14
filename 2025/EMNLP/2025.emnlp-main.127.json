@@ -1,0 +1,22 @@
+{
+  "title": "FILBENCH: Can LLMs Understand and Generate Filipino?",
+  "authors": [
+    "Lester James V. Miranda",
+    "Elyanah Aco",
+    "Conner Manuel",
+    "Jan Christian Blaise Cruz",
+    "Joseph Marvin Imperial"
+  ],
+  "languages": [
+    "Filipino",
+    "Tagalog",
+    "Cebuano"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.emnlp-main.127",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.127/"
+}

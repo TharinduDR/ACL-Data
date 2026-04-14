@@ -1,0 +1,27 @@
+{
+  "title": "LLaMA-Berry: Pairwise Optimization for Olympiad-level Mathematical Reasoning via O1-like Monte Carlo Tree Search",
+  "authors": [
+    "Di Zhang",
+    "Jianbo Wu",
+    "Jingdi Lei",
+    "Tong Che",
+    "Jiatong Li",
+    "Tong Xie",
+    "Xiaoshui Huang",
+    "Shufei Zhang",
+    "Marco Pavone",
+    "Yuqiang Li",
+    "Wanli Ouyang",
+    "Dongzhan Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2025.naacl-long.375",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.375/"
+}

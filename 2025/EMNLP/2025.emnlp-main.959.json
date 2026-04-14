@@ -1,0 +1,21 @@
+{
+  "title": "ReSURE: Regularizing Supervision Unreliability for Multi-turn Dialogue Fine-tuning",
+  "authors": [
+    "Yiming Du",
+    "Yifan Xiang",
+    "Bin Liang",
+    "Dahua Lin",
+    "Kam-Fai Wong",
+    "Fei Tan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.959",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.959/"
+}

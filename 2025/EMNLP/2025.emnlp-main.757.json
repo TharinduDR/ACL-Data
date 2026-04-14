@@ -1,0 +1,27 @@
+{
+  "title": "CoEvo: Coevolution of LLM and Retrieval Model for Domain-Specific Information Retrieval",
+  "authors": [
+    "Ang Li",
+    "Yiquan Wu",
+    "Yinghao Hu",
+    "Lizhi Qing",
+    "Shihang Wang",
+    "Chengyuan Liu",
+    "Tao Wu",
+    "Adam Jatowt",
+    "Ming Cai",
+    "Fei Wu",
+    "Kun Kuang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.emnlp-main.757",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.757/"
+}

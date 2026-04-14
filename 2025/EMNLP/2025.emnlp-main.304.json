@@ -1,0 +1,23 @@
+{
+  "title": "VideoEraser: Concept Erasure in Text-to-Video Diffusion Models",
+  "authors": [
+    "Naen Xu",
+    "Jinghuai Zhang",
+    "Changjiang Li",
+    "Zhi Chen",
+    "Chunyi Zhou",
+    "Qingming Li",
+    "Tianyu Du",
+    "Shouling Ji"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.304",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.304/"
+}

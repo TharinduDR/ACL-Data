@@ -1,0 +1,26 @@
+{
+  "title": "Test-Time Code-Switching for Cross-lingual Aspect Sentiment Triplet Extraction",
+  "authors": [
+    "Dongming Sheng",
+    "Kexin Han",
+    "Hao Li",
+    "Yan Zhang",
+    "Yucheng Huang",
+    "Jun Lang",
+    "Wenqiang Liu"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Basque",
+    "Catalan",
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.naacl-long.260",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.260/"
+}

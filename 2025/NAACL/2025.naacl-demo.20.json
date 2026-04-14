@@ -1,0 +1,23 @@
+{
+  "title": "Persona-SQ: A Personalized Suggested Question Generation Framework For Real-world Documents",
+  "authors": [
+    "Zihao Lin",
+    "Zichao Wang",
+    "Yuanting Pan",
+    "Varun Manjunatha",
+    "Ryan Rossi",
+    "Angela Lau",
+    "Lifu Huang",
+    "Tong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.naacl-demo.20",
+  "acl_url": "https://aclanthology.org/2025.naacl-demo.20/"
+}

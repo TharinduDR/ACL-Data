@@ -1,0 +1,22 @@
+{
+  "title": "How low is too low? A monolingual take on lemmatisation in Indian languages",
+  "authors": [
+    "Kumar Saunack",
+    "Kumar Saurav",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "Bengali",
+    "Hindi",
+    "Kannada",
+    "Sanskrit",
+    "Telugu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.naacl-main.322",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.322/"
+}

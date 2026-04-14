@@ -1,0 +1,26 @@
+{
+  "title": "PROMPTREFINE: Enhancing Few-Shot Performance on Low-Resource Indic Languages with Example Selection from Related Example Banks",
+  "authors": [
+    "Soumya Suvra Ghosal",
+    "Soumyabrata Pal",
+    "Koyel Mukherjee",
+    "Dinesh Manocha"
+  ],
+  "languages": [
+    "Bodo",
+    "Manipuri",
+    "Maithili",
+    "Santali",
+    "Rajasthani",
+    "Marwari",
+    "Awadhi",
+    "Odia"
+  ],
+  "research_areas": [
+    "T10 Question Answering",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.naacl-long.17",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.17/"
+}

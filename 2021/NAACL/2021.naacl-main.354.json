@@ -1,0 +1,21 @@
+{
+  "title": "On Biasing Transformer Attention Towards Monotonicity",
+  "authors": [
+    "Annette Rios",
+    "Chantal Amrhein",
+    "Noëmi Aeppli",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Swiss German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.naacl-main.354",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.354/"
+}

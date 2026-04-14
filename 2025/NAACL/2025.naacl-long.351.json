@@ -1,0 +1,17 @@
+{
+  "title": "K-COMP: Retrieval-Augmented Medical Domain Question Answering With Knowledge-Injected Compressor",
+  "authors": [
+    "Jeonghun Cho",
+    "Gary Geunbae Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.naacl-long.351",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.351/"
+}

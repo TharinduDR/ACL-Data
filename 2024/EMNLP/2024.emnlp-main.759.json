@@ -1,0 +1,34 @@
+{
+  "title": "Large Language Models Are Poor Clinical Decision-Makers: A Comprehensive Benchmark",
+  "authors": [
+    "Fenglin Liu",
+    "Zheng Li",
+    "Hongjian Zhou",
+    "Qingyu Yin",
+    "Jingfeng Yang",
+    "Xianfeng Tang",
+    "Chen Luo",
+    "Ming Zeng",
+    "Haoming Jiang",
+    "Yifan Gao",
+    "Priyanka Nigam",
+    "Sreyashi Nag",
+    "Bing Yin",
+    "Yining Hua",
+    "Xuan Zhou",
+    "Omid Rohanian",
+    "Anshul Thakur",
+    "Lei Clifton",
+    "David A. Clifton"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.759",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.759/"
+}

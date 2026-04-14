@@ -1,0 +1,35 @@
+{
+  "title": "Towards Robust Mathematical Reasoning",
+  "authors": [
+    "Thang Luong",
+    "Dawsen Hwang",
+    "Hoang H. Nguyen",
+    "Golnaz Ghiasi",
+    "Yuri Chervonyi",
+    "Insuk Seo",
+    "Junsu Kim",
+    "Garrett Bingham",
+    "Jonathan Lee",
+    "Swaroop Mishra",
+    "Alex Zhai",
+    "Clara Huiyi Hu",
+    "Henryk Michalewski",
+    "Jimin Kim",
+    "Jeonghyun Ahn",
+    "Junhwi Bae",
+    "Xingyou Song",
+    "Trieu H. Trinh",
+    "Quoc V. Le",
+    "Junehyuk Jung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.emnlp-main.1794",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1794/"
+}

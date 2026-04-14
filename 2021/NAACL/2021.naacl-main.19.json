@@ -1,0 +1,39 @@
+{
+  "title": "Cultural and Geographical Influences on Image Translatability of Words across Languages",
+  "authors": [
+    "Nikzad Khani",
+    "Isidora Chara Tourni",
+    "Mohammad Sadegh Rasooli",
+    "Chris Callison-Burch",
+    "Derry Tanti Wijaya"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Arabic",
+    "Azerbaijani",
+    "Chinese",
+    "Dutch",
+    "Finnish",
+    "French",
+    "Hebrew",
+    "Hindi",
+    "Hungarian",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Turkish",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.naacl-main.19",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.19/"
+}

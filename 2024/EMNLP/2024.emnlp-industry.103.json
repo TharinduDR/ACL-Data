@@ -1,0 +1,30 @@
+{
+  "title": "mGTE: Generalized Long-Context Text Representation and Reranking Models for Multilingual Text Retrieval",
+  "authors": [
+    "Xin Zhang",
+    "Yanzhao Zhang",
+    "Dingkun Long",
+    "Wen Xie",
+    "Ziqi Dai",
+    "Jialong Tang",
+    "Huan Lin",
+    "Baosong Yang",
+    "Pengjun Xie",
+    "Fei Huang",
+    "Meishan Zhang",
+    "Wenjie Li",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Polish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.emnlp-industry.103",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.103/"
+}

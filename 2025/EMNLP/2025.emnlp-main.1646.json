@@ -1,0 +1,24 @@
+{
+  "title": "MEDFACT: A Large-scale Chinese Dataset for Evidence-based Medical Fact-checking of LLM Responses",
+  "authors": [
+    "Tong Chen",
+    "Zimu Wang",
+    "Yiyi Miao",
+    "Haoran Luo",
+    "Yuanfei Sun",
+    "Wei Wang",
+    "Zhengyong Jiang",
+    "Procheta Sen",
+    "Jionglong Su"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1646",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1646/"
+}

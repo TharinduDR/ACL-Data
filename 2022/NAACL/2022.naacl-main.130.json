@@ -1,0 +1,38 @@
+{
+  "title": "BAD-X: Bilingual Adapters Improve Zero-Shot Cross-Lingual Transfer",
+  "authors": [
+    "Marinela Parović",
+    "Goran Glavaš",
+    "Ivan Vulić",
+    "Anna Korhonen"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Bambara",
+    "Basque",
+    "Erzya",
+    "Komi-Zyrian",
+    "Maltese",
+    "Marathi",
+    "Telugu",
+    "Uyghur",
+    "Wolof",
+    "Asháninka",
+    "Aymara",
+    "Bribri",
+    "Guaraní",
+    "Náhuatl",
+    "Otomi",
+    "Quechua",
+    "Rarámuri",
+    "Shipibo-Konibo",
+    "Wixarika"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.naacl-main.130",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.130/"
+}

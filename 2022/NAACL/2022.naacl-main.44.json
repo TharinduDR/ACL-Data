@@ -1,0 +1,35 @@
+{
+  "title": "Building Multilingual Machine Translation Systems That Serve Arbitrary X-Y Translations",
+  "authors": [
+    "Akiko Eriguchi",
+    "Shufang Xie",
+    "Tao Qin",
+    "Hany Hassan Awadalla"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Dutch",
+    "Romanian",
+    "Croatian",
+    "Hungarian",
+    "Estonian",
+    "Serbian",
+    "Macedonian",
+    "Japanese",
+    "Indonesian",
+    "Malay",
+    "Tagalog",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.naacl-main.44",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.44/"
+}

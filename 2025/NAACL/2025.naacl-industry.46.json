@@ -1,0 +1,31 @@
+{
+  "title": "SweEval: Do LLMs Really Swear? A Safety Benchmark for Testing Limits for Enterprise Use",
+  "authors": [
+    "Hitesh Laxmichand Patel",
+    "Amit Agarwal",
+    "Arion Das",
+    "Bhargava Kumar",
+    "Srikant Panda",
+    "Priyaranjan Pattanayak",
+    "Taki Hasan Rafi",
+    "Tejaswini Kumar",
+    "Dong-Kyu Chae"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Hindi",
+    "Marathi",
+    "Bengali",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-industry.46",
+  "acl_url": "https://aclanthology.org/2025.naacl-industry.46/"
+}

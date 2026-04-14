@@ -30,11 +30,11 @@
     "Xhosa"
   ],
   "research_areas": [
-    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
-    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
-    "T18 Text Summarization",
-    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+    "T10",
+    "T11",
+    "T18",
+    "T20",
+    "T14"
   ],
   "paper_id": "2022.emnlp-main.674",
   "acl_url": "https://aclanthology.org/2022.emnlp-main.674/"

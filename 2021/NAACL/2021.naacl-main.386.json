@@ -1,0 +1,21 @@
+{
+  "title": "TuringAdvice: A Generative and Dynamic Evaluation of Language Use",
+  "authors": [
+    "Rowan Zellers",
+    "Ari Holtzman",
+    "Elizabeth Clark",
+    "Lianhui Qin",
+    "Ali Farhadi",
+    "Yejin Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2021.naacl-main.386",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.386/"
+}

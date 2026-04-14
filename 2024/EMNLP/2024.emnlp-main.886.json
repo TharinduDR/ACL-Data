@@ -1,0 +1,24 @@
+{
+  "title": "Hate Personified: Investigating the role of LLMs in content moderation",
+  "authors": [
+    "Sarah Masud",
+    "Sahajpreet Singh",
+    "Viktor Hangya",
+    "Alexander Fraser",
+    "Tanmoy Chakraborty"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "French",
+    "German",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.886",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.886/"
+}

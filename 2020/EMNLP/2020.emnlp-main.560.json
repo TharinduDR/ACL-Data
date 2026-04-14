@@ -8,9 +8,9 @@
     "English"
   ],
   "research_areas": [
-    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T27 Code generation and programming languages"
+    "T10",
+    "T14",
+    "T27"
   ],
   "paper_id": "2020.emnlp-main.560",
   "acl_url": "https://aclanthology.org/2020.emnlp-main.560/"

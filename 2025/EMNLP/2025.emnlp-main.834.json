@@ -1,0 +1,19 @@
+{
+  "title": "TurBLiMP: A Turkish Benchmark of Linguistic Minimal Pairs",
+  "authors": [
+    "Ezgi Başar",
+    "Francesca Padovani",
+    "Jaap Jumelet",
+    "Arianna Bisazza"
+  ],
+  "languages": [
+    "Turkish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.834",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.834/"
+}

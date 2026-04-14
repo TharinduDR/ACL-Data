@@ -1,0 +1,23 @@
+{
+  "title": "MAVL: A Multilingual Audio-Video Lyrics Dataset for Animated Song Translation",
+  "authors": [
+    "Woohyun Cho",
+    "Youngmin Kim",
+    "Sunghyun Lee",
+    "Youngjae Yu"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Japanese",
+    "Korean"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.689",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.689/"
+}

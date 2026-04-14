@@ -1,0 +1,39 @@
+{
+  "title": "Towards Inducing Long-Context Abilities in Multilingual Neural Machine Translation Models",
+  "authors": [
+    "Varun Gumma",
+    "Pranjal A. Chitale",
+    "Kalika Bali"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Kannada",
+    "Malayalam",
+    "Tamil",
+    "Telugu",
+    "Urdu",
+    "Assamese",
+    "Bodo",
+    "Dogri",
+    "Konkani",
+    "Gujarati",
+    "Kashmiri",
+    "Maithili",
+    "Manipuri",
+    "Nepali",
+    "Odia",
+    "Punjabi",
+    "Sanskrit",
+    "Santali",
+    "Sindhi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.366",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.366/"
+}

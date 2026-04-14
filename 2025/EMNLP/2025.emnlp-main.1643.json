@@ -1,0 +1,20 @@
+{
+  "title": "Recursive Training Loops in LLMs: How training data properties modulate distribution shift in generated data?",
+  "authors": [
+    "Grgur Kovač",
+    "Jérémy Perez",
+    "Rémy Portelas",
+    "Peter Ford Dominey",
+    "Pierre-Yves Oudeyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.emnlp-main.1643",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1643/"
+}

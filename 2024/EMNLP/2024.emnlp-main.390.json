@@ -1,0 +1,23 @@
+{
+  "title": "A Survey of AMR Applications",
+  "authors": [
+    "Shira Wein",
+    "Juri Opitz"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Portuguese",
+    "Turkish",
+    "Persian",
+    "German"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.emnlp-main.390",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.390/"
+}

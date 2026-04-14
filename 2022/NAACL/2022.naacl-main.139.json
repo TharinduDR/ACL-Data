@@ -1,0 +1,25 @@
+{
+  "title": "Bridging the Gap between Language Models and Cross-Lingual Sequence Labeling",
+  "authors": [
+    "Nuo Chen",
+    "Linjun Shou",
+    "Ming Gong",
+    "Jian Pei",
+    "Daxin Jiang"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Hindi",
+    "Vietnamese",
+    "Spanish",
+    "German"
+  ],
+  "research_areas": [
+    "T10 Question Answering",
+    "T11 Information Extraction",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2022.naacl-main.139",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.139/"
+}

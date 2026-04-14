@@ -1,0 +1,53 @@
+{
+  "title": "INDUS: Effective and Efficient Language Models for Scientific Applications",
+  "authors": [
+    "Bishwaranjan Bhattacharjee",
+    "Aashka Trivedi",
+    "Masayasu Muraoka",
+    "Muthukumaran Ramasubramanian",
+    "Takuma Udagawa",
+    "Iksha Gurung",
+    "Nishan Pantha",
+    "Rong Zhang",
+    "Bharath Dandala",
+    "Rahul Ramachandran",
+    "Manil Maskey",
+    "Kaylin Bugbee",
+    "Mike Little",
+    "Elizabeth Fancher",
+    "Irina Gerasimov",
+    "Armin Mehrabian",
+    "Lauren Sanders",
+    "Sylvain Costes",
+    "Sergi Blanco-Cuaresma",
+    "Kelly Lockhart",
+    "Thomas Allen",
+    "Felix Grezes",
+    "Megan Ansdel",
+    "Alberto Accomazzi",
+    "Yousef El-Kurdi",
+    "Davis Wertheimer",
+    "Birgit Pfitzmann",
+    "Cesar Berrospi Ramis",
+    "Michele Dolfi",
+    "Rafael Teixeira de Lima",
+    "Panagiotis Vagenas",
+    "S. Karthik Mukkavilli",
+    "Peter Staar",
+    "Sanaz Vahidinia",
+    "Ryan McGranaghan",
+    "Tsendgar Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T10 Question Answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-industry.9",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.9/"
+}

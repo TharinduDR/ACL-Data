@@ -1,0 +1,33 @@
+{
+  "title": "LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding",
+  "authors": [
+    "Yuxuan Hu",
+    "Jihao Liu",
+    "Ke Wang",
+    "Jinliang Zheng",
+    "Weikang Shi",
+    "Manyuan Zhang",
+    "Qi Dou",
+    "Rui Liu",
+    "Aojun Zhou",
+    "Hongsheng Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-main.478",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.478/"
+}

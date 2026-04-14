@@ -1,0 +1,23 @@
+{
+  "title": "HONEST: Measuring Hurtful Sentence Completion in Language Models",
+  "authors": [
+    "Debora Nozza",
+    "Federico Bianchi",
+    "Dirk Hovy"
+  ],
+  "languages": [
+    "Italian",
+    "English",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.naacl-main.191",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.191/"
+}

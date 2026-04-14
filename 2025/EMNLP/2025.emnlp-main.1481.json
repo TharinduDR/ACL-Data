@@ -1,0 +1,50 @@
+{
+  "title": "How Much Do LLMs Hallucinate across Languages? On Realistic Multilingual Estimation of LLM Hallucination",
+  "authors": [
+    "Saad Obaid ul Islam",
+    "Anne Lauscher",
+    "Goran Glavaš"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "German",
+    "Russian",
+    "Turkish",
+    "Basque",
+    "Cantonese",
+    "Catalan",
+    "Czech",
+    "Esperanto",
+    "Finnish",
+    "French",
+    "Hebrew",
+    "Hindi",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Latin",
+    "Lithuanian",
+    "Malay",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Serbian",
+    "Sindhi",
+    "Spanish",
+    "Turkish",
+    "Urdu",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T10",
+    "T11",
+    "T14",
+    "T18",
+    "T28"
+  ],
+  "paper_id": "2025.emnlp-main.1481",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1481/"
+}

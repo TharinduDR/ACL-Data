@@ -1,0 +1,27 @@
+{
+  "title": "STAR: SocioTechnical Approach to Red Teaming Language Models",
+  "authors": [
+    "Laura Weidinger",
+    "John Mellor",
+    "Bernat Guillén Pegueroles",
+    "Nahema Marchal",
+    "Ravin Kumar",
+    "Kristian Lum",
+    "Canfer Akbulut",
+    "Mark Diaz",
+    "Stevie Bergman",
+    "Mikel Rodriguez",
+    "Verena Rieser",
+    "William Isaac"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.emnlp-main.1200",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1200/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Single LLM, Multiple Roles: A Unified Retrieval-Augmented Generation Framework Using Role-Specific Token Optimization",
+  "authors": [
+    "Yutao Zhu",
+    "Jiajie Jin",
+    "Hongjin Qian",
+    "Zheng Liu",
+    "Zhicheng Dou",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.243",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.243/"
+}

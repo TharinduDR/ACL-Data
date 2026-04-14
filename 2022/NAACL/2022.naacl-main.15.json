@@ -1,0 +1,22 @@
+{
+  "title": "Knowledge-Grounded Dialogue Generation with a Unified Knowledge Representation",
+  "authors": [
+    "Yu Li",
+    "Baolin Peng",
+    "Yelong Shen",
+    "Yi Mao",
+    "Lars Liden",
+    "Zhou Yu",
+    "Jianfeng Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.naacl-main.15",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.15/"
+}

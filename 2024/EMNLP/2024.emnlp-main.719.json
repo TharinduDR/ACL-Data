@@ -1,0 +1,23 @@
+{
+  "title": "Target-Aware Language Modeling via Granular Data Sampling",
+  "authors": [
+    "Ernie Chang",
+    "Pin-Jie Lin",
+    "Yang Li",
+    "Changsheng Zhao",
+    "Daeil Kim",
+    "Rastislav Rabatin",
+    "Zechun Liu",
+    "Yangyang Shi",
+    "Vikas Chandra"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.719",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.719/"
+}

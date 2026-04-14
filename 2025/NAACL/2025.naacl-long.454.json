@@ -1,0 +1,21 @@
+{
+  "title": "Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training",
+  "authors": [
+    "Ao Sun",
+    "Weilin Zhao",
+    "Xu Han",
+    "Cheng Yang",
+    "Xinrong Zhang",
+    "Zhiyuan Liu",
+    "Chuan Shi",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-long.454",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.454/"
+}

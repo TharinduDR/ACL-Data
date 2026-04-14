@@ -1,0 +1,21 @@
+{
+  "title": "Polysemantic Dropout: Conformal OOD Detection for Specialized LLMs",
+  "authors": [
+    "Ayush Gupta",
+    "Ramneet Kaur",
+    "Anirban Roy",
+    "Adam D. Cobb",
+    "Rama Chellappa",
+    "Susmit Jha"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.595",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.595/"
+}

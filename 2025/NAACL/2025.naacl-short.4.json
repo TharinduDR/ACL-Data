@@ -1,0 +1,31 @@
+{
+  "title": "Cross-Lingual Transfer Learning for Speech Translation",
+  "authors": [
+    "Rao Ma",
+    "Mengjie Qian",
+    "Yassir Fathullah",
+    "Si yuan Tang",
+    "Mark Gales",
+    "Kate Knill"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Chinese",
+    "Japanese",
+    "Kabuverdianu",
+    "Asturian",
+    "Cebuano",
+    "Kyrgyz",
+    "Sorani Kurdish",
+    "Irish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.naacl-short.4",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.4/"
+}

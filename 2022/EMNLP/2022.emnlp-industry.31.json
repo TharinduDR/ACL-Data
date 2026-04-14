@@ -1,0 +1,23 @@
+{
+  "title": "Improving Text-to-SQL Semantic Parsing with Fine-grained Query Understanding",
+  "authors": [
+    "Jun Wang",
+    "Patrick Ng",
+    "Alexander Hanbo Li",
+    "Jiarong Jiang",
+    "Zhiguo Wang",
+    "Ramesh Nallapati",
+    "Bing Xiang",
+    "Sudipta Sengupta"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11",
+    "T21",
+    "T27"
+  ],
+  "paper_id": "2022.emnlp-industry.31",
+  "acl_url": "https://aclanthology.org/2022.emnlp-industry.31/"
+}

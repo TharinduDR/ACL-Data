@@ -1,0 +1,21 @@
+{
+  "title": "Recall with Reasoning: Chain-of-Thought Distillation for Mamba's Long-Context Memory and Extrapolation",
+  "authors": [
+    "Jun-Yu Ma",
+    "Tianqing Fang",
+    "Zhishong Zhang",
+    "Hongming Zhang",
+    "Haitao Mi",
+    "Dong Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.emnlp-main.235",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.235/"
+}

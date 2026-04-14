@@ -1,0 +1,22 @@
+{
+  "title": "Don't Forget the Base Retriever! A Low-Resource Graph-based Retriever for Multi-hop Question Answering",
+  "authors": [
+    "André Melo",
+    "Enting Chen",
+    "Pavlos Vougiouklis",
+    "Chenxin Diao",
+    "Shriram Piramanayagam",
+    "Ruofei Lai",
+    "Jeff Z. Pan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.emnlp-industry.174",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.174/"
+}

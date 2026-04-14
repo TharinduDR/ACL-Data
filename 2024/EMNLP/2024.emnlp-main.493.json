@@ -1,0 +1,22 @@
+{
+  "title": "RECALL: Membership Inference via Relative Conditional Log-Likelihoods",
+  "authors": [
+    "Roy Xie",
+    "Junlin Wang",
+    "Ruomin Huang",
+    "Minxing Zhang",
+    "Rong Ge",
+    "Jian Pei",
+    "Neil Zhenqiang Gong",
+    "Bhuwan Dhingra"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.emnlp-main.493",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.493/"
+}

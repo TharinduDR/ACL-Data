@@ -1,0 +1,20 @@
+{
+  "title": "QualBench: Benchmarking Chinese LLMs with Localized Professional Qualifications for Vertical Domain Evaluation",
+  "authors": [
+    "Mengze Hong",
+    "Wailing Ng",
+    "Chen Jason Zhang",
+    "Di Jiang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.emnlp-main.303",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.303/"
+}

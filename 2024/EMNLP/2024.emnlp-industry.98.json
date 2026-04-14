@@ -1,0 +1,28 @@
+{
+  "title": "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model",
+  "authors": [
+    "Seungwhan Moon",
+    "Andrea Madotto",
+    "Zhaojiang Lin",
+    "Tushar Nagarajan",
+    "Matt Smith",
+    "Shashank Jain",
+    "Chun-Fu Yeh",
+    "Prakash Murugesan",
+    "Peyman Heidari",
+    "Yue Liu",
+    "Kavya Srinet",
+    "Babak Damavandi",
+    "Anuj Kumar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-industry.98",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.98/"
+}

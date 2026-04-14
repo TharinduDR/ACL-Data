@@ -1,0 +1,21 @@
+{
+  "title": "Template-free Prompt Tuning for Few-shot NER",
+  "authors": [
+    "Ruotian Ma",
+    "Xin Zhou",
+    "Tao Gui",
+    "Yiding Tan",
+    "Linyang Li",
+    "Qi Zhang",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.naacl-main.420",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.420/"
+}

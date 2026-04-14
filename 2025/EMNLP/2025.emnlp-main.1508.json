@@ -1,0 +1,20 @@
+{
+  "title": "V-VAE: A Variational Auto Encoding Framework Towards Fine-Grained Control over Human-Like Chat",
+  "authors": [
+    "Qi Lin",
+    "Weikai Xu",
+    "Lisi Chen",
+    "Bin Dai"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1508",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1508/"
+}

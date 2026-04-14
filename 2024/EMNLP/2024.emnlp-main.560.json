@@ -1,0 +1,18 @@
+{
+  "title": "Enhancing Pre-Trained Generative Language Models with Question Attended Span Extraction on Machine Reading Comprehension",
+  "authors": [
+    "Lin Ai",
+    "Zheng Hui",
+    "Zizhou Liu",
+    "Julia Hirschberg"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.560",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.560/"
+}

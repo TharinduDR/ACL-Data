@@ -1,0 +1,18 @@
+{
+  "title": "Option Symbol Matters: Investigating and Mitigating Multiple-Choice Option Symbol Bias of Large Language Models",
+  "authors": [
+    "Zhen Yang",
+    "Ping Jian",
+    "Chengzhi Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.naacl-long.95",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.95/"
+}

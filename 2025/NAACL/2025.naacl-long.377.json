@@ -1,0 +1,21 @@
+{
+  "title": "Script-Agnosticism and its Impact on Language Identification for Dravidian Languages",
+  "authors": [
+    "Milind Agarwal",
+    "Joshua Otten",
+    "Antonios Anastasopoulos"
+  ],
+  "languages": [
+    "Tamil",
+    "Kannada",
+    "Telugu",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.377",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.377/"
+}

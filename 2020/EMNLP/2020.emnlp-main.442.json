@@ -11,9 +11,9 @@
     "English"
   ],
   "research_areas": [
-    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
-    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
-    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+    "T10",
+    "T20",
+    "T11"
   ],
   "paper_id": "2020.emnlp-main.442",
   "acl_url": "https://aclanthology.org/2020.emnlp-main.442/"

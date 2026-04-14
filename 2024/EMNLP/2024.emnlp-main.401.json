@@ -1,0 +1,22 @@
+{
+  "title": "Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis",
+  "authors": [
+    "Yuping Lin",
+    "Pengfei He",
+    "Han Xu",
+    "Yue Xing",
+    "Makoto Yamada",
+    "Hui Liu",
+    "Jiliang Tang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-main.401",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.401/"
+}

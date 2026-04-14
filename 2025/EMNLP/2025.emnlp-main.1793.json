@@ -1,0 +1,23 @@
+{
+  "title": "D-RAG: Differentiable Retrieval-Augmented Generation for Knowledge Graph Question Answering",
+  "authors": [
+    "Guangze Gao",
+    "Zixuan Li",
+    "Chunfeng Yuan",
+    "Jiawei Li",
+    "Jianzhao Wu",
+    "Yuehao Zhang",
+    "Xiaolong Jin",
+    "Bing Li",
+    "Weiming Hu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.emnlp-main.1793",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1793/"
+}

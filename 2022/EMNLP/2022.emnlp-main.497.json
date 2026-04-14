@@ -8,11 +8,10 @@
     "Dongyan Zhao"
   ],
   "languages": [
-    "Chinese",
-    "English"
+    "Chinese"
   ],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T14 Language Modeling",
     "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],

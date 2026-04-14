@@ -1,0 +1,31 @@
+{
+  "title": "Native Language Identification in Texts: A Survey",
+  "authors": [
+    "Dhiman Goswami",
+    "Sharanya Thilagan",
+    "Kai North",
+    "Shervin Malmasi",
+    "Marcos Zampieri"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Czech",
+    "English",
+    "Finnish",
+    "German",
+    "Italian",
+    "Norwegian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T29 NLP for education",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.naacl-long.173",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.173/"
+}

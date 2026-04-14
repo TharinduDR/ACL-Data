@@ -1,0 +1,20 @@
+{
+  "title": "An Efficient Gloss-Free Sign Language Translation Using Spatial Configurations and Motion Dynamics with LLMs",
+  "authors": [
+    "Eui Jun Hwang",
+    "Sukmin Cho",
+    "Junmyeong Lee",
+    "Jong C. Park"
+  ],
+  "languages": [
+    "German",
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.naacl-long.197",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.197/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "SimVBG: Simulating Individual Values by Backstory Generation",
+  "authors": [
+    "Bangde Du",
+    "Ziyi Ye",
+    "Zhijing Wu",
+    "Monika Jankowska",
+    "Shuqi Zhu",
+    "Qingyao Ai",
+    "Yujia Zhou",
+    "Yiqun Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.662",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.662/"
+}

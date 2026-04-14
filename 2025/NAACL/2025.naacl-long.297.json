@@ -1,0 +1,23 @@
+{
+  "title": "Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities",
+  "authors": [
+    "Chung-En Sun",
+    "Xiaodong Liu",
+    "Weiwei Yang",
+    "Tsui-Wei Weng",
+    "Hao Cheng",
+    "Aidan San",
+    "Michel Galley",
+    "Jianfeng Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.297",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.297/"
+}

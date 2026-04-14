@@ -1,0 +1,17 @@
+{
+  "title": "PropRAG: Guiding Retrieval with Beam Search over Proposition Paths",
+  "authors": [
+    "Jingjin Wang",
+    "Jiawei Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.emnlp-main.317",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.317/"
+}

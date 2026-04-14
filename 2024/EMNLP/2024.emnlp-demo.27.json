@@ -1,0 +1,23 @@
+{
+  "title": "OPENT2T: An Open-Source Toolkit for Table-to-Text Generation",
+  "authors": [
+    "Haowei Zhang",
+    "Shengyun Si",
+    "Yilun Zhao",
+    "Lujing Xie",
+    "Zhijian Xu",
+    "Lyuhao Chen",
+    "Linyong Nan",
+    "Pengcheng Wang",
+    "Xiangru Tang",
+    "Arman Cohan"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.emnlp-demo.27",
+  "acl_url": "https://aclanthology.org/2024.emnlp-demo.27/"
+}

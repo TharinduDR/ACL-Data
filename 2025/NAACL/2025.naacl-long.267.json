@@ -1,0 +1,25 @@
+{
+  "title": "Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models",
+  "authors": [
+    "Amey Hengle",
+    "Prasoon Bajpai",
+    "Soham Dan",
+    "Tanmoy Chakraborty"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Spanish",
+    "Hindi",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.naacl-long.267",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.267/"
+}

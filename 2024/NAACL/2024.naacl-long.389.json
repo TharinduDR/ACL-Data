@@ -1,0 +1,18 @@
+{
+  "title": "Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity",
+  "authors": [
+    "Soyeong Jeong",
+    "Jinheon Baek",
+    "Sukmin Cho",
+    "Sung Ju Hwang",
+    "Jong C. Park"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.naacl-long.389",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.389/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "PRISM-RAG: Boosting RAG Factuality with Distractor Resilience and Strategized Reasoning",
+  "authors": [
+    "Mohammad Kachuee",
+    "Teja Gollapudi",
+    "Minseok Kim",
+    "Yin Huang",
+    "Kai Sun",
+    "Xiao Yang",
+    "Jiaqi Wang",
+    "Nirav Shah",
+    "Yue Liu",
+    "Aaron Colak",
+    "Anuj Kumar",
+    "Wen-tau Yih",
+    "Xin Luna Dong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-industry.53",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.53/"
+}

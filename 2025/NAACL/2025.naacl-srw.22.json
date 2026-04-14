@@ -1,0 +1,23 @@
+{
+  "title": "Linear Relational Decoding of Morphology in Language Models",
+  "authors": [
+    "Eric Xia",
+    "Jugal Kalita"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Hungarian",
+    "Portuguese",
+    "Serbian",
+    "Swedish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.naacl-srw.22",
+  "acl_url": "https://aclanthology.org/2025.naacl-srw.22/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "kNN Retrieval for Simple and Effective Zero-Shot Multi-speaker Text-to-Speech",
+  "authors": [
+    "Karl El Hajal",
+    "Ajinkya Kulkarni",
+    "Enno Hermann",
+    "Mathew Magimai.-Doss"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.naacl-short.65",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.65/"
+}

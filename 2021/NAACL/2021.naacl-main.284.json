@@ -1,0 +1,33 @@
+{
+  "title": "Explicit Alignment Objectives for Multilingual Bidirectional Encoders",
+  "authors": [
+    "Junjie Hu",
+    "Melvin Johnson",
+    "Orhan Firat",
+    "Aditya Siddhant",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bulgarian",
+    "Chinese",
+    "German",
+    "Greek",
+    "Hindi",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Urdu",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.naacl-main.284",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.284/"
+}

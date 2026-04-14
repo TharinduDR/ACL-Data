@@ -1,0 +1,29 @@
+{
+  "title": "Enhancing Self-Attention with Knowledge-Assisted Attention Maps",
+  "authors": [
+    "Jiangang Bai",
+    "Yujing Wang",
+    "Hong Sun",
+    "Ruonan Wu",
+    "Tianmeng Yang",
+    "Pengfei Tang",
+    "Defu Cao",
+    "Mingliang Zhang",
+    "Yunhai Tong",
+    "Yaming Yang",
+    "Jing Bai",
+    "Ruofei Zhang",
+    "Hao Sun",
+    "Wei Shen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.naacl-main.8",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.8/"
+}

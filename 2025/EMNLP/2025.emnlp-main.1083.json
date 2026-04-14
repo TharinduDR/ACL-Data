@@ -1,0 +1,19 @@
+{
+  "title": "Nullspace Disentanglement for Red Teaming Language Models",
+  "authors": [
+    "Yi Han",
+    "Yuanxing Liu",
+    "Weinan Zhang",
+    "Ting Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.emnlp-main.1083",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1083/"
+}

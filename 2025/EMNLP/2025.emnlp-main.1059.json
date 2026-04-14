@@ -1,0 +1,22 @@
+{
+  "title": "EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models",
+  "authors": [
+    "Tao Zou",
+    "Xinghua Zhang",
+    "Haiyang Yu",
+    "Minzheng Wang",
+    "Fei Huang",
+    "Yongbin Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-main.1059",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1059/"
+}

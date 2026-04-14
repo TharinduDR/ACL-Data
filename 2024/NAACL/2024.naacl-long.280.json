@@ -1,0 +1,20 @@
+{
+  "title": "Improving Pre-trained Language Model Sensitivity via Mask Specific losses: A case study on Biomedical NER",
+  "authors": [
+    "Micheal Abaho",
+    "Danushka Bollegala",
+    "Gary Leeming",
+    "Dan Joyce",
+    "Iain E Buchan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.naacl-long.280",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.280/"
+}

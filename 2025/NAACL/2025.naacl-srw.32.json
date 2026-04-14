@@ -1,0 +1,21 @@
+{
+  "title": "DateLogicQA: Benchmarking Temporal Biases in Large Language Models",
+  "authors": [
+    "Gagan Bhatia",
+    "MingZe Tang",
+    "Cristina Mahanta",
+    "Madiha Kazi",
+    "Maxime Peyrard",
+    "Wei Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.naacl-srw.32",
+  "acl_url": "https://aclanthology.org/2025.naacl-srw.32/"
+}

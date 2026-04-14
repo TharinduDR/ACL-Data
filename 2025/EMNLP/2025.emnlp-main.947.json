@@ -1,0 +1,18 @@
+{
+  "title": "TreeRare: Syntax Tree-Guided Retrieval and Reasoning for Knowledge-Intensive Question Answering",
+  "authors": [
+    "Boyi Zhang",
+    "Zhuo Liu",
+    "Hangfeng He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.947",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.947/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Faux Polyglot: A Study on Information Disparity in Multilingual Large Language Models",
+  "authors": [
+    "Nikhil Sharma",
+    "Kenton Murray",
+    "Ziang Xiao"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Hindi",
+    "German"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.411",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.411/"
+}

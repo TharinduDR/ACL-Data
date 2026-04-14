@@ -1,0 +1,24 @@
+{
+  "title": "GottBERT: a pure German Language Model",
+  "authors": [
+    "Raphael Scheible",
+    "Johann Frei",
+    "Fabian Thomczyk",
+    "Henry He",
+    "Patric Tippmann",
+    "Jochen Knaus",
+    "Victor Jaravine",
+    "Frank Kramer",
+    "Martin Boeker"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.1183",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1183/"
+}

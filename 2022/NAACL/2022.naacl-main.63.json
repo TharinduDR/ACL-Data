@@ -1,0 +1,27 @@
+{
+  "title": "Textless Speech-to-Speech Translation on Real Data",
+  "authors": [
+    "Ann Lee",
+    "Hongyu Gong",
+    "Paul-Ambroise Duquenne",
+    "Holger Schwenk",
+    "Peng-Jen Chen",
+    "Changhan Wang",
+    "Sravya Popuri",
+    "Yossi Adi",
+    "Juan Pino",
+    "Jiatao Gu",
+    "Wei-Ning Hsu"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.naacl-main.63",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.63/"
+}

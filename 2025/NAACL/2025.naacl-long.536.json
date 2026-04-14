@@ -1,0 +1,21 @@
+{
+  "title": "Track-SQL: Enhancing Generative Language Models with Dual-Extractive Modules for Schema and Context Tracking in Multi-turn Text-to-SQL",
+  "authors": [
+    "Bingfeng Chen",
+    "Shaobin Shi",
+    "Yongqi Luo",
+    "Boyan Xu",
+    "Ruichu Cai",
+    "Zhifeng Hao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.naacl-long.536",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.536/"
+}

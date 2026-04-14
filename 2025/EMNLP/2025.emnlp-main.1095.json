@@ -1,0 +1,22 @@
+{
+  "title": "s3: You Don't Need That Much Data to Train a Search Agent via RL",
+  "authors": [
+    "Pengcheng Jiang",
+    "Xueqiang Xu",
+    "Jiacheng Lin",
+    "Jinfeng Xiao",
+    "Zifeng Wang",
+    "Jimeng Sun",
+    "Jiawei Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1095",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1095/"
+}

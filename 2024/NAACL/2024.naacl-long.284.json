@@ -1,0 +1,20 @@
+{
+  "title": "Revisiting subword tokenization: A case study on affixal negation in large language models",
+  "authors": [
+    "Thinh Hung Truong",
+    "Yulia Otmakhova",
+    "Karin Verspoor",
+    "Trevor Cohn",
+    "Timothy Baldwin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.naacl-long.284",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.284/"
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Evaluating the Values of Sources in Transfer Learning",
+  "authors": [
+    "Md Rizwan Parvez",
+    "Kai-Wei Chang"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Arabic",
+    "Chinese",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Estonian",
+    "Finnish",
+    "Hebrew",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Serbian",
+    "Slovak",
+    "Slovenian",
+    "Spanish",
+    "Swedish",
+    "Turkish",
+    "Persian",
+    "Basque"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.naacl-main.402",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.402/"
+}

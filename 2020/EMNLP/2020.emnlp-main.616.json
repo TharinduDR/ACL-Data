@@ -10,9 +10,9 @@
     "German"
   ],
   "research_areas": [
+    "T01 Bias, Guardrails, filters",
     "T15 Lexicon and Semantics",
-    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
-    "T12 Interpretability/explainability of language models and language and speech processing tools"
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "2020.emnlp-main.616",
   "acl_url": "https://aclanthology.org/2020.emnlp-main.616/"

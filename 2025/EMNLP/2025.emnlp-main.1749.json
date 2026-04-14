@@ -1,0 +1,19 @@
+{
+  "title": "STARQA: A Question Answering Dataset for Complex Analytical Reasoning over Structured Databases",
+  "authors": [
+    "Mounica Maddela",
+    "Lingjue Xie",
+    "Daniel PreoŢiuc-Pietro",
+    "Mausam"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1749",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1749/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Grammar Pruning: Enabling Low-Latency Zero-Shot Task-Oriented Language Models for Edge AI",
+  "authors": [
+    "Octavian Alexandru Trifan",
+    "Jason Lee Weber",
+    "Marc Titus Trifan",
+    "Alexandru Nicolau",
+    "Alexander Veidenbaum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-main.858",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.858/"
+}

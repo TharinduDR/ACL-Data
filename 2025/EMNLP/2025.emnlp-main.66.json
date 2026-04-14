@@ -1,0 +1,23 @@
+{
+  "title": "MovieCORE: COgnitive REasoning in Movies",
+  "authors": [
+    "Gueter Josmy Faure",
+    "Min-Hung Chen",
+    "Jia-Fong Yeh",
+    "Ying Cheng",
+    "Hung-Ting Su",
+    "Yung-Hao Tang",
+    "Shang-Hong Lai",
+    "Winston H. Hsu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.66",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.66/"
+}

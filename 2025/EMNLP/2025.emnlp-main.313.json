@@ -1,0 +1,19 @@
+{
+  "title": "Investigating Neurons and Heads in Transformer-based LLMs for Typographical Errors",
+  "authors": [
+    "Kohei Tsuji",
+    "Tatsuya Hiraoka",
+    "Yuchang Cheng",
+    "Eiji Aramaki",
+    "Tomoya Iwakura"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.emnlp-main.313",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.313/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "CheckEval: A reliable LLM-as-a-Judge framework for evaluating text generation using checklists",
+  "authors": [
+    "Yukyung Lee",
+    "Joonghoon Kim",
+    "Jaehee Kim",
+    "Hyowon Cho",
+    "Jaewook Kang",
+    "Pilsung Kang",
+    "Najoung Kim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T18 Text Summarization",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.emnlp-main.796",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.796/"
+}

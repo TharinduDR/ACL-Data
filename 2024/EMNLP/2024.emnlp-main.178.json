@@ -1,0 +1,22 @@
+{
+  "title": "SEER: Self-Aligned Evidence Extraction for Retrieval-Augmented Generation",
+  "authors": [
+    "Xinping Zhao",
+    "Dongfang Li",
+    "Yan Zhong",
+    "Boren Hu",
+    "Yibin Chen",
+    "Baotian Hu",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.emnlp-main.178",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.178/"
+}

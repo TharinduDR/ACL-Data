@@ -1,0 +1,24 @@
+{
+  "title": "Aligning Translation-Specific Understanding to General Understanding in Large Language Models",
+  "authors": [
+    "Yichong Huang",
+    "Baohang Li",
+    "Xiaocheng Feng",
+    "Wenshuai Huo",
+    "Chengpeng Fu",
+    "Ting Liu",
+    "Bing Qin"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Estonian",
+    "Icelandic"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-main.289",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.289/"
+}

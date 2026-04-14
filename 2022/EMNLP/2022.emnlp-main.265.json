@@ -4,7 +4,7 @@
     "Zilong Wang",
     "Jiuxiang Gu",
     "Chris Tensmeyer",
-    "Nikolaos Bampalios",
+    "Nikolaos Barmpalios",
     "Ani Nenkova",
     "Tong Sun",
     "Jingbo Shang",
@@ -14,9 +14,8 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
-    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
   ],
   "paper_id": "2022.emnlp-main.265",
   "acl_url": "https://aclanthology.org/2022.emnlp-main.265/"

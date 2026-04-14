@@ -1,0 +1,18 @@
+{
+  "title": "DeCAP: Context-Adaptive Prompt Generation for Debiasing Zero-shot Question Answering in Large Language Models",
+  "authors": [
+    "Suyoung Bae",
+    "YunSeok Choi",
+    "Jee-Hyong Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.624",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.624/"
+}

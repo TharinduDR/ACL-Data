@@ -1,0 +1,19 @@
+{
+  "title": "Improving Adversarial Data Collection by Supporting Annotators: Lessons from GAHD, a German Hate Speech Dataset",
+  "authors": [
+    "Janis Goldzycher",
+    "Paul Röttger",
+    "Gerold Schneider"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.naacl-long.248",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.248/"
+}

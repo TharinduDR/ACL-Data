@@ -1,0 +1,20 @@
+{
+  "title": "Understanding and Leveraging the Expert Specialization of Context Faithfulness in Mixture-of-Experts LLMs",
+  "authors": [
+    "Jun Bai",
+    "Minghao Tong",
+    "Yang Liu",
+    "Zixia Jia",
+    "Zilong Zheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.1114",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1114/"
+}

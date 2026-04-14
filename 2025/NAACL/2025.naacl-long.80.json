@@ -1,0 +1,22 @@
+{
+  "title": "Dynamic Data Mixing Maximizes Instruction Tuning for Mixture-of-Experts",
+  "authors": [
+    "Tong Zhu",
+    "Daize Dong",
+    "Xiaoye Qu",
+    "Jiacheng Ruan",
+    "Wenliang Chen",
+    "Yu Cheng"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.naacl-long.80",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.80/"
+}

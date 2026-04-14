@@ -1,0 +1,26 @@
+{
+  "title": "SWAN: An Efficient and Scalable Approach for Long-Context Language Modeling",
+  "authors": [
+    "Krishna C. Puvvada",
+    "Faisal Ladakh",
+    "Santiago Akle Serrano",
+    "Cheng-Ping Hsieh",
+    "Shantanu Acharya",
+    "Somshubra Majumdar",
+    "Fei Jia",
+    "Samuel Kriman",
+    "Simeng Sun",
+    "Dima Rekesh",
+    "Boris Ginsburg"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.emnlp-main.123",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.123/"
+}

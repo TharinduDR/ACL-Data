@@ -1,0 +1,25 @@
+{
+  "title": "ODD: A Benchmark Dataset for the Natural Language Processing Based Opioid Related Aberrant Behavior Detection",
+  "authors": [
+    "Sunjae Kwon",
+    "Xun Wang",
+    "Weisong Liu",
+    "Emily Druhl",
+    "Minhee L. Sung",
+    "Joel I. Reisman",
+    "Wenjun Li",
+    "Robert D. Kerns",
+    "William Becker",
+    "Hong Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.244",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.244/"
+}

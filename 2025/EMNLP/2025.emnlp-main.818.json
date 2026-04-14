@@ -1,0 +1,19 @@
+{
+  "title": "PakBBQ: A Culturally Adapted Bias Benchmark for QA",
+  "authors": [
+    "Abdullah Hashmat",
+    "Muhammad Arham Mirza",
+    "Agha Ali Raza"
+  ],
+  "languages": [
+    "English",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.emnlp-main.818",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.818/"
+}

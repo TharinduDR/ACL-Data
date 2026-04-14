@@ -1,0 +1,27 @@
+{
+  "title": "Do You Know About My Nation? Investigating Multilingual Language Models' Cultural Literacy Through Factual Knowledge",
+  "authors": [
+    "Eshaan Tanwar",
+    "Anwoy Chatterjee",
+    "Michael Saxon",
+    "Alon Albalak",
+    "William Yang Wang",
+    "Tanmoy Chakraborty"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hindi",
+    "Chinese",
+    "Russian",
+    "Spanish",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.emnlp-main.756",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.756/"
+}

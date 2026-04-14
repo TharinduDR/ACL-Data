@@ -1,0 +1,23 @@
+{
+  "title": "A Continued Pretrained LLM Approach for Automatic Medical Note Generation",
+  "authors": [
+    "Dong Yuan",
+    "Eti Rastogi",
+    "Gautam Naik",
+    "Sree Prasanna Rajagopal",
+    "Sagar Goyal",
+    "Fen Zhao",
+    "Bharath Chintagunta",
+    "Jeff Ward"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.naacl-short.47",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.47/"
+}

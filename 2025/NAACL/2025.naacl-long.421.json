@@ -1,0 +1,23 @@
+{
+  "title": "ALPACA AGAINST VICUNA: Using LLMs to Uncover Memorization of LLMs",
+  "authors": [
+    "Aly M. Kassem",
+    "Omar Mahmoud",
+    "Nilooofar Mireshghallah",
+    "Hyunwoo Kim",
+    "Yulia Tsvetkov",
+    "Yejin Choi",
+    "Sherif Saad",
+    "Santu Rana"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.421",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.421/"
+}

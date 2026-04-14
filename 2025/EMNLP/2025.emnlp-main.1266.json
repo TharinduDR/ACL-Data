@@ -1,0 +1,23 @@
+{
+  "title": "Speech Discrete Tokens or Continuous Features? A Comparative Analysis for Spoken Language Understanding in SpeechLLMs",
+  "authors": [
+    "Dingdong Wang",
+    "Junan Li",
+    "Mingyu Cui",
+    "Dongchao Yang",
+    "Xueyuan Chen",
+    "Helen Meng"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.emnlp-main.1266",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1266/"
+}

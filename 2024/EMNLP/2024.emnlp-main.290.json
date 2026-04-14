@@ -1,0 +1,21 @@
+{
+  "title": "FOOL ME IF YOU CAN! An Adversarial Dataset to Investigate the Robustness of LMs in Word Sense Disambiguation",
+  "authors": [
+    "Mohamad Ballout",
+    "Anne Dedert",
+    "Nohayr Muhammad Abdelmoneim",
+    "Ulf Krumnack",
+    "Gunther Heidemann",
+    "Kai-Uwe Kühnberger"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.290",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.290/"
+}

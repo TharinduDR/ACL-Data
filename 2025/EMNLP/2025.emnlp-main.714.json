@@ -1,0 +1,23 @@
+{
+  "title": "ToolSafety: A Comprehensive Dataset for Enhancing Safety in LLM-Based Agent Tool Invocations",
+  "authors": [
+    "Yuejin Xie",
+    "Youliang Yuan",
+    "Wenxuan Wang",
+    "Fan Mo",
+    "Jianmin Guo",
+    "Pinjia He"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.emnlp-main.714",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.714/"
+}

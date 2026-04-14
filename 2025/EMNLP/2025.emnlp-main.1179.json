@@ -1,0 +1,23 @@
+{
+  "title": "Can Large Language Models Translate Unseen Languages in Underrepresented Scripts?",
+  "authors": [
+    "Dianqing Lin",
+    "Aruukhan",
+    "Hongxu Hou",
+    "Shuo Sun",
+    "Wei Chen",
+    "Yichen Yang",
+    "Guodong Shi"
+  ],
+  "languages": [
+    "Chinese",
+    "Mongolian",
+    "Yi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1179",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1179/"
+}

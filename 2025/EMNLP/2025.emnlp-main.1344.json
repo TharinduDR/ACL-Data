@@ -1,0 +1,26 @@
+{
+  "title": "ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning",
+  "authors": [
+    "Yu Sun",
+    "Xingyu Qian",
+    "Weiwenn Xu",
+    "Hao Zhang",
+    "Chenghao Xiao",
+    "Long Li",
+    "Deli Zhao",
+    "Wenbing Huang",
+    "Tingyang Xu",
+    "Qifeng Bai",
+    "Yu Rong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.emnlp-main.1344",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1344/"
+}

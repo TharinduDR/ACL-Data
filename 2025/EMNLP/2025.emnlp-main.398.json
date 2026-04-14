@@ -1,0 +1,21 @@
+{
+  "title": "DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement",
+  "authors": [
+    "Shaoqing Lin",
+    "Chong Teng",
+    "Fei Li",
+    "Donghong Ji",
+    "Lizhen Qu",
+    "Zhuang Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.emnlp-main.398",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.398/"
+}

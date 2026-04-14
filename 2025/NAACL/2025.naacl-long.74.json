@@ -1,0 +1,29 @@
+{
+  "title": "Detect, Disambiguate, and Translate: On-Demand Visual Reasoning for Multimodal Machine Translation with Large Vision-Language Models",
+  "authors": [
+    "Danyang Liu",
+    "Fanjie Kong",
+    "Xiaohang Sun",
+    "Dhruva Patil",
+    "Avijit Vajpayee",
+    "Zhu Liu",
+    "Vimal Bhat",
+    "Najmeh Sadoughi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Czech",
+    "Arabic",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.naacl-long.74",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.74/"
+}

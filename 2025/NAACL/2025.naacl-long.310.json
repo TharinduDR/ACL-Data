@@ -1,0 +1,21 @@
+{
+  "title": "VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation",
+  "authors": [
+    "Manan Suri",
+    "Puneet Mathur",
+    "Franck Dernoncourt",
+    "Kanika Gowswami",
+    "Ryan A. Rossi",
+    "Dinesh Manocha"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.310",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.310/"
+}

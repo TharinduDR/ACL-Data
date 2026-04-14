@@ -1,0 +1,21 @@
+{
+  "title": "Fine-tuning Encoders for Improved Monolingual and Zero-shot Polylingual Neural Topic Modeling",
+  "authors": [
+    "Aaron Mueller",
+    "Mark Dredze"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Portuguese",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.naacl-main.243",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.243/"
+}

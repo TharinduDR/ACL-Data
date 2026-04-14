@@ -1,0 +1,26 @@
+{
+  "title": "DreamSync: Aligning Text-to-Image Generation with Image Understanding Feedback",
+  "authors": [
+    "Jiao Sun",
+    "Deqing Fu",
+    "Yushi Hu",
+    "Su Wang",
+    "Roi Rassin",
+    "Da-Cheng Juan",
+    "Dana Alon",
+    "Charles Herrmann",
+    "Sjoerd van Steenkiste",
+    "Ranjay Krishna",
+    "Cyrus Rashtchian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-long.304",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.304/"
+}

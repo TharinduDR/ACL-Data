@@ -1,0 +1,20 @@
+{
+  "title": "Train One Sparse Autoencoder Across Multiple Sparsity Budgets to Preserve Interpretability and Accuracy",
+  "authors": [
+    "Nikita Balagansky",
+    "Yaroslav Aksenov",
+    "Daniil Laptev",
+    "Vadim Kurochkin",
+    "Gleb Gerasimov",
+    "Nikita Koriagin",
+    "Daniil Gavrilov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.515",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.515/"
+}

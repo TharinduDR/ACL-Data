@@ -1,0 +1,33 @@
+{
+  "title": "CodeMixBench: Evaluating Code-Mixing Capabilities of LLMs Across 18 Languages",
+  "authors": [
+    "Yilun Yang",
+    "Yekun Chai"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Hindi",
+    "Bengali",
+    "Marathi",
+    "Nepali",
+    "Tamil",
+    "Malayalam",
+    "Arabic",
+    "French",
+    "German",
+    "Dutch",
+    "Frisian",
+    "Spanish",
+    "Portuguese",
+    "Persian",
+    "Guarani"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.emnlp-main.109",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.109/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "LLMs Are Biased Towards Output Formats! Systematically Evaluating and Mitigating Output Format Bias of LLMs",
+  "authors": [
+    "Do Xuan Long",
+    "Hai Nguyen Ngoc",
+    "Tivitais Sim",
+    "Hieu Dao",
+    "Shafiq Joty",
+    "Kenji Kawaguchi",
+    "Nancy F. Chen",
+    "Min-Yen Kan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.naacl-long.15",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.15/"
+}

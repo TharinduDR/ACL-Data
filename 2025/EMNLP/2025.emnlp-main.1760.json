@@ -1,0 +1,19 @@
+{
+  "title": "EduVidQA: Generating and Evaluating Long-form Answers to Student Questions based on Lecture Videos",
+  "authors": [
+    "Sourjyadip Ray",
+    "Shubham Sharma",
+    "Somak Aditya",
+    "Pawan Goyal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.emnlp-main.1760",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1760/"
+}

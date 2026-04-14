@@ -1,0 +1,30 @@
+{
+  "title": "A Head to Predict and a Head to Question: Pre-trained Uncertainty Quantification Heads for Hallucination Detection in LLM Outputs",
+  "authors": [
+    "Artem Shelmanov",
+    "Ekaterina Fadeeva",
+    "Akim Tsvigun",
+    "Ivan Tsvigun",
+    "Zhuohan Xie",
+    "Igor Kiselev",
+    "Nico Daheim",
+    "Caiqi Zhang",
+    "Artem Vazhentsev",
+    "Mrinmaya Sachan",
+    "Preslav Nakov",
+    "Timothy Baldwin"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Russian",
+    "German"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.emnlp-main.1809",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1809/"
+}

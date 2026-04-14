@@ -1,0 +1,22 @@
+{
+  "title": "METAREFLECTION: Learning Instructions for Language Agents using Past Reflections",
+  "authors": [
+    "Priyanshu Gupta",
+    "Shashank Kirtania",
+    "Ananya Singha",
+    "Sumit Gulwani",
+    "Arjun Radhakrishna",
+    "Sherry Shi",
+    "Gustavo Soares"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.emnlp-main.477",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.477/"
+}

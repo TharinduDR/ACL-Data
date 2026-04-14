@@ -1,0 +1,20 @@
+{
+  "title": "Applying Intrinsic Debiasing on Downstream Tasks: Challenges and Considerations for Machine Translation",
+  "authors": [
+    "Bar Iluz",
+    "Yanai Elazar",
+    "Asaf Yehudai",
+    "Gabriel Stanovsky"
+  ],
+  "languages": [
+    "German",
+    "Hebrew",
+    "Russian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.emnlp-main.829",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.829/"
+}

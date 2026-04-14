@@ -1,0 +1,27 @@
+{
+  "title": "ITINERA: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning",
+  "authors": [
+    "Yihong Tang",
+    "Zhaokai Wang",
+    "Ao Qu",
+    "Yihao Yan",
+    "Zhaofeng Wu",
+    "Dingyi Zhuang",
+    "Jushi Kai",
+    "Kebing Hou",
+    "Xiaotong Guo",
+    "Jinhua Zhao",
+    "Zhan Zhao",
+    "Wei Ma"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.emnlp-industry.104",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.104/"
+}

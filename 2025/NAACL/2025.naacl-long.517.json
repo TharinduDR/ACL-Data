@@ -1,0 +1,32 @@
+{
+  "title": "Soft Language Prompts for Language Transfer",
+  "authors": [
+    "Ivan Vykopal",
+    "Simon Ostermann",
+    "Marián Šimko"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Spanish",
+    "Russian",
+    "Chinese",
+    "Bulgarian",
+    "Czech",
+    "Greek",
+    "Romanian",
+    "Slovenian",
+    "Slovak",
+    "Swahili",
+    "Telugu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T11 Information Extraction",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2025.naacl-long.517",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.517/"
+}

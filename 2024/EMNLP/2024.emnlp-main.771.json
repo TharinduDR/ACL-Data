@@ -1,0 +1,47 @@
+{
+  "title": "MOSEL: 950,000 Hours of Speech Data for Open-Source Speech Foundation Model Training on EU Languages",
+  "authors": [
+    "Marco Gaido",
+    "Sara Papi",
+    "Luisa Bentivogli",
+    "Alessio Brutti",
+    "Mauro Cettolo",
+    "Roberto Gretter",
+    "Marco Matassoni",
+    "Mohamed Nabih",
+    "Matteo Negri"
+  ],
+  "languages": [
+    "Maltese",
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Portuguese",
+    "Italian",
+    "Dutch",
+    "Czech",
+    "Slovak",
+    "Slovenian",
+    "Hungarian",
+    "Polish",
+    "Romanian",
+    "Lithuanian",
+    "Latvian",
+    "Estonian",
+    "Finnish",
+    "Danish",
+    "Swedish",
+    "Greek",
+    "Bulgarian",
+    "Croatian",
+    "Irish"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2024.emnlp-main.771",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.771/"
+}

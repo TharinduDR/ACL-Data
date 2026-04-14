@@ -1,0 +1,27 @@
+{
+  "title": "Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs",
+  "authors": [
+    "Dayu Yang",
+    "Tianyang Liu",
+    "Daoan Zhang",
+    "Antoine Simoulin",
+    "Xiaoyi Liu",
+    "Yuwei Cao",
+    "Zhaopu Teng",
+    "Xin Qian",
+    "Grey Yang",
+    "Jiebo Luo",
+    "Julian McAuley"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T09 Inference and Reasoning",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.emnlp-main.130",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.130/"
+}

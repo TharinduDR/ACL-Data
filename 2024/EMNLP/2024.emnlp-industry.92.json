@@ -1,0 +1,22 @@
+{
+  "title": "ASTRA: Automatic Schema Matching using Machine Translation",
+  "authors": [
+    "Tarang Chugh",
+    "Deepak Zambre"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.emnlp-industry.92",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.92/"
+}

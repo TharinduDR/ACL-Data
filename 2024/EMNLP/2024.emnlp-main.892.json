@@ -1,0 +1,21 @@
+{
+  "title": "Mitigating Training Imbalance in LLM Fine-Tuning via Selective Parameter Merging",
+  "authors": [
+    "Yiming Ju",
+    "Ziyi Ni",
+    "Xingrun Xing",
+    "Zhixiong Zeng",
+    "Hanyu Zhao",
+    "Siqi Fan",
+    "Zheng Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.emnlp-main.892",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.892/"
+}

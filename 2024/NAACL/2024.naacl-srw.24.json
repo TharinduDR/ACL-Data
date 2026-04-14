@@ -1,0 +1,20 @@
+{
+  "title": "Multi-Source Text Classification for Multilingual Sentence Encoder with Machine Translation",
+  "authors": [
+    "Reon Kajikawa",
+    "Keiichiro Yamada",
+    "Tomoyuki Kajiwara",
+    "Takashi Ninomiya"
+  ],
+  "languages": [
+    "Japanese",
+    "French",
+    "Korean"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.naacl-srw.24",
+  "acl_url": "https://aclanthology.org/2024.naacl-srw.24/"
+}

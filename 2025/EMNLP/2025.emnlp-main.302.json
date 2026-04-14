@@ -1,0 +1,19 @@
+{
+  "title": "CARFT: Boosting LLM Reasoning via Contrastive Learning with Annotated Chain-of-Thought-based Reinforced Fine-Tuning",
+  "authors": [
+    "Wenqiao Zhu",
+    "Ji Liu",
+    "Rongjunchen Zhang",
+    "Haipang Wu",
+    "Yulun Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.302",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.302/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "GraDeT-HTR: A Resource-Efficient Bengali Handwritten Text Recognition System utilizing Grapheme-based Tokenizer and Decoder-only Transformer",
+  "authors": [
+    "Md. Mahmudul Hasan",
+    "Ahmed Nesar Tahsin Choudhury",
+    "Mahmudul Hasan",
+    "Md. Mosaddek Khan"
+  ],
+  "languages": [
+    "Bengali"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-demos.52",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.52/"
+}

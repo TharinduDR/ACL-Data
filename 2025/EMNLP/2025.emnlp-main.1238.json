@@ -1,0 +1,22 @@
+{
+  "title": "Logos as a Well-Tempered Pre-train for Sign Language Recognition",
+  "authors": [
+    "Ilya Ovodov",
+    "Petr Surovtsev",
+    "Karina Kvanchiani",
+    "Alexander Kapitanov",
+    "Alexander Nagaev"
+  ],
+  "languages": [
+    "Russian",
+    "American Sign Language",
+    "Turkish Sign Language"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.emnlp-main.1238",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1238/"
+}

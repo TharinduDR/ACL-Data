@@ -1,0 +1,20 @@
+{
+  "title": "Retrieval-Augmented Generation with Estimation of Source Reliability",
+  "authors": [
+    "Jeongyeon Hwang",
+    "Junyoung Park",
+    "Hyejin Park",
+    "Dongwoo Kim",
+    "Sangdon Park",
+    "Jungseul Ok"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.1738",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1738/"
+}

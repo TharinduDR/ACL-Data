@@ -1,0 +1,25 @@
+{
+  "title": "Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts",
+  "authors": [
+    "Daniel Khashabi",
+    "Xinxi Lyu",
+    "Sewon Min",
+    "Lianhui Qin",
+    "Kyle Richardson",
+    "Sean Welleck",
+    "Hannaneh Hajishirzi",
+    "Tushar Khot",
+    "Ashish Sabharwal",
+    "Sameer Singh",
+    "Yejin Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.naacl-main.266",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.266/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "RAGViz: Diagnose and Visualize Retrieval-Augmented Generation",
+  "authors": [
+    "Tevin Wang",
+    "Jingyuan He",
+    "Chenyan Xiong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.emnlp-demo.33",
+  "acl_url": "https://aclanthology.org/2024.emnlp-demo.33/"
+}

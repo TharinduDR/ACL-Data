@@ -1,0 +1,23 @@
+{
+  "title": "TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning",
+  "authors": [
+    "Hang Ni",
+    "Fan Liu",
+    "Xinyu Ma",
+    "Lixin Su",
+    "Shuaiqiang Wang",
+    "Dawei Yin",
+    "Hui Xiong",
+    "Hao Liu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.emnlp-main.626",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.626/"
+}

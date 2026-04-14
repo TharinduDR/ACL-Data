@@ -1,0 +1,20 @@
+{
+  "title": "Predicting the Target Word of Game-playing Conversations using a Low-Rank Dialect Adapter for Decoder Models",
+  "authors": [
+    "Dipankar Srirag",
+    "Aditya Joshi",
+    "Jacob Eisenstein"
+  ],
+  "languages": [
+    "English",
+    "Indian English",
+    "Nigerian English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-short.2",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.2/"
+}

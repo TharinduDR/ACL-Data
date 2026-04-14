@@ -1,0 +1,23 @@
+{
+  "title": "ViClaim: A Multilingual Multilabel Dataset for Automatic Claim Detection in Videos",
+  "authors": [
+    "Patrick Giedemann",
+    "Pius von Däniken",
+    "Jan Deriu",
+    "Alvaro Rodrigo",
+    "Anselmo Peñas",
+    "Mark Cieliebak"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.emnlp-main.21",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.21/"
+}

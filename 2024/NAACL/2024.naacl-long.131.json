@@ -1,0 +1,23 @@
+{
+  "title": "POLYIE: A Dataset of Information Extraction from Polymer Material Scientific Literature",
+  "authors": [
+    "Jerry Junyang Cheung",
+    "Yuchen Zhuang",
+    "Yinghao Li",
+    "Pranav Shetty",
+    "Wantian Zhao",
+    "Sanjeev Grampurohit",
+    "Rampi Ramprasad",
+    "Chao Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.131",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.131/"
+}

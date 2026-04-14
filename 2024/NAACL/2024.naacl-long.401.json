@@ -1,0 +1,34 @@
+{
+  "title": "Key ingredients for effective zero-shot cross-lingual knowledge transfer in generative tasks",
+  "authors": [
+    "Nadezhda Chirkova",
+    "Vassilina Nikoulina"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Russian",
+    "Korean",
+    "Arabic",
+    "German",
+    "Chinese",
+    "Portuguese",
+    "Japanese",
+    "Vietnamese",
+    "Thai",
+    "Persian",
+    "Cantonese",
+    "Indonesian",
+    "Swahili",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.naacl-long.401",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.401/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Leveraging Knowledge Graph-Enhanced LLMs for Context-Aware Medical Consultation",
+  "authors": [
+    "Su-Hyeong Park",
+    "Ho-Beom Kim",
+    "Seong-Jin Park",
+    "Dinara Aliyeva",
+    "Kang-Min Kim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.1549",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1549/"
+}

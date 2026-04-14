@@ -1,0 +1,22 @@
+{
+  "title": "Debiasing Multilingual LLMs in Cross-lingual Latent Space",
+  "authors": [
+    "Qiwei Peng",
+    "Guimin Hu",
+    "Yekun Chai",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.emnlp-main.1149",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1149/"
+}

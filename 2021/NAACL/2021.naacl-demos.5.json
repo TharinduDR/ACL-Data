@@ -1,0 +1,20 @@
+{
+  "title": "FITAnnotator: A Flexible and Intelligent Text Annotation System",
+  "authors": [
+    "Yanzeng Li",
+    "Bowen Yu",
+    "Quangang Li",
+    "Tingwen Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.naacl-demos.5",
+  "acl_url": "https://aclanthology.org/2021.naacl-demos.5/"
+}

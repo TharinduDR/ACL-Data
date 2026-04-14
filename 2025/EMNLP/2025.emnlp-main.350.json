@@ -1,0 +1,23 @@
+{
+  "title": "Midddo: Model-Informed Dynamic Data Optimization for Enhanced LLM Fine-Tuning via Closed-Loop Learning",
+  "authors": [
+    "Zinan Tang",
+    "Xin Gao",
+    "Qizhi Pei",
+    "Zhuoshi Pan",
+    "Mengzhang Cai",
+    "Jiang Wu",
+    "Conghui He",
+    "Lijun Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-main.350",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.350/"
+}

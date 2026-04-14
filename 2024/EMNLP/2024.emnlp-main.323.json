@@ -1,0 +1,32 @@
+{
+  "title": "On Mitigating Performance Disparities in Multilingual Speech Recognition",
+  "authors": [
+    "Monorama Swain",
+    "Anna Katrine van Zee",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "Slovene",
+    "Lithuanian",
+    "Italian",
+    "French",
+    "Polish",
+    "Romanian",
+    "German",
+    "Finnish",
+    "Dutch",
+    "Croatian",
+    "Hungarian",
+    "Slovak",
+    "Spanish",
+    "Estonian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2024.emnlp-main.323",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.323/"
+}

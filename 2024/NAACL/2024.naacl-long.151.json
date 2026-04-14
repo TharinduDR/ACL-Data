@@ -1,0 +1,37 @@
+{
+  "title": "UniverSLU: Universal Spoken Language Understanding for Diverse Tasks with Natural Language Instructions",
+  "authors": [
+    "Siddhant Arora",
+    "Hayato Futami",
+    "Jee-weon Jung",
+    "Yifan Peng",
+    "Roshan Sharma",
+    "Yosuke Kashiwagi",
+    "Emiru Tsunoo",
+    "Karen Livescu",
+    "Shinji Watanabe"
+  ],
+  "languages": [
+    "English",
+    "Lithuanian",
+    "Arabic",
+    "Chinese",
+    "German",
+    "Russian",
+    "French",
+    "Italian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.151",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.151/"
+}

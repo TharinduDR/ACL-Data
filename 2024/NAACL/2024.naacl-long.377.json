@@ -1,0 +1,21 @@
+{
+  "title": "Divergent Token Metrics: Measuring degradation to prune away LLM components – and optimize quantization",
+  "authors": [
+    "Björn Deiserth",
+    "Max Meuer",
+    "Nikolas Gritsch",
+    "Constantin Eichenberg",
+    "Patrick Schramowski",
+    "Matthias Aßenmacher",
+    "Kristian Kersting"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.377",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.377/"
+}

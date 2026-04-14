@@ -1,0 +1,20 @@
+{
+  "title": "RAR: Retrieval-augmented retrieval for code generation in low-resource languages",
+  "authors": [
+    "Avik Dutta",
+    "Mukul Singh",
+    "Sumit Gulwani",
+    "Vu Le",
+    "Gust Verbruggen"
+  ],
+  "languages": [
+    "OfficeScript",
+    "Power Query M",
+    "Excel formulas"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.emnlp-main.1199",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1199/"
+}

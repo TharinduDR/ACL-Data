@@ -1,0 +1,27 @@
+{
+  "title": "Multi-teacher Distillation for Multilingual Spelling Correction",
+  "authors": [
+    "Jingfen Zhang",
+    "Xuan Guo",
+    "Sravan Bodapati",
+    "Christopher Potts"
+  ],
+  "languages": [
+    "Portuguese",
+    "Dutch",
+    "Turkish",
+    "Swedish",
+    "Polish",
+    "Arabic",
+    "English",
+    "German",
+    "Czech",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T29"
+  ],
+  "paper_id": "2023.emnlp-industry.15",
+  "acl_url": "https://aclanthology.org/2023.emnlp-industry.15/"
+}

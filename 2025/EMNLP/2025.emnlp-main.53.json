@@ -1,0 +1,22 @@
+{
+  "title": "IPIGUARD: A Novel Tool Dependency Graph-Based Defense Against Indirect Prompt Injection in LLM Agents",
+  "authors": [
+    "Hengyu An",
+    "Jinghuai Zhang",
+    "Tianyu Du",
+    "Chunyi Zhou",
+    "Qingming Li",
+    "Tao Lin",
+    "Shouling Ji"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.53",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.53/"
+}

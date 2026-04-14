@@ -1,0 +1,32 @@
+{
+  "title": "SEGMENT+: Long Text Processing with Short-Context Language Models",
+  "authors": [
+    "Wei Shi",
+    "Shuang Li",
+    "Kerun Yu",
+    "Jinglei Chen",
+    "Zujie Liang",
+    "Xinhui Wu",
+    "Yuxi Qian",
+    "Feng Wei",
+    "Bo Zheng",
+    "Jiaqing Liang",
+    "Jiangjie Chen",
+    "Yanghua Xiao"
+  ],
+  "languages": [
+    "Chinese",
+    "French",
+    "Russian",
+    "Arabic",
+    "Hindi",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-main.926",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.926/"
+}

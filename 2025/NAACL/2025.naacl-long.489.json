@@ -1,0 +1,37 @@
+{
+  "title": "M2Lingual: Enhancing Multilingual, Multi-Turn Instruction Alignment in Large Language Models",
+  "authors": [
+    "Rishabh Maheshwary",
+    "Vikas Yadav",
+    "Hoang Nguyen",
+    "Khyati Mahajan",
+    "Sathwik Tejaswi Madhusudhan"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish",
+    "Japanese",
+    "Dutch",
+    "Portuguese",
+    "Arabic",
+    "Assamese",
+    "Awadhi",
+    "Belarusian",
+    "Haitian Creole",
+    "Kirghiz",
+    "Burmese",
+    "Nepali",
+    "Somali",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.naacl-long.489",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.489/"
+}

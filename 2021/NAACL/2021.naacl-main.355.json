@@ -1,0 +1,24 @@
+{
+  "title": "Extracting a Knowledge Base of Mechanisms from COVID-19 Papers",
+  "authors": [
+    "Tom Hope",
+    "Aida Amini",
+    "David Wadden",
+    "Madeleine van Zuylen",
+    "Sravanthi Parasa",
+    "Eric Horvitz",
+    "Daniel Weld",
+    "Roy Schwartz",
+    "Hannaneh Hajishirzi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.naacl-main.355",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.355/"
+}

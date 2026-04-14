@@ -1,0 +1,22 @@
+{
+  "title": "Does Liking Yellow Imply Driving a School Bus? Semantic Leakage in Language Models",
+  "authors": [
+    "Hila Gonen",
+    "Terra Blevins",
+    "Alisa Liu",
+    "Luke Zettlemoyer",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.naacl-long.35",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.35/"
+}

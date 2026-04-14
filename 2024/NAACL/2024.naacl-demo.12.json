@@ -1,0 +1,22 @@
+{
+  "title": "LMFlow: An Extensible Toolkit for Finetuning and Inference of Large Foundation Models",
+  "authors": [
+    "Shizhe Diao",
+    "Rui Pan",
+    "Hanze Dong",
+    "KaShun Shum",
+    "Jipeng Zhang",
+    "Wei Xiong",
+    "Tong Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.naacl-demo.12",
+  "acl_url": "https://aclanthology.org/2024.naacl-demo.12/"
+}

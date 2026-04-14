@@ -1,0 +1,23 @@
+{
+  "title": "FOLLOWIR: Evaluating and Teaching Information Retrieval Models to Follow Instructions",
+  "authors": [
+    "Orion Weller",
+    "Benjamin Chang",
+    "Sean MacAvaney",
+    "Kyle Lo",
+    "Arman Cohan",
+    "Benjamin Van Durme",
+    "Dawn Lawrie",
+    "Luca Soldaini"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-long.597",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.597/"
+}

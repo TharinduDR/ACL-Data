@@ -1,0 +1,23 @@
+{
+  "title": "Unilaw-R1: A Large Language Model for Legal Reasoning with Reinforcement Learning and Iterative Inference",
+  "authors": [
+    "Hua Cai",
+    "Shuang Zhao",
+    "Liang Zhang",
+    "Xuli Shen",
+    "Qing Xu",
+    "Weilin Shen",
+    "Zihao Wen",
+    "Tianke Ban"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.915",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.915/"
+}

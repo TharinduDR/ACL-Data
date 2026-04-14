@@ -1,0 +1,29 @@
+{
+  "title": "ContrastiveMix: Overcoming Code-Mixing Dilemma in Cross-Lingual Transfer for Information Retrieval",
+  "authors": [
+    "Junggeun Do",
+    "Jaeseong Lee",
+    "Seung-won Hwang"
+  ],
+  "languages": [
+    "Arabic",
+    "Thai",
+    "Japanese",
+    "Korean",
+    "Indonesian",
+    "Finnish",
+    "Russian",
+    "Bengali",
+    "Chinese",
+    "Hindi",
+    "Persian",
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.naacl-short.17",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.17/"
+}

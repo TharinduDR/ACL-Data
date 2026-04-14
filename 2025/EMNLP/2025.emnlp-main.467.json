@@ -1,0 +1,21 @@
+{
+  "title": "Steering LLM Reasoning Through Bias-Only Adaptation",
+  "authors": [
+    "Viacheslav Sinii",
+    "Alexey Gorbatovski",
+    "Artem Cherepanov",
+    "Boris Shaposhnikov",
+    "Nikita Balagansky",
+    "Daniil Gavrilov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.467",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.467/"
+}

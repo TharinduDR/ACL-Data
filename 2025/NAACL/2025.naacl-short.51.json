@@ -1,0 +1,51 @@
+{
+  "title": "How do Multimodal Foundation Models Encode Text and Speech? An Analysis of Cross-Lingual and Cross-Modal Representations",
+  "authors": [
+    "Hyunji Lee",
+    "Danni Liu",
+    "Supriti Sinhamahapatra",
+    "Jan Niehues"
+  ],
+  "languages": [
+    "Arabic",
+    "Assamese",
+    "Bulgarian",
+    "Chinese",
+    "Catalan",
+    "German",
+    "Greek",
+    "English",
+    "Estonian",
+    "Finnish",
+    "Hebrew",
+    "Hindi",
+    "Armenian",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Georgian",
+    "Khmer",
+    "Korean",
+    "Lao",
+    "Lithuanian",
+    "Malayalam",
+    "Marathi",
+    "Persian",
+    "Russian",
+    "Shona",
+    "Sindhi",
+    "Swahili",
+    "Tamil",
+    "Telugu",
+    "Thai",
+    "Turkish",
+    "Cantonese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.naacl-short.51",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.51/"
+}

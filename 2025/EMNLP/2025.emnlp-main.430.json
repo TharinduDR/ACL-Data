@@ -1,0 +1,21 @@
+{
+  "title": "AnchorAttention: Difference-Aware Sparse Attention with Stripe Granularity",
+  "authors": [
+    "Yu Zhang",
+    "Dong Guo",
+    "Fang Wu",
+    "Guoliang Zhu",
+    "Dian Ding",
+    "Yiming Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.emnlp-main.430",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.430/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "ShadowLLM: Predictor-based Contextual Sparsity for Large Language Models",
+  "authors": [
+    "Yash Akhauri",
+    "Ahmed F. AbouElhamayed",
+    "Jordan Dotzel",
+    "Zhiru Zhang",
+    "Alexander M. Rush",
+    "Safeen Huda",
+    "Mohamed S. Abdelfattah"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-main.1068",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1068/"
+}

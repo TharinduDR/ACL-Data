@@ -1,0 +1,34 @@
+{
+  "title": "The Effect of Data Partitioning Strategy on Model Generalizability: A Case Study of Morphological Segmentation",
+  "authors": [
+    "Zoey Liu",
+    "Bonnie J. Dorr"
+  ],
+  "languages": [
+    "Mexicanero",
+    "Nahuatl",
+    "Yorem Nokki",
+    "Wixarika",
+    "Raramuri",
+    "Popoloca",
+    "Tepehua",
+    "Shipibo-Konibo",
+    "Seneca",
+    "Hupa",
+    "English",
+    "German",
+    "Finnish",
+    "Turkish",
+    "Indonesian",
+    "Zulu",
+    "Akan",
+    "Swahili",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.157",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.157/"
+}

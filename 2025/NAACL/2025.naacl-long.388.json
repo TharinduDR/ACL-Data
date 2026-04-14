@@ -1,0 +1,35 @@
+{
+  "title": "Navigating the Cultural Kaleidoscope: A Hitchhiker's Guide to Sensitivity in Large Language Models",
+  "authors": [
+    "Somnath Banerjee",
+    "Sayan Layek",
+    "Hari Shrawgi",
+    "Rajarshi Mandal",
+    "Avik Halder",
+    "Shanu Kumar",
+    "Sagnik Basu",
+    "Parag Agrawal",
+    "Rima Hazra",
+    "Animesh Mukherjee"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Chinese",
+    "Hindi",
+    "Japanese",
+    "Russian",
+    "German",
+    "Korean",
+    "Spanish",
+    "Portuguese",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-long.388",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.388/"
+}

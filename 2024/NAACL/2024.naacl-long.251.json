@@ -1,0 +1,29 @@
+{
+  "title": "TOFUEVAL: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue Summarization",
+  "authors": [
+    "Liyan Tang",
+    "Igor Shalyminov",
+    "Amy Wing-mei Wong",
+    "Jon Burnsky",
+    "Jake W. Vincent",
+    "Yu'an Yang",
+    "Siffi Singh",
+    "Song Feng",
+    "Hwanjun Song",
+    "Hang Su",
+    "Lijia Sun",
+    "Yi Zhang",
+    "Saab Mansour",
+    "Kathleen McKeown"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.naacl-long.251",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.251/"
+}

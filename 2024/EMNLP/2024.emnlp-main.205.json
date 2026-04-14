@@ -1,0 +1,22 @@
+{
+  "title": "CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering",
+  "authors": [
+    "Yike Wu",
+    "Yi Huang",
+    "Nan Hu",
+    "Yuncheng Hua",
+    "Guilin Qi",
+    "Jiaoyan Chen",
+    "Jeff Z. Pan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.emnlp-main.205",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.205/"
+}

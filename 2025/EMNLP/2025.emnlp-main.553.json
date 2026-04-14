@@ -1,0 +1,18 @@
+{
+  "title": "LLMs cannot spot math errors, even when allowed to peek into the solution",
+  "authors": [
+    "KV Aditya Srivatsa",
+    "Kaushal Kumar Maurya",
+    "Ekaterina Kochmar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.553",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.553/"
+}

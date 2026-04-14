@@ -1,0 +1,26 @@
+{
+  "title": "Not All Metrics Are Guilty: Improving NLG Evaluation by Diversifying References",
+  "authors": [
+    "Tianyi Tang",
+    "Hongyuan Lu",
+    "Yuchen Eleanor Jiang",
+    "Haoyang Huang",
+    "Dongdong Zhang",
+    "Wayne Xin Zhao",
+    "Tom Kocmi",
+    "Furu Wei"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.367",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.367/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Merge then ReAlign: Simple and Effective Modality-Incremental Continual Learning for Multimodal LLMs",
+  "authors": [
+    "Dingkun Zhang",
+    "Shuhan Qi",
+    "Xinyu Xiao",
+    "Kehai Chen",
+    "Xuan Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Audio",
+    "Video",
+    "Point Cloud"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.emnlp-main.665",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.665/"
+}

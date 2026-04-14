@@ -1,0 +1,26 @@
+{
+  "title": "StorySparkQA: Expert-Annotated QA Pairs with Real-World Knowledge for Children's Story-Based Learning",
+  "authors": [
+    "Jiaju Chen",
+    "Yuxuan Lu",
+    "Shao Zhang",
+    "Bingsheng Yao",
+    "Yuanzhe Dong",
+    "Ying Xu",
+    "Yunyao Li",
+    "Qianwen Wang",
+    "Dakuo Wang",
+    "Yuling Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.emnlp-main.961",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.961/"
+}

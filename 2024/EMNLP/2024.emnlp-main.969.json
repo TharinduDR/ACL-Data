@@ -1,0 +1,20 @@
+{
+  "title": "ClimRetrieve: A Benchmarking Dataset for Information Retrieval from Corporate Climate Disclosures",
+  "authors": [
+    "Tobias Schimanski",
+    "Jingwei Ni",
+    "Roberto Spacey",
+    "Nicola Ranger",
+    "Markus Leippold"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.emnlp-main.969",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.969/"
+}

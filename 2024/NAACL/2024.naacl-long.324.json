@@ -1,0 +1,18 @@
+{
+  "title": "BPE-knockout: Pruning Pre-existing BPE Tokenisers with Backwards-compatible Morphological Semi-supervision",
+  "authors": [
+    "Thomas Bauwens",
+    "Pieter Delobelle"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.naacl-long.324",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.324/"
+}

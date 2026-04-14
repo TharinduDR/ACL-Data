@@ -1,0 +1,25 @@
+{
+  "title": "Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency",
+  "authors": [
+    "Svetlana Maslenkova",
+    "Clément Christophe",
+    "Marco AF Pimentel",
+    "Tathagata Raha",
+    "Muhammad Umar Salman",
+    "Ahmed Al-Mahrooqi",
+    "Avani Gupta",
+    "Shadab Khan",
+    "Ronnie Rajan",
+    "Praveenkumar Kanithi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.emnlp-main.1174",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1174/"
+}

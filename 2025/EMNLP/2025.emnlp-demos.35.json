@@ -1,0 +1,23 @@
+{
+  "title": "SynthTextEval: Synthetic Text Data Generation and Evaluation for High-Stakes Domains",
+  "authors": [
+    "Krithika Ramesh",
+    "Daniel Smolyak",
+    "Zihao Zhao",
+    "Nupoor Gandhi",
+    "Ritu Agarwal",
+    "Margrét Bjarnadóttir",
+    "Anjali Field"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.emnlp-demos.35",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.35/"
+}

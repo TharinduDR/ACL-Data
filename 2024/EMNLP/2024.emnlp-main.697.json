@@ -1,0 +1,22 @@
+{
+  "title": "Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent",
+  "authors": [
+    "Xiaoyan Yu",
+    "Tongxu Luo",
+    "Yifan Wei",
+    "Fangyu Lei",
+    "Yiming Huang",
+    "Hao Peng",
+    "Liehuang Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.697",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.697/"
+}

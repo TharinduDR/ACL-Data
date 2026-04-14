@@ -1,0 +1,25 @@
+{
+  "title": "Ouroboros: Generating Longer Drafts Phrase by Phrase for Faster Speculative Decoding",
+  "authors": [
+    "Weilin Zhao",
+    "Yuxiang Huang",
+    "Xu Han",
+    "Wang Xu",
+    "Chaojun Xiao",
+    "Xinrong Zhang",
+    "Yewei Fang",
+    "Kaihao Zhang",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.emnlp-main.742",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.742/"
+}

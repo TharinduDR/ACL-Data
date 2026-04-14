@@ -1,0 +1,27 @@
+{
+  "title": "On the Effect of Pretraining Corpora on In-context Learning by a Large-scale Language Model",
+  "authors": [
+    "Seongjin Shin",
+    "Sang-Woo Lee",
+    "Hwijeen Ahn",
+    "Sungdong Kim",
+    "HyoungSeok Kim",
+    "Boseop Kim",
+    "Kyunghyun Cho",
+    "Gichang Lee",
+    "Woomyoung Park",
+    "Jung-Woo Ha",
+    "Nako Sung"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.naacl-main.380",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.380/"
+}

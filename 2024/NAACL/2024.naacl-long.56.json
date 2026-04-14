@@ -1,0 +1,26 @@
+{
+  "title": "MEDIT: Multilingual Text Editing via Instruction Tuning",
+  "authors": [
+    "Vipul Raheja",
+    "Dimitris Alikaniotis",
+    "Vivek Kulkarni",
+    "Bashar Alhafni",
+    "Dhruv Kumar"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "German",
+    "Japanese",
+    "Korean",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T29",
+    "T19",
+    "T14"
+  ],
+  "paper_id": "2024.naacl-long.56",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.56/"
+}

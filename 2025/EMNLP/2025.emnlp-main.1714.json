@@ -1,0 +1,18 @@
+{
+  "title": "seqBench: A Tunable Benchmark to Quantify Sequential Reasoning Limits of LLMs",
+  "authors": [
+    "M.R. Ramezanali",
+    "M. Vazifeh",
+    "P. Santi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.1714",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1714/"
+}

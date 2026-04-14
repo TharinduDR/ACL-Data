@@ -1,0 +1,29 @@
+{
+  "title": "Prepending or Cross-Attention for Speech-to-Text? An Empirical Comparison",
+  "authors": [
+    "Tsz Kin Lam",
+    "Marco Gaido",
+    "Sara Papi",
+    "Luisa Bentivogli",
+    "Barry Haddow"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Spanish",
+    "Chinese",
+    "Catalan"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.naacl-long.153",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.153/"
+}

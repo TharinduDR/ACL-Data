@@ -1,0 +1,20 @@
+{
+  "title": "Multiple-Question Multiple-Answer Text-VQA",
+  "authors": [
+    "Peng Tang",
+    "Srikar Appalaraju",
+    "R. Manmatha",
+    "Yusheng Xie",
+    "Vijay Mahadevan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering",
+    "T17 Multimodality, Cross-modality",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2024.naacl-industry.7",
+  "acl_url": "https://aclanthology.org/2024.naacl-industry.7/"
+}

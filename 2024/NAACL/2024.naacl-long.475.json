@@ -1,0 +1,19 @@
+{
+  "title": "Semi-Structured Chain-of-Thought: Integrating Multiple Sources of Knowledge for Improved Language Model Reasoning",
+  "authors": [
+    "Xin Su",
+    "Tiep Le",
+    "Steven Bethard",
+    "Phillip Howard"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.naacl-long.475",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.475/"
+}

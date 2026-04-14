@@ -1,0 +1,27 @@
+{
+  "title": "VIEWS: Entity-Aware News Video Captioning",
+  "authors": [
+    "Hammad Ayyubi",
+    "Tianqi Liu",
+    "Arsha Nagrani",
+    "Xudong Lin",
+    "Mingda Zhang",
+    "Anurag Arnab",
+    "Feng Han",
+    "Yukun Zhu",
+    "Xuande Feng",
+    "Kevin Zhang",
+    "Jialu Liu",
+    "Shih-Fu Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.emnlp-main.1128",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1128/"
+}

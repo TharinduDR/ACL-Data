@@ -1,0 +1,22 @@
+{
+  "title": "PathwiseRAG: Multi-Dimensional Exploration and Integration Framework",
+  "authors": [
+    "Hengrui Zhang",
+    "Pin-Siang Huang",
+    "Zhen Zhang",
+    "Peican Lin",
+    "Yao-Ching Yu",
+    "Bo Hu",
+    "Yulu Du"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.1167",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1167/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "CoRAC: Integrating Selective API Document Retrieval with Question Semantic Intent for Code Question Answering",
+  "authors": [
+    "YunSeok Choi",
+    "CheolWon Na",
+    "Jee-Hyong Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.naacl-long.628",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.628/"
+}

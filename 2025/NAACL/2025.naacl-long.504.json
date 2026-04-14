@@ -1,0 +1,23 @@
+{
+  "title": "MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps",
+  "authors": [
+    "Xiongtao Zhou",
+    "Jie He",
+    "Lanyu Chen",
+    "Jingyu Li",
+    "Haojing Chen",
+    "Víctor Gutiérrez-Basulto",
+    "Jeff Z. Pan",
+    "Hanjie Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.naacl-long.504",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.504/"
+}

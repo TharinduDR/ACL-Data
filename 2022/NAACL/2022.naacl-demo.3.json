@@ -1,0 +1,19 @@
+{
+  "title": "TurkishDelightNLP: A Neural Turkish NLP Toolkit",
+  "authors": [
+    "Hüseyin Aleçakır",
+    "Necva Bölücü",
+    "Burcu Can"
+  ],
+  "languages": [
+    "Turkish",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2022.naacl-demo.3",
+  "acl_url": "https://aclanthology.org/2022.naacl-demo.3/"
+}

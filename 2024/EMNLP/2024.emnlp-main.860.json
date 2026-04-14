@@ -1,0 +1,23 @@
+{
+  "title": "Ladder: A Model-Agnostic Framework Boosting LLM-based Machine Translation to the Next Level",
+  "authors": [
+    "Zhaopeng Feng",
+    "Ruizhe Chen",
+    "Yan Zhang",
+    "Zijie Meng",
+    "Zuozhu Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "Russian",
+    "Czech",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2024.emnlp-main.860",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.860/"
+}

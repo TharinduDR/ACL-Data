@@ -1,0 +1,23 @@
+{
+  "title": "Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion",
+  "authors": [
+    "Muzhi Li",
+    "Cehao Yang",
+    "Chengjin Xu",
+    "Xuhui Jiang",
+    "Yiyan Qi",
+    "Jian Guo",
+    "Ho-fung Leung",
+    "Irwin King"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.naacl-long.221",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.221/"
+}

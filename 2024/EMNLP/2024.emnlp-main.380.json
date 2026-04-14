@@ -1,0 +1,33 @@
+{
+  "title": "Understanding and Mitigating Language Confusion in LLMs",
+  "authors": [
+    "Kelly Marchisio",
+    "Wei-Yin Ko",
+    "Alexandre Bérard",
+    "Théo Dehaze",
+    "Sebastian Ruder"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Chinese",
+    "Portuguese",
+    "Turkish",
+    "Vietnamese",
+    "Indonesian",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.380",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.380/"
+}

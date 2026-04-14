@@ -1,0 +1,24 @@
+{
+  "title": "REIC: RAG-Enhanced Intent Classification at Scale",
+  "authors": [
+    "Ziji Zhang",
+    "Michael Yang",
+    "Zhiyu Chen",
+    "Yingying Zhuang",
+    "Shu-Ting Pi",
+    "Qun Liu",
+    "Rajashekar Maragoud",
+    "Vy Nguyen",
+    "Anurag Beniwal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.emnlp-industry.74",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.74/"
+}

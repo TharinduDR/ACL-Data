@@ -1,0 +1,25 @@
+{
+  "title": "InfoGain-RAG: Boosting Retrieval-Augmented Generation through Document Information Gain-based Reranking and Filtering",
+  "authors": [
+    "Zihan Wang",
+    "Zihan Liang",
+    "Zhou Shao",
+    "Yufei Ma",
+    "Huangyu Dai",
+    "Ben Chen",
+    "Lingtao Mao",
+    "Chenyi Lei",
+    "Yuqing Ding",
+    "Han Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.365",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.365/"
+}

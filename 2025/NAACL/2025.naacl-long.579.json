@@ -1,0 +1,23 @@
+{
+  "title": "ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding",
+  "authors": [
+    "Kimihiro Hasegawa",
+    "Wiradee Imrattanatrai",
+    "Zhi-Qi Cheng",
+    "Masaki Asada",
+    "Susan Holm",
+    "Yuran Wang",
+    "Ken Fukuda",
+    "Teruko Mitamura"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.naacl-long.579",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.579/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Disambiguation in Conversational Question Answering in the Era of LLMs and Agents: A Survey",
+  "authors": [
+    "Md Mehrab Tanjim",
+    "Yeonjun In",
+    "Xiang Chen",
+    "Victor S. Bursztyn",
+    "Ryan A. Rossi",
+    "Sungchul Kim",
+    "Guang-Jie Ren",
+    "Vaishnavi Muppala",
+    "Shun Jiang",
+    "Yongsung Kim",
+    "Chanyoung Park"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.482",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.482/"
+}

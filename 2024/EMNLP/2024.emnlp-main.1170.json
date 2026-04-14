@@ -1,0 +1,40 @@
+{
+  "title": "A Morphology-Based Investigation of Positional Encodings",
+  "authors": [
+    "Poulami Ghosh",
+    "Shikhar Vashishth",
+    "Raj Dabre",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "Arabic",
+    "Basque",
+    "Bengali",
+    "Bulgarian",
+    "Chinese",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Greek",
+    "Hebrew",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.1170",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1170/"
+}

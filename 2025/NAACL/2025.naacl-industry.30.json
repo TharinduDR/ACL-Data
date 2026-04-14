@@ -1,0 +1,22 @@
+{
+  "title": "QueryShield: A Platform to Mitigate Enterprise Data Leakage in Queries to External LLMs",
+  "authors": [
+    "Nitin Ramrakhiyani",
+    "Delton Myalil",
+    "Sachin Pawar",
+    "Manoj Apte",
+    "Rajan M A",
+    "Divyesh Saglani",
+    "Imtiyazuddin Shaik"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-industry.30",
+  "acl_url": "https://aclanthology.org/2025.naacl-industry.30/"
+}

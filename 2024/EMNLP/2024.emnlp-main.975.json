@@ -1,0 +1,23 @@
+{
+  "title": "LLoCO: Learning Long Contexts Offline",
+  "authors": [
+    "Sijun Tan",
+    "Xiuyu Li",
+    "Shishir Patil",
+    "Ziyang Wu",
+    "Tianjun Zhang",
+    "Kurt Keutzer",
+    "Joeseph E. Gonzalez",
+    "Ralucă Ada Popa"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.975",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.975/"
+}

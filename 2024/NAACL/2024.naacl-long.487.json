@@ -1,0 +1,23 @@
+{
+  "title": "IndiBias: A Benchmark Dataset to Measure Social Biases in Language Models for Indian Context",
+  "authors": [
+    "Nihar Ranjan Sahoo",
+    "Pranamya Prashant Kulkarni",
+    "Narjis Asad",
+    "Arif Ahmad",
+    "Tanu Goyal",
+    "Aparna Garimella",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2024.naacl-long.487",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.487/"
+}

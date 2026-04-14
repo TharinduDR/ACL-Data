@@ -1,0 +1,28 @@
+{
+  "title": "How do Language Models Reshape Entity Alignment? A Survey of LM-Driven EA Methods: Advances, Benchmarks, and Future",
+  "authors": [
+    "Zerui Chen",
+    "Huiming Fan",
+    "Qianyu Wang",
+    "Tao He",
+    "Ming Liu",
+    "Heng Chang",
+    "Weijiang Yu",
+    "Ze Li",
+    "Bing Qin"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "Japanese",
+    "German"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1184",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1184/"
+}

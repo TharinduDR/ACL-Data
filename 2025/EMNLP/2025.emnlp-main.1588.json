@@ -1,0 +1,20 @@
+{
+  "title": "X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning",
+  "authors": [
+    "Prasanna Reddy Pulakurthi",
+    "Jiamian Wang",
+    "Majid Rabbani",
+    "Sohail Dianat",
+    "Raghuveer Rao",
+    "Zhiqiang Tao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.1588",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1588/"
+}

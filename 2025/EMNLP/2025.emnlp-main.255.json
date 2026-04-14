@@ -1,0 +1,32 @@
+{
+  "title": "MIO: A Foundation Model on Multimodal Tokens",
+  "authors": [
+    "Zekun Wang",
+    "King Zhu",
+    "Chunpu Xu",
+    "Wangchunshu Zhou",
+    "Jiaheng Liu",
+    "Yibo Zhang",
+    "Jiashuo Wang",
+    "Ning Shi",
+    "Siyu Li",
+    "Yizhi Li",
+    "Haoran Que",
+    "Zhaoxiang Zhang",
+    "Yuanxing Zhang",
+    "Ge Zhang",
+    "Ke Xu",
+    "Jie Fu",
+    "Wenhao Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.emnlp-main.255",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.255/"
+}

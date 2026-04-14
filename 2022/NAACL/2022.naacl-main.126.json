@@ -1,0 +1,25 @@
+{
+  "title": "A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation",
+  "authors": [
+    "Kexun Zhang",
+    "Rui Wang",
+    "Xu Tan",
+    "Junliang Guo",
+    "Yi Ren",
+    "Tao Qin",
+    "Tie-Yan Liu"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Finnish",
+    "German",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.naacl-main.126",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.126/"
+}

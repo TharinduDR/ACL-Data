@@ -1,0 +1,23 @@
+{
+  "title": "LATTE: Learning Aligned Transactions and Textual Embeddings for Bank Clients",
+  "authors": [
+    "Egor Fadeev",
+    "Dzhambulat Mollaev",
+    "Aleksei Shestov",
+    "Dmitry Korolev",
+    "Omar Zoloiev",
+    "Ivan Kireev",
+    "Andrey Savchenko",
+    "Maksim Makarenko"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-industry.179",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.179/"
+}

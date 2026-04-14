@@ -1,0 +1,26 @@
+{
+  "title": "AdaSteer: Your Aligned LLM is Inherently an Adaptive Jailbreak Defender",
+  "authors": [
+    "Weixiang Zhao",
+    "Jiahe Guo",
+    "Yulin Hu",
+    "Yang Deng",
+    "An Zhang",
+    "Xingyu Sui",
+    "Xinyang Han",
+    "Yanyan Zhao",
+    "Bing Qin",
+    "Tat-Seng Chua",
+    "Ting Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.1248",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1248/"
+}

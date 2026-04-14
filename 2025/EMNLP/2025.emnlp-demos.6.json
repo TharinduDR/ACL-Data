@@ -1,0 +1,33 @@
+{
+  "title": "The iRead4Skills Intelligent Complexity Analyzer",
+  "authors": [
+    "Wafa Aissa",
+    "Raquel Amaro",
+    "David Antunes",
+    "Thibault Bañeras-Roux",
+    "Jorge Baptista",
+    "Alejandro Catala",
+    "Luís Correia",
+    "Thomas François",
+    "Marcos Garcia",
+    "Mario Izquierdo-Álvarez",
+    "Nuno Mamede",
+    "Vasco Martins",
+    "Miguel Neves",
+    "Eugénio Ribeiro",
+    "Sandra Rodríguez Rey",
+    "Elodie Vanzeveren"
+  ],
+  "languages": [
+    "Portuguese",
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-demos.6",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.6/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Distill-C: Enhanced NL2SQL via Distilled Customization with LLMs",
+  "authors": [
+    "Cong Duy Vu Hoang",
+    "Gioacchino Tangari",
+    "Clemence Lanfranchi",
+    "Dalu Guo",
+    "Paul Cayet",
+    "Steve Siu",
+    "Don Dharmasiri",
+    "Yuan-Fang Li",
+    "Long Duong",
+    "Damien Hilloulin",
+    "Rhicheek Patra",
+    "Sungpack Hong",
+    "Hassan Chafi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-industry.64",
+  "acl_url": "https://aclanthology.org/2025.naacl-industry.64/"
+}

@@ -1,0 +1,46 @@
+{
+  "title": "DEMUX: Data-efficient Multilingual Learning",
+  "authors": [
+    "Simran Khanuja",
+    "Srinivas Gowriraj",
+    "Lucio Dery",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Turkish",
+    "Urdu",
+    "Bengali",
+    "Finnish",
+    "Arabic",
+    "Bulgarian",
+    "Greek",
+    "Thai",
+    "Swahili",
+    "Korean",
+    "Indonesian",
+    "Malay",
+    "Hebrew",
+    "Japanese",
+    "Persian",
+    "Tamil",
+    "Vietnamese",
+    "Yoruba",
+    "Chinese",
+    "Cantonese",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.naacl-long.412",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.412/"
+}

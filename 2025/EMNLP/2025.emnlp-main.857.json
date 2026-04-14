@@ -1,0 +1,27 @@
+{
+  "title": "ReviewRL: Towards Automated Scientific Review with RL",
+  "authors": [
+    "Sihang Zeng",
+    "Kai Tian",
+    "Kaiyan Zhang",
+    "Yuru Wang",
+    "Junqi Gao",
+    "Runze Liu",
+    "Sa Yang",
+    "Jingxuan Li",
+    "Xinwei Long",
+    "Jiaheng Ma",
+    "Biqing Qi",
+    "Bowen Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T19 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.857",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.857/"
+}

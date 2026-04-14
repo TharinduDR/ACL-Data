@@ -1,0 +1,24 @@
+{
+  "title": "The Sound of Syntax: Finetuning and Comprehensive Evaluation of Language Models for Speech Pathology",
+  "authors": [
+    "Fagun Patel",
+    "Duc Q. Nguyen",
+    "Sang T. Truong",
+    "Jody Vaynshtok",
+    "Sanmi Koyejo",
+    "Nick Haber"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Cantonese",
+    "Taiwanese"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1768",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1768/"
+}

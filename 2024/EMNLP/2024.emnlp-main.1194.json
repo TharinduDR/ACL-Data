@@ -1,0 +1,19 @@
+{
+  "title": "COMPACT: Compressing Retrieved Documents Actively for Question Answering",
+  "authors": [
+    "Chanwoong Yoon",
+    "Taehwoo Lee",
+    "Hyeon Hwang",
+    "Minbyul Jeong",
+    "Jaewoo Kang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.emnlp-main.1194",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1194/"
+}

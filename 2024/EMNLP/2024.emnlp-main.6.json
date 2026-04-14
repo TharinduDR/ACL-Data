@@ -1,0 +1,25 @@
+{
+  "title": "ImageInWords: Unlocking Hyper-Detailed Image Descriptions",
+  "authors": [
+    "Roopal Garg",
+    "Andrea Burns",
+    "Burcu Karagol Ayan",
+    "Yonatan Bitton",
+    "Ceslee Montgomery",
+    "Yasumasa Onoe",
+    "Andrew Bunner",
+    "Ranjay Krishna",
+    "Jason Baldridge",
+    "Radu Soricut"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.6",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.6/"
+}

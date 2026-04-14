@@ -1,0 +1,22 @@
+{
+  "title": "Can Large Language Models Translate Spoken-Only Languages through International Phonetic Transcription?",
+  "authors": [
+    "Jiale Chen",
+    "Xuelian Dong",
+    "Qihao Yang",
+    "Wenxiu Xie",
+    "Tianyong Hao"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Bai"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.emnlp-main.1195",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1195/"
+}

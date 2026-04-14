@@ -1,0 +1,22 @@
+{
+  "title": "ConfReady: A RAG based Assistant and Dataset for Conference Checklist Responses",
+  "authors": [
+    "Michael Galarnyk",
+    "Rutwik Routu",
+    "Vidhyakshaya Kannan",
+    "Kosha Bheda",
+    "Prasun Banerjee",
+    "Agam Shah",
+    "Sudheer Chava"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-demos.49",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.49/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Improving Classification of Infrequent Cognitive Distortions: Domain-Specific Model vs. Data Augmentation",
+  "authors": [
+    "Xiruo Ding",
+    "Kevin Lybarger",
+    "Justin S. Tauscher",
+    "Trevor Cohen"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.naacl-srw.9",
+  "acl_url": "https://aclanthology.org/2022.naacl-srw.9/"
+}

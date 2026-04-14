@@ -1,0 +1,23 @@
+{
+  "title": "REPLUG: Retrieval-Augmented Black-Box Language Models",
+  "authors": [
+    "Weijia Shi",
+    "Sewon Min",
+    "Michihiro Yasunaga",
+    "Minjoon Seo",
+    "Rich James",
+    "Mike Lewis",
+    "Luke Zettlemoyer",
+    "Wen-tau Yih"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.naacl-long.463",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.463/"
+}

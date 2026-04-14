@@ -1,0 +1,24 @@
+{
+  "title": "PREALIGN: Boosting Cross-Lingual Transfer by Early Establishment of Multilingual Alignment",
+  "authors": [
+    "Jiahuan Li",
+    "Shujian Huang",
+    "Aarron Ching",
+    "Xinyu Dai",
+    "Jiajun Chen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Arabic",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.572",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.572/"
+}

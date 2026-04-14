@@ -1,0 +1,21 @@
+{
+  "title": "Worldly Wise (WoW) - Cross-Lingual Knowledge Fusion for Fact-based Visual Spoken-Question Answering",
+  "authors": [
+    "Kiran Ramnath",
+    "Leda Sari",
+    "Mark Hasegawa-Johnson",
+    "Chang Yoo"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2021.naacl-main.153",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.153/"
+}

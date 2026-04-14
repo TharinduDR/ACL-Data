@@ -1,0 +1,23 @@
+{
+  "title": "Capturing Row and Column Semantics in Transformer Based Question Answering over Tables",
+  "authors": [
+    "Michael Glass",
+    "Mustafa Canim",
+    "Alfio Gliozzo",
+    "Saneem Chemmengath",
+    "Vishwajeet Kumar",
+    "Rishav Chakravarti",
+    "Avirup Sil",
+    "Feifei Pan",
+    "Samarth Bharadwaj",
+    "Nicolas Rodolfo Fauceglia"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2021.naacl-main.96",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.96/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "DECOR: Improving Coherence in L2 English Writing with a Novel Benchmark for Incoherence Detection, Reasoning, and Rewriting",
+  "authors": [
+    "Xuanming Zhang",
+    "Anthony Diaz",
+    "Zixun Chen",
+    "Qingyang Wu",
+    "Kun Qian",
+    "Erik Voss",
+    "Zhou Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.639",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.639/"
+}

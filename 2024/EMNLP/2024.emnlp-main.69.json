@@ -1,0 +1,22 @@
+{
+  "title": "LLMs Are Zero-Shot Context-Aware Simultaneous Translators",
+  "authors": [
+    "Roman Koshkin",
+    "Katsuhito Sudoh",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Russian",
+    "Italian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.emnlp-main.69",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.69/"
+}

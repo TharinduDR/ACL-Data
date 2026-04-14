@@ -1,0 +1,18 @@
+{
+  "title": "Eliciting Critical Reasoning in Retrieval-Augmented Generation via Contrastive Explanations",
+  "authors": [
+    "Leonardo Ranaldi",
+    "Marco Valentino",
+    "André Freitas"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-long.557",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.557/"
+}

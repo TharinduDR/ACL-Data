@@ -1,0 +1,23 @@
+{
+  "title": "A Case Against Implicit Standards: Homophone Normalization in Machine Translation for Languages that Use the Ge'ez Script",
+  "authors": [
+    "Hellina Hailu Nigatu",
+    "Atnafu Lambebo Tonja",
+    "Henok Biadglin Ademtew",
+    "Hizkel Mitiku Alemayehu",
+    "Negasi Haile Abadi",
+    "Tadesse Destaw Belay",
+    "Seid Muhie Yimam"
+  ],
+  "languages": [
+    "Amharic",
+    "Tigrinya",
+    "Ge'ez"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.523",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.523/"
+}

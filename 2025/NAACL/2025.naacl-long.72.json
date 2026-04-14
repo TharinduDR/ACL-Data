@@ -1,0 +1,32 @@
+{
+  "title": "Large Language Models Are Cross-Lingual Knowledge-Free Reasoners",
+  "authors": [
+    "Peng Hu",
+    "Sizhe Liu",
+    "Changjiang Gao",
+    "Xin Huang",
+    "Xue Han",
+    "Junlan Feng",
+    "Chao Deng",
+    "Shujian Huang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Russian",
+    "Polish",
+    "Arabic",
+    "Hebrew",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.naacl-long.72",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.72/"
+}

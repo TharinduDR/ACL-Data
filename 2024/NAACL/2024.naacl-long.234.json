@@ -1,0 +1,22 @@
+{
+  "title": "XNLIeu: a dataset for cross-lingual NLI in Basque",
+  "authors": [
+    "Maite Heredia",
+    "Julen Etxaniz",
+    "Muitze Zulaika",
+    "Xabier Saralegi",
+    "Jeremy Barnes",
+    "Aitor Soroa"
+  ],
+  "languages": [
+    "English",
+    "Basque"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.234",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.234/"
+}

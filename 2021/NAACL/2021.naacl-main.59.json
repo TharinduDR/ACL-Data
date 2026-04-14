@@ -1,0 +1,21 @@
+{
+  "title": "Few-shot Intent Classification and Slot Filling with Retrieved Examples",
+  "authors": [
+    "Dian Yu",
+    "Luheng He",
+    "Yuan Zhang",
+    "Xinya Du",
+    "Panupong Pasupat",
+    "Qi Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.naacl-main.59",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.59/"
+}

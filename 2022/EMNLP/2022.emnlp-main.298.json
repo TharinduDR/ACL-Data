@@ -71,10 +71,12 @@
     "Luo",
     "Mossi",
     "Chichewa",
-    "Shona",
+    "ChiShona",
     "Setswana",
     "Akan",
-    "Wolof"
+    "Wolof",
+    "isiXhosa",
+    "isiZulu"
   ],
   "research_areas": [
     "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",

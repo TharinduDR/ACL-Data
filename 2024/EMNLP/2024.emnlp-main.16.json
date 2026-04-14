@@ -1,0 +1,19 @@
+{
+  "title": "Systematic Biases in LLM Simulations of Debates",
+  "authors": [
+    "Amir Taubenfeld",
+    "Yaniv Dover",
+    "Roi Reichart",
+    "Ariel Goldstein"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2024.emnlp-main.16",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.16/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Rescorla-Wagner Steering of LLMs for Undesired Behaviors over Disproportionate Inappropriate Context",
+  "authors": [
+    "Rushi Wang",
+    "Jiateng Liu",
+    "Cheng Qian",
+    "Yifan Shen",
+    "Yanzhou Pan",
+    "Zhaozhao Xu",
+    "Ahmed Abbasi",
+    "Heng Ji",
+    "Denghui Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1003",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1003/"
+}

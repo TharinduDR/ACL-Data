@@ -1,0 +1,27 @@
+{
+  "title": "XOR QA: Cross-lingual Open-Retrieval Question Answering",
+  "authors": [
+    "Akari Asai",
+    "Jungo Kasai",
+    "Jonathan H. Clark",
+    "Kenton Lee",
+    "Eunsol Choi",
+    "Hannaneh Hajishirzi"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Finnish",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.naacl-main.46",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.46/"
+}

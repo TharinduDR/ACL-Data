@@ -1,0 +1,22 @@
+{
+  "title": "Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval",
+  "authors": [
+    "Yu Xia",
+    "Junda Wu",
+    "Sungchul Kim",
+    "Tong Yu",
+    "Ryan A. Rossi",
+    "Haoliang Wang",
+    "Julian McAuley"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-long.216",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.216/"
+}

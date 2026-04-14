@@ -1,0 +1,20 @@
+{
+  "title": "CTCC: A Robust and Stealthy Fingerprinting Framework for Large Language Models via Cross-Turn Contextual Correlation Backdoor",
+  "authors": [
+    "Zhenhua Xu",
+    "Xixiang Zhao",
+    "Xubin Yue",
+    "Shengwei Tian",
+    "Changting Lin",
+    "Meng Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.emnlp-main.356",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.356/"
+}

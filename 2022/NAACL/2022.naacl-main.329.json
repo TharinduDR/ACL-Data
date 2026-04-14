@@ -1,0 +1,26 @@
+{
+  "title": "Learning Cross-Lingual IR from an English Retriever",
+  "authors": [
+    "Yulong Li",
+    "Martin Franz",
+    "Md Arafat Sultan",
+    "Bhavani Iyer",
+    "Young-Suk Lee",
+    "Avirup Sil"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Finnish",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.naacl-main.329",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.329/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "TensorOpera Router: A Multi-Model Router for Efficient LLM Inference",
+  "authors": [
+    "Dimitris Stripelis",
+    "Zijian Hu",
+    "Jipeng Zhang",
+    "Zhaozhao Xu",
+    "Alay Dilipbhai Shah",
+    "Han Jin",
+    "Yuhang Yao",
+    "Tong Zhang",
+    "Salman Avestimehr",
+    "Chaoyang He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages",
+    "T26 Clinical/biomedical NLP",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.emnlp-industry.34",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.34/"
+}

@@ -10,9 +10,9 @@
     "English"
   ],
   "research_areas": [
-    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
-    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
-    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+    "T03",
+    "T10",
+    "T17"
   ],
   "paper_id": "2020.emnlp-main.145",
   "acl_url": "https://aclanthology.org/2020.emnlp-main.145/"

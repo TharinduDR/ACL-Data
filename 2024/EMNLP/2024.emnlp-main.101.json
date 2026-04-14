@@ -1,0 +1,21 @@
+{
+  "title": "Triad: A Framework Leveraging a Multi-Role LLM-based Agent to Solve Knowledge Base Question Answering",
+  "authors": [
+    "Chang Zong",
+    "Yuchen Yan",
+    "Weiming Lu",
+    "Jian Shao",
+    "Yongfeng Huang",
+    "Heng Chang",
+    "Yuetting Zhuang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.emnlp-main.101",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.101/"
+}

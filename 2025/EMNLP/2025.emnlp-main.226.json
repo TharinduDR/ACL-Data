@@ -1,0 +1,24 @@
+{
+  "title": "ChartMind: A Comprehensive Benchmark for Complex Real-world Multimodal Chart Question Answering",
+  "authors": [
+    "Jingxuan Wei",
+    "Nan Xu",
+    "Junnan Zhu",
+    "Yanni Hao",
+    "Gaowei Wu",
+    "Qi Chen",
+    "Bihui Yu",
+    "Lei Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.226",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.226/"
+}

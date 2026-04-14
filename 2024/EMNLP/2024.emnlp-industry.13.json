@@ -1,0 +1,22 @@
+{
+  "title": "PDFTriage: Question Answering over Long, Structured Documents",
+  "authors": [
+    "Jon Saad-Falcon",
+    "Joe Barrow",
+    "Alexa Siu",
+    "Ani Nenkova",
+    "Seunghyun Yoon",
+    "Ryan A. Rossi",
+    "Franck Dernoncourt"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.emnlp-industry.13",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.13/"
+}

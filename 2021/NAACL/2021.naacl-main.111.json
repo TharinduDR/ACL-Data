@@ -1,0 +1,20 @@
+{
+  "title": "D2S: Document-to-Slide Generation Via Query-Based Text Summarization",
+  "authors": [
+    "Edward Sun",
+    "Yufang Hou",
+    "Dakuo Wang",
+    "Yunfeng Zhang",
+    "Nancy X.R. Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.naacl-main.111",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.111/"
+}

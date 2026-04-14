@@ -1,0 +1,24 @@
+{
+  "title": "Mitigating Bias for Question Answering Models by Tracking Bias Influence",
+  "authors": [
+    "Mingyu Derek Ma",
+    "Jiun-Yu Kao",
+    "Arpit Gupta",
+    "Yu-Hsiang Lin",
+    "Wenbo Zhao",
+    "Tagyoung Chung",
+    "Wei Wang",
+    "Kai-Wei Chang",
+    "Nanyun Peng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.naacl-long.257",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.257/"
+}

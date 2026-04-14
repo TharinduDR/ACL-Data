@@ -1,0 +1,34 @@
+{
+  "title": "Hephaestus: Improving Fundamental Agent Capabilities of Large Language Models Through Continual Pre-Training",
+  "authors": [
+    "Yuchen Zhuang",
+    "Jingfeng Yang",
+    "Haoming Jiang",
+    "Xin Liu",
+    "Kewei Cheng",
+    "Sanket Lokegaonkar",
+    "Yifan Gao",
+    "Qing Ping",
+    "Tianyi Liu",
+    "Binxuan Huang",
+    "Zheng Li",
+    "Zhengyang Wang",
+    "Pei Chen",
+    "Ruijie Wang",
+    "Rongzhi Zhang",
+    "Nasser Zalmout",
+    "Priyanka Nigam",
+    "Bing Yin",
+    "Chao Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.308",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.308/"
+}

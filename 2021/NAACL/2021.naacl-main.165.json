@@ -1,0 +1,20 @@
+{
+  "title": "Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models",
+  "authors": [
+    "Wenkai Yang",
+    "Lei Li",
+    "Zhiyuan Zhang",
+    "Xuancheng Ren",
+    "Xu Sun",
+    "Bin He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.naacl-main.165",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.165/"
+}

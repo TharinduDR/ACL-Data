@@ -1,0 +1,20 @@
+{
+  "title": "Unfamiliar Finetuning Examples Control How Language Models Hallucinate",
+  "authors": [
+    "Katie Kang",
+    "Eric Wallace",
+    "Claire Tomlin",
+    "Aviral Kumar",
+    "Sergey Levine"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.naacl-long.183",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.183/"
+}

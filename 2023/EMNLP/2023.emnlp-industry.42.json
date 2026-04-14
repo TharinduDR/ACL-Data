@@ -1,0 +1,20 @@
+{
+  "title": "Scaling Neural ITN for Numbers and Temporal Expressions in Tamil: Findings for an Agglutinative Low-resource Language",
+  "authors": [
+    "Bhavuk Singhal",
+    "Sindhuja Gopalan",
+    "Amrith Krishna",
+    "Malolan Chetlur"
+  ],
+  "languages": [
+    "Tamil",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.emnlp-industry.42",
+  "acl_url": "https://aclanthology.org/2023.emnlp-industry.42/"
+}

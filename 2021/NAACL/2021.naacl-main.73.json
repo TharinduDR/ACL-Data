@@ -1,0 +1,20 @@
+{
+  "title": "Does BERT Pretrained on Clinical Notes Reveal Sensitive Data?",
+  "authors": [
+    "Eric Lehman",
+    "Sarthak Jain",
+    "Karl Pichotta",
+    "Yoav Goldberg",
+    "Byron C. Wallace"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.naacl-main.73",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.73/"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "AdaMergeX: Cross-Lingual Transfer with Large Language Models via Adaptive Adapter Merging",
+  "authors": [
+    "Yiran Zhao",
+    "Wenxuan Zhang",
+    "Huiming Wang",
+    "Kenji Kawaguchi",
+    "Lidong Bing"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese",
+    "Vietnamese",
+    "Thai",
+    "Swahili",
+    "Russian",
+    "Arabic",
+    "Hindi",
+    "Turkish",
+    "Greek"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.naacl-long.493",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.493/"
+}

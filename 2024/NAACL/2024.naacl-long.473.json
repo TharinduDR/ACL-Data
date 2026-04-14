@@ -1,0 +1,23 @@
+{
+  "title": "X-EVAL: Generalizable Multi-aspect Text Evaluation via Augmented Instruction Tuning with Auxiliary Evaluation Aspects",
+  "authors": [
+    "Minqian Liu",
+    "Ying Shen",
+    "Zhiyang Xu",
+    "Yixin Cao",
+    "Eunah Cho",
+    "Vaibhav Kumar",
+    "Reza Ghanadan",
+    "Lifu Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T18 Text Summarization",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2024.naacl-long.473",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.473/"
+}

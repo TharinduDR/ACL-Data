@@ -1,0 +1,26 @@
+{
+  "title": "CMB: A Comprehensive Medical Benchmark in Chinese",
+  "authors": [
+    "Xidong Wang",
+    "Guiming Hardy Chen",
+    "Dingjie Song",
+    "Zhiyi Zhang",
+    "Zhihong Chen",
+    "Qingying Xiao",
+    "Feng Jiang",
+    "Jianquan Li",
+    "Xiang Wan",
+    "Benyou Wang",
+    "Haizhou Li"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.naacl-long.343",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.343/"
+}

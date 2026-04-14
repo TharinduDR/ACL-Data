@@ -1,0 +1,27 @@
+{
+  "title": "Iterative Multilingual Spectral Attribute Erasure",
+  "authors": [
+    "Shun Shao",
+    "Yftah Ziser",
+    "Zheng Zhao",
+    "Yifu Qiu",
+    "Shay B. Cohen",
+    "Anna Korhonen"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2025.emnlp-main.1488",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1488/"
+}

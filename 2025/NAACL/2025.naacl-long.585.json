@@ -1,0 +1,23 @@
+{
+  "title": "InfoPO: On Mutual Information Maximization for Large Language Model Alignment",
+  "authors": [
+    "Teng Xiao",
+    "Zhen Ge",
+    "Sujay Sanghavi",
+    "Tian Wang",
+    "Julian Katz-Samuels",
+    "Marc Versage",
+    "Qingjun Cui",
+    "Trishul Chilimbi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.naacl-long.585",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.585/"
+}

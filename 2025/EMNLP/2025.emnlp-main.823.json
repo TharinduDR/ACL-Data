@@ -1,0 +1,26 @@
+{
+  "title": "MEPT: Mixture of Expert Prompt Tuning as a Manifold Mapper",
+  "authors": [
+    "Runjia Zeng",
+    "Guangyan Sun",
+    "Qifan Wang",
+    "Tong Geng",
+    "Sohail Dianat",
+    "Xiaotian Han",
+    "Raghuveer Rao",
+    "Xueling Zhang",
+    "Cheng Han",
+    "Lifu Huang",
+    "Dongfang Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.emnlp-main.823",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.823/"
+}

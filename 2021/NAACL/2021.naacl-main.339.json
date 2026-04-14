@@ -1,0 +1,23 @@
+{
+  "title": "(Un)supervised Neural Text Generation with Predicate Logic Constraints",
+  "authors": [
+    "Ximing Lu",
+    "Peter West",
+    "Rowan Zellers",
+    "Ronan Le Bras",
+    "Chandra Bhagavatula",
+    "Yejin Choi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.naacl-main.339",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.339/"
+}

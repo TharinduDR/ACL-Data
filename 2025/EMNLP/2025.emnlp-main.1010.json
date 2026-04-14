@@ -1,0 +1,18 @@
+{
+  "title": "SAFE NUDGE: Safeguarding Large Language Models in Real-time with Tunable Safety-Performance Trade-offs",
+  "authors": [
+    "Joao Fonseca",
+    "Andrew Bell",
+    "Julia Stoyanovich"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1010",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1010/"
+}

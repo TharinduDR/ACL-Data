@@ -1,0 +1,19 @@
+{
+  "title": "R-BPE: Improving BPE-Tokenizers with Token Reuse",
+  "authors": [
+    "Nancy Hamdan",
+    "Osama Rakan Al Mraikhat",
+    "Fadi A. Zaraket"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1169",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1169/"
+}

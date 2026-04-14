@@ -1,0 +1,23 @@
+{
+  "title": "PoisonedParrot: Subtle Data Poisoning Attacks to Elicit Copyright-Infringing Content from Large Language Models",
+  "authors": [
+    "Michael-Andrei Panaitescu-Liess",
+    "Pankayaraj Pathmanathan",
+    "Yigitcan Kaya",
+    "Zora Che",
+    "Bang An",
+    "Sicheng Zhu",
+    "Aakriti Agrawal",
+    "Furong Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.naacl-long.415",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.415/"
+}

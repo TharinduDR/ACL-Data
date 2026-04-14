@@ -1,0 +1,21 @@
+{
+  "title": "The LLM Already Knows: Estimating LLM-Perceived Question Difficulty via Hidden Representations",
+  "authors": [
+    "Yubo Zhu",
+    "Dongrui Liu",
+    "Zecheng Lin",
+    "Wei Tong",
+    "Sheng Zhong",
+    "Jing Shao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.61",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.61/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "ToM: Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models",
+  "authors": [
+    "Jiani Guo",
+    "Zuchao Li",
+    "Jie Wu",
+    "Qianren Wang",
+    "Yun Li",
+    "Lefei Zhang",
+    "Hai Zhao",
+    "Yujiu Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.899",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.899/"
+}

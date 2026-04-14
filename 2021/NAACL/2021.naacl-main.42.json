@@ -1,0 +1,31 @@
+{
+  "title": "MetaXL: Meta Representation Transformation for Low-resource Cross-lingual Learning",
+  "authors": [
+    "Mengzhou Xia",
+    "Guoqing Zheng",
+    "Subhabrata Mukherjee",
+    "Milad Shokouhi",
+    "Graham Neubig",
+    "Ahmed Hassan Awadallah"
+  ],
+  "languages": [
+    "English",
+    "Telugu",
+    "Persian",
+    "Quechua",
+    "Min Dong",
+    "Ilocano",
+    "Mingrelian",
+    "Meadow Mari",
+    "Maori",
+    "Turkmen",
+    "Guarani"
+  ],
+  "research_areas": [
+    "T11",
+    "T20",
+    "T14"
+  ],
+  "paper_id": "2021.naacl-main.42",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.42/"
+}

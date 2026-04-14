@@ -1,0 +1,26 @@
+{
+  "title": "Deferred NAM: Low-latency Top-K Context Injection via Deferred Context Encoding for Non-Streaming ASR",
+  "authors": [
+    "Zelin Wu",
+    "Gan Song",
+    "Christopher Li",
+    "Pat Rondon",
+    "Zhong Meng",
+    "Xavier Velez",
+    "Weiran Wang",
+    "Diamantino Caseiro",
+    "Golan Pundak",
+    "Tsendsuren Munkhdalai",
+    "Angad Chandorkar",
+    "Rohit Prabhavalkar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2024.naacl-industry.26",
+  "acl_url": "https://aclanthology.org/2024.naacl-industry.26/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers",
+  "authors": [
+    "Myeonghwa Lee",
+    "Seonho An",
+    "Min-Soo Kim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.naacl-long.364",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.364/"
+}

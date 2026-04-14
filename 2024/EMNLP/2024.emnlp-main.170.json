@@ -1,0 +1,26 @@
+{
+  "title": "DGLF: A Dual Graph-based Learning Framework for Multi-modal Sarcasm Detection",
+  "authors": [
+    "Zhihong Zhu",
+    "Kefan Shen",
+    "Zhaorun Chen",
+    "Yunyan Zhang",
+    "Yuyan Chen",
+    "Xiaoqi Jiao",
+    "Zhongwei Wan",
+    "Shaorong Xie",
+    "Wei Liu",
+    "Xian Wu",
+    "Yefeng Zheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2024.emnlp-main.170",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.170/"
+}

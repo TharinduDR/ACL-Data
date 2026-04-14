@@ -1,0 +1,22 @@
+{
+  "title": "NitiBench: Benchmarking LLM Frameworks on Thai Legal Question Answering Capabilities",
+  "authors": [
+    "Pawitsapak Akarajaradwong",
+    "Pirat Pothavorn",
+    "Chompakorn Chaksangchaichot",
+    "Panuthep Tasawong",
+    "Thitiwat Nopparatbundit",
+    "Keerakiat Pratai",
+    "Sarana Nutanong"
+  ],
+  "languages": [
+    "Thai"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1739",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1739/"
+}

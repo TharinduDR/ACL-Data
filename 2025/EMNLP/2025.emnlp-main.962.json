@@ -1,0 +1,20 @@
+{
+  "title": "SAFE-SQL: Self-Augmented In-Context Learning with Fine-grained Example Selection for Text-to-SQL",
+  "authors": [
+    "Jimin Lee",
+    "Ingeol Baek",
+    "Byeongjeong Kim",
+    "Hyunkyoung Bae",
+    "Hwanhee Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-main.962",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.962/"
+}

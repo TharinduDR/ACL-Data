@@ -1,0 +1,22 @@
+{
+  "title": "ConstraintLLM: A Neuro-Symbolic Framework for Industrial-Level Constraint Programming",
+  "authors": [
+    "Weichun Shi",
+    "Minghao Liu",
+    "Wanting Zhang",
+    "Langchen Shi",
+    "Fuqi Jia",
+    "Feifei Ma",
+    "Jian Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.809",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.809/"
+}

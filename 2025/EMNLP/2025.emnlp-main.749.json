@@ -1,0 +1,24 @@
+{
+  "title": "Power doesn't reside in size: A Low Parameter Hybrid Language Model (HLM) for Sentiment Analysis in Code-mixed data",
+  "authors": [
+    "Pavan Sai Balaga",
+    "Nagasamudram Karthik",
+    "Challa Vishwanath",
+    "Raksha Sharma",
+    "Rudra Murthy",
+    "Ashish Mittal"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Spanish",
+    "Telugu",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.emnlp-main.749",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.749/"
+}

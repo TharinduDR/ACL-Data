@@ -1,0 +1,21 @@
+{
+  "title": "MMAPG: A Training-Free Framework for Multimodal Multi-hop Question Answering via Adaptive Planning Graphs",
+  "authors": [
+    "Yiheng Hu",
+    "Xiaoyang Wang",
+    "Qing Liu",
+    "Xiwei Xu",
+    "Qian Fu",
+    "Wenjie Zhang",
+    "Liming Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.emnlp-main.717",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.717/"
+}

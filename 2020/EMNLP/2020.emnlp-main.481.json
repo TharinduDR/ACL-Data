@@ -21,9 +21,9 @@
     "Chinese"
   ],
   "research_areas": [
-    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
-    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
-    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+    "T10",
+    "T16",
+    "T21"
   ],
   "paper_id": "2020.emnlp-main.481",
   "acl_url": "https://aclanthology.org/2020.emnlp-main.481/"

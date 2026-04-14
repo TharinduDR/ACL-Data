@@ -1,0 +1,20 @@
+{
+  "title": "ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction",
+  "authors": [
+    "Victor Junqiu Wei",
+    "Weicheng Wang",
+    "Di Jiang",
+    "Yuanfeng Song",
+    "Lu Wang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-industry.110",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.110/"
+}

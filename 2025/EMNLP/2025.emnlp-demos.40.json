@@ -1,0 +1,27 @@
+{
+  "title": "RadEval: A framework for radiology text evaluation",
+  "authors": [
+    "Justin Xu",
+    "Xi Zhang",
+    "Javid Abderezaei",
+    "Julie Bauml",
+    "Roger Boodoo",
+    "Fatemeh Haghghi",
+    "Ali Ganjizadeh",
+    "Eric Brattain",
+    "Dave Van Veen",
+    "Zaiqiao Meng",
+    "David Eyre",
+    "Jean-Benoit Delbrouck"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.emnlp-demos.40",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.40/"
+}

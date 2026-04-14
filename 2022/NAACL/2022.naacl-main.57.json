@@ -1,0 +1,27 @@
+{
+  "title": "NEUROLOGIC A*esque Decoding: Constrained Text Generation with Lookahead Heuristics",
+  "authors": [
+    "Ximing Lu",
+    "Sean Welleck",
+    "Peter West",
+    "Liwei Jiang",
+    "Jungo Kasai",
+    "Daniel Khashabi",
+    "Ronan Le Bras",
+    "Lianhui Qin",
+    "Youngejae Yu",
+    "Rowan Zellers",
+    "Noah A. Smith",
+    "Yejin Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2022.naacl-main.57",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.57/"
+}

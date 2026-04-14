@@ -1,0 +1,21 @@
+{
+  "title": "Word Salad Chopper: Reasoning Models Waste A Ton Of Decoding Budget On Useless Repetitions, Self-Knowingly",
+  "authors": [
+    "Wenya Xie",
+    "Shaocen (Henry) Zhong",
+    "Hoang Anh Duy Le",
+    "Zhaozhou Xu",
+    "Jianwen Xie",
+    "Zirui Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.emnlp-main.1705",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1705/"
+}

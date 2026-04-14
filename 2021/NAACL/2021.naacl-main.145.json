@@ -1,0 +1,19 @@
+{
+  "title": "Target-specified Sequence Labeling with Multi-head Self-attention for Target-oriented Opinion Words Extraction",
+  "authors": [
+    "Yuhao Feng",
+    "Yanghui Rao",
+    "Yuyao Tang",
+    "Ninghua Wang",
+    "He Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.naacl-main.145",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.145/"
+}

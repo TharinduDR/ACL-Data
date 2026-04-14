@@ -1,0 +1,42 @@
+{
+  "title": "BOUQuET: dataset, Benchmark and Open initiative for Universal Quality Evaluation in Translation",
+  "authors": [
+    "The Omnilingual MT Team",
+    "Pierre Andrews",
+    "Mikel Artetxe",
+    "Mariano Coria Meglioli",
+    "Marta R. Costa-jussà",
+    "Joe Chuang",
+    "David Dale",
+    "Mark Dupenthaler",
+    "Nate Ekberg",
+    "Cynthia Gao",
+    "Daniel Licht",
+    "Jean Maillard",
+    "Alexandre Mourachko",
+    "Christophe Ropers",
+    "Safiyyah Saleem",
+    "Eduardo Sánchez",
+    "Ioannis Tsiamas",
+    "Arina Turkatenko",
+    "Albert Ventayol-Boada",
+    "Shireen Yates"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Russian",
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.emnlp-main.1400",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1400/"
+}

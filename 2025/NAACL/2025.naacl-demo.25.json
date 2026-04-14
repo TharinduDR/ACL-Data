@@ -1,0 +1,19 @@
+{
+  "title": "TRANSFORMERRANKER: A Tool for Efficiently Finding the Best-Suited Language Models for Downstream Classification Tasks",
+  "authors": [
+    "Lukas Garbas",
+    "Max Ploner",
+    "Alan Akbik"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.naacl-demo.25",
+  "acl_url": "https://aclanthology.org/2025.naacl-demo.25/"
+}

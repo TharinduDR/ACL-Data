@@ -1,0 +1,25 @@
+{
+  "title": "Sparse Autoencoder Features for Classifications and Transferability",
+  "authors": [
+    "Jack Gallifant",
+    "Shan Chen",
+    "Kuleen Sasse",
+    "Hugo Aerts",
+    "Thomas Hartvigsen",
+    "Danielle S. Bitterman"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Spanish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.emnlp-main.1521",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1521/"
+}

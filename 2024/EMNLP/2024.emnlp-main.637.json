@@ -1,0 +1,28 @@
+{
+  "title": "ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models",
+  "authors": [
+    "Yuxiang Zhang",
+    "Jing Chen",
+    "Junjie Wang",
+    "Yaxin Liu",
+    "Cheng Yang",
+    "Chufan Shi",
+    "Xinyu Zhu",
+    "Zihao Lin",
+    "Hanwen Wan",
+    "Yujiu Yang",
+    "Tetsuya Sakai",
+    "Tian Feng",
+    "Hayato Yamana"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.emnlp-main.637",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.637/"
+}

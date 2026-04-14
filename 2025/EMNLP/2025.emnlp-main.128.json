@@ -1,0 +1,42 @@
+{
+  "title": "M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis",
+  "authors": [
+    "Chengyan Wu",
+    "Bolei Ma",
+    "Yihong Liu",
+    "Zheyu Zhang",
+    "Ningyuan Deng",
+    "Yanshu Li",
+    "Baolan Chen",
+    "Yi Zhang",
+    "Yun Xue",
+    "Barbara Plank"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Croatian",
+    "Dutch",
+    "French",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Slovak",
+    "Spanish",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.128",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.128/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Cross-lingual Transfer for Automatic Question Generation by Learning Interrogative Structures in Target Languages",
+  "authors": [
+    "Seonjeong Hwang",
+    "Yunsu Kim",
+    "Gary Geunbae Lee"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "German",
+    "Finnish",
+    "Hindi",
+    "Indonesian",
+    "Korean",
+    "Swahili",
+    "Telugu",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.emnlp-main.186",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.186/"
+}

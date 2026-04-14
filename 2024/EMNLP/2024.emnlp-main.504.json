@@ -1,0 +1,18 @@
+{
+  "title": "Learning to Correct for QA Reasoning with Black-box LLMs",
+  "authors": [
+    "Jaehyung Kim",
+    "Dongyoung Kim",
+    "Yiming Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.emnlp-main.504",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.504/"
+}

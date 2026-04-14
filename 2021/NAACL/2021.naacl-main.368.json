@@ -1,0 +1,19 @@
+{
+  "title": "Multi-Step Reasoning Over Unstructured Text with Beam Dense Retrieval",
+  "authors": [
+    "Chen Zhao",
+    "Chenyang Xiong",
+    "Jordan Boyd-Graber",
+    "Hal Daumé III"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2021.naacl-main.368",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.368/"
+}

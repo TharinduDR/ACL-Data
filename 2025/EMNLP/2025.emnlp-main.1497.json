@@ -1,0 +1,26 @@
+{
+  "title": "Sequential-NIAH: A Needle-In-A-Haystack Benchmark for Extracting Sequential Needles from Long Contexts",
+  "authors": [
+    "Yifei Yu",
+    "Qian-Wen Zhang",
+    "Lingfeng Qiao",
+    "Di Yin",
+    "Fang Li",
+    "Jie Wang",
+    "Zengxi Chen",
+    "Suncong Zheng",
+    "Xiaolong Liang",
+    "Xing Sun"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.1497",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1497/"
+}

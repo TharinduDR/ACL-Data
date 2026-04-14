@@ -1,0 +1,19 @@
+{
+  "title": "CopySpec: Accelerating LLMs with Speculative Copy-and-Paste",
+  "authors": [
+    "Razvan-Gabriel Dumitru",
+    "Minglai Yang",
+    "Vikas Yadav",
+    "Mihai Surdeanu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.1337",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1337/"
+}

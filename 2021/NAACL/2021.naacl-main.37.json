@@ -1,0 +1,39 @@
+{
+  "title": "DART: Open-Domain Structured Data Record to Text Generation",
+  "authors": [
+    "Linyong Nan",
+    "Dragomir Radev",
+    "Rui Zhang",
+    "Amrit Rau",
+    "Abhinand Sivaprasad",
+    "Chiachun Hsieh",
+    "Xiangru Tang",
+    "Aadit Vyas",
+    "Neha Verma",
+    "Pranav Krishna",
+    "Yangxiaokang Liu",
+    "Nadia Irwanto",
+    "Jessica Pan",
+    "Faiaz Rahman",
+    "Ahmad Zaidi",
+    "Mutethia Mutuma",
+    "Yasin Tarabar",
+    "Ankit Gupta",
+    "Tao Yu",
+    "Yi Chern Tan",
+    "Xi Victoria Lin",
+    "Caiming Xiong",
+    "Richard Socher",
+    "Nazneen Fatema Rajani"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.naacl-main.37",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.37/"
+}

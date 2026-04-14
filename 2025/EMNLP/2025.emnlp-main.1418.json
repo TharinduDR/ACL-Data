@@ -1,0 +1,20 @@
+{
+  "title": "Synth-SBDH: A Synthetic Dataset of Social and Behavioral Determinants of Health for Clinical Text",
+  "authors": [
+    "Avijit Mitra",
+    "Zhichao Yang",
+    "Emily Druhl",
+    "Raelene Goodwin",
+    "Hong Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.emnlp-main.1418",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1418/"
+}

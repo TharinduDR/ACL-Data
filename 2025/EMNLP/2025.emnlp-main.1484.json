@@ -1,0 +1,29 @@
+{
+  "title": "Instructing Large Language Models for Low-Resource Languages: A Systematic Study for Basque",
+  "authors": [
+    "Oscar Sainz",
+    "Naiara Perez",
+    "Julen Etxaniz",
+    "Joseba Fernandez de Landa",
+    "Itziar Aldabe",
+    "Iker Garcia-Ferrero",
+    "Aimar Zabala",
+    "Ekhi Azurmendi",
+    "German Rigau",
+    "Eneko Agirre",
+    "Mikel Artetxe",
+    "Aitor Soroa"
+  ],
+  "languages": [
+    "Basque",
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2025.emnlp-main.1484",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1484/"
+}

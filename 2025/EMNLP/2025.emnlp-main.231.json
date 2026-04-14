@@ -1,0 +1,18 @@
+{
+  "title": "TS-CLIP: Time Series Understanding by CLIP",
+  "authors": [
+    "Ziwen Chen",
+    "Xiaoyuan Zhang",
+    "Ming Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.231",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.231/"
+}

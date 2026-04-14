@@ -1,0 +1,29 @@
+{
+  "title": "The State of Multilingual LLM Safety Research: From Measuring The Language Gap To Mitigating It",
+  "authors": [
+    "Zheng-Xin Yong",
+    "Beyza Ermis",
+    "Marzieh Fadaee",
+    "Stephen H. Bach",
+    "Julia Kreutzer"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Russian",
+    "German",
+    "Arabic",
+    "Hindi",
+    "Spanish",
+    "Japanese",
+    "Bengali"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.emnlp-main.800",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.800/"
+}

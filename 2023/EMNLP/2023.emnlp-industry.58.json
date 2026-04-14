@@ -1,0 +1,19 @@
+{
+  "title": "Multi-word Tokenization for Sequence Compression",
+  "authors": [
+    "Leonidas Gee",
+    "Leonardo Rigutini",
+    "Marco Ernandes",
+    "Andrea Zugarini"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2023.emnlp-industry.58",
+  "acl_url": "https://aclanthology.org/2023.emnlp-industry.58/"
+}

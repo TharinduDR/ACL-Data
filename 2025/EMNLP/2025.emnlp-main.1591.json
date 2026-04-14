@@ -1,0 +1,38 @@
+{
+  "title": "Beyond WER: Probing Whisper's Sub-token Decoder Across Diverse Language Resource Levels",
+  "authors": [
+    "Siyu Liang",
+    "Nicolas Ballier",
+    "Gina-Anne Levow",
+    "Richard Wright"
+  ],
+  "languages": [
+    "German",
+    "Spanish",
+    "French",
+    "Portuguese",
+    "Turkish",
+    "Italian",
+    "Swedish",
+    "Dutch",
+    "Catalan",
+    "Finnish",
+    "Indonesian",
+    "Hungarian",
+    "Romanian",
+    "Norwegian",
+    "Welsh",
+    "Lithuanian",
+    "Latvian",
+    "Azerbaijani",
+    "Estonian",
+    "Basque"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.1591",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1591/"
+}

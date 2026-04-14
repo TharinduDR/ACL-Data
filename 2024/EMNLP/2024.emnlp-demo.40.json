@@ -1,0 +1,29 @@
+{
+  "title": "SparkRA: A Retrieval-Augmented Knowledge Service System Based on Spark Large Language Model",
+  "authors": [
+    "Dayong Wu",
+    "Jiaqi Li",
+    "Baoxin Wang",
+    "Honghong Zhao",
+    "Siyuan Xue",
+    "Yanjie Yang",
+    "Zhijun Chang",
+    "Rui Zhang",
+    "Li Qian",
+    "Bo Wang",
+    "Shijin Wang",
+    "Zhixiong Zhang",
+    "Guoping Hu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2024.emnlp-demo.40",
+  "acl_url": "https://aclanthology.org/2024.emnlp-demo.40/"
+}

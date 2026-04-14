@@ -1,0 +1,19 @@
+{
+  "title": "FLRC: Fine-grained Low-Rank Compressor for Efficient LLM Inference",
+  "authors": [
+    "Yu-Chen Lu",
+    "Chong-Yan Chen",
+    "Chi-Chih Chang",
+    "Yu-Fang Hu",
+    "Kai-Chiang Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.755",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.755/"
+}

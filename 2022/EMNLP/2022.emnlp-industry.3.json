@@ -1,0 +1,23 @@
+{
+  "title": "A Hybrid Approach to Cross-lingual Product Review Summarization",
+  "authors": [
+    "Saleh Soltan",
+    "Victor Soto",
+    "Ke Tran",
+    "Wael Hamza"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Italian",
+    "Arabic",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.emnlp-industry.3",
+  "acl_url": "https://aclanthology.org/2022.emnlp-industry.3/"
+}

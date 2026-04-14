@@ -1,0 +1,23 @@
+{
+  "title": "Is C4 Dataset Optimal for Pruning? An Investigation of Calibration Data for LLM Pruning",
+  "authors": [
+    "Abhinav Bandari",
+    "Lu Yin",
+    "Cheng-Yu Hsieh",
+    "Ajay Kumar Jaiswal",
+    "Tianlong Chen",
+    "Li Shen",
+    "Ranjay Krishna",
+    "Shiwei Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.emnlp-main.1004",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1004/"
+}

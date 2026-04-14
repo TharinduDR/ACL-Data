@@ -1,0 +1,25 @@
+{
+  "title": "Extracting and Combining Abilities For Building Multi-lingual Ability-enhanced Large Language Models",
+  "authors": [
+    "Zhipeng Chen",
+    "Kun Zhou",
+    "Liang Song",
+    "Wayne Xin Zhao",
+    "Bingning Wang",
+    "Weipeng Chen",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Bengali",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.887",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.887/"
+}

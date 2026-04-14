@@ -1,0 +1,25 @@
+{
+  "title": "Correcting Negative Bias in Large Language Models through Negative Attention Score Alignment",
+  "authors": [
+    "Sangwon Yu",
+    "Jongyoon Song",
+    "Bongkyu Hwang",
+    "Hoyoung Kang",
+    "Sooah Cho",
+    "Junhwa Choi",
+    "Seongho Joe",
+    "Taehee Lee",
+    "Youngjune Gwon",
+    "Sungroh Yoon"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-long.503",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.503/"
+}

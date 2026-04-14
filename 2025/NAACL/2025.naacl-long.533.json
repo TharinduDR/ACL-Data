@@ -1,0 +1,25 @@
+{
+  "title": "Mitigating Tail Narrowing in LLM Self-Improvement via Socratic-Guided Sampling",
+  "authors": [
+    "Yiwen Ding",
+    "Zhiheng Xi",
+    "Wei He",
+    "Zhuoyuan Li",
+    "Yitao Zhai",
+    "Xiaowei Shi",
+    "Xunliang Cai",
+    "Tao Gui",
+    "Qi Zhang",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2025.naacl-long.533",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.533/"
+}

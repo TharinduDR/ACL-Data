@@ -1,0 +1,23 @@
+{
+  "title": "Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation",
+  "authors": [
+    "Jirui Qi",
+    "Gabriele Sarti",
+    "Raquel Fernández",
+    "Arianna Bisazza"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Finnish",
+    "Japanese",
+    "Russian",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-main.347",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.347/"
+}

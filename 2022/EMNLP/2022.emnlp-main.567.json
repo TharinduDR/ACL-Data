@@ -1,7 +1,7 @@
 {
   "title": "Algorithms for Acyclic Weighted Finite-State Automata with Failure Arcs",
   "authors": [
-    "Anej Svetec",
+    "Anej Sveti",
     "Benjamin Dayan",
     "Tim Vieira",
     "Ryan Cotterell",
@@ -9,7 +9,7 @@
   ],
   "languages": [],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T14 Language Modeling",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "2022.emnlp-main.567",

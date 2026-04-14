@@ -1,0 +1,32 @@
+{
+  "title": "Combating the Curse of Multilinguality in Cross-Lingual WSD by Aligning Sparse Contextualized Word Representations",
+  "authors": [
+    "Gábor Berend"
+  ],
+  "languages": [
+    "English",
+    "Bulgarian",
+    "Catalan",
+    "Danish",
+    "German",
+    "Spanish",
+    "Estonian",
+    "Basque",
+    "Galician",
+    "Croatian",
+    "Hungarian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Dutch",
+    "Slovenian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2022.naacl-main.176",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.176/"
+}

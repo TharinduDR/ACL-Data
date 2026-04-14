@@ -1,0 +1,19 @@
+{
+  "title": "AUTO-PENBENCH: A Vulnerability Testing Benchmark for Generative Agents",
+  "authors": [
+    "Luca Gioacchini",
+    "Alexander Delsanto",
+    "Marco Mellia",
+    "Idilio Drago",
+    "Giuseppe Siracusano",
+    "Roberto Bifulco"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-industry.114",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.114/"
+}

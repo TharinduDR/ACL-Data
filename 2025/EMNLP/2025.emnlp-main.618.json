@@ -1,0 +1,22 @@
+{
+  "title": "From Long to Lean: Performance-aware and Adaptive Chain-of-Thought Compression via Multi-round Refinement",
+  "authors": [
+    "Jianzhi Yan",
+    "Le Liu",
+    "Youcheng Pan",
+    "Shiwei Chen",
+    "Zike Yuan",
+    "Yang Xiang",
+    "Buzhou Tang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.618",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.618/"
+}

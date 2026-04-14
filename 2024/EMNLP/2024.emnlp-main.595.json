@@ -1,0 +1,23 @@
+{
+  "title": "Speechworthy Instruction-tuned Language Models",
+  "authors": [
+    "Hyundong Cho",
+    "Nicolaas Jedema",
+    "Leonardo F. R. Ribeiro",
+    "Karishma Sharma",
+    "Pedro Szekely",
+    "Alessandro Moschitti",
+    "Ruben Janssen",
+    "Jonathan May"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2024.emnlp-main.595",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.595/"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Matryoshka-Adaptor: Unsupervised and Supervised Tuning for Smaller Embedding Dimensions",
+  "authors": [
+    "Jinsung Yoon",
+    "Rajarishi Sinha",
+    "Sercan Ö. Arik",
+    "Tomas Pfister"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bengali",
+    "Chinese",
+    "Finnish",
+    "French",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Telugu",
+    "Thai",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.emnlp-main.576",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.576/"
+}

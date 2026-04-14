@@ -1,0 +1,31 @@
+{
+  "title": "Pretrained Models for Multilingual Federated Learning",
+  "authors": [
+    "Orion Weller",
+    "Marc Marone",
+    "Vladimir Braverman",
+    "Dawn Lawrie",
+    "Benjamin Van Durme"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Russian",
+    "Arabic",
+    "Portuguese",
+    "Spanish",
+    "Finnish",
+    "Polish",
+    "Lithuanian",
+    "Czech"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2022.naacl-main.101",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.101/"
+}

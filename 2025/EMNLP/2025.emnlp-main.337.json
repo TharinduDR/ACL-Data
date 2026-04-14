@@ -1,0 +1,25 @@
+{
+  "title": "VersaTune: An Efficient Data Composition Framework for Training Multi-Capability LLMs",
+  "authors": [
+    "Keer Lu",
+    "Keshi Zhao",
+    "Zhuoran Zhang",
+    "Zheng Liang",
+    "Bin Cui",
+    "Tengjiao Wang",
+    "Wentao Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2025.emnlp-main.337",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.337/"
+}

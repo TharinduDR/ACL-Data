@@ -1,0 +1,22 @@
+{
+  "title": "Reducing Disambiguation Biases in NMT by Leveraging Explicit Word Sense Information",
+  "authors": [
+    "Niccolò Campolungo",
+    "Tommaso Pasini",
+    "Denis Emelin",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.naacl-main.355",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.355/"
+}

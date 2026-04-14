@@ -1,0 +1,23 @@
+{
+  "title": "CoLA: Compute-Efficient Pre-Training of LLMs via Low-Rank Activation",
+  "authors": [
+    "Ziyue Liu",
+    "Ruijie Zhang",
+    "Zhengyang Wang",
+    "Mingsong Yan",
+    "Zi Yang",
+    "Paul Hovland",
+    "Bogdan Nicolae",
+    "Franck Cappello",
+    "Sui Tang",
+    "Zheng Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.230",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.230/"
+}

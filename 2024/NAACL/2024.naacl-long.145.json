@@ -1,0 +1,21 @@
+{
+  "title": "A School Student Essay Corpus for Analyzing Interactions of Argumentative Structure and Quality",
+  "authors": [
+    "Maja Stahl",
+    "Nadine Michel",
+    "Sebastian Kilsbach",
+    "Julian Schmidtke",
+    "Sara Rezat",
+    "Henning Wachsmuth"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.naacl-long.145",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.145/"
+}

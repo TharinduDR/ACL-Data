@@ -1,0 +1,24 @@
+{
+  "title": "CodeAgent: Autonomous Communicative Agents for Code Review",
+  "authors": [
+    "Xunzhu Tang",
+    "Kisub Kim",
+    "Yewei Song",
+    "Cedric Lothritz",
+    "Bei Li",
+    "Saad Ezzini",
+    "Haoye Tian",
+    "Jacques Klein",
+    "Tegawendé F. Bissyandé"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.632",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.632/"
+}

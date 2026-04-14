@@ -1,0 +1,22 @@
+{
+  "title": "Graph Neural Network Enhanced Retrieval for Question Answering of Large Language Models",
+  "authors": [
+    "Zijian Li",
+    "Qingyan Guo",
+    "Jiawei Shao",
+    "Lei Song",
+    "Jiang Bian",
+    "Jun Zhang",
+    "Rui Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.naacl-long.337",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.337/"
+}

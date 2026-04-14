@@ -1,0 +1,28 @@
+{
+  "title": "Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging",
+  "authors": [
+    "Deyuan Liu",
+    "Zhan Yue Qin",
+    "Hairu Wang",
+    "Zhao Yang",
+    "Zecheng Wang",
+    "Fangying Rong",
+    "Qingbin Liu",
+    "Yanchao Hao",
+    "Xi Chen",
+    "Cunhang Fan",
+    "Zhao Lv",
+    "Zhiying Tu",
+    "Dianhui Chu",
+    "Dianbo Sui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.987",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.987/"
+}

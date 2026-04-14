@@ -1,0 +1,23 @@
+{
+  "title": "LinguaLens: Towards Interpreting Linguistic Mechanisms of Large Language Models via Sparse Auto-Encoder",
+  "authors": [
+    "Yi Jing",
+    "Zijun Yao",
+    "Hongzhu Guo",
+    "Lingxu Ran",
+    "Xiaozhi Wang",
+    "Lei Hou",
+    "Juanzi Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.emnlp-main.1433",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1433/"
+}

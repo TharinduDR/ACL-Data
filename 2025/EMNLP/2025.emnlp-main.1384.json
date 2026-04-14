@@ -1,0 +1,26 @@
+{
+  "title": "Extracting Linguistic Information from Large Language Models: Syntactic Relations and Derivational Knowledge",
+  "authors": [
+    "Tsedeniya Kinfe Temesgen",
+    "Marion Di Marco",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "Amharic",
+    "German",
+    "English",
+    "French",
+    "Italian",
+    "Polish",
+    "Latvian",
+    "Lithuanian",
+    "Maltese",
+    "Upper Sorbian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.emnlp-main.1384",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1384/"
+}

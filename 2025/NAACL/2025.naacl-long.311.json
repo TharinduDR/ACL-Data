@@ -1,0 +1,21 @@
+{
+  "title": "VTechAGP: An Academic-to-General-Audience Text Paraphrase Dataset and Benchmark Models",
+  "authors": [
+    "Ming Cheng",
+    "Jiaying Gong",
+    "Chenhan Yuan",
+    "William A. Ingram",
+    "Edward Fox",
+    "Hoda Eldardiry"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T18 Text Summarization",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-long.311",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.311/"
+}

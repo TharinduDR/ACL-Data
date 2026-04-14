@@ -1,0 +1,30 @@
+{
+  "title": "EnAnchored-X2X: English-Anchored Optimization for Many-to-Many Translation",
+  "authors": [
+    "Sen Yang",
+    "Yu Bao",
+    "Yu Lu",
+    "Jiajun Chen",
+    "Shujian Huang",
+    "Shanbo Cheng"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Dutch",
+    "Italian",
+    "Spanish",
+    "Portuguese",
+    "Korean",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2025.emnlp-main.1081",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1081/"
+}

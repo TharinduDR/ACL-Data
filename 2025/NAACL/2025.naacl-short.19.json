@@ -1,0 +1,28 @@
+{
+  "title": "PROM: Pivoted and Regulated Optimization for Multilingual Instruction Learning",
+  "authors": [
+    "Jaeseong Lee",
+    "Seung-won Hwang",
+    "Hojin Lee",
+    "Yunju Bak",
+    "Changmin Lee"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Greek",
+    "Malayalam",
+    "Marathi",
+    "Swahili",
+    "Tamil",
+    "Telugu",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2025.naacl-short.19",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.19/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "AudioBench: A Universal Benchmark for Audio Large Language Models",
+  "authors": [
+    "Bin Wang",
+    "Xunlong Zou",
+    "Geyu Lin",
+    "Shuo Sun",
+    "Zhuohan Liu",
+    "Wenyu Zhang",
+    "Zhengyuan Liu",
+    "AiTi Aw",
+    "Nancy F. Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.218",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.218/"
+}

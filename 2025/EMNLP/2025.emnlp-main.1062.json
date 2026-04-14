@@ -1,0 +1,21 @@
+{
+  "title": "MultiDocFusion: Hierarchical and Multimodal Chunking Pipeline for Enhanced RAG on Long Industrial Documents",
+  "authors": [
+    "Joongmin Shin",
+    "Chanjun Park",
+    "Jeongbae Park",
+    "Jaehyung Seo",
+    "Heuiseok Lim"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.emnlp-main.1062",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1062/"
+}

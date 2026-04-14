@@ -1,0 +1,21 @@
+{
+  "title": "MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling",
+  "authors": [
+    "Yakun Zhu",
+    "Shaohang Wei",
+    "Xu Wang",
+    "Kui Xue",
+    "Shaoting Zhang",
+    "Xiaofan Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.263",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.263/"
+}

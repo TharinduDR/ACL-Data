@@ -1,0 +1,20 @@
+{
+  "title": "PROMPT-EVALS: A Dataset of Assertions and Guardrails for Custom Production Large Language Model Pipelines",
+  "authors": [
+    "Reya Vir",
+    "Shreya Shankar",
+    "Harrison Chase",
+    "Will Fu-Hinthorn",
+    "Aditya G. Parameswaran"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-long.213",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.213/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "IndoSafety: Culturally Grounded Safety for LLMs in Indonesian Languages",
+  "authors": [
+    "Muhammad Falensi Azmi",
+    "Muhammad Dehan Al Kautsar",
+    "Alfan Farizki Wicaksono",
+    "Fajri Koto"
+  ],
+  "languages": [
+    "Indonesian",
+    "Javanese",
+    "Sundanese",
+    "Minangkabau"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.465",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.465/"
+}

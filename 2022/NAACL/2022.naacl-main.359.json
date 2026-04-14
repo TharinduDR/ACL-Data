@@ -1,0 +1,23 @@
+{
+  "title": "Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks",
+  "authors": [
+    "Ruixiang Cui",
+    "Daniel Hershovich",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "German",
+    "Spanish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2022.naacl-main.359",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.359/"
+}

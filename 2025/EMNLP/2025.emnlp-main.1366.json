@@ -1,0 +1,27 @@
+{
+  "title": "Parrot: A Training Pipeline Enhances Both Program CoT and Natural Language CoT for Reasoning",
+  "authors": [
+    "Senjie Jin",
+    "Lu Chen",
+    "Zhiheng Xi",
+    "Yuhui Wang",
+    "Sirui Song",
+    "Yuhao Zhou",
+    "Xinbo Zhang",
+    "Peng Sun",
+    "Hong Lu",
+    "Tao Gui",
+    "Qi Zhang",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-main.1366",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1366/"
+}

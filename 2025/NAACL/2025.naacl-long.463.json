@@ -1,0 +1,27 @@
+{
+  "title": "SMAB: MAB based word Sensitivity Estimation Framework and its Applications in Adversarial Text Generation",
+  "authors": [
+    "Saurabh Kumar Pandey",
+    "Sachin Vashistha",
+    "Debrup Das",
+    "Somak Aditya",
+    "Monojit Choudhury"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "French",
+    "German",
+    "Greek",
+    "Hindi",
+    "Spanish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-long.463",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.463/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "RevMUX: Data Multiplexing with Reversible Adapters for Efficient LLM Batch Inference",
+  "authors": [
+    "Yige Xu",
+    "Xu Guo",
+    "Zhiwei Zeng",
+    "Chunyan Miao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.emnlp-main.1232",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1232/"
+}

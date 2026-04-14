@@ -1,0 +1,23 @@
+{
+  "title": "ByoKG-RAG: Multi-Strategy Graph Retrieval for Knowledge Graph Question Answering",
+  "authors": [
+    "Costas Mavromatis",
+    "Soji Adeshina",
+    "Vassilis N. Ioannidis",
+    "Zhen Han",
+    "Qi Zhu",
+    "Ian Robinson",
+    "Bryan Thompson",
+    "Huzefa Rangwala",
+    "George Karypis"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.emnlp-main.1417",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1417/"
+}

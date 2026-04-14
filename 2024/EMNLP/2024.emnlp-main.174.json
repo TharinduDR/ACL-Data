@@ -1,0 +1,21 @@
+{
+  "title": "The Accuracy Paradox in RLHF: When Better Reward Models Don't Yield Better Language Models",
+  "authors": [
+    "Yanjun Chen",
+    "Dawei Zhu",
+    "Yirong Sun",
+    "Xinghao Chen",
+    "Wei Zhang",
+    "Xiaoyu Shen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.174",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.174/"
+}

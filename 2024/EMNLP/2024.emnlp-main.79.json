@@ -1,0 +1,25 @@
+{
+  "title": "Reuse Your Rewards: Reward Model Transfer for Zero-Shot Cross-Lingual Alignment",
+  "authors": [
+    "Zhao Feng Wu",
+    "Ananth Balashankar",
+    "Yoon Kim",
+    "Jacob Eisenstein",
+    "Ahmad Beirami"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Russian",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.79",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.79/"
+}

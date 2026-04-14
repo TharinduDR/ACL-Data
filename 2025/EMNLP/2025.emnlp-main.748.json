@@ -1,0 +1,20 @@
+{
+  "title": "Efficient Beam Search for LLMs Using Trie-Based Decoding",
+  "authors": [
+    "Brian J Chan",
+    "MaoXun Huang",
+    "Jui-Hung Cheng",
+    "Chao-Ting Chen",
+    "Hen-Hsen Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.748",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.748/"
+}

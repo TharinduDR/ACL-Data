@@ -1,0 +1,25 @@
+{
+  "title": "Maximum Bayes Smatch Ensemble Distillation for AMR Parsing",
+  "authors": [
+    "Young-Suk Lee",
+    "Ramón Fernandez Astudillo",
+    "Thanh Lam Hoang",
+    "Tahira Naseem",
+    "Radu Florian",
+    "Salim Roukos"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Italian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.naacl-main.393",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.393/"
+}

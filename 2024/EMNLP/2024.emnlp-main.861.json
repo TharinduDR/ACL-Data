@@ -1,0 +1,21 @@
+{
+  "title": "Re-ReST: Reflection-Reinforced Self-Training for Language Agents",
+  "authors": [
+    "Zi-Yi Dou",
+    "Cheng-Fu Yang",
+    "Xueqing Wu",
+    "Kai-Wei Chang",
+    "Nanyun Peng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T27 Code generation and programming languages",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2024.emnlp-main.861",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.861/"
+}

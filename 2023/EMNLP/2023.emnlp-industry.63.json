@@ -1,0 +1,19 @@
+{
+  "title": "InstructPTS: Instruction-Tuning LLMs for Product Title Summarization",
+  "authors": [
+    "Besnik Fetahu",
+    "Zhiyu Chen",
+    "Oleg Rokhlenko",
+    "Shervin Malmasi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.emnlp-industry.63",
+  "acl_url": "https://aclanthology.org/2023.emnlp-industry.63/"
+}

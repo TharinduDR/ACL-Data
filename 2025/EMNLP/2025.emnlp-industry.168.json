@@ -1,0 +1,20 @@
+{
+  "title": "T-VEC: A Telecom-Specific Vectorization Model with Enhanced Semantic Understanding via Deep Triplet Loss Fine-Tuning",
+  "authors": [
+    "Vignesh Ethiraj",
+    "Ashwath David",
+    "Sidhanth Menon",
+    "Divya Vijay",
+    "Vidhyakshaya Kannan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-industry.168",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.168/"
+}

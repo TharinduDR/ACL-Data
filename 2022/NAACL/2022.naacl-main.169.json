@@ -1,0 +1,21 @@
+{
+  "title": "Sparse Distillation: Speeding Up Text Classification by Using Bigger Student Models",
+  "authors": [
+    "Qinyuan Ye",
+    "Madian Khabsa",
+    "Mike Lewis",
+    "Sinong Wang",
+    "Xiang Ren",
+    "Aaron Jaech"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-main.169",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.169/"
+}

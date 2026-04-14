@@ -1,0 +1,23 @@
+{
+  "title": "PLAN-TUNING: Post-Training Language Models to Learn Step-by-Step Planning for Complex Problem Solving",
+  "authors": [
+    "Mihir Parmar",
+    "Palash Goyal",
+    "Xin Liu",
+    "Yiwen Song",
+    "Mingyang Ling",
+    "Chitta Baral",
+    "Hamid Palangi",
+    "Tomas Pfister"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2025.emnlp-main.1087",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1087/"
+}

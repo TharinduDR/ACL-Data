@@ -1,0 +1,20 @@
+{
+  "title": "LASER: An LLM-based ASR Scoring and Evaluation Rubric",
+  "authors": [
+    "Amruta Parulekar",
+    "Preethi Jyothi"
+  ],
+  "languages": [
+    "Hindi",
+    "Marathi",
+    "Malayalam",
+    "Kannada",
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1257",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1257/"
+}

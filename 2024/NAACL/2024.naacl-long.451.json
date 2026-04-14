@@ -1,0 +1,26 @@
+{
+  "title": "Improving Machine Translation with Human Feedback: An Exploration of Quality Estimation as a Reward Model",
+  "authors": [
+    "Zhiwei He",
+    "Xing Wang",
+    "Wenxiang Jiao",
+    "Zhuosheng Zhang",
+    "Rui Wang",
+    "Shuming Shi",
+    "Zhaopeng Tu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Ukrainian",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.451",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.451/"
+}

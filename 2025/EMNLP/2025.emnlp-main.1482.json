@@ -1,0 +1,26 @@
+{
+  "title": "LiTRANSProQA: An LLM-based Literary Translation Evaluation Metric with Professional Question Answering",
+  "authors": [
+    "Ran Zhang",
+    "Wei Zhao",
+    "Lieve Macken",
+    "Steffen Eger"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "French",
+    "Russian",
+    "Czech",
+    "Japanese",
+    "Polish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.1482",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1482/"
+}

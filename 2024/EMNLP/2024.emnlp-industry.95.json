@@ -1,0 +1,27 @@
+{
+  "title": "Sequential LLM Framework for Fashion Recommendation",
+  "authors": [
+    "Han Liu",
+    "Xianfeng Tang",
+    "Tianlang Chen",
+    "Jiapeng Liu",
+    "Indu Indu",
+    "Henry Peng Zou",
+    "Peng Dai",
+    "Roberto Fernandez Galan",
+    "Michael D Porter",
+    "Dongmei Jia",
+    "Ning Zhang",
+    "Lian Xiong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.emnlp-industry.95",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.95/"
+}

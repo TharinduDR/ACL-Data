@@ -1,0 +1,29 @@
+{
+  "title": "LongLeader: A Comprehensive Leaderboard for Large Language Models in Long-context Scenarios",
+  "authors": [
+    "Pei Chen",
+    "Hongye Jin",
+    "Cheng-Che Lee",
+    "Rulin Shao",
+    "Jingfeng Yang",
+    "Mingyu Zhao",
+    "Zhaoyu Zhang",
+    "Qin Lu",
+    "Kaiwen Men",
+    "Ning Xie",
+    "Huasheng Li",
+    "Bing Yin",
+    "Han Li",
+    "Lingyun Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.naacl-long.439",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.439/"
+}

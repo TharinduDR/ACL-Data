@@ -1,0 +1,21 @@
+{
+  "title": "A Generic Method for Fine-grained Category Discovery in Natural Language Texts",
+  "authors": [
+    "Chang Tian",
+    "Matthew B. Blaschko",
+    "Wenpeng Yin",
+    "Mingze Xing",
+    "Yinliang Yue",
+    "Marie-Francine Moens"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.emnlp-main.208",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.208/"
+}

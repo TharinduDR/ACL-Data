@@ -1,0 +1,22 @@
+{
+  "title": "CRAB: A Benchmark for Evaluating Curation of Retrieval-Augmented LLMs in Biomedicine",
+  "authors": [
+    "Hanmeng Zhong",
+    "Linqing Chen",
+    "Wentao Wu",
+    "Weilei Wang"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T26 Clinical/biomedical NLP",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-industry.3",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.3/"
+}

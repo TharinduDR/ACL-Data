@@ -1,0 +1,22 @@
+{
+  "title": "VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models",
+  "authors": [
+    "Yifei Liu",
+    "Jicheng Wen",
+    "Yang Wang",
+    "Shengyu Ye",
+    "Li Lyna Zhang",
+    "Ting Cao",
+    "Cheng Li",
+    "Mao Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.467",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.467/"
+}

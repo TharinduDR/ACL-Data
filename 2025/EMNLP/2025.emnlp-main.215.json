@@ -1,0 +1,27 @@
+{
+  "title": "DIDS: Domain Impact-aware Data Sampling for Large Language Model Training",
+  "authors": [
+    "Weijie Shi",
+    "Jipeng Zhang",
+    "Yaguang Wu",
+    "Jingzhi Fang",
+    "Shibo Zhang",
+    "Yao Zhao",
+    "Hao Chen",
+    "Ruiyuan Zhang",
+    "Yue Cui",
+    "Jia Zhu",
+    "Sirui Han",
+    "Jiajie Xu",
+    "Xiaofang Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.215",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.215/"
+}

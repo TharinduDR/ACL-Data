@@ -1,0 +1,25 @@
+{
+  "title": "KMATRIX-2: A Comprehensive Heterogeneous Knowledge Collaborative Enhancement Toolkit for Large Language Model",
+  "authors": [
+    "Shun Wu",
+    "Di Wu",
+    "Wangtao Sun",
+    "Ziyang Huang",
+    "Xiaowei Yuan",
+    "Kun Luo",
+    "XueYou Zhang",
+    "Shizhu He",
+    "Jun Zhao",
+    "Kang Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-demos.42",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.42/"
+}

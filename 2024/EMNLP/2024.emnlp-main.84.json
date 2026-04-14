@@ -1,0 +1,21 @@
+{
+  "title": "Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps",
+  "authors": [
+    "Yung-Sung Chuang",
+    "Linlu Qiu",
+    "Cheng-Yu Hsieh",
+    "Ranjay Krishna",
+    "Yoon Kim",
+    "James Glass"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-main.84",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.84/"
+}

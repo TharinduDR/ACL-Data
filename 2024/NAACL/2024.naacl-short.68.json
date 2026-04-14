@@ -1,0 +1,22 @@
+{
+  "title": "Language-Independent Representations Improve Zero-Shot Summarization",
+  "authors": [
+    "Vladimir Solovyev",
+    "Danni Liu",
+    "Jan Niehues"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Russian",
+    "Gujarati",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2024.naacl-short.68",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.68/"
+}

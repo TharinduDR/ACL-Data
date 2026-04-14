@@ -1,0 +1,23 @@
+{
+  "title": "Compositional Generalization for Neural Semantic Parsing via Span-level Supervised Attention",
+  "authors": [
+    "Pengcheng Yin",
+    "Hao Fang",
+    "Graham Neubig",
+    "Adam Pauls",
+    "Emmanouil Antonios Platanios",
+    "Yu Su",
+    "Sam Thomson",
+    "Jacob Andreas"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.naacl-main.225",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.225/"
+}

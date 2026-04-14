@@ -1,0 +1,24 @@
+{
+  "title": "Efficient Compositional Multi-tasking for On-device Large Language Models",
+  "authors": [
+    "Ondrej Bohdal",
+    "Mete Ozay",
+    "Jijooong Moon",
+    "Kyeng-Hun Lee",
+    "Hyeonmok Ko",
+    "Umberto Michieli"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.1429",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1429/"
+}

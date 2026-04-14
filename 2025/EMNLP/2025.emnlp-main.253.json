@@ -1,0 +1,22 @@
+{
+  "title": "SDGO: Self-Discrimination-Guided Optimization for Consistent Safety in Large Language Models",
+  "authors": [
+    "Peng Ding",
+    "Wen Sun",
+    "Dailin Li",
+    "Wei Zou",
+    "Jiaming Wang",
+    "Jiajun Chen",
+    "Shujian Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.253",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.253/"
+}

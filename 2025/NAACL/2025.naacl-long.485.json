@@ -1,0 +1,44 @@
+{
+  "title": "Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models",
+  "authors": [
+    "Chaoqun Liu",
+    "Wenxuan Zhang",
+    "Yiran Zhao",
+    "Anh Tuan Luu",
+    "Lidong Bing"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Russian",
+    "French",
+    "Spanish",
+    "Japanese",
+    "Italian",
+    "Vietnamese",
+    "Turkish",
+    "Indonesian",
+    "Swahili",
+    "Arabic",
+    "Korean",
+    "Greek",
+    "Thai",
+    "Bulgarian",
+    "Hindi",
+    "Estonian",
+    "Bengali",
+    "Tamil",
+    "Urdu",
+    "Telugu",
+    "Haitian Creole",
+    "Southern Quechua"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.naacl-long.485",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.485/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "KB-Plugin: A Plug-and-play Framework for Large Language Models to Induce Programs over Low-resourced Knowledge Bases",
+  "authors": [
+    "Jiajie Zhang",
+    "Shulin Cao",
+    "Linmei Hu",
+    "Ling Feng",
+    "Lei Hou",
+    "Juanzi Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.emnlp-main.168",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.168/"
+}

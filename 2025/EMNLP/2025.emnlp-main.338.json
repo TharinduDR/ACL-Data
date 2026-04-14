@@ -1,0 +1,25 @@
+{
+  "title": "FlightGPT: Towards Generalizable and Interpretable UAV Vision-and-Language Navigation with Vision-Language Models",
+  "authors": [
+    "Hengxing Cai",
+    "Jinhan Dong",
+    "Jingjun Tan",
+    "Jingcheng Deng",
+    "Sihang Li",
+    "Zhifeng Gao",
+    "Haidong Wang",
+    "Zicheng Su",
+    "Agachai Sumalee",
+    "Renxin Zhong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.338",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.338/"
+}

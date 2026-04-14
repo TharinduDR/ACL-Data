@@ -1,0 +1,25 @@
+{
+  "title": "Reverse Modeling in Large Language Models",
+  "authors": [
+    "Sicheng Yu",
+    "Yuanchen Xu",
+    "Cunxiao Du",
+    "Yanying Zhou",
+    "Minghui Qiu",
+    "Qianru Sun",
+    "Hao Zhang",
+    "Jiawei Wu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Korean",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-short.27",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.27/"
+}

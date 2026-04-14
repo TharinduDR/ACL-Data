@@ -1,0 +1,23 @@
+{
+  "title": "FB-Bench: A Fine-Grained Multi-Task Benchmark for Evaluating LLMs' Responsiveness to Human Feedback",
+  "authors": [
+    "Youquan Li",
+    "Miao Zheng",
+    "Fan Yang",
+    "Guosheng Dong",
+    "Bin Cui",
+    "Weipeng Chen",
+    "Zenan Zhou",
+    "Wentao Zhang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-main.471",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.471/"
+}

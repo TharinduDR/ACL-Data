@@ -1,0 +1,43 @@
+{
+  "title": "Is It Navajo? Accurate Language Detection for Endangered Athabaskan Languages",
+  "authors": [
+    "Ivory Yang",
+    "Weicheng Ma",
+    "Chunhui Zhang",
+    "Sorouch Vosoughi"
+  ],
+  "languages": [
+    "Navajo",
+    "Icelandic",
+    "Lingala",
+    "Wolof",
+    "Czech",
+    "Polish",
+    "Manx",
+    "Fulah",
+    "Yoruba",
+    "Portuguese",
+    "Somali",
+    "Slovak",
+    "Tsonga",
+    "Spanish",
+    "Oromo",
+    "Indonesian",
+    "Igbo",
+    "Northern Sami",
+    "Irish",
+    "Arabic",
+    "English",
+    "Western Apache",
+    "Mescalero Apache",
+    "Jicarilla Apache",
+    "Lipan Apache"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2025.naacl-short.24",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.24/"
+}

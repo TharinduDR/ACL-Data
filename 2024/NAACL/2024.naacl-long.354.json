@@ -1,0 +1,22 @@
+{
+  "title": "Grammar-based Data Augmentation for Low-Resource Languages: The Case of Guarani-Spanish Neural Machine Translation",
+  "authors": [
+    "Agustín Lucas",
+    "Alexis Baladón",
+    "Victoria Pardiñas",
+    "Marvin Agüero-Torales",
+    "Santiago Góngora",
+    "Luis Chiruzzo"
+  ],
+  "languages": [
+    "Guarani",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.naacl-long.354",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.354/"
+}

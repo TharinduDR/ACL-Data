@@ -1,0 +1,24 @@
+{
+  "title": "KnowTuning: Knowledge-aware Fine-tuning for Large Language Models",
+  "authors": [
+    "Yougang Lyu",
+    "Lingyong Yan",
+    "Shuaiqiang Wang",
+    "Haibo Shi",
+    "Dawei Yin",
+    "Pengjie Ren",
+    "Zhumin Chen",
+    "Maarten de Rijke",
+    "Zhaochun Ren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.805",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.805/"
+}

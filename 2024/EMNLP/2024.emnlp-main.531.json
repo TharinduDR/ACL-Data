@@ -1,0 +1,27 @@
+{
+  "title": "Enhancing Systematic Decompositional Natural Language Inference Using Informal Logic",
+  "authors": [
+    "Nathaniel Weir",
+    "Kate Sanders",
+    "Orion Weller",
+    "Shreya Sharma",
+    "Dongwei Jiang",
+    "Zhengping Jiang",
+    "Bhavana Dalvi Mishra",
+    "Oyvind Tafjord",
+    "Peter Jansen",
+    "Peter Clark",
+    "Benjamin Van Durme"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-main.531",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.531/"
+}

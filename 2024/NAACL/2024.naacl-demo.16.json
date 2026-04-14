@@ -1,0 +1,22 @@
+{
+  "title": "pyvene: A Library for Understanding and Improving PyTorch Models via Interventions",
+  "authors": [
+    "Zhengxuan Wu",
+    "Atticus Geiger",
+    "Aryaman Arora",
+    "Jing Huang",
+    "Zheng Wang",
+    "Noah D. Goodman",
+    "Christopher D. Manning",
+    "Christopher Potts"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.naacl-demo.16",
+  "acl_url": "https://aclanthology.org/2024.naacl-demo.16/"
+}

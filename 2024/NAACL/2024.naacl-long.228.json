@@ -1,0 +1,24 @@
+{
+  "title": "Better Zero-Shot Reasoning with Role-Play Prompting",
+  "authors": [
+    "Aobo Kong",
+    "Shiwan Zhao",
+    "Hao Chen",
+    "Qicheng Li",
+    "Yong Qin",
+    "Ruiqi Sun",
+    "Xin Zhou",
+    "Enzhi Wang",
+    "Xiaohang Dong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.naacl-long.228",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.228/"
+}

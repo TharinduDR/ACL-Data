@@ -1,0 +1,31 @@
+{
+  "title": "OWL: Probing Cross-Lingual Recall of Memorized Texts via World Literature",
+  "authors": [
+    "Alisha Srivastava",
+    "Emir Kaan Korukluoglu",
+    "Minh Nhat Le",
+    "Duyen Tran",
+    "Chau Minh Pham",
+    "Marzena Karpinska",
+    "Mohit Iyyer"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Turkish",
+    "Vietnamese",
+    "Sesotho",
+    "Yoruba",
+    "Setswana",
+    "Maithili",
+    "Malagasy",
+    "Tahitian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2025.emnlp-main.1314",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1314/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "DiffCSE: Difference-based Contrastive Learning for Sentence Embeddings",
+  "authors": [
+    "Yung-Sung Chuang",
+    "Rumen Dangovski",
+    "Hongyin Luo",
+    "Yang Zhang",
+    "Shiyu Chang",
+    "Marin Soljačić",
+    "Shang-Wen Li",
+    "Wen-tau Yih",
+    "Yoon Kim",
+    "James Glass"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-main.311",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.311/"
+}

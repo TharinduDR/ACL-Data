@@ -1,0 +1,28 @@
+{
+  "title": "Multilingual Multimodal Pre-training for Zero-Shot Cross-Lingual Transfer of Vision-Language Models",
+  "authors": [
+    "Po-Yao Huang",
+    "Mandela Patrick",
+    "Junjie Hu",
+    "Graham Neubig",
+    "Florian Metze",
+    "Alexander Hauptmann"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Czech",
+    "Chinese",
+    "Russian",
+    "Swahili",
+    "Vietnamese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.naacl-main.195",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.195/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Analyzing the Effects of Supervised Fine-Tuning on Model Knowledge from Token and Parameter Levels",
+  "authors": [
+    "Junjie Ye",
+    "Yuming Yang",
+    "Yang Nan",
+    "Shuo Li",
+    "Qi Zhang",
+    "Tao Gui",
+    "Xuanjing Huang",
+    "Peng Wang",
+    "Zhongchao Shi",
+    "Jianping Fan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.25",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.25/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "MuCPAD: A Multi-Domain Chinese Predicate-Argument Dataset",
+  "authors": [
+    "Yahui Liu",
+    "Haoping Yang",
+    "Chen Gong",
+    "Qingrong Xia",
+    "Zhenghua Li",
+    "Min Zhang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.naacl-main.123",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.123/"
+}

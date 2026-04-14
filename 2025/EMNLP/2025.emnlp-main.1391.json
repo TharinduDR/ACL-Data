@@ -1,0 +1,23 @@
+{
+  "title": "Frame First, Then Extract: A Frame-Semantic Reasoning Pipeline for Zero-Shot Relation Triplet Extraction",
+  "authors": [
+    "Zehan Li",
+    "Fu Zhang*",
+    "Wenqing Zhang",
+    "Jiawei Li",
+    "Zhou Li",
+    "Jingwei Cheng",
+    "Tianyue Peng"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.1391",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1391/"
+}

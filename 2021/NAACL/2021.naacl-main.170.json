@@ -1,0 +1,21 @@
+{
+  "title": "KPQA: A Metric for Generative Question Answering Using Keyphrase Weights",
+  "authors": [
+    "Hwanhee Lee",
+    "Seunghyun Yoon",
+    "Franck Dernoncourt",
+    "Doo Soon Kim",
+    "Trung Bui",
+    "Joongbo Shin",
+    "Kyomin Jung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2021.naacl-main.170",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.170/"
+}

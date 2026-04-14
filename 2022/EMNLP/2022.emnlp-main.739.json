@@ -10,9 +10,9 @@
     "English"
   ],
   "research_areas": [
-    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
-    "T09 Inference and Reasoning",
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+    "T03",
+    "T09",
+    "T14"
   ],
   "paper_id": "2022.emnlp-main.739",
   "acl_url": "https://aclanthology.org/2022.emnlp-main.739/"

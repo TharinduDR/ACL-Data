@@ -1,0 +1,18 @@
+{
+  "title": "Improving Toponym Resolution by Predicting Attributes to Constrain Geographical Ontology Entries",
+  "authors": [
+    "Zeyu Zhang",
+    "Egoitz Laparra",
+    "Steven Bethard"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.naacl-short.3",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.3/"
+}

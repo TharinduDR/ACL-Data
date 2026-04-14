@@ -1,0 +1,37 @@
+{
+  "title": "Twists, Humps, and Pebbles: Multilingual Speech Recognition Models Exhibit Gender Performance Gaps",
+  "authors": [
+    "Giuseppe Attanasio",
+    "Beatrice Savoldi",
+    "Dennis Fucci",
+    "Dirk Hovy"
+  ],
+  "languages": [
+    "Arabic",
+    "Catalan",
+    "Chinese",
+    "Czech",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Italian",
+    "Japanese",
+    "Portuguese",
+    "Russian",
+    "Slovak",
+    "Spanish",
+    "Swahili",
+    "Turkish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.emnlp-main.1188",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1188/"
+}

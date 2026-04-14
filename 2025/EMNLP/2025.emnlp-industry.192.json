@@ -1,0 +1,31 @@
+{
+  "title": "AutoDSPy: Automating Modular Prompt Design with Reinforcement Learning for Small and Large Language Models",
+  "authors": [
+    "Nafew Azim",
+    "Abrar Ur Alam",
+    "Hasan Bin Omar",
+    "Abdullah Mohammad Muntasir Adnan Jami",
+    "Jawad Ibn Ahad",
+    "Muhammad Rafsan Kabir",
+    "Md. Ismail Hossain",
+    "Fuad Rahman",
+    "Mohammad Ruhul Amin",
+    "Shafin Rahman",
+    "Nabeel Mohammed"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Swahili",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-industry.192",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.192/"
+}

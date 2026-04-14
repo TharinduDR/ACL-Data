@@ -1,0 +1,23 @@
+{
+  "title": "Small LLMs Are Weak Tool Learners: A Multi-LLM Agent",
+  "authors": [
+    "Weizhou Shen",
+    "Chenliang Li",
+    "Hongzhan Chen",
+    "Ming Yan",
+    "Xiaojun Quan",
+    "Hehong Chen",
+    "Ji Zhang",
+    "Fei Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.emnlp-main.929",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.929/"
+}

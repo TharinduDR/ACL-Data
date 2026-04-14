@@ -1,0 +1,20 @@
+{
+  "title": "QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering",
+  "authors": [
+    "Michihiro Yasunaga",
+    "Hongyu Ren",
+    "Antoine Bosselut",
+    "Percy Liang",
+    "Jure Leskovec"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.naacl-main.45",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.45/"
+}

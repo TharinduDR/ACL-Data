@@ -1,0 +1,23 @@
+{
+  "title": "Simple Local Attentions Remain Competitive for Long-Context Tasks",
+  "authors": [
+    "Wenhan Xiong",
+    "Barlas Oüguz",
+    "Anchit Gupta",
+    "Xilun Chen",
+    "Diana Liskovich",
+    "Omer Levy",
+    "Wen-tau Yih",
+    "Yashar Mehdad"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T20 Sentiment Analysis"
+  ],
+  "paper_id": "2022.naacl-main.144",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.144/"
+}

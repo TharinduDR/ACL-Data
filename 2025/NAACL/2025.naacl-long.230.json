@@ -1,0 +1,21 @@
+{
+  "title": "SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model",
+  "authors": [
+    "Jiayang Yu",
+    "Yihang Zhang",
+    "Bin Wang",
+    "Peiqin Lin",
+    "Yongkang Liu",
+    "Shi Feng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.naacl-long.230",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.230/"
+}

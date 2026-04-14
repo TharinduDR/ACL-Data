@@ -1,0 +1,25 @@
+{
+  "title": "On the Economics of Multilingual Few-shot Learning: Modeling the Cost-Performance Trade-offs of Machine Translated and Manual Data",
+  "authors": [
+    "Kabir Ahuja",
+    "Monojit Choudhury",
+    "Sandipan Dandapat"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Finnish",
+    "Indonesian",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2022.naacl-main.98",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.98/"
+}

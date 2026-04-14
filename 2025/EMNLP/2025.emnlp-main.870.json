@@ -1,0 +1,22 @@
+{
+  "title": "Web Intellectual Property at Risk: Preventing Unauthorized Real-Time Retrieval by Large Language Models",
+  "authors": [
+    "Yisheng Zhong",
+    "Yizhu Wen",
+    "Junfeng Guo",
+    "Mehran Kafai",
+    "Heng Huang",
+    "Hanqing Guo",
+    "Zhuangdi Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.870",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.870/"
+}

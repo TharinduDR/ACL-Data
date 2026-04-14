@@ -1,0 +1,25 @@
+{
+  "title": "Unconditional Truthfulness: Learning Unconditional Uncertainty of Large Language Models",
+  "authors": [
+    "Artem Vazhentsev",
+    "Ekaterina Fadeeva",
+    "Rui Xing",
+    "Gleb Kuzmin",
+    "Ivan Lazichny",
+    "Alexander Panchenko",
+    "Preslav Nakov",
+    "Timothy Baldwin",
+    "Maxim Panov",
+    "Artem Shelmanov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.1807",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1807/"
+}

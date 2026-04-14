@@ -1,0 +1,20 @@
+{
+  "title": "SilVar: Speech-Driven Multimodal Model for Reasoning Visual Question Answering and Object Localization",
+  "authors": [
+    "Tan-Hanh Pham",
+    "Le Hoang Nam",
+    "Nguyen Phu Vinh",
+    "Chris Ngo",
+    "Truong-Son Hy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.589",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.589/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets",
+  "authors": [
+    "Chenlin Liu",
+    "Minghui Fang",
+    "Patrick Zhang",
+    "Wei Zhou",
+    "Jie Gao",
+    "Jiqing Han"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.emnlp-main.976",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.976/"
+}

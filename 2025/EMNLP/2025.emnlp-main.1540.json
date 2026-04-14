@@ -1,0 +1,24 @@
+{
+  "title": "FLUID QA: A Multilingual Benchmark for Figurative Language Usage in Dialogue across English, Chinese, and Korean",
+  "authors": [
+    "Seoyoon Park",
+    "Hyeji Choi",
+    "Minseon Kim",
+    "Subin An",
+    "Xiaonan Wang",
+    "Gyuri Choi",
+    "Hansae Kim"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Korean"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T05 Discourse and Pragmatics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.emnlp-main.1540",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1540/"
+}

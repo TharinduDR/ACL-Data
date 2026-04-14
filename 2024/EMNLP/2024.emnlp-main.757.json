@@ -1,0 +1,20 @@
+{
+  "title": "Don't Just Say 'I don't know'! Self-aligning Large Language Models for Responding to Unknown Questions with Explanations",
+  "authors": [
+    "Yang Deng",
+    "Yong Zhao",
+    "Moxin Li",
+    "See-Kiong Ng",
+    "Tat-Seng Chua"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-main.757",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.757/"
+}

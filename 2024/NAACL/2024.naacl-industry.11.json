@@ -1,0 +1,19 @@
+{
+  "title": "REXEL: An End-to-end Model for Document-Level Relation Extraction and Entity Linking",
+  "authors": [
+    "Nacime Bouziani",
+    "Shubhi Tyagi",
+    "Joseph Fisher",
+    "Jens Lehmann",
+    "Andrea Pierleoni"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.naacl-industry.11",
+  "acl_url": "https://aclanthology.org/2024.naacl-industry.11/"
+}

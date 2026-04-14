@@ -1,0 +1,21 @@
+{
+  "title": "Making Language Models Better Tool Learners with Execution Feedback",
+  "authors": [
+    "Shuofei Qiao",
+    "Honghao Gui",
+    "Chengfei Lv",
+    "Qianghuai Jia",
+    "Huajun Chen",
+    "Ningyu Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.naacl-long.195",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.195/"
+}

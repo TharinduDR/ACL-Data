@@ -1,0 +1,21 @@
+{
+  "title": "CORD: Balancing COnsistency and Rank Distillation for Robust Retrieval-Augmented Generation",
+  "authors": [
+    "Youngwon Lee",
+    "Seung-won Hwang",
+    "Daniel Campos",
+    "Filip Graliński",
+    "Zhewei Yao",
+    "Yuxiong He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.naacl-short.66",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.66/"
+}

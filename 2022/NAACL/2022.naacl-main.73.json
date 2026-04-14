@@ -1,0 +1,24 @@
+{
+  "title": "DocTime: A Document-level Temporal Dependency Graph Parser",
+  "authors": [
+    "Puneet Mathur",
+    "Vlad I Morariu",
+    "Verena Kaynig-Fittkau",
+    "Jiuxiang Gu",
+    "Franck Dernoncourt",
+    "Quan Hung Tran",
+    "Ani Nenkova",
+    "Dinesh Manocha",
+    "Rajiv Jain"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T25 Legal NLP",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.naacl-main.73",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.73/"
+}

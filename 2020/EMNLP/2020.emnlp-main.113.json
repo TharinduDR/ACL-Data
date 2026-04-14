@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
-    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T29 NLP for education"
   ],
   "paper_id": "2020.emnlp-main.113",
   "acl_url": "https://aclanthology.org/2020.emnlp-main.113/"

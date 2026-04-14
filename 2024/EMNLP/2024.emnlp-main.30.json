@@ -1,0 +1,24 @@
+{
+  "title": "EmphAssess: a Prosodic Benchmark on Assessing Emphasis Transfer in Speech-to-Speech Models",
+  "authors": [
+    "Maureen de Seyssel",
+    "Antony D'Avirro",
+    "Adina Williams",
+    "Emmanuel Dupoux"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Vietnamese",
+    "Italian",
+    "French",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.30",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.30/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "CFinBench: A Comprehensive Chinese Financial Benchmark for Large Language Models",
+  "authors": [
+    "Ying Nie",
+    "Binwei Yan",
+    "Tianyu Guo",
+    "Hao Liu",
+    "Haoyu Wang",
+    "Wei He",
+    "Binfan Zheng",
+    "Weihao Wang",
+    "Qiang Li",
+    "Weijian Sun",
+    "Yunhe Wang",
+    "Dacheng Tao"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.naacl-long.40",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.40/"
+}

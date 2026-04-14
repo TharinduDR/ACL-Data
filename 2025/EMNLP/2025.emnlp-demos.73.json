@@ -1,0 +1,22 @@
+{
+  "title": "Bratly: A Python Extension for BRAT Functionalities",
+  "authors": [
+    "Jamil Zaghir",
+    "Jean-Philippe Goldman",
+    "Nikola Bjelogrlic",
+    "Mina Bjelogrlic",
+    "Christian Lovis"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.emnlp-demos.73",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.73/"
+}

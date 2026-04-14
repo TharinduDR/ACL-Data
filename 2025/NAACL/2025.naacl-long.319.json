@@ -1,0 +1,20 @@
+{
+  "title": "Rethinking the Role of LLMs for Document-level Relation Extraction: a Refiner with Task Distribution and Probability Fusion",
+  "authors": [
+    "Fu Zhang",
+    "Xinlong Jin",
+    "Jingwei Cheng",
+    "Hongsan Yu",
+    "Huangming Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.319",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.319/"
+}

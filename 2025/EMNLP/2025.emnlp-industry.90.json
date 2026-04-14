@@ -1,0 +1,21 @@
+{
+  "title": "TTD-SQL: Tree-Guided Token Decoding for Efficient and Schema-Aware SQL Generation",
+  "authors": [
+    "Chetan Sharma",
+    "Kalidas Yeturu",
+    "Ramasuri Narayanan",
+    "Soumyabrata Pal",
+    "Shiv Kumar Saini",
+    "Koyel Mukherjee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-industry.90",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.90/"
+}

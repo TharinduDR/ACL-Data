@@ -1,0 +1,20 @@
+{
+  "title": "Certified Mitigation of Worst-Case LLM Copyright Infringement",
+  "authors": [
+    "Jingyu Zhang",
+    "Jiacan Yu",
+    "Marc Marone",
+    "Benjamin Van Durme",
+    "Daniel Khashabi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.emnlp-main.1784",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1784/"
+}

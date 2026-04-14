@@ -1,0 +1,33 @@
+{
+  "title": "AraEval: An Arabic Multi-Task Evaluation Suite for Large Language Models",
+  "authors": [
+    "Alhanoof Althnian",
+    "Norah Alzahrani",
+    "Shaykhah Z. Alsubaie",
+    "Eman Albilali",
+    "Ahmed Abdelali",
+    "Nouf M. Alotaibi",
+    "M Saiful Bari",
+    "Yazeed Alnumay",
+    "Abdulhamed alothaimen",
+    "Maryam Saif",
+    "Shahad D. Alzaidi",
+    "Faisal Mirza",
+    "Yousef Almushayqih",
+    "Mohammed Al Saleem",
+    "Ghadah Alabduljabbar",
+    "Abdulmohsen Al-Thubaity",
+    "Areeb Alowisheq",
+    "Nora Al-Twairesh"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T29 NLP for education",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.emnlp-main.1679",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1679/"
+}

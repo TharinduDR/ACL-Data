@@ -1,0 +1,18 @@
+{
+  "title": "GPT vs RETRO: Exploring the Intersection of Retrieval and Parameter-Efficient Fine-Tuning",
+  "authors": [
+    "Aleksander Ficek",
+    "Jiaqi Zeng",
+    "Oleksii Kuchaiev"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.emnlp-main.1081",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1081/"
+}

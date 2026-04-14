@@ -1,0 +1,24 @@
+{
+  "title": "CSSL: Contrastive Self-Supervised Learning for Dependency Parsing on Relatively Free-Word-Ordered and Morphologically-Rich Low-Resource Languages",
+  "authors": [
+    "Pretam Ray",
+    "Jivnesh Sandhan",
+    "Amrith Krishna",
+    "Pawan Goyal"
+  ],
+  "languages": [
+    "Sanskrit",
+    "Turkish",
+    "Telugu",
+    "Gothic",
+    "Hungarian",
+    "Ancient Hebrew",
+    "Lithuanian",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.emnlp-main.482",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.482/"
+}

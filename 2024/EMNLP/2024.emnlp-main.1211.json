@@ -1,0 +1,44 @@
+{
+  "title": "Casablanca: Data and Models for Multidialectal Arabic Speech Recognition",
+  "authors": [
+    "Bashar Talafha",
+    "Karima Kadaoui",
+    "Samar M. Magdy",
+    "Mariem Habiboullah",
+    "Chafei Mohamed",
+    "Ahmed O. El-Shangiti",
+    "Hiba Zayed",
+    "Mohamedou Cheikh Tourad",
+    "Rahaf Alhamouri",
+    "Rwaa Assi",
+    "Aisha Alraeesi",
+    "Hoor Mohamed",
+    "Fakhreddin Alwajih",
+    "Abdelrahman Mohamed",
+    "Abdellah El Mekki",
+    "El Moatez Billah Nagoudi",
+    "Saadia Benelhadj",
+    "Hamzah A. Alsayadi",
+    "Walid Al-Dhabyani",
+    "Sara Shatnawi",
+    "Yasir Ech-chammakhy",
+    "Amal Makouar",
+    "Yousra Berrachedi",
+    "Mustafa Jarrar",
+    "Shady Shehata",
+    "Ismail Berrada",
+    "Muhammad Abdul-Mageed"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.1211",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1211/"
+}

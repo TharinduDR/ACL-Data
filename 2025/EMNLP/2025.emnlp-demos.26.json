@@ -1,0 +1,21 @@
+{
+  "title": "DVAGEN: Dynamic Vocabulary Augmented Generation",
+  "authors": [
+    "Wei Du",
+    "Nuowei Liu",
+    "Jie Wang",
+    "Jiahao Kuang",
+    "Tao Ji",
+    "Xiaoling Wang",
+    "Yuanbin Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-demos.26",
+  "acl_url": "https://aclanthology.org/2025.emnlp-demos.26/"
+}

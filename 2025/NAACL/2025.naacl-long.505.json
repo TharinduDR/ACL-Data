@@ -1,0 +1,22 @@
+{
+  "title": "CartesianMoE: Boosting Knowledge Sharing among Experts via Cartesian Product Routing in Mixture-of-Experts",
+  "authors": [
+    "Zhenpeng Su",
+    "Xing Wu",
+    "Zijia Lin",
+    "Yizhe Xiong",
+    "Minxuan Lv",
+    "Guangyuan Ma",
+    "Hui Chen",
+    "Songlin Hu",
+    "Guiguang Ding"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-long.505",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.505/"
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Taxi1500: A Dataset for Multilingual Text Classification in 1500 Languages",
+  "authors": [
+    "Chunlan Ma",
+    "Ayyoob Imani",
+    "Haotian Ye",
+    "Renhao Pei",
+    "Ehsaneddin Asgari",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hebrew",
+    "Japanese",
+    "Kazakh",
+    "Korean",
+    "Basque",
+    "Malayalam",
+    "Persian",
+    "Chinese",
+    "Cherokee",
+    "Gagauz",
+    "Hixkaryana",
+    "Nga La",
+    "Komi-Zyrian",
+    "Kumyk",
+    "Aringa",
+    "Magahi",
+    "Dibabawon Manobo",
+    "Southeastern Puebla Nahuatl"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-short.36",
+  "acl_url": "https://aclanthology.org/2025.naacl-short.36/"
+}

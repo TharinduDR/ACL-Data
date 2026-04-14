@@ -1,0 +1,19 @@
+{
+  "title": "Tied-LoRA: Enhancing parameter efficiency of LoRA with Weight Tying",
+  "authors": [
+    "Adithya Renduchintala",
+    "Tugrul Konuk",
+    "Oleksii Kuchaiev"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.naacl-long.481",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.481/"
+}

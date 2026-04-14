@@ -1,0 +1,22 @@
+{
+  "title": "Attention-guided Self-reflection for Zero-shot Hallucination Detection in Large Language Models",
+  "authors": [
+    "Qiang Liu",
+    "Xinlong Chen",
+    "Yue Ding",
+    "Bowen Song",
+    "Weiqiang Wang",
+    "Shu Wu",
+    "Liang Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.emnlp-main.1063",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1063/"
+}

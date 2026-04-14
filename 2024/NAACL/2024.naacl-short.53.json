@@ -1,0 +1,38 @@
+{
+  "title": "The Impact of Language on Arithmetic Proficiency: A Multilingual Investigation with Cross-Agent Checking Computation",
+  "authors": [
+    "Chung-Chi Chen",
+    "Hiroya Takamura",
+    "Ichiro Kobayashi",
+    "Yusuke Miyao"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Chinese",
+    "Dutch",
+    "German",
+    "Spanish",
+    "Italian",
+    "Russian",
+    "Portuguese",
+    "Swedish",
+    "Finnish",
+    "French",
+    "Turkish",
+    "Korean",
+    "Polish",
+    "Hindi",
+    "Thai",
+    "Danish",
+    "Greek",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2024.naacl-short.53",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.53/"
+}

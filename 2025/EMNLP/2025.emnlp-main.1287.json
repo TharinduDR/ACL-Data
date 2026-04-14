@@ -1,0 +1,22 @@
+{
+  "title": "FairGen: Controlling Sensitive Attributes for Fair Generations in Diffusion Models via Adaptive Latent Guidance",
+  "authors": [
+    "Mintong Kang",
+    "Vinayshekar Bannihatti Kumar",
+    "Shamik Roy",
+    "Abhishek Kumar",
+    "Sopan Khosla",
+    "Balakrishnan Murali Narayanaswamy",
+    "Rashmi Gangadharaih"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1287",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1287/"
+}

@@ -9,9 +9,9 @@
     "French"
   ],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T14 Language Modeling",
     "T15 Lexicon and Semantics",
-    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+    "T16 Machine Translation and Translation Aids"
   ],
   "paper_id": "2020.emnlp-main.121",
   "acl_url": "https://aclanthology.org/2020.emnlp-main.121/"

@@ -1,0 +1,19 @@
+{
+  "title": "SafeQuant: LLM Safety Analysis via Quantized Gradient Inspection",
+  "authors": [
+    "Sindhu Padakandla",
+    "Sadbhavana Babar",
+    "Darshan Rathod",
+    "Manohar Kaul"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.naacl-long.127",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.127/"
+}

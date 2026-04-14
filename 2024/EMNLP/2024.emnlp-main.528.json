@@ -1,0 +1,19 @@
+{
+  "title": "Structure Guided Prompt: Instructing Large Language Model in Multi-Step Reasoning by Exploring Graph Structure of the Text",
+  "authors": [
+    "Kewei Cheng",
+    "Nesreen K. Ahmed",
+    "Theodore L. Willke",
+    "Yizhou Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.emnlp-main.528",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.528/"
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Multilinguality Does not Make Sense: Investigating Factors Behind Zero-Shot Cross-Lingual Transfer in Sense-Aware Tasks",
+  "authors": [
+    "Roksana Goworek",
+    "Haim Dubossarsky"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Hindi",
+    "Chinese",
+    "Arabic",
+    "Bulgarian",
+    "Bengali",
+    "Danish",
+    "Dutch",
+    "Farsi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Latin",
+    "Norwegian",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Turkish",
+    "Urdu",
+    "Simplified Chinese",
+    "Traditional Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1773",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1773/"
+}

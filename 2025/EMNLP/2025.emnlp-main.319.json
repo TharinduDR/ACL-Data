@@ -1,0 +1,22 @@
+{
+  "title": "Glider: Global and Local Instruction-Driven Expert Router",
+  "authors": [
+    "Pingzhi Li",
+    "Prateek Yadav",
+    "Jaehong Yoon",
+    "Jie Peng",
+    "Yi-Lin Sung",
+    "Mohit Bansal",
+    "Tianlong Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.319",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.319/"
+}

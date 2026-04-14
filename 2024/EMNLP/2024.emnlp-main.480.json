@@ -1,0 +1,22 @@
+{
+  "title": "CliMedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models in Clinical Scenarios",
+  "authors": [
+    "Zetian Ouyang",
+    "Yishuai Qiu",
+    "Linlin Wang",
+    "Gerard de Melo",
+    "Ya Zhang",
+    "Yanfeng Wang",
+    "Liang He"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.emnlp-main.480",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.480/"
+}

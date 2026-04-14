@@ -1,0 +1,34 @@
+{
+  "title": "Dynabench: Rethinking Benchmarking in NLP",
+  "authors": [
+    "Douwe Kiela",
+    "Max Bartolo",
+    "Yixin Nie",
+    "Divyansh Kaushik",
+    "Atticus Geiger",
+    "Zhengxuan Wu",
+    "Bertie Vidgen",
+    "Grusha Prasad",
+    "Amanpreet Singh",
+    "Pratik Ringshia",
+    "Zhiyi Ma",
+    "Tristan Thrush",
+    "Sebastian Riedel",
+    "Zeerak Waseem",
+    "Pontus Stenetorp",
+    "Robin Jia",
+    "Mohit Bansal",
+    "Christopher Potts",
+    "Adina Williams"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.naacl-main.324",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.324/"
+}

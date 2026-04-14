@@ -1,0 +1,23 @@
+{
+  "title": "SimpleDoc: Multi-Modal Document Understanding with Dual-Cue Page Retrieval and Iterative Refinement",
+  "authors": [
+    "Chelsi Jain",
+    "Yiran Wu",
+    "Yifan Zeng",
+    "Jiale Liu",
+    "Shengyu Dai",
+    "Zhenwen Shao",
+    "Qingyun Wu",
+    "Huazheng Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.1443",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1443/"
+}

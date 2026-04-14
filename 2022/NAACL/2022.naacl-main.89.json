@@ -1,0 +1,24 @@
+{
+  "title": "DISAPERE: A Dataset for Discourse Structure in Peer Review Discussions",
+  "authors": [
+    "Neha Nayak Kennard",
+    "Tim O'Gorman",
+    "Rajarshi Das",
+    "Akshay Sharma",
+    "Chhandak Bagehi",
+    "Matthew Clinton",
+    "Pranay Kumar Yelugam",
+    "Hamed Zamani",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T05 Discourse and Pragmatics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-main.89",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.89/"
+}

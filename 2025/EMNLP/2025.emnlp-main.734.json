@@ -1,0 +1,20 @@
+{
+  "title": "SPIRIT: Patching Speech Language Models against Jailbreak Attacks",
+  "authors": [
+    "Amirbek Djanibekov",
+    "Nurdaulet Mukhituly",
+    "Kentaro Inui",
+    "Hanan Aldarmaki",
+    "Nils Lukas"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.emnlp-main.734",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.734/"
+}

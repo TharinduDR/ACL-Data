@@ -1,0 +1,27 @@
+{
+  "title": "Leitner-Guided Memory Replay for Cross-lingual Continual Learning",
+  "authors": [
+    "Meryem M'hamdi",
+    "Jonathan May"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hindi",
+    "Thai",
+    "French",
+    "Chinese",
+    "Turkish",
+    "Indonesian",
+    "Russian",
+    "Swahili",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2024.naacl-long.432",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.432/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "RTQA: Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models",
+  "authors": [
+    "Zhaoyan Gong",
+    "Juan Li",
+    "Zhiqiang Liu",
+    "Lei Liang",
+    "Huajun Chen",
+    "Wen Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.499",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.499/"
+}

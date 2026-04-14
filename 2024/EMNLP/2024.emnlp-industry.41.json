@@ -1,0 +1,20 @@
+{
+  "title": "MERLIN: Multimodal Embedding Refinement via LLM-based Iterative Navigation for Text-Video Retrieval-Rerank Pipeline",
+  "authors": [
+    "Donghoon Han",
+    "Eunhwan Park",
+    "Gisang Lee",
+    "Adam Lee",
+    "Nojun Kwak"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.emnlp-industry.41",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.41/"
+}

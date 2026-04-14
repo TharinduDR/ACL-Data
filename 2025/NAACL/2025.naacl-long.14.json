@@ -1,0 +1,36 @@
+{
+  "title": "MIRAGE-BENCH: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems",
+  "authors": [
+    "Nandan Thakur",
+    "Suleman Kazi",
+    "Ge Luo",
+    "Jimmy Lin",
+    "Amin Ahmad"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Chinese",
+    "English",
+    "Farsi",
+    "Finnish",
+    "French",
+    "Hindi",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Telugu",
+    "Thai",
+    "Yoruba",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-long.14",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.14/"
+}

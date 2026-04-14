@@ -1,0 +1,21 @@
+{
+  "title": "TIDES: Technical Information Discovery and Extraction System",
+  "authors": [
+    "Jihee Kim",
+    "Subeen Park",
+    "Hakyung Lee",
+    "YongTaeK Lim",
+    "Hyo-won Suh",
+    "Kyungwoo Song"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.emnlp-main.1103",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1103/"
+}

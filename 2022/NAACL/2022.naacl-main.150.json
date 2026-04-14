@@ -1,0 +1,25 @@
+{
+  "title": "Don't Take It Literally: An Edit-Invariant Sequence Loss for Text Generation",
+  "authors": [
+    "Guangyi Liu",
+    "Zichao Yang",
+    "Tianhua Tao",
+    "Xiaodan Liang",
+    "Junwei Bao",
+    "Zhen Li",
+    "Xiaodong He",
+    "Shuguang Cui",
+    "Zhiting Hu"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.naacl-main.150",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.150/"
+}

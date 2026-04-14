@@ -1,0 +1,26 @@
+{
+  "title": "MedCodER: A Generative AI Assistant for Medical Coding",
+  "authors": [
+    "Krishanu Das Baksi",
+    "Elijah Soba",
+    "John J. Higgins",
+    "Ravi Saini",
+    "Jaden Wood",
+    "Jane Cook",
+    "Jack Scott",
+    "Nirmala Pudota",
+    "Tim Weninger",
+    "Edward Bowen",
+    "Sanmitra Bhattacharya"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.naacl-industry.37",
+  "acl_url": "https://aclanthology.org/2025.naacl-industry.37/"
+}

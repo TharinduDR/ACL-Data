@@ -1,0 +1,26 @@
+{
+  "title": "A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity",
+  "authors": [
+    "Shayne Longpre",
+    "Gregory Yauney",
+    "Emily Reif",
+    "Katherine Lee",
+    "Adam Roberts",
+    "Barret Zoph",
+    "Denny Zhou",
+    "Jason Wei",
+    "David Mimno",
+    "Daphne Ippolito",
+    "Kevin Robinson"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.179",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.179/"
+}

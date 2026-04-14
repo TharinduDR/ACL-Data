@@ -7,13 +7,12 @@
     "Jie Zhou"
   ],
   "languages": [
-    "Chinese",
-    "English"
+    "Chinese"
   ],
   "research_areas": [
-    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T15 Lexicon and Semantics"
+    "T03",
+    "T14",
+    "T15"
   ],
   "paper_id": "2022.emnlp-main.106",
   "acl_url": "https://aclanthology.org/2022.emnlp-main.106/"

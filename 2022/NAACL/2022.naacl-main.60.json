@@ -1,0 +1,18 @@
+{
+  "title": "Teaching BERT to Wait: Balancing Accuracy and Latency for Streaming Disfluency Detection",
+  "authors": [
+    "Angelica Chen",
+    "Vicky Zayats",
+    "Daniel D. Walker",
+    "Dirk Padfield"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.naacl-main.60",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.60/"
+}

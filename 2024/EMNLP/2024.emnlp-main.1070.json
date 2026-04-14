@@ -1,0 +1,25 @@
+{
+  "title": "BLSP-Emo: Towards Empathetic Large Speech-Language Models",
+  "authors": [
+    "Chen Wang",
+    "Minpeng Liao",
+    "Zhongqiang Huang",
+    "Junhong Wu",
+    "Chengqing Zong",
+    "Jiajun Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Greek",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.emnlp-main.1070",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1070/"
+}

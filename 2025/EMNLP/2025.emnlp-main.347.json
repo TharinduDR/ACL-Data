@@ -1,0 +1,28 @@
+{
+  "title": "BTS: Harmonizing Specialized Experts into a Generalist LLM",
+  "authors": [
+    "Qizhen Zhang",
+    "Prajwal Bhargava",
+    "Chloe Bi",
+    "Chris X. Cai",
+    "Jakob Foerster",
+    "Jeremy Fu",
+    "Punit Singh Koura",
+    "Ruan Silva",
+    "Sheng Shen",
+    "Emily Dinan",
+    "Suchin Gururangan",
+    "Mike Lewis"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2025.emnlp-main.347",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.347/"
+}

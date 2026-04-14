@@ -1,0 +1,18 @@
+{
+  "title": "LoRA-Guard: Parameter-Efficient Guardrail Adaptation for Content Moderation of Large Language Models",
+  "authors": [
+    "Hayder Elesedy",
+    "Pedro M. Esperança",
+    "Silviu Vlad Oprea",
+    "Mete Ozay"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.emnlp-main.656",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.656/"
+}

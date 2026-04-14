@@ -1,0 +1,22 @@
+{
+  "title": "STYLEPTB: A Compositional Benchmark for Fine-grained Controllable Text Style Transfer",
+  "authors": [
+    "Yiwei Lyu",
+    "Paul Pu Liang",
+    "Hai Pham",
+    "Eduard Hovy",
+    "Barnabás Póczos",
+    "Ruslan Salakhutdinov",
+    "Louis-Philippe Morency"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.naacl-main.171",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.171/"
+}

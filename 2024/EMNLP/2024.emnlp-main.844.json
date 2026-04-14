@@ -1,0 +1,24 @@
+{
+  "title": "COPYBENCH: Measuring Literal and Non-Literal Reproduction of Copyright-Protected Text in Language Model Generation",
+  "authors": [
+    "Tong Chen",
+    "Akari Asai",
+    "Nilooofar Miresghallah",
+    "Sewon Min",
+    "James Grimmelmann",
+    "Yejin Choi",
+    "Hannaneh Hajishirzi",
+    "Luke Zettlemoyer",
+    "Pang Wei Koh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T28",
+    "T08",
+    "T11"
+  ],
+  "paper_id": "2024.emnlp-main.844",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.844/"
+}

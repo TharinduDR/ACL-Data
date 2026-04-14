@@ -1,0 +1,22 @@
+{
+  "title": "Probabilistic Soundness Guarantees in LLM Reasoning Chains",
+  "authors": [
+    "Weiqu You",
+    "Anton Xue",
+    "Shreya Havaldar",
+    "Delip Rao",
+    "Helen Jin",
+    "Chris Callison-Burch",
+    "Eric Wong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.382",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.382/"
+}

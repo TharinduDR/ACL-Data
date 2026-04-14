@@ -1,0 +1,25 @@
+{
+  "title": "ConsistentChat: Building Skeleton-Guided Consistent Multi-Turn Dialogues for Large Language Models from Scratch",
+  "authors": [
+    "Jiawei Chen",
+    "Xinyan Guan",
+    "Qianhao Yuan",
+    "Guozhao Mo",
+    "Weixiang Zhou",
+    "Yaojie Lu",
+    "Hongyu Lin",
+    "Ben He",
+    "Le Sun",
+    "Xianpei Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.424",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.424/"
+}

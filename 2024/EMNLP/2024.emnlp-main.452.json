@@ -1,0 +1,26 @@
+{
+  "title": "LawBench: Benchmarking Legal Knowledge of Large Language Models",
+  "authors": [
+    "Zhiwei Fei",
+    "Xiaoyu Shen",
+    "Dawei Zhu",
+    "Fengze Zhou",
+    "Zhuo Han",
+    "Alan Huang",
+    "Songyang Zhang",
+    "Kai Chen",
+    "Zhixin Yin",
+    "Zongwen Shen",
+    "Jidong Ge",
+    "Vincent Ng"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.452",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.452/"
+}

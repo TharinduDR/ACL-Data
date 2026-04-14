@@ -1,0 +1,22 @@
+{
+  "title": "GCML: Gradient Coherence Guided Meta-Learning for Cross-Domain Emerging Topic Rumor Detection",
+  "authors": [
+    "Zejiang He",
+    "Jingyuan Huang",
+    "Menglong Lu",
+    "Zhen Huang",
+    "Shanshan Liu",
+    "Zhiliang Tian",
+    "Dongsheng Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.968",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.968/"
+}

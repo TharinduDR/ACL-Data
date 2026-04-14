@@ -1,0 +1,28 @@
+{
+  "title": "GlossLM: A Massively Multilingual Corpus and Pretrained Model for Interlinear Glossed Text",
+  "authors": [
+    "Michael Ginn",
+    "Lindia Tjuaatja",
+    "Taiqi He",
+    "Enora Rice",
+    "Graham Neubig",
+    "Alexis Palmer",
+    "Lori Levin"
+  ],
+  "languages": [
+    "Arapaho",
+    "Tsez",
+    "Uspanteko",
+    "Gitksan",
+    "Lezgi",
+    "Natugu",
+    "Nyangbo"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.emnlp-main.683",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.683/"
+}

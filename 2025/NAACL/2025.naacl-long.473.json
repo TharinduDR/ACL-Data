@@ -1,0 +1,23 @@
+{
+  "title": "MAPWise: Evaluating Vision-Language Models for Advanced Map Queries",
+  "authors": [
+    "Srija Mukhopadhyay",
+    "Abhishek Rajgaria",
+    "Prerana Khatiwada",
+    "Manish Shrivastava",
+    "Dan Roth",
+    "Vivek Gupta"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.473",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.473/"
+}

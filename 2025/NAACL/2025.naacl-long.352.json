@@ -1,0 +1,22 @@
+{
+  "title": "DrawEduMath: Evaluating Vision Language Models with Expert-Annotated Students' Hand-Drawn Math Images",
+  "authors": [
+    "Sami Baral",
+    "Li Lucy",
+    "Ryan Knight",
+    "Alice Ng",
+    "Luca Soldaini",
+    "Neil T. Heffernan",
+    "Kyle Lo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.352",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.352/"
+}

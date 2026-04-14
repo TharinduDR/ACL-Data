@@ -1,0 +1,23 @@
+{
+  "title": "MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning",
+  "authors": [
+    "Fuxiao Liu",
+    "Xiaoyang Wang",
+    "Wenlin Yao",
+    "Jianshu Chen",
+    "Kaiqiang Song",
+    "Sangwoo Cho",
+    "Yaser Yacoob",
+    "Dong Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T8 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.70",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.70/"
+}

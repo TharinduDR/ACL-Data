@@ -1,0 +1,20 @@
+{
+  "title": "Head-to-Tail: How Knowledgeable are Large Language Models (LLMs)? A.K.A. Will LLMs Replace Knowledge Graphs?",
+  "authors": [
+    "Kai Sun",
+    "Yifan Ethan Xu",
+    "Hanwen Zha",
+    "Yue Liu",
+    "Xin Luna Dong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-long.18",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.18/"
+}

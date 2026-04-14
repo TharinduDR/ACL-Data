@@ -1,0 +1,28 @@
+{
+  "title": "KILT: a Benchmark for Knowledge Intensive Language Tasks",
+  "authors": [
+    "Fabio Petroni",
+    "Aleksandra Piktus",
+    "Angela Fan",
+    "Patrick Lewis",
+    "Majid Yazdani",
+    "Nicola De Cao",
+    "James Thorne",
+    "Yacine Jernite",
+    "Vladimir Karpukhin",
+    "Jean Maillard",
+    "Vassilis Plachouras",
+    "Tim Rocktäschel",
+    "Sebastian Riedel"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.naacl-main.200",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.200/"
+}

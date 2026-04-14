@@ -1,0 +1,24 @@
+{
+  "title": "Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis",
+  "authors": [
+    "Yiwei Wang",
+    "Muhao Chen",
+    "Wenxuan Zhou",
+    "Yujun Cai",
+    "Yuxuan Liang",
+    "Dayiheng Liu",
+    "Baosong Yang",
+    "Juncheng Liu",
+    "Bryan Hooi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.naacl-main.224",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.224/"
+}

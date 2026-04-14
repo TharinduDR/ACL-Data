@@ -1,0 +1,19 @@
+{
+  "title": "CNER: Concept and Named Entity Recognition",
+  "authors": [
+    "Giuliano Martinelli",
+    "Francesco Maria Molfese",
+    "Simone Tedeschi",
+    "Alberte Fernández-Castro",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.naacl-long.461",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.461/"
+}

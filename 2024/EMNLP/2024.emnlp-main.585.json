@@ -1,0 +1,24 @@
+{
+  "title": "InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance",
+  "authors": [
+    "Pengyu Wang",
+    "Dong Zhang",
+    "Linyang Li",
+    "Chenkun Tan",
+    "Xinghao Wang",
+    "Mozhi Zhang",
+    "Ke Ren",
+    "Botian Jiang",
+    "Xipeng Qiu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.585",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.585/"
+}

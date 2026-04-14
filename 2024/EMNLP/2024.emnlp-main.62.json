@@ -1,0 +1,23 @@
+{
+  "title": "RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models",
+  "authors": [
+    "Peng Xia",
+    "Kangyu Zhu",
+    "Haoran Li",
+    "Hongtu Zhu",
+    "Yun Li",
+    "Gang Li",
+    "Linjun Zhang",
+    "Huaxiu Yao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.emnlp-main.62",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.62/"
+}

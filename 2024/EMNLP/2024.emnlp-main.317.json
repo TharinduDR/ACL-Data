@@ -1,0 +1,24 @@
+{
+  "title": "NLEBench+NorGLM: A Comprehensive Empirical Analysis and Benchmark Dataset for Generative Language Models in Norwegian",
+  "authors": [
+    "Peng Liu",
+    "Lemei Zhang",
+    "Terje Farup",
+    "Even W. Lauvrak",
+    "Jon Espen Ingvaldsen",
+    "Simen Eide",
+    "Jon Atle Gulla",
+    "Zhirong Yang"
+  ],
+  "languages": [
+    "Norwegian",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T18 Text Summarization",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.emnlp-main.317",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.317/"
+}

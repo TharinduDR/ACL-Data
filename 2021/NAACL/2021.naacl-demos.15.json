@@ -1,0 +1,46 @@
+{
+  "title": "Alexa Conversations: An Extensible Data-driven Approach for Building Task-oriented Dialogue Systems",
+  "authors": [
+    "Anish Acharya",
+    "Suranjit Adhikari",
+    "Sanchit Agarwal",
+    "Vincent Auvray",
+    "Nehal Belgamwar",
+    "Arijit Biswas",
+    "Shubhra Chandra",
+    "Tagyoung Chung",
+    "Maryam Fazel-Zarandi",
+    "Raefer Gabriel",
+    "Shuyang Gao",
+    "Rahul Goel",
+    "Dilek Hakkani-Tur",
+    "Jan Jezabek",
+    "Abhay Jha",
+    "Jiun-Yu Kao",
+    "Prakash Krishnan",
+    "Peter Ku",
+    "Anuj Goyal",
+    "Chien-Wei Lin",
+    "Qing Liu",
+    "Arindam Mandal",
+    "Angeliki Metallinou",
+    "Vishal Naik",
+    "Yi Pan",
+    "Shachi Paul",
+    "Vittorio Perera",
+    "Abhishek Sethi",
+    "Minmin Shen",
+    "Nikko Strom",
+    "Eddie Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.naacl-demos.15",
+  "acl_url": "https://aclanthology.org/2021.naacl-demos.15/"
+}

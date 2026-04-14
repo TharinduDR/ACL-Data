@@ -1,0 +1,22 @@
+{
+  "title": "DEMIX Layers: Disentangling Domains for Modular Language Modeling",
+  "authors": [
+    "Suchin Gururangan",
+    "Mike Lewis",
+    "Ari Holtzman",
+    "Noah A. Smith",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.naacl-main.407",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.407/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Memorize Step by Step: Efficient Long-Context Prefilling with Incremental Memory and Decremental Chunk",
+  "authors": [
+    "Zhiyuan Zeng",
+    "Qipeng Guo",
+    "Xiaoran Liu",
+    "Zhangyue Yin",
+    "Wentao Shu",
+    "MianQiu Huang",
+    "Bo Wang",
+    "Yunhua Zhou",
+    "Linlin Li",
+    "Qun Liu",
+    "Xipeng Qiu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.1169",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1169/"
+}

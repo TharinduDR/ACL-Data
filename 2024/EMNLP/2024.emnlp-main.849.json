@@ -1,0 +1,20 @@
+{
+  "title": "Optimizing Chinese Lexical Simplification Across Word Types: A Hybrid Approach",
+  "authors": [
+    "Zihao Xiao",
+    "Jiefu Gong",
+    "Shijin Wang",
+    "Wei Song"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.emnlp-main.849",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.849/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Leveraging Prototypical Representations for Mitigating Social Bias without Demographic Information",
+  "authors": [
+    "Shadi Iskander",
+    "Kira Radinsky",
+    "Yonatan Belinkov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.naacl-short.33",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.33/"
+}

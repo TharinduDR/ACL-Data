@@ -1,0 +1,37 @@
+{
+  "title": "Llama meets EU: Investigating the European Political Spectrum through the Lens of LLMs",
+  "authors": [
+    "Ilias Chalkidis",
+    "Stephanie Brandl"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Greek",
+    "Dutch",
+    "Hungarian",
+    "Croatian",
+    "Czech",
+    "Swedish",
+    "Bulgarian",
+    "Slovakian",
+    "Slovenian",
+    "Finnish",
+    "Lithuanian",
+    "Danish",
+    "Estonian",
+    "Latvian"
+  ],
+  "research_areas": [
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.naacl-short.40",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.40/"
+}

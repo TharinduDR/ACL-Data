@@ -1,0 +1,18 @@
+{
+  "title": "Compositional Task-Oriented Parsing as Abstractive Question Answering",
+  "authors": [
+    "Wenting Zhao",
+    "Konstantine Arkoudas",
+    "Weiqi Sun",
+    "Claire Cardie"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.naacl-main.328",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.328/"
+}

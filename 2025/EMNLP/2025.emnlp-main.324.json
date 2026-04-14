@@ -1,0 +1,27 @@
+{
+  "title": "Multilingual Prompting for Improving LLM Generation Diversity",
+  "authors": [
+    "Qihan Wang",
+    "Shidong Pan",
+    "Tal Linzen",
+    "Emily Black"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "Spanish",
+    "French",
+    "Nepali",
+    "Thai",
+    "Turkish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2025.emnlp-main.324",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.324/"
+}

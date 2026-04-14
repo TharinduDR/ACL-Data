@@ -1,0 +1,24 @@
+{
+  "title": "Functional Lexicon in Subword Tokenization",
+  "authors": [
+    "Zachary William Hopton",
+    "Yves Scherrer",
+    "Tanja Samardzic"
+  ],
+  "languages": [
+    "Arapaho",
+    "Gitksan",
+    "Lezgi",
+    "Natüü",
+    "Nyangbo",
+    "Tsez",
+    "Uspanteko"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.naacl-long.398",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.398/"
+}

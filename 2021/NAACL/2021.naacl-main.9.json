@@ -1,0 +1,19 @@
+{
+  "title": "Automatic Generation of Contrast Sets from Scene Graphs: Probing the Compositional Consistency of GQA",
+  "authors": [
+    "Yonatan Bitton",
+    "Gabriel Stanovsky",
+    "Roy Schwartz",
+    "Michael Elhadad"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.naacl-main.9",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.9/"
+}

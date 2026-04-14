@@ -1,0 +1,35 @@
+{
+  "title": "Towards Robust Speech Representation Learning for Thousands of Languages",
+  "authors": [
+    "William Chen",
+    "Wangyou Zhang",
+    "Yifan Peng",
+    "Xinjian Li",
+    "Jinchuan Tian",
+    "Jiatong Shi",
+    "Xuankai Chang",
+    "Soumi Maiti",
+    "Karen Livescu",
+    "Shinji Watanabe"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Korean",
+    "Maltese",
+    "Gusii",
+    "Fijian",
+    "Hamta",
+    "Gengle",
+    "Iyara",
+    "Bwasilaki",
+    "Ganggalida"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.570",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.570/"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Improving Informally Romanized Language Identification",
+  "authors": [
+    "Adrian Benton",
+    "Alexander Gutkin",
+    "Christo Kirov",
+    "Brian Roark"
+  ],
+  "languages": [
+    "Hindi",
+    "Urdu",
+    "Bengali",
+    "Gujarati",
+    "Kannada",
+    "Malayalam",
+    "Manipuri",
+    "Marathi",
+    "Nepali",
+    "Oriya",
+    "Punjabi",
+    "Sanskrit",
+    "Sindhi",
+    "Tamil",
+    "Telugu",
+    "Assamese",
+    "Bodo",
+    "Kashmiri",
+    "Konkani",
+    "Maithili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.117",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.117/"
+}

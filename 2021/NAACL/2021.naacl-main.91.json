@@ -1,0 +1,29 @@
+{
+  "title": "Assessing Reference-Free Peer Evaluation for Machine Translation",
+  "authors": [
+    "Sweta Agrawal",
+    "George Foster",
+    "Markus Freitag",
+    "Colin Cherry"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Chinese",
+    "Kazakh",
+    "Lithuanian",
+    "Finnish",
+    "Estonian",
+    "Latvian",
+    "Hindi",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.naacl-main.91",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.91/"
+}

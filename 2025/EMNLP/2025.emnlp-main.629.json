@@ -1,0 +1,26 @@
+{
+  "title": "From Tens of Hours to Tens of Thousands: Scaling Back-Translation for Speech Recognition",
+  "authors": [
+    "Tianduo Wang",
+    "Lu Xu",
+    "Wei Lu",
+    "Shanbo Cheng"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Dutch",
+    "Italian",
+    "Czech",
+    "Hungarian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.emnlp-main.629",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.629/"
+}

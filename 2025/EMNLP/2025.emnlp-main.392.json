@@ -1,0 +1,23 @@
+{
+  "title": "Structuring Radiology Reports: Challenging LLMs with Lightweight Models",
+  "authors": [
+    "Johannes Moll",
+    "Louisa Fay",
+    "Asfandyar Azhar",
+    "Sophie Ostmeier",
+    "Sergios Gatidis",
+    "Tim Lueth",
+    "Curtis P. Langlotz",
+    "Jean-Benoit Delbrouck"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.emnlp-main.392",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.392/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Unveiling Internal Reasoning Modes in LLMs: A Deep Dive into Latent Reasoning vs. Factual Shortcuts with Attribute Rate Ratio",
+  "authors": [
+    "Yiran Yang",
+    "Haifeng Sun",
+    "Jingyu Wang",
+    "Qi Qi",
+    "Zirui Zhuang",
+    "Huazheng Wang",
+    "Pengfei Ren",
+    "Jing Wang",
+    "Jianxin Liao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.111",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.111/"
+}

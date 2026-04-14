@@ -1,0 +1,24 @@
+{
+  "title": "Encoding of lexical tone in self-supervised models of spoken language",
+  "authors": [
+    "Gaofei Shen",
+    "Michaela Watkins",
+    "Afra Alishahi",
+    "Arianna Bisazza",
+    "Grzegorz Chrupała"
+  ],
+  "languages": [
+    "Chinese",
+    "Vietnamese",
+    "English",
+    "French",
+    "Cantonese"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2024.naacl-long.239",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.239/"
+}

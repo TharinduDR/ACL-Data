@@ -1,0 +1,17 @@
+{
+  "title": "When a sentence does not introduce a discourse entity, Transformer-based models still sometimes refer to it",
+  "authors": [
+    "Sebastian Schuster",
+    "Tal Linzen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T05 Discourse and Pragmatics",
+    "T14 Language Modeling",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2022.naacl-main.71",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.71/"
+}

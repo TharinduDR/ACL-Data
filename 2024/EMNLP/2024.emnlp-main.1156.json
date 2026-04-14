@@ -1,0 +1,20 @@
+{
+  "title": "Automatic sentence segmentation of clinical record narratives in real-world data",
+  "authors": [
+    "Dongfang Xu",
+    "Davy Weissenbacher",
+    "Karen O'Connor",
+    "Siddharth Rawal",
+    "Graciela Gonzalez-Hernandez"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.emnlp-main.1156",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.1156/"
+}

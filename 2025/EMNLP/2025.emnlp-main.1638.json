@@ -1,0 +1,23 @@
+{
+  "title": "Reasoning under Uncertainty: Efficient LLM Inference via Unsupervised Confidence Dilution and Convergent Adaptive Sampling",
+  "authors": [
+    "Zhenning Shi",
+    "Yijia Zhu",
+    "Yi Xie",
+    "Junhan Shi",
+    "Guorui Xie",
+    "Haotian Zhang",
+    "Yong Jiang",
+    "Congcong Miao",
+    "Qing Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.emnlp-main.1638",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1638/"
+}

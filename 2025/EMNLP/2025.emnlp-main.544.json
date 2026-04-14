@@ -1,0 +1,24 @@
+{
+  "title": "Demystifying Synthetic Data in LLM Pre-training: A Systematic Study of Scaling Laws, Benefits, and Pitfalls",
+  "authors": [
+    "Feiyang Kang",
+    "Newsha Ardalan",
+    "Michael Kuchnik",
+    "Youssef Emad",
+    "Mostafa Elhoushi",
+    "Shubhabrata Sengupta",
+    "Shang-Wen Li",
+    "Ramy Raghavendra",
+    "Ruoxi Jia",
+    "Carole-Jean Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.544",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.544/"
+}

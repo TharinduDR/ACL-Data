@@ -1,0 +1,23 @@
+{
+  "title": "RewardDS: Privacy-Preserving Fine-Tuning for Large Language Models via Reward Driven Data Synthesis",
+  "authors": [
+    "Jianwei Wang",
+    "Chengming Shi",
+    "Junyao Yang",
+    "Haoran Li",
+    "Qianli Ma",
+    "Huiping Zhuang",
+    "Cen Chen",
+    "Ziqian Zeng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.emnlp-main.223",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.223/"
+}

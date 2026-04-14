@@ -1,0 +1,26 @@
+{
+  "title": "GATEAU: Selecting Influential Samples for Long Context Alignment",
+  "authors": [
+    "Shuzheng Si",
+    "Haoze Zhao",
+    "Gang Chen",
+    "Yunshui Li",
+    "Kangyang Luo",
+    "Chuancheng Lv",
+    "Kaikai An",
+    "Fanchao Qi",
+    "Baobao Chang",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.emnlp-main.375",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.375/"
+}

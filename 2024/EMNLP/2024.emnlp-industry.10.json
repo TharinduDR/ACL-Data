@@ -1,0 +1,20 @@
+{
+  "title": "DL-QAT: Weight-Decomposed Low-Rank Quantization-Aware Training for Large Language Models",
+  "authors": [
+    "Wenjin Ke",
+    "Zhe Li",
+    "Dong Li",
+    "Lu Tian",
+    "Emad Barsoum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-industry.10",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.10/"
+}

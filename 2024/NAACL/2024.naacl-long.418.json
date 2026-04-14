@@ -1,0 +1,27 @@
+{
+  "title": "Measuring Cross-lingual Transfer in Bytes",
+  "authors": [
+    "Leandro Rodrigues de Souza",
+    "Thales Sales Almeida",
+    "Roberto Lotufo",
+    "Rodrigo Nogueira"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "English",
+    "Spanish",
+    "Finnish",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2024.naacl-long.418",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.418/"
+}

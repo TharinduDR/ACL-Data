@@ -1,0 +1,23 @@
+{
+  "title": "SAMP: A Model Inference Toolkit of Post-Training Quantization for Text Processing via Self-Adaptive Mixed-Precision",
+  "authors": [
+    "Rong Tian",
+    "Zijing Zhao",
+    "Weijie Liu",
+    "Haoyan Liu",
+    "Weiquan Mao",
+    "Zhe Zhao",
+    "Kan Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.emnlp-industry.13",
+  "acl_url": "https://aclanthology.org/2023.emnlp-industry.13/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "MUDES: Multilingual Detection of Offensive Spans",
+  "authors": [
+    "Tharindu Ranasinghe",
+    "Marcos Zampieri"
+  ],
+  "languages": [
+    "English",
+    "Danish",
+    "Greek",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.naacl-demos.17",
+  "acl_url": "https://aclanthology.org/2021.naacl-demos.17/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness",
+  "authors": [
+    "Junsheng Huang",
+    "Zhitao He",
+    "Yuchen Huang",
+    "Sandeep Polisetty",
+    "Qingyun Wang",
+    "Yi R. (May) Fung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.35",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.35/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Investigating the interaction of linguistic and mathematical reasoning in language models using multilingual number puzzles",
+  "authors": [
+    "Antara Raaghavi Bhattacharya",
+    "Isabel Papadimitriou",
+    "Kathryn Davidson",
+    "David Alvarez-Melis"
+  ],
+  "languages": [
+    "Drehu",
+    "Georgian",
+    "Gumatj",
+    "Ndomb",
+    "Ngkolmpu",
+    "Northern Pame",
+    "Umbu-Ungu",
+    "Waorani",
+    "Yoruba",
+    "Yup'ik"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2025.emnlp-main.1438",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1438/"
+}

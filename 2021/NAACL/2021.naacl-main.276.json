@@ -1,0 +1,18 @@
+{
+  "title": "FUDGE: Controlled Text Generation With Future Discriminators",
+  "authors": [
+    "Kevin Yang",
+    "Dan Klein"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.naacl-main.276",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.276/"
+}

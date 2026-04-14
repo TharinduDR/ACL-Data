@@ -1,0 +1,30 @@
+{
+  "title": "Multilingual Pretraining and Instruction Tuning Improve Cross-Lingual Knowledge Alignment, But Only Shallowly",
+  "authors": [
+    "Changjiang Gao",
+    "Hongda Hu",
+    "Peng Hu",
+    "Jiajun Chen",
+    "Jixing Li",
+    "Shujian Huang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "French",
+    "Italian",
+    "Polish",
+    "Russian",
+    "Arabic",
+    "Hebrew",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2024.naacl-long.339",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.339/"
+}

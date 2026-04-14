@@ -1,0 +1,19 @@
+{
+  "title": "Threshold Filtering Packing for Supervised Fine-Tuning: Training Related Samples within Packs",
+  "authors": [
+    "Jiancheng Dong",
+    "Lei Jiang",
+    "Wei Jin",
+    "Lu Cheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.naacl-long.226",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.226/"
+}

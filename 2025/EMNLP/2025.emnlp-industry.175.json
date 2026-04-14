@@ -1,0 +1,21 @@
+{
+  "title": "Beyond Dynamic Quantization: An Efficient Static Hierarchical Mix-precision Framework for Near-Lossless LLM Compression",
+  "authors": [
+    "Yi Zhang",
+    "Kai Zhang",
+    "Zheyang Li",
+    "Wenming Tan",
+    "Ye Ren",
+    "Jilin Hu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-industry.175",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.175/"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "SciEx: Benchmarking Large Language Models on Scientific Exams with Human Expert Grading and Automatic Grading",
+  "authors": [
+    "Tu Anh Dinh",
+    "Carlos Mullov",
+    "Leonard Bärmann",
+    "Zhaolin Li",
+    "Danni Liu",
+    "Simon Reiß",
+    "Jueun Lee",
+    "Nathan Lerzer",
+    "Jianfeng Gao",
+    "Fabian Ternava",
+    "Tobias Röddiger",
+    "Alexander Waibel",
+    "Tamim Asfour",
+    "Michael Beigl",
+    "Rainer Stiefelhagen",
+    "Carsten Dachsbacher",
+    "Klemens Böhm",
+    "Jan Niehues"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.emnlp-main.647",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.647/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Quantifying Adaptability in Pre-trained Language Models with 500 Tasks",
+  "authors": [
+    "Belinda Z. Li",
+    "Jane Yu",
+    "Madian Khabsa",
+    "Luke Zettlemoyer",
+    "Alon Halevy",
+    "Jacob Andreas"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-main.346",
+  "acl_url": "https://aclanthology.org/2022.naacl-main.346/"
+}

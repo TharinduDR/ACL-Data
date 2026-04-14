@@ -1,0 +1,24 @@
+{
+  "title": "Prompto: An open source library for asynchronous querying of LLM endpoints",
+  "authors": [
+    "Ryan Sze-Yin Chan",
+    "Federico Nanni",
+    "Angus R. Williams",
+    "Edwin Brown",
+    "Liam Burke-Moore",
+    "Ed Chapman",
+    "Kate Onslow",
+    "Tvesha Sippy",
+    "Jonathan Bright",
+    "Evelina Gabasova"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-demo.11",
+  "acl_url": "https://aclanthology.org/2025.naacl-demo.11/"
+}

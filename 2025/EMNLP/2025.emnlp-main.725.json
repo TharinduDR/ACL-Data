@@ -1,0 +1,25 @@
+{
+  "title": "SHARP: Steering Hallucination in LVLMs via Representation Engineering",
+  "authors": [
+    "Junfei Wu",
+    "Ding Yue",
+    "Guofan Liu",
+    "Tianze Xia",
+    "Ziyue Huang",
+    "Dianbo Sui",
+    "Qiang Liu",
+    "Shu Wu",
+    "Liang Wang",
+    "Tieniu Tan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.725",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.725/"
+}

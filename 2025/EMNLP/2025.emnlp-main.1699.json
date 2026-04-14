@@ -1,0 +1,21 @@
+{
+  "title": "A Knowledge-driven Adaptive Collaboration of LLMs for Enhancing Medical Decision-making",
+  "authors": [
+    "Xiao Wu",
+    "Ting-Zhu Huang",
+    "Liang-Jian Deng",
+    "Yanyuan Qiao",
+    "Imran Razzak",
+    "Yutong Xie"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.emnlp-main.1699",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1699/"
+}

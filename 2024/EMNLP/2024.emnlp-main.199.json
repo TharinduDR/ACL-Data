@@ -1,0 +1,25 @@
+{
+  "title": "EfficientRAG: Efficient Retriever for Multi-Hop Question Answering",
+  "authors": [
+    "Ziyuan Zhuang",
+    "Zhiyang Zhang",
+    "Sitao Cheng",
+    "Fangkai Yang",
+    "Jia Liu",
+    "Shujian Huang",
+    "Qingwei Lin",
+    "Saravan Rajmohan",
+    "Dongmei Zhang",
+    "Qi Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.emnlp-main.199",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.199/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Is Prompt Transfer Always Effective? An Empirical Study of Prompt Transfer for Question Answering",
+  "authors": [
+    "Minji Jung",
+    "Soyeon Park",
+    "Jeewoo Sul",
+    "Yong Suk Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.naacl-short.44",
+  "acl_url": "https://aclanthology.org/2024.naacl-short.44/"
+}

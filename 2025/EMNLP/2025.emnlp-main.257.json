@@ -1,0 +1,26 @@
+{
+  "title": "LeTS: Learning to Think-and-Search via Process-and-Outcome Reward Hybridization",
+  "authors": [
+    "Qi Zhang",
+    "Shouqing Yang",
+    "Lirong Gao",
+    "Hao Chen",
+    "Xiaomeng Hu",
+    "Jinglei Chen",
+    "Jiexiang Wang",
+    "Sheng Guo",
+    "Bo Zheng",
+    "Haobo Wang",
+    "Junbo Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.emnlp-main.257",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.257/"
+}

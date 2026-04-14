@@ -1,0 +1,33 @@
+{
+  "title": "VoiceCraft-X: Unifying Multilingual, Voice-Cloning Speech Synthesis and Speech Editing",
+  "authors": [
+    "Zhisheng Zheng",
+    "Puyuan Peng",
+    "Anuj Diwan",
+    "Cong Phuoc Huynh",
+    "Xiaohang Sun",
+    "Zhu Liu",
+    "Vimal Bhat",
+    "David Harwath"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Korean",
+    "Japanese",
+    "Spanish",
+    "French",
+    "German",
+    "Dutch",
+    "Italian",
+    "Portuguese",
+    "Polish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.137",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.137/"
+}

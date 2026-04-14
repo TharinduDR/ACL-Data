@@ -1,0 +1,21 @@
+{
+  "title": "Context Matters: Pushing the Boundaries of Open-Ended Answer Generation with Graph-Structured Knowledge Context",
+  "authors": [
+    "Somnath Banerjee",
+    "Amruit Sahoo",
+    "Sayan Layek",
+    "Avik Dutta",
+    "Rima Hazra",
+    "Animesh Mukherjee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-industry.23",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.23/"
+}

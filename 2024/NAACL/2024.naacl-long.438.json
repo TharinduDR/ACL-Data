@@ -1,0 +1,17 @@
+{
+  "title": "SuperGLEBer: German Language Understanding Evaluation Benchmark",
+  "authors": [
+    "Jan Pfister",
+    "Andreas Hotho"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.naacl-long.438",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.438/"
+}

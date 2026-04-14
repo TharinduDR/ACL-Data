@@ -1,0 +1,24 @@
+{
+  "title": "PLATO-Ad: A Unified Advertisement Text Generation Framework with Multi-Task Prompt Learning",
+  "authors": [
+    "Zeyang Lei",
+    "Chao Zhang",
+    "Xinchao Xu",
+    "Wenquan Wu",
+    "Zheng-Yu Niu",
+    "Hua Wu",
+    "Haifeng Wang",
+    "Yi Yang",
+    "Shuanglong Li"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.emnlp-industry.52",
+  "acl_url": "https://aclanthology.org/2022.emnlp-industry.52/"
+}

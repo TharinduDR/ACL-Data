@@ -1,0 +1,19 @@
+{
+  "title": "Unsupervised Multi-hop Question Answering by Question Generation",
+  "authors": [
+    "Liangming Pan",
+    "Wenhu Chen",
+    "Wenhan Xiong",
+    "Min-Yen Kan",
+    "William Yang Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.naacl-main.469",
+  "acl_url": "https://aclanthology.org/2021.naacl-main.469/"
+}

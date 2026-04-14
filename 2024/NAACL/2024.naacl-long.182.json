@@ -1,0 +1,21 @@
+{
+  "title": "DynaMo: Accelerating Language Model Inference with Dynamic Multi-Token Sampling",
+  "authors": [
+    "Shikhar Tuli",
+    "Chi-Heng Lin",
+    "Yen-Chang Hsu",
+    "Niraj K. Jha",
+    "Yilin Shen",
+    "Hongxia Jin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.naacl-long.182",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.182/"
+}

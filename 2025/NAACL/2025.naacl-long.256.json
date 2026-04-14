@@ -1,0 +1,31 @@
+{
+  "title": "MLLM-Bench: Evaluating Multimodal LLMs with Per-sample Criteria",
+  "authors": [
+    "Wentao Ge",
+    "Shunian Chen",
+    "Guiming Hardy Chen",
+    "Nuo Chen",
+    "Junying Chen",
+    "Zhihong Chen",
+    "Wenya Xie",
+    "Shuo Yan",
+    "Chenghao Zhu",
+    "Ziyue Lin",
+    "Dingjie Song",
+    "Xidong Wang",
+    "Anningzhe Gao",
+    "Zhiyi Zhang",
+    "Jianquan Li",
+    "Xiang Wan",
+    "Benyou Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.256",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.256/"
+}

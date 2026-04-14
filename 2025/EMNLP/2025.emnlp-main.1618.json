@@ -1,0 +1,21 @@
+{
+  "title": "The Transfer Neurons Hypothesis: An Underlying Mechanism for Language Latent Space Transitions in Multilingual LLMs",
+  "authors": [
+    "Hinata Tezuka",
+    "Naoya Inoue"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Dutch",
+    "Korean",
+    "Italian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.emnlp-main.1618",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1618/"
+}

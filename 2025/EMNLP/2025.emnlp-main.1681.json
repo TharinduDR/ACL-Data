@@ -1,0 +1,36 @@
+{
+  "title": "A Systematic Survey of Automatic Prompt Optimization Techniques",
+  "authors": [
+    "Kiran Ramnath",
+    "Kang Zhou",
+    "Sheng Guan",
+    "Soumya Smruti Mishra",
+    "Xuan Qi",
+    "Zhengyuan Shen",
+    "Shuai Wang",
+    "Sangmin Woo",
+    "Sullam Jeoung",
+    "Yawei Wang",
+    "Haozhu Wang",
+    "Han Ding",
+    "Yuzhe Lu",
+    "Zhichao Xu",
+    "Yun Zhou",
+    "Balasubramaniam Srinivasan",
+    "Qiaoqing Yan",
+    "Yueyan Chen",
+    "Haibo Ding",
+    "Panpan Xu",
+    "Lin Lee Cheong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.1681",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1681/"
+}

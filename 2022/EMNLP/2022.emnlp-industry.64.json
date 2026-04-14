@@ -1,0 +1,23 @@
+{
+  "title": "Large-scale Machine Translation for Indian Languages in E-commerce under Low Resource Constraints",
+  "authors": [
+    "Amey Patil",
+    "Nikesh Garera"
+  ],
+  "languages": [
+    "Hindi",
+    "Tamil",
+    "Telugu",
+    "Bengali",
+    "Marathi",
+    "Malayalam",
+    "Kannada"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-industry.64",
+  "acl_url": "https://aclanthology.org/2022.emnlp-industry.64/"
+}

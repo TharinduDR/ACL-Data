@@ -1,0 +1,26 @@
+{
+  "title": "3DS: Medical Domain Adaptation of LLMs via Decomposed Difficulty-based Data Selection",
+  "authors": [
+    "Hongxin Ding",
+    "Yue Fang",
+    "Runchuan Zhu",
+    "Xinke Jiang",
+    "Jinyang Zhang",
+    "Yongxin Xu",
+    "Weibin Liao",
+    "Xu Chu",
+    "Junfeng Zhao",
+    "Yasha Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.983",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.983/"
+}

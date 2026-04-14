@@ -1,0 +1,25 @@
+{
+  "title": "BlendFilter: Advancing Retrieval-Augmented Large Language Models via Query Generation Blending and Knowledge Filtering",
+  "authors": [
+    "Haoyu Wang",
+    "Ruirui Li",
+    "Haoming Jiang",
+    "Jinjin Tian",
+    "Zhengyang Wang",
+    "Chen Luo",
+    "Xianfeng Tang",
+    "Monica Xiao Cheng",
+    "Tuo Zhao",
+    "Jing Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.emnlp-main.58",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.58/"
+}

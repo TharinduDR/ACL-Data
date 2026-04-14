@@ -1,0 +1,22 @@
+{
+  "title": "Protein2Text: Resampling Mechanism to Translate Protein Sequences into Human-Interpretable Text",
+  "authors": [
+    "Ala Jararweh",
+    "Oladimeji Macaulay",
+    "David Arredondo",
+    "Yue Hu",
+    "Luis Tafoya",
+    "Kushal Virupakshappa",
+    "Avinash Sahu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.naacl-industry.68",
+  "acl_url": "https://aclanthology.org/2025.naacl-industry.68/"
+}

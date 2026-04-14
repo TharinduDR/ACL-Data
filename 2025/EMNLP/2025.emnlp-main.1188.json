@@ -1,0 +1,30 @@
+{
+  "title": "Searching for the Most Human-like Emergent Language",
+  "authors": [
+    "Brendon Boldt",
+    "David Mortensen"
+  ],
+  "languages": [
+    "Chinese",
+    "French",
+    "Arabic",
+    "Hindi",
+    "Mandarin",
+    "Persian",
+    "Indonesian",
+    "Kazakh",
+    "Romanian",
+    "Urdu",
+    "Basque",
+    "Danish",
+    "Finnish",
+    "Hebrew",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1188",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1188/"
+}

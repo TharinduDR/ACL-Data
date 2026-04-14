@@ -1,0 +1,26 @@
+{
+  "title": "AIT-QA: Question Answering Dataset over Complex Tables in the Airline Industry",
+  "authors": [
+    "Yannis Katsis",
+    "Saneem Chemmengath",
+    "Vishwajeet Kumar",
+    "Samarth Bharadwaj",
+    "Mustafa Canim",
+    "Michael Glass",
+    "Alfio Gliozzo",
+    "Feifei Pan",
+    "Jaydeep Sen",
+    "Karthik Sankaranarayanan",
+    "Soumen Chakrabarti"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.naacl-industry.34",
+  "acl_url": "https://aclanthology.org/2022.naacl-industry.34/"
+}

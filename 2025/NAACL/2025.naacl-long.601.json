@@ -1,0 +1,21 @@
+{
+  "title": "Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion",
+  "authors": [
+    "Jacob K. Christopher",
+    "Brian R. Bartoldson",
+    "Tal Ben-Nun",
+    "Michael Cardei",
+    "Bhavya Kaikhlura",
+    "Ferdinando Fioretto"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.naacl-long.601",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.601/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Stand on The Shoulders of Giants: Building JailExpert from Previous Attack Experience",
+  "authors": [
+    "Xi Wang",
+    "Songlei Jian",
+    "Shasha Li",
+    "Xiaopeng Li",
+    "Bin Ji",
+    "Jun Ma",
+    "Jing Wang",
+    "Xiaodong Liu",
+    "Feilong Bao",
+    "Jianfeng Zhang",
+    "Baosheng Wang",
+    "Jie Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.190",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.190/"
+}

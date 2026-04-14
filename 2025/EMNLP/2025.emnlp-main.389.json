@@ -1,0 +1,26 @@
+{
+  "title": "An Empirical Study of LLM Reasoning Ability Under Strict Output Length Constraint",
+  "authors": [
+    "Yi Sun",
+    "Han Wang",
+    "Jiaqiang Li",
+    "Jiacheng Liu",
+    "Xiangyu Li",
+    "Hao Wen",
+    "Yizhen Yuan",
+    "Huiwen Zheng",
+    "Yan Liang",
+    "Yuanchun Li",
+    "Yunxin Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.emnlp-main.389",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.389/"
+}

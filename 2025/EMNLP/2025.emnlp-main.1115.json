@@ -1,0 +1,25 @@
+{
+  "title": "HMoE: Heterogeneous Mixture of Experts for Language Modeling",
+  "authors": [
+    "An Wang",
+    "Xingwu Sun",
+    "Ruobing Xie",
+    "Shuaipeng Li",
+    "Jiaqi Zhu",
+    "Zhen Yang",
+    "Pinxue Zhao",
+    "Weidong Han",
+    "Zhanhui Kang",
+    "Di Wang",
+    "Naoaki Okazaki",
+    "Cheng-zhong Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.1115",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1115/"
+}

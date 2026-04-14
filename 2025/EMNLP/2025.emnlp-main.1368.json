@@ -1,0 +1,20 @@
+{
+  "title": "Leveraging Text-to-Text Transformers as Classifier Chain for Few-Shot Multi-Label Classification",
+  "authors": [
+    "Quang Anh Nguyen",
+    "Nadi Tomeh",
+    "Mustapha Lebbah",
+    "Thierry Charnois",
+    "Hanene Azzag"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.1368",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1368/"
+}

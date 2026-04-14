@@ -1,0 +1,25 @@
+{
+  "title": "Evaluating the Prompt Steerability of Large Language Models",
+  "authors": [
+    "Erik Miehling",
+    "Michael Desmond",
+    "Karthikeyan Natesan Ramamurthy",
+    "Elizabeth M. Daly",
+    "Kush R. Varshney",
+    "Eitan Farchi",
+    "Pierre Dognin",
+    "Jesus Rios",
+    "Djallel Bouneffouf",
+    "Miao Liu",
+    "Prasanna Sattigeri"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-long.400",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.400/"
+}

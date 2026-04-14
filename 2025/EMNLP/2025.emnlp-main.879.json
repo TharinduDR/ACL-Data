@@ -1,0 +1,22 @@
+{
+  "title": "Dovetail: A CPU/GPU Heterogeneous Speculative Decoding for LLM inference",
+  "authors": [
+    "Libo Zhang",
+    "Zhaoning Zhang",
+    "Baizhou Xu",
+    "Rui Li",
+    "Zhiliang Tian",
+    "Songzhu Mei",
+    "Dongsheng Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.879",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.879/"
+}

@@ -1,0 +1,48 @@
+{
+  "title": "EuroGEST: Investigating gender stereotypes in multilingual language models",
+  "authors": [
+    "Jacqueline Rowe",
+    "Mateusz Klimaszewski",
+    "Liane Guillou",
+    "Shannon Vallor",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "English",
+    "Bulgarian",
+    "Catalan",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Estonian",
+    "Finnish",
+    "French",
+    "Galician",
+    "German",
+    "Greek",
+    "Hungarian",
+    "Italian",
+    "Latvian",
+    "Lithuanian",
+    "Maltese",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Slovak",
+    "Slovenian",
+    "Spanish",
+    "Swedish",
+    "Turkish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.emnlp-main.1632",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1632/"
+}

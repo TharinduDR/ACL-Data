@@ -1,0 +1,27 @@
+{
+  "title": "An Empirical Study of Consistency Regularization for End-to-End Speech-to-Text Translation",
+  "authors": [
+    "Pengzhi Gao",
+    "Ruiqing Zhang",
+    "Zhongjun He",
+    "Hua Wu",
+    "Haifeng Wang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.naacl-long.14",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.14/"
+}

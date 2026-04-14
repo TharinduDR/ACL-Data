@@ -1,0 +1,26 @@
+{
+  "title": "Beyond Human Labels: A Multi-Linguistic Auto-Generated Benchmark for Evaluating Large Language Models on Resume Parsing",
+  "authors": [
+    "Zijian Ling",
+    "Han Zhang",
+    "Jiahao Cui",
+    "Zhequn Wu",
+    "Xu Sun",
+    "Guohao Li",
+    "Xiangjian He"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.emnlp-main.1626",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1626/"
+}

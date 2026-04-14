@@ -1,0 +1,21 @@
+{
+  "title": "Prompts have evil twins",
+  "authors": [
+    "Rimon Melamed",
+    "Lucas H. McCabe",
+    "Tanay Wakhare",
+    "Yejin Kim",
+    "H. Howie Huang",
+    "Enric Boix-Adsera"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.emnlp-main.4",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.4/"
+}

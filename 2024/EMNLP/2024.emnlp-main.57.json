@@ -1,0 +1,21 @@
+{
+  "title": "RoseLoRA: Row and Column-wise Sparse Low-rank Adaptation of Pre-trained Language Model for Knowledge Editing and Fine-tuning",
+  "authors": [
+    "Haoyu Wang",
+    "Tianci Liu",
+    "Ruirui Li",
+    "Monica Xiao Cheng",
+    "Tuo Zhao",
+    "Jing Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T13 Knowledge discovery/representation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.emnlp-main.57",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.57/"
+}

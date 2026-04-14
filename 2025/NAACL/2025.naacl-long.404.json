@@ -1,0 +1,21 @@
+{
+  "title": "Scaling LLM Inference Efficiently with Optimized Sample Compute Allocation",
+  "authors": [
+    "Kexun Zhang",
+    "Shang Zhou",
+    "Danqing Wang",
+    "William Yang Wang",
+    "Lei Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.404",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.404/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "NAMER: A Node-Based Multitasking Framework for Multi-Hop Knowledge Base Question Answering",
+  "authors": [
+    "Minhao Zhang",
+    "Ruoyu Zhang",
+    "Lei Zou",
+    "Yinnian Lin",
+    "Sen Hu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.naacl-demos.3",
+  "acl_url": "https://aclanthology.org/2021.naacl-demos.3/"
+}

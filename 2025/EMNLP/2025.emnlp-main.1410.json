@@ -1,0 +1,19 @@
+{
+  "title": "Randomly Removing 50% of Dimensions in Text Embeddings has Minimal Impact on Retrieval and Classification Tasks",
+  "authors": [
+    "Sotaro Takeshita",
+    "Yurina Takeshita",
+    "Daniel Ruffinelli",
+    "Simone Paolo Ponzetto"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.1410",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.1410/"
+}

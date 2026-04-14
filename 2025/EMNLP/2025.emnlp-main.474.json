@@ -1,0 +1,23 @@
+{
+  "title": "DrDiff: Dynamic Routing Diffusion with Hierarchical Attention for Breaking the Efficiency-Quality Trade-off",
+  "authors": [
+    "Jusheng Zhang",
+    "Yijia Fan",
+    "Kaitong Cai",
+    "Zimeng Huang",
+    "Xiaofei Sun",
+    "Jian Wang",
+    "Chengpei Tang",
+    "Keze Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.emnlp-main.474",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.474/"
+}

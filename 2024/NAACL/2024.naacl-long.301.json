@@ -1,0 +1,21 @@
+{
+  "title": "XTEST: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models",
+  "authors": [
+    "Paul Röttger",
+    "Hannah Rose Kirk",
+    "Bertie Vidgen",
+    "Giuseppe Attanasio",
+    "Federico Bianchi",
+    "Dirk Hovy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.naacl-long.301",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.301/"
+}

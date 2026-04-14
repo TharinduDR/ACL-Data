@@ -1,0 +1,23 @@
+{
+  "title": "Exploring and Predicting Transferability across NLP Tasks",
+  "authors": [
+    "Tu Vu",
+    "Tong Wang",
+    "Tsenduren Munkhdalai",
+    "Alessandro Sordoni",
+    "Adam Trischler",
+    "Andrew Mattarella-Micke",
+    "Subhransu Maji",
+    "Mohit Iyyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-main.635",
+  "acl_url": "https://aclanthology.org/2020.emnlp-main.635/"
+}

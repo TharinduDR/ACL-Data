@@ -1,0 +1,36 @@
+{
+  "title": "Effective Long-Context Scaling of Foundation Models",
+  "authors": [
+    "Wenhan Xiong",
+    "Jingyu Liu",
+    "Igor Molybog",
+    "Hejia Zhang",
+    "Prajwal Bhargava",
+    "Rui Hou",
+    "Louis Martin",
+    "Rashi Rungta",
+    "Karthik Abinav Sankararaman",
+    "Barlas Oguz",
+    "Madian Khabsa",
+    "Han Fang",
+    "Yashar Mehdad",
+    "Sharan Narang",
+    "Kshitiz Malik",
+    "Angela Fan",
+    "Shruti Bhosale",
+    "Sergey Edunov",
+    "Mike Lewis",
+    "Sinong Wang",
+    "Hao Ma"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.naacl-long.260",
+  "acl_url": "https://aclanthology.org/2024.naacl-long.260/"
+}

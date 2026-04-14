@@ -1,0 +1,38 @@
+{
+  "title": "SSA-COMET: Do LLMs Outperform Learned Metrics in Evaluating MT for Under-Resourced African Languages?",
+  "authors": [
+    "Senyu Li",
+    "Jiayi Wang",
+    "Felermino D. M. A. Ali",
+    "Colin Cherry",
+    "Daniel Deutsch",
+    "Eleftheria Briakou",
+    "Rui Sousa-Silva",
+    "Henrique Lopes Cardoso",
+    "Pontus Stenetorp",
+    "David Ifeoluwa Adelani"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Portuguese",
+    "Amharic",
+    "Hausa",
+    "Igbo",
+    "Kikuyu",
+    "Luo",
+    "Kinyarwanda",
+    "Twi",
+    "Yoruba",
+    "Lingala",
+    "Nyanja",
+    "Emakhuwa",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.emnlp-main.656",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.656/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Information Flow Routes: Automatically Interpreting Language Models at Scale",
+  "authors": [
+    "Javier Ferrando",
+    "Elena Voita"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Spanish",
+    "Russian",
+    "Portuguese",
+    "Italian",
+    "Arabic",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.emnlp-main.965",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.965/"
+}

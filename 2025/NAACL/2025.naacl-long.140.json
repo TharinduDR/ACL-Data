@@ -1,0 +1,39 @@
+{
+  "title": "The Impact of Domain-Specific Terminology on Machine Translation for Finance in European Languages",
+  "authors": [
+    "Arturo Oncevay",
+    "Charese H. Smiley",
+    "Xiaomo Liu"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Finnish",
+    "Bulgarian",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Estonian",
+    "French",
+    "German",
+    "Greek",
+    "Hungarian",
+    "Italian",
+    "Latvian",
+    "Lithuanian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Slovak",
+    "Slovenian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.140",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.140/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "RAGulator: Lightweight Out-of-Context Detectors for Grounded Text Generation",
+  "authors": [
+    "Ian Poey",
+    "Jiajun Liu",
+    "Qishuai Zhong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.emnlp-industry.73",
+  "acl_url": "https://aclanthology.org/2025.emnlp-industry.73/"
+}

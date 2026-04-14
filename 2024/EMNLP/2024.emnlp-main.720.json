@@ -1,0 +1,27 @@
+{
+  "title": "SPEED++: A Multilingual Event Extraction Framework for Epidemic Prediction and Preparedness",
+  "authors": [
+    "Tanmay Parekh",
+    "Jeffrey Kwan",
+    "Jiarui Yu",
+    "Sparsh Johri",
+    "Hyosang Ahn",
+    "Sreya Muppalla",
+    "Kai-Wei Chang",
+    "Wei Wang",
+    "Nanyun Peng"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Spanish",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T23 Social Media Processing",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.emnlp-main.720",
+  "acl_url": "https://aclanthology.org/2024.emnlp-main.720/"
+}

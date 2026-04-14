@@ -1,0 +1,21 @@
+{
+  "title": "ChartGaze: Enhancing Chart Understanding in LVLMs with Eye-Tracking Guided Attention Refinement",
+  "authors": [
+    "Ali Salamatian",
+    "Amirhossein Abaskohi",
+    "Wan-Cyuan Fan",
+    "Mir Rayat Imtiaz Hossain",
+    "Leonid Sigal",
+    "Giuseppe Carenini"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.emnlp-main.607",
+  "acl_url": "https://aclanthology.org/2025.emnlp-main.607/"
+}

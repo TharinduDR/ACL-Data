@@ -1,0 +1,22 @@
+{
+  "title": "MATVIX: Multimodal Information Extraction from Visually Rich Articles",
+  "authors": [
+    "Ghazal Khalighinejad",
+    "Sharon Scott",
+    "Ollie Liu",
+    "Kelly Anderson",
+    "Rickard Stureborg",
+    "Aman Tyagi",
+    "Bhuwan Dhingra"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-long.185",
+  "acl_url": "https://aclanthology.org/2025.naacl-long.185/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "RRADistill: Distilling LLMs' Passage Ranking Ability for Long-Tail Queries Document Re-Ranking on a Search Engine",
+  "authors": [
+    "Nayoung Choi",
+    "Youngjune Lee",
+    "Gyu-Hwung Cho",
+    "Haeyu Jeong",
+    "Jungmin Kong",
+    "Saehun Kim",
+    "Keunchan Park",
+    "Sarah Cho",
+    "Inchang Jeong",
+    "Gyohee Nam",
+    "Sunghoon Han",
+    "Wonil Yang",
+    "Jaeho Choi"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.emnlp-industry.46",
+  "acl_url": "https://aclanthology.org/2024.emnlp-industry.46/"
+}
