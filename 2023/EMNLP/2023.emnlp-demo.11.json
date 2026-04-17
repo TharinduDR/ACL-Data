@@ -1,0 +1,21 @@
+{
+  "title": "YATO: Yet Another deep learning based Text analysis Open toolkit",
+  "authors": [
+    "ZeQiang Wang",
+    "Yile Wang",
+    "Jiageng Wu",
+    "Zhiyang Teng",
+    "Jie Yang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.emnlp-demo.11",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.11/"
+}

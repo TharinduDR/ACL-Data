@@ -1,0 +1,23 @@
+{
+  "title": "Augmentation, Retrieval, Generation: Event Sequence Prediction with a Three-Stage Sequence-to-Sequence Approach",
+  "authors": [
+    "Bo Zhou",
+    "Chenhao Wang",
+    "Yubo Chen",
+    "Kang Liu",
+    "Jun Zhao",
+    "Jiexin Xu",
+    "Xiaojian Jiang",
+    "Qiuxia Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.coling-1.161",
+  "acl_url": "https://aclanthology.org/2022.coling-1.161/"
+}

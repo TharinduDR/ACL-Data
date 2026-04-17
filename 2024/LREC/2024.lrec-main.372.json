@@ -1,0 +1,34 @@
+{
+  "title": "Cross-Lingual Transfer Robustness to Lower-Resource Languages on Adversarial Datasets",
+  "authors": [
+    "Shadi Manafi",
+    "Nikhil Krishnaswamy"
+  ],
+  "languages": [
+    "Arabic",
+    "Persian",
+    "Czech",
+    "Slovak",
+    "Dutch",
+    "Afrikaans",
+    "English",
+    "Welsh",
+    "Breton",
+    "Occitan",
+    "Italian",
+    "Sicilian",
+    "Indonesian",
+    "Malay",
+    "Spanish",
+    "Aragonese",
+    "Asturian",
+    "Catalan"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.372",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.372/"
+}

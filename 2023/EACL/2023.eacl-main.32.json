@@ -1,0 +1,26 @@
+{
+  "title": "Retrieve-and-Fill for Scenario-based Task-Oriented Semantic Parsing",
+  "authors": [
+    "Akshat Shrivastava",
+    "Shrey Desai",
+    "Anchit Gupta",
+    "Ali Elkahky",
+    "Aleksandr Livshits",
+    "Alexander Zotov",
+    "Ahmed Aly"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Hindi",
+    "Thai"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.eacl-main.32",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.32/"
+}

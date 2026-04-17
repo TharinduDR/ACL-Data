@@ -1,0 +1,28 @@
+{
+  "title": "Cross-lingual Machine Reading Comprehension with Language Branch Knowledge Distillation",
+  "authors": [
+    "Junhao Liu",
+    "Linjun Shou",
+    "Jian Pei",
+    "Ming Gong",
+    "Min Yang",
+    "Daxin Jiang"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Arabic",
+    "Hindi",
+    "Vietnamese",
+    "Russian",
+    "Turkish",
+    "Greek"
+  ],
+  "research_areas": [
+    "T10",
+    "T16"
+  ],
+  "paper_id": "2020.coling-main.244",
+  "acl_url": "https://aclanthology.org/2020.coling-main.244/"
+}

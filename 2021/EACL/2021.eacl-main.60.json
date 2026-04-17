@@ -1,0 +1,17 @@
+{
+  "title": "Top-down Discourse Parsing via Sequence Labelling",
+  "authors": [
+    "Fajri Koto",
+    "Jey Han Lau",
+    "Timothy Baldwin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.eacl-main.60",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.60/"
+}

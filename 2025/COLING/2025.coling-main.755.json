@@ -1,0 +1,22 @@
+{
+  "title": "OpenFactCheck: Building, Benchmarking Customized Fact-Checking Systems and Evaluating the Factuality of Claims and LLMs",
+  "authors": [
+    "Yuxia Wang",
+    "Minghan Wang",
+    "Hasan Iqbal",
+    "Georgi Georgiev",
+    "Jiahui Geng",
+    "Iryna Gurevych",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.coling-main.755",
+  "acl_url": "https://aclanthology.org/2025.coling-main.755/"
+}

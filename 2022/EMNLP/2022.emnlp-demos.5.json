@@ -1,0 +1,36 @@
+{
+  "title": "TweetNLP: Cutting-Edge Natural Language Processing for Social Media",
+  "authors": [
+    "Jose Camacho-Collados",
+    "Kiamehr Rezaee",
+    "Talayeh Riahi",
+    "Asahi Ushio",
+    "Daniel Loureiro",
+    "Dimosthenis Antypas",
+    "Joanne Boisson",
+    "Luis Espinosa-Anke",
+    "Fangyu Liu",
+    "Eugenio Martinez-Camara",
+    "Gonzalo Medina",
+    "Thomas Buhrmann",
+    "Leonardo Neves",
+    "Francesco Barbieri"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "French",
+    "German",
+    "Hindi",
+    "Italian",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.emnlp-demos.5",
+  "acl_url": "https://aclanthology.org/2022.emnlp-demos.5/"
+}

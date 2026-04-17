@@ -1,0 +1,20 @@
+{
+  "title": "Prompt-driven Detection of Offensive Urdu Language using Large Language Models",
+  "authors": [
+    "Iffat Maab",
+    "Usman Haider",
+    "Junichi Yamagishi"
+  ],
+  "languages": [
+    "English",
+    "Roman Urdu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.201",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.201/"
+}

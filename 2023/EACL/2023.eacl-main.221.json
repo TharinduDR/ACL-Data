@@ -1,0 +1,22 @@
+{
+  "title": "DeepMaven: Deep Question Answering on Long-Distance Movie/TV Show Videos with Multimedia Knowledge Extraction and Synthesis",
+  "authors": [
+    "Yi Fung",
+    "Han Wang",
+    "Tong Wang",
+    "Ali Kebarighotbi",
+    "Mohit Bansal",
+    "Heng Ji",
+    "Prem Natarajan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.eacl-main.221",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.221/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Exploring Fine-Tuning for In-Context Retrieval and Efficient KV-Caching in Long-Context Language Models",
+  "authors": [
+    "Francesco Maria Molfese",
+    "Momchil Hardalov",
+    "Rexhina Blloshmi",
+    "Bill Byrne",
+    "Adrià de Gispert"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2026.eacl-short.44",
+  "acl_url": "https://aclanthology.org/2026.eacl-short.44/"
+}

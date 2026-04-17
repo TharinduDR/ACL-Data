@@ -1,0 +1,20 @@
+{
+  "title": "ContraCAT: Contrastive Coreference Analytical Templates for Machine Translation",
+  "authors": [
+    "Dario Stojanovski",
+    "Benno Krojer",
+    "Denis Peskov",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.coling-main.417",
+  "acl_url": "https://aclanthology.org/2020.coling-main.417/"
+}

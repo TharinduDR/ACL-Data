@@ -1,0 +1,19 @@
+{
+  "title": "Machine Translation for Low-Resource Languages through Monolingual Data and LLM: A Case Study of English-to-Basque",
+  "authors": [
+    "Nam Luu",
+    "Aitor Soroa",
+    "German Rigau",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "English",
+    "Basque"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2026.eacl-srw.6",
+  "acl_url": "https://aclanthology.org/2026.eacl-srw.6/"
+}

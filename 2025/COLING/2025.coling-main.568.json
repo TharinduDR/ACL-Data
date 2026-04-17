@@ -1,0 +1,23 @@
+{
+  "title": "META-LORA: Memory-Efficient Sample Reweighting for Fine-Tuning Large Language Models",
+  "authors": [
+    "Weicheng Li",
+    "Lixin Zou",
+    "Min Tang",
+    "Qing Yu",
+    "Wanli Li",
+    "Chenliang Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T27 Code generation and programming languages",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.coling-main.568",
+  "acl_url": "https://aclanthology.org/2025.coling-main.568/"
+}

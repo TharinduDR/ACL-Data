@@ -1,0 +1,25 @@
+{
+  "title": "IRR: Image Review Ranking Framework for Evaluating Vision-Language Models",
+  "authors": [
+    "Kazuki Hayashi",
+    "Kazuma Onishi",
+    "Toma Suzuki",
+    "Yusuke Ide",
+    "Seiji Gobara",
+    "Shigeki Saito",
+    "Yusuke Sakai",
+    "Hidetaka Kamigaito",
+    "Katsuhiko Hayashi",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.665",
+  "acl_url": "https://aclanthology.org/2025.coling-main.665/"
+}

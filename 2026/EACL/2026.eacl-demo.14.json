@@ -1,0 +1,29 @@
+{
+  "title": "BOOM: Beyond Only One Modality KIT's Multimodal Multilingual Lecture Companion",
+  "authors": [
+    "Sai Koneru",
+    "Fabian Retkowski",
+    "Christian Huber",
+    "Lukas Hilgert",
+    "Seymanur Akti",
+    "Enes Yavuz Ugan",
+    "Alexander Waibel",
+    "Jan Niehues"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Italian",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2026.eacl-demo.14",
+  "acl_url": "https://aclanthology.org/2026.eacl-demo.14/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Stereotype and Skew: Quantifying Gender Bias in Pre-trained and Fine-tuned Language Models",
+  "authors": [
+    "Daniel de Vassimon Manela",
+    "David Errington",
+    "Thomas Fisher",
+    "Boris van Breugel",
+    "Pasquale Minervini"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.eacl-main.190",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.190/"
+}

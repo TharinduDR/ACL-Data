@@ -1,0 +1,27 @@
+{
+  "title": "Robustification of Multilingual Language Models to Real-world Noise in Crosslingual Zero-shot Settings with Robust Contrastive Pretraining",
+  "authors": [
+    "Asa Cooper Stickland",
+    "Sailik Sengupta",
+    "Jason Krone",
+    "He He",
+    "Saab Mansour"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Hindi",
+    "Chinese",
+    "Japanese",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.eacl-main.100",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.100/"
+}

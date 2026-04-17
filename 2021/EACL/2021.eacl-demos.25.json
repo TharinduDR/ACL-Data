@@ -1,0 +1,20 @@
+{
+  "title": "T2NER: Transformers based Transfer Learning Framework for Named Entity Recognition",
+  "authors": [
+    "Saadullah Amin",
+    "Günter Neumann"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2021.eacl-demos.25",
+  "acl_url": "https://aclanthology.org/2021.eacl-demos.25/"
+}

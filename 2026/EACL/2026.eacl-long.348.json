@@ -1,0 +1,25 @@
+{
+  "title": "GRAVITY: A Framework for Personalized Text Generation via Profile-Grounded Synthetic Preferences",
+  "authors": [
+    "Priyanka Dey",
+    "Daniele Rosa",
+    "Wenqing Zheng",
+    "Daniel Barcklow",
+    "Jieyu Zhao",
+    "Emilio Ferrara"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Portuguese",
+    "Japanese",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.348",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.348/"
+}

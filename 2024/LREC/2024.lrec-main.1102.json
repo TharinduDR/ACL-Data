@@ -1,0 +1,23 @@
+{
+  "title": "Parameter-Efficient Transfer Learning for End-to-end Speech Translation",
+  "authors": [
+    "Yunlong Zhao",
+    "Kexin Wang",
+    "Qianqian Dong",
+    "Tom Ko"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.lrec-main.1102",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1102/"
+}

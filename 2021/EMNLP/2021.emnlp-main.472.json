@@ -1,0 +1,21 @@
+{
+  "title": "Frustratingly Simple but Surprisingly Strong: Using Language-Independent Features for Zero-shot Cross-lingual Semantic Parsing",
+  "authors": [
+    "Jingfeng Yang",
+    "Federico Fancellu",
+    "Bonnie Webber",
+    "Diyi Yang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.emnlp-main.472",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.472/"
+}

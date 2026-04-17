@@ -1,0 +1,22 @@
+{
+  "title": "CovRelex: A COVID-19 Retrieval System with Relation Extraction",
+  "authors": [
+    "Vu Tran",
+    "Van-Hien Tran",
+    "Phuong Minh Nguyen",
+    "Chau Minh Nguyen",
+    "Ken Satoh",
+    "Yuji Matsumoto",
+    "Minh Le Nguyen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.eacl-demos.4",
+  "acl_url": "https://aclanthology.org/2021.eacl-demos.4/"
+}

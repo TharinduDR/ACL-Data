@@ -1,0 +1,27 @@
+{
+  "title": "Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation",
+  "authors": [
+    "Hang Le",
+    "Juan Pino",
+    "Changhan Wang",
+    "Jiatao Gu",
+    "Didier Schwab",
+    "Laurent Besacier"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.coling-main.314",
+  "acl_url": "https://aclanthology.org/2020.coling-main.314/"
+}

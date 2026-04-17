@@ -1,0 +1,44 @@
+{
+  "title": "DiTTO: A Feature Representation Imitation Approach for Improving Cross-Lingual Transfer",
+  "authors": [
+    "Shanu Kumar",
+    "Abbaraju Soujanya",
+    "Sandipan Dandapat",
+    "Sunayana Sitaram",
+    "Monojit Choudhury"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "German",
+    "Greek",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Urdu",
+    "Vietnamese",
+    "Chinese",
+    "Aymara",
+    "Asháninka",
+    "Bribri",
+    "Guaraní",
+    "Nahuatl",
+    "Otomi",
+    "Quechua",
+    "Rarámuri",
+    "Shipibo-Konibo",
+    "Wixarika",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.eacl-main.29",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.29/"
+}

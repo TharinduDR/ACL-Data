@@ -1,0 +1,27 @@
+{
+  "title": "ConEC: Earnings Call Dataset with Real-world Contexts for Benchmarking Contextual Speech Recognition",
+  "authors": [
+    "Ruizhe Huang",
+    "Mahsa Yarmohammadi",
+    "Jan Trmal",
+    "Jing Liu",
+    "Desh Raj",
+    "Leibny Paola Garcia",
+    "Alexei Ivanov",
+    "Patrick Ehlen",
+    "Mingzhi Yu",
+    "Ariya Rastrow",
+    "Daniel Povey",
+    "Sanjeev Khudanpur"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.lrec-main.328",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.328/"
+}

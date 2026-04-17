@@ -1,0 +1,46 @@
+{
+  "title": "Nanda Family: Open-Weight Generative Large Language Models for Hindi",
+  "authors": [
+    "Aaryamonvikram Singh",
+    "Debopriyo Banerjee",
+    "Dhruv Sahnan",
+    "Monojit Choudhury",
+    "Shivam Chauhan",
+    "Rocktim Jyoti Das",
+    "Xudong Han",
+    "Haonan Li",
+    "Alok Anil Jadhav",
+    "Utkarsh Agarwal",
+    "Mukund Choudhary",
+    "Fajri Koto",
+    "Junaid Hamid Bhat",
+    "Awantika Shukla",
+    "Samujjwal Ghosh",
+    "Samta Kamboj",
+    "Onkar Pandit",
+    "Rahul Pal",
+    "Sunil Kumar Sahu",
+    "Parvez Mullah",
+    "Ali El Filali",
+    "Lalit Pradhan",
+    "Zainul Abedien Ahmed Quraishi",
+    "Neha Sengupta",
+    "Gokul Ramakrishnan",
+    "Rituraj Joshi",
+    "Gurpreet Gosal",
+    "Avraham Sheinin",
+    "Natalia Vassileva",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2026.eacl-long.288",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.288/"
+}

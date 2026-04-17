@@ -1,0 +1,18 @@
+{
+  "title": "ELITR-Bench: A Meeting Assistant Benchmark for Long-Context Language Models",
+  "authors": [
+    "Thibaut Thonet",
+    "Jos Rozen",
+    "Laurent Besacier"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2025.coling-main.28",
+  "acl_url": "https://aclanthology.org/2025.coling-main.28/"
+}

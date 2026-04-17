@@ -1,0 +1,19 @@
+{
+  "title": "FastKASSIM: A Fast Tree Kernel-Based Syntactic Similarity Metric",
+  "authors": [
+    "Maximillian Chen",
+    "Caitlyn Chen",
+    "Xiao Yu",
+    "Zhou Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.eacl-main.17",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.17/"
+}

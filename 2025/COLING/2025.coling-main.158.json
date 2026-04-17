@@ -1,0 +1,17 @@
+{
+  "title": "AsymKV: Enabling 1-Bit Quantization of KV Cache with Layer-Wise Asymmetric Quantization Configurations",
+  "authors": [
+    "Qian Tao",
+    "Wenyuan Yu",
+    "Jingren Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.158",
+  "acl_url": "https://aclanthology.org/2025.coling-main.158/"
+}

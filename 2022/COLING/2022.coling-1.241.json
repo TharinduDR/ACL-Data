@@ -1,0 +1,23 @@
+{
+  "title": "Medical Question Understanding and Answering with Knowledge Grounding and Semantic Self-Supervision",
+  "authors": [
+    "Khalil Mrini",
+    "Harpreet Singh",
+    "Franck Dernoncourt",
+    "Seunghyun Yoon",
+    "Trung Bui",
+    "Walter Chang",
+    "Emilia Farcas",
+    "Ndapa Nakashole"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.coling-1.241",
+  "acl_url": "https://aclanthology.org/2022.coling-1.241/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning",
+  "authors": [
+    "Dongyang Li",
+    "Taolin Zhang",
+    "Longtao Huang",
+    "Chengyu Wang",
+    "Xiaofeng He",
+    "Hui Xue"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.lrec-main.847",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.847/"
+}

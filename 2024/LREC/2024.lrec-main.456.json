@@ -1,0 +1,21 @@
+{
+  "title": "Doc2SoarGraph: Discrete Reasoning over Visually-Rich Table-Text Documents via Semantic-Oriented Hierarchical Graphs",
+  "authors": [
+    "Fengbin Zhu",
+    "Chao Wang",
+    "Fuli Feng",
+    "Zifeng Ren",
+    "Moxin Li",
+    "Tat-Seng Chua"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.lrec-main.456",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.456/"
+}

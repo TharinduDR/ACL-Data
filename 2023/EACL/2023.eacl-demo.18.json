@@ -1,0 +1,32 @@
+{
+  "title": "GameQA: Gamified Mobile App Platform for Building Multiple-Domain Question-Answering Datasets",
+  "authors": [
+    "Njáll Skarphéðinsson",
+    "Brekí Guðmundsson",
+    "Steinar P. Smári",
+    "Marta K. Lárusdóttir",
+    "Hafsteinn Einarsson",
+    "Abuzar Khan",
+    "Eric Nyberg",
+    "Hrafn Loftsson"
+  ],
+  "languages": [
+    "Icelandic",
+    "Russian",
+    "Japanese",
+    "Arabic",
+    "Indonesian",
+    "Korean",
+    "Finnish",
+    "Thai",
+    "Bengali",
+    "Telugu",
+    "Kiswahili"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.eacl-demo.18",
+  "acl_url": "https://aclanthology.org/2023.eacl-demo.18/"
+}

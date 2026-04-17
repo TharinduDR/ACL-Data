@@ -1,0 +1,23 @@
+{
+  "title": "MuSeCLIR: A Multiple Senses and Cross-lingual Information Retrieval dataset",
+  "authors": [
+    "Wing Yan Li",
+    "Julie Weeds",
+    "David Weir"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.coling-1.96",
+  "acl_url": "https://aclanthology.org/2022.coling-1.96/"
+}

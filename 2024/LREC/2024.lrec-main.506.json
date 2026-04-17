@@ -1,0 +1,31 @@
+{
+  "title": "Emotion Analysis in NLP: Trends, Gaps and Roadmap for Future Directions",
+  "authors": [
+    "Flor Miriam Plaza-del-Arco",
+    "Alba Curry",
+    "Amanda Cercas Curry",
+    "Dirk Hovy"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "Romanian",
+    "German",
+    "Portuguese",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.lrec-main.506",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.506/"
+}

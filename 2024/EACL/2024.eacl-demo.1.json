@@ -1,0 +1,25 @@
+{
+  "title": "TextBI: An Interactive Dashboard for Visualizing Multidimensional NLP Annotations in Social Media Data",
+  "authors": [
+    "Maxime Masson",
+    "Christian Sallaberry",
+    "Marie-Noelle Bessagnet",
+    "Annig Le Parc Lacayrelle",
+    "Philippe Roose",
+    "Rodrigo Agerri"
+  ],
+  "languages": [
+    "French",
+    "Spanish",
+    "English",
+    "Basque",
+    "Italian"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.eacl-demo.1",
+  "acl_url": "https://aclanthology.org/2024.eacl-demo.1/"
+}

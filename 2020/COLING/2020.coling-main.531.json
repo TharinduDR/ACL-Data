@@ -1,0 +1,19 @@
+{
+  "title": "Combining Word Embeddings with Bilingual Orthography Embeddings for Bilingual Dictionary Induction",
+  "authors": [
+    "Silvia Severini",
+    "Viktor Hangya",
+    "Alexander Fraser",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.coling-main.531",
+  "acl_url": "https://aclanthology.org/2020.coling-main.531/"
+}

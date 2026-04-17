@@ -1,0 +1,21 @@
+{
+  "title": "MATILDA: Multi-AnnoTator multi-language Interactive Light-weight Dialogue Annotator",
+  "authors": [
+    "Davide Cucurnia",
+    "Nikolai Rozanov",
+    "Irene Sucameli",
+    "Augusto Ciuffoletti",
+    "Maria Simi"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "German"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2021.eacl-demos.5",
+  "acl_url": "https://aclanthology.org/2021.eacl-demos.5/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "BERT-based Cohesion Analysis of Japanese Texts",
+  "authors": [
+    "Nobuhiro Ueda",
+    "Daisuke Kawahara",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.coling-main.114",
+  "acl_url": "https://aclanthology.org/2020.coling-main.114/"
+}

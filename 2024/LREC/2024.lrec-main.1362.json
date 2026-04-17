@@ -1,0 +1,29 @@
+{
+  "title": "Teaching Large Language Models to Translate on Low-resource Languages with Textbook Prompting",
+  "authors": [
+    "Ping Guo",
+    "Yubing Ren",
+    "Yue Hu",
+    "Yunpeng Li",
+    "Jiarui Zhang",
+    "Xingsheng Zhang",
+    "Heyan Huang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Cantonese",
+    "Arabic",
+    "Ge'ez",
+    "Latin",
+    "Devanagari",
+    "Cyrillic",
+    "Others"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.lrec-main.1362",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1362/"
+}

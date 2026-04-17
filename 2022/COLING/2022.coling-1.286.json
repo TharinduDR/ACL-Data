@@ -1,0 +1,20 @@
+{
+  "title": "NSP-BERT: A Prompt-based Few-Shot Learner Through an Original Pre-training Task — Next Sentence Prediction",
+  "authors": [
+    "Yi Sun",
+    "Yu Zheng",
+    "Chao Hao",
+    "Hangping Qiu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.coling-1.286",
+  "acl_url": "https://aclanthology.org/2022.coling-1.286/"
+}

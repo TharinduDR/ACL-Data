@@ -1,0 +1,27 @@
+{
+  "title": "Uchaguzi-2022: A Dataset of Citizen Reports on the 2022 Kenyan Election",
+  "authors": [
+    "Roberto Mondini",
+    "Neema Kotonya",
+    "Robert Logan",
+    "Elizabeth Olson",
+    "Angela Oduor Lungati",
+    "Daniel Duke Odongo",
+    "Tim Ombasa",
+    "Hemank Lamba",
+    "Aoife Cahill",
+    "Joel Tetreault",
+    "Alejandro Jaimes"
+  ],
+  "languages": [
+    "English",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.coling-main.387",
+  "acl_url": "https://aclanthology.org/2025.coling-main.387/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion",
+  "authors": [
+    "Chen Chen",
+    "Yufei Wang",
+    "Bing Li",
+    "Kwok-Yan Lam"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.coling-1.352",
+  "acl_url": "https://aclanthology.org/2022.coling-1.352/"
+}

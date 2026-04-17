@@ -1,0 +1,22 @@
+{
+  "title": "Cross-lingual Visual Pre-training for Multimodal Machine Translation",
+  "authors": [
+    "Ozan Caglayan",
+    "Menekse Kuyu",
+    "Mustafa Sercan Amac",
+    "Pranava Madhyastha",
+    "Erkut Erdem",
+    "Aykut Erdem",
+    "Lucia Specia"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2021.eacl-main.112",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.112/"
+}

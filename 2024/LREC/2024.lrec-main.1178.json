@@ -1,0 +1,19 @@
+{
+  "title": "QueryNER: Segmentation of E-commerce Queries",
+  "authors": [
+    "Chester Palen-Michel",
+    "Lizzie Liang",
+    "Zhe Wu",
+    "Constantine Lignos"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, ontologies, etc.)"
+  ],
+  "paper_id": "2024.lrec-main.1178",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1178/"
+}

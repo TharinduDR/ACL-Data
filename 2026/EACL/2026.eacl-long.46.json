@@ -1,0 +1,22 @@
+{
+  "title": "CETVEL: A Unified Benchmark for Evaluating Language Understanding, Generation and Cultural Capacity of LLMs for Turkish",
+  "authors": [
+    "Abrek Er",
+    "Ilker Kesen",
+    "Gözde Gül Şahin",
+    "Aykut Erdem"
+  ],
+  "languages": [
+    "Turkish",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2026.eacl-long.46",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.46/"
+}

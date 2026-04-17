@@ -1,0 +1,35 @@
+{
+  "title": "Improving Zero-Shot Cross-Lingual Transfer Learning via Robust Training",
+  "authors": [
+    "Kuan-Hao Huang",
+    "Wasi Uddin Ahmad",
+    "Nanyun Peng",
+    "Kai-Wei Chang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Japanese",
+    "Korean",
+    "Chinese",
+    "Arabic",
+    "Bulgarian",
+    "Estonian",
+    "Hindi",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Uyghur",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.126",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.126/"
+}

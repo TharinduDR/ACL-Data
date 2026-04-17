@@ -1,0 +1,18 @@
+{
+  "title": "NYTWIT: A Dataset of Novel Words in the New York Times",
+  "authors": [
+    "Yuval Pinter",
+    "Cassandra L. Jacobs",
+    "Max Bittker"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.572",
+  "acl_url": "https://aclanthology.org/2020.coling-main.572/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Explaining Answers with Entailment Trees",
+  "authors": [
+    "Bhavana Dalvi",
+    "Peter Jansen",
+    "Oyvind Tafjord",
+    "Zhengnan Xie",
+    "Hannah Smith",
+    "Leighanna Pipatanangkura",
+    "Peter Clark"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.585",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.585/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "AICD Bench: A Challenging Benchmark for AI-Generated Code Detection",
+  "authors": [
+    "Daniil Orel",
+    "Dilshod Azizov",
+    "Indraneil Paul",
+    "Yuxia Wang",
+    "Iryna Gurevych",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.325",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.325/"
+}

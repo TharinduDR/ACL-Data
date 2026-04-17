@@ -1,0 +1,20 @@
+{
+  "title": "KINNEWS and KIRNEWS: Benchmarking Cross-Lingual Text Classification for Kinyarwanda and Kirundi",
+  "authors": [
+    "Rubungo Andre Niyongabo",
+    "Hong Qu",
+    "Julia Kreutzer",
+    "Li Huang"
+  ],
+  "languages": [
+    "Kinyarwanda",
+    "Kirundi"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.coling-main.480",
+  "acl_url": "https://aclanthology.org/2020.coling-main.480/"
+}

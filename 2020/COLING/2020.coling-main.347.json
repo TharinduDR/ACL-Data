@@ -1,0 +1,25 @@
+{
+  "title": "Second-Order Unsupervised Neural Dependency Parsing",
+  "authors": [
+    "Songlin Yang",
+    "Yong Jiang",
+    "Wenjuan Han",
+    "Kewei Tu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Basque",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.347",
+  "acl_url": "https://aclanthology.org/2020.coling-main.347/"
+}

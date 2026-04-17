@@ -1,0 +1,18 @@
+{
+  "title": "MedEx: Enhancing Medical Question-Answering with First-Order Logic based Reasoning and Knowledge Injection",
+  "authors": [
+    "Aizan Zafar",
+    "Kshitij Mishra",
+    "Asif Ekbal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.coling-main.649",
+  "acl_url": "https://aclanthology.org/2025.coling-main.649/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "LogiTorch: A PyTorch-based library for logical reasoning on natural language",
+  "authors": [
+    "Chadi Helwe",
+    "Chloé Clavel",
+    "Fabian Suchanek"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2022.emnlp-demos.25",
+  "acl_url": "https://aclanthology.org/2022.emnlp-demos.25/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "CONCRETE: Improving Cross-lingual Fact-checking with Cross-lingual Retrieval",
+  "authors": [
+    "Kung-Hsiang Huang",
+    "ChengXiang Zhai",
+    "Heng Ji"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Persian",
+    "Indonesian",
+    "Portuguese",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2022.coling-1.86",
+  "acl_url": "https://aclanthology.org/2022.coling-1.86/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Self-training Reduces Flicker in Retranslation-based Simultaneous Translation",
+  "authors": [
+    "Sukanta Sen",
+    "Rico Sennrich",
+    "Biao Zhang",
+    "Barry Haddow"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.eacl-main.270",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.270/"
+}

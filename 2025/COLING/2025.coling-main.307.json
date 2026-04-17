@@ -1,0 +1,35 @@
+{
+  "title": "A Survey of Code-switched Arabic NLP: Progress, Challenges, and Future Directions",
+  "authors": [
+    "Injy Hamed",
+    "Caroline Sabty",
+    "Slim Abdennadher",
+    "Ngoc Thang Vu",
+    "Thamar Solorio",
+    "Nizar Habash"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Dutch",
+    "Portuguese",
+    "Persian",
+    "Turkish",
+    "Cantonese",
+    "Chinese",
+    "Indonesian",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.coling-main.307",
+  "acl_url": "https://aclanthology.org/2025.coling-main.307/"
+}

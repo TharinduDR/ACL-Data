@@ -1,0 +1,23 @@
+{
+  "title": "DEIE: Benchmarking Document-level Event Information Extraction with a Large-scale Chinese News Dataset",
+  "authors": [
+    "Yubing Ren",
+    "Yanan Cao",
+    "Hao Li",
+    "Yingjie Li",
+    "Zixuan Ma",
+    "Fang Fang",
+    "Ping Guo",
+    "Wei Ma"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.lrec-main.410",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.410/"
+}

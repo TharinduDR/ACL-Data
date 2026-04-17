@@ -1,0 +1,24 @@
+{
+  "title": "Improved Latent Tree Induction with Distant Supervision via Span Constraints",
+  "authors": [
+    "Zhiyang Xu",
+    "Andrew Drozdov",
+    "Jay Yoon Lee",
+    "Tim O'Gorman",
+    "Subendhu Rongali",
+    "Dylan Finkbeiner",
+    "Shilpa Suresh",
+    "Mohit Iyyer",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2021.emnlp-main.395",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.395/"
+}

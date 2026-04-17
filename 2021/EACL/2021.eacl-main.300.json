@@ -1,0 +1,21 @@
+{
+  "title": "Complex Question Answering on knowledge graphs using machine translation and multi-task learning",
+  "authors": [
+    "Saurabh Srivastava",
+    "Mayur Patidar",
+    "Sudip Chowdhury",
+    "Puneet Agarwal",
+    "Indrajit Bhattacharya",
+    "Gautam Shroff"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.eacl-main.300",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.300/"
+}

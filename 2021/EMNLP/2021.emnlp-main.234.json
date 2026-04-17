@@ -1,0 +1,37 @@
+{
+  "title": "Linguistic Dependencies and Statistical Dependence",
+  "authors": [
+    "Jacob Louis Hoover",
+    "Alessandro Sordoni",
+    "Wenyu Du",
+    "Timothy J. O'Donnell"
+  ],
+  "languages": [
+    "Chinese",
+    "Czech",
+    "English",
+    "French",
+    "German",
+    "Korean",
+    "Polish",
+    "Russian",
+    "Spanish",
+    "Turkish",
+    "Arabic",
+    "Indonesian",
+    "Italian",
+    "Hindi",
+    "Icelandic",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Swedish",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.emnlp-main.234",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.234/"
+}

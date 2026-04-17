@@ -1,0 +1,21 @@
+{
+  "title": "Conversational Question Answering over Knowledge Graphs with Transformer and Graph Attention Networks",
+  "authors": [
+    "Endri Kacupaj",
+    "Joan Plepi",
+    "Kuldeep Singh",
+    "Harsh Thakkar",
+    "Jens Lehmann",
+    "Maria Maleshkova"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.eacl-main.72",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.72/"
+}

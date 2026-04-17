@@ -1,0 +1,42 @@
+{
+  "title": "Language-specific Effects on Automatic Speech Recognition Errors for World Englishes",
+  "authors": [
+    "June Choe",
+    "Yiran Chen",
+    "May Pik Yu Chan",
+    "Aini Li",
+    "Xin Gao",
+    "Nicole Holliday"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Italian",
+    "Spanish",
+    "Russian",
+    "Swedish",
+    "Swiss German",
+    "Arabic",
+    "Bengali",
+    "Dari",
+    "Hindi",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Thai",
+    "Urdu",
+    "Vietnamese",
+    "Tagalog",
+    "Cantonese",
+    "Mandarin"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.coling-1.628",
+  "acl_url": "https://aclanthology.org/2022.coling-1.628/"
+}

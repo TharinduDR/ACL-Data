@@ -1,0 +1,22 @@
+{
+  "title": "K-MHaS: A Multi-label Hate Speech Detection Dataset in Korean Online News Comment",
+  "authors": [
+    "Jean Lee",
+    "Taejun Lim",
+    "Heejun Lee",
+    "Bogeun Jo",
+    "Yangsok Kim",
+    "Heegeun Yoon",
+    "Soyeon Caren Han"
+  ],
+  "languages": [
+    "Korean"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.coling-1.311",
+  "acl_url": "https://aclanthology.org/2022.coling-1.311/"
+}

@@ -1,0 +1,38 @@
+{
+  "title": "FRAPPE: FRAMing, Persuasion, and Propaganda Explorer",
+  "authors": [
+    "Ahmed Sajwani",
+    "Alaa El Setohy",
+    "Ali Mekky",
+    "Diana Turmakhhan",
+    "Lara Hassan",
+    "Mohamed El Zeftawy",
+    "Omar El Herraoui",
+    "Osama Mohammed Afzal",
+    "Qisheng Liao",
+    "Tarek Mahmoud",
+    "Zain Muhammad Mujahid",
+    "Muhammad Umar Salman",
+    "Muhammad Arslan Manzoor",
+    "Massa Baali",
+    "Jakub Piskorski",
+    "Nicolas Stefanovich",
+    "Giovanni Da San Martino",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Polish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.eacl-demo.22",
+  "acl_url": "https://aclanthology.org/2024.eacl-demo.22/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "PECO: Examining Single Sentence Label Leakage in Natural Language Inference Datasets through Progressive Evaluation of Cluster Outliers",
+  "authors": [
+    "Michael Saxon",
+    "Xinyi Wang",
+    "Wenda Xu",
+    "William Yang Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.eacl-main.223",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.223/"
+}

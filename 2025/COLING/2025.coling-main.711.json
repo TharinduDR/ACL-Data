@@ -1,0 +1,20 @@
+{
+  "title": "MDPO: Customized Direct Preference Optimization with a Metric-based Sampler for Question and Answer Generation",
+  "authors": [
+    "Yihang Wang",
+    "Bowen Tian",
+    "Yueyang Su",
+    "Yixing Fan",
+    "Jiafeng Guo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.711",
+  "acl_url": "https://aclanthology.org/2025.coling-main.711/"
+}

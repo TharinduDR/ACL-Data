@@ -1,0 +1,30 @@
+{
+  "title": "Fast, Effective, and Self-Supervised: Transforming Masked Language Models into Universal Lexical and Sentence Encoders",
+  "authors": [
+    "Fangyu Liu",
+    "Ivan Vulić",
+    "Anna Korhonen",
+    "Nigel Collier"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Arabic",
+    "Chinese",
+    "Russian",
+    "Polish",
+    "Portuguese",
+    "Turkish",
+    "Italian",
+    "Hebrew",
+    "Estonian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2021.emnlp-main.109",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.109/"
+}

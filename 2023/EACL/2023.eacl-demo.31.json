@@ -1,0 +1,33 @@
+{
+  "title": "EVALIGN: Visual Evaluation of Translation Alignment Models",
+  "authors": [
+    "Tariq Yousef",
+    "Gerhard Heyer",
+    "Stefan Jänicke"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Romanian",
+    "Portuguese",
+    "Spanish",
+    "Czech",
+    "Chinese",
+    "Arabic",
+    "Persian",
+    "Indonesian",
+    "Swedish",
+    "Icelandic",
+    "Greek",
+    "Latin",
+    "Myanmar"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eacl-demo.31",
+  "acl_url": "https://aclanthology.org/2023.eacl-demo.31/"
+}

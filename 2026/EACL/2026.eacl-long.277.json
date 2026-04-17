@@ -1,0 +1,48 @@
+{
+  "title": "MERLIN: Multi-Stage Curriculum Alignment for Multilingual Encoder-LLM Integration in Cross-Lingual Reasoning",
+  "authors": [
+    "Kosei Uemura",
+    "David Guzmán",
+    "Quang Phuoc Nguyen",
+    "Jesujoba Oluwadara Alabi",
+    "En-Shiun Annie Lee",
+    "David Ifeoluwa Adelani"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Thai",
+    "Swedish",
+    "Japanese",
+    "Chinese",
+    "German",
+    "French",
+    "Russian",
+    "Spanish",
+    "Amharic",
+    "Ewe",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Luganda",
+    "Oromo",
+    "Shona",
+    "Sotho",
+    "Swahili",
+    "Twi",
+    "Wolof",
+    "Xhosa",
+    "Zulu",
+    "Portuguese",
+    "Aymara",
+    "Guaraní",
+    "Quechua"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2026.eacl-long.277",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.277/"
+}

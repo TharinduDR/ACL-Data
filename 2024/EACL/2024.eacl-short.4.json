@@ -1,0 +1,43 @@
+{
+  "title": "Mitigating Hallucinations and Off-target Machine Translation with Source-Contrastive and Language-Contrastive Decoding",
+  "authors": [
+    "Rico Sennrich",
+    "Jannis Vamvas",
+    "Alireza Mohammadshahi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Arabic",
+    "Afrikaans",
+    "Asturian",
+    "Belarusian",
+    "Bengali",
+    "Czech",
+    "Greek",
+    "Hindi",
+    "Croatian",
+    "Hungarian",
+    "Armenian",
+    "Italian",
+    "Marathi",
+    "Dutch; Flemish",
+    "Pushto; Pashto",
+    "Romanian; Moldavian; Moldovan",
+    "Russian",
+    "Slovak",
+    "Serbian",
+    "Swahili",
+    "Turkish",
+    "Ukrainian",
+    "Urdu",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.eacl-short.4",
+  "acl_url": "https://aclanthology.org/2024.eacl-short.4/"
+}

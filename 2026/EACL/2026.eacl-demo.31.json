@@ -1,0 +1,18 @@
+{
+  "title": "xLM: A Python Package for Non-Autoregressive Language Models",
+  "authors": [
+    "Dhruvesh Patel",
+    "Durga Prasad Maram",
+    "Sai Sreenivas Chintha",
+    "Benjamin Rozonoyer",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.eacl-demo.31",
+  "acl_url": "https://aclanthology.org/2026.eacl-demo.31/"
+}

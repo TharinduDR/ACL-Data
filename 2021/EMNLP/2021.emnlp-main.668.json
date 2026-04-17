@@ -1,0 +1,32 @@
+{
+  "title": "Effective Fine-tuning Methods for Cross-lingual Adaptation",
+  "authors": [
+    "Tao Yu",
+    "Shafiq Joty"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Chinese",
+    "Japanese",
+    "Spanish",
+    "Arabic",
+    "Russian",
+    "Turkish",
+    "Vietnamese",
+    "Thai",
+    "Hindi",
+    "Swahili",
+    "Urdu",
+    "Bulgarian",
+    "Greek"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.668",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.668/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "DomiKnowS: A Library for Integration of Symbolic Domain Knowledge in Deep Learning",
+  "authors": [
+    "Hossein Rajaby Faghihi",
+    "Quan Guo",
+    "Andrzej Uszok",
+    "Aliakbar Nafar",
+    "Elaheh Raisi",
+    "Parisa Kordjamshidi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.emnlp-demo.27",
+  "acl_url": "https://aclanthology.org/2021.emnlp-demo.27/"
+}

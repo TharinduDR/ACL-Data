@@ -1,0 +1,38 @@
+{
+  "title": "Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks",
+  "authors": [
+    "Abhinav Rao",
+    "Sachin Vashistha",
+    "Atharva Naik",
+    "Somak Aditya",
+    "Monojit Choudhury"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "Spanish",
+    "Arabic",
+    "German",
+    "Portuguese",
+    "Russian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Thai",
+    "Vietnamese",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.lrec-main.1462",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1462/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "ERGO: Event Relational Graph Transformer for Document-level Event Causality Identification",
+  "authors": [
+    "Meiqi Chen",
+    "Yixin Cao",
+    "Kunquan Deng",
+    "Mukai Li",
+    "Kun Wang",
+    "Jing Shao",
+    "Yan Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.coling-1.185",
+  "acl_url": "https://aclanthology.org/2022.coling-1.185/"
+}

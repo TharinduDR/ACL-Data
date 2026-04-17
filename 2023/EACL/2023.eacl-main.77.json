@@ -1,0 +1,22 @@
+{
+  "title": "On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex",
+  "authors": [
+    "Terry Yue Zhuo",
+    "Zhuang Li",
+    "Yujin Huang",
+    "Fatemeh Shiri",
+    "Weiqing Wang",
+    "Gholamreza Haffari",
+    "Yuan-Fang Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eacl-main.77",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.77/"
+}

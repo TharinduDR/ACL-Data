@@ -1,0 +1,32 @@
+{
+  "title": "Continual-learning for Modelling Low-Resource Languages from Large Language Models",
+  "authors": [
+    "Santosh Srinath K",
+    "Mudit Somani",
+    "Varun Reddy Padala",
+    "Prajna Devi Upadhyay",
+    "Abhijit Das"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Russian",
+    "Arabic",
+    "Chinese",
+    "Hindi",
+    "Bengali",
+    "Thai",
+    "Korean",
+    "Portuguese",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2026.eacl-long.293",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.293/"
+}

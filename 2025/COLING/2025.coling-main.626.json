@@ -1,0 +1,23 @@
+{
+  "title": "CFSP: An Efficient Structured Pruning Framework for LLMs with Coarse-to-Fine Activation Information",
+  "authors": [
+    "Yuxin Wang",
+    "Minghua Ma",
+    "Zekun Wang",
+    "Jingchang Chen",
+    "Liping Shan",
+    "Qing Yang",
+    "Dongliang Xu",
+    "Ming Liu",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.626",
+  "acl_url": "https://aclanthology.org/2025.coling-main.626/"
+}

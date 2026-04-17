@@ -1,0 +1,24 @@
+{
+  "title": "A Novel Multi-Task Learning Approach for Context-Sensitive Compound Type Identification in Sanskrit",
+  "authors": [
+    "Jivnesh Sandhan",
+    "Ashish Gupta",
+    "Hrishikesh Terdalkar",
+    "Tushar Sandhan",
+    "Suvendu Samanta",
+    "Laxmidhar Behera",
+    "Pawan Goyal"
+  ],
+  "languages": [
+    "Sanskrit",
+    "English",
+    "Marathi"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.coling-1.358",
+  "acl_url": "https://aclanthology.org/2022.coling-1.358/"
+}

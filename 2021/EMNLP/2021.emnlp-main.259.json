@@ -1,0 +1,27 @@
+{
+  "title": "Learning from Multiple Noisy Augmented Data Sets for Better Cross-Lingual Spoken Language Understanding",
+  "authors": [
+    "Yingmei Guo",
+    "Linjun Shou",
+    "Jian Pei",
+    "Ming Gong",
+    "Mingxing Xu",
+    "Zhiyong Wu",
+    "Daxin Jiang"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Hindi",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2021.emnlp-main.259",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.259/"
+}

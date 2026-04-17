@@ -1,0 +1,21 @@
+{
+  "title": "SpeechAlign: a Framework for Speech Translation Alignment Evaluation",
+  "authors": [
+    "Belen Alastruey",
+    "Aleix Sant",
+    "Gerard I. Gállego",
+    "David Dale",
+    "Marta R. Costa-jussà"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.1316",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1316/"
+}

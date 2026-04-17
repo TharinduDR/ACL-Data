@@ -1,0 +1,42 @@
+{
+  "title": "Framed Multi30K: A Frame-Based Multimodal-Multilingual Dataset",
+  "authors": [
+    "Marcelo Viridiano",
+    "Arthur Lorenzi Almeida",
+    "Tiago Timponi Torrent",
+    "Ely Edison da Silva Matos",
+    "Adriana Silvina Pagano",
+    "Natália Sathler Sigiliano",
+    "Maucha Gamonal",
+    "Helen de Andrade Abreu",
+    "Lívia Vicente Dutra",
+    "Mairon Samagaio",
+    "Mariane Carvalho",
+    "Franciany Campos",
+    "Gabrielly Azalim",
+    "Bruna Mazzei",
+    "Mateus Oliveira",
+    "Ana Carolina Luz",
+    "Livia Padua Ruiz",
+    "Júlia Bellei",
+    "Amanda Pestana",
+    "Josiane Costa",
+    "Iasmin Rabelo",
+    "Anna Beatriz Silva",
+    "Raquel Roza",
+    "Mariana Mota",
+    "Igor Oliveira",
+    "Márcio Freitas"
+  ],
+  "languages": [
+    "English",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.656",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.656/"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "LArabench: Benchmarking Arabic AI with Large Language Models",
+  "authors": [
+    "Ahmed Abdelali",
+    "Hamdy Mubarak",
+    "Shammur Absar Chowdhury",
+    "Maram Hasanain",
+    "Basel Mousi",
+    "Sabri Boughorbel",
+    "Samir Abdaljalil",
+    "Yassine El Kheir",
+    "Daniel Izham",
+    "Fahim Dalvi",
+    "Majd Hawasly",
+    "Nizi Nazar",
+    "Yousseif Elshahawy",
+    "Ahmed Ali",
+    "Nadir Durrani",
+    "Natasa Milic-Frayling",
+    "Firoj Alam"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T24 Speech Resources and Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.eacl-long.30",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.30/"
+}

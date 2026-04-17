@@ -1,0 +1,20 @@
+{
+  "title": "Exploring Language Model Generalization in Low-Resource Extractive QA",
+  "authors": [
+    "Saptarshi Sengupta",
+    "Wenpeng Yin",
+    "Preslav Nakov",
+    "Shreya Ghosh",
+    "Suhang Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.coling-main.474",
+  "acl_url": "https://aclanthology.org/2025.coling-main.474/"
+}

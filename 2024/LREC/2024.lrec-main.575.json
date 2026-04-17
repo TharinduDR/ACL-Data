@@ -1,0 +1,28 @@
+{
+  "title": "Evaluating the IWSLT2023 Speech Translation Tasks: Human Annotations, Automatic Metrics, and Segmentation",
+  "authors": [
+    "Matthias Sperber",
+    "Ondřej Bojar",
+    "Barry Haddow",
+    "Dávid Javorsky",
+    "Xutai Ma",
+    "Matteo Negri",
+    "Jan Niehues",
+    "Peter Polák",
+    "Elizabeth Salesky",
+    "Katsuhito Sudoh",
+    "Marco Turchi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.575",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.575/"
+}

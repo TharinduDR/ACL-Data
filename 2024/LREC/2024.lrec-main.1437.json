@@ -1,0 +1,22 @@
+{
+  "title": "Towards Graph-hop Retrieval and Reasoning in Complex Question Answering over Textual Database",
+  "authors": [
+    "Minjun Zhu",
+    "Yixuan Weng",
+    "Shizhu He",
+    "Kang Liu",
+    "Haifeng Liu",
+    "Yang Jun",
+    "Jun Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.lrec-main.1437",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1437/"
+}

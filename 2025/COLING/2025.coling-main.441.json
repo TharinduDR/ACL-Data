@@ -1,0 +1,37 @@
+{
+  "title": "Why do language models perform worse for morphologically complex languages?",
+  "authors": [
+    "Catherine Arnett",
+    "Benjamin K. Bergen"
+  ],
+  "languages": [
+    "Armenian",
+    "Basque",
+    "Bulgarian",
+    "Cebuano",
+    "English",
+    "Georgian",
+    "Gujarati",
+    "Hungarian",
+    "Icelandic",
+    "Indonesian",
+    "Irish",
+    "Japanese",
+    "Korean",
+    "Northern Kurdish",
+    "Persian",
+    "Slovenian",
+    "Spanish",
+    "Tamil",
+    "Turkish",
+    "Urdu",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.441",
+  "acl_url": "https://aclanthology.org/2025.coling-main.441/"
+}

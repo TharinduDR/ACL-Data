@@ -1,0 +1,21 @@
+{
+  "title": "RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented Generation",
+  "authors": [
+    "Shuting Wang",
+    "Xin Yu",
+    "Mang Wang",
+    "Weipeng Chen",
+    "Yutao Zhu",
+    "Zhicheng Dou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.coling-main.750",
+  "acl_url": "https://aclanthology.org/2025.coling-main.750/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "CLIPScore: A Reference-free Evaluation Metric for Image Captioning",
+  "authors": [
+    "Jack Hessel",
+    "Ari Holtzman",
+    "Maxwell Forbes",
+    "Ronan Le Bras",
+    "Yejin Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.595",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.595/"
+}

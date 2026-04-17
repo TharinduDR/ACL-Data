@@ -1,0 +1,19 @@
+{
+  "title": "MS^2: A Dataset for Multi-Document Summarization of Medical Studies",
+  "authors": [
+    "Jay DeYoung",
+    "Iz Beltagy",
+    "Madeleine van Zuylen",
+    "Bailey Kuehl",
+    "Lucy Lu Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2021.emnlp-main.594",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.594/"
+}

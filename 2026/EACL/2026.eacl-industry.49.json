@@ -1,0 +1,31 @@
+{
+  "title": "Aligning Paralinguistic Understanding and Generation in Speech LLMs via Multi-Task Reinforcement Learning",
+  "authors": [
+    "Minseok Kim",
+    "Jingxiang Chen",
+    "Seong-Gyun Leem",
+    "Yin Huang",
+    "Rashi Rungta",
+    "Zhicheng Ouyang",
+    "Haibin Wu",
+    "Surya Teja Appini",
+    "Ankur Bansal",
+    "Yang Bai",
+    "Yue Liu",
+    "Florian Metze",
+    "Ahmed A Aly",
+    "Anuj Kumar",
+    "Ariya Rastrow",
+    "Zhaojiang Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2026.eacl-industry.49",
+  "acl_url": "https://aclanthology.org/2026.eacl-industry.49/"
+}

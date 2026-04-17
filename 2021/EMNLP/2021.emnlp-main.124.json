@@ -1,0 +1,22 @@
+{
+  "title": "“Wikily” Supervised Neural Translation Tailored to Cross-Lingual Tasks",
+  "authors": [
+    "Mohammad Sadegh Rasooli",
+    "Chris Callison-Burch",
+    "Derry Tanti Wijaya"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Gujarati",
+    "Kazakh",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.emnlp-main.124",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.124/"
+}

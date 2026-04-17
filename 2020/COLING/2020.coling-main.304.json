@@ -1,0 +1,20 @@
+{
+  "title": "Optimizing Transformer for Low-Resource Neural Machine Translation",
+  "authors": [
+    "Ali Araabi",
+    "Christof Monz"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Belarusian",
+    "Galician",
+    "Slovak",
+    "Slovenian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.coling-main.304",
+  "acl_url": "https://aclanthology.org/2020.coling-main.304/"
+}

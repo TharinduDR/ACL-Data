@@ -1,0 +1,19 @@
+{
+  "title": "Unsupervised Keyphrase Extraction by Jointly Modeling Local and Global Context",
+  "authors": [
+    "Xinnian Liang",
+    "Shuangzhi Wu",
+    "Mu Li",
+    "Zhoujun Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.emnlp-main.14",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.14/"
+}

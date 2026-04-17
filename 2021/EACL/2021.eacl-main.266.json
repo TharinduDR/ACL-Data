@@ -1,0 +1,44 @@
+{
+  "title": "CDA: a Cost Efficient Content-based Multilingual Web Document Aligner",
+  "authors": [
+    "Thuy Vu",
+    "Alessandro Moschitti"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Arabic",
+    "Bulgarian",
+    "Chinese",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Farsi",
+    "Finnish",
+    "German",
+    "Hebrew",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Malay",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Slovak",
+    "Spanish",
+    "Swedish",
+    "Thai",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2021.eacl-main.266",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.266/"
+}

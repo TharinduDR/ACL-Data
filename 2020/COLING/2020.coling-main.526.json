@@ -1,0 +1,26 @@
+{
+  "title": "A Simple and Effective Approach to Robust Unsupervised Bilingual Dictionary Induction",
+  "authors": [
+    "Yanyang Li",
+    "Yingfeng Luo",
+    "Ye Lin",
+    "Quan Du",
+    "Huizhen Wang",
+    "Shujian Huang",
+    "Tong Xiao",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "Vietnamese",
+    "Thai"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.coling-main.526",
+  "acl_url": "https://aclanthology.org/2020.coling-main.526/"
+}

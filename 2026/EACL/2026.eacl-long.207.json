@@ -1,0 +1,27 @@
+{
+  "title": "BeDiscovER: The Benchmark of Discourse Understanding in the Era of Reasoning Language Models",
+  "authors": [
+    "Chuyuan Li",
+    "Giuseppe Carenini"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics",
+    "T05 Discourse and Pragmatics"
+  ],
+  "paper_id": "2026.eacl-long.207",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.207/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "S³Prompt: Instructing the Model with Self-calibration, Self-recall and Self-aggregation to Improve In-context Learning",
+  "authors": [
+    "Jianting Liu",
+    "Junda Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.lrec-main.1242",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1242/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "INMT-Lite: Accelerating Low-Resource Language Data Collection via Offline Interactive Neural Machine Translation",
+  "authors": [
+    "Harshita Diddee",
+    "Anurag Shukla",
+    "Tanuja Ganu",
+    "Vivek Seshadri",
+    "Sandipan Dandapat",
+    "Monojit Choudhury",
+    "Kalika Bali"
+  ],
+  "languages": [
+    "English",
+    "Gondi",
+    "Punjabi",
+    "Gujarati",
+    "Marathi",
+    "Bengali",
+    "Hindi",
+    "Assamese",
+    "Odia"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.797",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.797/"
+}

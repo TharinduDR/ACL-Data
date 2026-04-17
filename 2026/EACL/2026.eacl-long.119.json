@@ -1,0 +1,24 @@
+{
+  "title": "AdaptBPE: From General Purpose to Specialized Tokenizers",
+  "authors": [
+    "Vijini Liyanage",
+    "François Yvon"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Occitan",
+    "Manipuri",
+    "Swahili",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2026.eacl-long.119",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.119/"
+}

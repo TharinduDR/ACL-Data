@@ -1,0 +1,28 @@
+{
+  "title": "Unintended Memorization of Sensitive Information in Fine-Tuned Language Models",
+  "authors": [
+    "Marton Szep",
+    "Jorge Marin Ruiz",
+    "Georgios Kaissis",
+    "Paulina Seidl",
+    "Rüdiger von Eisenhart-Rothe",
+    "Florian Hinterwimmer",
+    "Daniel Rueckert"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Dutch",
+    "French",
+    "German",
+    "Italian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2026.eacl-long.304",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.304/"
+}

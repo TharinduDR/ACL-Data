@@ -1,0 +1,19 @@
+{
+  "title": "Semantic Sentence Matching via Interacting Syntax Graphs",
+  "authors": [
+    "Chen Xu",
+    "Jun Xu",
+    "Zhenghua Dong",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.coling-1.78",
+  "acl_url": "https://aclanthology.org/2022.coling-1.78/"
+}

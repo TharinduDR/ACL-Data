@@ -1,0 +1,22 @@
+{
+  "title": "Like a Good Nearest Neighbor: Practical Content Moderation and Text Classification",
+  "authors": [
+    "Luke Bates",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Japanese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.eacl-long.17",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.17/"
+}

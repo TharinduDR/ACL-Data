@@ -1,0 +1,24 @@
+{
+  "title": "FLEEK: Factual Error Detection and Correction with Evidence Retrieved from External Knowledge",
+  "authors": [
+    "Farima Fatahi Bayat",
+    "Kun Qian",
+    "Benjamin Han",
+    "Yisi Sang",
+    "Anton Belyi",
+    "Samira Khorshidi",
+    "Fei Wu",
+    "Ihab F. Ilyas",
+    "Yunyao Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.emnlp-demo.10",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.10/"
+}

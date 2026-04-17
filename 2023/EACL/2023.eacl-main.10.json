@@ -1,0 +1,21 @@
+{
+  "title": "Investigating data partitioning strategies for crosslinguistic low-resource ASR evaluation",
+  "authors": [
+    "Zoey Liu",
+    "Justin Spence",
+    "Emily Prud'hommeaux"
+  ],
+  "languages": [
+    "Fongbe",
+    "Wolof",
+    "Swahili",
+    "Iban",
+    "Hupa"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eacl-main.10",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.10/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Multilingual Machine Translation: Closing the Gap between Shared and Language-specific Encoder-Decoders",
+  "authors": [
+    "Carlos Escolano",
+    "Marta R. Costa-jussà",
+    "José A. R. Fonollosa",
+    "Mikel Artetxe"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "Spanish",
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.eacl-main.80",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.80/"
+}

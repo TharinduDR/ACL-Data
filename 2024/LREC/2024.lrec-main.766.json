@@ -1,0 +1,25 @@
+{
+  "title": "Improving Content Recommendation: Knowledge Graph-Based Semantic Contrastive Learning for Diversity and Cold-Start Users",
+  "authors": [
+    "Yejin Kim",
+    "Scott Rome",
+    "Kevin Foley",
+    "Mayur Nankani",
+    "Rimon Melamed",
+    "Javier Morales",
+    "Abhay Yadav",
+    "Maria Peifer",
+    "Sardar Hamidian",
+    "H. Howie Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.lrec-main.766",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.766/"
+}

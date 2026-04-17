@@ -1,0 +1,22 @@
+{
+  "title": "TESS: Text-to-Text Self-Conditioned Simplex Diffusion",
+  "authors": [
+    "Rabeeh Karimi Mahabadi",
+    "Hamish Ivison",
+    "Jaesung Tae",
+    "James Henderson",
+    "Iz Beltagy",
+    "Matthew E. Peters",
+    "Arman Cohan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T19 Text Simplification"
+  ],
+  "paper_id": "2024.eacl-long.144",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.144/"
+}

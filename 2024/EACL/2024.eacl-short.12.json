@@ -1,0 +1,47 @@
+{
+  "title": "Investigating the Potential of Task Arithmetic for Cross-Lingual Transfer",
+  "authors": [
+    "Marinela Parović",
+    "Ivan Vulić",
+    "Anna Korhonen"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "German",
+    "Greek",
+    "Spanish",
+    "French",
+    "Russian",
+    "Swahili",
+    "Turkish",
+    "Urdu",
+    "Vietnamese",
+    "Chinese",
+    "Aymara",
+    "Bribri",
+    "Asháninka",
+    "Guarani",
+    "Náhuatl",
+    "Quechua",
+    "Rarámuri",
+    "Shipibo-Konibo",
+    "Wixarika",
+    "Acehnese",
+    "Balinese",
+    "Buginese",
+    "Javanese",
+    "Madurese",
+    "Minangkabau",
+    "Ngaju",
+    "Sundanese",
+    "Toba Batak"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.eacl-short.12",
+  "acl_url": "https://aclanthology.org/2024.eacl-short.12/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "CALE: Concept-Aligned Embeddings for Both Within-Lemma and Inter-Lemma Sense Differentiation",
+  "authors": [
+    "Bastien Liétard",
+    "Gabriel Loiseau"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Italian",
+    "Latin",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.47",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.47/"
+}

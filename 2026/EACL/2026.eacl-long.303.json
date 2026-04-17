@@ -1,0 +1,21 @@
+{
+  "title": "SciRAG: Adaptive, Citation-Aware, and Outline-Guided Retrieval and Synthesis for Scientific Literature",
+  "authors": [
+    "Hang Ding",
+    "Yilun Zhao",
+    "Tiansheng Hu",
+    "Zihang Wang",
+    "Manasi Patwardhan",
+    "Arman Cohan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.303",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.303/"
+}

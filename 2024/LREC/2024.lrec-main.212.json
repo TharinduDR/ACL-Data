@@ -1,0 +1,39 @@
+{
+  "title": "BigNLI: Native Language Identification with Big Bird Embeddings",
+  "authors": [
+    "Sergey Kramp",
+    "Giovanni Cassani",
+    "Chris Emmery"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Swedish",
+    "Spanish",
+    "Slovenian",
+    "Serbian",
+    "Russian",
+    "Romanian",
+    "Portuguese",
+    "Polish",
+    "Norwegian",
+    "Lithuanian",
+    "Italian",
+    "Hungarian",
+    "Greek",
+    "German",
+    "French",
+    "Finnish",
+    "Estonian",
+    "Dutch",
+    "Czech",
+    "Croatian",
+    "Bulgarian"
+  ],
+  "research_areas": [
+    "T28",
+    "T14"
+  ],
+  "paper_id": "2024.lrec-main.212",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.212/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "STANKER: Stacking Network based on Level-grained Attention-masked BERT for Rumor Detection on Social Media",
+  "authors": [
+    "Dongning Rao",
+    "Xin Miao",
+    "Zhihua Jiang",
+    "Ran Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.emnlp-main.269",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.269/"
+}

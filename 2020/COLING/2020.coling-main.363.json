@@ -1,0 +1,22 @@
+{
+  "title": "Translation vs. Dialogue: A Comparative Analysis of Sequence-to-Sequence Modeling",
+  "authors": [
+    "Wenpeng Hu",
+    "Ran Le",
+    "Bing Liu",
+    "Jinwen Ma",
+    "Dongyan Zhao",
+    "Rui Yan"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2020.coling-main.363",
+  "acl_url": "https://aclanthology.org/2020.coling-main.363/"
+}

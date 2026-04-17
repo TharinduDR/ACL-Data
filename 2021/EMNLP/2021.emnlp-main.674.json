@@ -1,0 +1,38 @@
+{
+  "title": "Efficient Inference for Multilingual Neural Machine Translation",
+  "authors": [
+    "Alexandre Bérard",
+    "Dain Lee",
+    "Stéphane Clinchant",
+    "Kweonwoo Jung",
+    "Vassilina Nikoulina"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Hebrew",
+    "Russian",
+    "Korean",
+    "Italian",
+    "Japanese",
+    "Chinese",
+    "Spanish",
+    "French",
+    "Portuguese",
+    "Dutch",
+    "Turkish",
+    "Romanian",
+    "Polish",
+    "Bulgarian",
+    "Vietnamese",
+    "German",
+    "Persian",
+    "Hungarian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.674",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.674/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "RAGthoven: A Configurable Toolkit for RAG-enabled LLM Experimentation",
+  "authors": [
+    "Gregor Kareta",
+    "Demetris Skottis",
+    "Lucia Dutkova",
+    "Peter Hraška",
+    "Marek Šuppa"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Chinese",
+    "Arabic",
+    "Hindi",
+    "Ukrainian",
+    "Amharic"
+  ],
+  "research_areas": [
+    "T28",
+    "T27",
+    "T20"
+  ],
+  "paper_id": "2025.coling-demos.12",
+  "acl_url": "https://aclanthology.org/2025.coling-demos.12/"
+}

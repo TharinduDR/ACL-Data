@@ -1,0 +1,21 @@
+{
+  "title": "BILLY: Steering Large Language Models via Merging Persona Vectors for Creative Generation",
+  "authors": [
+    "Tsung-Min Pai",
+    "Jui-I Wang",
+    "Li-Chun Lu",
+    "Shao-Hua Sun",
+    "Hung-Yi Lee",
+    "Kai-Wei Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.369",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.369/"
+}

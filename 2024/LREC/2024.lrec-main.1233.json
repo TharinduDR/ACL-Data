@@ -1,0 +1,19 @@
+{
+  "title": "RoBERTa Low Resource Fine Tuning for Sentiment Analysis in Albanian",
+  "authors": [
+    "Krenare Pireva Nuci",
+    "Paul Landes",
+    "Barbara Di Eugenio"
+  ],
+  "languages": [
+    "English",
+    "Albanian"
+  ],
+  "research_areas": [
+    "T29 NLP for education",
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.lrec-main.1233",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1233/"
+}

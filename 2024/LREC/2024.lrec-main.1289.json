@@ -1,0 +1,21 @@
+{
+  "title": "SignBLEU: Automatic Evaluation of Multi-channel Sign Language Translation",
+  "authors": [
+    "Jung-Ho Kim",
+    "Mathew Huerta-Enochian",
+    "Changyong Ko",
+    "Du Hui Lee"
+  ],
+  "languages": [
+    "German",
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.1289",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1289/"
+}

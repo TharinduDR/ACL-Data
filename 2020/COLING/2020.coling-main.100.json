@@ -1,0 +1,18 @@
+{
+  "title": "Fine-tuning BERT for Low-Resource Natural Language Understanding via Active Learning",
+  "authors": [
+    "Daniel Grießhaber",
+    "Johannes Maucher",
+    "Ngoc Thang Vu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.coling-main.100",
+  "acl_url": "https://aclanthology.org/2020.coling-main.100/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Mitigating Language Confusion through Inference-time Intervention",
+  "authors": [
+    "Yunfan Xie",
+    "Lixin Zou",
+    "Dan Luo",
+    "Min Tang",
+    "Chenliang Li",
+    "Liming Dong",
+    "Xiangyang Luo"
+  ],
+  "languages": [
+    "Chinese",
+    "French",
+    "Italian",
+    "Japanese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.coling-main.563",
+  "acl_url": "https://aclanthology.org/2025.coling-main.563/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Text-Blueprint: An Interactive Platform for Plan-based Conditional Generation",
+  "authors": [
+    "Fantine Huot",
+    "Joshua Maynez",
+    "Shashi Narayan",
+    "Reinald Kim Amplayo",
+    "Kuzman Ganchev",
+    "Annie Louis",
+    "Anders Sandholm",
+    "Dipanjan Das",
+    "Mirella Lapata"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.eacl-demo.13",
+  "acl_url": "https://aclanthology.org/2023.eacl-demo.13/"
+}

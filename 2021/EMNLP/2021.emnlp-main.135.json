@@ -1,0 +1,22 @@
+{
+  "title": "Competency Problems: On Finding and Removing Artifacts in Language Data",
+  "authors": [
+    "Matt Gardner",
+    "William Merrill",
+    "Jesse Dodge",
+    "Matthew E. Peters",
+    "Alexis Ross",
+    "Sameer Singh",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.135",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.135/"
+}

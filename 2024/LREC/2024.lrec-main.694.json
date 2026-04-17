@@ -1,0 +1,18 @@
+{
+  "title": "GPT-HATECHECK: Can LLMs Write Better Functional Tests for Hate Speech Detection?",
+  "authors": [
+    "Yiping Jin",
+    "Leo Wanner",
+    "Alexander Shvets"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.694",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.694/"
+}

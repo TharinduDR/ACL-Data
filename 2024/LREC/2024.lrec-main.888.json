@@ -1,0 +1,18 @@
+{
+  "title": "Latent vs Explicit Knowledge Representation: How ChatGPT Answers Questions about Low-Frequency Entities",
+  "authors": [
+    "Arianna Graciotti",
+    "Valentina Presutti",
+    "Rocco Tripodi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.888",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.888/"
+}

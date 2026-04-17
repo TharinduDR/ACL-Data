@@ -1,0 +1,30 @@
+{
+  "title": "Agent Assist through Conversation Analysis",
+  "authors": [
+    "Kshitij P. Fadnis",
+    "Nathaniel Mills",
+    "Jatin Ganhotra",
+    "Haggai Roitman",
+    "Gaurav Pandey",
+    "Doron Cohen",
+    "Yosi Mass",
+    "Shai Erera",
+    "Chulaka Gunasekara",
+    "Danish Contractor",
+    "Siva Sankalp Patel",
+    "Q. Vera Liao",
+    "Sachindra Joshi",
+    "Luis A. Lastras",
+    "David Konopnicki"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2020.emnlp-demos.20",
+  "acl_url": "https://aclanthology.org/2020.emnlp-demos.20/"
+}

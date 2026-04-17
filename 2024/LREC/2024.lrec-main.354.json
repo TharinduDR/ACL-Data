@@ -1,0 +1,22 @@
+{
+  "title": "CookingSense: A Culinary Knowledgebase with Multidisciplinary Assertions",
+  "authors": [
+    "Donghee Choi",
+    "Mogan Gim",
+    "Donghyeon Park",
+    "Mujeen Sung",
+    "Hyunjae Kim",
+    "Jaewoo Kang",
+    "Jihun Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.lrec-main.354",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.354/"
+}

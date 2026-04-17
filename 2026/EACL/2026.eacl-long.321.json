@@ -1,0 +1,20 @@
+{
+  "title": "RefusalBench: Generative Evaluation of Selective Refusal in Grounded Language Models",
+  "authors": [
+    "Aashiq Muhammed",
+    "Leonardo F. R. Ribeiro",
+    "Markus Dreyer",
+    "Virginia Smith",
+    "Mona T. Diab"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2026.eacl-long.321",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.321/"
+}

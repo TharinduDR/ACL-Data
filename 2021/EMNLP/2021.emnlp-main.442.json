@@ -1,0 +1,19 @@
+{
+  "title": "PDALN: Progressive Domain Adaptation over a Pre-trained Model for Low-Resource Cross-Domain Named Entity Recognition",
+  "authors": [
+    "Tao Zhang",
+    "Congying Xia",
+    "Philip S. Yu",
+    "Zhiwei Liu",
+    "Shu Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.emnlp-main.442",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.442/"
+}

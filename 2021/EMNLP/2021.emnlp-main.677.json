@@ -1,0 +1,18 @@
+{
+  "title": "Multi-Sentence Resampling: A Simple Approach to Alleviate Dataset Length Bias and Beam-Search Degradation",
+  "authors": [
+    "Ivan Provilkov",
+    "Andrey Malinin"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Vietnamese",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.emnlp-main.677",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.677/"
+}

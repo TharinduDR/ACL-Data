@@ -1,0 +1,21 @@
+{
+  "title": "Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning",
+  "authors": [
+    "Ernie Chang",
+    "Jesujoba O. Alabi",
+    "David Ifeoluwa Adelani",
+    "Vera Demberg"
+  ],
+  "languages": [
+    "English",
+    "Naija",
+    "Yaounde"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2022.coling-1.377",
+  "acl_url": "https://aclanthology.org/2022.coling-1.377/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "DEBIE: A Platform for Implicit and Explicit Debiassing of Word Embedding Spaces",
+  "authors": [
+    "Niklas Friedrich",
+    "Anne Lauscher",
+    "Simone Paolo Ponzetto",
+    "Goran Glavaš"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.eacl-demos.11",
+  "acl_url": "https://aclanthology.org/2021.eacl-demos.11/"
+}

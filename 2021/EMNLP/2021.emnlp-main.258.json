@@ -1,0 +1,25 @@
+{
+  "title": "Recurrent Attention for Neural Machine Translation",
+  "authors": [
+    "Jiali Zeng",
+    "Shuangzhi Wu",
+    "Yongjing Yin",
+    "Yufan Jiang",
+    "Mu Li"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Latvian",
+    "Finnish",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.emnlp-main.258",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.258/"
+}

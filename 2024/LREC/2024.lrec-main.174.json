@@ -1,0 +1,24 @@
+{
+  "title": "Automatic Partitioning of a Code-Switched Speech Corpus Using Mixed-Integer Programming",
+  "authors": [
+    "Joshua Jansen van Vüren",
+    "Febe de Wet",
+    "Thomas Niesler"
+  ],
+  "languages": [
+    "English",
+    "Zulu",
+    "Xhosa",
+    "Sesotho",
+    "Setswana",
+    "Sepedi",
+    "Tsotsitaal",
+    "Afrikaans"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2024.lrec-main.174",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.174/"
+}

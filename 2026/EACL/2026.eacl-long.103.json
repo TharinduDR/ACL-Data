@@ -1,0 +1,19 @@
+{
+  "title": "K-LegalDeID: A Benchmark Dataset and KLUEBERT-CRF for De-identification in Korean Court Judgments",
+  "authors": [
+    "Wooseok Choi",
+    "Hyungbin Kim",
+    "Yon Dohn Chung"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T25 Legal NLP",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.eacl-long.103",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.103/"
+}

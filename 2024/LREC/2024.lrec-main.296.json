@@ -1,0 +1,21 @@
+{
+  "title": "CLicK: A Benchmark Dataset of Cultural and Linguistic Intelligence in Korean",
+  "authors": [
+    "Eunsu Kim",
+    "Juyoung Suk",
+    "Philhoon Oh",
+    "Haneul Yoo",
+    "James Thorne",
+    "Alice Oh"
+  ],
+  "languages": [
+    "Korean"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.lrec-main.296",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.296/"
+}

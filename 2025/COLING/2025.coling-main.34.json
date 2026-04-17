@@ -1,0 +1,24 @@
+{
+  "title": "QuickLLaMA: Query-aware Inference Acceleration for Large Language Models",
+  "authors": [
+    "Jingyao Li",
+    "Han Shi",
+    "Sitong Wu",
+    "Chuanyang Zheng",
+    "Pengguang Chen",
+    "Zhenguo Li",
+    "Xin Jiang",
+    "Hong Xu",
+    "Jiaya Jia"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.coling-main.34",
+  "acl_url": "https://aclanthology.org/2025.coling-main.34/"
+}

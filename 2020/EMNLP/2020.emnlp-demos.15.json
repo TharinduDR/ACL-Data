@@ -1,0 +1,26 @@
+{
+  "title": "The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models",
+  "authors": [
+    "Ian Tenney",
+    "James Wexler",
+    "Jasmijn Bastings",
+    "Tolga Bolukbasi",
+    "Andy Coenen",
+    "Sebastian Gehrmann",
+    "Ellen Jiang",
+    "Mahima Pushkarna",
+    "Carey Radebaugh",
+    "Emily Reif",
+    "Ann Yuan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.emnlp-demos.15",
+  "acl_url": "https://aclanthology.org/2020.emnlp-demos.15/"
+}

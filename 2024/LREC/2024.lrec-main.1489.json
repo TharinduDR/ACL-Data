@@ -1,0 +1,21 @@
+{
+  "title": "Unmasking Biases: Exploring Gender Bias in English-Catalan Machine Translation through Tokenization Analysis and Novel Dataset",
+  "authors": [
+    "Audrey Mash",
+    "Carlos Escolano",
+    "Aleix Sant",
+    "Francesca De Luca Fornaciari",
+    "Maite Melero"
+  ],
+  "languages": [
+    "English",
+    "Catalan"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.1489",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1489/"
+}

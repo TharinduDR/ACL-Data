@@ -1,0 +1,26 @@
+{
+  "title": "Bootstrapping Multilingual AMR with Contextual Word Alignments",
+  "authors": [
+    "Janaki Sheth",
+    "Young-Suk Lee",
+    "Ramón Fernandez Astudillo",
+    "Tahira Naseem",
+    "Radu Florian",
+    "Salim Roukos",
+    "Todd Ward"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Italian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.eacl-main.30",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.30/"
+}

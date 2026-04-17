@@ -1,0 +1,23 @@
+{
+  "title": "RankPrompt: Step-by-Step Comparisons Make Language Models Better Reasoners",
+  "authors": [
+    "Chi Hu",
+    "Yuan Ge",
+    "Xiangnan Ma",
+    "Hang Cao",
+    "Qiang Li",
+    "Yonghua Yang",
+    "Tong Xiao",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.lrec-main.1183",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1183/"
+}

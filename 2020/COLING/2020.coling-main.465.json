@@ -1,0 +1,20 @@
+{
+  "title": "An empirical analysis of existing systems and datasets toward general simple question answering",
+  "authors": [
+    "Namgi Han",
+    "Goran Topic",
+    "Hiroshi Noji",
+    "Hiroya Takamura",
+    "Yusuke Miyao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.coling-main.465",
+  "acl_url": "https://aclanthology.org/2020.coling-main.465/"
+}

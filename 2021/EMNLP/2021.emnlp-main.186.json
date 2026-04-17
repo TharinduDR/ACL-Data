@@ -1,0 +1,24 @@
+{
+  "title": "Improving Graph-based Sentence Ordering with Iteratively Predicted Pairwise Orderings",
+  "authors": [
+    "Shaopeng Lai",
+    "Ante Wang",
+    "Fandong Meng",
+    "Jie Zhou",
+    "Yubin Ge",
+    "Jiali Zeng",
+    "Junfeng Yao",
+    "Degen Huang",
+    "Jinsong Su"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.186",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.186/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Few-Shot Dialogue Summarization via Skeleton-Assisted Prompt Transfer in Prompt Tuning",
+  "authors": [
+    "Kaige Xie",
+    "Tong Yu",
+    "Haoliang Wang",
+    "Junda Wu",
+    "Handong Zhao",
+    "Ruiyi Zhang",
+    "Kanak Mahadik",
+    "Ani Nenkova",
+    "Mark Riedl"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.eacl-long.148",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.148/"
+}

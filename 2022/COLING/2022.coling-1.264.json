@@ -1,0 +1,21 @@
+{
+  "title": "Summarizing Patients' Problems from Hospital Progress Notes Using Pre-trained Sequence-to-Sequence Models",
+  "authors": [
+    "Yanjun Gao",
+    "Dmitriy Dligach",
+    "Timothy Miller",
+    "Dongfang Xu",
+    "Matthew M. Churpek",
+    "Majid Afshar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2022.coling-1.264",
+  "acl_url": "https://aclanthology.org/2022.coling-1.264/"
+}

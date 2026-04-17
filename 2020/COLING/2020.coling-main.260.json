@@ -1,0 +1,19 @@
+{
+  "title": "A Tale of Two Linkings: Dynamically Gating between Schema Linking and Structural Linking for Text-to-SQL Parsing",
+  "authors": [
+    "Sanxing Chen",
+    "Aidan San",
+    "Xiaodong Liu",
+    "Yangfeng Ji"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.coling-main.260",
+  "acl_url": "https://aclanthology.org/2020.coling-main.260/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "SciSight: Combining faceted navigation and research group detection for COVID-19 exploratory scientific search",
+  "authors": [
+    "Tom Hope",
+    "Jason Portenoy",
+    "Kishore Vasan",
+    "Jonathan Borchardt",
+    "Eric Horvitz",
+    "Daniel S. Weld",
+    "Marti A. Hearst",
+    "Jevin West"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.emnlp-demos.18",
+  "acl_url": "https://aclanthology.org/2020.emnlp-demos.18/"
+}

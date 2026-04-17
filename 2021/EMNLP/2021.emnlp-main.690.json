@@ -1,0 +1,24 @@
+{
+  "title": "Self-Supervised Detection of Contextual Synonyms in a Multi-Class Setting: Phenotype Annotation Use Case",
+  "authors": [
+    "Jingqing Zhang",
+    "Luis Bolanos",
+    "Tong Li",
+    "Ashwani Tanwar",
+    "Guilherme Freire",
+    "Xian Yang",
+    "Julia Ive",
+    "Vibhor Gupta",
+    "Yike Guo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2021.emnlp-main.690",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.690/"
+}

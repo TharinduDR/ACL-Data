@@ -1,0 +1,19 @@
+{
+  "title": "Text Filtering Classifiers for Medium-Resource Languages",
+  "authors": [
+    "Jón Friðrik Daðason",
+    "Hrafn Loftsson"
+  ],
+  "languages": [
+    "Icelandic",
+    "Estonian",
+    "Basque"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.lrec-main.1372",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1372/"
+}

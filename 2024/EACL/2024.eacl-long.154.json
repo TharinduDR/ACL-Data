@@ -1,0 +1,24 @@
+{
+  "title": "Graph Guided Question Answer Generation for Procedural Question-Answering",
+  "authors": [
+    "Hai X. Pham",
+    "Isma Hadji",
+    "Xinnuo Xu",
+    "Ziedune Degutyte",
+    "Jay Rainey",
+    "Evangelos Kazakos",
+    "Afsaneh Fazly",
+    "Georgios Tzimiropoulos",
+    "Brais Martinez"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.eacl-long.154",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.154/"
+}

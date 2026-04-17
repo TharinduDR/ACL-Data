@@ -1,0 +1,41 @@
+{
+  "title": "MEVTR: A Multilingual Model Enhanced With Visual Text Representations",
+  "authors": [
+    "Xiaohua Wang",
+    "Wenlong Fei",
+    "Min Hu",
+    "Qingyu Zhang",
+    "Aoqiang Zhu"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bambara",
+    "Cantonese",
+    "Erzya",
+    "Faroese",
+    "Komi Ziryan",
+    "Livvi",
+    "Upper Sorbian",
+    "Uyghur",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Luganda",
+    "Luo",
+    "Nigerian-Pidgin",
+    "Swahili",
+    "Wolof",
+    "Yoruba",
+    "Catalan",
+    "Basque",
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.lrec-main.983",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.983/"
+}

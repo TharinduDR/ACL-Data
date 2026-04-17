@@ -1,0 +1,22 @@
+{
+  "title": "Generating Commonsense Reasoning Questions with Controllable Complexity through Multi-step Structural Composition",
+  "authors": [
+    "Jianxing Yu",
+    "Shiqi Wang",
+    "Hanjiang Lai",
+    "Wenqing Chen",
+    "Yanghui Rao",
+    "Qinliang Su",
+    "Jian Yin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.coling-main.155",
+  "acl_url": "https://aclanthology.org/2025.coling-main.155/"
+}

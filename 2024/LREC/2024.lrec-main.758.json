@@ -1,0 +1,23 @@
+{
+  "title": "ILLUMINER: Instruction-tuned Large Language Models as Few-shot Intent Classifier and Slot Filler",
+  "authors": [
+    "Paramita Mirza",
+    "Viju Sudhi",
+    "Soumya Ranjan Sahoo",
+    "Sinchana Ramakanth Bhat"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2024.lrec-main.758",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.758/"
+}

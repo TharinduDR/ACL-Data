@@ -1,0 +1,23 @@
+{
+  "title": "Improving Training Efficiency and Reducing Maintenance Costs via Language Specific Model Merging",
+  "authors": [
+    "Alphaeus Dmonte",
+    "Vidhi Gupta",
+    "Daniel J Perry",
+    "Mark Arehart"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2026.eacl-industry.43",
+  "acl_url": "https://aclanthology.org/2026.eacl-industry.43/"
+}

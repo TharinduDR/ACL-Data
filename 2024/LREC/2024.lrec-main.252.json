@@ -1,0 +1,21 @@
+{
+  "title": "Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought",
+  "authors": [
+    "Jooyoung Lee",
+    "Fan Yang",
+    "Thanh Tran",
+    "Qian Hu",
+    "Emre Barut",
+    "Kai-Wei Chang",
+    "Chengwei Su"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.lrec-main.252",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.252/"
+}

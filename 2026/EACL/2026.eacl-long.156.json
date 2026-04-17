@@ -1,0 +1,24 @@
+{
+  "title": "Polyglots or Multitudes? Multilingual LLM Answers to Value-laden Multiple-Choice Questions",
+  "authors": [
+    "Léo Labat",
+    "Etienne Ollion",
+    "François Yvon"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Norwegian",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2026.eacl-long.156",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.156/"
+}

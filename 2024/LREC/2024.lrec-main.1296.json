@@ -1,0 +1,24 @@
+{
+  "title": "SLaCAD: A Spoken Language Corpus for Early Alzheimer's Disease Detection",
+  "authors": [
+    "Shahla Farzana",
+    "Edoardo Stoppa",
+    "Alex Leow",
+    "Tamar Gollan",
+    "Raeanne Moore",
+    "David Salmon",
+    "Douglas Galasko",
+    "Erin Sundermann",
+    "Natalie Parde"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.lrec-main.1296",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1296/"
+}

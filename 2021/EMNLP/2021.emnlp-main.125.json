@@ -1,0 +1,42 @@
+{
+  "title": "mT6: Multilingual Pretrained Text-to-Text Transformer with Translation Pairs",
+  "authors": [
+    "Zewen Chi",
+    "Li Dong",
+    "Shuming Ma",
+    "Shaohan Huang",
+    "Xian-Ling Mao",
+    "Heyan Huang",
+    "Furu Wei"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "German",
+    "Romanian",
+    "Arabic",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Vietnamese",
+    "Indonesian",
+    "Hindi",
+    "Korean",
+    "Japanese",
+    "Cantonese",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.emnlp-main.125",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.125/"
+}

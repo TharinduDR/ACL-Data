@@ -1,0 +1,19 @@
+{
+  "title": "KILLKAN: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information",
+  "authors": [
+    "Chihiro Taguchi",
+    "Jefferson Saransig",
+    "Dayana Velásquez",
+    "David Chiang"
+  ],
+  "languages": [
+    "Kichwa",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.lrec-main.852",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.852/"
+}

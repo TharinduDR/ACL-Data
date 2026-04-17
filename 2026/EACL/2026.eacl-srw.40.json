@@ -1,0 +1,23 @@
+{
+  "title": "Probabilistic Bilingual Subword Segmentation with Latent Subword Alignment",
+  "authors": [
+    "Shoto Nishida",
+    "Daiki Matsui",
+    "Takashi Ninomiya",
+    "Isao Goto",
+    "Akihiro Tamura"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Chinese",
+    "German",
+    "Hindi",
+    "Thai"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2026.eacl-srw.40",
+  "acl_url": "https://aclanthology.org/2026.eacl-srw.40/"
+}

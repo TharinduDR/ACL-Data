@@ -1,0 +1,20 @@
+{
+  "title": "BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering",
+  "authors": [
+    "Azmine Toushik Wasi",
+    "Taki Hasan Rafi",
+    "Raima Islam",
+    "Dong-Kyu Chae"
+  ],
+  "languages": [
+    "Bengali",
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.lrec-main.189",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.189/"
+}

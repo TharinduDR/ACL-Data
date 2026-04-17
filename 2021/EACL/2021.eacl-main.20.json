@@ -1,0 +1,19 @@
+{
+  "title": "Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference",
+  "authors": [
+    "Timo Schick",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.eacl-main.20",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.20/"
+}

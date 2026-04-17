@@ -1,0 +1,34 @@
+{
+  "title": "No Train but Gain: Language Arithmetic for training-free Language Adapters enhancement",
+  "authors": [
+    "Mateusz Klimaszewski",
+    "Piotr Andruszkievicz",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Turkish",
+    "Vietnamese",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T11",
+    "T14",
+    "T16"
+  ],
+  "paper_id": "2025.coling-main.737",
+  "acl_url": "https://aclanthology.org/2025.coling-main.737/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Modality Matching Matters: Calibrating Language Distances for Cross-Lingual Transfer in URIEL+",
+  "authors": [
+    "York Hay Ng",
+    "Aditya Khan",
+    "Xiang Lu",
+    "Matteo Salloum",
+    "Michael Zhou",
+    "Phuong Hanh Hoang",
+    "A. Seza Dogruoz",
+    "En-Shiun Annie Lee"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Hindi",
+    "Mandarin",
+    "Vietnamese",
+    "Cantonese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2026.eacl-srw.8",
+  "acl_url": "https://aclanthology.org/2026.eacl-srw.8/"
+}

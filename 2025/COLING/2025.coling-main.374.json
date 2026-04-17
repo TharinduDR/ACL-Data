@@ -1,0 +1,27 @@
+{
+  "title": "MQM-APE: Toward High-Quality Error Annotation Predictors with Automatic Post-Editing in LLM Translation Evaluators",
+  "authors": [
+    "Qingyu Lu",
+    "Liang Ding",
+    "Kanjian Zhang",
+    "Jinxia Zhang",
+    "Dacheng Tao"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Chinese",
+    "Assamese",
+    "Maithili",
+    "Kannada",
+    "Punjabi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.374",
+  "acl_url": "https://aclanthology.org/2025.coling-main.374/"
+}

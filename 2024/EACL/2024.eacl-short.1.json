@@ -1,0 +1,19 @@
+{
+  "title": "French GossipPrompts: Dataset For Prevention of Generating French Gossip Stories By LLMs",
+  "authors": [
+    "MSVPJ Sathvik",
+    "Abhilash Dowpati",
+    "Revanth Kumar Narra"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.eacl-short.1",
+  "acl_url": "https://aclanthology.org/2024.eacl-short.1/"
+}

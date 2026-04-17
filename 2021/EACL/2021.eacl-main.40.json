@@ -1,0 +1,20 @@
+{
+  "title": "CHOLAN: A Modular Approach for Neural Entity Linking on Wikipedia and Wikidata",
+  "authors": [
+    "Manoj Prabhakar Kannan Ravi",
+    "Kuldeep Singh",
+    "Isaiah Onando Mulang",
+    "Saeedeh Shekarpour",
+    "Johannes Hoffart",
+    "Jens Lehmann"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.eacl-main.40",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.40/"
+}

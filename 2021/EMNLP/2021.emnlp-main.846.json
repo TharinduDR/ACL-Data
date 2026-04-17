@@ -1,0 +1,18 @@
+{
+  "title": "Phrase-BERT: Improved Phrase Embeddings from BERT with an Application to Corpus Exploration",
+  "authors": [
+    "Shufan Wang",
+    "Laure Thompson",
+    "Mohit Iyyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.emnlp-main.846",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.846/"
+}

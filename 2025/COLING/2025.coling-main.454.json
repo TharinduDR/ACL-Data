@@ -1,0 +1,20 @@
+{
+  "title": "RRHF-V: Ranking Responses to Mitigate Hallucinations in Multimodal Large Language Models with Human Feedback",
+  "authors": [
+    "Guoqing Chen",
+    "Fu Zhang",
+    "Jinghao Lin",
+    "Chenglong Lu",
+    "Jingwei Cheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.454",
+  "acl_url": "https://aclanthology.org/2025.coling-main.454/"
+}

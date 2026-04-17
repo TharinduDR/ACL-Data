@@ -1,0 +1,41 @@
+{
+  "title": "NoiseQA: Challenge Set Evaluation for User-Centric Question Answering",
+  "authors": [
+    "Abhilasha Ravichander",
+    "Siddharth Dalmia",
+    "Maria Ryskina",
+    "Florian Metze",
+    "Eduard Hovy",
+    "Alan W. Black"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Hindi",
+    "Russian",
+    "Thai",
+    "Vietnamese",
+    "Arabic",
+    "Spanish",
+    "French",
+    "Portuguese",
+    "Indonesian",
+    "Turkish",
+    "Korean",
+    "Japanese",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2021.eacl-main.259",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.259/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions",
+  "authors": [
+    "Shun Inadumi",
+    "Seiya Kawano",
+    "Akishige Yuguchi",
+    "Yasutomo Kawanishi",
+    "Koichiro Yoshino"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.lrec-main.48",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.48/"
+}

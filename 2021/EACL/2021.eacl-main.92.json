@@ -1,0 +1,20 @@
+{
+  "title": "Zero-shot Neural Passage Retrieval via Domain-targeted Synthetic Question Generation",
+  "authors": [
+    "Ji Ma",
+    "Ivan Korotkov",
+    "Yinfei Yang",
+    "Keith Hall",
+    "Ryan McDonald"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.eacl-main.92",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.92/"
+}

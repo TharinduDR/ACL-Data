@@ -1,0 +1,24 @@
+{
+  "title": "NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages",
+  "authors": [
+    "Francois Meyer",
+    "Haiyue Song",
+    "Abhisek Chakrabarty",
+    "Jan Buys",
+    "Raj Dabre",
+    "Hideki Tanaka"
+  ],
+  "languages": [
+    "Xhosa",
+    "Zulu",
+    "Ndebele",
+    "Siswati"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.lrec-main.1071",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1071/"
+}

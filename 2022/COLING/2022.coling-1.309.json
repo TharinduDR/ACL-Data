@@ -1,0 +1,26 @@
+{
+  "title": "MonoByte: A Pool of Monolingual Byte-level Language Models",
+  "authors": [
+    "Hugo Abonizio",
+    "Leandro Rodrigues de Souza",
+    "Roberto Lotufo",
+    "Rodrigo Nogueira"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "English",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.coling-1.309",
+  "acl_url": "https://aclanthology.org/2022.coling-1.309/"
+}

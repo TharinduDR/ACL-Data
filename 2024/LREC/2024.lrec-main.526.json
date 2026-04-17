@@ -1,0 +1,23 @@
+{
+  "title": "Enhancing Emotion Prediction in News Headlines: Insights from ChatGPT and Seq2Seq Models for Free-Text Generation",
+  "authors": [
+    "Ge Gao",
+    "Jongin Kim",
+    "Sejin Paik",
+    "Ekaterina Novozhilova",
+    "Yi Liu",
+    "Sarah Bonna",
+    "Margrit Betke",
+    "Derry Wijaya"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.lrec-main.526",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.526/"
+}

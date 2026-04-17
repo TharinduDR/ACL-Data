@@ -1,0 +1,23 @@
+{
+  "title": "LEMUR: A Corpus for Robust Fine-Tuning of Multilingual Law Embedding Models for Retrieval",
+  "authors": [
+    "Narges Baba Ahmadi",
+    "Jan Strich",
+    "Martin Semmann",
+    "Chris Biemann"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Latvian",
+    "Maltese"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2026.eacl-srw.18",
+  "acl_url": "https://aclanthology.org/2026.eacl-srw.18/"
+}

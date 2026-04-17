@@ -1,0 +1,22 @@
+{
+  "title": "Zero- and Few-Shot Prompting with LLMs: A Comparative Study with Fine-tuned Models for Bangla Sentiment Analysis",
+  "authors": [
+    "Md. Arid Hasan",
+    "Shudipta Das",
+    "Afiyat Anjum",
+    "Firoj Alam",
+    "Anika Anjum",
+    "Avijit Sarker",
+    "Sheak Rashed Haider Noori"
+  ],
+  "languages": [
+    "Bangla"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.lrec-main.1549",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1549/"
+}

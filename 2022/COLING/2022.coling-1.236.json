@@ -1,0 +1,28 @@
+{
+  "title": "Constrained Regeneration for Cross-Lingual Query-Focused Extractive Summarization",
+  "authors": [
+    "Elsbeth Turcan",
+    "David Wan",
+    "Faisal Ladha",
+    "Petra Galuscakova",
+    "Sukanta Sen",
+    "Svetlana Tchistiakova",
+    "Weijia Xu",
+    "Marine Carpuat",
+    "Kenneth Heafield",
+    "Douglas Oard",
+    "Kathleen McKeown"
+  ],
+  "languages": [
+    "Persian",
+    "Kazakh",
+    "Georgian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.coling-1.236",
+  "acl_url": "https://aclanthology.org/2022.coling-1.236/"
+}

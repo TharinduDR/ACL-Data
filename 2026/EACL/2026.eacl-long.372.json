@@ -1,0 +1,26 @@
+{
+  "title": "Language Lives in Sparse Dimensions: Toward Interpretable and Efficient Multilingual Control for Large Language Models",
+  "authors": [
+    "Chengzhi Zhong",
+    "Fei Cheng",
+    "Qianying Liu",
+    "Yugo Murawaki",
+    "Chenhui Chu",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Chinese",
+    "Japanese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2026.eacl-long.372",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.372/"
+}

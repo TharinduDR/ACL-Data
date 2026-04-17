@@ -1,0 +1,23 @@
+{
+  "title": "MinT: Boosting Generalization in Mathematical Reasoning via Multi-view Fine-tuning",
+  "authors": [
+    "Zhenwen Liang",
+    "Dian Yu",
+    "Xiaoman Pan",
+    "Wenlin Yao",
+    "Qingkai Zeng",
+    "Xiangliang Zhang",
+    "Dong Yu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.lrec-main.988",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.988/"
+}

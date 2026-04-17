@@ -1,0 +1,23 @@
+{
+  "title": "EmoPrompt-ECPE: Emotion knowledge-aware Prompt-tuning for Emotion-Cause Pair Extraction",
+  "authors": [
+    "Xue Gu",
+    "Zhihan Zhou",
+    "Ziyao Meng",
+    "Jian Li",
+    "Tiago Gomes",
+    "Adriano Tavares",
+    "Hao Xu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.lrec-main.504",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.504/"
+}

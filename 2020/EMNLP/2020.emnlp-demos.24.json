@@ -1,0 +1,21 @@
+{
+  "title": "BENNERD: A Neural Named Entity Linking System for COVID-19",
+  "authors": [
+    "Mohammad Golam Sohrab",
+    "Khoa N. A. Duong",
+    "Makoto Miwa",
+    "Goran Topic",
+    "Masami Ikeda",
+    "Hiroya Takamura"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.emnlp-demos.24",
+  "acl_url": "https://aclanthology.org/2020.emnlp-demos.24/"
+}

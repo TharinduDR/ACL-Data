@@ -1,0 +1,23 @@
+{
+  "title": "Towards Robust In-Context Learning for Machine Translation with Large Language Models",
+  "authors": [
+    "Shaolin Zhu",
+    "Menglong Cui",
+    "Deyi Xiong"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Italian",
+    "Medical",
+    "Koran",
+    "Law"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.1444",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1444/"
+}

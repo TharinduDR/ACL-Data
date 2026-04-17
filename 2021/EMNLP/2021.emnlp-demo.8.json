@@ -1,0 +1,20 @@
+{
+  "title": "ExcavatorCovid: Extracting Events and Relations from Text Corpora for Temporal and Causal Analysis for COVID-19",
+  "authors": [
+    "Bonan Min",
+    "Ben Rozonoyer",
+    "Haoling Qiu",
+    "Alex Zamanian",
+    "Nianwen Xue",
+    "Jessica MacBride"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.emnlp-demo.8",
+  "acl_url": "https://aclanthology.org/2021.emnlp-demo.8/"
+}

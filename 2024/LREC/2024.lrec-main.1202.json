@@ -1,0 +1,26 @@
+{
+  "title": "Reference-less Analysis of Context Specificity in Translation with Personalised Language Models",
+  "authors": [
+    "Sebastian Vincent",
+    "Alice Dowek",
+    "Rowanne Sumner",
+    "Charlotte Prescott",
+    "Emily Preston",
+    "Chris Bayliss",
+    "Chris Oakley",
+    "Carolina Scarton"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Polish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.1202",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1202/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "ParaZh-22M: a Large-Scale Chinese Parabank via Machine Translation",
+  "authors": [
+    "Wenjie Hao",
+    "Hongfei Xu",
+    "Deyi Xiong",
+    "Hongying Zan",
+    "Lingling Mu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.coling-1.341",
+  "acl_url": "https://aclanthology.org/2022.coling-1.341/"
+}

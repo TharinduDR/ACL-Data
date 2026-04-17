@@ -1,0 +1,20 @@
+{
+  "title": "Take Care of Your Prompt Bias! Investigating and Mitigating Prompt Bias in Factual Knowledge Extraction",
+  "authors": [
+    "Ziyang Xu",
+    "Keqin Peng",
+    "Liang Ding",
+    "Dacheng Tao",
+    "Xiliang Lu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.lrec-main.1352",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1352/"
+}

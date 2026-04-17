@@ -1,0 +1,22 @@
+{
+  "title": "Machine Translation Evaluation English-Thai MQM Ranking Dataset",
+  "authors": [
+    "Phichet Phuangrot",
+    "Natdanai Trintawat",
+    "Kanawat Vilasri",
+    "Yanapat Patcharawiwatpong",
+    "Pachara Boonsarngsuk",
+    "Nat Pavasant",
+    "Ekapol Chuangsuwanich"
+  ],
+  "languages": [
+    "English",
+    "Thai"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-short.41",
+  "acl_url": "https://aclanthology.org/2026.eacl-short.41/"
+}

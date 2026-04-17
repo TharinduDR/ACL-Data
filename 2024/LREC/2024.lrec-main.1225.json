@@ -1,0 +1,18 @@
+{
+  "title": "Retrieval-based Question Answering with Passage Expansion using a Knowledge Graph",
+  "authors": [
+    "Benno Kruijt",
+    "Yiming Xu",
+    "Jan-Christoph Kalo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.lrec-main.1225",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1225/"
+}

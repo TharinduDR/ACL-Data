@@ -1,0 +1,20 @@
+{
+  "title": "SYNKB: Semantic Search for Synthetic Procedures",
+  "authors": [
+    "Fan Bai",
+    "Alan Ritter",
+    "Peter Madrid",
+    "Dayne Freitag",
+    "John Niekrasz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.emnlp-demos.31",
+  "acl_url": "https://aclanthology.org/2022.emnlp-demos.31/"
+}

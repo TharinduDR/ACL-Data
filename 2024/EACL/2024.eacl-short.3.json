@@ -1,0 +1,26 @@
+{
+  "title": "Multi-Level Attention Aggregation for Language-Agnostic Speaker Replication",
+  "authors": [
+    "Yejin Jeon",
+    "Gary Geunbae Lee"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Polish",
+    "Korean",
+    "Hindi",
+    "Spanish",
+    "French",
+    "Icelandic",
+    "Xhosa",
+    "Javanese",
+    "Afrikaans"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2024.eacl-short.3",
+  "acl_url": "https://aclanthology.org/2024.eacl-short.3/"
+}

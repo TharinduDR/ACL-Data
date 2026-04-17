@@ -1,0 +1,22 @@
+{
+  "title": "STAND-Guard: A Small Task-Adaptive Content Moderation Model",
+  "authors": [
+    "Minjia Wang",
+    "Pingping Lin",
+    "Siqi Cai",
+    "Shengnan An",
+    "Shengjie Ma",
+    "Zeqi Lin",
+    "Congrui Huang",
+    "Bixiong Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.coling-industry.1",
+  "acl_url": "https://aclanthology.org/2025.coling-industry.1/"
+}

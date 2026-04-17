@@ -1,0 +1,22 @@
+{
+  "title": "RobustQA: A Framework for Adversarial Text Generation Analysis on Question Answering Systems",
+  "authors": [
+    "Yasaman Boreshban",
+    "Seyed Morteza Mirbostani",
+    "Seyede Fatemeh Ahmadi",
+    "Gita Shojaei",
+    "Fatemeh Kamani",
+    "Gholamreza Ghassem-Sani",
+    "Seyed Abolghasem Mirroshandel"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.emnlp-demo.24",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.24/"
+}

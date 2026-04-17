@@ -1,0 +1,18 @@
+{
+  "title": "Generating Multiple-Choice Questions for Medical QA with Distractors and Cue-Masking",
+  "authors": [
+    "Damien Sileo",
+    "Kanimozhi Uma",
+    "Marie-Francine Moens"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.lrec-main.675",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.675/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning",
+  "authors": [
+    "Clifton Poth",
+    "Hannah Sterz",
+    "Indraneil Paul",
+    "Sukannya Purkayastha",
+    "Leon Engländer",
+    "Timo Imhof",
+    "Ivan Vulić",
+    "Sebastian Ruder",
+    "Iryna Gurevych",
+    "Jonas Pfeiffer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.emnlp-demo.13",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.13/"
+}

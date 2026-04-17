@@ -1,0 +1,24 @@
+{
+  "title": "Integrating Headedness Information into an Auto-generated Multilingual CCGbank for Improved Semantic Interpretation",
+  "authors": [
+    "Tu-Anh Tran",
+    "Yusuke Miyao"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Dutch",
+    "Finnish",
+    "Italian",
+    "Polish",
+    "Tamil",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.lrec-main.798",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.798/"
+}

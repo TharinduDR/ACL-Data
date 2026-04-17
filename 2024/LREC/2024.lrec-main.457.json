@@ -1,0 +1,23 @@
+{
+  "title": "DOC-RAG: ASR Language Model Personalization with Domain-Distributed Co-occurrence Retrieval Augmentation",
+  "authors": [
+    "Puneet Mathur",
+    "Zhe Liu",
+    "Ke Li",
+    "Yingyi Ma",
+    "Gil Keren",
+    "Zeeshan Ahmed",
+    "Dinesh Manocha",
+    "Xuedong Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.lrec-main.457",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.457/"
+}

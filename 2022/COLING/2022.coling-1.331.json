@@ -1,0 +1,45 @@
+{
+  "title": "Resource of Wikipedias in 31 Languages Categorized into Fine-Grained Named Entities",
+  "authors": [
+    "Satoshi Sekine",
+    "Kouta Nakayama",
+    "Masako Nomoto",
+    "Maya Ando",
+    "Asuka Sumida",
+    "Koji Matsuda"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Catalan",
+    "Czech",
+    "Danish",
+    "English",
+    "French",
+    "German",
+    "Greek",
+    "Hebrew",
+    "Hindi",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Korean",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Swedish",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.coling-1.331",
+  "acl_url": "https://aclanthology.org/2022.coling-1.331/"
+}

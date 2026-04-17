@@ -1,0 +1,18 @@
+{
+  "title": "BERT4GCN: Using BERT Intermediate Layers to Augment GCN for Aspect-based Sentiment Classification",
+  "authors": [
+    "Zeguan Xiao",
+    "Jiarun Wu",
+    "Qingliang Chen",
+    "Congjian Deng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.emnlp-main.724",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.724/"
+}

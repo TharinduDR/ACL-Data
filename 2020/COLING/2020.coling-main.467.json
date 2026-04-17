@@ -1,0 +1,20 @@
+{
+  "title": "COSMO: Conditional SEQ2SEQ-based Mixture Model for Zero-Shot Commonsense Question Answering",
+  "authors": [
+    "Farhad Moghimifar",
+    "Lizhen Qu",
+    "Yue Zhuo",
+    "Mahsa Baktashmotlagh",
+    "Gholamreza Haffari"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.coling-main.467",
+  "acl_url": "https://aclanthology.org/2020.coling-main.467/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Tailored Emotional LLM-Supporter: Enhancing Cultural Sensitivity",
+  "authors": [
+    "Chen Cecilia Liu",
+    "Hiba Arnaout",
+    "Nils Kovačić",
+    "Dana Atzil-Slonim",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "German",
+    "Jewish"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.25",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.25/"
+}

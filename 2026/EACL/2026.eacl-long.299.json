@@ -1,0 +1,37 @@
+{
+  "title": "CONGRAD: Conflicting Gradient Filtering for Multilingual Preference Alignment",
+  "authors": [
+    "Jiangnan Li",
+    "Thuy-Trang Vu",
+    "Christian Herold",
+    "Amirhossein Tebbifakhr",
+    "Shahram Khadivi",
+    "Gholamreza Haffari"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Arabic",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Spanish",
+    "Italian",
+    "Hindi",
+    "Vietnamese",
+    "Russian",
+    "Latvian",
+    "Lithuanian",
+    "Slovenian",
+    "Slovak"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.299",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.299/"
+}

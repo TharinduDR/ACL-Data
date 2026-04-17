@@ -1,0 +1,20 @@
+{
+  "title": "LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation",
+  "authors": [
+    "Keheng Wang",
+    "Feiyu Duan",
+    "Peiguang Li",
+    "Sirui Wang",
+    "Xunliang Cai"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.coling-main.163",
+  "acl_url": "https://aclanthology.org/2025.coling-main.163/"
+}

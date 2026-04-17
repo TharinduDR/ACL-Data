@@ -1,0 +1,26 @@
+{
+  "title": "Finetuning Pretrained Transformers into RNNs",
+  "authors": [
+    "Jungo Kasai",
+    "Hao Peng",
+    "Yizhe Zhang",
+    "Dani Yogatama",
+    "Gabriel Ilharco",
+    "Nikolaos Pappas",
+    "Yi Mao",
+    "Weizhu Chen",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2021.emnlp-main.830",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.830/"
+}

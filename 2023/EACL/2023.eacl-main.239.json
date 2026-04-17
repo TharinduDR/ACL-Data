@@ -1,0 +1,18 @@
+{
+  "title": "DyLoRA: Parameter-Efficient Tuning of Pretrained Models using Dynamic Search-Free Low Rank Adaptation",
+  "authors": [
+    "Mojtaba Valipour",
+    "Mehdi Rezagholizadeh",
+    "Ivan Kobyzev",
+    "Ali Ghodsi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.eacl-main.239",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.239/"
+}

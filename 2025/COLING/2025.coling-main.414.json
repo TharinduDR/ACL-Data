@@ -1,0 +1,23 @@
+{
+  "title": "Multi-Modal Multi-Granularity Tokenizer for Chu Bamboo Slips",
+  "authors": [
+    "Yingfa Chen",
+    "Chenlong Hu",
+    "Cong Feng",
+    "Chenyang Song",
+    "Shi Yu",
+    "Xu Han",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.coling-main.414",
+  "acl_url": "https://aclanthology.org/2025.coling-main.414/"
+}

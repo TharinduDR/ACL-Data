@@ -1,0 +1,25 @@
+{
+  "title": "CB-Whisper: Contextual Biasing Whisper using Open-Vocabulary Keyword-Spotting",
+  "authors": [
+    "Yuang Li",
+    "Yinglu Li",
+    "Min Zhang",
+    "Chang Su",
+    "Jiawei Yu",
+    "Mengyao Piao",
+    "Xiaosong Qiao",
+    "Miaomiao Ma",
+    "Yanqing Zhao",
+    "Hao Yang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.lrec-main.262",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.262/"
+}

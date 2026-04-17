@@ -1,0 +1,25 @@
+{
+  "title": "SILC-EFSA: Self-aware In-context Learning Correction for Entity-level Financial Sentiment Analysis",
+  "authors": [
+    "Senbin Zhu",
+    "Chenyuan He",
+    "Hongde Liu",
+    "Pengcheng Dong",
+    "Hanjie Zhao",
+    "Yuchen Yan",
+    "Yuxiang Jia",
+    "Hongying Zan",
+    "Min Peng"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.coling-main.333",
+  "acl_url": "https://aclanthology.org/2025.coling-main.333/"
+}

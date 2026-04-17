@@ -1,0 +1,19 @@
+{
+  "title": "DANCER: Entity Description Augmented Named Entity Corrector for Automatic Speech Recognition",
+  "authors": [
+    "Yi-Cheng Wang",
+    "Hsin-Wei Wang",
+    "Bi-Cheng Yan",
+    "Chi-Han Lin",
+    "Berlin Chen"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.lrec-main.387",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.387/"
+}

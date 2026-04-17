@@ -1,0 +1,21 @@
+{
+  "title": "ToolRerank: Adaptive and Hierarchy-Aware Reranking for Tool Retrieval",
+  "authors": [
+    "Yuanhang Zheng",
+    "Peng Li",
+    "Wei Liu",
+    "Yang Liu",
+    "Jian Luan",
+    "Bin Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.lrec-main.1413",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1413/"
+}

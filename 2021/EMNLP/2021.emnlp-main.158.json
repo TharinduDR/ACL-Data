@@ -1,0 +1,22 @@
+{
+  "title": "Segment, Mask, and Predict: Augmenting Chinese Word Segmentation with Self-Supervision",
+  "authors": [
+    "Mieradilijiang Maimaiti",
+    "Yang Liu",
+    "Yuanhang Zheng",
+    "Gang Chen",
+    "Kaiyu Huang",
+    "Ji Zhang",
+    "Huanbo Luan",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.emnlp-main.158",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.158/"
+}

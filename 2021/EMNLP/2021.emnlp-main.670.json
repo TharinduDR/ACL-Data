@@ -1,0 +1,20 @@
+{
+  "title": "Wino-X: Multilingual Winograd Schemas for Commonsense Reasoning and Coreference Resolution",
+  "authors": [
+    "Denis Emelin",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.670",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.670/"
+}

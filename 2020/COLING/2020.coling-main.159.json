@@ -1,0 +1,30 @@
+{
+  "title": "A Deep Generative Approach to Native Language Identification",
+  "authors": [
+    "Ehsan Lotfi",
+    "Ilia Markov",
+    "Walter Daelemans"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "French",
+    "German",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Spanish",
+    "Telugu",
+    "Turkish",
+    "Bulgarian",
+    "Czech",
+    "Russian"
+  ],
+  "research_areas": [
+    "T28",
+    "T14"
+  ],
+  "paper_id": "2020.coling-main.159",
+  "acl_url": "https://aclanthology.org/2020.coling-main.159/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Mitigating Shortcut Learning via Smart Data Augmentation based on Large Language Model",
+  "authors": [
+    "Xinyi Sun",
+    "Hongye Tan",
+    "Yaxin Guo",
+    "Pengpeng Qiang",
+    "Ru Li",
+    "Hu Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.coling-main.543",
+  "acl_url": "https://aclanthology.org/2025.coling-main.543/"
+}

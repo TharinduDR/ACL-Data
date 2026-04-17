@@ -1,0 +1,20 @@
+{
+  "title": "STraTA: Self-Training with Task Augmentation for Better Few-shot Learning",
+  "authors": [
+    "Tu Vu",
+    "Minh-Thang Luong",
+    "Quoc V. Le",
+    "Grady Simon",
+    "Mohit Iyyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.emnlp-main.462",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.462/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "AnnoCTR: A Dataset for Detecting and Linking Entities, Tactics, and Techniques in Cyber Threat Reports",
+  "authors": [
+    "Lukas Lange",
+    "Marc Müller",
+    "Ghazaleh Haratinezhad Torbati",
+    "Dragan Milchevski",
+    "Patrick Grau",
+    "Subhash Pujari",
+    "Annemarie Friedrich"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.lrec-main.103",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.103/"
+}

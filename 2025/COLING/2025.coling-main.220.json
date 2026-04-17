@@ -1,0 +1,20 @@
+{
+  "title": "Gracefully Filtering Backdoor Samples for Generative Large Language Models without Retraining",
+  "authors": [
+    "Zongru Wu",
+    "Pengzhou Cheng",
+    "Lingyong Fang",
+    "Zhuosheng Zhang",
+    "Gongshen Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.coling-main.220",
+  "acl_url": "https://aclanthology.org/2025.coling-main.220/"
+}

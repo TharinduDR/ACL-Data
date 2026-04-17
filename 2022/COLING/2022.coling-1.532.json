@@ -1,0 +1,25 @@
+{
+  "title": "Denoising Large-Scale Image Captioning from Alt-text Data using Content Selection Models",
+  "authors": [
+    "Khyathi Raghavi Chandu",
+    "Piyush Sharma",
+    "Soravit Changpinyo",
+    "Ashish Thapliyal",
+    "Radu Soricut"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.coling-1.532",
+  "acl_url": "https://aclanthology.org/2022.coling-1.532/"
+}

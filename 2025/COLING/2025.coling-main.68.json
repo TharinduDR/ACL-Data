@@ -1,0 +1,20 @@
+{
+  "title": "CON-RECALL: Detecting Pre-training Data in LLMs via Contrastive Decoding",
+  "authors": [
+    "Cheng Wang",
+    "Yiwei Wang",
+    "Bryan Hooi",
+    "Yujun Cai",
+    "Nanyun Peng",
+    "Kai-Wei Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.coling-main.68",
+  "acl_url": "https://aclanthology.org/2025.coling-main.68/"
+}

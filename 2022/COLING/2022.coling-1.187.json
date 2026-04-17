@@ -1,0 +1,21 @@
+{
+  "title": "DocQueryNet: Value Retrieval with Arbitrary Queries for Form-like Documents",
+  "authors": [
+    "Mingfei Gao",
+    "Le Xue",
+    "Chetan Ramaiah",
+    "Chen Xing",
+    "Ran Xu",
+    "Caiming Xiong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.coling-1.187",
+  "acl_url": "https://aclanthology.org/2022.coling-1.187/"
+}

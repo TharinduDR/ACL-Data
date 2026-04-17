@@ -1,0 +1,21 @@
+{
+  "title": "Morphologically Aware Word-Level Translation",
+  "authors": [
+    "Paula Czarnowska",
+    "Sebastian Ruder",
+    "Ryan Cotterell",
+    "Ann Copestake"
+  ],
+  "languages": [
+    "French",
+    "Spanish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.256",
+  "acl_url": "https://aclanthology.org/2020.coling-main.256/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Continual Learning in Task-Oriented Dialogue Systems",
+  "authors": [
+    "Andrea Madotto",
+    "Zhaojiang Lin",
+    "Zhenpeng Zhou",
+    "Seungwhan Moon",
+    "Paul Crook",
+    "Bing Liu",
+    "Zhou Yu",
+    "Eunjoon Cho",
+    "Pascale Fung",
+    "Zhiguang Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.590",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.590/"
+}

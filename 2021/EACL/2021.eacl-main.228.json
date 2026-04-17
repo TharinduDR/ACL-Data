@@ -1,0 +1,19 @@
+{
+  "title": "Do Syntax Trees Help Pre-trained Transformers Extract Information?",
+  "authors": [
+    "Devendra Singh Sachan",
+    "Yuhao Zhang",
+    "Peng Qi",
+    "William Hamilton"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.eacl-main.228",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.228/"
+}

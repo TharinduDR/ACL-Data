@@ -1,0 +1,43 @@
+{
+  "title": "Building a Broad Infrastructure for Uniform Meaning Representations",
+  "authors": [
+    "Julia Bonn",
+    "Matthew Buchholz",
+    "Jayeol Chun",
+    "Andrew Cowell",
+    "William Croft",
+    "Lukas Denk",
+    "Sijia Ge",
+    "Jan Hajič",
+    "Kenneth Lai",
+    "James H. Martin",
+    "Skatje Myers",
+    "Alexis Palmer",
+    "Martha Palmer",
+    "Claire Benét Post",
+    "James Pustejevsky",
+    "Kristine Stenzel",
+    "Haibo Sun",
+    "Zdeňka Urešová",
+    "Rosa Vallejos",
+    "Jens E. L. Van Gysel",
+    "Meagan Vigus",
+    "Nianwen Xue",
+    "Jin Zhao"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arapaho",
+    "Navajo",
+    "Sanapaná",
+    "Kukama"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.lrec-main.229",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.229/"
+}

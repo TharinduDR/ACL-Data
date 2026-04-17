@@ -1,0 +1,24 @@
+{
+  "title": "Topic-guided Example Selection for Domain Adaptation in LLM-based Machine Translation",
+  "authors": [
+    "Seth Aycock",
+    "Rachel Bawden"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Czech",
+    "Finnish",
+    "Lithuanian",
+    "Romanian",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.eacl-srw.13",
+  "acl_url": "https://aclanthology.org/2024.eacl-srw.13/"
+}

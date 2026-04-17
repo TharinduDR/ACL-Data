@@ -1,0 +1,31 @@
+{
+  "title": "MIT-10M: A Large Scale Parallel Corpus of Multilingual Image Translation",
+  "authors": [
+    "Bo Li",
+    "Shaolin Zhu",
+    "Lijie Wen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Japanese",
+    "Portuguese",
+    "Italian",
+    "Spanish",
+    "Korean",
+    "Thai",
+    "Arabic",
+    "Turkish",
+    "Hindi",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.346",
+  "acl_url": "https://aclanthology.org/2025.coling-main.346/"
+}

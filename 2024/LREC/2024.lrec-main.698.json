@@ -1,0 +1,23 @@
+{
+  "title": "Grammatical Error Correction for Code-Switched Sentences by Learners of English",
+  "authors": [
+    "Kelvin Wey Han Chan",
+    "Christopher Bryant",
+    "Li Nguyen",
+    "Andrew Caines",
+    "Zheng Yuan"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Korean",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.698",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.698/"
+}

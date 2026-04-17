@@ -1,0 +1,51 @@
+{
+  "title": "A Large-Scale Study of Machine Translation in the Turkic Languages",
+  "authors": [
+    "Jamshidbek Mirzakhalov",
+    "Anoop Babu",
+    "Duygu Ataman",
+    "Sherzod Kariev",
+    "Francis Tyers",
+    "Otobek Abduraufov",
+    "Mammad Hajili",
+    "Sardana Ivanova",
+    "Abror Khaytbaev",
+    "Antonio Laverghetta Jr.",
+    "Behzodbek Moydinboyev",
+    "Esra Onal",
+    "Shaxnoza Pulatova",
+    "Ahsan Wahab",
+    "Orhan Firat",
+    "Sriram Chellappan"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Turkish",
+    "Uzbek",
+    "Azerbaijani",
+    "Kazakh",
+    "Uyghur",
+    "Turkmen",
+    "Tatar",
+    "Kyrgyz",
+    "Bashkir",
+    "Chuvash",
+    "Karakalpak",
+    "Crimean Tatar",
+    "Sakha (Yakut)",
+    "Kumyk",
+    "Karakach-Balkar",
+    "Gagauz",
+    "Salar",
+    "Altai",
+    "Khakas",
+    "Shor"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.475",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.475/"
+}

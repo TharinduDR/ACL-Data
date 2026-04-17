@@ -1,0 +1,17 @@
+{
+  "title": "Synthetic Doctor-Patient Dialogue Generation for Robust Medical ASR: A Scalable Pipeline for Vocabulary Expansion and Privacy Preservation",
+  "authors": [
+    "Kefei Liu",
+    "Meizhu Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2026.eacl-industry.40",
+  "acl_url": "https://aclanthology.org/2026.eacl-industry.40/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "LipKey: A Large-Scale News Dataset for Absent Keyphrases Generation and Abstractive Summarization",
+  "authors": [
+    "Fajri Koto",
+    "Timothy Baldwin",
+    "Jey Han Lau"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T11 Information Extraction",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.coling-1.303",
+  "acl_url": "https://aclanthology.org/2022.coling-1.303/"
+}

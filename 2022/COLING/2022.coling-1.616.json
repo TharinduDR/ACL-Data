@@ -1,0 +1,20 @@
+{
+  "title": "A Multi-Task Dual-Tree Network for Aspect Sentiment Triplet Extraction",
+  "authors": [
+    "Yichun Zhao",
+    "Kui Meng",
+    "Gongshen Liu",
+    "Jintao Du",
+    "Huijia Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.coling-1.616",
+  "acl_url": "https://aclanthology.org/2022.coling-1.616/"
+}

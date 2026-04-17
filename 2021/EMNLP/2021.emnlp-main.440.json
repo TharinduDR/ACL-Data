@@ -1,0 +1,20 @@
+{
+  "title": "Crosslingual Transfer Learning for Relation and Event Extraction via Word Category and Class Alignments",
+  "authors": [
+    "Minh Van Nguyen",
+    "Tuan Ngo Nguyen",
+    "Bonan Min",
+    "Thien Huu Nguyen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.emnlp-main.440",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.440/"
+}

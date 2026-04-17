@@ -1,0 +1,25 @@
+{
+  "title": "SUN: Exploring Intrinsic Uncertainties in Text-to-SQL Parsers",
+  "authors": [
+    "Bowen Qin",
+    "Lihan Wang",
+    "Binyuan Hui",
+    "Bowen Li",
+    "Xiangpeng Wei",
+    "Binhua Li",
+    "Fei Huang",
+    "Luo Si",
+    "Min Yang",
+    "Yongbin Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.coling-1.471",
+  "acl_url": "https://aclanthology.org/2022.coling-1.471/"
+}

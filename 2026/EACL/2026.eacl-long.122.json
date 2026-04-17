@@ -1,0 +1,43 @@
+{
+  "title": "AfriVox: Probing Multilingual and Accent Robustness of Speech LLMs",
+  "authors": [
+    "Busayo Awobade",
+    "Mardhiyah Sanni",
+    "Tassallah Abdullahi",
+    "Chibuzor Okocha",
+    "Kelechi Ezema",
+    "Devendra Deepak Kayande",
+    "Lukman E. Ismaila",
+    "Tobi Olatunji",
+    "Gloria Ashiya Katuka"
+  ],
+  "languages": [
+    "English",
+    "Afrikaans",
+    "Akan",
+    "Amharic",
+    "Arabic",
+    "Fulani",
+    "Ga",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Luganda",
+    "Pedi",
+    "Sesotho",
+    "Shona",
+    "Swahili",
+    "Tswana",
+    "Twi",
+    "Xhosa",
+    "Yoruba",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.122",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.122/"
+}

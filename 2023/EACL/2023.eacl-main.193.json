@@ -1,0 +1,19 @@
+{
+  "title": "Adding Instructions during Pretraining: Effective Way of Controlling Toxicity in Language Models",
+  "authors": [
+    "Shrimai Prabhumoye",
+    "Mostofa Patwary",
+    "Mohammad Shoeybi",
+    "Bryan Catanzano"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.eacl-main.193",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.193/"
+}

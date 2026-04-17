@@ -1,0 +1,28 @@
+{
+  "title": "CHATREPORT: Democratizing Sustainability Disclosure Analysis through LLM-based Tools",
+  "authors": [
+    "Jingwei Ni",
+    "Julia Bingler",
+    "Chiara Colesanti-Senni",
+    "Mathias Kraus",
+    "Glen Gostlow",
+    "Tobias Schimanski",
+    "Dominik Stammback",
+    "Saeid Ashraf Vaghefi",
+    "Qian Wang",
+    "Nicolas Webersinke",
+    "Tobias Wekhof",
+    "Tingyu Yu",
+    "Markus Leippold"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.emnlp-demo.3",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.3/"
+}

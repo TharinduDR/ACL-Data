@@ -1,0 +1,37 @@
+{
+  "title": "A reproduction of Apple's bi-directional LSTM models for language identification in short strings",
+  "authors": [
+    "Mads Toftrup",
+    "Søren Asger Sørensen",
+    "Manuel R. Ciosici",
+    "Ira Assent"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Turkish",
+    "Dutch",
+    "Norwegian",
+    "Swedish",
+    "Catalan",
+    "Czech",
+    "Danish",
+    "Estonian",
+    "Finnish",
+    "Croatian",
+    "Hungarian",
+    "Lithuanian",
+    "Polish",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.eacl-srw.6",
+  "acl_url": "https://aclanthology.org/2021.eacl-srw.6/"
+}

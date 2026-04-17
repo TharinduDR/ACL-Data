@@ -1,0 +1,21 @@
+{
+  "title": "Soft-Prompting with Graph-of-Thought for Multi-modal Representation Learning",
+  "authors": [
+    "Juncheng Yang",
+    "Zuchao Li",
+    "Shuai Xie",
+    "Wei Yu",
+    "Shijun Li",
+    "Bo Du"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.lrec-main.1306",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1306/"
+}

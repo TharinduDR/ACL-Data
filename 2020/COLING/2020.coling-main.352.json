@@ -1,0 +1,25 @@
+{
+  "title": "Dynamic Curriculum Learning for Low-Resource Neural Machine Translation",
+  "authors": [
+    "Chen Xu",
+    "Bojie Hu",
+    "Yufan Jiang",
+    "Kai Feng",
+    "Zeyang Wang",
+    "Shen Huang",
+    "Qi Ju",
+    "Tong Xiao",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Japanese",
+    "Thai"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.coling-main.352",
+  "acl_url": "https://aclanthology.org/2020.coling-main.352/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Leveraging fine-tuned Large Language Models with LoRA for Effective Claim, Claimer, and Claim Object Detection",
+  "authors": [
+    "Sotiris Kotitsas",
+    "Panagiotis Kounoudis",
+    "Eleni Koutli",
+    "Haris Papageorgiou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.eacl-long.156",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.156/"
+}

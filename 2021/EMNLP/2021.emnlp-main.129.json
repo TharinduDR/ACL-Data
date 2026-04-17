@@ -1,0 +1,20 @@
+{
+  "title": "HintedBT: Augmenting Back-Translation with Quality and Transliteration Hints",
+  "authors": [
+    "Sahana Ramnath",
+    "Melvin Johnson",
+    "Abhirut Gupta",
+    "Aravindan Raghuveer"
+  ],
+  "languages": [
+    "Hindi",
+    "Gujarati",
+    "Tamil",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.emnlp-main.129",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.129/"
+}

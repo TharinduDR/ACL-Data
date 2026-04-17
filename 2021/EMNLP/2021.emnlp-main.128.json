@@ -1,0 +1,23 @@
+{
+  "title": "Is \"moby dick\" a Whale or a Bird? Named Entities and Terminology in Speech Translation",
+  "authors": [
+    "Marco Gaido",
+    "Susana Rodríguez",
+    "Matteo Negri",
+    "Luisa Bentivogli",
+    "Marco Turchi"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2021.emnlp-main.128",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.128/"
+}

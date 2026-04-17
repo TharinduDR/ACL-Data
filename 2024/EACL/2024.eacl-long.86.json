@@ -1,0 +1,19 @@
+{
+  "title": "Diffusion-NAT: Self-Prompting Discrete Diffusion for Non-Autoregressive Text Generation",
+  "authors": [
+    "Kun Zhou",
+    "Yifan Li",
+    "Wayne Xin Zhao",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2024.eacl-long.86",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.86/"
+}

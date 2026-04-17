@@ -1,0 +1,20 @@
+{
+  "title": "COUGH: A Challenge Dataset and Models for COVID-19 FAQ Retrieval",
+  "authors": [
+    "Xinliang Frederick Zhang",
+    "Heming Sun",
+    "Xiang Yue",
+    "Simon Lin",
+    "Huan Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.305",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.305/"
+}

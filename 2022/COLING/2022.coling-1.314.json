@@ -1,0 +1,26 @@
+{
+  "title": "WikiHan: A New Comparative Dataset for Chinese Languages",
+  "authors": [
+    "Kalvin Chang",
+    "Chenxuan Cui",
+    "Youngmin Kim",
+    "David Mortensen"
+  ],
+  "languages": [
+    "Chinese",
+    "Cantonese",
+    "Hakka",
+    "Jin",
+    "Min",
+    "Wu",
+    "Xiang",
+    "Middle Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.coling-1.314",
+  "acl_url": "https://aclanthology.org/2022.coling-1.314/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Bilingual Evaluation of Language Models on General Knowledge in University Entrance Exams with Minimal Contamination",
+  "authors": [
+    "Eva Sánchez Salido",
+    "Roser Morante",
+    "Julio Gonzalo",
+    "Guillermo Marco",
+    "Jorge Carrillo-de-Albornoz",
+    "Laura Plaza",
+    "Enrique Amigó",
+    "Andrés Fernández",
+    "Alejandro Benito-Santos",
+    "Adrián Ghajari Espinosa",
+    "Víctor Fresno"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.coling-main.413",
+  "acl_url": "https://aclanthology.org/2025.coling-main.413/"
+}

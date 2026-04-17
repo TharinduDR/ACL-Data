@@ -1,0 +1,23 @@
+{
+  "title": "LLM-Friendly Knowledge Representation for Customer Support",
+  "authors": [
+    "Hanchen Su",
+    "Wei Luo",
+    "Wei Han",
+    "Yu Liu",
+    "Yufeng Zhang",
+    "Cen Zhao",
+    "Joy Zhang",
+    "Yashar Mehdad"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.coling-industry.42",
+  "acl_url": "https://aclanthology.org/2025.coling-industry.42/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "End-to-End Entity Resolution and Question Answering Using Differentiable Knowledge Graphs",
+  "authors": [
+    "Armin Oliya",
+    "Amir Saffari",
+    "Priyanka Sen",
+    "Tom Ayoola"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.emnlp-main.345",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.345/"
+}

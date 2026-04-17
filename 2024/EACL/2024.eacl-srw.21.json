@@ -1,0 +1,20 @@
+{
+  "title": "Japanese-English Sentence Translation Exercises Dataset for Automatic Grading",
+  "authors": [
+    "Naoki Miura",
+    "Hiroaki Funayama",
+    "Seiya Kikuchi",
+    "Yuichiroh Matsubayashi",
+    "Yuya Iwase",
+    "Kentaro Inui"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.eacl-srw.21",
+  "acl_url": "https://aclanthology.org/2024.eacl-srw.21/"
+}

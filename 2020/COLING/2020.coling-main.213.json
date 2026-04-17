@@ -1,0 +1,23 @@
+{
+  "title": "Learning with Contrastive Examples for Data-to-Text Generation",
+  "authors": [
+    "Yui Uehara",
+    "Tatsuya Ishigaki",
+    "Kasumi Aoki",
+    "Keiichi Goshima",
+    "Hiroshi Noji",
+    "Ichiro Kobayashi",
+    "Hiroya Takamura",
+    "Yusuke Miyao"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2020.coling-main.213",
+  "acl_url": "https://aclanthology.org/2020.coling-main.213/"
+}

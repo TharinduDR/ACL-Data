@@ -1,0 +1,23 @@
+{
+  "title": "Data-QuestEval: A Reference-less Metric for Data-to-Text Semantic Evaluation",
+  "authors": [
+    "Clément Rebuffel",
+    "Thomas Scialom",
+    "Laure Soulier",
+    "Benjamin Piwowarski",
+    "Sylvain Lamprier",
+    "Jacopo Staiano",
+    "Geoffrey Scoutheeten",
+    "Patrick Gallinari"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2021.emnlp-main.633",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.633/"
+}

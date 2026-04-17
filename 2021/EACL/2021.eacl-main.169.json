@@ -1,0 +1,20 @@
+{
+  "title": "Boosting Low-Resource Biomedical QA via Entity-Aware Masking Strategies",
+  "authors": [
+    "Gabriele Pergola",
+    "Elena Kochkina",
+    "Lin Gui",
+    "Maria Liakata",
+    "Yulan He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2021.eacl-main.169",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.169/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Language Modeling, Lexical Translation, Reordering: The Training Process of NMT through the Lens of Classical SMT",
+  "authors": [
+    "Elena Voita",
+    "Rico Sennrich",
+    "Ivan Titov"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.emnlp-main.667",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.667/"
+}

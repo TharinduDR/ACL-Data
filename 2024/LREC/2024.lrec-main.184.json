@@ -1,0 +1,22 @@
+{
+  "title": "A Workflow for HTR-Postprocessing, Labeling and Classifying Diachronic and Regional Variation in Pre-Modern Slavic Texts",
+  "authors": [
+    "Piroska Lendvai",
+    "Maarten van Gompel",
+    "Anna Jouravel",
+    "Elena Renje",
+    "Uwe Reichel",
+    "Achim Rabus",
+    "Eckhart Arnold"
+  ],
+  "languages": [
+    "Slavic"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.lrec-main.184",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.184/"
+}

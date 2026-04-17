@@ -1,0 +1,21 @@
+{
+  "title": "SymPyBench: A Dynamic Benchmark for Scientific Reasoning with Executable Python Code",
+  "authors": [
+    "Shima Imani",
+    "Seungwhan Moon",
+    "Adel Ahmadyan",
+    "Lu Zhang",
+    "Kirmani Ahmed",
+    "Babak Damavandi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2026.eacl-industry.8",
+  "acl_url": "https://aclanthology.org/2026.eacl-industry.8/"
+}

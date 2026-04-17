@@ -1,0 +1,20 @@
+{
+  "title": "TED-EL: A Corpus for Speech Entity Linking",
+  "authors": [
+    "Silin Li",
+    "Ruoyu Song",
+    "Tianwei Lan",
+    "Zeming Liu",
+    "Yuhang Guo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.lrec-main.1365",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1365/"
+}

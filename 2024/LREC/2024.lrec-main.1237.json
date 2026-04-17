@@ -1,0 +1,22 @@
+{
+  "title": "RoCols: Enhancing Robustness of Large Language Models through Code-Style Instructions",
+  "authors": [
+    "Yuansen Zhang",
+    "Xiao Wang",
+    "Zhiheng Xi",
+    "Han Xia",
+    "Tao Gui",
+    "Qi Zhang",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.1237",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1237/"
+}

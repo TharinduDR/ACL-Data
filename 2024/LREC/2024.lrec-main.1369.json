@@ -1,0 +1,21 @@
+{
+  "title": "text2story: A Python Toolkit to Extract and Visualize Story Components of Narrative Text",
+  "authors": [
+    "Evelin Amorim",
+    "Ricardo Campos",
+    "Alípio Jorge",
+    "Pedro Mota",
+    "Rúben Almeida"
+  ],
+  "languages": [
+    "English",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.lrec-main.1369",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1369/"
+}

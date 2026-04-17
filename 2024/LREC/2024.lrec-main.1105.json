@@ -1,0 +1,24 @@
+{
+  "title": "Parsing for Mauritian Creole using Universal Dependencies",
+  "authors": [
+    "Neha Ramsurrun",
+    "Rolando Coto-Solano",
+    "Michael Gonzalez"
+  ],
+  "languages": [
+    "Mauritian Creole",
+    "Lithuanian",
+    "Cook Islands Māori",
+    "Yoruba",
+    "K'iche'",
+    "Western Sierra Puebla Nahuatl",
+    "Yupik",
+    "Martinique Creole"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.lrec-main.1105",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1105/"
+}

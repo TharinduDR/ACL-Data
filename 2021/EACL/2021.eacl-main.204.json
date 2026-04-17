@@ -1,0 +1,35 @@
+{
+  "title": "Cross-Cultural Similarity Features for Cross-Lingual Transfer Learning of Pragmatically Motivated Tasks",
+  "authors": [
+    "Jimin Sun",
+    "Hwijeon Ahn",
+    "Chan Young Park",
+    "Yulia Tsvetkov",
+    "David R. Mortensen"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Hindi",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Polish",
+    "Russian",
+    "Spanish",
+    "Turkish",
+    "Tamil",
+    "Czech"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.eacl-main.204",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.204/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Enriching Non-Autoregressive Transformer with Syntactic and Semantic Structures for Neural Machine Translation",
+  "authors": [
+    "Ye Liu",
+    "Yao Wan",
+    "Jian-Guo Zhang",
+    "Wenting Zhao",
+    "Philip S. Yu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.eacl-main.105",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.105/"
+}

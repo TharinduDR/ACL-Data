@@ -1,0 +1,23 @@
+{
+  "title": "DeepGen: Diverse Search Ad Generation and Real-Time Customization",
+  "authors": [
+    "Konstantin Golobokov",
+    "Junyi Chai",
+    "Victor Ye Dong",
+    "Mandy Gu",
+    "Bingyu Chi",
+    "Jie Cao",
+    "Yulan Yan",
+    "Yi Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2022.emnlp-demos.19",
+  "acl_url": "https://aclanthology.org/2022.emnlp-demos.19/"
+}

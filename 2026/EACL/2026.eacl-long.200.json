@@ -1,0 +1,45 @@
+{
+  "title": "A Survey on LLM-based Conversational User Simulation",
+  "authors": [
+    "Bo Ni",
+    "Leyao Wang",
+    "Yu Wang",
+    "Branislav Kveton",
+    "Franck Dernoncourt",
+    "Yu Xia",
+    "Hongjie Chen",
+    "Reuben Leura",
+    "Samyadeep Basu",
+    "Subhojyoti Mukherjee",
+    "Puneet Mathur",
+    "Nesreen Ahmed",
+    "Junda Wu",
+    "Li Li",
+    "Huixin Zhang",
+    "Ruiyi Zhang",
+    "Tong Yu",
+    "Sungchul Kim",
+    "Jiuxiang Gu",
+    "Zhengzhong Tu",
+    "Alexa Siu",
+    "Zichao Wang",
+    "David Seunghyun Yoon",
+    "Nedim Lipka",
+    "Namyong Park",
+    "Zihao Lin",
+    "Trung Bui",
+    "Yue Zhao",
+    "Tyler Derr",
+    "Ryan A. Rossi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.200",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.200/"
+}

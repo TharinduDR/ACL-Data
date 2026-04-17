@@ -1,0 +1,20 @@
+{
+  "title": "CoDoNMT: Modeling Cohesion Devices for Document-Level Neural Machine Translation",
+  "authors": [
+    "Yikun Lei",
+    "Yuqi Ren",
+    "Deyi Xiong"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics",
+    "T05 Discourse and Pragmatics"
+  ],
+  "paper_id": "2022.coling-1.462",
+  "acl_url": "https://aclanthology.org/2022.coling-1.462/"
+}

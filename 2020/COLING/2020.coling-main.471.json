@@ -1,0 +1,22 @@
+{
+  "title": "Automatic Interlinear Glossing for Under-Resourced Languages Leveraging Translations",
+  "authors": [
+    "Xingyuan Zhao",
+    "Satoru Ozaki",
+    "Antonios Anastasopoulos",
+    "Graham Neubig",
+    "Lori Levin"
+  ],
+  "languages": [
+    "English",
+    "Tsez",
+    "Lezgian",
+    "Arapaho"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.471",
+  "acl_url": "https://aclanthology.org/2020.coling-main.471/"
+}

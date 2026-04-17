@@ -1,0 +1,22 @@
+{
+  "title": "Context-Informed Machine Translation of Manga using Multimodal Large Language Models",
+  "authors": [
+    "Philip Lippmann",
+    "Konrad Skublicki",
+    "Joshua Tanner",
+    "Shonosuke Ishiwatari",
+    "Jie Yang"
+  ],
+  "languages": [
+    "Japanese",
+    "English",
+    "Polish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.coling-main.232",
+  "acl_url": "https://aclanthology.org/2025.coling-main.232/"
+}

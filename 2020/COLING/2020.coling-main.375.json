@@ -1,0 +1,19 @@
+{
+  "title": "Understanding Pure Character-Based Neural Machine Translation: The Case of Translating Finnish into English",
+  "authors": [
+    "Gongbo Tang",
+    "Rico Sennrich",
+    "Joakim Nivre"
+  ],
+  "languages": [
+    "Finnish",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.375",
+  "acl_url": "https://aclanthology.org/2020.coling-main.375/"
+}

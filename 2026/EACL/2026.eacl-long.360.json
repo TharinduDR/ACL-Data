@@ -1,0 +1,21 @@
+{
+  "title": "Jailbreaks as Inference-Time Alignment: A Framework for Understanding Safety Failures in LLMs",
+  "authors": [
+    "James Beetham",
+    "Souradip Chakraborty",
+    "Mengdi Wang",
+    "Furong Huang",
+    "Amrit Singh Bedi",
+    "Mubarak Shah"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.360",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.360/"
+}

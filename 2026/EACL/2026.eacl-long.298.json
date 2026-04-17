@@ -1,0 +1,40 @@
+{
+  "title": "TREX: Tokenizer Regression for Optimal Data Mixture",
+  "authors": [
+    "Inho Won",
+    "Hangyeol Yoo",
+    "Minkyung Cho",
+    "Jungyeul Park",
+    "Hoyun Song",
+    "KyungTae Lim"
+  ],
+  "languages": [
+    "Chinese",
+    "Arabic",
+    "Japanese",
+    "Russian",
+    "German",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Spanish",
+    "Czech",
+    "Polish",
+    "Dutch",
+    "Hungarian",
+    "Turkish",
+    "Persian",
+    "Vietnamese",
+    "Swedish",
+    "Danish",
+    "Indonesian",
+    "Greek"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.298",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.298/"
+}

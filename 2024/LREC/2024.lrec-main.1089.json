@@ -1,0 +1,23 @@
+{
+  "title": "On the Way to Lossless Compression of Language Transformers: Exploring Cross-Domain Properties of Quantization",
+  "authors": [
+    "Nikita Martynov",
+    "Aleksei Goncharov",
+    "Gleb Kumichev",
+    "Evgeniy Egorov",
+    "Stanislav Pavlov",
+    "Mikhail Durinov",
+    "Aleksandr Zuev",
+    "Egor Filimonov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2024.lrec-main.1089",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1089/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Towards Robust Neural Retrieval with Source Domain Synthetic Pre-Finetuning",
+  "authors": [
+    "Revanth Gangi Reddy",
+    "Vikas Yadav",
+    "Md Arafat Sultan",
+    "Martin Franz",
+    "Vittorio Castelli",
+    "Heng Ji",
+    "Avirup Sil"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.coling-1.89",
+  "acl_url": "https://aclanthology.org/2022.coling-1.89/"
+}

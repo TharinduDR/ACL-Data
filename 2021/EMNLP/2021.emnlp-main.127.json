@@ -1,0 +1,21 @@
+{
+  "title": "Speechformer: Reducing Information Loss in Direct Speech Translation",
+  "authors": [
+    "Sara Papi",
+    "Marco Gaido",
+    "Matteo Negri",
+    "Marco Turchi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2021.emnlp-main.127",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.127/"
+}

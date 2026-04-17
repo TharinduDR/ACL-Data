@@ -1,0 +1,20 @@
+{
+  "title": "Towards Fast and Accurate Neural Chinese Word Segmentation with Multi-Criteria Learning",
+  "authors": [
+    "Weipeng Huang",
+    "Xingyi Cheng",
+    "Kunlong Chen",
+    "Taifeng Wang",
+    "Wei Chu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.coling-main.186",
+  "acl_url": "https://aclanthology.org/2020.coling-main.186/"
+}

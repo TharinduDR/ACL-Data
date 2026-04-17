@@ -1,0 +1,21 @@
+{
+  "title": "LitBench: A Benchmark and Dataset for Reliable Evaluation of Creative Writing",
+  "authors": [
+    "Daniel Fein",
+    "Sebastian Russo",
+    "Violet Xiang",
+    "Kabir Jolly",
+    "Rafael Rafailov",
+    "Nick Haber"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2026.eacl-long.362",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.362/"
+}

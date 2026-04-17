@@ -1,0 +1,19 @@
+{
+  "title": "KoCHET: a Korean Cultural Heritage corpus for Entity-related Tasks",
+  "authors": [
+    "Gyeongmin Kim",
+    "Jinsung Kim",
+    "Junyoung Son",
+    "Heuiseok Lim"
+  ],
+  "languages": [
+    "Korean"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.coling-1.308",
+  "acl_url": "https://aclanthology.org/2022.coling-1.308/"
+}

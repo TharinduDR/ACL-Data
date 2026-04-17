@@ -1,0 +1,29 @@
+{
+  "title": "Cross-Lingual Emotion Lexicon Induction using Representation Alignment in Low-Resource Settings",
+  "authors": [
+    "Arun Ramachandran",
+    "Gerard de Melo"
+  ],
+  "languages": [
+    "Spanish",
+    "Hindi",
+    "Dutch",
+    "Greek",
+    "Russian",
+    "Yoruba",
+    "Scots Gaelic",
+    "Sinhala",
+    "Maori",
+    "Corsican",
+    "Estonian",
+    "Kyrgyz",
+    "Luxembourgish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.coling-main.517",
+  "acl_url": "https://aclanthology.org/2020.coling-main.517/"
+}

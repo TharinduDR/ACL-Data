@@ -1,0 +1,35 @@
+{
+  "title": "First Align, then Predict: Understanding the Cross-Lingual Ability of Multilingual BERT",
+  "authors": [
+    "Benjamin Muller",
+    "Yanai Elazar",
+    "Benoît Sagot",
+    "Djamé Seddah"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Arabic",
+    "French",
+    "German",
+    "Turkish",
+    "Indonesian",
+    "Chinese",
+    "Japanese",
+    "Hindi",
+    "Portuguese",
+    "Spanish",
+    "Czech",
+    "Polish",
+    "Slovenian",
+    "Italian",
+    "Persian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.eacl-main.189",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.189/"
+}

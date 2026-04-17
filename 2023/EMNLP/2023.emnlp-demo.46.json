@@ -1,0 +1,24 @@
+{
+  "title": "OmniEvent: A Comprehensive, Fair, and Easy-to-Use Toolkit for Event Understanding",
+  "authors": [
+    "Hao Peng",
+    "Xiaozhi Wang",
+    "Feng Yao",
+    "Zimu Wang",
+    "Chuzhao Zhu",
+    "Kaisheng Zeng",
+    "Lei Hou",
+    "Juanzi Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.emnlp-demo.46",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.46/"
+}

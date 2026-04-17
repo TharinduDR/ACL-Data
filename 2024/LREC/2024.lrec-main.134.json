@@ -1,0 +1,27 @@
+{
+  "title": "Are Text Classifiers Xenophobic? A Country-Oriented Bias Detection Method With Least Confounding Variables",
+  "authors": [
+    "Valentin Barriere",
+    "Sebastian Cifuentes"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "French",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Hungarian",
+    "Polish",
+    "Turkish",
+    "Moroccan Arabic"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.lrec-main.134",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.134/"
+}

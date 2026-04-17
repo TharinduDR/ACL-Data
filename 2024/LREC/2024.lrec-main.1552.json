@@ -1,0 +1,22 @@
+{
+  "title": "Zero-shot Event Detection using a Textual Entailment Model as an Enhanced Annotator",
+  "authors": [
+    "Ziqian Zeng",
+    "Runyu Wu",
+    "Yuxiang Xiao",
+    "Xiaoda Zhong",
+    "Hanlin Wang",
+    "Zhengdong Lu",
+    "Huiping Zhuang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.lrec-main.1552",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1552/"
+}

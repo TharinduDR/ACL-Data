@@ -1,0 +1,22 @@
+{
+  "title": "lrnnx: A library for Linear RNNs",
+  "authors": [
+    "Karan Bania",
+    "Soham Kalburgi",
+    "Manit Tanwar",
+    "Dhruthi Kiran",
+    "Aditya Nagarsekar",
+    "Harshvardhan Mestha",
+    "Naman Chibber",
+    "Anish Sathyanarayanan",
+    "Aarush Rathore",
+    "Raj Deshmukh",
+    "Pratham Chheda"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.eacl-srw.60",
+  "acl_url": "https://aclanthology.org/2026.eacl-srw.60/"
+}

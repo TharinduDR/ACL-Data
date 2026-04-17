@@ -1,0 +1,19 @@
+{
+  "title": "Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering",
+  "authors": [
+    "Siyuan Wang",
+    "Zhongyu Wei",
+    "Zhihao Fan",
+    "Qi Zhang",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.coling-1.142",
+  "acl_url": "https://aclanthology.org/2022.coling-1.142/"
+}

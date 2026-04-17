@@ -1,0 +1,23 @@
+{
+  "title": "CMNEE: A Large-Scale Document-Level Event Extraction Dataset based on Open-Source Chinese Military News",
+  "authors": [
+    "Mengna Zhu",
+    "Zijie Xu",
+    "Kaisheng Zeng",
+    "Kaiming Xiao",
+    "Mao Wang",
+    "Wenjun Ke",
+    "Hongbin Huang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.299",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.299/"
+}

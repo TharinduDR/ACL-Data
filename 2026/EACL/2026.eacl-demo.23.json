@@ -1,0 +1,25 @@
+{
+  "title": "SDialog: A Python Toolkit for End-to-End Agent Building, User Simulation, Dialog Generation, and Evaluation",
+  "authors": [
+    "Sergio Burdisso",
+    "Séverin Baroudi",
+    "Yanis Labrak",
+    "David Grunert",
+    "Pawel Cytra",
+    "Yiyang Chen",
+    "Esaú Villatoro-Tello",
+    "Ricard Marxer",
+    "Srikanth Madikeri",
+    "Petr Motlicek"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-demo.23",
+  "acl_url": "https://aclanthology.org/2026.eacl-demo.23/"
+}

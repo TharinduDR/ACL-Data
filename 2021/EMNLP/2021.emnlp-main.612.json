@@ -1,0 +1,30 @@
+{
+  "title": "Language-Agnostic Representation from Multilingual Sentence Encoders for Cross-Lingual Similarity Estimation",
+  "authors": [
+    "Nattapong Tiyajamorn",
+    "Tomoyuki Kajiwara",
+    "Yuki Arase",
+    "Makoto Onizuka"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Romanian",
+    "Estonian",
+    "Nepalese",
+    "Sinhala",
+    "Arabic",
+    "French",
+    "Italian",
+    "Dutch",
+    "Persian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.emnlp-main.612",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.612/"
+}

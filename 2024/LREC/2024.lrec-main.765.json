@@ -1,0 +1,20 @@
+{
+  "title": "Improving Chinese Named Entity Recognition with Multi-grained Words and Part-of-Speech Tags via Joint Modeling",
+  "authors": [
+    "Chenhui Dou",
+    "Chen Gong",
+    "Zhenghua Li",
+    "Zhefeng Wang",
+    "Baoxing Huai",
+    "Min Zhang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.lrec-main.765",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.765/"
+}

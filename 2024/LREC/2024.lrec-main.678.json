@@ -1,0 +1,46 @@
+{
+  "title": "Geographically-Informed Language Identification",
+  "authors": [
+    "Jonathan Dunn",
+    "Lane Edwards-Brown"
+  ],
+  "languages": [
+    "Amharic",
+    "Arabic",
+    "Bengali",
+    "English",
+    "Farsi",
+    "French",
+    "German",
+    "Gujarati",
+    "Hausa",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Javanese",
+    "Kannada",
+    "Korean",
+    "Mandarin",
+    "Marathi",
+    "Polish",
+    "Portuguese",
+    "Punjabi",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Tagalog",
+    "Tamil",
+    "Telugu",
+    "Thai",
+    "Turkish",
+    "Urdu",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.678",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.678/"
+}

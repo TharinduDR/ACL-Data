@@ -1,0 +1,17 @@
+{
+  "title": "Unlike \"Likely\", \"Unlike\" is Unlikely: BPE-based Segmentation hurts Morphological Derivations in LLMs",
+  "authors": [
+    "Paul Lerner",
+    "François Yvon"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphology"
+  ],
+  "paper_id": "2025.coling-main.348",
+  "acl_url": "https://aclanthology.org/2025.coling-main.348/"
+}

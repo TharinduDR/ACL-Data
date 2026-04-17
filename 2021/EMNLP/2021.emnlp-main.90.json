@@ -1,0 +1,18 @@
+{
+  "title": "Towards Incremental Transformers: An Empirical Analysis of Transformer Models for Incremental NLU",
+  "authors": [
+    "Patrick Kahardipraja",
+    "Brielen Madureira",
+    "David Schlangen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2021.emnlp-main.90",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.90/"
+}

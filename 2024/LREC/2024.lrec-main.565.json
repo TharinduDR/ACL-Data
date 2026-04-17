@@ -1,0 +1,29 @@
+{
+  "title": "Evaluating Code-Switching Translation with Large Language Models",
+  "authors": [
+    "Muhammad Huzaifah",
+    "Weihua Zheng",
+    "Nattapol Chanpaisit",
+    "Kui Wu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Turkish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Tamil",
+    "Indonesian",
+    "Hindi",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.565",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.565/"
+}

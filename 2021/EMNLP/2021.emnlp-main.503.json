@@ -1,0 +1,28 @@
+{
+  "title": "On the Benefit of Syntactic Supervision for Cross-lingual Transfer in Semantic Role Labeling",
+  "authors": [
+    "Zhisong Zhang",
+    "Emma Strubell",
+    "Eduard Hovy"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Spanish",
+    "Portuguese",
+    "Finnish",
+    "Chinese",
+    "Arabic",
+    "Czech",
+    "Catalan"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.emnlp-main.503",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.503/"
+}

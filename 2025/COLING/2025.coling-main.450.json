@@ -1,0 +1,21 @@
+{
+  "title": "From Prejudice to Parity: A New Approach to Debiasing Large Language Model Word Embeddings",
+  "authors": [
+    "Aishik Rakshit",
+    "Smriti Singh",
+    "Shuvam Keshari",
+    "Arijit Ghosh Chowdhury",
+    "Vinija Jain",
+    "Aman Chadha"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.450",
+  "acl_url": "https://aclanthology.org/2025.coling-main.450/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "TigQA: An Expert-Annotated Question-Answering Dataset in Tigrinya",
+  "authors": [
+    "Hailay Kidu Teklehaymanot",
+    "Dren Fazlija",
+    "Niloy Ganguly",
+    "Gourab K. Patro",
+    "Wolfgang Nejdl"
+  ],
+  "languages": [
+    "Tigrinya"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.1404",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1404/"
+}

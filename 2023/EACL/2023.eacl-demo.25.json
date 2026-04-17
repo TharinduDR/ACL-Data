@@ -1,0 +1,24 @@
+{
+  "title": "TULAP - An Accessible and Sustainable Platform for Turkish Natural Language Processing Resources",
+  "authors": [
+    "Susan Üsküdarlı",
+    "Muhammet Şen",
+    "Furkan Akkurt",
+    "Merve Gürbüz",
+    "Onur Gündör",
+    "Arzucan Özgür",
+    "Tunga Gündör"
+  ],
+  "languages": [
+    "Turkish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.eacl-demo.25",
+  "acl_url": "https://aclanthology.org/2023.eacl-demo.25/"
+}

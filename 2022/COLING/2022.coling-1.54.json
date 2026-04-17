@@ -1,0 +1,25 @@
+{
+  "title": "MulZDG: Multilingual Code-Switching Framework for Zero-shot Dialogue Generation",
+  "authors": [
+    "Yongkang Liu",
+    "Shi Feng",
+    "Daling Wang",
+    "Yifei Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Russian",
+    "Chinese",
+    "Italian"
+  ],
+  "research_areas": [
+    "T03",
+    "T14",
+    "T16"
+  ],
+  "paper_id": "2022.coling-1.54",
+  "acl_url": "https://aclanthology.org/2022.coling-1.54/"
+}

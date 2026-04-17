@@ -1,0 +1,24 @@
+{
+  "title": "Fact Finder - Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs",
+  "authors": [
+    "Daniel Steinigen",
+    "Roman Teucher",
+    "Timm Heine Ruland",
+    "Max Rudat",
+    "Nicolas Flores-Herr",
+    "Peter Fischer",
+    "Nikola Milošević",
+    "Christopher Schymura",
+    "Angelo Ziletti"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2026.eacl-demo.8",
+  "acl_url": "https://aclanthology.org/2026.eacl-demo.8/"
+}

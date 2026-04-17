@@ -1,0 +1,21 @@
+{
+  "title": "Towards Explainability and Fairness in Swiss Judgement Prediction: Benchmarking on a Multilingual Dataset",
+  "authors": [
+    "Santosh T.Y.S.S",
+    "Nina Baumgartner",
+    "Matthias Stürmer",
+    "Matthias Grabmair",
+    "Joel Niklaus"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.lrec-main.1434",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1434/"
+}

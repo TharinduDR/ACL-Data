@@ -1,0 +1,23 @@
+{
+  "title": "KPatch: Knowledge Patch to Pre-trained Language Model for Zero-Shot Stance Detection on Social Media",
+  "authors": [
+    "Shuohao Lin",
+    "Wei Chen",
+    "Yunpeng Gao",
+    "Zhishu Jiang",
+    "Mengqi Liao",
+    "Zhiyu Zhang",
+    "Shuyuan Zhao",
+    "Huaiyu Wan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2024.lrec-main.871",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.871/"
+}

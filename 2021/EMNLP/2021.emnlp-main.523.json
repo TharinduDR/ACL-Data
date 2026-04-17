@@ -1,0 +1,21 @@
+{
+  "title": "Sparse Attention with Linear Units",
+  "authors": [
+    "Biao Zhang",
+    "Ivan Titov",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Finnish",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.emnlp-main.523",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.523/"
+}

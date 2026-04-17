@@ -1,0 +1,23 @@
+{
+  "title": "Cross-Linguistic Transfer from Related Languages: Treating Low-Resource Maltese as Multilingual Code-Switching",
+  "authors": [
+    "Kurt Micallef",
+    "Nizar Habash",
+    "Claudia Borg",
+    "Fadhl Eryani",
+    "Houda Bouamor"
+  ],
+  "languages": [
+    "Maltese",
+    "Arabic",
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.eacl-long.61",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.61/"
+}

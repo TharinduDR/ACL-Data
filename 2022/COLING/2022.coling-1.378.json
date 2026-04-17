@@ -1,0 +1,44 @@
+{
+  "title": "Penalizing Divergence: Multi-Parallel Translation for Low-Resource Languages of North America",
+  "authors": [
+    "Garrett Nicolai",
+    "Changbing Yang",
+    "Miikka Silfverberg"
+  ],
+  "languages": [
+    "English",
+    "Algonquin",
+    "Arapaho",
+    "Cree",
+    "Mikmaq",
+    "Ojibwa",
+    "Potawatomi",
+    "Siksika",
+    "Apache",
+    "Carrier",
+    "Dane-zaa",
+    "Gwich'in",
+    "Navajo",
+    "Tlicho",
+    "Tsilhqot'in",
+    "Inuinnaqtun",
+    "Inuktitut",
+    "Inupiatum",
+    "Yupik",
+    "Afrikaans",
+    "Bokmål",
+    "Danish",
+    "Dutch",
+    "German",
+    "Icelandic",
+    "Low German",
+    "Nynorsk",
+    "Swedish",
+    "Swiss German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.coling-1.378",
+  "acl_url": "https://aclanthology.org/2022.coling-1.378/"
+}

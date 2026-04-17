@@ -1,0 +1,31 @@
+{
+  "title": "Shapley Head Pruning: Identifying and Removing Interference in Multilingual Transformers",
+  "authors": [
+    "William Held",
+    "Diyi Yang"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bulgarian",
+    "German",
+    "Greek",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Urdu",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.eacl-main.177",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.177/"
+}

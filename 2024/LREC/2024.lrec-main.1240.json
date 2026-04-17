@@ -1,0 +1,20 @@
+{
+  "title": "RuBia: A Russian Language Bias Detection Dataset",
+  "authors": [
+    "Veronika Grigoreva",
+    "Anastasiia Ivanova",
+    "Ilseyar Alimova",
+    "Ekaterina Artemova"
+  ],
+  "languages": [
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.1240",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1240/"
+}

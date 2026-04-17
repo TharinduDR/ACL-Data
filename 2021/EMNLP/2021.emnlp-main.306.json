@@ -1,0 +1,20 @@
+{
+  "title": "Chinese WPLC: A Chinese Dataset for Evaluating Pretrained Language Models on Word Prediction Given Long-Range Context",
+  "authors": [
+    "Huibin Ge",
+    "Chenxi Sun",
+    "Deyi Xiong",
+    "Qun Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.emnlp-main.306",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.306/"
+}

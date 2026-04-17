@@ -1,0 +1,23 @@
+{
+  "title": "Making Sentence Embeddings Robust to User-Generated Content",
+  "authors": [
+    "Lydia Nishimwe",
+    "Benoît Sagot",
+    "Rachel Bawden"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "French",
+    "Russian",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2024.lrec-main.958",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.958/"
+}

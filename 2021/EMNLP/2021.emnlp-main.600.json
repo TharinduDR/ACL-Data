@@ -1,0 +1,19 @@
+{
+  "title": "MATE: Multi-view Attention for Table Transformer Efficiency",
+  "authors": [
+    "Julian Martin Eisenschlos",
+    "Maharshi Gor",
+    "Thomas Müller",
+    "William W. Cohen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.600",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.600/"
+}

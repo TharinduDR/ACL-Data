@@ -1,0 +1,20 @@
+{
+  "title": "LingVarBench: Benchmarking LLMs on Entity Recognitions and Linguistic Verbalization Patterns in Phone-Call Transcripts",
+  "authors": [
+    "Seyedali Mohammadi",
+    "Manas Paldhe",
+    "Amit Chhabra",
+    "Youngseo Son",
+    "Vishal Seshagiri"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-industry.42",
+  "acl_url": "https://aclanthology.org/2026.eacl-industry.42/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning",
+  "authors": [
+    "Ernie Chang",
+    "Hui-Syuan Yeh",
+    "Vera Demberg"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2021.eacl-main.61",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.61/"
+}

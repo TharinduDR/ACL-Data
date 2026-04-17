@@ -1,0 +1,18 @@
+{
+  "title": "Autoregressive Reasoning over Chains of Facts with Transformers",
+  "authors": [
+    "Ruben Cartuyvels",
+    "Graham Spinks",
+    "Marie-Francine Moens"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2020.coling-main.610",
+  "acl_url": "https://aclanthology.org/2020.coling-main.610/"
+}

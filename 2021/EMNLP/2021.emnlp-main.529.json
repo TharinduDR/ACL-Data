@@ -1,0 +1,22 @@
+{
+  "title": "QuestEval: Summarization Asks for Fact-based Evaluation",
+  "authors": [
+    "Thomas Scialom",
+    "Paul-Alexis Dray",
+    "Patrick Gallinari",
+    "Sylvain Lamprier",
+    "Benjamin Piwowarski",
+    "Jacopo Staiano",
+    "Alex Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.529",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.529/"
+}

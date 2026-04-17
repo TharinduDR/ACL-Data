@@ -1,0 +1,33 @@
+{
+  "title": "Automated Cognate Detection as a Supervised Link Prediction Task with Cognate Transformer",
+  "authors": [
+    "V.S.D.S. Mahesh Akavarapu",
+    "Arnab Bhattacharya"
+  ],
+  "languages": [
+    "English",
+    "Sanskrit",
+    "Greek",
+    "Latin",
+    "German",
+    "Russian",
+    "Czech",
+    "Chinese",
+    "Japanese",
+    "Romance",
+    "Sino-Tibetan",
+    "Uralic",
+    "Austronesian",
+    "Bai",
+    "Baharic",
+    "Ob-Ugric",
+    "Pama-Nyungan",
+    "Tujia"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2024.eacl-long.58",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.58/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Spacerini: Plug-and-play Search Engines with Pyserini and Hugging Face",
+  "authors": [
+    "Christopher Akiki",
+    "Odunayo Ogundepo",
+    "Aleksandra Piktus",
+    "Xinyu Zhang",
+    "Akintunde Oladipo",
+    "Jimmy Lin",
+    "Martin Potthast"
+  ],
+  "languages": [
+    "French",
+    "English",
+    "Arabic",
+    "Bengali",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2023.emnlp-demo.12",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.12/"
+}

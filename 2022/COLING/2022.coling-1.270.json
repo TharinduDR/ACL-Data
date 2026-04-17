@@ -1,0 +1,21 @@
+{
+  "title": "TreeMAN: Tree-enhanced Multimodal Attention Network for ICD Coding",
+  "authors": [
+    "Zichen Liu",
+    "Xuyuan Liu",
+    "Yanlong Wen",
+    "Guoqing Zhao",
+    "Fen Xia",
+    "Xiaojie Yuan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T17 Multimodality, Cross-modality",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.coling-1.270",
+  "acl_url": "https://aclanthology.org/2022.coling-1.270/"
+}

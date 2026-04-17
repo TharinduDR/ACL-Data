@@ -1,0 +1,18 @@
+{
+  "title": "PortOldBERT: Portuguese Historical Language Models",
+  "authors": [
+    "Tomás Freitas Osório",
+    "Henrique Lopes Cardoso"
+  ],
+  "languages": [
+    "Portuguese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2026.eacl-long.123",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.123/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "A Japanese News Simplification Corpus with Faithfulness",
+  "authors": [
+    "Toru Urakawa",
+    "Yuya Taguchi",
+    "Takuro Niitsuma",
+    "Hideaki Tamori"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T18 Text Summarization",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.lrec-main.57",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.57/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "ExSTRUCTINY: A Benchmark for Schema-Variable Structured Information Extraction from Document Images",
+  "authors": [
+    "Mathieu Sibue",
+    "Andres Muñoz Garza",
+    "Samuel Mensah",
+    "Pranav Shetty",
+    "Zhiqiang Ma",
+    "Xiaomo Liu",
+    "Manuela Veloso"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.265",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.265/"
+}

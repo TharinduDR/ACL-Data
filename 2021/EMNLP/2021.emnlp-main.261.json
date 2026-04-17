@@ -1,0 +1,23 @@
+{
+  "title": "Unsupervised Neural Machine Translation with Universal Grammar",
+  "authors": [
+    "Zuchao Li",
+    "Masao Utiyama",
+    "Eiichiro Sumita",
+    "Hai Zhao"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Romanian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16",
+    "T21",
+    "T14"
+  ],
+  "paper_id": "2021.emnlp-main.261",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.261/"
+}

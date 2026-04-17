@@ -1,0 +1,21 @@
+{
+  "title": "APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning",
+  "authors": [
+    "Jiashuo Sun",
+    "Hang Zhang",
+    "Chen Lin",
+    "Xiangdong Su",
+    "Yeyun Gong",
+    "Jian Guo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.lrec-main.122",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.122/"
+}

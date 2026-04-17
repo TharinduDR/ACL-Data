@@ -1,0 +1,22 @@
+{
+  "title": "KidsArtBench: Multi-Dimensional Children’s Art Evaluation with Attribute-Aware MLLMs",
+  "authors": [
+    "Mingrui Ye",
+    "Chanjin Zheng",
+    "Zengyi Yu",
+    "Chenyu Xiang",
+    "Zhixue Zhao",
+    "Zheng Yuan",
+    "Helen Yannakoudakis"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.267",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.267/"
+}

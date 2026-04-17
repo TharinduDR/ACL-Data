@@ -1,0 +1,21 @@
+{
+  "title": "Schema Aware Semantic Reasoning for Interpreting Natural Language Queries in Enterprise Settings",
+  "authors": [
+    "Jaydeep Sen",
+    "Tanaya Babtiwale",
+    "Kanishk Saxena",
+    "Yash Butala",
+    "Sumit Bhatia",
+    "Karthik Sankaranarayanan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2020.coling-main.115",
+  "acl_url": "https://aclanthology.org/2020.coling-main.115/"
+}

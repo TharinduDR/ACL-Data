@@ -1,0 +1,22 @@
+{
+  "title": "A Multimodal French Corpus of Aligned Speech, Text, and Pictogram Sequences for Speech-to-Pictogram Machine Translation",
+  "authors": [
+    "Cécile Macaire",
+    "Chloé Dion",
+    "Jordan Arrigo",
+    "Claire Lemaire",
+    "Emmanuelle Esperança-Rodier",
+    "Benjamin Lecouteux",
+    "Didier Schwab"
+  ],
+  "languages": [
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.lrec-main.76",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.76/"
+}

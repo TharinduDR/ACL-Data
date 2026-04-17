@@ -1,0 +1,26 @@
+{
+  "title": "Paraphrastic Representations at Scale",
+  "authors": [
+    "John Wieting",
+    "Kevin Gimpel",
+    "Graham Neubig",
+    "Taylor Berg-Kirkpatrick"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Russian",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2022.emnlp-demos.38",
+  "acl_url": "https://aclanthology.org/2022.emnlp-demos.38/"
+}

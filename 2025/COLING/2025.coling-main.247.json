@@ -1,0 +1,22 @@
+{
+  "title": "Multilingual Supervision Improves Semantic Disambiguation of Adpositions",
+  "authors": [
+    "Wesley Scivetti",
+    "Lauren Levine",
+    "Nathan Schneider"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Gujarati",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.coling-main.247",
+  "acl_url": "https://aclanthology.org/2025.coling-main.247/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Improving Unsupervised Neural Machine Translation via Training Data Self-Correction",
+  "authors": [
+    "Jinliang Lu",
+    "Jiajun Zhang"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Romanian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.lrec-main.783",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.783/"
+}

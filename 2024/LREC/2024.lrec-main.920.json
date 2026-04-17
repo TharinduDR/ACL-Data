@@ -1,0 +1,22 @@
+{
+  "title": "Linear Cross-document Event Coreference Resolution with X-AMR",
+  "authors": [
+    "Shafiuddin Rehan Ahmed",
+    "George Arthur Baker",
+    "Evi Judge",
+    "Michael Regan",
+    "Kristin Wright-Bettner",
+    "Martha Palmer",
+    "James H. Martin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.lrec-main.920",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.920/"
+}

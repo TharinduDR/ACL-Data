@@ -1,0 +1,19 @@
+{
+  "title": "SOBR: A Corpus for Stylometry, Obfuscation, and Bias on Reddit",
+  "authors": [
+    "Chris Emmery",
+    "Marilù Miotto",
+    "Sergey Kramp",
+    "Bennett Kleinberg"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2024.lrec-main.1302",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1302/"
+}

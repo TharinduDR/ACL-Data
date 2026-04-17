@@ -1,0 +1,26 @@
+{
+  "title": "Meeting the Needs of Low-Resource Languages: The Value of Automatic Alignments via Pretrained Models",
+  "authors": [
+    "Abteen Ebrahimi",
+    "Arya D. McCarthy",
+    "Arturo Oncevay",
+    "Luis Chiruzzo",
+    "John E. Ortega",
+    "Gustavo A. Giménez-Lugo",
+    "Rolando Coto-Solano",
+    "Katharina Kann"
+  ],
+  "languages": [
+    "Bribri",
+    "Guarani",
+    "Quechua",
+    "Shipibo-Konibo"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.eacl-main.280",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.280/"
+}

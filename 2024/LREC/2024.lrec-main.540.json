@@ -1,0 +1,23 @@
+{
+  "title": "Enhancing Translation Ability of Large Language Models by Leveraging Task-Related Layers",
+  "authors": [
+    "Pei Cheng",
+    "Xiayang Shi",
+    "Yinlin Li"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Arabic",
+    "Spanish",
+    "Portuguese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.lrec-main.540",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.540/"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Nearest Neighbour Few-Shot Learning for Cross-lingual Classification",
+  "authors": [
+    "M Saiful Bari",
+    "Batool Haider",
+    "Saab Mansour"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Greek",
+    "Bulgarian",
+    "Russian",
+    "Turkish",
+    "Arabic",
+    "Vietnamese",
+    "Thai",
+    "Chinese",
+    "Hindi",
+    "Swahili",
+    "Urdu",
+    "Japanese",
+    "Korean"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.131",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.131/"
+}

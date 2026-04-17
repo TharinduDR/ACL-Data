@@ -1,0 +1,22 @@
+{
+  "title": "ReFACT: A Benchmark for Scientific Confabulation Detection with Positional Error Annotations",
+  "authors": [
+    "Yindong Wang",
+    "Martin Preiß",
+    "Margarita Bugueno",
+    "Jan Vincent Hoffbauer",
+    "Abdullatif Ghajar",
+    "Tolga Buz",
+    "Gerard de Melo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2026.eacl-long.381",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.381/"
+}

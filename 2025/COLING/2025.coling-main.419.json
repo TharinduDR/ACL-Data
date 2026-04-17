@@ -1,0 +1,30 @@
+{
+  "title": "Semi-Automated Construction of Sense-Annotated Datasets for Practically Any Language",
+  "authors": [
+    "Jai Riley",
+    "Bradley Hauer",
+    "Nafisa Sadaf Hriti",
+    "Guoqing Luo",
+    "Amirreza Mirzaei",
+    "Ali Rafiei",
+    "Hadi Sheikhi",
+    "Mahvash Siavashpour",
+    "Mohammad Tavakoli",
+    "Ning Shi",
+    "Grzegorz Kondrak"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian",
+    "Persian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.419",
+  "acl_url": "https://aclanthology.org/2025.coling-main.419/"
+}

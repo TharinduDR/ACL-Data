@@ -1,0 +1,19 @@
+{
+  "title": "MultiHumES: Multilingual Humanitarian Response Dataset for Extractive Summarization",
+  "authors": [
+    "Jenny Paola Yela-Bello",
+    "Ewan Oglethorpe",
+    "Navid Rekabsaz"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2021.eacl-main.146",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.146/"
+}

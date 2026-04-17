@@ -1,0 +1,20 @@
+{
+  "title": "EduPulse: A Practical LLM-Enhanced Opinion Mining System for Vietnamese Student Feedback in Educational Platforms",
+  "authors": [
+    "Nguyen Xuan Phuc",
+    "Nguyen Xuan Phi",
+    "Nguyen Vinh Tiep",
+    "Dang Van Thin",
+    "Ngan Luu-Thuy Nguyen"
+  ],
+  "languages": [
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2026.eacl-industry.25",
+  "acl_url": "https://aclanthology.org/2026.eacl-industry.25/"
+}

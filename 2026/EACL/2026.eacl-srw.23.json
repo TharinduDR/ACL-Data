@@ -1,0 +1,21 @@
+{
+  "title": "CAPID: Context-Aware PII Detection for Question-Answering Systems",
+  "authors": [
+    "Mariia Pomarenko",
+    "Sepideh Abedini",
+    "Masoumeh Shafieinejad",
+    "D. B. Emerson",
+    "Shubhankar Mohapatra",
+    "Xi He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.eacl-srw.23",
+  "acl_url": "https://aclanthology.org/2026.eacl-srw.23/"
+}

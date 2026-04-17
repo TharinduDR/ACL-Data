@@ -1,0 +1,27 @@
+{
+  "title": "How Transliterations Improve Crosslingual Alignment",
+  "authors": [
+    "Yihong Liu",
+    "Mingyang Wang",
+    "Amir Hossein Kargaran",
+    "Ayyoob Imani",
+    "Orgest Xhelili",
+    "Haotian Ye",
+    "Chunlan Ma",
+    "François Yvon",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "Polish",
+    "Ukrainian",
+    "Hindi",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.coling-main.165",
+  "acl_url": "https://aclanthology.org/2025.coling-main.165/"
+}

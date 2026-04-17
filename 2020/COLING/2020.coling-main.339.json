@@ -1,0 +1,24 @@
+{
+  "title": "Data Augmentation via Subtree Swapping for Dependency Parsing of Low-Resource Languages",
+  "authors": [
+    "Mathieu Dehouck",
+    "Carlos Gómez-Rodríguez"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Hebrew",
+    "Indonesian",
+    "Russian",
+    "Tamil",
+    "Turkish",
+    "Vietnamese",
+    "Welsh"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.339",
+  "acl_url": "https://aclanthology.org/2020.coling-main.339/"
+}

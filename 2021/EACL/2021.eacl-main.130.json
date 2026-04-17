@@ -1,0 +1,26 @@
+{
+  "title": "The Source-Target Domain Mismatch Problem in Machine Translation",
+  "authors": [
+    "Jiajun Shen",
+    "Peng-Jen Chen",
+    "Matt Le",
+    "Junxian He",
+    "Jiatao Gu",
+    "Myle Ott",
+    "Michael Auli",
+    "Marc'Aurelio Ranzato"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "Nepali",
+    "Myanmar"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.eacl-main.130",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.130/"
+}

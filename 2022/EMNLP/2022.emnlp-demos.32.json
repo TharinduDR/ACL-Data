@@ -1,0 +1,16 @@
+{
+  "title": "Camelira: An Arabic Multi-Dialect Morphological Disambiguator",
+  "authors": [
+    "Ossama Obeid",
+    "Go Inoue",
+    "Nizar Habash"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.emnlp-demos.32",
+  "acl_url": "https://aclanthology.org/2022.emnlp-demos.32/"
+}

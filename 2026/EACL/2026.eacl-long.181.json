@@ -1,0 +1,19 @@
+{
+  "title": "DocPolarBERT: A Pre-trained Model for Document Understanding with Relative Polar Coordinate Encoding of Layout Structures",
+  "authors": [
+    "Benno Uthayasooriyar",
+    "Antoine Ly",
+    "Franck Vermet",
+    "Caio Corro"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2026.eacl-long.181",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.181/"
+}

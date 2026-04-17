@@ -1,0 +1,23 @@
+{
+  "title": "LegalLens: Leveraging LLMs for Legal Violation Identification in Unstructured Text",
+  "authors": [
+    "Dor Bernsohn",
+    "Gil Semo",
+    "Yaron Vazana",
+    "Gila Hayat",
+    "Ben Hagag",
+    "Joel Niklaus",
+    "Rohit Saha",
+    "Kyryl Truskovskyi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2024.eacl-long.130",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.130/"
+}

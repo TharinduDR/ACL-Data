@@ -1,0 +1,31 @@
+{
+  "title": "A Benchmark and Evaluation of Automated Language of Study Extraction from Computational Linguistics Publications",
+  "authors": [
+    "Henry Gagnier",
+    "Ashwin Kirubakaran"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "Portuguese",
+    "Hindi",
+    "Turkish",
+    "Italian",
+    "German",
+    "French",
+    "Arabic",
+    "Spanish",
+    "Russian",
+    "Korean",
+    "Croatian",
+    "Czech",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-srw.26",
+  "acl_url": "https://aclanthology.org/2026.eacl-srw.26/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "MoPE: Mixture of Prefix Experts for Zero-Shot Dialogue State Tracking",
+  "authors": [
+    "Tianwen Tang",
+    "Tong Zhu",
+    "Haodong Liu",
+    "Yin Bai",
+    "Jia Cheng",
+    "Wenliang Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.lrec-main.1012",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1012/"
+}

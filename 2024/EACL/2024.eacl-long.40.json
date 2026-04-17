@@ -1,0 +1,27 @@
+{
+  "title": "Quantifying the Hyperparameter Sensitivity of Neural Networks for Character-level Sequence-to-Sequence Tasks",
+  "authors": [
+    "Adam Wiemerslage",
+    "Kyle Gorman",
+    "Katharina von der Wense"
+  ],
+  "languages": [
+    "Arabic",
+    "Albanian",
+    "Catalan",
+    "Dutch",
+    "German",
+    "Hindi",
+    "Hungarian",
+    "Romanian",
+    "Armenian",
+    "Georgian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.eacl-long.40",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.40/"
+}

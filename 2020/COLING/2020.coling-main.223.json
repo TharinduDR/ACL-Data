@@ -1,0 +1,25 @@
+{
+  "title": "Bracketing Encodings for 2-Planar Dependency Parsing",
+  "authors": [
+    "Michalina Strzyz",
+    "David Vilares",
+    "Carlos Gómez-Rodríguez"
+  ],
+  "languages": [
+    "Ancient Greek",
+    "Basque",
+    "Hungarian",
+    "Portuguese",
+    "Urdu",
+    "Afrikaans",
+    "Korean",
+    "Danish",
+    "Gothic",
+    "Lithuanian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.223",
+  "acl_url": "https://aclanthology.org/2020.coling-main.223/"
+}

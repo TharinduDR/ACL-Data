@@ -1,0 +1,36 @@
+{
+  "title": "M4: Multi-Generator, Multi-Domain, and Multi-Lingual Black-Box Machine-Generated Text Detection",
+  "authors": [
+    "Yuxia Wang",
+    "Jonibek Mansurov",
+    "Petar Ivanov",
+    "Jinyan Su",
+    "Artem Shelmanov",
+    "Akim Tsvigun",
+    "Chenxi Whitehouse",
+    "Osama Mohammed Afzal",
+    "Tarek Mahmoud",
+    "Toru Sasaki",
+    "Thomas Arnold",
+    "Alham Fikri Aji",
+    "Nizar Habash",
+    "Iryna Gurevych",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Russian",
+    "Arabic",
+    "Indonesian",
+    "Bulgarian",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T28 AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.eacl-long.83",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.83/"
+}

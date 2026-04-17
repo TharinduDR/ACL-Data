@@ -1,0 +1,24 @@
+{
+  "title": "A Structure-Aware Argument Encoder for Literature Discourse Analysis",
+  "authors": [
+    "Yinzi Li",
+    "Wei Chen",
+    "Zhongyu Wei",
+    "Yujun Huang",
+    "Chujun Wang",
+    "Siyuan Wang",
+    "Qi Zhang",
+    "Xuanjing Huang",
+    "Libo Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.coling-1.619",
+  "acl_url": "https://aclanthology.org/2022.coling-1.619/"
+}

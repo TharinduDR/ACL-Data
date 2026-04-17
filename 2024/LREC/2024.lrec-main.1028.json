@@ -1,0 +1,25 @@
+{
+  "title": "MultiLeg: Dataset for Text Sanitisation in Less-resourced Languages",
+  "authors": [
+    "Rinalds Viksna",
+    "Inguna Skadiņa",
+    "Roberts Rozis"
+  ],
+  "languages": [
+    "English",
+    "Danish",
+    "Estonian",
+    "Finnish",
+    "Lithuanian",
+    "Latvian",
+    "Polish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2024.lrec-main.1028",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1028/"
+}

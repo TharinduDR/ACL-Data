@@ -1,0 +1,25 @@
+{
+  "title": "VideoMind: Thinking in Steps for Long Video Understanding",
+  "authors": [
+    "Shubhang Bhatnagar",
+    "Rexiong Wang",
+    "Kapil Krishnakumar",
+    "Adel Ahmadyan",
+    "Zhaojiang Lin",
+    "Lambert Mathias",
+    "Xin Luna Dong",
+    "Babak Damavandi",
+    "Narendra Ahuja",
+    "Seungwhan Moon"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2026.eacl-industry.30",
+  "acl_url": "https://aclanthology.org/2026.eacl-industry.30/"
+}

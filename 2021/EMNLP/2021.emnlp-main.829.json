@@ -1,0 +1,19 @@
+{
+  "title": "Block Pruning For Faster Transformers",
+  "authors": [
+    "François Lagunas",
+    "Ella Charlaix",
+    "Victor Sanh",
+    "Alexander M. Rush"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.emnlp-main.829",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.829/"
+}

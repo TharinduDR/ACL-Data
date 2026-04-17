@@ -1,0 +1,20 @@
+{
+  "title": "CHEMNER: Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision",
+  "authors": [
+    "Xuan Wang",
+    "Vivian Hu",
+    "Xiangchen Song",
+    "Shweta Garg",
+    "Jinfeng Xiao",
+    "Jiawei Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.emnlp-main.424",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.424/"
+}

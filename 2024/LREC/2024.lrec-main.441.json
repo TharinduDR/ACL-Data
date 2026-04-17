@@ -1,0 +1,19 @@
+{
+  "title": "DimA: A Parameter-efficient Fine-tuning Method with Knowledge transfer based on Transformer",
+  "authors": [
+    "Wenxuan Zhang",
+    "Min Huang",
+    "Zhuoyang Song",
+    "Qinghai Miao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.441",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.441/"
+}

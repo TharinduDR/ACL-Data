@@ -1,0 +1,22 @@
+{
+  "title": "NeuronMoE: Neuron-Guided Mixture-of-Experts for Efficient Multilingual LLM Extension",
+  "authors": [
+    "Rongzhi Li",
+    "Hitomi Yanaka"
+  ],
+  "languages": [
+    "English",
+    "Greek",
+    "Turkish",
+    "Hungarian",
+    "Bengali",
+    "Nepali"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2026.eacl-long.117",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.117/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Fine-Tuning Medium-Scale LLMs for Joint Intent Classification and Slot Filling: A Data-Efficient and Cost-Effective Solution for SMEs",
+  "authors": [
+    "Maia Aguirre",
+    "Ariane Méndez",
+    "Arantza del Pozo",
+    "María Inés Torres",
+    "Manuel Torralbo"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2025.coling-industry.21",
+  "acl_url": "https://aclanthology.org/2025.coling-industry.21/"
+}

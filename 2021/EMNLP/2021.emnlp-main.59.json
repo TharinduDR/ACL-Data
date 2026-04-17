@@ -1,0 +1,23 @@
+{
+  "title": "The Impact of Positional Encodings on Multilingual Compression",
+  "authors": [
+    "Vinit Ravishankar",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Basque",
+    "Finnish",
+    "French",
+    "Hindi",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.59",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.59/"
+}

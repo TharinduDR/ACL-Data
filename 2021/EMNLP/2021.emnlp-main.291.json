@@ -1,0 +1,20 @@
+{
+  "title": "A Fine-Grained Domain Adaptation Model for Joint Word Segmentation and POS Tagging",
+  "authors": [
+    "Peijie Jiang",
+    "Dingkun Long",
+    "Yueheng Sun",
+    "Meishan Zhang",
+    "Guangwei Xu",
+    "Pengjun Xie"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.emnlp-main.291",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.291/"
+}

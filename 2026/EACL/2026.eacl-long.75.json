@@ -1,0 +1,25 @@
+{
+  "title": "Discourse Graph Guided Document Translation with Large Language Models",
+  "authors": [
+    "Viet-Thanh Pham",
+    "Minghan Wang",
+    "Hao-Han Liao",
+    "Thuy-Trang Vu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "French",
+    "Japanese",
+    "Portuguese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16",
+    "T13",
+    "T08"
+  ],
+  "paper_id": "2026.eacl-long.75",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.75/"
+}

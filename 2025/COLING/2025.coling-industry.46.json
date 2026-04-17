@@ -1,0 +1,19 @@
+{
+  "title": "KARRIEREWEGE: A Large Scale Career Path Prediction Dataset",
+  "authors": [
+    "Elena Senger",
+    "Yuri Campbell",
+    "Rob van der Goot",
+    "Barbara Plank"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.coling-industry.46",
+  "acl_url": "https://aclanthology.org/2025.coling-industry.46/"
+}

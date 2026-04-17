@@ -1,0 +1,17 @@
+{
+  "title": "Joint Persian Word Segmentation Correction and Zero-Width Non-Joiner Recognition Using BERT",
+  "authors": [
+    "Ehsan Doostmohammadi",
+    "Minoo Nassajian",
+    "Adel Rahimi"
+  ],
+  "languages": [
+    "Persian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2020.coling-main.406",
+  "acl_url": "https://aclanthology.org/2020.coling-main.406/"
+}

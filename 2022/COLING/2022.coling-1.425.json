@@ -1,0 +1,18 @@
+{
+  "title": "KNOT: Knowledge Distillation using Optimal Transport for Solving NLP Tasks",
+  "authors": [
+    "Rishabh Bhardwaj",
+    "Tushar Vaidya",
+    "Soujanya Poria"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.coling-1.425",
+  "acl_url": "https://aclanthology.org/2022.coling-1.425/"
+}

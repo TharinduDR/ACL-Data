@@ -1,0 +1,31 @@
+{
+  "title": "A Dataset for Pharmacovigilance in German, French, and Japanese: Annotating Adverse Drug Reactions across Languages",
+  "authors": [
+    "Lisa Raithel",
+    "Hui-Syuan Yeh",
+    "Shuntaro Yada",
+    "Cyril Grouin",
+    "Thomas Lavergne",
+    "Aurélie Névéol",
+    "Patrick Paroubek",
+    "Philippe Thomas",
+    "Tomohiro Nishiyama",
+    "Sebastian Möller",
+    "Eiji Aramaki",
+    "Yuji Matsumoto",
+    "Roland Roller",
+    "Pierre Zweigenbaum"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2024.lrec-main.36",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.36/"
+}

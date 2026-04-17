@@ -1,0 +1,20 @@
+{
+  "title": "Are Pretrained Multilingual Models Equally Fair Across Languages?",
+  "authors": [
+    "Laura Cabello Piqueras",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.coling-1.318",
+  "acl_url": "https://aclanthology.org/2022.coling-1.318/"
+}

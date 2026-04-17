@@ -1,0 +1,20 @@
+{
+  "title": "Automated Clinical Data Extraction with Knowledge Conditioned LLMs",
+  "authors": [
+    "Diya Li",
+    "Asim Kadav",
+    "Aijing Gao",
+    "Rui Li",
+    "Richard Bourgon"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.coling-industry.13",
+  "acl_url": "https://aclanthology.org/2025.coling-industry.13/"
+}

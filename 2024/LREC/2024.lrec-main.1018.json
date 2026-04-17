@@ -1,0 +1,33 @@
+{
+  "title": "MoZIP: A Multilingual Benchmark to Evaluate Large Language Models in Intellectual Property",
+  "authors": [
+    "Shiwen Ni",
+    "Minghuan Tan",
+    "Yuelin Bai",
+    "Fuqiang Niu",
+    "Min Yang",
+    "Bowen Zhang",
+    "Ruifeng Xu",
+    "Xiaojun Chen",
+    "Ye Li",
+    "Jianping Fan"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Japanese",
+    "French",
+    "Russian",
+    "Spanish",
+    "Portuguese",
+    "Catalan"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2024.lrec-main.1018",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1018/"
+}

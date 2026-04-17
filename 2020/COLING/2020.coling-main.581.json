@@ -1,0 +1,18 @@
+{
+  "title": "RoBERT - A Romanian BERT Model",
+  "authors": [
+    "Mihai Masala",
+    "Stefan Ruseti",
+    "Mihai Dascalu"
+  ],
+  "languages": [
+    "Romanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.coling-main.581",
+  "acl_url": "https://aclanthology.org/2020.coling-main.581/"
+}

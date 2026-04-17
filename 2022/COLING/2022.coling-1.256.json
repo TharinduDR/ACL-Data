@@ -1,0 +1,20 @@
+{
+  "title": "Doc-GCN: Heterogeneous Graph Convolutional Networks for Document Layout Analysis",
+  "authors": [
+    "Siwen Luo",
+    "Yihao Ding",
+    "Siqu Long",
+    "Josiah Poon",
+    "Soyeon Caren Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.coling-1.256",
+  "acl_url": "https://aclanthology.org/2022.coling-1.256/"
+}

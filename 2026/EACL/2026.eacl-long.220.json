@@ -1,0 +1,24 @@
+{
+  "title": "Unlocking Latent Discourse Translation in LLMs Through Quality-Aware Decoding",
+  "authors": [
+    "Wafaa Mohammed",
+    "Vlad Niculae",
+    "Chrysoula Zerva"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "German",
+    "French",
+    "Korean",
+    "Arabic",
+    "Russian"
+  ],
+  "research_areas": [
+    "T05 Discourse and Pragmatics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.220",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.220/"
+}

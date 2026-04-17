@@ -1,0 +1,22 @@
+{
+  "title": "TEXT-CAKE: Challenging Language Models on Local Text Coherence",
+  "authors": [
+    "Luca Dini",
+    "Dominique Brunato",
+    "Felice Dell'Orletta",
+    "Tommaso Caselli"
+  ],
+  "languages": [
+    "Italian",
+    "Spanish",
+    "Dutch",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.coling-main.296",
+  "acl_url": "https://aclanthology.org/2025.coling-main.296/"
+}

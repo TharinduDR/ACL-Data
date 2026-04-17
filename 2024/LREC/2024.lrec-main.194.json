@@ -1,0 +1,21 @@
+{
+  "title": "BEIR-PL: Zero Shot Information Retrieval Benchmark for the Polish Language",
+  "authors": [
+    "Konrad Wojtasik",
+    "Vadim Shishkin",
+    "Kacper Wołowiec",
+    "Arkadiusz Janz",
+    "Maciej Piasecki"
+  ],
+  "languages": [
+    "Polish",
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.194",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.194/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Respecting Temporal-Causal Consistency: Entity-Event Knowledge Graph for Retrieval-Augmented Generation",
+  "authors": [
+    "Ze Yu Zhang",
+    "Zitao Li",
+    "Yaliang Li",
+    "Bolin Ding",
+    "Bryan Kian Hsiang Low"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2026.eacl-long.90",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.90/"
+}

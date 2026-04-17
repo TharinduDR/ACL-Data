@@ -1,0 +1,32 @@
+{
+  "title": "ChatGPT Role-play Dataset: Analysis of User Motives and Model Naturalness",
+  "authors": [
+    "Yufei Tao",
+    "Ameeta Agrawal",
+    "Judit Dombi",
+    "Tetyana Sydorenko",
+    "Jung In Lee"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Chinese",
+    "English",
+    "Gujarati",
+    "Hindi",
+    "Hungarian",
+    "Malay",
+    "Nepali",
+    "Persian",
+    "Sakha",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T05 Discourse and Pragmatics",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.lrec-main.278",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.278/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Effects of Parameter Norm Growth During Transformer Training: Inductive Bias from Gradient Descent",
+  "authors": [
+    "William Merrill",
+    "Vivek Ramanujan",
+    "Yoav Goldberg",
+    "Roy Schwartz",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.emnlp-main.133",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.133/"
+}

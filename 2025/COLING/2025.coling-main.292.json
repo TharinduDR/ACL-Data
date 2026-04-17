@@ -1,0 +1,19 @@
+{
+  "title": "Towards Efficient and Robust VQA-NLE Data Generation with Large Vision-Language Models",
+  "authors": [
+    "Patrick Amadeus Irawan",
+    "Genta Indra Winata",
+    "Samuel Cahyawijaya",
+    "Ayu Purwarianti"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.coling-main.292",
+  "acl_url": "https://aclanthology.org/2025.coling-main.292/"
+}

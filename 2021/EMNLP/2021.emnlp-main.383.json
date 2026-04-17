@@ -1,0 +1,21 @@
+{
+  "title": "Mixture-of-Partitions: Infusing Large Biomedical Knowledge Graphs into BERT",
+  "authors": [
+    "Zaiqiao Meng",
+    "Fangyu Liu",
+    "Thomas Hikaru Clark",
+    "Ehsan Shareghi",
+    "Nigel Collier"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2021.emnlp-main.383",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.383/"
+}

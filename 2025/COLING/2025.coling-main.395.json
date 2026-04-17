@@ -1,0 +1,19 @@
+{
+  "title": "JMedBench: A Benchmark for Evaluating Japanese Biomedical Large Language Models",
+  "authors": [
+    "Junfeng Jiang",
+    "Jiahao Huang",
+    "Akiko Aizawa"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.coling-main.395",
+  "acl_url": "https://aclanthology.org/2025.coling-main.395/"
+}

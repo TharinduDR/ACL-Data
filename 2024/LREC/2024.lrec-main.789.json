@@ -1,0 +1,21 @@
+{
+  "title": "IndicFinNLP: Financial Natural Language Processing for Indian Languages",
+  "authors": [
+    "Sohom Ghosh",
+    "Arnab Maji",
+    "Aswartha Narayana",
+    "Sudip Kumar Naskar"
+  ],
+  "languages": [
+    "Hindi",
+    "Bengali",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.lrec-main.789",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.789/"
+}

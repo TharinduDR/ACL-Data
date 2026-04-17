@@ -1,0 +1,49 @@
+{
+  "title": "Streamlining Biomedical Research with Specialized LLMs",
+  "authors": [
+    "Linqing Chen",
+    "Weilei Wang",
+    "Yubin Xia",
+    "Wentao Wu",
+    "Peng Xu",
+    "Zilong Bai",
+    "Jie Fang",
+    "Chaobo Xu",
+    "Ran Hu",
+    "Licong Xu",
+    "Haoran Hua",
+    "Jing Sun",
+    "Hanmeng Zhong",
+    "Jin Liu",
+    "Tian Qiu",
+    "Haowen Liu",
+    "Meng Hu",
+    "Xiuwen Li",
+    "Fei Gao",
+    "Yong Gu",
+    "Tao Shi",
+    "Chaochao Wang",
+    "Jianping Lu",
+    "Cheng Sun",
+    "Yixin Wang",
+    "Shengjie Yang",
+    "Yuancheng Li",
+    "Lu Jin",
+    "Lisha Zhang",
+    "Fu Bian",
+    "Zhongkai Ye",
+    "Lidong Pei",
+    "Changyang Tu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.coling-demos.2",
+  "acl_url": "https://aclanthology.org/2025.coling-demos.2/"
+}

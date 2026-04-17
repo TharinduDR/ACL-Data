@@ -1,0 +1,23 @@
+{
+  "title": "HYP MIX: Hyperbolic Interpolative Data Augmentation",
+  "authors": [
+    "Ramit Sawhney",
+    "Megh Thakkar",
+    "Shivam Agarwal",
+    "Di Jin",
+    "Diyi Yang",
+    "Lucie Flek"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2021.emnlp-main.776",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.776/"
+}

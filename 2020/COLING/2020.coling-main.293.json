@@ -1,0 +1,20 @@
+{
+  "title": "Sentence Matching with Syntax- and Semantics-Aware BERT",
+  "authors": [
+    "Tao Liu",
+    "Xin Wang",
+    "Chengguo Lv",
+    "Ranran Zhen",
+    "Guohong Fu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.coling-main.293",
+  "acl_url": "https://aclanthology.org/2020.coling-main.293/"
+}

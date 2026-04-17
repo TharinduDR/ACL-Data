@@ -1,0 +1,24 @@
+{
+  "title": "MedConQA: Medical Conversational Question Answering System based on Knowledge Graphs",
+  "authors": [
+    "Fei Xia",
+    "Bin Li",
+    "Yixuan Weng",
+    "Shizhu He",
+    "Kang Liu",
+    "Bin Sun",
+    "Shutao Li",
+    "Jun Zhao"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.emnlp-demos.15",
+  "acl_url": "https://aclanthology.org/2022.emnlp-demos.15/"
+}

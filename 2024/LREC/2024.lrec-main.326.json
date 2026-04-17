@@ -1,0 +1,21 @@
+{
+  "title": "CONAN-MT-SP: A Spanish Corpus for Counternarrative using GPT Models",
+  "authors": [
+    "M. Estrella Valleccillo-Rodríguez",
+    "M. Victoria Cantero-Romero",
+    "Isabel Cabrera-de-Castro",
+    "Arturo Montejo Ráez",
+    "M. Teresa Martín-Valdivia"
+  ],
+  "languages": [
+    "Spanish",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.lrec-main.326",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.326/"
+}

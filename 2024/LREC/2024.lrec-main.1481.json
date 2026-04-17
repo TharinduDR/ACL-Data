@@ -1,0 +1,22 @@
+{
+  "title": "UniPCM: Universal Pre-trained Conversation Model with Task-aware Automatic Prompt",
+  "authors": [
+    "Yucheng Cai",
+    "Wentao Ma",
+    "Yuchuan Wu",
+    "Shuzheng Si",
+    "Yuan Shao",
+    "Zhijian Ou",
+    "Yongbin Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.1481",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1481/"
+}

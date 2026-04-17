@@ -1,0 +1,29 @@
+{
+  "title": "ConvLab-3: A Flexible Dialogue System Toolkit Based on a Unified Data Format",
+  "authors": [
+    "Qi Zhu",
+    "Christian Geishauser",
+    "Hsien-chin Lin",
+    "Carel van Niekerk",
+    "Baolin Peng",
+    "Zheng Zhang",
+    "Shutong Feng",
+    "Michael Heck",
+    "Nurul Lubis",
+    "Dazhen Wan",
+    "Xiaochen Zhu",
+    "Jianfeng Gao",
+    "Milica Gašić",
+    "Minlie Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.emnlp-demo.9",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.9/"
+}

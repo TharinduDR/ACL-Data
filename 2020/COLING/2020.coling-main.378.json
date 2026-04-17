@@ -1,0 +1,20 @@
+{
+  "title": "Bilingual Subword Segmentation for Neural Machine Translation",
+  "authors": [
+    "Hiroyuki Deguchi",
+    "Masao Utiyama",
+    "Akihiro Tamura",
+    "Takashi Ninomiya",
+    "Eiichiro Sumita"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.coling-main.378",
+  "acl_url": "https://aclanthology.org/2020.coling-main.378/"
+}

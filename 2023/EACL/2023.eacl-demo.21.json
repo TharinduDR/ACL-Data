@@ -1,0 +1,21 @@
+{
+  "title": "TermoUD — a language-independent terminology extraction tool",
+  "authors": [
+    "Małgorzata Marciniak",
+    "Piotr Rychlik",
+    "Agnieszka Mykowiecka"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Dutch",
+    "Slovenian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.eacl-demo.21",
+  "acl_url": "https://aclanthology.org/2023.eacl-demo.21/"
+}

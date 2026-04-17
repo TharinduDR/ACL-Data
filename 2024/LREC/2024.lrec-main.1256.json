@@ -1,0 +1,20 @@
+{
+  "title": "SciDMT: A Large-Scale Corpus for Detecting Scientific Mentions",
+  "authors": [
+    "Huitong Pan",
+    "Qi Zhang",
+    "Cornelia Caragea",
+    "Eduard Dragut",
+    "Longin Jan Latecki"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.1256",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1256/"
+}

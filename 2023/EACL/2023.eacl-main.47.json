@@ -1,0 +1,21 @@
+{
+  "title": "ViHOS: Hate Speech Spans Detection for Vietnamese",
+  "authors": [
+    "Phu Gia Hoang",
+    "Canh Duc Luu",
+    "Khanh Quoc Tran",
+    "Kiet Van Nguyen",
+    "Ngan Luu-Thuy Nguyen"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.eacl-main.47",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.47/"
+}

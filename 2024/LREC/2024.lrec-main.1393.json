@@ -1,0 +1,24 @@
+{
+  "title": "The ParlaSent Multilingual Training Dataset for Sentiment Identification in Parliamentary Proceedings",
+  "authors": [
+    "Michal Mochtak",
+    "Peter Rupnik",
+    "Nikola Ljubešić"
+  ],
+  "languages": [
+    "English",
+    "Bosnian",
+    "Croatian",
+    "Serbian",
+    "Slovak",
+    "Slovenian",
+    "Czech"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.lrec-main.1393",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1393/"
+}

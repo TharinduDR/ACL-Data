@@ -1,0 +1,19 @@
+{
+  "title": "UrduMASD: a Multimodal Abstractive Summarization Dataset for Urdu",
+  "authors": [
+    "Ali Faheem",
+    "Faizad Ullah",
+    "Muhammad Sohaib Ayub",
+    "Asim Karim"
+  ],
+  "languages": [
+    "Urdu",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.lrec-main.1498",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1498/"
+}

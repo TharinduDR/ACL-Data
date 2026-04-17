@@ -1,0 +1,23 @@
+{
+  "title": "LatEval: An Interactive LLMs Evaluation Benchmark with Incomplete Information from Lateral Thinking Puzzles",
+  "authors": [
+    "Shulin Huang",
+    "Shirong Ma",
+    "Yinghui Li",
+    "Mengzuo Huang",
+    "Wuhe Zou",
+    "Weidong Zhang",
+    "Hai-Tao Zheng"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.lrec-main.889",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.889/"
+}

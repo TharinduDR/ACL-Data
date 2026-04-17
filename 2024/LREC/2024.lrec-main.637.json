@@ -1,0 +1,25 @@
+{
+  "title": "Few-shot Temporal Pruning Accelerates Diffusion Models for Text Generation",
+  "authors": [
+    "Bocheng Li",
+    "Zhujin Gao",
+    "Yongxin Zhu",
+    "Kun Yin",
+    "Haoyu Cao",
+    "Deqiang Jiang",
+    "Linli Xu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.lrec-main.637",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.637/"
+}

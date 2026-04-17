@@ -1,0 +1,20 @@
+{
+  "title": "Challenges in Automated Debiasing for Toxic Language Detection",
+  "authors": [
+    "Xuhui Zhou",
+    "Maarten Sap",
+    "Swabha Swayamdipta",
+    "Noah A. Smith",
+    "Yejin Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2021.eacl-main.274",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.274/"
+}

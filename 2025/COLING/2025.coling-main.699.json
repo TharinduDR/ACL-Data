@@ -1,0 +1,34 @@
+{
+  "title": "IberoBench: A Benchmark for LLM Evaluation in Iberian Languages",
+  "authors": [
+    "Irene Baucells",
+    "Javier Aula-Blasco",
+    "Iria de-Dios-Flores",
+    "Silvia Paniagua Suárez",
+    "Naiara Perez",
+    "Anna Sallès",
+    "Susana Sotelo Docio",
+    "Júlia Falcão",
+    "José Javier Saiz",
+    "Robiért Sepúlveda Torres",
+    "Jeremy Barnes",
+    "Pablo Gamallo",
+    "Aitor Gonzalez-Agirre",
+    "German Rigau",
+    "Marta Villegas"
+  ],
+  "languages": [
+    "Catalan",
+    "Spanish",
+    "Basque",
+    "Galician",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.coling-main.699",
+  "acl_url": "https://aclanthology.org/2025.coling-main.699/"
+}

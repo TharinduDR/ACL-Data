@@ -1,0 +1,22 @@
+{
+  "title": "CMQA: A Dataset of Conditional Question Answering with Multiple-Span Answers",
+  "authors": [
+    "Yiming Ju",
+    "Weikang Wang",
+    "Yuanzhe Zhang",
+    "Suncong Zheng",
+    "Kang Liu",
+    "Jun Zhao"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.coling-1.146",
+  "acl_url": "https://aclanthology.org/2022.coling-1.146/"
+}

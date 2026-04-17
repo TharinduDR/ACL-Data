@@ -1,0 +1,20 @@
+{
+  "title": "IsOBS: An Information System for Oracle Bone Script",
+  "authors": [
+    "Xu Han",
+    "Yuzhuo Bai",
+    "Keyue Qiu",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.emnlp-demos.29",
+  "acl_url": "https://aclanthology.org/2020.emnlp-demos.29/"
+}

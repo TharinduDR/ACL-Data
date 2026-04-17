@@ -1,0 +1,21 @@
+{
+  "title": "CharBERT: Character-aware Pre-trained Language Model",
+  "authors": [
+    "Wentao Ma",
+    "Yiming Cui",
+    "Chenglei Si",
+    "Ting Liu",
+    "Shijin Wang",
+    "Guoping Hu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.coling-main.4",
+  "acl_url": "https://aclanthology.org/2020.coling-main.4/"
+}

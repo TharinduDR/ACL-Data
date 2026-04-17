@@ -1,0 +1,23 @@
+{
+  "title": "Neural Transduction for Multilingual Lexical Translation",
+  "authors": [
+    "Dylan Lewis",
+    "Winston Wu",
+    "Arya D. McCarthy",
+    "David Yarowsky"
+  ],
+  "languages": [
+    "French",
+    "Spanish",
+    "Italian",
+    "Romanian",
+    "Portuguese",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.coling-main.387",
+  "acl_url": "https://aclanthology.org/2020.coling-main.387/"
+}

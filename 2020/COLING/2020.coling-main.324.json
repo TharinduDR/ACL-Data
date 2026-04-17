@@ -1,0 +1,47 @@
+{
+  "title": "Increasing Learning Efficiency of Self-Attention Networks through Direct Position Interactions, Learnable Temperature, and Convoluted Attention",
+  "authors": [
+    "Philipp Dufter",
+    "Martin Schmitt",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Basque",
+    "Bulgarian",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Greek",
+    "Hebrew",
+    "Hungarian",
+    "Korean",
+    "Latin",
+    "Norwegian",
+    "Old Church Slavonic",
+    "Persian",
+    "Polish",
+    "Portuguese",
+    "Serbian",
+    "Slovak",
+    "Slovenian",
+    "Spanish",
+    "Swedish",
+    "Ukrainian",
+    "Urdu",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.324",
+  "acl_url": "https://aclanthology.org/2020.coling-main.324/"
+}

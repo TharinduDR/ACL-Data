@@ -1,0 +1,20 @@
+{
+  "title": "BANER: Boundary-Aware LLMs for Few-Shot Named Entity Recognition",
+  "authors": [
+    "Quanjiang Guo",
+    "Yihong Dong",
+    "Ling Tian",
+    "Zhao Kang",
+    "Yu Zhang",
+    "Sijie Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.coling-main.691",
+  "acl_url": "https://aclanthology.org/2025.coling-main.691/"
+}

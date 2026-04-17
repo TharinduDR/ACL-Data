@@ -1,0 +1,19 @@
+{
+  "title": "pyTLEX: A Python Library for TimeLine EXtraction",
+  "authors": [
+    "Akul Singh",
+    "Jared Hummer",
+    "Mustafa Ocal",
+    "Mark Finlayson"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.eacl-demo.4",
+  "acl_url": "https://aclanthology.org/2024.eacl-demo.4/"
+}

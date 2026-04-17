@@ -1,0 +1,21 @@
+{
+  "title": "Paraphrase Generation Evaluation Powered by an LLM: A Semantic Metric, Not a Lexical One",
+  "authors": [
+    "Quentin Lemesle",
+    "Jonathan Chevelu",
+    "Philippe Martin",
+    "Damien Lolive",
+    "Arnaud Delhay",
+    "Nelly Barbot"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.coling-main.538",
+  "acl_url": "https://aclanthology.org/2025.coling-main.538/"
+}

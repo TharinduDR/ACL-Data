@@ -1,0 +1,27 @@
+{
+  "title": "MULTIMUC: Multilingual Template Filling on MUC-4",
+  "authors": [
+    "William Gantt",
+    "Shabnam Behzad",
+    "Hannah YoungEun An",
+    "Yunmo Chen",
+    "Aaron Steven White",
+    "Benjamin Van Durme",
+    "Mahsa Yarmohammadi"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Persian",
+    "Korean",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.eacl-long.21",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.21/"
+}

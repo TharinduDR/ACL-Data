@@ -1,0 +1,44 @@
+{
+  "title": "A Survey on Multilingual Mental Disorders Detection from Social Media Data",
+  "authors": [
+    "Ana-Maria Bucur",
+    "Marcos Zampieri",
+    "Tharindu Ranasinghe",
+    "Fabio Crestani"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Chinese",
+    "Dutch",
+    "English",
+    "Filipino",
+    "French",
+    "German",
+    "Greek",
+    "Hebrew",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Persian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Sinhala",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T23 Social Media Processing",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2026.eacl-long.39",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.39/"
+}

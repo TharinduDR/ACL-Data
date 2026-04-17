@@ -1,0 +1,25 @@
+{
+  "title": "Instruction Tuning with and without Context: Behavioral Shifts and Downstream Impact",
+  "authors": [
+    "Hyunji Lee",
+    "Seunghyun Yoon",
+    "Yunjae Won",
+    "Hanseok Oh",
+    "Geewook Kim",
+    "Trung Bui",
+    "Franck Dernoncourt",
+    "Mohit Bansal",
+    "Minjoon Seo",
+    "Elias Stengel-Eskin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.320",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.320/"
+}

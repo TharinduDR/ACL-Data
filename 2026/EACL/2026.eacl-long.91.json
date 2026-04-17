@@ -1,0 +1,29 @@
+{
+  "title": "Knowledge Extraction on Semi-Structured Content: Does It Remain Relevant for Question Answering in the Era of LLMs?",
+  "authors": [
+    "Kai Sun",
+    "Yin Huang",
+    "Srishti Mehra",
+    "Mohammad Kachuee",
+    "Xilun Chen",
+    "Renjie Tao",
+    "Zhaojiang Lin",
+    "Andrea Jessee",
+    "Nirav Shah",
+    "Alex Betty",
+    "Yue Liu",
+    "Anuj Kumar",
+    "Wen-tau Yih",
+    "Xin Luna Dong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2026.eacl-long.91",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.91/"
+}

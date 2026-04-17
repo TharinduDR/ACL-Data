@@ -1,0 +1,19 @@
+{
+  "title": "Lexical Normalization for Code-switched Data and its Effect on POS Tagging",
+  "authors": [
+    "Rob van der Goot",
+    "Özlem Çetinoğlu"
+  ],
+  "languages": [
+    "Indonesian",
+    "English",
+    "Turkish",
+    "German"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2021.eacl-main.200",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.200/"
+}

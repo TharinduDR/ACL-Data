@@ -1,0 +1,21 @@
+{
+  "title": "Target-Guided Open-Domain Conversation Planning",
+  "authors": [
+    "Yosuke Kishinami",
+    "Reina Akama",
+    "Shiki Sato",
+    "Ryoko Tokuhisa",
+    "Jun Suzuki",
+    "Kentaro Inui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.coling-1.55",
+  "acl_url": "https://aclanthology.org/2022.coling-1.55/"
+}

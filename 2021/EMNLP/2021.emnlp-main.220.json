@@ -1,0 +1,24 @@
+{
+  "title": "Less is More: Pre-train a Strong Text Encoder for Dense Retrieval Using a Weak Decoder",
+  "authors": [
+    "Shuqi Lu",
+    "Di He",
+    "Chenyan Xiong",
+    "Guolin Ke",
+    "Waleed Malik",
+    "Zhicheng Dou",
+    "Paul Bennett",
+    "Tie-Yan Liu",
+    "Arnold Overwijk"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2021.emnlp-main.220",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.220/"
+}

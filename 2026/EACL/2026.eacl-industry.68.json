@@ -1,0 +1,18 @@
+{
+  "title": "Lightweight Domain-Specific Language Model for Real-Time Structuring of Medical Prescriptions",
+  "authors": [
+    "Jonathan Pattin Cottet",
+    "Véronique Eglin",
+    "Alexandre Aussem"
+  ],
+  "languages": [
+    "French"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2026.eacl-industry.68",
+  "acl_url": "https://aclanthology.org/2026.eacl-industry.68/"
+}

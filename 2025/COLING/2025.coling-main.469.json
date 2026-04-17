@@ -1,0 +1,21 @@
+{
+  "title": "TOP-Training: Target-Oriented Pretraining for Medical Extractive Question Answering",
+  "authors": [
+    "Saptarshi Sengupta",
+    "Connor Heaton",
+    "Shreya Ghosh",
+    "Wenpeng Yin",
+    "Preslav Nakov",
+    "Suhang Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.coling-main.469",
+  "acl_url": "https://aclanthology.org/2025.coling-main.469/"
+}

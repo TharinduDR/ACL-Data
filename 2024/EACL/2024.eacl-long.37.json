@@ -1,0 +1,27 @@
+{
+  "title": "MAFIA: Multi-Adapter Fused Inclusive Language Models",
+  "authors": [
+    "Prachi Jain",
+    "Ashutosh Sathe",
+    "Varun Gumma",
+    "Kabir Ahuja",
+    "Sunayana Sitaram"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Hindi",
+    "Tamil",
+    "Marathi",
+    "Swahili",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.eacl-long.37",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.37/"
+}

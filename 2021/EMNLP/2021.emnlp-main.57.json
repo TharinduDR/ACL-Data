@@ -1,0 +1,23 @@
+{
+  "title": "Smelting Gold and Silver for Improved Multilingual AMR-to-Text Generation",
+  "authors": [
+    "Leonardo F. R. Ribeiro",
+    "Jonas Pfeiffer",
+    "Yue Zhang",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.emnlp-main.57",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.57/"
+}

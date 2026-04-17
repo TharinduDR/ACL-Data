@@ -1,0 +1,26 @@
+{
+  "title": "An Automated End-to-End Open-Source Software for High-Quality Text-to-Speech Dataset Generation",
+  "authors": [
+    "Ahmet Gunduz",
+    "Kamer Ali Yuksel",
+    "Kareem Darwish",
+    "Golara Javadi",
+    "Fabio Minazzi",
+    "Nicola Sobieski",
+    "Sébastien Bratières"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "Spanish",
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.93",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.93/"
+}

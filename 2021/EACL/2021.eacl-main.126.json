@@ -1,0 +1,18 @@
+{
+  "title": "SICK-NL: A Dataset for Dutch Natural Language Inference",
+  "authors": [
+    "Gijs Wijnholds",
+    "Michael Moortgat"
+  ],
+  "languages": [
+    "English",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2021.eacl-main.126",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.126/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "ProSparse: Introducing and Enhancing Intrinsic Activation Sparsity within Large Language Models",
+  "authors": [
+    "Chenyang Song",
+    "Xu Han",
+    "Zhengyan Zhang",
+    "Shengding Hu",
+    "Xiyu Shi",
+    "Kuai Li",
+    "Chen Chen",
+    "Zhiyuan Liu",
+    "Guangli Li",
+    "Tao Yang",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.coling-main.180",
+  "acl_url": "https://aclanthology.org/2025.coling-main.180/"
+}

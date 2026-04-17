@@ -1,0 +1,23 @@
+{
+  "title": "COF: Adaptive Chain of Feedback for Comparative Opinion Quintuple Extraction",
+  "authors": [
+    "Qingting Xu",
+    "Kaisong Song",
+    "Chaoqun Liu",
+    "Yangyang Kang",
+    "Xiabing Zhou",
+    "Jun Lin",
+    "Yu Hong"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.coling-main.217",
+  "acl_url": "https://aclanthology.org/2025.coling-main.217/"
+}

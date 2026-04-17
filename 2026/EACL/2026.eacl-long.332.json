@@ -1,0 +1,25 @@
+{
+  "title": "DeepInsert: Early Layer Bypass for Efficient and Performant Multimodal Understanding",
+  "authors": [
+    "Moulik Choraria",
+    "Xinbo Wu",
+    "Akhil Bhimaraju",
+    "Nitesh Sekhar",
+    "Yue Wu",
+    "Xu Zhang",
+    "Prateek Singhal",
+    "Lav R. Varshney"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Audio"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2026.eacl-long.332",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.332/"
+}

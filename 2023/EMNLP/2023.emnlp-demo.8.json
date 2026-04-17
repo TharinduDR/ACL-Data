@@ -1,0 +1,22 @@
+{
+  "title": "Sudowoodo: a Chinese Lyric Imitation System with Source Lyrics",
+  "authors": [
+    "Yongzhu Chang",
+    "Rongsheng Zhang",
+    "Lin Jiang",
+    "Qihang Chen",
+    "Le Zhang",
+    "Jiashu Pu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.emnlp-demo.8",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.8/"
+}

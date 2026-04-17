@@ -1,0 +1,22 @@
+{
+  "title": "CSDS: A Fine-Grained Chinese Dataset for Customer Service Dialogue Summarization",
+  "authors": [
+    "Haitao Lin",
+    "Liqun Ma",
+    "Junnan Zhu",
+    "Lu Xiang",
+    "Yu Zhou",
+    "Jiajun Zhang",
+    "Chengqing Zong"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.emnlp-main.365",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.365/"
+}

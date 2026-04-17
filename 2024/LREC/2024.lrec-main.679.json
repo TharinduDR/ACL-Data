@@ -1,0 +1,20 @@
+{
+  "title": "GerDISDETECT: A German Multilabel Dataset for Disinformation Detection",
+  "authors": [
+    "Mina Schütz",
+    "Daniela Pisoiu",
+    "Daria Liakhovets",
+    "Alexander Schindler",
+    "Melanie Siegel"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.lrec-main.679",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.679/"
+}

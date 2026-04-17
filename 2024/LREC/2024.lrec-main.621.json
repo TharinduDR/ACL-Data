@@ -1,0 +1,21 @@
+{
+  "title": "FaGANet: An Evidence-Based Fact-Checking Model with Integrated Encoder Leveraging Contextual Information",
+  "authors": [
+    "Weiyao Luo",
+    "Junfeng Ran",
+    "Zailong Tian",
+    "Sujian Li",
+    "Zhifang Su"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2024.lrec-main.621",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.621/"
+}

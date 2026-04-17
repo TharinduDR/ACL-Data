@@ -1,0 +1,20 @@
+{
+  "title": "Knowledge-enriched, Type-constrained and Grammar-guided Question Generation over Knowledge Bases",
+  "authors": [
+    "Sheng Bi",
+    "Xiya Cheng",
+    "Yuan-Fang Li",
+    "Yongzhen Wang",
+    "Guilin Qi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.coling-main.250",
+  "acl_url": "https://aclanthology.org/2020.coling-main.250/"
+}

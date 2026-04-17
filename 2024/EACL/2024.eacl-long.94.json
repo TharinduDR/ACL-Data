@@ -1,0 +1,37 @@
+{
+  "title": "Translate to Disambiguate: Zero-shot Multilingual Word Sense Disambiguation with Pretrained Language Models",
+  "authors": [
+    "Haoqiang Kang",
+    "Terra Blevins",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Spanish",
+    "Russian",
+    "Finnish",
+    "Basque",
+    "Bulgarian",
+    "Catalan",
+    "Croatian",
+    "Danish",
+    "Dutch",
+    "Estonian",
+    "Galician",
+    "German",
+    "Hungarian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Slovenian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.eacl-long.94",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.94/"
+}

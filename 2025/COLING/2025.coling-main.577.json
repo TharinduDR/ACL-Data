@@ -1,0 +1,20 @@
+{
+  "title": "A Chain-of-Task Framework for Instruction Tuning of LLMs Based on Chinese Grammatical Error Correction",
+  "authors": [
+    "Xinpeng Liu",
+    "Bing Xu",
+    "Muyun Yang",
+    "Hailong Cao",
+    "Conghui Zhu",
+    "Tiejun Zhao",
+    "Wenpeng Lu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.coling-main.577",
+  "acl_url": "https://aclanthology.org/2025.coling-main.577/"
+}

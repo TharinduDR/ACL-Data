@@ -1,0 +1,20 @@
+{
+  "title": "Dual Attention Network for Cross-lingual Entity Alignment",
+  "authors": [
+    "Jian Sun",
+    "Yu Zhou",
+    "Chengqing Zong"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Japanese",
+    "French"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.coling-main.284",
+  "acl_url": "https://aclanthology.org/2020.coling-main.284/"
+}

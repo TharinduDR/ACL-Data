@@ -1,0 +1,24 @@
+{
+  "title": "Multilingual Irony Detection with Dependency Syntax and Neural Models",
+  "authors": [
+    "Alessandra Teresa Cignarella",
+    "Valerio Basile",
+    "Manuela Sanguinetti",
+    "Cristina Bosco",
+    "Paolo Rosso",
+    "Farah Benamara"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.coling-main.116",
+  "acl_url": "https://aclanthology.org/2020.coling-main.116/"
+}

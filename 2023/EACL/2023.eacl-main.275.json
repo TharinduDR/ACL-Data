@@ -1,0 +1,21 @@
+{
+  "title": "Semi-supervised New Event Type Induction and Description via Contrastive Loss-Enforced Batch Attention",
+  "authors": [
+    "Carl Edwards",
+    "Heng Ji"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.eacl-main.275",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.275/"
+}

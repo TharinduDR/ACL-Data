@@ -1,0 +1,50 @@
+{
+  "title": "Phonetic Segmentation of the UCLA Phonetics Lab Archive",
+  "authors": [
+    "Eleanor Chodroff",
+    "Blaz Pažon",
+    "Annie Baker",
+    "Steven Moran"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bengali",
+    "Bemba",
+    "Czech",
+    "Dutch",
+    "Danish",
+    "French",
+    "German",
+    "Greek",
+    "Hebrew",
+    "Hindi",
+    "Igbo",
+    "Italian",
+    "Japanese",
+    "Kannada",
+    "Korean",
+    "Lithuanian",
+    "Malayalam",
+    "Mandarin Chinese",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Welsh",
+    "Yiddish",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2024.lrec-main.1114",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1114/"
+}

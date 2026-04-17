@@ -1,0 +1,27 @@
+{
+  "title": "Coarse-to-Fine: Hierarchical Multi-task Learning for Natural Language Understanding",
+  "authors": [
+    "Zhaoye Fei",
+    "Yu Tian",
+    "Yongkang Wu",
+    "Xinyu Zhang",
+    "Yutao Zhu",
+    "Zheng Liu",
+    "Jiawen Wu",
+    "Dejiang Kong",
+    "Ruofei Lai",
+    "Zhao Cao",
+    "Zhicheng Dou",
+    "Xipeng Qiu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T20 Sentiment Analysis"
+  ],
+  "paper_id": "2022.coling-1.439",
+  "acl_url": "https://aclanthology.org/2022.coling-1.439/"
+}

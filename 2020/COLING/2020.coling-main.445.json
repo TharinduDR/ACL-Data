@@ -1,0 +1,26 @@
+{
+  "title": "TransQuest: Translation Quality Estimation with Cross-lingual Transformers",
+  "authors": [
+    "Tharindu Ranasinghe",
+    "Constantin Orăsan",
+    "Ruslan Mitkov"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Czech",
+    "German",
+    "Russian",
+    "Latvian",
+    "Sinhala",
+    "Nepalese",
+    "Romanian",
+    "Estonian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.coling-main.445",
+  "acl_url": "https://aclanthology.org/2020.coling-main.445/"
+}

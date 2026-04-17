@@ -1,0 +1,23 @@
+{
+  "title": "TrainX – Named Entity Linking with Active Sampling and Bi-Encoders",
+  "authors": [
+    "Tom Oberhauser",
+    "Tim Bischoff",
+    "Karl Brendel",
+    "Maluna Menke",
+    "Tobias Klatt",
+    "Amy Siu",
+    "Felix Alexander Gers",
+    "Alexander Löser"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.coling-demos.12",
+  "acl_url": "https://aclanthology.org/2020.coling-demos.12/"
+}

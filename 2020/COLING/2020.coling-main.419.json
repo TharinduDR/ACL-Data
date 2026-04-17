@@ -1,0 +1,47 @@
+{
+  "title": "CLUE: A Chinese Language Understanding Evaluation Benchmark",
+  "authors": [
+    "Liang Xu",
+    "Hai Hu",
+    "Xuanwei Zhang",
+    "Lu Li",
+    "Chenjie Cao",
+    "Yudong Li",
+    "Yechen Xu",
+    "Kai Sun",
+    "Dian Yu",
+    "Cong Yu",
+    "Yin Tian",
+    "Qianqian Dong",
+    "Weitang Liu",
+    "Bo Shi",
+    "Yiming Cui",
+    "Junyi Li",
+    "Jun Zeng",
+    "Rongzhao Wang",
+    "Weijian Xie",
+    "Yanting Li",
+    "Yina Patterson",
+    "Zuoyu Tian",
+    "Yiwen Zhang",
+    "He Zhou",
+    "Shaowei Hua Liu",
+    "Zhe Zhao",
+    "Qipeng Zhao",
+    "Cong Yue",
+    "Xinrui Zhang",
+    "Zhengliang Yang",
+    "Kyle Richardson",
+    "Zhenzhong Lan"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.coling-main.419",
+  "acl_url": "https://aclanthology.org/2020.coling-main.419/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Addressing Limitations of Encoder-Decoder Based Approach to Text-to-SQL",
+  "authors": [
+    "Octavian Popescu",
+    "Irene Manotas",
+    "Ngoc Phuoc An Vo",
+    "Hangu Yeo",
+    "Elahe Khorasani",
+    "Vadim Sheinin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.coling-1.137",
+  "acl_url": "https://aclanthology.org/2022.coling-1.137/"
+}

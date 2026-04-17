@@ -1,0 +1,22 @@
+{
+  "title": "PheMT: A Phenomenon-wise Dataset for Machine Translation Robustness on User-Generated Contents",
+  "authors": [
+    "Ryo Fujii",
+    "Masato Mita",
+    "Kaori Abe",
+    "Kazuaki Hanawa",
+    "Makoto Morishita",
+    "Jun Suzuki",
+    "Kentaro Inui"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.coling-main.521",
+  "acl_url": "https://aclanthology.org/2020.coling-main.521/"
+}

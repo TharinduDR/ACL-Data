@@ -1,0 +1,27 @@
+{
+  "title": "DrBenchmark: A Large Language Understanding Evaluation Benchmark for French Biomedical Domain",
+  "authors": [
+    "Yanis Labrak",
+    "Adrien Bazoge",
+    "Oumaima El Khettari",
+    "Mickael Rouvier",
+    "Pacôme Constant dit Beaufilis",
+    "Natalia Grabar",
+    "Béatrice Daille",
+    "Solen Quiniou",
+    "Emmanuel Morin",
+    "Pierre-Antoine Gourraud",
+    "Richard Dufour"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.lrec-main.478",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.478/"
+}

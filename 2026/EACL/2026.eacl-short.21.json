@@ -1,0 +1,32 @@
+{
+  "title": "Measuring Linguistic Competence of LLMs on Indigenous Languages of the Americas",
+  "authors": [
+    "Justin Vasselli",
+    "Arturo Martínez Peguero",
+    "Frederikus Hudi",
+    "Haruki Sakajo",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "Asháninka",
+    "Awajún",
+    "Aymara",
+    "Bribri",
+    "Chatino",
+    "Guarani",
+    "Nahuatl",
+    "Otomi",
+    "Quechua",
+    "Rarámuri",
+    "Shipibo-Konibo",
+    "Wayuunaiki",
+    "Wixarika"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2026.eacl-short.21",
+  "acl_url": "https://aclanthology.org/2026.eacl-short.21/"
+}

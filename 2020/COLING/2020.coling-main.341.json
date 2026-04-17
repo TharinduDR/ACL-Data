@@ -1,0 +1,20 @@
+{
+  "title": "Learning to Prune Dependency Trees with Rethinking for Neural Relation Extraction",
+  "authors": [
+    "Bowen Yu",
+    "Mengge Xue",
+    "Zhenyu Zhang",
+    "Tingwen Liu",
+    "Yubin Wang",
+    "Bin Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.341",
+  "acl_url": "https://aclanthology.org/2020.coling-main.341/"
+}

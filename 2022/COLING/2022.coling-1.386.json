@@ -1,0 +1,24 @@
+{
+  "title": "Towards Multi-Sense Cross-Lingual Alignment of Contextual Embeddings",
+  "authors": [
+    "Linlin Liu",
+    "Thien Hai Nguyen",
+    "Shafiq Joty",
+    "Lidong Bing",
+    "Luo Si"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.coling-1.386",
+  "acl_url": "https://aclanthology.org/2022.coling-1.386/"
+}

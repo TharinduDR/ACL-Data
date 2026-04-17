@@ -1,0 +1,26 @@
+{
+  "title": "Multimodal Cross-lingual Phrase Retrieval",
+  "authors": [
+    "Chuanqi Dong",
+    "Wenjie Zhou",
+    "Xiangyu Duan",
+    "Yuqi Zhang",
+    "Min Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "French",
+    "Arabic",
+    "German",
+    "Spanish",
+    "Korean",
+    "Russian",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.lrec-main.1040",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1040/"
+}

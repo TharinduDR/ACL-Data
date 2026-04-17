@@ -1,0 +1,18 @@
+{
+  "title": "Towards Equitable Natural Language Understanding Systems for Dialectal Cohorts: Debiasing Training Data",
+  "authors": [
+    "Khadige Abboud",
+    "Gokmen Oz"
+  ],
+  "languages": [
+    "Arabic",
+    "German"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.lrec-main.1433",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1433/"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "MAMMOTH: Massively Multilingual Modular Open Translation @ Helsinki",
+  "authors": [
+    "Timothée Mickus",
+    "Stig-Arne Grönroos",
+    "Joseph Attieh",
+    "Michele Boggia",
+    "Ona De Gibert",
+    "Shaoxiong Ji",
+    "Niki Andreas Loppi",
+    "Alessandro Raganato",
+    "Raúl Vázquez",
+    "Jörg Tiedemann"
+  ],
+  "languages": [
+    "English",
+    "Swahili",
+    "Catalan",
+    "Chinese",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2024.eacl-demo.14",
+  "acl_url": "https://aclanthology.org/2024.eacl-demo.14/"
+}

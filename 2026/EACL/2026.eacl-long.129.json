@@ -1,0 +1,20 @@
+{
+  "title": "ViGoEmotions: A Benchmark Dataset For Fine-grained Emotion Detection on Vietnamese Texts",
+  "authors": [
+    "Hung Quang Tran",
+    "Nam Tien Pham",
+    "Son T. Luu",
+    "Kiet Van Nguyen"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2026.eacl-long.129",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.129/"
+}

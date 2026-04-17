@@ -1,0 +1,24 @@
+{
+  "title": "Towards a Unified Multi-Domain Multilingual Named Entity Recognition Model",
+  "authors": [
+    "Mayank Kulkarni",
+    "Daniel PreoŢiuc-Pietro",
+    "Karthik Radhakrishnan",
+    "Genta Indra Winata",
+    "Shijie Wu",
+    "Lingjue Xie",
+    "Shaohua Yang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.eacl-main.161",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.161/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "DORE: A Dataset For Portuguese Definition Generation",
+  "authors": [
+    "Anna Beatriz Dimas Furtado",
+    "Tharindu Ranasinghe",
+    "Frédéric Blain",
+    "Ruslan Mitkov"
+  ],
+  "languages": [
+    "Portuguese",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.473",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.473/"
+}

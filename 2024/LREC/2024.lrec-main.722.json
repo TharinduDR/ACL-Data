@@ -1,0 +1,21 @@
+{
+  "title": "How Large Language Models Encode Context Knowledge? A Layer-Wise Probing Study",
+  "authors": [
+    "Tianjie Ju",
+    "Weiwei Sun",
+    "Wei Du",
+    "Xinwei Yuan",
+    "Zhaochun Ren",
+    "Gongshen Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.lrec-main.722",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.722/"
+}

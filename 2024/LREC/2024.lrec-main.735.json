@@ -1,0 +1,40 @@
+{
+  "title": "HumanEval-XL: A Multilingual Code Generation Benchmark for Cross-lingual Natural Language Generalization",
+  "authors": [
+    "Qiwei Peng",
+    "Yekun Chai",
+    "Xuhong Li"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Chinese",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Greek",
+    "Dutch",
+    "Finnish",
+    "Indonesian",
+    "Turkish",
+    "Arabic",
+    "Vietnamese",
+    "Bulgarian",
+    "Malay",
+    "Hebrew",
+    "Estonian",
+    "Tagalog",
+    "Afrikaans",
+    "Persian",
+    "Cantonese",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.735",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.735/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "MultiCoNER: A Large-scale Multilingual dataset for Complex Named Entity Recognition",
+  "authors": [
+    "Shervin Malmasi",
+    "Anjie Fang",
+    "Besnik Fetahu",
+    "Sudipta Kar",
+    "Oleg Rokhlenko"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "Spanish",
+    "Farsi",
+    "Turkish",
+    "Russian",
+    "German",
+    "Korean",
+    "Hindi",
+    "Bangla",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.coling-1.334",
+  "acl_url": "https://aclanthology.org/2022.coling-1.334/"
+}

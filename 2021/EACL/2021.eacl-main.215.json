@@ -1,0 +1,42 @@
+{
+  "title": "Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT",
+  "authors": [
+    "Isabel Papadimitriou",
+    "Ethan A. Chi",
+    "Richard Futrell",
+    "Kyle Mahowald"
+  ],
+  "languages": [
+    "Chinese",
+    "Hindi",
+    "Urdu",
+    "Basque",
+    "Finnish",
+    "Hebrew",
+    "Latin",
+    "Estonian",
+    "Japanese",
+    "Croatian",
+    "Farsi",
+    "Czech",
+    "German",
+    "English",
+    "Indonesian",
+    "Spanish",
+    "Slovenian",
+    "Latvian",
+    "Serbian",
+    "French",
+    "Slovak",
+    "Norwegian",
+    "Polish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.eacl-main.215",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.215/"
+}

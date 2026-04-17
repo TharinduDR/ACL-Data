@@ -1,0 +1,22 @@
+{
+  "title": "Generative Context Pair Selection for Multi-hop Question Answering",
+  "authors": [
+    "Dheeru Dua",
+    "Cicero Nogueira dos Santos",
+    "Patrick Ng",
+    "Ben Athiwaratkun",
+    "Bing Xiang",
+    "Matt Gardner",
+    "Sameer Singh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.emnlp-main.561",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.561/"
+}

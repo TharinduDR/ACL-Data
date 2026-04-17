@@ -1,0 +1,19 @@
+{
+  "title": "LLM ContextBridge: A Hybrid Approach for Intent and Dialogue Understanding in IVSR",
+  "authors": [
+    "Changwoo Chun",
+    "Daniel Rim",
+    "Juhee Park"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-industry.66",
+  "acl_url": "https://aclanthology.org/2025.coling-industry.66/"
+}

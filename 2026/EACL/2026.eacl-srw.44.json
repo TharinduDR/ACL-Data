@@ -1,0 +1,24 @@
+{
+  "title": "Annotation-Efficient Vision-Language Model Adaptation to the Polish Language Using the LLaVA Framework",
+  "authors": [
+    "Grzegorz Statkiewicz",
+    "Alicja Dobrzeniecka",
+    "Karolina Seweryn",
+    "Aleksandra Krasnodębska",
+    "Karolina Piosek",
+    "Katarzyna Bogusz",
+    "Sebastian Cygert",
+    "Wojciech Kusa"
+  ],
+  "languages": [
+    "Polish",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-srw.44",
+  "acl_url": "https://aclanthology.org/2026.eacl-srw.44/"
+}

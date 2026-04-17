@@ -1,0 +1,34 @@
+{
+  "title": "DELTA: A Toolkit for Measuring Linguistic Diversity in Dependency-Parsed Corpora",
+  "authors": [
+    "Louis Estève",
+    "Kaja Dobrovoljc"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Czech",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Thai",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2026.eacl-demo.6",
+  "acl_url": "https://aclanthology.org/2026.eacl-demo.6/"
+}

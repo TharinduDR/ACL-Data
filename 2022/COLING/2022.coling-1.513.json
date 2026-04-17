@@ -1,0 +1,24 @@
+{
+  "title": "Improving Zero-Shot Multilingual Text Generation via Iterative Distillation",
+  "authors": [
+    "Ernie Chang",
+    "Alex Marin",
+    "Vera Demberg"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Chinese",
+    "Spanish",
+    "Japanese",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2022.coling-1.513",
+  "acl_url": "https://aclanthology.org/2022.coling-1.513/"
+}

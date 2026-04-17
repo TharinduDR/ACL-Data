@@ -1,0 +1,31 @@
+{
+  "title": "DISRPT: A Multilingual, Multi-domain, Cross-framework Benchmark for Discourse Processing",
+  "authors": [
+    "Chloé Braud",
+    "Amir Zeldes",
+    "Laura Rivière",
+    "Yang Janet Liu",
+    "Philippe Muller",
+    "Damien Sileo",
+    "Tatsuya Aoyama"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T05 Discourse and Pragmatics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.447",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.447/"
+}

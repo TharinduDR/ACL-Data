@@ -1,0 +1,30 @@
+{
+  "title": "Unsupervised Deep Language and Dialect Identification for Short Texts",
+  "authors": [
+    "Koustava Goswami",
+    "Rajdeep Sarkar",
+    "Bharathi Raja Chakravarthi",
+    "Theodorus Fransen",
+    "John P. McCrae"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Tamil",
+    "Telugu",
+    "Malayalam",
+    "Kannada",
+    "Zulu",
+    "Xhosa",
+    "Sotho",
+    "TshiVenda",
+    "Afrikaans"
+  ],
+  "research_areas": [
+    "T14",
+    "T12",
+    "T08"
+  ],
+  "paper_id": "2020.coling-main.141",
+  "acl_url": "https://aclanthology.org/2020.coling-main.141/"
+}

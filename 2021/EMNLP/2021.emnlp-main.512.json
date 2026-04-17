@@ -1,0 +1,18 @@
+{
+  "title": "Discovering the Unknown Knowns: Turning Implicit Knowledge in the Dataset into Explicit Training Examples for Visual Question Answering",
+  "authors": [
+    "Jihyung Kil",
+    "Cheng Zhang",
+    "Dong Xuan",
+    "Wei-Lun Chao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2021.emnlp-main.512",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.512/"
+}

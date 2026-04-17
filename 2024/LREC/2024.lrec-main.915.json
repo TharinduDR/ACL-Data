@@ -1,0 +1,18 @@
+{
+  "title": "LFED: A Literary Fiction Evaluation Dataset for Large Language Models",
+  "authors": [
+    "Linhao Yu",
+    "Qun Liu",
+    "Deyi Xiong"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.lrec-main.915",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.915/"
+}

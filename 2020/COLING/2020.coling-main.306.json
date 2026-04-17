@@ -1,0 +1,28 @@
+{
+  "title": "Handling Anomalies of Synthetic Questions in Unsupervised Question Answering",
+  "authors": [
+    "Giwon Hong",
+    "Junmo Kang",
+    "Doyeon Lim",
+    "Sung-Hyon Myaeng"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Italian",
+    "French",
+    "Spanish",
+    "German",
+    "Russian",
+    "Arabic",
+    "Hindi",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2020.coling-main.306",
+  "acl_url": "https://aclanthology.org/2020.coling-main.306/"
+}

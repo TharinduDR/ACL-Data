@@ -1,0 +1,24 @@
+{
+  "title": "End-to-End Conversational Search for Online Shopping with Utterance Transfer",
+  "authors": [
+    "Liqiang Xiao",
+    "Jun Ma",
+    "Xin Luna Dong",
+    "Pascal Martinez-Gomez",
+    "Nasser Zalmout",
+    "Chenwei Zhang",
+    "Tong Zhao",
+    "Hao He",
+    "Yaohui Jin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.emnlp-main.280",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.280/"
+}

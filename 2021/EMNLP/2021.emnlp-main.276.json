@@ -1,0 +1,22 @@
+{
+  "title": "GMH: A General Multi-hop Reasoning Model for KG Completion",
+  "authors": [
+    "Yao Zhang",
+    "Hongru Liang",
+    "Adam Jatowt",
+    "Wenqiang Lei",
+    "Xin Wei",
+    "Ning Jiang",
+    "Zhenglu Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2021.emnlp-main.276",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.276/"
+}

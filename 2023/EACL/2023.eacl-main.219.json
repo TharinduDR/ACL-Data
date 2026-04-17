@@ -1,0 +1,23 @@
+{
+  "title": "AutoTriggER: Label-Efficient and Robust Named Entity Recognition with Auxiliary Trigger Extraction",
+  "authors": [
+    "Dong-Ho Lee",
+    "Ravi Kiran Selvam",
+    "Sheikh Muhammad Sarwar",
+    "Bill Yuchen Lin",
+    "Fred Morstatter",
+    "Jay Pujara",
+    "Elizabeth Boschee",
+    "James Allan",
+    "Xiang Ren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.eacl-main.219",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.219/"
+}

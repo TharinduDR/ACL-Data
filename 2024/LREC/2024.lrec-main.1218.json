@@ -1,0 +1,23 @@
+{
+  "title": "Representing Compounding with OntoLex. An Evaluation of Vocabularies for Word Formation Resources",
+  "authors": [
+    "Elena Benzoni",
+    "Matteo Pellegrini",
+    "Francesco Dedè",
+    "Marco Passarotti"
+  ],
+  "languages": [
+    "Latin",
+    "French",
+    "Croatian",
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.lrec-main.1218",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1218/"
+}

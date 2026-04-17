@@ -1,0 +1,21 @@
+{
+  "title": "MiSS: An Assistant for Multi-Style Simultaneous Translation",
+  "authors": [
+    "Zuchao Li",
+    "Kevin Parnow",
+    "Masao Utiyama",
+    "Eiichiro Sumita",
+    "Hai Zhao"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2021.emnlp-demo.1",
+  "acl_url": "https://aclanthology.org/2021.emnlp-demo.1/"
+}

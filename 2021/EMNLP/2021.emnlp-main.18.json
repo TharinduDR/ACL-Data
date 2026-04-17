@@ -1,0 +1,22 @@
+{
+  "title": "TEBNER: Domain Specific Named Entity Recognition with Type Expanded Boundary-aware Network",
+  "authors": [
+    "Zheng Fang",
+    "Yanan Cao",
+    "Tai Li",
+    "Ruipeng Jia",
+    "Fang Fang",
+    "Yanmin Shang",
+    "Yuhai Lu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.emnlp-main.18",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.18/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Calibrating Beyond English: Language Diversity for Better Quantized Multilingual LLMs",
+  "authors": [
+    "Everlyn Asiko Chimoto",
+    "Mostafa Elhoushi",
+    "Bruce Basset"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Swahili",
+    "Chinese",
+    "Zulu",
+    "Xhosa",
+    "Sotho",
+    "Yoruba",
+    "Igbo",
+    "Hausa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2026.eacl-long.223",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.223/"
+}

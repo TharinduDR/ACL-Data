@@ -1,0 +1,24 @@
+{
+  "title": "KnowVrDU: A Unified Knowledge-aware Prompt-Tuning Framework for Visually-rich Document Understanding",
+  "authors": [
+    "Yunqi Zhang",
+    "Yubo Chen",
+    "jingzhe zhu",
+    "Jinyu Xu",
+    "Shuai Yang",
+    "Zhaoliang Wu",
+    "Liang Huang",
+    "Yongfeng Huang",
+    "Shuai Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.lrec-main.863",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.863/"
+}

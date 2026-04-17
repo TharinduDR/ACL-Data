@@ -1,0 +1,28 @@
+{
+  "title": "PSSAT: A Perturbed Semantic Structure Awareness Transferring Method for Perturbation-Robust Slot Filling",
+  "authors": [
+    "Guanting Dong",
+    "Daichi Guo",
+    "Liwen Wang",
+    "Xuefeng Li",
+    "Zechen Wang",
+    "Chen Zeng",
+    "Keqing He",
+    "Jinzheng Zhao",
+    "Hao Lei",
+    "Xinyue Cui",
+    "Yi Huang",
+    "Junlan Feng",
+    "Weiran Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2022.coling-1.473",
+  "acl_url": "https://aclanthology.org/2022.coling-1.473/"
+}

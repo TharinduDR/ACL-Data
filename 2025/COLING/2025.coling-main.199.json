@@ -1,0 +1,25 @@
+{
+  "title": "Intention Analysis Makes LLMs A Good Jailbreak Defender",
+  "authors": [
+    "Yuqi Zhang",
+    "Liang Ding",
+    "Lefei Zhang",
+    "Dacheng Tao"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Thai",
+    "Bengali",
+    "Swahili",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.199",
+  "acl_url": "https://aclanthology.org/2025.coling-main.199/"
+}

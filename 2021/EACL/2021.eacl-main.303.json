@@ -1,0 +1,27 @@
+{
+  "title": "A Large-scale Evaluation of Neural Machine Transliteration for Indic Languages",
+  "authors": [
+    "Anoop Kunchukuttan",
+    "Siddharth Jain",
+    "Rahul Kejriwal"
+  ],
+  "languages": [
+    "English",
+    "Punjabi",
+    "Hindi",
+    "Bengali",
+    "Oriya",
+    "Gujarati",
+    "Marathi",
+    "Kannada",
+    "Telugu",
+    "Malayalam",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.eacl-main.303",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.303/"
+}

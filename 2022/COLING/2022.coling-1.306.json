@@ -1,0 +1,20 @@
+{
+  "title": "NLG-METRICVERSE: An End-to-End Library for Evaluating Natural Language Generation",
+  "authors": [
+    "Giacomo Frisoni",
+    "Antonella Carbonaro",
+    "Gianluca Moro",
+    "Andrea Zammarchi",
+    "Marco Avagnano"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T18 Text Summarization",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.coling-1.306",
+  "acl_url": "https://aclanthology.org/2022.coling-1.306/"
+}

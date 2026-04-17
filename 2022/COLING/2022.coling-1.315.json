@@ -1,0 +1,23 @@
+{
+  "title": "Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows",
+  "authors": [
+    "Keisuke Shirai",
+    "Atsushi Hashimoto",
+    "Taichi Nishimura",
+    "Hirotaka Kameko",
+    "Shuhei Kurita",
+    "Yoshitaka Ushiku",
+    "Shinsuke Mori"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.coling-1.315",
+  "acl_url": "https://aclanthology.org/2022.coling-1.315/"
+}

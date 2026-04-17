@@ -1,0 +1,26 @@
+{
+  "title": "Syntactic Nuclei in Dependency Parsing – A Multilingual Exploration",
+  "authors": [
+    "Ali Basirat",
+    "Joakim Nivre"
+  ],
+  "languages": [
+    "Arabic",
+    "Basque",
+    "Chinese",
+    "English",
+    "Finnish",
+    "Hebrew",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Swedish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.eacl-main.117",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.117/"
+}

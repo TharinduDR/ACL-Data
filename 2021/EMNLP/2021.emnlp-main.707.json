@@ -1,0 +1,23 @@
+{
+  "title": "Data Augmentation with Hierarchical SQL-to-Question Generation for Cross-domain Text-to-SQL Parsing",
+  "authors": [
+    "Kun Wu",
+    "Lijie Wang",
+    "Zhenghua Li",
+    "Ao Zhang",
+    "Xinyan Xiao",
+    "Hua Wu",
+    "Min Zhang",
+    "Haifeng Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.emnlp-main.707",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.707/"
+}

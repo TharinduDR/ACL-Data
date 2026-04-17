@@ -1,0 +1,20 @@
+{
+  "title": "Neural Machine Translation between Low-Resource Languages with Synthetic Pivoting",
+  "authors": [
+    "Khalid N. Elmadani",
+    "Jan Buys"
+  ],
+  "languages": [
+    "English",
+    "Xhosa",
+    "Zulu",
+    "Sepedi",
+    "Tswana"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.1063",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1063/"
+}

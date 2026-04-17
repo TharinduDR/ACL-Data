@@ -1,0 +1,18 @@
+{
+  "title": "Closed-book Question Generation via Contrastive Learning",
+  "authors": [
+    "Xiangjue Dong",
+    "Jiaying Lu",
+    "Jianling Wang",
+    "James Caverlee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.eacl-main.230",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.230/"
+}

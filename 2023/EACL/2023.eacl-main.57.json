@@ -1,0 +1,40 @@
+{
+  "title": "NusaX: Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Languages",
+  "authors": [
+    "Genta Indra Winata",
+    "Alham Fikri Aji",
+    "Samuel Cahyawijaya",
+    "Rahmad Mahendra",
+    "Fajri Koto",
+    "Ade Romadhony",
+    "Kemal Kurniawan",
+    "David Moeljadi",
+    "Radityo Eko Prasojo",
+    "Pascale Fung",
+    "Timothy Baldwin",
+    "Jey Han Lau",
+    "Rico Sennrich",
+    "Sebastian Ruder"
+  ],
+  "languages": [
+    "Indonesian",
+    "English",
+    "Acehnese",
+    "Balinese",
+    "Banjarese",
+    "Buginese",
+    "Javanese",
+    "Madurese",
+    "Minangkabau",
+    "Ngaju",
+    "Sundanese",
+    "Toba Batak"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.eacl-main.57",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.57/"
+}

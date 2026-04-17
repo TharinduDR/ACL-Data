@@ -1,0 +1,30 @@
+{
+  "title": "PWESUITE: Phonetic Word Embeddings and Tasks They Facilitate",
+  "authors": [
+    "Vilém Zouhar",
+    "Kalvin Chang",
+    "Chenxuan Cui",
+    "Nathaniel Carlson",
+    "Nathaniel R. Robinson",
+    "Mrinmaya Sachan",
+    "David Mortensen"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "Bengali",
+    "French",
+    "German",
+    "Polish",
+    "Spanish",
+    "Swahili",
+    "Uzbek"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.1168",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1168/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Scheduled Sampling Based on Decoding Steps for Neural Machine Translation",
+  "authors": [
+    "Yijin Liu",
+    "Fandong Meng",
+    "Yufeng Chen",
+    "Jinan Xu",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.emnlp-main.264",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.264/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Entity-Based Knowledge Conflicts in Question Answering",
+  "authors": [
+    "Shayne Longpre",
+    "Kartik Perisetla",
+    "Anthony Chen",
+    "Nikhil Ramesh",
+    "Chris DuBois",
+    "Sameer Singh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.emnlp-main.565",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.565/"
+}

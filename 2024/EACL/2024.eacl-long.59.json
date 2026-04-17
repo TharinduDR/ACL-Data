@@ -1,0 +1,32 @@
+{
+  "title": "Leveraging Multilingual Positive Instances in Contrastive Learning to Improve Sentence Embedding",
+  "authors": [
+    "Kaiyan Zhao",
+    "Qiyu Wu",
+    "Xin-Qiang Cai",
+    "Yoshimasa Tsuruoka"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Russian",
+    "Chinese",
+    "Arabic",
+    "Turkish",
+    "Hindi",
+    "Thai",
+    "Bulgarian",
+    "Greek",
+    "Vietnamese",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.eacl-long.59",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.59/"
+}

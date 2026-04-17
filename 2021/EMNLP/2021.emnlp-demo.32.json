@@ -1,0 +1,23 @@
+{
+  "title": "CroAno: A Crowd Annotation Platform for Improving Label Consistency of Chinese NER Dataset",
+  "authors": [
+    "Baoli Zhang",
+    "Zhucong Li",
+    "Zhen Gan",
+    "Yubo Chen",
+    "Jing Wan",
+    "Kang Liu",
+    "Jun Zhao",
+    "Shengping Liu",
+    "Yafei Shi"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.emnlp-demo.32",
+  "acl_url": "https://aclanthology.org/2021.emnlp-demo.32/"
+}

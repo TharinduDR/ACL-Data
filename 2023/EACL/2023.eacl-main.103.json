@@ -1,0 +1,20 @@
+{
+  "title": "Low-Resource Compositional Semantic Parsing with Concept Pretraining",
+  "authors": [
+    "Subendhu Rongali",
+    "Mukund Sridhar",
+    "Haidar Khan",
+    "Konstantine Arkoudas",
+    "Wael Hamza",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.eacl-main.103",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.103/"
+}

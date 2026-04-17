@@ -1,0 +1,17 @@
+{
+  "title": "SCoPE VLM: Selective Context Processing for Efficient Document Navigation in Vision-Language Models",
+  "authors": [
+    "Gyubeum Lim",
+    "Yemo Koo",
+    "Vijay Krishna Madisetti"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2026.eacl-long.6",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.6/"
+}

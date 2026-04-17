@@ -1,0 +1,34 @@
+{
+  "title": "Harnessing Cross-lingual Features to Improve Cognate Detection for Low-resource Languages",
+  "authors": [
+    "Diptesh Kanojia",
+    "Raj Dabre",
+    "Shubham Dewangan",
+    "Pushpak Bhattacharyya",
+    "Gholamreza Haffari",
+    "Malhar Kulkarni"
+  ],
+  "languages": [
+    "Sanskrit",
+    "Hindi",
+    "Assamese",
+    "Oriya",
+    "Kannada",
+    "Gujarati",
+    "Tamil",
+    "Telugu",
+    "Punjabi",
+    "Bengali",
+    "Marathi",
+    "Malayalam",
+    "Konkani",
+    "Nepali"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.coling-main.119",
+  "acl_url": "https://aclanthology.org/2020.coling-main.119/"
+}

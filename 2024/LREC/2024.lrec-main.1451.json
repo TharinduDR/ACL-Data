@@ -1,0 +1,25 @@
+{
+  "title": "TP-Link: Fine-grained Pre-Training for Text-to-SQL Parsing with Linking Information",
+  "authors": [
+    "Ziqiang Liu",
+    "Shujie Li",
+    "Zefeng Cai",
+    "Xiangyu Li",
+    "Yunshui Li",
+    "Lei Zhang",
+    "Chengming Li",
+    "Xiping Hu",
+    "Ruifeng Xu",
+    "Min Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.1451",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1451/"
+}

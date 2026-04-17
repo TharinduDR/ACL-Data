@@ -1,0 +1,23 @@
+{
+  "title": "A Dataset for Expert Reviewer Recommendation with Large Language Models as Zero-shot Rankers",
+  "authors": [
+    "Vanja M Karan",
+    "Stephen McQuistin",
+    "Ryo Yanagida",
+    "Colin Perkins",
+    "Gareth Tyson",
+    "Ignacio Castro",
+    "Patrick Healey",
+    "Matthew Purver"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.coling-main.756",
+  "acl_url": "https://aclanthology.org/2025.coling-main.756/"
+}

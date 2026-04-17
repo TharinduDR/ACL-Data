@@ -1,0 +1,25 @@
+{
+  "title": "GR-NLP-TOOLKIT: An Open-Source NLP Toolkit for Modern Greek",
+  "authors": [
+    "Lefteris Loukas",
+    "Nikolaos Smyrnioudis",
+    "Chrysa Dikonomaki",
+    "Spyros Barbakos",
+    "Anastasios Toumazatos",
+    "John Koutsikakis",
+    "Manolis Kyriakakis",
+    "Mary Georgiou",
+    "Stavros Vassos",
+    "John Pavlopoulos",
+    "Ion Androutsopoulos"
+  ],
+  "languages": [
+    "Greek"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.coling-demos.17",
+  "acl_url": "https://aclanthology.org/2025.coling-demos.17/"
+}

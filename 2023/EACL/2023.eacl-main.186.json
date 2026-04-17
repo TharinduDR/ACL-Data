@@ -1,0 +1,20 @@
+{
+  "title": "ComSearch: Equation Searching with Combinatorial Strategy for Solving Math Word Problems with Weak Supervision",
+  "authors": [
+    "Qianying Liu",
+    "Wenyu Guan",
+    "Jianhao Shen",
+    "Fei Cheng",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.eacl-main.186",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.186/"
+}

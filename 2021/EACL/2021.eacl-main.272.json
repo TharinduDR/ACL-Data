@@ -1,0 +1,36 @@
+{
+  "title": "Enhancing Sequence-to-Sequence Neural Lemmatization with External Resources",
+  "authors": [
+    "Kirill Milintsevich",
+    "Kairit Sirts"
+  ],
+  "languages": [
+    "Czech",
+    "Russian",
+    "Spanish",
+    "Catalan",
+    "French",
+    "German",
+    "Italian",
+    "English",
+    "Romanian",
+    "Portuguese",
+    "Bulgarian",
+    "Urdu",
+    "Galician",
+    "Ukrainian",
+    "Basque",
+    "Danish",
+    "Swedish",
+    "Greek",
+    "Turkish",
+    "Armenian",
+    "Belarusian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.eacl-main.272",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.272/"
+}

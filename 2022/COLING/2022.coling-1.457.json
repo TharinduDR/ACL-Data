@@ -1,0 +1,21 @@
+{
+  "title": "Semantically Consistent Data Augmentation for Neural Machine Translation via Conditional Masked Language Model",
+  "authors": [
+    "Qiao Cheng",
+    "Jin Huang",
+    "Yitao Duan"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Spanish",
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.coling-1.457",
+  "acl_url": "https://aclanthology.org/2022.coling-1.457/"
+}

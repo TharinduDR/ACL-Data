@@ -1,0 +1,20 @@
+{
+  "title": "Improving Conversational Question Answering Systems after Deployment using Feedback-Weighted Learning",
+  "authors": [
+    "Jon Ander Campos",
+    "Kyunghyun Cho",
+    "Arantxa Otegi",
+    "Aitor Soroa",
+    "Gorka Azkune",
+    "Eneko Agirre"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2020.coling-main.230",
+  "acl_url": "https://aclanthology.org/2020.coling-main.230/"
+}

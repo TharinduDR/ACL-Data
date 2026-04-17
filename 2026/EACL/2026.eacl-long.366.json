@@ -1,0 +1,23 @@
+{
+  "title": "SCALAR: Scientific Citation-based Live Assessment of Long-context Academic Reasoning",
+  "authors": [
+    "Renxi Wang",
+    "Honglin Mu",
+    "Liqun Ma",
+    "Lizhi Lin",
+    "Yunlong Feng",
+    "Timothy Baldwin",
+    "Xudong Han",
+    "Haonan Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.eacl-long.366",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.366/"
+}

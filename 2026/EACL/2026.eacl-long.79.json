@@ -1,0 +1,20 @@
+{
+  "title": "SearchLLM: Detecting LLM Paraphrased Text by Measuring the Similarity with Regeneration of the Candidate Source via Search Engine",
+  "authors": [
+    "Hoang-Quoc Nguyen-Son",
+    "Minh-Son Dao",
+    "Koji Zettsu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Urdu",
+    "Bulgarian",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2026.eacl-long.79",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.79/"
+}

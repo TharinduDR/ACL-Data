@@ -1,0 +1,23 @@
+{
+  "title": "Cross-lingual Entity Alignment with Incidental Supervision",
+  "authors": [
+    "Muhao Chen",
+    "Weijia Shi",
+    "Ben Zhou",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Japanese",
+    "German"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.eacl-main.53",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.53/"
+}

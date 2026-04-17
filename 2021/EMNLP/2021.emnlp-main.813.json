@@ -1,0 +1,24 @@
+{
+  "title": "Few-Shot Named Entity Recognition: An Empirical Baseline Study",
+  "authors": [
+    "Jiaxin Huang",
+    "Chunyuan Li",
+    "Krishan Subudhi",
+    "Damien Jose",
+    "Shobana Balakrishnan",
+    "Weizhu Chen",
+    "Baolin Peng",
+    "Jianfeng Gao",
+    "Jiawei Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.813",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.813/"
+}

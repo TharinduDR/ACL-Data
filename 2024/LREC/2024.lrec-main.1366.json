@@ -1,0 +1,21 @@
+{
+  "title": "Tell me again! A Large-Scale Dataset of Multiple Summaries for the Same Story",
+  "authors": [
+    "Hans Ole Hatzel",
+    "Chris Biemann"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.lrec-main.1366",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1366/"
+}

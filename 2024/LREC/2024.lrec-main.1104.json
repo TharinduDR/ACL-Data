@@ -1,0 +1,22 @@
+{
+  "title": "PaReNT (Parent Retrieval Neural Tool): A Deep Dive into Word Formation Across Languages",
+  "authors": [
+    "Emil Svoboda",
+    "Magda Ševčíková"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Dutch",
+    "French",
+    "Spanish",
+    "Czech",
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.lrec-main.1104",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1104/"
+}

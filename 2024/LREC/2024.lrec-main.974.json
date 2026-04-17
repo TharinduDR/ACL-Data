@@ -1,0 +1,32 @@
+{
+  "title": "Medical mT5: An Open-Source Multilingual Text-to-Text LLM for The Medical Domain",
+  "authors": [
+    "Iker García-Ferrero",
+    "Rodrigo Agerri",
+    "Aitziber Atutxa",
+    "Elena Cabrio",
+    "Iker de la Iglesia",
+    "Alberto Lavelli",
+    "Bernardo Magnini",
+    "Benjamin Molinet",
+    "Johana Ramirez-Romero",
+    "German Rigau",
+    "Jose Maria Villa-Gonzalez",
+    "Serena Villata",
+    "Andrea Zaninello"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T10 Question Answering",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2024.lrec-main.974",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.974/"
+}

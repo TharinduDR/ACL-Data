@@ -1,0 +1,18 @@
+{
+  "title": "Mitigating False-Negative Contexts in Multi-Document Question Answering with Retrieval Marginalization",
+  "authors": [
+    "Ansong Ni",
+    "Matt Gardner",
+    "Pradeep Dasigi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2021.emnlp-main.497",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.497/"
+}

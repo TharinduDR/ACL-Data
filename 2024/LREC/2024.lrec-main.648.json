@@ -1,0 +1,19 @@
+{
+  "title": "FlattenQuant: Breaking Through the Inference Compute-bound for Large Language Models with Per-tensor Quantization",
+  "authors": [
+    "Yi Zhang",
+    "Fei Yang",
+    "Shuang Peng",
+    "Fangyu Wang",
+    "Aimin Pan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.648",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.648/"
+}

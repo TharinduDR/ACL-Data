@@ -1,0 +1,22 @@
+{
+  "title": "CliniBench: A Clinical Outcome Prediction Benchmark for Generative and Encoder-Based Language Models",
+  "authors": [
+    "Paul Grundmann",
+    "Jan Frick",
+    "Dennis Fast",
+    "Thomas Steffek",
+    "Felix Gers",
+    "Wolfgang Nejdl",
+    "Alexander Löser"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2026.eacl-long.247",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.247/"
+}

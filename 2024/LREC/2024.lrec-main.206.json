@@ -1,0 +1,23 @@
+{
+  "title": "Beyond Full Fine-tuning: Harnessing the Power of LoRA for Multi-Task Instruction Tuning",
+  "authors": [
+    "Chunlei Xin",
+    "Yaojie Lu",
+    "Hongyu Lin",
+    "Shuheng Zhou",
+    "Huijia Zhu",
+    "Weiqiang Wang",
+    "Zhongyi Liu",
+    "Xianpei Han",
+    "Le Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.206",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.206/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "On the Evolution of Syntactic Information Encoded by BERT's Contextualized Representations",
+  "authors": [
+    "Laura Pérez-Mayos",
+    "Roberto Carlini",
+    "Miguel Ballesteros",
+    "Leo Wanner"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.eacl-main.191",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.191/"
+}

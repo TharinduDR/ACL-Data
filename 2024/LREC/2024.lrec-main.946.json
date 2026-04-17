@@ -1,0 +1,37 @@
+{
+  "title": "M2SA: Multimodal and Multilingual Model for Sentiment Analysis of Tweets",
+  "authors": [
+    "Gaurish Thakkar",
+    "Sherzod Hakimov",
+    "Marko Tadić"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Bosnian",
+    "Danish",
+    "German",
+    "English",
+    "Spanish",
+    "Croatian",
+    "Hungarian",
+    "Italian",
+    "Latvian",
+    "Maltese",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Serbian",
+    "Slovenian",
+    "Turkish",
+    "Chinese",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2024.lrec-main.946",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.946/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "EDEN: A Dataset for Event Detection in Norwegian News",
+  "authors": [
+    "Samia Touileb",
+    "Jeanett Murstad",
+    "Petter Mæhlim",
+    "Lubos Steskal",
+    "Lilja Charlotte Storset",
+    "Huiling You",
+    "Lilja Øvrelid"
+  ],
+  "languages": [
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.488",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.488/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "MURRE: Multi-Hop Table Retrieval with Removal for Open-Domain Text-to-SQL",
+  "authors": [
+    "Xuanliang Zhang",
+    "Dingzirui Wang",
+    "Longxu Dou",
+    "Qingfu Zhu",
+    "Wanxiang Che"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.386",
+  "acl_url": "https://aclanthology.org/2025.coling-main.386/"
+}

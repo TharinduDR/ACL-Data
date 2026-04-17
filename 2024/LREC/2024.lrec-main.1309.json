@@ -1,0 +1,22 @@
+{
+  "title": "Sonos Voice Control Bias Assessment Dataset: A Methodology for Demographic Bias Assessment in Voice Assistants",
+  "authors": [
+    "Chloé Sekkat",
+    "Fanny Leroy",
+    "Salima Mdhaffar",
+    "Blake Perry Smith",
+    "Yannick Estève",
+    "Joseph Dureau",
+    "Alice Coucke"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.lrec-main.1309",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1309/"
+}

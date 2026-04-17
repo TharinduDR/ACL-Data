@@ -1,0 +1,22 @@
+{
+  "title": "Word Alignment by Fine-tuning Embeddings on Parallel Corpora",
+  "authors": [
+    "Zi-Yi Dou",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Romanian",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2021.eacl-main.181",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.181/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "KiPT: Knowledge-injected Prompt Tuning for Event Detection",
+  "authors": [
+    "Haochen Li",
+    "Tong Mo",
+    "Hongcheng Fan",
+    "Jingkun Wang",
+    "Jiaxi Wang",
+    "Fuhao Zhang",
+    "Weiping Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.coling-1.169",
+  "acl_url": "https://aclanthology.org/2022.coling-1.169/"
+}

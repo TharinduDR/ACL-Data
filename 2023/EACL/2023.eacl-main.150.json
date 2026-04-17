@@ -1,0 +1,20 @@
+{
+  "title": "TwiRGCN: Temporally Weighted Graph Convolution for Question Answering over Temporal Knowledge Graphs",
+  "authors": [
+    "Aditya Sharma",
+    "Apoorv Saxena",
+    "Chitrank Gupta",
+    "Mehran Kazemi",
+    "Partha Talukdar",
+    "Soumen Chakrabarti"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.eacl-main.150",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.150/"
+}

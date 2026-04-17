@@ -1,0 +1,21 @@
+{
+  "title": "BioMedBERT: A Pre-trained Biomedical Language Model for QA and IR",
+  "authors": [
+    "Souradip Chakraborty",
+    "Ekaba Bisong",
+    "Shweta Bhatt",
+    "Thomas O. Wagner III",
+    "Francesco Mosconi",
+    "Riley D. Elliott"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2020.coling-main.59",
+  "acl_url": "https://aclanthology.org/2020.coling-main.59/"
+}

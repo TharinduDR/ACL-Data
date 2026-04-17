@@ -1,0 +1,17 @@
+{
+  "title": "Reducing Spurious Correlations for Answer Selection by Feature Decorrelation and Language Debiasing",
+  "authors": [
+    "Zeyi Zhong",
+    "Min Yang",
+    "Ruifeng Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.coling-1.151",
+  "acl_url": "https://aclanthology.org/2022.coling-1.151/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "How LSTM Encodes Syntax: Exploring Context Vectors and Semi-Quantization on Natural Text",
+  "authors": [
+    "Chihiro Shibata",
+    "Kei Uchiumi",
+    "Daichi Mochihashi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.356",
+  "acl_url": "https://aclanthology.org/2020.coling-main.356/"
+}

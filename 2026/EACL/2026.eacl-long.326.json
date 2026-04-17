@@ -1,0 +1,18 @@
+{
+  "title": "Safeguarding Language Models via Self-Destruct Trapdoor",
+  "authors": [
+    "Shahar Katz",
+    "Bar Alon",
+    "Ariel Shaulov",
+    "Lior Wolf",
+    "Mahmood Sharif"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.326",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.326/"
+}

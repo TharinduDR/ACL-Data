@@ -1,0 +1,20 @@
+{
+  "title": "Structure-aware Fine-tuning of Sequence-to-sequence Transformers for Transition-based AMR Parsing",
+  "authors": [
+    "Jiawei Zhou",
+    "Tahira Naseem",
+    "Ramón Fernandez Astudillo",
+    "Young-Suk Lee",
+    "Radu Florian",
+    "Salim Roukos"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.emnlp-main.507",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.507/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "ToxiGAN: Toxic Data Augmentation via LLM-Guided Directional Adversarial Generation",
+  "authors": [
+    "Peiran Li",
+    "Jan Fillies",
+    "Adrian Paschke"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2026.eacl-long.188",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.188/"
+}

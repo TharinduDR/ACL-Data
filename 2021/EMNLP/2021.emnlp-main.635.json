@@ -1,0 +1,20 @@
+{
+  "title": "TDEER: An Efficient Translating Decoding Schema for Joint Extraction of Entities and Relations",
+  "authors": [
+    "Xianming Li",
+    "Xiaotian Luo",
+    "Chenghao Dong",
+    "Daichuan Yang",
+    "Beidi Luan",
+    "Zhen He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.emnlp-main.635",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.635/"
+}

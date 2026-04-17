@@ -1,0 +1,23 @@
+{
+  "title": "Enhancing Text-to-SQL Capabilities of Large Language Models through Tailored Promptings",
+  "authors": [
+    "Zhao Tan",
+    "Xiping Liu*",
+    "Qing Shu",
+    "Xi Li",
+    "Changxuan Wan",
+    "Dexi Liu",
+    "Qizhi Wan",
+    "Guoqiong Liao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2024.lrec-main.539",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.539/"
+}

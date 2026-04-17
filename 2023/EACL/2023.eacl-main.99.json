@@ -1,0 +1,20 @@
+{
+  "title": "BLM-AgrF: A New French Benchmark to Investigate Generalization of Agreement in Neural Networks",
+  "authors": [
+    "Aixiu An",
+    "Chunyang Jiang",
+    "Maria A. Rodriguez",
+    "Vivi Nastase",
+    "Paola Merlo"
+  ],
+  "languages": [
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eacl-main.99",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.99/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems",
+  "authors": [
+    "Fei Mi",
+    "Wanha0 Zhou",
+    "Fengyu Cai",
+    "Lingjing Kong",
+    "Minlie Huang",
+    "Boi Faltings"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.emnlp-main.142",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.142/"
+}

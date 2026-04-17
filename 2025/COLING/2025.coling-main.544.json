@@ -1,0 +1,22 @@
+{
+  "title": "DeTriever: Decoder-representation-based Retriever for Improving NL2SQL In-Context Learning",
+  "authors": [
+    "Raymond Li",
+    "Yuxi Feng",
+    "Zhenan Fan",
+    "Giuseppe Carenini",
+    "Weiwei Zhang",
+    "Mohammadreza Pourreza",
+    "Yong Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.coling-main.544",
+  "acl_url": "https://aclanthology.org/2025.coling-main.544/"
+}

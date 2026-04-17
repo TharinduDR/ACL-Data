@@ -1,0 +1,21 @@
+{
+  "title": "MaCmS: Magahi Code-mixed Dataset for Sentiment Analysis",
+  "authors": [
+    "Priya Rani",
+    "Gaurav Negi",
+    "Theodorus Fransen",
+    "John P McCrae"
+  ],
+  "languages": [
+    "Magahi",
+    "Hindi",
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.lrec-main.950",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.950/"
+}

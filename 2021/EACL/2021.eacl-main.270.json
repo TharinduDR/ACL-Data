@@ -1,0 +1,21 @@
+{
+  "title": "Is Supervised Syntactic Parsing Beneficial for Language Understanding Tasks? An Empirical Investigation",
+  "authors": [
+    "Goran Glavaš",
+    "Ivan Vulić"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.eacl-main.270",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.270/"
+}

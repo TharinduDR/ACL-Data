@@ -1,0 +1,20 @@
+{
+  "title": "WARM: A Weakly (+Semi) Supervised Math Word Problem Solver",
+  "authors": [
+    "Oishik Chatterjee",
+    "Isha Pandey",
+    "Aashish Waikar",
+    "Vishwajeet Kumar",
+    "Ganesh Ramakrishnan"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2022.coling-1.421",
+  "acl_url": "https://aclanthology.org/2022.coling-1.421/"
+}

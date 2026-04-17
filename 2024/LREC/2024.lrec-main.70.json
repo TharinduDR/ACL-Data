@@ -1,0 +1,21 @@
+{
+  "title": "A Luxembourgish corpus as a Gender Bias Evaluation Testset",
+  "authors": [
+    "Dimitra Anastasiou",
+    "Marie Gallais",
+    "Carole Blond-Hanten"
+  ],
+  "languages": [
+    "Luxembourgish",
+    "French",
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2024.lrec-main.70",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.70/"
+}

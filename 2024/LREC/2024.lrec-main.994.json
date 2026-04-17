@@ -1,0 +1,21 @@
+{
+  "title": "Mixture-of-LoRAs: An Efficient Multitask Tuning for Large Language Models",
+  "authors": [
+    "Wenfeng Feng",
+    "Chuzhan Hao",
+    "Yuewei Zhang",
+    "Yu Han",
+    "Hao Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.lrec-main.994",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.994/"
+}

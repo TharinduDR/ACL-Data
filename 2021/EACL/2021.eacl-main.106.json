@@ -1,0 +1,18 @@
+{
+  "title": "NLQuAD: A Non-Factoid Long Question Answering Data Set",
+  "authors": [
+    "Amir Soleimani",
+    "Christof Monz",
+    "Marcel Worring"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.eacl-main.106",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.106/"
+}

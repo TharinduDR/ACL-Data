@@ -1,0 +1,21 @@
+{
+  "title": "CoHS-CQG: Context and History Selection for Conversational Question Generation",
+  "authors": [
+    "Xuan Long Do",
+    "Bowei Zou",
+    "Liangming Pan",
+    "Nancy F. Chen",
+    "Shafiq Joty",
+    "Ai Ti Aw"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.coling-1.48",
+  "acl_url": "https://aclanthology.org/2022.coling-1.48/"
+}

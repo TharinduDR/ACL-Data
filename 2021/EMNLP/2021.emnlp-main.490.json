@@ -1,0 +1,20 @@
+{
+  "title": "Summarize-then-Answer: Generating Concise Explanations for Multi-hop Reading Comprehension",
+  "authors": [
+    "Naoya Inoue",
+    "Harsh Trivedi",
+    "Steven Sinha",
+    "Niranjan Balasubramanian",
+    "Kentaro Inui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.emnlp-main.490",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.490/"
+}

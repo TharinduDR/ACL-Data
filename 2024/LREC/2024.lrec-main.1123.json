@@ -1,0 +1,21 @@
+{
+  "title": "Polish Discourse Corpus (PDC): Corpus Design, ISO-Compliant Annotation, Data Highlights, and Parser Development",
+  "authors": [
+    "Maciej Ogrodniczuk",
+    "Aleksandra Tomaszewska",
+    "Daniel Ziembicki",
+    "Sebastian Żurowski",
+    "Ryszard Tuora",
+    "Aleksandra Zwierzchowska"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.lrec-main.1123",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1123/"
+}

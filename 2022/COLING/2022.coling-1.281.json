@@ -1,0 +1,19 @@
+{
+  "title": "Enhancing Contextual Word Representations Using Embedding of Neighboring Entities in Knowledge Graphs",
+  "authors": [
+    "Ryoko Tokuhisa",
+    "Keisuke Kawano",
+    "Akihiro Nakamura",
+    "Satoshi Koide"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2022.coling-1.281",
+  "acl_url": "https://aclanthology.org/2022.coling-1.281/"
+}

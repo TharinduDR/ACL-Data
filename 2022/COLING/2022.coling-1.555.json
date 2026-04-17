@@ -1,0 +1,24 @@
+{
+  "title": "Paraphrase Generation as Unsupervised Machine Translation",
+  "authors": [
+    "Xiaofei Sun",
+    "Yufei Tian",
+    "Yuxian Meng",
+    "Nanyun Peng",
+    "Fei Wu",
+    "Jiwei Li",
+    "Chun Fan"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.coling-1.555",
+  "acl_url": "https://aclanthology.org/2022.coling-1.555/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Towards Robust Neural Machine Translation with Iterative Scheduled Data-Switch Training",
+  "authors": [
+    "Zhongjian Miao",
+    "Xiang Li",
+    "Liyan Kang",
+    "Wen Zhang",
+    "Chulun Zhou",
+    "Yidong Chen",
+    "Bin Wang",
+    "Min Zhang",
+    "Jinsong Su"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.coling-1.468",
+  "acl_url": "https://aclanthology.org/2022.coling-1.468/"
+}

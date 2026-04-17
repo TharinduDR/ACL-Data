@@ -1,0 +1,20 @@
+{
+  "title": "Exploring Question-Specific Rewards for Generating Deep Questions",
+  "authors": [
+    "Yuxi Xie",
+    "Liangming Pan",
+    "Dongze Wang",
+    "Min-Yen Kan",
+    "Yansong Feng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.coling-main.228",
+  "acl_url": "https://aclanthology.org/2020.coling-main.228/"
+}

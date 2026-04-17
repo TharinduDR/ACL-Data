@@ -1,0 +1,22 @@
+{
+  "title": "Cross-Attention is All You Need: Adapting Pretrained Transformers for Machine Translation",
+  "authors": [
+    "Mozhdeh Gheini",
+    "Xiang Ren",
+    "Jonathan May"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Japanese",
+    "Spanish",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.emnlp-main.132",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.132/"
+}

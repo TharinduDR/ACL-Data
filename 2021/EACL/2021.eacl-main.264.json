@@ -1,0 +1,33 @@
+{
+  "title": "Attention Can Reflect Syntactic Structure (If You Let It)",
+  "authors": [
+    "Vinit Ravishankar",
+    "Artur Kulmizev",
+    "Mostafa Abdou",
+    "Anders Søgaard",
+    "Joakim Nivre"
+  ],
+  "languages": [
+    "Arabic",
+    "Czech",
+    "German",
+    "English",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Swedish",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T12",
+    "T21"
+  ],
+  "paper_id": "2021.eacl-main.264",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.264/"
+}

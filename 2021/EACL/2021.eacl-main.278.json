@@ -1,0 +1,20 @@
+{
+  "title": "Interpretability for Morphological Inflection: from Character-level Predictions to Subword-level Rules",
+  "authors": [
+    "Tatyana Ruzics",
+    "Olga Sozinova",
+    "Ximena Gutierrez-Vasques",
+    "Tanja Samardzić"
+  ],
+  "languages": [
+    "Italian",
+    "Finnish",
+    "Tagalog"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.eacl-main.278",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.278/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Finding Spoken Identifications: Using GPT-4 Annotation For An Efficient And Fast Dataset Creation Pipeline",
+  "authors": [
+    "Maliha Jahan",
+    "Helin Wang",
+    "Thomas Thebaud",
+    "Yinglun Sun",
+    "Giang Le",
+    "Zsuzsanna Fagyal",
+    "Odette Scharenborg",
+    "Mark Hasegawa-Johnson",
+    "Laureano Moro-Velazquez",
+    "Najim Dehak"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.641",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.641/"
+}

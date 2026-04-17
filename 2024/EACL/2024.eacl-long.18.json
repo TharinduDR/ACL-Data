@@ -1,0 +1,50 @@
+{
+  "title": "Zero-shot Sentiment Analysis in Low-Resource Languages Using a Multilingual Sentiment Lexicon",
+  "authors": [
+    "Fajri Koto",
+    "Tilman Beck",
+    "Zeerak Talat",
+    "Iryna Gurevych",
+    "Timothy Baldwin"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Spanish",
+    "Russian",
+    "Indonesian",
+    "Japanese",
+    "Acehnese",
+    "Balinese",
+    "Batak Toba",
+    "Banjarase",
+    "Buginese",
+    "Madurese",
+    "Minangkabau",
+    "Javanese",
+    "Ngaju",
+    "Sundanese",
+    "Amharic",
+    "Algerian Arabic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Darija",
+    "Mozambican Portuguese",
+    "Swahili",
+    "Twi",
+    "Yoruba",
+    "Oromo",
+    "Tigrinya",
+    "Tunisian Arabic",
+    "English-Spanish",
+    "English-Malayalam",
+    "English-Tamil"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.eacl-long.18",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.18/"
+}

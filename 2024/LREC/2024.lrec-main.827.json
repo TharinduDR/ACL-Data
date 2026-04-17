@@ -1,0 +1,40 @@
+{
+  "title": "Jargon: A Suite of Language Models and Evaluation Tasks for French Specialized Domains",
+  "authors": [
+    "Vincent Segonne",
+    "Aidan Mannion",
+    "Laura Cristina Alonzo Canul",
+    "Alexandre Audibert",
+    "Xingyu Liu",
+    "Cécile Macaire",
+    "Adrien Pupier",
+    "Yongxin Zhou",
+    "Mathilde Aguiar",
+    "Felix Herron",
+    "Magali Norré",
+    "Massih-Reza Amini",
+    "Pierrette Bouillon",
+    "Iris Eshkol-Taravella",
+    "Emmanuelle Esperança-Rodier",
+    "Thomas François",
+    "Lorraine Goeuriot",
+    "Jérôme Goulian",
+    "Mathieu Lafourcade",
+    "François Portet",
+    "Fabien Ringeval",
+    "Vincent Vandeghinste",
+    "Maximin Coavoux",
+    "Marco Dinarelli",
+    "Didier Schwab"
+  ],
+  "languages": [
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.lrec-main.827",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.827/"
+}

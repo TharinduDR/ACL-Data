@@ -1,0 +1,23 @@
+{
+  "title": "Decorrelate Irrelevant, Purify Relevant: Overcome Textual Spurious Correlations from a Feature Perspective",
+  "authors": [
+    "Shihan Dou",
+    "Rui Zheng",
+    "Ting Wu",
+    "Songyang Gao",
+    "Junjie Shan",
+    "Qi Zhang",
+    "Yueming Wu",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.coling-1.199",
+  "acl_url": "https://aclanthology.org/2022.coling-1.199/"
+}

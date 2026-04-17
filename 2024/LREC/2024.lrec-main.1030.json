@@ -1,0 +1,35 @@
+{
+  "title": "Multilingual Brain Surgeon: Large Language Models Can be Compressed Leaving No Language Behind",
+  "authors": [
+    "Hongchuan Zeng",
+    "Hongshen Xu",
+    "Lu Chen",
+    "Kai Yu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Spanish",
+    "Arabic",
+    "Bengali",
+    "Hindi",
+    "Indonesian",
+    "Marathi",
+    "Nepali",
+    "Portuguese",
+    "Sinhala",
+    "Swahili",
+    "Tamil",
+    "Telugu",
+    "Urdu",
+    "Vietnamese",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.lrec-main.1030",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1030/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Non-Autoregressive Text Generation with Pre-trained Language Models",
+  "authors": [
+    "Yixuan Su",
+    "Deng Cai",
+    "Yan Wang",
+    "David Vandyke",
+    "Simon Baker",
+    "Piji Li",
+    "Nigel Collier"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2021.eacl-main.18",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.18/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Rethinking Data Augmentation for Low-Resource Neural Machine Translation: A Multi-Task Learning Approach",
+  "authors": [
+    "Víctor M. Sánchez-Cartagena",
+    "Miquel Esplà-Gomis",
+    "Juan Antonio Pérez-Ortiz",
+    "Felipe Sánchez-Martínez"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hebrew",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.emnlp-main.669",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.669/"
+}

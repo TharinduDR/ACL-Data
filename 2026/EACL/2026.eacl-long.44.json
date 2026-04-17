@@ -1,0 +1,28 @@
+{
+  "title": "Safety of Large Language Models Beyond English: A Systematic Literature Review of Risks, Biases, and Safeguards",
+  "authors": [
+    "Aleksandra Krasnodębska",
+    "Katarzyna Dziewulska",
+    "Karolina Seweryn",
+    "Maciej Chrabąszcz",
+    "Wojciech Kusa"
+  ],
+  "languages": [
+    "Chinese",
+    "French",
+    "Italian",
+    "Spanish",
+    "Arabic",
+    "Hindi",
+    "Russian",
+    "German",
+    "Korean",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.44",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.44/"
+}

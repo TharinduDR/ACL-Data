@@ -1,0 +1,23 @@
+{
+  "title": "LoRaLay: A Multilingual and Multimodal Dataset for Long Range and Layout-Aware Summarization",
+  "authors": [
+    "Laura Nguyen",
+    "Thomas Scialom",
+    "Benjamin Piwowarski",
+    "Jacopo Staiano"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Korean"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eacl-main.46",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.46/"
+}

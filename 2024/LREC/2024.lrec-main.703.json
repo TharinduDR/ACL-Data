@@ -1,0 +1,19 @@
+{
+  "title": "Guided Distant Supervision for Multilingual Relation Extraction Data: Adapting to a New Language",
+  "authors": [
+    "Alistair Plum",
+    "Tharindu Ranasinghe",
+    "Christoph Purschke"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.703",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.703/"
+}

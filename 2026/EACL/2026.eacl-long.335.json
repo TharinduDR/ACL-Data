@@ -1,0 +1,22 @@
+{
+  "title": "SCENEbench: An Audio Understanding Benchmark Grounded in Assistive and Industrial Use Cases",
+  "authors": [
+    "Laya Iyer",
+    "Angelina Wang",
+    "Sanmi Koyejo"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Hindi",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2026.eacl-long.335",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.335/"
+}

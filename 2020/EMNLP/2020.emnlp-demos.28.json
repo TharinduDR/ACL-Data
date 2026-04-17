@@ -1,0 +1,19 @@
+{
+  "title": "Langsmith: An Interactive Academic Text Revision System",
+  "authors": [
+    "Takumi Ito",
+    "Tatsuki Kuribayashi",
+    "Masatoshi Hidaka",
+    "Jun Suzuki",
+    "Kentaro Inui"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2020.emnlp-demos.28",
+  "acl_url": "https://aclanthology.org/2020.emnlp-demos.28/"
+}

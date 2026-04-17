@@ -1,0 +1,24 @@
+{
+  "title": "CausalQA: A Benchmark for Causal Question Answering",
+  "authors": [
+    "Alexander Bondarenko",
+    "Magdalena Wolska",
+    "Stefan Heindorf",
+    "Lukas Blübaum",
+    "Axel-Cyrille Ngonga Ngomo",
+    "Benno Stein",
+    "Pavel Braslavski",
+    "Matthias Hagen",
+    "Martin Potthast"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.coling-1.291",
+  "acl_url": "https://aclanthology.org/2022.coling-1.291/"
+}

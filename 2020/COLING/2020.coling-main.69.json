@@ -1,0 +1,20 @@
+{
+  "title": "Syntax-Aware Graph Attention Network for Aspect-Level Sentiment Classification",
+  "authors": [
+    "Lianzhe Huang",
+    "Xin Sun",
+    "Sujian Li",
+    "Linhao Zhang",
+    "Houfeng Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.coling-main.69",
+  "acl_url": "https://aclanthology.org/2020.coling-main.69/"
+}

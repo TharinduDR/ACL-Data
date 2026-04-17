@@ -1,0 +1,18 @@
+{
+  "title": "Nahw: A Comprehensive Benchmark of Arabic Grammar Understanding, Error Detection, Correction, and Explanation",
+  "authors": [
+    "Hamdy Mubarak",
+    "Majd Hawasly",
+    "Abubakr Mohamed"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.296",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.296/"
+}

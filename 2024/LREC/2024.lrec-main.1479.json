@@ -1,0 +1,30 @@
+{
+  "title": "Unicode Normalization and Grapheme Parsing of Indic Languages",
+  "authors": [
+    "Nazmuddoha Ansary",
+    "Quazi Adibur Rahman Adib",
+    "Tahsin Reasat",
+    "Asif Shahriyar Sushmit",
+    "Ahmed Imtiaz Humayun",
+    "Sazia Mehnaz",
+    "Kanij Fatema",
+    "Mohammad Mamun Or Rashid",
+    "Farig Sadeque"
+  ],
+  "languages": [
+    "Bangla",
+    "Devanagari",
+    "Gujarati",
+    "Odiya",
+    "Tamil",
+    "Punjabi",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.lrec-main.1479",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1479/"
+}

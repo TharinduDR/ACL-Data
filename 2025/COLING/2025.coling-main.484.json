@@ -1,0 +1,21 @@
+{
+  "title": "Cross-lingual Social Misinformation Detector based on Hierarchical Mixture-of-Experts Adapter",
+  "authors": [
+    "Haofang Fan",
+    "Xiran Hu",
+    "Geng Zhao"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.coling-main.484",
+  "acl_url": "https://aclanthology.org/2025.coling-main.484/"
+}

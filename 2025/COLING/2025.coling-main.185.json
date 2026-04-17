@@ -1,0 +1,25 @@
+{
+  "title": "Efficient Tool Use with Chain-of-Abstraction Reasoning",
+  "authors": [
+    "Silin Gao",
+    "Jane Dwivedi-Yu",
+    "Ping Yu",
+    "Xiaoqing Ellen Tan",
+    "Ramakanth Pasunuru",
+    "Olga Golovneva",
+    "Koustuv Sinha",
+    "Asli Celikyilmaz",
+    "Antoine Bosselut",
+    "Tianlu Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.coling-main.185",
+  "acl_url": "https://aclanthology.org/2025.coling-main.185/"
+}

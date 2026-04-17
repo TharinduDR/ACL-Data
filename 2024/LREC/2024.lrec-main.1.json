@@ -1,0 +1,24 @@
+{
+  "title": "3AM: An Ambiguity-Aware Multi-Modal Machine Translation Dataset",
+  "authors": [
+    "Xinyu Ma",
+    "Xuebo Liu",
+    "Derek F. Wong",
+    "Jun Rao",
+    "Bei Li",
+    "Liang Ding",
+    "Lidia S. Chao",
+    "Dacheng Tao",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.lrec-main.1",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1/"
+}

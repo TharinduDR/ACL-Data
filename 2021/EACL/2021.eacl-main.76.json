@@ -1,0 +1,24 @@
+{
+  "title": "Combining Deep Generative Models and Multi-lingual Pretraining for Semi-supervised Document Classification",
+  "authors": [
+    "Yi Zhu",
+    "Ehsan Shareghi",
+    "Yingzhen Li",
+    "Roi Reichart",
+    "Anna Korhonen"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.eacl-main.76",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.76/"
+}

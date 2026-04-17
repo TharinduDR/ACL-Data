@@ -1,0 +1,21 @@
+{
+  "title": "Hi-GEC: Hindi Grammar Error Correction in Low Resource Scenario",
+  "authors": [
+    "Ujjwal Sharma",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "Hindi",
+    "English",
+    "Assamese",
+    "Marathi",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T29",
+    "T14",
+    "T16"
+  ],
+  "paper_id": "2025.coling-main.406",
+  "acl_url": "https://aclanthology.org/2025.coling-main.406/"
+}

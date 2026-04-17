@@ -1,0 +1,23 @@
+{
+  "title": "CSL: A Large-scale Chinese Scientific Literature Dataset",
+  "authors": [
+    "Yudong Li",
+    "Yuqing Zhang",
+    "Zhe Zhao",
+    "Linlin Shen",
+    "Weijie Liu",
+    "Weiquan Mao",
+    "Hui Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.coling-1.344",
+  "acl_url": "https://aclanthology.org/2022.coling-1.344/"
+}

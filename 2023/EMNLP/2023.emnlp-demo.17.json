@@ -1,0 +1,27 @@
+{
+  "title": "CLEVA: Chinese Language Models EVAluation Platform",
+  "authors": [
+    "Yanyang Li",
+    "Jianqiao Zhao",
+    "Duo Zheng",
+    "Zi-Yuan Hu",
+    "Zhi Chen",
+    "Xiaohui Su",
+    "Yongfeng Huang",
+    "Shijia Huang",
+    "Dahua Lin",
+    "Michael R. Lyu",
+    "Liwei Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.emnlp-demo.17",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.17/"
+}

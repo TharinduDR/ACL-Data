@@ -1,0 +1,27 @@
+{
+  "title": "Improving Multilingual Sign Language Translation with Automatically Clustered Language Family Information",
+  "authors": [
+    "Ruiquan Zhang",
+    "Cong Hu",
+    "Pei Yu",
+    "Yidong Chen"
+  ],
+  "languages": [
+    "Chinese",
+    "Ukrainian",
+    "Russian",
+    "Bulgarian",
+    "Icelandic",
+    "German",
+    "Italian",
+    "Swedish",
+    "Lithuanian",
+    "British"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.coling-main.241",
+  "acl_url": "https://aclanthology.org/2025.coling-main.241/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Parameter-Efficient Neural Reranking for Cross-Lingual and Multilingual Retrieval",
+  "authors": [
+    "Robert Litschko",
+    "Ivan Vulić",
+    "Goran Glavaš"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Russian",
+    "Turkish",
+    "Kyrgyz",
+    "Uyghur",
+    "Swahili",
+    "Somali",
+    "Persian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.coling-1.90",
+  "acl_url": "https://aclanthology.org/2022.coling-1.90/"
+}

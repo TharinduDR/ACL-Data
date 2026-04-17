@@ -1,0 +1,31 @@
+{
+  "title": "Zero-shot learning for multilingual discourse relation classification",
+  "authors": [
+    "Eleni Metheniti",
+    "Philippe Muller",
+    "Chloé Braud",
+    "Margarita Hernández-Casas"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Basque",
+    "Persian",
+    "French",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T05 Discourse and Pragmatics",
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.lrec-main.1553",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1553/"
+}

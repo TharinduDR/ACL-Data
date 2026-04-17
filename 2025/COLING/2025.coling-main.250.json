@@ -1,0 +1,24 @@
+{
+  "title": "Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation",
+  "authors": [
+    "Ruiyang Ren",
+    "Yuhao Wang",
+    "Yingqi Qu",
+    "Wayne Xin Zhao",
+    "Jing Liu",
+    "Hao Tian",
+    "Hua Wu",
+    "Ji-Rong Wen",
+    "Haifeng Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.coling-main.250",
+  "acl_url": "https://aclanthology.org/2025.coling-main.250/"
+}

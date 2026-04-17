@@ -1,0 +1,22 @@
+{
+  "title": "Align-to-Distill: Trainable Attention Alignment for Knowledge Distillation in Neural Machine Translation",
+  "authors": [
+    "Heegon Jin",
+    "Seonil Son",
+    "Jemin Park",
+    "Youngseok Kim",
+    "Hyungjong Noh",
+    "Yeonsoo Lee"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Lower Sorbian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.64",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.64/"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Comprehensive Study on German Language Models for Clinical and Biomedical Text Understanding",
+  "authors": [
+    "Ahmad Idrissi-Yaghir",
+    "Amin Dada",
+    "Henning Schäfer",
+    "Kamyar Arzideh",
+    "Giulia Baldini",
+    "Jan Trienes",
+    "Max Hasin",
+    "Jeanette Bewersdorff",
+    "Cynthia S. Schmidt",
+    "Marie Bauer",
+    "Kaleb E. Smith",
+    "Jiang Bian",
+    "Yonghui Wu",
+    "Jörg Schlötterer",
+    "Torsten Zesch",
+    "Peter A. Horn",
+    "Christin Seifert",
+    "Felix Nensa",
+    "Jens Kleesiek",
+    "Christoph M. Friedrich"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2024.lrec-main.324",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.324/"
+}

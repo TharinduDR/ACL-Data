@@ -1,0 +1,39 @@
+{
+  "title": "Uncertainty-Aware Balancing for Multilingual and Multi-Domain Neural Machine Translation Training",
+  "authors": [
+    "Minghao Wu",
+    "Yitong Li",
+    "Meng Zhang",
+    "Liangyou Li",
+    "Gholamreza Haffari",
+    "Qun Liu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Azerbaijani",
+    "Belarusian",
+    "Glacian",
+    "Slovak",
+    "Turkish",
+    "Russian",
+    "Portuguese",
+    "Czech",
+    "Bosnian",
+    "Marathi",
+    "Hindi",
+    "Macedonian",
+    "Greek",
+    "Bulgarian",
+    "French",
+    "Korean",
+    "Tanzil",
+    "QED",
+    "TED"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.emnlp-main.580",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.580/"
+}

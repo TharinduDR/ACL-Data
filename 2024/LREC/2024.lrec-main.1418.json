@@ -1,0 +1,23 @@
+{
+  "title": "Topics as Entity Clusters: Entity-based Topics from Large Language Models and Graph Neural Networks",
+  "authors": [
+    "Manuel V. Loureiro",
+    "Steven Derby",
+    "Tri Kurniawan Wijaya"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.lrec-main.1418",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1418/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Cross-Lingual Learning vs. Low-Resource Fine-Tuning: A Case Study with Fact-Checking in Turkish",
+  "authors": [
+    "Recep Firat Cekinel",
+    "Pinar Karagoz",
+    "Cagri Coltekin"
+  ],
+  "languages": [
+    "Turkish",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.368",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.368/"
+}

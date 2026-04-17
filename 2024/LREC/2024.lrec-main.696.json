@@ -1,0 +1,46 @@
+{
+  "title": "Gradient Consistency-based Parameter Allocation for Multilingual Neural Machine Translation",
+  "authors": [
+    "Wenshuai Huo",
+    "Xiaocheng Feng",
+    "Yichong Huang",
+    "Chengpeng Fu",
+    "Hui Wang",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English",
+    "Bosnian",
+    "Marathi",
+    "Hindi",
+    "Macedonian",
+    "Greek",
+    "Bulgarian",
+    "French",
+    "Korean",
+    "Belarusian",
+    "Azerbaijani",
+    "Gujarati",
+    "Slovak",
+    "Czech",
+    "Turkish",
+    "Portuguese",
+    "Russian",
+    "Turkish",
+    "Romanian",
+    "Estonian",
+    "Chinese",
+    "German",
+    "French",
+    "English",
+    "German",
+    "Italian",
+    "Dutch",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.696",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.696/"
+}

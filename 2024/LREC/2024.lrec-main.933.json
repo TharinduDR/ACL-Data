@@ -1,0 +1,23 @@
+{
+  "title": "LLMSegm: Surface-level Morphological Segmentation Using Large Language Model",
+  "authors": [
+    "Marko Pranjić",
+    "Marko Robnik Šikonja",
+    "Senja Pollak"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Turkish",
+    "Swati",
+    "Zulu",
+    "Xhosa",
+    "Ndebele"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.lrec-main.933",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.933/"
+}

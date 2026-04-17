@@ -1,0 +1,29 @@
+{
+  "title": "A Multilingual Reading Comprehension System for more than 100 Languages",
+  "authors": [
+    "Anthony Ferritto",
+    "Sara Rosenthal",
+    "Mihaela Bornea",
+    "Kazi Hasan",
+    "Rishav Chakravarti",
+    "Salim Roukos",
+    "Radu Florian",
+    "Avirup Sil"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Arabic",
+    "Hindi",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2020.coling-demos.8",
+  "acl_url": "https://aclanthology.org/2020.coling-demos.8/"
+}

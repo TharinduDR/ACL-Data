@@ -1,0 +1,25 @@
+{
+  "title": "Indic-TEDST: Datasets and Baselines for Low-Resource Speech to Text Translation",
+  "authors": [
+    "Nivedita Sethiya",
+    "Saanvi Nair",
+    "Chandresh Kumar Maurya"
+  ],
+  "languages": [
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Punjabi",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.lrec-main.790",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.790/"
+}

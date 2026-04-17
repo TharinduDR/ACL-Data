@@ -1,0 +1,23 @@
+{
+  "title": "ConRPG: Paraphrase Generation using Contexts as Regularizer",
+  "authors": [
+    "Yuxian Meng",
+    "Xiang Ao",
+    "Qing He",
+    "Xiaofei Sun",
+    "Qinghong Han",
+    "Fei Wu",
+    "Chun fan",
+    "Jiwei Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2021.emnlp-main.199",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.199/"
+}

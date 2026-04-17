@@ -1,0 +1,21 @@
+{
+  "title": "Introducing CQuAE : a New French Contextualised Question-Answering Corpus for the Education Domain",
+  "authors": [
+    "Thomas Gerald",
+    "Louis Tamames",
+    "Sofiane Ettayeb",
+    "Patrick Paroubek",
+    "Anne Vilnat"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.lrec-main.808",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.808/"
+}

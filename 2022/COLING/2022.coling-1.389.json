@@ -1,0 +1,21 @@
+{
+  "title": "BRCC and SentiBahasaRojak: The First Bahasa Rojak Corpus for Pretraining and Sentiment Analysis Dataset",
+  "authors": [
+    "Nanda Putri Romadhona",
+    "Sin-En Lu",
+    "Bo-Han Lu",
+    "Richard Tzong-Han Tsai"
+  ],
+  "languages": [
+    "English",
+    "Malay",
+    "Bahasa Rojak"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.coling-1.389",
+  "acl_url": "https://aclanthology.org/2022.coling-1.389/"
+}

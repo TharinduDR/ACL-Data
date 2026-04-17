@@ -1,0 +1,19 @@
+{
+  "title": "CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation",
+  "authors": [
+    "Yue Wang",
+    "Weishi Wang",
+    "Shafiq Joty",
+    "Steven C.H. Hoi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T18 Text Summarization",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2021.emnlp-main.685",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.685/"
+}

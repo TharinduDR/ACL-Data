@@ -1,0 +1,23 @@
+{
+  "title": "Rethinking Skip Connection with Layer Normalization",
+  "authors": [
+    "Fenglin Liu",
+    "Xuancheng Ren",
+    "Zhiyuan Zhang",
+    "Xu Sun",
+    "Yuexian Zou"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.coling-main.320",
+  "acl_url": "https://aclanthology.org/2020.coling-main.320/"
+}

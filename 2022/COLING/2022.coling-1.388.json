@@ -1,0 +1,30 @@
+{
+  "title": "Byte-based Multilingual NMT for Endangered Languages",
+  "authors": [
+    "Mengjiao Zhang",
+    "Jia Xu"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Farsi",
+    "Turkish",
+    "Chinese",
+    "Slovenian",
+    "Quechua",
+    "Guarani",
+    "Nahuatl",
+    "Shipibo-Konibo",
+    "Aymara",
+    "Bribri",
+    "Rarámuri",
+    "Wixarika",
+    "Asháninka",
+    "Otomi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.coling-1.388",
+  "acl_url": "https://aclanthology.org/2022.coling-1.388/"
+}

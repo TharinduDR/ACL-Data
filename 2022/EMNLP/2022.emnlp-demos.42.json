@@ -1,0 +1,25 @@
+{
+  "title": "TextBox 2.0: A Text Generation Library with Pre-trained Language Models",
+  "authors": [
+    "Tianyi Tang",
+    "Junyi Li",
+    "Zhipeng Chen",
+    "Yiwen Hu",
+    "Zhuohao Yu",
+    "Wenxun Dai",
+    "Wayne Xin Zhao",
+    "Jian-Yun Nie",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T19 Text Simplification"
+  ],
+  "paper_id": "2022.emnlp-demos.42",
+  "acl_url": "https://aclanthology.org/2022.emnlp-demos.42/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Gen-SQL: Efficient Text-to-SQL By Bridging Natural Language Question And Database Schema With Pseudo-Schema",
+  "authors": [
+    "Jie Shi",
+    "Bo Xu",
+    "Jiaqing Liang",
+    "Yanghua Xiao",
+    "Jia Chen",
+    "Chenhao Xie",
+    "Peng Wang",
+    "Wei Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.coling-main.256",
+  "acl_url": "https://aclanthology.org/2025.coling-main.256/"
+}

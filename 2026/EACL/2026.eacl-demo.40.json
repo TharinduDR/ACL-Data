@@ -1,0 +1,21 @@
+{
+  "title": "Simultaneous Speech-to-Text Translation Web Application for Estonian",
+  "authors": [
+    "Bohdan Podziubanchuk",
+    "Aivo Olev",
+    "Jiaming Kong",
+    "Tanel Alumäe"
+  ],
+  "languages": [
+    "Estonian",
+    "English",
+    "Russian",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2026.eacl-demo.40",
+  "acl_url": "https://aclanthology.org/2026.eacl-demo.40/"
+}

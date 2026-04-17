@@ -1,0 +1,22 @@
+{
+  "title": "Disentangling Pretrained Representation to Leverage Low-Resource Languages in Multilingual Machine Translation",
+  "authors": [
+    "Frederikus Hudi",
+    "Zhi Qu",
+    "Hidetaka Kamigaito",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "Indonesian",
+    "Javanese",
+    "Sundanese",
+    "Balinese",
+    "Madurese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.lrec-main.446",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.446/"
+}

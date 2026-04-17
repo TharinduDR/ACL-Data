@@ -1,0 +1,29 @@
+{
+  "title": "Evaluating Diversity of Multiword Expressions in Annotated Text",
+  "authors": [
+    "Adam Lion-Bouton",
+    "Yağmur Öztürk",
+    "Agata Savary",
+    "Jean-Yves Antoine"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Irish",
+    "Hebrew",
+    "Hindi",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Slovak",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.coling-1.290",
+  "acl_url": "https://aclanthology.org/2022.coling-1.290/"
+}

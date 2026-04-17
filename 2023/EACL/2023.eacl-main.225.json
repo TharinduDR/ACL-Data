@@ -1,0 +1,21 @@
+{
+  "title": "DIFFQG: Generating Questions to Summarize Factual Changes",
+  "authors": [
+    "Jeremy R. Cole",
+    "Palak Jain",
+    "Julian Martin Eisenschlos",
+    "Michael J.Q. Zhang",
+    "Eunsol Choi",
+    "Bhuwan Dhingra"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.eacl-main.225",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.225/"
+}

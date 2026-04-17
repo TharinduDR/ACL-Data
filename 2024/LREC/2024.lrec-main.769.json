@@ -1,0 +1,23 @@
+{
+  "title": "Improving Cross-lingual Transfer with Contrastive Negative Learning and Self-training",
+  "authors": [
+    "Guanlin Li",
+    "Xuechen Zhao",
+    "Amir Jafari",
+    "Wenhao Shao",
+    "Reza Farahbakhsh",
+    "Noel Crespi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.769",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.769/"
+}

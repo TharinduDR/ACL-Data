@@ -1,0 +1,24 @@
+{
+  "title": "Wizard of Tasks: A Novel Conversational Dataset for Solving Real-World Tasks in Conversational Settings",
+  "authors": [
+    "Jason Ingyu Choi",
+    "Saar Kuzi",
+    "Nikhita Vedula",
+    "Jie Zhao",
+    "Giuseppe Castellucci",
+    "Marcus Collins",
+    "Shervin Malmasi",
+    "Oleg Rokhlenko",
+    "Eugene Agichtein"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.coling-1.310",
+  "acl_url": "https://aclanthology.org/2022.coling-1.310/"
+}

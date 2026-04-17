@@ -1,0 +1,22 @@
+{
+  "title": "Robust Neural Machine Translation for Abugidas by Glyph Perturbation",
+  "authors": [
+    "Hour Kaing",
+    "Chenchen Ding",
+    "Hideki Tanaka",
+    "Masao Utiyama"
+  ],
+  "languages": [
+    "Bengali",
+    "Hindi",
+    "Myanmar",
+    "Khmer",
+    "Lao",
+    "Thai"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.eacl-short.27",
+  "acl_url": "https://aclanthology.org/2024.eacl-short.27/"
+}

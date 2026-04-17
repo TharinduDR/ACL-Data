@@ -1,0 +1,20 @@
+{
+  "title": "Event Coreference Resolution with their Paraphrases and Argument-aware Embeddings",
+  "authors": [
+    "Yutao Zeng",
+    "Xiaolong Jin",
+    "Saiping Guan",
+    "Jiafeng Guo",
+    "Xueqi Cheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.coling-main.275",
+  "acl_url": "https://aclanthology.org/2020.coling-main.275/"
+}

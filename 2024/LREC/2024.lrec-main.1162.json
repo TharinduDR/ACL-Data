@@ -1,0 +1,17 @@
+{
+  "title": "Pruning before Fine-tuning: A Retraining-free Compression Framework for Pre-trained Language Models",
+  "authors": [
+    "Pingjie Wang",
+    "Hongcheng Liu",
+    "Yu Wang",
+    "Yanfeng Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.lrec-main.1162",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1162/"
+}

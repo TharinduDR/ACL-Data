@@ -1,0 +1,24 @@
+{
+  "title": "CORI: CJKV Benchmark with Romanization Integration - A step towards Cross-lingual Transfer Beyond Textual Scripts",
+  "authors": [
+    "Hoang H. Nguyen",
+    "Chenwei Zhang",
+    "Ye Liu",
+    "Natalie Parde",
+    "Eugene Rohrbaugh",
+    "Philip S. Yu"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.356",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.356/"
+}

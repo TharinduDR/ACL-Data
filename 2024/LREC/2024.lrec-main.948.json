@@ -1,0 +1,28 @@
+{
+  "title": "m³P: Towards Multimodal Multilingual Translation with Multimodal Prompt",
+  "authors": [
+    "Jian Yang",
+    "Hongcheng Guo",
+    "Yuwei Yin",
+    "Jiaqi Bai",
+    "Bing Wang",
+    "Jiaheng Liu",
+    "Xinnian Liang",
+    "Linzhen Chai",
+    "Liqun Yang",
+    "Zhoujun Li"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Czech",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.lrec-main.948",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.948/"
+}

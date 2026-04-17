@@ -1,0 +1,21 @@
+{
+  "title": "Applying the Transformer to Character-level Transduction",
+  "authors": [
+    "Shijie Wu",
+    "Ryan Cotterell",
+    "Mans Hulden"
+  ],
+  "languages": [
+    "Latin",
+    "Faroese",
+    "French",
+    "Hungarian",
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.eacl-main.163",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.163/"
+}

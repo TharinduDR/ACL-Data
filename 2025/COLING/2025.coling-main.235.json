@@ -1,0 +1,19 @@
+{
+  "title": "HLU: Human Vs LLM Generated Text Detection Dataset for Urdu at Multiple Granularities",
+  "authors": [
+    "Iqra Ali",
+    "Jesse Atuhurra",
+    "Hidetaka Kamigaito",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "Urdu",
+    "English"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.235",
+  "acl_url": "https://aclanthology.org/2025.coling-main.235/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "DRGCODER: Explainable Clinical Coding for the Early Prediction of Diagnostic-Related Groups",
+  "authors": [
+    "Daniel Hajialigol",
+    "Derek Kaknes",
+    "Tanner Barbour",
+    "Daphne Yao",
+    "Chris North",
+    "Jimeng Sun",
+    "David Liem",
+    "Xuan Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T26 Clinical/biomedical NLP",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.emnlp-demo.34",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.34/"
+}

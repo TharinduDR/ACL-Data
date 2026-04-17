@@ -1,0 +1,21 @@
+{
+  "title": "TermDiffuSum: A Term-guided Diffusion Model for Extractive Summarization of Legal Documents",
+  "authors": [
+    "Xiangyun Dong",
+    "Wei Li",
+    "Yuquan Le",
+    "Zhangyue Jiang",
+    "Junxi Zhong",
+    "Zhong Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.coling-main.216",
+  "acl_url": "https://aclanthology.org/2025.coling-main.216/"
+}

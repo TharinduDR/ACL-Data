@@ -1,0 +1,26 @@
+{
+  "title": "AfriMTEB and AfriE5: Benchmarking and Adapting Text Embedding Models for African Languages",
+  "authors": [
+    "Kosei Uemura",
+    "Miaoran Zhang",
+    "David Ifeoluwa Adelani"
+  ],
+  "languages": [
+    "Amharic",
+    "Oromo",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Yoruba",
+    "Xhosa",
+    "Swahili",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2026.eacl-long.171",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.171/"
+}

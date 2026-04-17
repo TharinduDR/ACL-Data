@@ -1,0 +1,20 @@
+{
+  "title": "Retrieval Enhanced Data Augmentation for Question Answering on Privacy Policies",
+  "authors": [
+    "Md Rizwan Parvez",
+    "Jianfeng Chi",
+    "Wasi Uddin Ahmad",
+    "Yuan Tian",
+    "Kai-Wei Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.eacl-main.16",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.16/"
+}

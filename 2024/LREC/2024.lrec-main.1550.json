@@ -1,0 +1,20 @@
+{
+  "title": "Zero-shot Cross-lingual Automated Essay Scoring",
+  "authors": [
+    "Xia Li",
+    "Junyi He"
+  ],
+  "languages": [
+    "Czech",
+    "German",
+    "English",
+    "Spanish",
+    "Italian",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.lrec-main.1550",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1550/"
+}

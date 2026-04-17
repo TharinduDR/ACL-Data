@@ -1,0 +1,19 @@
+{
+  "title": "WINOLOGIC: A Zero-Shot Logic-based Diagnostic Dataset for Winograd Schema Challenge",
+  "authors": [
+    "Weinan He",
+    "Canming Huang",
+    "Yongmei Liu",
+    "Xiaodan Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.emnlp-main.307",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.307/"
+}

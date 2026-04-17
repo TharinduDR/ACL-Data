@@ -1,0 +1,21 @@
+{
+  "title": "Towards Multilingual spoken Visual Question Answering System using Cross-Attention",
+  "authors": [
+    "Amartya Roy Chowdhury",
+    "Tonmoy Rajkhowa",
+    "Sanjeev Sharma"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.coling-main.615",
+  "acl_url": "https://aclanthology.org/2025.coling-main.615/"
+}

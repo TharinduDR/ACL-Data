@@ -1,0 +1,21 @@
+{
+  "title": "Multi-level Alignment Pretraining for Multi-lingual Semantic Parsing",
+  "authors": [
+    "Bo Shao",
+    "Yeyun Gong",
+    "Weizhen Qi",
+    "Nan Duan",
+    "Xiaola Lin"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.coling-main.289",
+  "acl_url": "https://aclanthology.org/2020.coling-main.289/"
+}

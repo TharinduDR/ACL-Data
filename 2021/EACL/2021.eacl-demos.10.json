@@ -1,0 +1,32 @@
+{
+  "title": "Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing",
+  "authors": [
+    "Minh Van Nguyen",
+    "Viet Lai",
+    "Amir Pouran Ben Veyseh",
+    "Thien Huu Nguyen"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Spanish",
+    "Cantonese",
+    "Persian",
+    "Portuguese",
+    "Swahili",
+    "Thai",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.eacl-demos.10",
+  "acl_url": "https://aclanthology.org/2021.eacl-demos.10/"
+}

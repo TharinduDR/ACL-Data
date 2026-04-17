@@ -1,0 +1,25 @@
+{
+  "title": "DESED: Dialogue-based Explanation for Sentence-level Event Detection",
+  "authors": [
+    "Yinyi Wei",
+    "Shuaipeng Liu",
+    "Jianwei Lv",
+    "Xiangyu Xi",
+    "Hailei Yan",
+    "Wei Ye",
+    "Tong Mo",
+    "Fan Yang",
+    "Guanglu Wan"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.coling-1.219",
+  "acl_url": "https://aclanthology.org/2022.coling-1.219/"
+}

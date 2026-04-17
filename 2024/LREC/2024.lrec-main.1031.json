@@ -1,0 +1,49 @@
+{
+  "title": "Multilingual Coreference Resolution in Low-resource South Asian Languages",
+  "authors": [
+    "Ritwik Mishra",
+    "Pooja Desur",
+    "Rajiv Ratn Shah",
+    "Ponnurangam Kumaraguru"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Assamese",
+    "Awadhi",
+    "Bhojpuri",
+    "Bengali",
+    "Chhattisgarhi",
+    "Kannada",
+    "Kashmiri",
+    "Magahi",
+    "Maithili",
+    "Malayalam",
+    "Marathi",
+    "Meitei",
+    "Burmese",
+    "Nepali",
+    "Odia",
+    "Punjabi",
+    "Pashto",
+    "Persian",
+    "Santali",
+    "Sinhala",
+    "Sindhi",
+    "Tamil",
+    "Telugu",
+    "Tajik",
+    "Uyghur",
+    "Urdu",
+    "Uzbek",
+    "Latin"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.1031",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1031/"
+}

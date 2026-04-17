@@ -1,0 +1,20 @@
+{
+  "title": "Lost in Activations: A Neuron-level Analysis of Encoders for Cross-Lingual Emotion Detection",
+  "authors": [
+    "Pranaydeep Singh",
+    "Orphée De Clercq",
+    "Els Lefever"
+  ],
+  "languages": [
+    "Arabic",
+    "Dutch",
+    "Japanese",
+    "Slovenian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2026.eacl-short.9",
+  "acl_url": "https://aclanthology.org/2026.eacl-short.9/"
+}

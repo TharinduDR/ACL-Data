@@ -1,0 +1,22 @@
+{
+  "title": "Detecting Urgency Status of Crisis Tweets: A Transfer Learning Approach for Low Resource Languages",
+  "authors": [
+    "Efsun Sarioglu Kayi",
+    "Linyong Nan",
+    "Bohan Qu",
+    "Mona Diab",
+    "Kathleen McKeown"
+  ],
+  "languages": [
+    "English",
+    "Sinhala",
+    "Odia"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2020.coling-main.414",
+  "acl_url": "https://aclanthology.org/2020.coling-main.414/"
+}

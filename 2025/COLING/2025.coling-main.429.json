@@ -1,0 +1,25 @@
+{
+  "title": "Cross-Lingual Sentence Compression for Length-Constrained Subtitles in Low-Resource Settings",
+  "authors": [
+    "Tollef Emil Jørgensen",
+    "Ole Jakob Mengshoel"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Hungarian",
+    "Lithuanian",
+    "Malay",
+    "Norwegian",
+    "Polish",
+    "Albanian",
+    "Basque"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2025.coling-main.429",
+  "acl_url": "https://aclanthology.org/2025.coling-main.429/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "PrahokBART: A Pre-trained Sequence-to-Sequence Model for Khmer Natural Language Generation",
+  "authors": [
+    "Hour Kaing",
+    "Raj Dabre",
+    "Haiyue Song",
+    "Van-Hien Tran",
+    "Hideki Tanaka",
+    "Masao Utiyama"
+  ],
+  "languages": [
+    "Khmer",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.coling-main.87",
+  "acl_url": "https://aclanthology.org/2025.coling-main.87/"
+}

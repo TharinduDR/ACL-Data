@@ -1,0 +1,21 @@
+{
+  "title": "BotSIM: An End-to-End Bot Simulation Framework for Commercial Task-Oriented Dialog Systems",
+  "authors": [
+    "Guangsen Wang",
+    "Samson Tan",
+    "Shafiq Joty",
+    "Gang Wu",
+    "Jimmy Au",
+    "Steven Hoi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.emnlp-demos.18",
+  "acl_url": "https://aclanthology.org/2022.emnlp-demos.18/"
+}

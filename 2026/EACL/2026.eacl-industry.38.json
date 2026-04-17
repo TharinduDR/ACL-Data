@@ -1,0 +1,27 @@
+{
+  "title": "Adapting Vision-Language Models for E-commerce Understanding at Scale",
+  "authors": [
+    "Matteo Nulli",
+    "Vladimir Orshulevich",
+    "Tala Bazazo",
+    "Christian Herold",
+    "Michael Kozielski",
+    "Marcin Mazur",
+    "Szymon Tuzel",
+    "Cees G. M. Snoek",
+    "Seyyed Hadi Hashemi",
+    "Omar Javed",
+    "Yannick Versley",
+    "Shahram Khadivi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.eacl-industry.38",
+  "acl_url": "https://aclanthology.org/2026.eacl-industry.38/"
+}

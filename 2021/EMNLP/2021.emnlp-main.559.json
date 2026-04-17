@@ -1,0 +1,40 @@
+{
+  "title": "MultiEURLEX – A multi-lingual and multi-label legal document classification dataset for zero-shot cross-lingual transfer",
+  "authors": [
+    "Ilias Chalkidis",
+    "Manos Fergadiotis",
+    "Ion Androutsopoulos"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Spanish",
+    "Portuguese",
+    "Dutch",
+    "Romanian",
+    "Czech",
+    "Slovak",
+    "Hungarian",
+    "Bulgarian",
+    "Danish",
+    "Finnish",
+    "Estonian",
+    "Latvian",
+    "Lithuanian",
+    "Slovene",
+    "Croatian",
+    "Maltese",
+    "Polish",
+    "Slovene",
+    "Serbian"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.559",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.559/"
+}

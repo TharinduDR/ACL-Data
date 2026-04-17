@@ -1,0 +1,26 @@
+{
+  "title": "Mintaka: A Complex, Natural, and Multilingual Dataset for End-to-End Question Answering",
+  "authors": [
+    "Priyanka Sen",
+    "Alham Fikri Aji",
+    "Amir Saffari"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.coling-1.138",
+  "acl_url": "https://aclanthology.org/2022.coling-1.138/"
+}

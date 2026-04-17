@@ -1,0 +1,21 @@
+{
+  "title": "ReasonBERT: Pre-trained to Reason with Distant Supervision",
+  "authors": [
+    "Xiang Deng",
+    "Yu Su",
+    "Alyssa Lees",
+    "You Wu",
+    "Cong Yu",
+    "Huan Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2021.emnlp-main.494",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.494/"
+}

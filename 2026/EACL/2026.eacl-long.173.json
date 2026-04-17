@@ -1,0 +1,26 @@
+{
+  "title": "A Representation Sharpening Framework for Zero Shot Dense Retrieval",
+  "authors": [
+    "Dhananjay Ashok",
+    "Suraj Nair",
+    "Mutase Al-Darabsah",
+    "Choon Hui Teo",
+    "Tarun Agarwal",
+    "Jonathan May"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Hindi",
+    "Korean",
+    "Swahili",
+    "Thai"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2026.eacl-long.173",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.173/"
+}

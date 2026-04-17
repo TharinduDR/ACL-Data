@@ -1,0 +1,35 @@
+{
+  "title": "Efficiently Upgrading Multilingual Machine Translation Models to Support More Languages",
+  "authors": [
+    "Simeng Sun",
+    "Maha Elbayad",
+    "Anna Sun",
+    "James Cross"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Russian",
+    "Polish",
+    "Czech",
+    "Hungarian",
+    "Ukrainian",
+    "Belarusian",
+    "Latvian",
+    "Lithuanian",
+    "Swahili",
+    "Zulu",
+    "Xhosa",
+    "Gujarati",
+    "Nepali",
+    "Indonesian",
+    "Kazakh"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.eacl-main.111",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.111/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Scalable Cross-lingual Treebank Synthesis for Improved Production Dependency Parsers",
+  "authors": [
+    "Yousef El-Kurdi",
+    "Hiroshi Kanayama",
+    "Efsun Sarioglu Kayi",
+    "Todd Ward",
+    "Vittorio Castelli",
+    "Hans Florian"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Spanish",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-industry.16",
+  "acl_url": "https://aclanthology.org/2020.coling-industry.16/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Transparent Semantic Parsing with Universal Dependencies using Graph Transformations",
+  "authors": [
+    "Wessel Poelman",
+    "Rik van Noord",
+    "Johan Bos"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.coling-1.367",
+  "acl_url": "https://aclanthology.org/2022.coling-1.367/"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "A Generalized Method for Automated Multilingual Loanword Detection",
+  "authors": [
+    "Abhijnan Nath",
+    "Sina Mahdipour Saravani",
+    "Ibrahim Khebour",
+    "Sheikh Mannan",
+    "Zihui Li",
+    "Nikhil Krishnaswamy"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Dutch",
+    "Polish",
+    "Romanian",
+    "Russian",
+    "Arabic",
+    "Hungarian",
+    "Persian",
+    "Swedish",
+    "Azerbaijani",
+    "Mandarin Chinese",
+    "Italian",
+    "Catalan"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2022.coling-1.442",
+  "acl_url": "https://aclanthology.org/2022.coling-1.442/"
+}

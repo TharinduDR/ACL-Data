@@ -1,0 +1,19 @@
+{
+  "title": "NKT: Evidence-aware Inference for Neutralized Zero-shot Transfer",
+  "authors": [
+    "Xiaotong Feng",
+    "Meng-Fen Chiang",
+    "Wang-Chien Lee",
+    "Zixin Kuang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.lrec-main.590",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.590/"
+}

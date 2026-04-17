@@ -1,0 +1,20 @@
+{
+  "title": "CHARD: Clinical Health-Aware Reasoning Across Dimensions for Text Generation Models",
+  "authors": [
+    "Steven Y. Feng",
+    "Vivek Khetan",
+    "Bogdan Sacaleanu",
+    "Anatole Gershman",
+    "Eduard Hovy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.eacl-main.24",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.24/"
+}

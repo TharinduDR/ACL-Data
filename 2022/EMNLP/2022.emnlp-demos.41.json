@@ -1,0 +1,28 @@
+{
+  "title": "ALToolbox: A Set of Tools for Active Learning Annotation of Natural Language Texts",
+  "authors": [
+    "Akim Tsvigun",
+    "Leonid Sanochkin",
+    "Daniil Larionov",
+    "Gleb Kuzmin",
+    "Artem Vazhentsev",
+    "Ivan Lazichny",
+    "Nikita Khromov",
+    "Danil Kireev",
+    "Aleksandr Rubashevskii",
+    "Olga O. Shakhmatova",
+    "Dmitry V. Dylov",
+    "Igor Galitskiy",
+    "Artem Shelmanov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T18 Text Summarization",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.emnlp-demos.41",
+  "acl_url": "https://aclanthology.org/2022.emnlp-demos.41/"
+}

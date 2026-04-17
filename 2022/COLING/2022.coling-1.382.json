@@ -1,0 +1,37 @@
+{
+  "title": "Adapting Pre-trained Language Models to African Languages via Multilingual Adaptive Fine-Tuning",
+  "authors": [
+    "Jesujoba O. Alabi",
+    "David Ifeoluwa Adelani",
+    "Marius Mosbach",
+    "Dietrich Klakow"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Amharic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Luganda",
+    "Naija",
+    "Somali",
+    "Swahili",
+    "Yoruba",
+    "Zulu",
+    "isiXhosa",
+    "isiZulu",
+    "Malagasy",
+    "Chichewa",
+    "Oromo",
+    "Kiswahili",
+    "Lingala"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T20 Opinion & Argument Mining, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.coling-1.382",
+  "acl_url": "https://aclanthology.org/2022.coling-1.382/"
+}

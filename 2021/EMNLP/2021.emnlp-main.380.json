@@ -1,0 +1,19 @@
+{
+  "title": "PRIDE: Predicting Relationships in Conversations",
+  "authors": [
+    "Anna Tiginova",
+    "Paramita Mirza",
+    "Andrew Yates",
+    "Gerhard Weikum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2021.emnlp-main.380",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.380/"
+}

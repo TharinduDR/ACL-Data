@@ -1,0 +1,21 @@
+{
+  "title": "Improving Neural Machine Translation by Bidirectional Training",
+  "authors": [
+    "Liang Ding",
+    "Di Wu",
+    "Dacheng Tao"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Swahili",
+    "Chinese",
+    "Japanese",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.emnlp-main.263",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.263/"
+}

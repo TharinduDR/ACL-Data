@@ -1,0 +1,20 @@
+{
+  "title": "Question Generation Using Sequence-to-Sequence Model with Semantic Role Labels",
+  "authors": [
+    "Alireza Naeiji",
+    "Aijun An",
+    "Heidar Davoudi",
+    "Marjan Delpisheh",
+    "Muath Alzghool"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.eacl-main.207",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.207/"
+}

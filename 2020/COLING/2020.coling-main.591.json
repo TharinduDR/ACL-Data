@@ -1,0 +1,23 @@
+{
+  "title": "Multilingual Neural RST Discourse Parsing",
+  "authors": [
+    "Zhengyuan Liu",
+    "Ke Shi",
+    "Nancy F. Chen"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Spanish",
+    "German",
+    "Dutch",
+    "Basque"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.coling-main.591",
+  "acl_url": "https://aclanthology.org/2020.coling-main.591/"
+}

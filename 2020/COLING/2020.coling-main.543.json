@@ -1,0 +1,26 @@
+{
+  "title": "Multilingual Epidemiological Text Classification: A Comparative Study",
+  "authors": [
+    "Stephen Mutuvi",
+    "Emanuela Boros",
+    "Antoine Doucet",
+    "Gaël Lejeune",
+    "Adam Jatowt",
+    "Moses Odeo"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Polish",
+    "Russian",
+    "Chinese",
+    "Greek"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.coling-main.543",
+  "acl_url": "https://aclanthology.org/2020.coling-main.543/"
+}

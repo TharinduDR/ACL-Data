@@ -1,0 +1,18 @@
+{
+  "title": "MLEC-QA: A Chinese Multi-Choice Biomedical Question Answering Dataset",
+  "authors": [
+    "Jing Li",
+    "Shangping Zhong",
+    "Kaizhi Chen"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2021.emnlp-main.698",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.698/"
+}

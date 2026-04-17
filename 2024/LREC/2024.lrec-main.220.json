@@ -1,0 +1,21 @@
+{
+  "title": "Bootstrapping UMR Annotations for Arapaho from Language Documentation Resources",
+  "authors": [
+    "Matt Buchholz",
+    "Julia Bonn",
+    "Claire Benét Post",
+    "Andrew Cowell",
+    "Alexis Palmer"
+  ],
+  "languages": [
+    "Arapaho",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.lrec-main.220",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.220/"
+}

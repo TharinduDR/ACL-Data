@@ -1,0 +1,25 @@
+{
+  "title": "ConSeC: Word Sense Disambiguation as Continuous Sense Comprehension",
+  "authors": [
+    "Edoardo Barba",
+    "Luigi Procopio",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "Estonian",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.112",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.112/"
+}

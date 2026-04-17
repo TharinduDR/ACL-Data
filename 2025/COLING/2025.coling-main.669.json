@@ -1,0 +1,20 @@
+{
+  "title": "Does RAG Introduce Unfairness in LLMs? Evaluating Fairness in Retrieval-Augmented Generation Systems",
+  "authors": [
+    "Xuyang Wu",
+    "Shuwei Li",
+    "Hsin-Tai Wu",
+    "Zhiqiang Tao",
+    "Yi Fang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.669",
+  "acl_url": "https://aclanthology.org/2025.coling-main.669/"
+}

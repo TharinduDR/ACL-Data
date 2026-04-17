@@ -1,0 +1,45 @@
+{
+  "title": "Investigating Language and Retrieval Bias in Multilingual Previously Fact-Checked Claim Detection",
+  "authors": [
+    "Ivan Vykopal",
+    "Antonia Karamolegkou",
+    "Jaroslav Kopčan",
+    "Qiwei Peng",
+    "Tomáš Javůrek",
+    "Michal Gregor",
+    "Marián Šimko"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bulgarian",
+    "Czech",
+    "German",
+    "Greek",
+    "French",
+    "Hindi",
+    "Serbo-Croatian",
+    "Hungarian",
+    "Korean",
+    "Malay",
+    "Burmese",
+    "Dutch",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Slovak",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.240",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.240/"
+}

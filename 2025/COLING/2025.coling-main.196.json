@@ -1,0 +1,21 @@
+{
+  "title": "Retrieval Augmented Instruction Tuning for Open NER with Large Language Models",
+  "authors": [
+    "Tingyu Xie",
+    "Jian Zhang",
+    "Yan Zhang",
+    "Yuanyuan Liang",
+    "Qi Li",
+    "Hongwei Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.coling-main.196",
+  "acl_url": "https://aclanthology.org/2025.coling-main.196/"
+}

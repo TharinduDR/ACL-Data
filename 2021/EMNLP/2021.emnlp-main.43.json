@@ -1,0 +1,21 @@
+{
+  "title": "Adversarial Scrubbing of Demographic Information for Text Classification",
+  "authors": [
+    "Somnath Basu Roy Chowdhury",
+    "Sayan Ghosh",
+    "Yiyuan Li",
+    "Junier B. Oliva",
+    "Shashank Srivastava",
+    "Snigdha Chaturvedi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.emnlp-main.43",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.43/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "What Factors Influence LLMs' Judgments? A Case Study on Question Answering",
+  "authors": [
+    "Lei Chen",
+    "Bobo Li",
+    "Li Zheng",
+    "Haining Wang",
+    "Zixiang Meng",
+    "Runfeng Shi",
+    "Hao Fei",
+    "Jun Zhou",
+    "Fei Li",
+    "Chong Teng",
+    "Donghong Ji"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.lrec-main.1519",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1519/"
+}

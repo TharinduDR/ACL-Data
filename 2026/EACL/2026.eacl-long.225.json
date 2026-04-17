@@ -1,0 +1,26 @@
+{
+  "title": "Can you map it to English? The Role of Cross-Lingual Alignment in the Multilingual Performance of LLMs",
+  "authors": [
+    "Kartik Ravisankar",
+    "HyoJung Han",
+    "Sarah Wiegrefe",
+    "Marine Carpuat"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Hindi",
+    "Italian",
+    "Portuguese",
+    "Spanish",
+    "Thai"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2026.eacl-long.225",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.225/"
+}

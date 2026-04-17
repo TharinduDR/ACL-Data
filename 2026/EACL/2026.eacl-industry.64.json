@@ -1,0 +1,23 @@
+{
+  "title": "Do Clinical Question Answering Systems Really Need Specialised Medical Fine Tuning?",
+  "authors": [
+    "Sushant Kumar Ray",
+    "Gautam Siddharth Kashyap",
+    "Sahil Tripathi",
+    "Nipun Joshi",
+    "Vijay Govindarajan",
+    "Rafiq Ali",
+    "Jiechao Gao",
+    "Usman Naseem"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-industry.64",
+  "acl_url": "https://aclanthology.org/2026.eacl-industry.64/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "ZeLa: Advancing Zero-Shot Multilingual Semantic Parsing with Large Language Models and Chain-of-Thought Strategies",
+  "authors": [
+    "Dinh-Truong Do",
+    "Minh-Phuong Nguyen",
+    "Le-Minh Nguyen"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.lrec-main.1547",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1547/"
+}

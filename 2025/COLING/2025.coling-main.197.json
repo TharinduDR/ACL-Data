@@ -1,0 +1,35 @@
+{
+  "title": "Rethinking Vocabulary Augmentation: Addressing the Challenges of Low-Resource Languages in Multilingual Models",
+  "authors": [
+    "Nankai Lin",
+    "Peijian Zeng",
+    "Weixiong Zheng",
+    "Shengyi Jiang",
+    "Dong Zhou",
+    "Aimin Yang"
+  ],
+  "languages": [
+    "Bengali",
+    "Hindi",
+    "Gujarati",
+    "English",
+    "Amharic",
+    "Arabic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Moroccan Arabic",
+    "Nigerian Pidgin",
+    "Portuguese",
+    "Swahili",
+    "Twi",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.coling-main.197",
+  "acl_url": "https://aclanthology.org/2025.coling-main.197/"
+}

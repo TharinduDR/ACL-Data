@@ -1,0 +1,18 @@
+{
+  "title": "Universal Simultaneous Machine Translation with Mixture-of-Experts Wait-k Policy",
+  "authors": [
+    "Shaolei Zhang",
+    "Yang Feng"
+  ],
+  "languages": [
+    "English",
+    "Vietnamese",
+    "Romanian",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.emnlp-main.581",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.581/"
+}

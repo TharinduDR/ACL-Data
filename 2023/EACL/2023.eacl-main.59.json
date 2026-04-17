@@ -1,0 +1,20 @@
+{
+  "title": "Do Pretrained Contextual Language Models Distinguish between Hebrew Homograph Analyses?",
+  "authors": [
+    "Avi Shmidman",
+    "Cheyn Shmuel Shmidman",
+    "Dan Bareket",
+    "Moshe Koppel",
+    "Reut Tsarfaty"
+  ],
+  "languages": [
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eacl-main.59",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.59/"
+}

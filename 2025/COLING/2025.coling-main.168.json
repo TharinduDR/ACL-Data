@@ -1,0 +1,30 @@
+{
+  "title": "From Multiple-Choice to Extractive QA: A Case Study for English and Arabic",
+  "authors": [
+    "Teresa Lynn",
+    "Malik H. Altakrori",
+    "Samar M. Magdy",
+    "Rocktim Jyoti Das",
+    "Chenyang Lyu",
+    "Mohamed Nasr",
+    "Younes Samih",
+    "Kirill Chirkunov",
+    "Alham Fikri Aji",
+    "Preslav Nakov",
+    "Shantanu Godbole",
+    "Salim Roukos",
+    "Radu Florian",
+    "Nizar Habash"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.coling-main.168",
+  "acl_url": "https://aclanthology.org/2025.coling-main.168/"
+}

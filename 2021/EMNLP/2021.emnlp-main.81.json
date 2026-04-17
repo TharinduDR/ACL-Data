@@ -1,0 +1,17 @@
+{
+  "title": "Relational World Knowledge Representation in Contextual Language Models: A Review",
+  "authors": [
+    "Tara Safavi",
+    "Danai Koutra"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2021.emnlp-main.81",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.81/"
+}

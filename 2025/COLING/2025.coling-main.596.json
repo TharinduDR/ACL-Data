@@ -1,0 +1,23 @@
+{
+  "title": "ZigZagKV: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty",
+  "authors": [
+    "Meizhi Zhong",
+    "Xikai Liu",
+    "Chen Zhang",
+    "Yikun Lei",
+    "Yan Gao",
+    "Yao Hu",
+    "Kehai Chen",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.coling-main.596",
+  "acl_url": "https://aclanthology.org/2025.coling-main.596/"
+}

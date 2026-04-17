@@ -1,0 +1,27 @@
+{
+  "title": "Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding",
+  "authors": [
+    "Tadesse Destaw Belay",
+    "Israel Abebe Azime",
+    "Abinew Ali Ayele",
+    "Grigori Sidorov",
+    "Dietrich Klakow",
+    "Philipp Slusallek",
+    "Olga Kolesnikova",
+    "Seid Muhie Yimam"
+  ],
+  "languages": [
+    "Amharic",
+    "Afan Oromo",
+    "Somali",
+    "Tigrinya",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.237",
+  "acl_url": "https://aclanthology.org/2025.coling-main.237/"
+}

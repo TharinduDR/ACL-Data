@@ -1,0 +1,26 @@
+{
+  "title": "Multilingual Representation Distillation with Contrastive Learning",
+  "authors": [
+    "Weiting Tan",
+    "Kevin Heffernan",
+    "Holger Schwenk",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "Khmer",
+    "Pashto",
+    "Nepali",
+    "Sinhala",
+    "Chokwe",
+    "Kamba",
+    "Kimbundu",
+    "Umbundu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.eacl-main.108",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.108/"
+}

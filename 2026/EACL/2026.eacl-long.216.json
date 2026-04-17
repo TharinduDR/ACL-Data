@@ -1,0 +1,20 @@
+{
+  "title": "Document-Level Zero-Shot Relation Extraction with Entity Side Information",
+  "authors": [
+    "Mohan Raj Chanthran",
+    "Lay-Ki Soon",
+    "Ong Huey Fang",
+    "Bhawani Selvaretnam"
+  ],
+  "languages": [
+    "English",
+    "Malaysian English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.216",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.216/"
+}

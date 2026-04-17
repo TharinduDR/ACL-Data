@@ -1,0 +1,33 @@
+{
+  "title": "Wikipedia2Vec: An Efficient Toolkit for Learning and Visualizing the Embeddings of Words and Entities from Wikipedia",
+  "authors": [
+    "Ikuya Yamada",
+    "Akari Asai",
+    "Jin Sakuma",
+    "Hiroyuki Shindo",
+    "Hideaki Takeda",
+    "Yoshiyasu Takefuji",
+    "Yuji Matsumoto"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "Dutch",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.emnlp-demos.4",
+  "acl_url": "https://aclanthology.org/2020.emnlp-demos.4/"
+}

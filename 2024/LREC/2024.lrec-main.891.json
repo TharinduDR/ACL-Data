@@ -1,0 +1,23 @@
+{
+  "title": "Layer-wise Regularized Dropout for Neural Language Models",
+  "authors": [
+    "Shiwen Ni",
+    "Min Yang",
+    "Ruifeng Xu",
+    "Chengming Li",
+    "Xiping Hu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.lrec-main.891",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.891/"
+}

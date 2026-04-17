@@ -1,0 +1,19 @@
+{
+  "title": "Biomedical Concept Normalization over Nested Entities with Partial UMLS Terminology in Russian",
+  "authors": [
+    "Natalia Loukachevitch",
+    "Andrey Sakhovskiy",
+    "Elena Tutubalina"
+  ],
+  "languages": [
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.lrec-main.213",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.213/"
+}

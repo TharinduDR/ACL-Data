@@ -1,0 +1,21 @@
+{
+  "title": "Prompt2Model: Generating Deployable Models from Natural Language Instructions",
+  "authors": [
+    "Vijay Viswanathan",
+    "Chenyang Zhao",
+    "Amanda Bertsch",
+    "Tongshuang Wu",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2023.emnlp-demo.38",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.38/"
+}

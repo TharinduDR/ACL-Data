@@ -1,0 +1,23 @@
+{
+  "title": "Data and Parameter Scaling Laws for Neural Machine Translation",
+  "authors": [
+    "Mitchell Gordon",
+    "Kevin Duh",
+    "Jared Kaplan"
+  ],
+  "languages": [
+    "Russian",
+    "German",
+    "Chinese",
+    "Swahili",
+    "Tagalog",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.478",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.478/"
+}

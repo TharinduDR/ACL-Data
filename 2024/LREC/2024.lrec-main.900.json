@@ -1,0 +1,24 @@
+{
+  "title": "Leros: Learning Explicit Reasoning on Synthesized Data for Commonsense Question Answering",
+  "authors": [
+    "Chen Hao Wang",
+    "Pengfei Cao",
+    "Jiachun Li",
+    "Yubo Chen",
+    "Kang Liu",
+    "Xiao Jian Jiang",
+    "Jiexin Xu",
+    "Li Qiuxia",
+    "Jun Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.lrec-main.900",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.900/"
+}

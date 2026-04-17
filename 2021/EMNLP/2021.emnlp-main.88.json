@@ -1,0 +1,23 @@
+{
+  "title": "CONVFiT: Conversational Fine-Tuning of Pretrained Language Models",
+  "authors": [
+    "Ivan Vulić",
+    "Pei-Hao Su",
+    "Sam Coope",
+    "Daniela Gerz",
+    "Paweł Budzianowski",
+    "Iñigo Casanueva",
+    "Nikola Mrkšić",
+    "Tsung-Hsien Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.emnlp-main.88",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.88/"
+}

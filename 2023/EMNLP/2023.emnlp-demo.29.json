@@ -1,0 +1,27 @@
+{
+  "title": "SAGEViz: SchemaA GEneration and Visualization",
+  "authors": [
+    "Sugam Devare",
+    "Mahnaz Koupaei",
+    "Gautham Gunapati",
+    "Sayontan Ghosh",
+    "Sai Vallurupalli",
+    "Yash Kumar Lal",
+    "Francis Ferraro",
+    "Nathanael Chambers",
+    "Greg Durrett",
+    "Raymond Mooney",
+    "Katrin Erk",
+    "Niranjan Balasubramanian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.emnlp-demo.29",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.29/"
+}

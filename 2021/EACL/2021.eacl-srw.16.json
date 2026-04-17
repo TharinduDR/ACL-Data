@@ -1,0 +1,28 @@
+{
+  "title": "A Little Pretraining Goes a Long Way: A Case Study on Dependency Parsing Task for Low-resource Morphologically Rich Languages",
+  "authors": [
+    "Jivnesh Sandhan",
+    "Amrith Krishna",
+    "Ashim Gupta",
+    "Laxmidhar Behera",
+    "Pawan Goyal"
+  ],
+  "languages": [
+    "Sanskrit",
+    "Arabic",
+    "Czech",
+    "German",
+    "Basque",
+    "Greek",
+    "Finnish",
+    "Hungarian",
+    "Polish",
+    "Russian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.eacl-srw.16",
+  "acl_url": "https://aclanthology.org/2021.eacl-srw.16/"
+}

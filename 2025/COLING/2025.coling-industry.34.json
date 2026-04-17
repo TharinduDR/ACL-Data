@@ -1,0 +1,19 @@
+{
+  "title": "Luna: A Lightweight Evaluation Model to Catch Language Model Hallucinations with High Accuracy and Low Cost",
+  "authors": [
+    "Masha Belyi",
+    "Robert Friel",
+    "Shuai Shao",
+    "Atindriyo Sanyal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.coling-industry.34",
+  "acl_url": "https://aclanthology.org/2025.coling-industry.34/"
+}

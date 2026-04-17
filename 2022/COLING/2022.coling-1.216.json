@@ -1,0 +1,21 @@
+{
+  "title": "Supporting Medical Relation Extraction via Causality-Pruned Semantic Dependency Forest",
+  "authors": [
+    "Yifan Jin",
+    "Jiangmeng Li",
+    "Zheng Lian",
+    "Chengbo Jiao",
+    "Xiaohui Hu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.coling-1.216",
+  "acl_url": "https://aclanthology.org/2022.coling-1.216/"
+}

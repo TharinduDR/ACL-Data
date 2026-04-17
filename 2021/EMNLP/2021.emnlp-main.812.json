@@ -1,0 +1,20 @@
+{
+  "title": "HittER: Hierarchical Transformers for Knowledge Graph Embeddings",
+  "authors": [
+    "Sanxing Chen",
+    "Xiaodong Liu",
+    "Jianfeng Gao",
+    "Jian Jiao",
+    "Ruofei Zhang",
+    "Yangfeng Ji"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2021.emnlp-main.812",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.812/"
+}

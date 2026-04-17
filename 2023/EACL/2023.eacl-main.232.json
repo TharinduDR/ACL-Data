@@ -1,0 +1,22 @@
+{
+  "title": "Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning",
+  "authors": [
+    "Chunyang Jiang",
+    "Tianchen Zhu",
+    "Haoyi Zhou",
+    "Chang Liu",
+    "Ting Deng",
+    "Chunming Hu",
+    "Jianxin Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.eacl-main.232",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.232/"
+}

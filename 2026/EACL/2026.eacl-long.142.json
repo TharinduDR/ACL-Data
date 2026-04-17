@@ -1,0 +1,24 @@
+{
+  "title": "LAILA: A Large Trait-Based Dataset for Arabic Automated Essay Scoring",
+  "authors": [
+    "May Bashendy",
+    "Walid Massoud",
+    "Sohaila Eltanbouly",
+    "Salam Albatarni",
+    "Marwan Sayed",
+    "Abrar Abir",
+    "Houda Bouamor",
+    "Tamer Elsayed"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.142",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.142/"
+}

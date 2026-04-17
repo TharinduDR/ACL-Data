@@ -1,0 +1,21 @@
+{
+  "title": "Understanding the effects of word-level linguistic annotations in under-resourced neural machine translation",
+  "authors": [
+    "Víctor M. Sánchez-Cartagena",
+    "Juan Antonio Pérez-Ortiz",
+    "Felipe Sánchez-Martínez"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Spanish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.349",
+  "acl_url": "https://aclanthology.org/2020.coling-main.349/"
+}

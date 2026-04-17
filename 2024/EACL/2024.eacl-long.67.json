@@ -1,0 +1,22 @@
+{
+  "title": "REFINER: Reasoning Feedback on Intermediate Representations",
+  "authors": [
+    "Debjit Paul",
+    "Mete Ismayilzada",
+    "Maxime Peyrard",
+    "Beatriz Borges",
+    "Antoine Bosselut",
+    "Robert West",
+    "Boi Faltings"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.eacl-long.67",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.67/"
+}

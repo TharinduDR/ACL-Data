@@ -1,0 +1,22 @@
+{
+  "title": "DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning",
+  "authors": [
+    "Nithin Sivakumaran",
+    "Justin Chih-Yao Chen",
+    "David Wan",
+    "Yue Zhang",
+    "Jaehong Yoon",
+    "Elias Stengel-Eskin",
+    "Mohit Bansal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2026.eacl-long.253",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.253/"
+}

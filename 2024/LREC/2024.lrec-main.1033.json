@@ -1,0 +1,28 @@
+{
+  "title": "Multilinguality or Back-translation? A Case Study with Estonian",
+  "authors": [
+    "Elizaveta Korotkova",
+    "Taido Purason",
+    "Agnes Luhtaru",
+    "Mark Fishel"
+  ],
+  "languages": [
+    "Estonian",
+    "Finnish",
+    "German",
+    "Chinese",
+    "Russian",
+    "Arabic",
+    "Spanish",
+    "French",
+    "Latvian",
+    "Lithuanian",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.1033",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1033/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Fast WordPiece Tokenization",
+  "authors": [
+    "Xinying Song",
+    "Alex Salcianu",
+    "Yang Song",
+    "Dave Dopson",
+    "Denny Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2021.emnlp-main.160",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.160/"
+}

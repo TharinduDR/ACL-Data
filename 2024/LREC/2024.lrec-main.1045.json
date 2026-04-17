@@ -1,0 +1,25 @@
+{
+  "title": "Multi-Stage Multi-Modal Pre-Training For Automatic Speech Recognition",
+  "authors": [
+    "Yash Jain",
+    "David Chan",
+    "Pranav Dheram",
+    "Aparna Khare",
+    "Olabanji Shonibare",
+    "Venkatesh Ravichandran",
+    "Shalini Ghosh"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.1045",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1045/"
+}

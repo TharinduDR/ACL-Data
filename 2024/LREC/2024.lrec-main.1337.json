@@ -1,0 +1,29 @@
+{
+  "title": "Submodular-based In-context Example Selection for LLMs-based Machine Translation",
+  "authors": [
+    "Baijun Ji",
+    "Xiangyu Duan",
+    "Zhenyu Qiu",
+    "Tong Zhang",
+    "Junhui Li",
+    "Hao Yang",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "French",
+    "Spanish",
+    "German",
+    "Italian",
+    "Medical",
+    "Law"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.1337",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1337/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Charles Translator: A Machine Translation System between Ukrainian and Czech",
+  "authors": [
+    "Martin Popel",
+    "Lucie Poláková",
+    "Michal Novák",
+    "Jindřich Helcl",
+    "Jindřich Libovický",
+    "Pavel Straňák",
+    "Tomáš Krabač",
+    "Jaroslava Hlaváčová",
+    "Mariia Anisimova",
+    "Tereza Chlaňová"
+  ],
+  "languages": [
+    "Czech",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.271",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.271/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "TDMSci: A Specialized Corpus for Scientific Literature Entity Tagging of Tasks Datasets and Metrics",
+  "authors": [
+    "Yufang Hou",
+    "Charles Jochim",
+    "Martin Gleize",
+    "Francesca Bonin",
+    "Debasis Ganguly"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.eacl-main.59",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.59/"
+}

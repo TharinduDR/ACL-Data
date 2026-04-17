@@ -1,0 +1,24 @@
+{
+  "title": "LAiW: A Chinese Legal Large Language Models Benchmark",
+  "authors": [
+    "Yongfu Dai",
+    "Duanyu Feng",
+    "Jimin Huang",
+    "Haochen Jia",
+    "Qianqian Xie",
+    "Yifang Zhang",
+    "Weiguang Han",
+    "Wei Tian",
+    "Hao Wang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.coling-main.716",
+  "acl_url": "https://aclanthology.org/2025.coling-main.716/"
+}

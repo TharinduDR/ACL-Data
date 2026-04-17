@@ -1,0 +1,48 @@
+{
+  "title": "Okapi: Instruction-tuned Large Language Models in Multiple Languages with Reinforcement Learning from Human Feedback",
+  "authors": [
+    "Viet Dac Lai",
+    "Chien Van Nguyen",
+    "Nghia Trung Ngo",
+    "Thuat Nguyen",
+    "Franck Dernoncourt",
+    "Ryan A. Rossi",
+    "Thien Huu Nguyen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Russian",
+    "Spanish",
+    "Italian",
+    "Dutch",
+    "Vietnamese",
+    "Indonesian",
+    "Arabic",
+    "Hungarian",
+    "Romanian",
+    "Danish",
+    "Slovak",
+    "Ukrainian",
+    "Catalan",
+    "Serbian",
+    "Croatian",
+    "Hindi",
+    "Bengali",
+    "Tamil",
+    "Nepali",
+    "Malayalam",
+    "Marathi",
+    "Telugu",
+    "Kannada"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.emnlp-demo.28",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.28/"
+}

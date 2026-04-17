@@ -1,0 +1,22 @@
+{
+  "title": "Zero-shot Disfluency Detection for Indian Languages",
+  "authors": [
+    "Rohit Kundu",
+    "Preethi Jyothi",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Hindi",
+    "Malayalam",
+    "Marathi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.coling-1.392",
+  "acl_url": "https://aclanthology.org/2022.coling-1.392/"
+}

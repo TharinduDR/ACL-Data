@@ -1,0 +1,22 @@
+{
+  "title": "MedRiskEval: Medical Risk Evaluation Benchmark of Language Models, On the Importance of User Perspectives in Healthcare Settings",
+  "authors": [
+    "Jean-Philippe Corbeil",
+    "Minseon Kim",
+    "Maxime Griot",
+    "Sheela Agarwal",
+    "Alessandro Sordoni",
+    "François Beaulieu",
+    "Paul Vozila"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2026.eacl-industry.39",
+  "acl_url": "https://aclanthology.org/2026.eacl-industry.39/"
+}

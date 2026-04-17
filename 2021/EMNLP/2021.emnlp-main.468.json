@@ -1,0 +1,21 @@
+{
+  "title": "Muppet: Massive Multi-task Representations with Pre-Finetuning",
+  "authors": [
+    "Armen Aghajanyan",
+    "Anchit Gupta",
+    "Akshat Shrivastava",
+    "Xilun Chen",
+    "Luke Zettlemoyer",
+    "Sonal Gupta"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.emnlp-main.468",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.468/"
+}

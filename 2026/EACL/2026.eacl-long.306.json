@@ -1,0 +1,17 @@
+{
+  "title": "CoReTab: Improving Multimodal Table Understanding with Code-driven Reasoning",
+  "authors": [
+    "Van-Quang Nguyen",
+    "Takayuki Okatani"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2026.eacl-long.306",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.306/"
+}

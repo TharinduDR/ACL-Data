@@ -1,0 +1,21 @@
+{
+  "title": "Dimensional Emotion Detection from Categorical Emotion",
+  "authors": [
+    "Sungjoon Park",
+    "Jiseon Kim",
+    "Seonghyeon Ye",
+    "Jaeyeol Jeon",
+    "Hee Young Park",
+    "Alice Oh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.emnlp-main.358",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.358/"
+}

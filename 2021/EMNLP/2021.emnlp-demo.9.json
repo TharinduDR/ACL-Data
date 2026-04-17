@@ -1,0 +1,21 @@
+{
+  "title": "KOAS: Korean Text Offensiveness Analysis System",
+  "authors": [
+    "San-Hee Park",
+    "Kang-Min Kim",
+    "Seonhee Cho",
+    "Jun-Hyung Park",
+    "Hyuntae Park",
+    "Hyuna Kim",
+    "Seongwon Chung",
+    "SangKeun Lee"
+  ],
+  "languages": [
+    "Korean"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.emnlp-demo.9",
+  "acl_url": "https://aclanthology.org/2021.emnlp-demo.9/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "A Frustratingly Simple Decoding Method for Neural Text Generation",
+  "authors": [
+    "Haoran Yang",
+    "Deng Cai",
+    "Huayang Li",
+    "Wei Bi",
+    "Wai Lam",
+    "Shuming Shi"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "French",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.lrec-main.47",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.47/"
+}

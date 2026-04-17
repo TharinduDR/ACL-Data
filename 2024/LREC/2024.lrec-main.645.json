@@ -1,0 +1,18 @@
+{
+  "title": "Fine-Tuning a Pre-Trained Wav2Vec2 Model for Automatic Speech Recognition: Experiments with de zahrar sproche",
+  "authors": [
+    "Andrea Gulli",
+    "Francesco Costantini",
+    "Emanuela Li Destri",
+    "Diego Sidraschi"
+  ],
+  "languages": [
+    "de zahrar sproche"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2024.lrec-main.645",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.645/"
+}

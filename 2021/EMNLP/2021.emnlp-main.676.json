@@ -1,0 +1,22 @@
+{
+  "title": "Comparing Feature-Engineering and Feature-Learning Approaches for Multilingual Translationese Classification",
+  "authors": [
+    "Daria Pylypenko",
+    "Kwabena Amponsah-Kaakyire",
+    "Koel Dutta Chowdhury",
+    "Josef van Genabith",
+    "Cristina España-Bonet"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.emnlp-main.676",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.676/"
+}

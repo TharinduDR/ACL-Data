@@ -1,0 +1,22 @@
+{
+  "title": "Extending LLMs to New Languages: A Case Study of Llama and Persian Adaptation",
+  "authors": [
+    "Samin Mahdizadeh Sani",
+    "Pouya Sadeghi",
+    "Thuy-Trang Vu",
+    "Yadollah Yaghoobzadeh",
+    "Gholamreza Haffari"
+  ],
+  "languages": [
+    "English",
+    "Persian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Sentiment Analysis"
+  ],
+  "paper_id": "2025.coling-main.594",
+  "acl_url": "https://aclanthology.org/2025.coling-main.594/"
+}

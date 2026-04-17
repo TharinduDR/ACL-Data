@@ -1,0 +1,28 @@
+{
+  "title": "Meaning Representations for Natural Languages: Design, Models and Applications",
+  "authors": [
+    "Julia Bonn",
+    "Jeffrey Flanigan",
+    "Jan Hajič",
+    "Ishan Jindal",
+    "Yunyao Li",
+    "Nianwen Xue"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.lrec-tutorials.3",
+  "acl_url": "https://aclanthology.org/2024.lrec-tutorials.3/"
+}

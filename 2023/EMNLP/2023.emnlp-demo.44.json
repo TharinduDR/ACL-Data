@@ -1,0 +1,24 @@
+{
+  "title": "ZhuJiu: A Multi-dimensional, Multi-faceted Chinese Benchmark for Large Language Models",
+  "authors": [
+    "Baoli Zhang",
+    "Haining Xie",
+    "Pengfan Du",
+    "Junhao Chen",
+    "Pengfei Cao",
+    "Yubo Chen",
+    "Shengping Liu",
+    "Kang Liu",
+    "Jun Zhao"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.emnlp-demo.44",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.44/"
+}

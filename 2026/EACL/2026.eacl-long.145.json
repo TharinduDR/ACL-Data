@@ -1,0 +1,29 @@
+{
+  "title": "When Meanings Meet: Investigating the Emergence and Quality of Shared Concept Spaces during Multilingual Language Model Training",
+  "authors": [
+    "Felicia Körner",
+    "Max Müller-Eberstein",
+    "Anna Korhonen",
+    "Barbara Plank"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Russian",
+    "Spanish",
+    "Polish",
+    "Estonian",
+    "Finnish",
+    "Swahili",
+    "Cantonese",
+    "Welsh"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2026.eacl-long.145",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.145/"
+}

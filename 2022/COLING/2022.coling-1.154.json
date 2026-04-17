@@ -1,0 +1,20 @@
+{
+  "title": "Prompt-based Conservation Learning for Multi-hop Question Answering",
+  "authors": [
+    "Zhenyun Deng",
+    "Yonghua Zhu",
+    "Yang Chen",
+    "Qianqian Qi",
+    "Michael Witbrock",
+    "Patricia Riddle"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.coling-1.154",
+  "acl_url": "https://aclanthology.org/2022.coling-1.154/"
+}

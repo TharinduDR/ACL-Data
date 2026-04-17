@@ -1,0 +1,19 @@
+{
+  "title": "hinglishNorm - A Corpus of Hindi-English Code Mixed Sentences for Text Normalization",
+  "authors": [
+    "Piyush Makhija",
+    "Ankit Kumar",
+    "Anuj Gupta"
+  ],
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.coling-industry.13",
+  "acl_url": "https://aclanthology.org/2020.coling-industry.13/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "DOCENT: Learning Self-Supervised Entity Representations from Large Document Collections",
+  "authors": [
+    "Yury Zemlyanskiy",
+    "Sudeep Gandhe",
+    "Ruining He",
+    "Bhargav Kanagal",
+    "Anirudh Ravula",
+    "Juraj Gottweis",
+    "Fei Sha",
+    "Ilya Eckstein"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.eacl-main.217",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.217/"
+}

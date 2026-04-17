@@ -1,0 +1,24 @@
+{
+  "title": "Adaptive Helpfulness-Harmlessness Alignment with Preference Vectors",
+  "authors": [
+    "Ren-Wei Liang",
+    "Chin Ting Hsu",
+    "Chan-Hung Yu",
+    "Saransh Agrawal",
+    "Shih-Cheng Huang",
+    "Kuan-Hao Huang",
+    "Shang-Tse Chen",
+    "Chieh-Yen Lin",
+    "Shao-Hua Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2026.eacl-long.77",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.77/"
+}

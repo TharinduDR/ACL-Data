@@ -1,0 +1,23 @@
+{
+  "title": "EDDA: An Encoder-Decoder Data Augmentation Framework for Zero-Shot Stance Detection",
+  "authors": [
+    "Daijun Ding",
+    "Li Dong",
+    "Zhichao Huang",
+    "Guangning Xu",
+    "Xu Huang",
+    "Bo Liu",
+    "Liwen Jing",
+    "Bowen Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.lrec-main.487",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.487/"
+}

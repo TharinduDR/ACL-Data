@@ -1,0 +1,24 @@
+{
+  "title": "DocScript: Document-Level Script Event Prediction",
+  "authors": [
+    "Puneet Mathur",
+    "Rajiv Jain",
+    "Vlad Morariu",
+    "Aparna Garimella",
+    "Franck Dernoncourt",
+    "Jiuxiang Gu",
+    "Ramit Sawhney",
+    "Preslav Nakov",
+    "Dinesh Manocha"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T09 Inference and Reasoning",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2024.lrec-main.458",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.458/"
+}

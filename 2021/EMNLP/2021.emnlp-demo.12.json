@@ -1,0 +1,20 @@
+{
+  "title": "LMDIFF: A Visual Diff Tool to Compare Language Models",
+  "authors": [
+    "Hendrik Strobelt",
+    "Benjamin Hoover",
+    "Arvind Satyanarayan",
+    "Sebastian Gehrmann"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2021.emnlp-demo.12",
+  "acl_url": "https://aclanthology.org/2021.emnlp-demo.12/"
+}

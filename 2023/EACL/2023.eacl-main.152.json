@@ -1,0 +1,18 @@
+{
+  "title": "GLADIS: A General and Large Acronym Disambiguation Benchmark",
+  "authors": [
+    "Lihu Chen",
+    "Gaël Varoquaux",
+    "Fabian M. Suchanek"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.eacl-main.152",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.152/"
+}

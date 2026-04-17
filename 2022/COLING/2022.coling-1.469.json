@@ -1,0 +1,23 @@
+{
+  "title": "Cross-lingual Feature Extraction from Monolingual Corpora for Low-resource Unsupervised Bilingual Lexicon Induction",
+  "authors": [
+    "Zihao Feng",
+    "Hailong Cao",
+    "Tiejun Zhao",
+    "Weixuan Wang",
+    "Wei Peng"
+  ],
+  "languages": [
+    "English",
+    "Vietnamese",
+    "Thai",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.coling-1.469",
+  "acl_url": "https://aclanthology.org/2022.coling-1.469/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering",
+  "authors": [
+    "Zhengyuan Zhu",
+    "Daniel Lee",
+    "Hong Zhang",
+    "Sai Sree Harsha",
+    "Loic Feujio",
+    "Akash Maharaj",
+    "Yunyao Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-demos.13",
+  "acl_url": "https://aclanthology.org/2025.coling-demos.13/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Finite-state script normalization and processing utilities: The Nisaba Brahmic library",
+  "authors": [
+    "Cibu Johny",
+    "Lawrence Wolf-Sonkin",
+    "Alexander Gutkin",
+    "Brian Roark"
+  ],
+  "languages": [
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Punjabi",
+    "Sinhala",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T02",
+    "T16",
+    "T21"
+  ],
+  "paper_id": "2021.eacl-demos.3",
+  "acl_url": "https://aclanthology.org/2021.eacl-demos.3/"
+}

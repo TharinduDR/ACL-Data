@@ -1,0 +1,30 @@
+{
+  "title": "The ParCoLab Parallel Corpus and its Extension to Four Regional Languages of France",
+  "authors": [
+    "Dejan Stosic",
+    "Saša Marjanović",
+    "Delphine Bernhard",
+    "Xavier Bach",
+    "Myriam Bras",
+    "Laurent Kevers",
+    "Stella Medori",
+    "Marianne Vergez-Couret",
+    "Carole Werner"
+  ],
+  "languages": [
+    "Serbian",
+    "French",
+    "English",
+    "Spanish",
+    "Alsatian",
+    "Corsican",
+    "Occitan",
+    "Poitevin-Saintongeais"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.1392",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1392/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "CUTE: A Multilingual Dataset for Enhancing Cross-Lingual Knowledge Transfer in Low-Resource Languages",
+  "authors": [
+    "Wenhao Zhuang",
+    "Yuan Sun"
+  ],
+  "languages": [
+    "Chinese",
+    "Uyghur",
+    "Tibetan",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2025.coling-main.670",
+  "acl_url": "https://aclanthology.org/2025.coling-main.670/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Confidence-Calibrated Small-Large Language Model Collaboration for Cost-Efficient Reasoning",
+  "authors": [
+    "Chuang Zhang",
+    "Zizhen Zhu",
+    "Yihao Wei",
+    "Bing Tian",
+    "Junyi Liu",
+    "Henan Wang",
+    "Xavier Wang",
+    "Yaxiao Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.eacl-long.208",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.208/"
+}

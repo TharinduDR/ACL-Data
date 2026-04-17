@@ -1,0 +1,20 @@
+{
+  "title": "How Important Is Tokenization in French Medical Masked Language Models?",
+  "authors": [
+    "Yanis Labrak",
+    "Adrien Bazoge",
+    "Béatrice Daille",
+    "Mickaël Rouvier",
+    "Richard Dufour"
+  ],
+  "languages": [
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.lrec-main.721",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.721/"
+}

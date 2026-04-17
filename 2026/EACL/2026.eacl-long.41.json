@@ -1,0 +1,19 @@
+{
+  "title": "SCoNE: a Self-Correcting and Noise-Augmented Method for Complex Biological and Chemical Named Entity Recognition",
+  "authors": [
+    "Xingyu Zhu",
+    "Claire Nédellec",
+    "Balazs Nagy",
+    "Laszlo Vidacs",
+    "Robert Bossy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.eacl-long.41",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.41/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translation",
+  "authors": [
+    "Zhigang Chen",
+    "Benjia Zhou",
+    "Jun Li",
+    "Jun Wan",
+    "Zhen Lei",
+    "Ning Jiang",
+    "Quan Lu",
+    "Guoqing Zhao"
+  ],
+  "languages": [
+    "German",
+    "Chinese",
+    "American Sign Language"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.620",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.620/"
+}

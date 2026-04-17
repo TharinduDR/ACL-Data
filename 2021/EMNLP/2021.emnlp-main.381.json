@@ -1,0 +1,17 @@
+{
+  "title": "Extracting Fine-Grained Knowledge Graphs of Scientific Claims: Dataset and Transformer-Based Results",
+  "authors": [
+    "Ian H. Magnusson",
+    "Scott E. Friedman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.emnlp-main.381",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.381/"
+}

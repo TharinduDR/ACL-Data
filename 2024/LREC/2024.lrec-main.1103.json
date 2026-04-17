@@ -1,0 +1,42 @@
+{
+  "title": "ParaNames 1.0: Creating an Entity Name Corpus for 400+ Languages using Wikidata",
+  "authors": [
+    "Jonne Sälevä",
+    "Constantine Lignos"
+  ],
+  "languages": [
+    "Arabic",
+    "Armenian",
+    "Georgian",
+    "Greek",
+    "Kazakh",
+    "Korean",
+    "Latvian",
+    "Lithuanian",
+    "Persian",
+    "Russian",
+    "Swedish",
+    "Thai",
+    "Tajik",
+    "Urdu",
+    "Vietnamese",
+    "Hebrew",
+    "Japanese",
+    "Hindi",
+    "Finnish",
+    "Amharic",
+    "Hausa",
+    "Igbo",
+    "Luganda",
+    "Yoruba",
+    "Wolof",
+    "Kinyarwanda"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.1103",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1103/"
+}

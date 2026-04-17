@@ -1,0 +1,28 @@
+{
+  "title": "Event Extraction in Basque: Typologically motivated Cross-Lingual Transfer-Learning Analysis",
+  "authors": [
+    "Mikel Zubillaga",
+    "Oscar Sainz",
+    "Ainara Estarrona",
+    "Oier Lopez de Lacalle",
+    "Eneko Agirre"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Portuguese",
+    "Polish",
+    "Turkish",
+    "Hindi",
+    "Japanese",
+    "Korean",
+    "Basque"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.lrec-main.586",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.586/"
+}

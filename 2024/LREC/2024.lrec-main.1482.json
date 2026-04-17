@@ -1,0 +1,39 @@
+{
+  "title": "UniPSDA: Unsupervised Pseudo Semantic Data Augmentation for Zero-Shot Cross-Lingual Natural Language Understanding",
+  "authors": [
+    "Dongyang Li",
+    "Taolin Zhang",
+    "Jiali Deng",
+    "Longtao Huang",
+    "Chengyu Wang",
+    "Xiaofeng He",
+    "Hui Xue"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Spanish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Russian",
+    "Portuguese",
+    "Catalan",
+    "Arabic",
+    "Persian",
+    "Swahili",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T10 Question Answering",
+    "T11 Information Extraction",
+    "T20 Opinion & Argument Mining, Sentiment Analysis"
+  ],
+  "paper_id": "2024.lrec-main.1482",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1482/"
+}

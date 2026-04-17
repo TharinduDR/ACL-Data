@@ -1,0 +1,23 @@
+{
+  "title": "A Scalable Framework for Learning From Implicit User Feedback to Improve Natural Language Understanding in Large-Scale Conversational AI Systems",
+  "authors": [
+    "Sunghyun Park",
+    "Han Li",
+    "Ameen Patel",
+    "Sidharth Mudgal",
+    "Sungjin Lee",
+    "Young-Bum Kim",
+    "Spyros Matsoukas",
+    "Ruhi Sarikaya"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2021.emnlp-main.489",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.489/"
+}

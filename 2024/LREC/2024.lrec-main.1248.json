@@ -1,0 +1,21 @@
+{
+  "title": "SarcNet: A Multilingual Multimodal Sarcasm Detection Dataset",
+  "authors": [
+    "Tan Yue",
+    "Xuzhao Shi",
+    "Rui Mao",
+    "Zonghai Hu",
+    "Erik Cambria"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2024.lrec-main.1248",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1248/"
+}

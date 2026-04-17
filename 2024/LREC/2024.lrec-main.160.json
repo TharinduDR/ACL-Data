@@ -1,0 +1,20 @@
+{
+  "title": "AuRoRA: A One-for-all Platform for Augmented Reasoning and Refining with Task-Adaptive Chain-of-Thought Prompting",
+  "authors": [
+    "Anni Zou",
+    "Zhuosheng Zhang",
+    "Hai Zhao",
+    "Xiaoshan Li",
+    "Minjie Bian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.lrec-main.160",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.160/"
+}

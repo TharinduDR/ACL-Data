@@ -1,0 +1,24 @@
+{
+  "title": "CTC Alignments Improve Autoregressive Translation",
+  "authors": [
+    "Brian Yan",
+    "Siddharth Dalmia",
+    "Yosuke Higuchi",
+    "Graham Neubig",
+    "Florian Metze",
+    "Alan W Black",
+    "Shinji Watanabe"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.eacl-main.119",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.119/"
+}

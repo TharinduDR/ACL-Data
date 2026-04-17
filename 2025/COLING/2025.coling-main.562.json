@@ -1,0 +1,18 @@
+{
+  "title": "Rule-KBQA: Rule-Guided Reasoning for Complex Knowledge Base Question Answering with Large Language Models",
+  "authors": [
+    "Zhiqiang Zhang",
+    "Liqiang Wen",
+    "Wen Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.coling-main.562",
+  "acl_url": "https://aclanthology.org/2025.coling-main.562/"
+}

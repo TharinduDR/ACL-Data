@@ -1,0 +1,19 @@
+{
+  "title": "Effective Controllable Bias Mitigation for Classification and Retrieval using Gate Adapters",
+  "authors": [
+    "Shahed Masoudian",
+    "Cornelia Volaucnik",
+    "Markus Schedl",
+    "Navid Rekabsaz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.eacl-long.150",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.150/"
+}

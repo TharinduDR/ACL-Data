@@ -1,0 +1,20 @@
+{
+  "title": "Long-Context Long-Form Question Answering for Legal Domain",
+  "authors": [
+    "Anagha Kulkarni",
+    "Parin Rajesh Jhaveri",
+    "Prasha Shrestha",
+    "Yu Tong Han",
+    "Reza Amini",
+    "Behrouz Madahian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2026.eacl-industry.54",
+  "acl_url": "https://aclanthology.org/2026.eacl-industry.54/"
+}

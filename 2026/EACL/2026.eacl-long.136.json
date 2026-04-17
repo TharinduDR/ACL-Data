@@ -1,0 +1,24 @@
+{
+  "title": "Do LLM hallucination detectors suffer from low-resource effect?",
+  "authors": [
+    "Debantu Datta",
+    "Mohan Kishore Chilukuri",
+    "Yash Kumar",
+    "Saptarshi Ghosh",
+    "Muhammad Bilal Zafar"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hindi",
+    "Bengali",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2026.eacl-long.136",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.136/"
+}

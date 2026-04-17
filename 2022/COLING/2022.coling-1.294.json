@@ -1,0 +1,19 @@
+{
+  "title": "CCTC: A Cross-Sentence Chinese Text Correction Dataset for Native Speakers",
+  "authors": [
+    "Baoxin Wang",
+    "Xingyi Duan",
+    "Dayong Wu",
+    "Wanxiang Che",
+    "Zhigang Chen",
+    "Guoping Hu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2022.coling-1.294",
+  "acl_url": "https://aclanthology.org/2022.coling-1.294/"
+}

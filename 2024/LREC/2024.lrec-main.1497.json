@@ -1,0 +1,19 @@
+{
+  "title": "UQA: Corpus for Urdu Question Answering",
+  "authors": [
+    "Samee Arif",
+    "Sualeha Farid",
+    "Awais Athar",
+    "Agha Ali Raza"
+  ],
+  "languages": [
+    "Urdu",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.1497",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1497/"
+}

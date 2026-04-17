@@ -1,0 +1,26 @@
+{
+  "title": "Allocating Large Vocabulary Capacity for Cross-lingual Language Model Pre-training",
+  "authors": [
+    "Bo Zheng",
+    "Li Dong",
+    "Shaohan Huang",
+    "Saksham Singhal",
+    "Wanxiang Che",
+    "Ting Liu",
+    "Xia Song",
+    "Furu Wei"
+  ],
+  "languages": [
+    "Hindi",
+    "Persian",
+    "Italian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2021.emnlp-main.257",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.257/"
+}

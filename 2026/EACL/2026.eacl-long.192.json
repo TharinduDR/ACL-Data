@@ -1,0 +1,18 @@
+{
+  "title": "Rethinking Reading Order: Toward Generalizable Document Understanding with LLM-based Relation Modeling",
+  "authors": [
+    "Weishi Wang",
+    "Hengchang Hu",
+    "Daniel Dahlmeier"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2026.eacl-long.192",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.192/"
+}

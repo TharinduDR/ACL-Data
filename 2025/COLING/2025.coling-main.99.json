@@ -1,0 +1,23 @@
+{
+  "title": "CEHA: A Dataset of Conflict Events in the Horn of Africa",
+  "authors": [
+    "Rui Bai",
+    "Di Lu",
+    "Shihao Ran",
+    "Elizabeth Olson",
+    "Hemank Lamba",
+    "Aoife Cahill",
+    "Joel Tetreault",
+    "Alex Jaimes"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.coling-main.99",
+  "acl_url": "https://aclanthology.org/2025.coling-main.99/"
+}

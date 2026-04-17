@@ -1,0 +1,37 @@
+{
+  "title": "Large Scale Multi-Lingual Multi-Modal Summarization Dataset",
+  "authors": [
+    "Yash Verma",
+    "Anubhav Jangra",
+    "Raghvendra Kumar",
+    "Sriparna Saha"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Russian",
+    "French",
+    "Ukrainian",
+    "Portuguese",
+    "Japanese",
+    "Tamil",
+    "Hindi",
+    "Marathi",
+    "Gujarati",
+    "Bengali",
+    "Sinhala",
+    "Urdu",
+    "Pashto",
+    "Indonesian",
+    "Telugu",
+    "Punjabi",
+    "Nepali"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.eacl-main.263",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.263/"
+}

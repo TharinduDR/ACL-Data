@@ -1,0 +1,26 @@
+{
+  "title": "CMMaTH: A Chinese Multi-modal Math Skill Evaluation Benchmark for Foundation Models",
+  "authors": [
+    "Zhong-Zhi Li",
+    "Ming-Liang Zhang",
+    "Pei-jie Wang",
+    "Jian Xu",
+    "Rui-Song Zhang",
+    "Fei Yin",
+    "Zhi-Long Ji",
+    "Jin-Feng Bai",
+    "Zhen-Ru Pan",
+    "Jiaxin Zhang",
+    "Cheng-Lin Liu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.coling-main.184",
+  "acl_url": "https://aclanthology.org/2025.coling-main.184/"
+}

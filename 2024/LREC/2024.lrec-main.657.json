@@ -1,0 +1,22 @@
+{
+  "title": "FRASIMED: a Clinical French Annotated Resource Produced through Crosslingual BERT-Based Annotation Projection",
+  "authors": [
+    "Jamil Zaghir",
+    "Mina Bjelogrlic",
+    "Jean-Philippe Goldman",
+    "Soukaïna Aananou",
+    "Christophe Gaudet-Blavignac",
+    "Christian Lovis"
+  ],
+  "languages": [
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.lrec-main.657",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.657/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Don't Generate, Classify! Low-Latency Prompt Optimization with Structured Complementary Prompt",
+  "authors": [
+    "Hee-Soo Kim",
+    "Jun-Young Kim",
+    "Jeong-Hwan Lee",
+    "Seong-Jin Park",
+    "Kang-Min Kim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2026.eacl-long.204",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.204/"
+}

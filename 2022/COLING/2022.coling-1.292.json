@@ -1,0 +1,26 @@
+{
+  "title": "MACRONYM: A Large-Scale Dataset for Multilingual and Multi-Domain Acronym Extraction",
+  "authors": [
+    "Amir Pouran Ben Veyseh",
+    "Nicole Meister",
+    "Seunghyun Yoon",
+    "Rajiv Jain",
+    "Franck Dernoncourt",
+    "Thien Huu Nguyen"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Danish",
+    "Persian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2022.coling-1.292",
+  "acl_url": "https://aclanthology.org/2022.coling-1.292/"
+}

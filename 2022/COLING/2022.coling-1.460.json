@@ -1,0 +1,23 @@
+{
+  "title": "QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation",
+  "authors": [
+    "Sugyeong Eo",
+    "Chanjun Park",
+    "Hyeonseok Moon",
+    "Jaehyung Seo",
+    "Gyeongmin Kim",
+    "Jungseob Lee",
+    "Heuiseok Lim"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.coling-1.460",
+  "acl_url": "https://aclanthology.org/2022.coling-1.460/"
+}

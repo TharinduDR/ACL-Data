@@ -1,0 +1,38 @@
+{
+  "title": "DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population",
+  "authors": [
+    "Ningyu Zhang",
+    "Xin Xu",
+    "Liankuan Tao",
+    "Haiyang Yu",
+    "Hongbin Ye",
+    "Shuofei Qiao",
+    "Xin Xie",
+    "Xiang Chen",
+    "Zhoubo Li",
+    "Lei Li",
+    "Xiaozhuan Liang",
+    "Yunzhi Yao",
+    "Shumin Deng",
+    "Peng Wang",
+    "Wen Zhang",
+    "Zhenru Zhang",
+    "Chuanqi Tan",
+    "Qiang Chen",
+    "Feiyu Xiong",
+    "Fei Huang",
+    "Guozhou Zheng",
+    "Huajun Chen"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.emnlp-demos.10",
+  "acl_url": "https://aclanthology.org/2022.emnlp-demos.10/"
+}

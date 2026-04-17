@@ -1,0 +1,20 @@
+{
+  "title": "InferBR: a Natural Language Inference Dataset in Portuguese",
+  "authors": [
+    "Luciana Bencke",
+    "Francielle V. Pereira",
+    "Moniele K. Santos",
+    "Viviane P. Moreira"
+  ],
+  "languages": [
+    "Portuguese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.793",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.793/"
+}

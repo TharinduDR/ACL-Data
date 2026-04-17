@@ -1,0 +1,33 @@
+{
+  "title": "REACTION MINER: An Integrated System for Chemical Reaction Extraction from Textual Data",
+  "authors": [
+    "Ming Zhong",
+    "Siru Ouyang",
+    "Yizhu Jiao",
+    "Priyanka Kargupta",
+    "Leo Luo",
+    "Yanzhen Shen",
+    "Bobby Zhou",
+    "Xianrui Zhong",
+    "Xuan Liu",
+    "Hongxiang Li",
+    "Jinfeng Xiao",
+    "Minhao Jiang",
+    "Vivian Hu",
+    "Xuan Wang",
+    "Heng Ji",
+    "Martin Burke",
+    "Huimin Zhao",
+    "Jiawei Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.emnlp-demo.36",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.36/"
+}

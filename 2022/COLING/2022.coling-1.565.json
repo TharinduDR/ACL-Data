@@ -1,0 +1,19 @@
+{
+  "title": "Few-Shot Table-to-Text Generation with Prefix-Controlled Generator",
+  "authors": [
+    "Yutao Luo",
+    "Menghua Lu",
+    "Gongshen Liu*",
+    "Shilin Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.coling-1.565",
+  "acl_url": "https://aclanthology.org/2022.coling-1.565/"
+}

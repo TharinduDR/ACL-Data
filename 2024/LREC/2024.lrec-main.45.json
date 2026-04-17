@@ -1,0 +1,30 @@
+{
+  "title": "A Family of Pretrained Transformer Language Models for Russian",
+  "authors": [
+    "Dmitry Zmitrovich",
+    "Alexander Abramov",
+    "Andrey Kalmykov",
+    "Maria Tikhonova",
+    "Ekaterina Taktasheva",
+    "Danil Astafurov",
+    "Mark Baushenko",
+    "Artem Snegirev",
+    "Vitalii Kadulin",
+    "Sergey Markov",
+    "Tatiana Shavrina",
+    "Vladislav Mikhailov",
+    "Alena Fenogenova"
+  ],
+  "languages": [
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T19 Text Simplification",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.lrec-main.45",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.45/"
+}

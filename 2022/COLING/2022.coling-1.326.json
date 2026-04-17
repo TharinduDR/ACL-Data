@@ -1,0 +1,21 @@
+{
+  "title": "A New Public Corpus for Clinical Section Identification: MedSecId",
+  "authors": [
+    "Paul Landes",
+    "Kunal Patel",
+    "Sean S. Huang",
+    "Adam Webb",
+    "Barbara Di Eugenio",
+    "Cornelia Caragea"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.coling-1.326",
+  "acl_url": "https://aclanthology.org/2022.coling-1.326/"
+}

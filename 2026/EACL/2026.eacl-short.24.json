@@ -1,0 +1,18 @@
+{
+  "title": "Mind Your Special Tokens! On the Importance of Dedicated Sequence-End Tokens in Vision-Language Embedding Models",
+  "authors": [
+    "Elio Musacchio",
+    "Giovanni Semeraro",
+    "Goran Glavaš"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-short.24",
+  "acl_url": "https://aclanthology.org/2026.eacl-short.24/"
+}

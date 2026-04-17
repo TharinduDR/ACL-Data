@@ -1,0 +1,26 @@
+{
+  "title": "Segmenting Subtitles for Correcting ASR Segmentation Errors",
+  "authors": [
+    "David Wan",
+    "Chris Kedzie",
+    "Faisal Ladha",
+    "Elsbeth Turcan",
+    "Petra Galuščáková",
+    "Elena Zotkina",
+    "Zhengping Jiang",
+    "Peter Bell",
+    "Kathleen McKeown"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Persian",
+    "Lithuanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.eacl-main.248",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.248/"
+}

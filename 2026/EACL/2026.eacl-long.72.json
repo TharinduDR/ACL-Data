@@ -1,0 +1,22 @@
+{
+  "title": "ExAnte: A Benchmark for Ex-Ante Inference in Large Language Models",
+  "authors": [
+    "Yachuan Liu",
+    "Xiaochun Wei",
+    "Lin Shi",
+    "Xinnuo Li",
+    "Bohan Zhang",
+    "Paramveer Dhillon",
+    "Qiaozhu Mei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2026.eacl-long.72",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.72/"
+}

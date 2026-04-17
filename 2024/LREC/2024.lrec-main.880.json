@@ -1,0 +1,21 @@
+{
+  "title": "Language Pivoting from Parallel Corpora for Word Sense Disambiguation of Historical Languages: a Case Study on Latin",
+  "authors": [
+    "Iacopo Ghinassi",
+    "Simone Tedeschi",
+    "Paola Marongiu",
+    "Roberto Navigli",
+    "Barbara McGillivray"
+  ],
+  "languages": [
+    "Latin",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.lrec-main.880",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.880/"
+}

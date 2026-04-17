@@ -1,0 +1,26 @@
+{
+  "title": "LINGUIST: Language Model Instruction Tuning to Generate Annotated Utterances for Intent Classification and Slot Tagging",
+  "authors": [
+    "Andy Rosenbaum",
+    "Saleh Soltan",
+    "Wael Hamza",
+    "Yannick Versley",
+    "Markus Boese"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Portuguese",
+    "Japanese",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.coling-1.18",
+  "acl_url": "https://aclanthology.org/2022.coling-1.18/"
+}

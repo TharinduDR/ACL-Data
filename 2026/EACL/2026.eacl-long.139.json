@@ -1,0 +1,34 @@
+{
+  "title": "Safe-Unsafe Concept Separation Emerges from a Single Direction in Language Models Activation Space",
+  "authors": [
+    "Andrea Ermellino",
+    "Lorenzo Malandri",
+    "Fabio Mercurio",
+    "Antonio Serino"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Czech",
+    "Dutch",
+    "French",
+    "German",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Thai"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2026.eacl-long.139",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.139/"
+}

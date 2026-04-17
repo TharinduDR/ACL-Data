@@ -1,0 +1,45 @@
+{
+  "title": "Correlations Between Multilingual Language Model Geometry and Crosslingual Transfer Performance",
+  "authors": [
+    "Cheril Shah",
+    "Yashashree Chandak",
+    "Atharv Mahesh Mane",
+    "Benjamin K. Bergen",
+    "Tyler A. Chang"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Arabic",
+    "Basque",
+    "Bulgarian",
+    "Dutch",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Greek",
+    "Hebrew",
+    "Hindi",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Mandarin",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Urdu",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.lrec-main.361",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.361/"
+}

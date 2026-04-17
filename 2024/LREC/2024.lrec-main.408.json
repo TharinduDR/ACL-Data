@@ -1,0 +1,19 @@
+{
+  "title": "Deep Reinforcement Learning with Hierarchical Action Exploration for Dialogue Generation",
+  "authors": [
+    "Itsugun Cho",
+    "Ryota Takahashi",
+    "Yusaku Yanase",
+    "Hiroaki Saito"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.408",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.408/"
+}

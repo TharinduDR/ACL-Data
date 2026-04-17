@@ -1,0 +1,23 @@
+{
+  "title": "QANom: Question-Answer driven SRL for Nominalizations",
+  "authors": [
+    "Ayal Klein",
+    "Jonathan Mamou",
+    "Valentina Pyatkin",
+    "Daniela Brook Weiss",
+    "Hangfeng He",
+    "Dan Roth",
+    "Luke Zettlemoyer",
+    "Ido Dagan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.coling-main.274",
+  "acl_url": "https://aclanthology.org/2020.coling-main.274/"
+}

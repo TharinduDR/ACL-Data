@@ -1,0 +1,22 @@
+{
+  "title": "How Good Are LLMs at Processing Tool Outputs?",
+  "authors": [
+    "Kiran Kate",
+    "Yara Rizk",
+    "Poulami Ghosh",
+    "Ashu Gulati",
+    "Tathagata Chakraborti",
+    "Zidane Wright",
+    "Mayank Agarwal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.134",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.134/"
+}

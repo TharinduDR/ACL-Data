@@ -1,0 +1,26 @@
+{
+  "title": "Are All Prompt Components Value-Neutral? Understanding the Heterogeneous Adversarial Robustness of Dissected Prompt in Large Language Models",
+  "authors": [
+    "Yujia Zheng",
+    "Tianhao Li",
+    "Haotian Huang",
+    "Tianyu Zeng",
+    "Jingyu Lu",
+    "Chuangxin Chu",
+    "Yuekai Huang",
+    "Ziyou Jiang",
+    "Qian Xiong",
+    "Yuyao Ge",
+    "Mingyang Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2026.eacl-long.374",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.374/"
+}

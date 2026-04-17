@@ -1,0 +1,21 @@
+{
+  "title": "Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation",
+  "authors": [
+    "Jinhui Ye",
+    "Wenxiang Jiao",
+    "Xing Wang",
+    "Zhaopeng Tu"
+  ],
+  "languages": [
+    "German",
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.eacl-main.34",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.34/"
+}

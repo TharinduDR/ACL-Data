@@ -1,0 +1,20 @@
+{
+  "title": "A Vietnamese Dataset for Evaluating Machine Reading Comprehension",
+  "authors": [
+    "Kiet Van Nguyen",
+    "Duc-Vu Nguyen",
+    "Anh Gia-Tuan Nguyen",
+    "Ngan Luu-Thuy Nguyen"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2020.coling-main.233",
+  "acl_url": "https://aclanthology.org/2020.coling-main.233/"
+}

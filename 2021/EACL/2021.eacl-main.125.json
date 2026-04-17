@@ -1,0 +1,23 @@
+{
+  "title": "Generating Weather Comments from Meteorological Simulations",
+  "authors": [
+    "Soichiro Murakami",
+    "Sora Tanaka",
+    "Masatsugu Hangyo",
+    "Hidetaka Kamigaito",
+    "Kotaro Funakoshi",
+    "Hiroya Takamura",
+    "Manabu Okumura"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2021.eacl-main.125",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.125/"
+}

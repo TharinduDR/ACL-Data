@@ -1,0 +1,29 @@
+{
+  "title": "Incorporating Lexical and Syntactic Knowledge for Unsupervised Cross-Lingual Transfer",
+  "authors": [
+    "Jianyu Zheng",
+    "Fengfei Fan",
+    "Jianquan Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.lrec-main.787",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.787/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Singlish Message Paraphrasing: A Joint Task of Creole Translation and Text Normalization",
+  "authors": [
+    "Zhengyuan Liu",
+    "Shikang Ni",
+    "Ai Ti Aw",
+    "Nancy F. Chen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Malay",
+    "Cantonese",
+    "Hokkien",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.coling-1.345",
+  "acl_url": "https://aclanthology.org/2022.coling-1.345/"
+}

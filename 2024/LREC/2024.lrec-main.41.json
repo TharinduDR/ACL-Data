@@ -1,0 +1,18 @@
+{
+  "title": "A Document-Level Text Simplification Dataset for Japanese",
+  "authors": [
+    "Yoshinari Nagai",
+    "Teruaki Oka",
+    "Mamoru Komachi"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2024.lrec-main.41",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.41/"
+}

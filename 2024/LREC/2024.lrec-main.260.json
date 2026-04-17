@@ -1,0 +1,17 @@
+{
+  "title": "CBBQ: A Chinese Bias Benchmark Dataset Curated with Human-AI Collaboration for Large Language Models",
+  "authors": [
+    "Yufei Huang",
+    "Deyi Xiong"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.260",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.260/"
+}

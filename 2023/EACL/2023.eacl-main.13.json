@@ -1,0 +1,22 @@
+{
+  "title": "Do we need Label Regularization to Fine-tune Pre-trained Language Models?",
+  "authors": [
+    "Ivan Kobyzev",
+    "Aref Jafari",
+    "Mehdi Rezagholizadeh",
+    "Tianda Li",
+    "Alan Do-Omri",
+    "Peng Lu",
+    "Pascal Poupart",
+    "Ali Ghodsi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eacl-main.13",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.13/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "A Closer Look at Parameter Contributions When Training Neural Language and Translation Models",
+  "authors": [
+    "Raúl Vázquez",
+    "Hande Celikkanat",
+    "Vinit Ravishankar",
+    "Mathias Creutz",
+    "Jörg Tiedemann"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Finnish",
+    "Estonian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.coling-1.424",
+  "acl_url": "https://aclanthology.org/2022.coling-1.424/"
+}

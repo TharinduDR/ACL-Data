@@ -1,0 +1,21 @@
+{
+  "title": "Arabic Word-level Readability Visualization for Assisted Text Simplification",
+  "authors": [
+    "Reem Hazim",
+    "Hind Saddiki",
+    "Bashar Alhafni",
+    "Muhammed Al Khalil",
+    "Nizar Habash"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.emnlp-demos.24",
+  "acl_url": "https://aclanthology.org/2022.emnlp-demos.24/"
+}

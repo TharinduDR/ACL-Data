@@ -1,0 +1,25 @@
+{
+  "title": "Self-Supervised Quality Estimation for Machine Translation",
+  "authors": [
+    "Yuanhang Zheng",
+    "Zhixing Tan",
+    "Meng Zhang",
+    "Mieradilijiang Maimaiti",
+    "Huanbo Luan",
+    "Maosong Sun",
+    "Qun Liu",
+    "Yang Liu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Lithuanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.emnlp-main.267",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.267/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "InVeRo-XL: Making Cross-Lingual Semantic Role Labeling Accessible with Intelligible Verbs and Roles",
+  "authors": [
+    "Simone Conia",
+    "Riccardo Orlando",
+    "Fabrizio Brignone",
+    "Francesco Cecconi",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "Catalan",
+    "Czech",
+    "German",
+    "English",
+    "Spanish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2021.emnlp-demo.36",
+  "acl_url": "https://aclanthology.org/2021.emnlp-demo.36/"
+}

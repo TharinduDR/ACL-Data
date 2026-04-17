@@ -1,0 +1,21 @@
+{
+  "title": "Modeling Long-distance Node Relations for KBQA with Global Dynamic Graph",
+  "authors": [
+    "Xu Wang",
+    "Shuai Zhao",
+    "Jiale Han",
+    "Bo Cheng",
+    "Hao Yang",
+    "Jianchang Ao",
+    "Zhenzi Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.coling-main.231",
+  "acl_url": "https://aclanthology.org/2020.coling-main.231/"
+}

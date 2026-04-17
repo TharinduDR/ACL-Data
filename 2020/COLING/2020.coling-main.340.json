@@ -1,0 +1,21 @@
+{
+  "title": "Porous Lattice Transformer Encoder for Chinese NER",
+  "authors": [
+    "Mengge Xue",
+    "Bowen Yu",
+    "Tingwen Liu",
+    "Yue Zhang",
+    "Erli Meng",
+    "Bin Wang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.coling-main.340",
+  "acl_url": "https://aclanthology.org/2020.coling-main.340/"
+}

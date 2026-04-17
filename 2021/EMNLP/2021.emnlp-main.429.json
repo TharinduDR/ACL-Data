@@ -1,0 +1,21 @@
+{
+  "title": "Modular Self-Supervision for Document-Level Relation Extraction",
+  "authors": [
+    "Sheng Zhang",
+    "Cliff Wong",
+    "Naoto Usuyama",
+    "Sarthak Jain",
+    "Tristan Naumann",
+    "Hoifung Poon"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2021.emnlp-main.429",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.429/"
+}

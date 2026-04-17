@@ -1,0 +1,23 @@
+{
+  "title": "Joint Annotation of Morphology and Syntax in Dependency Treebanks",
+  "authors": [
+    "Bruno Guillaume",
+    "Kim Gerdes",
+    "Kirian Guiller",
+    "Sylvain Kahane",
+    "Yixuan Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "Turkish",
+    "Yupik",
+    "Chukchi"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.lrec-main.836",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.836/"
+}

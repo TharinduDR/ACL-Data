@@ -1,0 +1,28 @@
+{
+  "title": "JRC-Names-Retrieval: A Standardized Benchmark for Name Search",
+  "authors": [
+    "Philip Blair",
+    "Kfir Bar"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "Cyrillic",
+    "Hebrew",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Thai",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.838",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.838/"
+}

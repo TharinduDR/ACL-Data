@@ -1,0 +1,18 @@
+{
+  "title": "Mitigating Societal Harms in Large Language Models",
+  "authors": [
+    "Sachin Kumar",
+    "Vidhisha Balachandran",
+    "Lucille Njoo",
+    "Antonios Anastasopoulos",
+    "Yulia Tsvetkov"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.emnlp-tutorial.5",
+  "acl_url": "https://aclanthology.org/2023.emnlp-tutorial.5/"
+}

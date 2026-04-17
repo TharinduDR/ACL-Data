@@ -1,0 +1,23 @@
+{
+  "title": "Layer-wise Model Pruning based on Mutual Information",
+  "authors": [
+    "Chun Fan",
+    "Jiwei Li",
+    "Xiang Ao",
+    "Fei Wu",
+    "Yuxian Meng",
+    "Xiaofei Sun"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.emnlp-main.246",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.246/"
+}

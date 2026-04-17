@@ -1,0 +1,17 @@
+{
+  "title": "Joint Chinese Word Segmentation and Part-of-speech Tagging via Multi-channel Attention of Character N-grams",
+  "authors": [
+    "Yuanhe Tian",
+    "Yan Song",
+    "Fei Xia"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.187",
+  "acl_url": "https://aclanthology.org/2020.coling-main.187/"
+}

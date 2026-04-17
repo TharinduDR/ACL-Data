@@ -1,0 +1,39 @@
+{
+  "title": "LOME: Large Ontology Multilingual Extraction",
+  "authors": [
+    "Patrick Xia",
+    "Guanghui Qin",
+    "Siddharth Vashishtha",
+    "Yunmo Chen",
+    "Tongfei Chen",
+    "Chandler May",
+    "Craig Harman",
+    "Kyle Rawlins",
+    "Aaron Steven White",
+    "Benjamin Van Durme"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Spanish",
+    "Chinese",
+    "Arabic",
+    "Catalan",
+    "Dutch",
+    "Italian",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.eacl-demos.19",
+  "acl_url": "https://aclanthology.org/2021.eacl-demos.19/"
+}

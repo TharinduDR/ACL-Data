@@ -1,0 +1,38 @@
+{
+  "title": "OpenMSD: Towards Multilingual Scientific Documents Similarity Measurement",
+  "authors": [
+    "Yang Gao",
+    "Ji Ma",
+    "Ivan Korotkov",
+    "Keith Hall",
+    "Dana Alon",
+    "Donald Metzler"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "French",
+    "Portuguese",
+    "Spanish",
+    "Japanese",
+    "Russian",
+    "Turkish",
+    "Ukrainian",
+    "Polish",
+    "Dutch",
+    "Italian",
+    "Korean",
+    "Greek",
+    "Norwegian",
+    "Serbian",
+    "Hungarian"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T18 Text Summarization",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2024.lrec-main.1092",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1092/"
+}

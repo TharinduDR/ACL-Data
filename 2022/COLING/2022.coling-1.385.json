@@ -1,0 +1,37 @@
+{
+  "title": "A Simple and Effective Method to Improve Zero-Shot Cross-Lingual Transfer Learning",
+  "authors": [
+    "Kunbo Ding",
+    "Weijie Liu",
+    "Yuejian Fang",
+    "Weiquan Mao",
+    "Zhe Zhao",
+    "Tao Zhu",
+    "Haoyan Liu",
+    "Rong Tian",
+    "Yiren Chen"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bulgarian",
+    "German",
+    "Greek",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Urdu",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2022.coling-1.385",
+  "acl_url": "https://aclanthology.org/2022.coling-1.385/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Improving Commonsense Question Answering by Graph-based Iterative Retrieval over Multiple Knowledge Sources",
+  "authors": [
+    "Qianglong Chen",
+    "Feng Ji",
+    "Haiqing Chen",
+    "Yin Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.coling-main.232",
+  "acl_url": "https://aclanthology.org/2020.coling-main.232/"
+}

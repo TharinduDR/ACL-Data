@@ -1,0 +1,19 @@
+{
+  "title": "Don't Judge a Language Model by Its Last Layer: Contrastive Learning with Layer-Wise Attention Pooling",
+  "authors": [
+    "Dongsuk Oh",
+    "Yejin Kim",
+    "Hodong Lee",
+    "H. Howie Huang",
+    "Heuiseok Lim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.coling-1.405",
+  "acl_url": "https://aclanthology.org/2022.coling-1.405/"
+}

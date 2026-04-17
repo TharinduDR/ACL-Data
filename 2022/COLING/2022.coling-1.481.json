@@ -1,0 +1,24 @@
+{
+  "title": "Parsing Natural Language into Propositional and First-Order Logic with Dual Reinforcement Learning",
+  "authors": [
+    "Xuantao Lu",
+    "Jingping Liu",
+    "Zhouhong Gu",
+    "Hanwen Tong",
+    "Chenbao Xie",
+    "Juyang Huang",
+    "Yanghua Xiao",
+    "Wenguang Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.coling-1.481",
+  "acl_url": "https://aclanthology.org/2022.coling-1.481/"
+}

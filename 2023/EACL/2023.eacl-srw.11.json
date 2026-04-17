@@ -1,0 +1,18 @@
+{
+  "title": "Clinical Text Anonymization, its Influence on Downstream NLP Tasks and the Risk of Re-Identification",
+  "authors": [
+    "Iyadh Ben Cheikh Larbi",
+    "Aljoscha Burchardt",
+    "Roland Roller"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2023.eacl-srw.11",
+  "acl_url": "https://aclanthology.org/2023.eacl-srw.11/"
+}

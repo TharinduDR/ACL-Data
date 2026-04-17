@@ -1,0 +1,18 @@
+{
+  "title": "CroCoSum: A Benchmark Dataset for Cross-Lingual Code-Switched Summarization",
+  "authors": [
+    "Ruochen Zhang",
+    "Carsten Eickhoff"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.367",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.367/"
+}

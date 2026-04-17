@@ -1,0 +1,25 @@
+{
+  "title": "Multilingual Generation in Abstractive Summarization: A Comparative Study",
+  "authors": [
+    "Jinpeng Li",
+    "Jiaze Chen",
+    "Huadong Chen",
+    "Dongyan Zhao",
+    "Rui Yan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.1032",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1032/"
+}

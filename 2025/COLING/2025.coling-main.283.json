@@ -1,0 +1,25 @@
+{
+  "title": "ARADiCE: Benchmarks for Dialectal and Cultural Capabilities in LLMs",
+  "authors": [
+    "Basel Mousi",
+    "Nadir Durrani",
+    "Fatema Ahmad",
+    "Md. Arid Hasan",
+    "Maram Hasanain",
+    "Tameem Kabbani",
+    "Fahim Dalvi",
+    "Shammur Absar Chowdhury",
+    "Firoj Alam"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.283",
+  "acl_url": "https://aclanthology.org/2025.coling-main.283/"
+}

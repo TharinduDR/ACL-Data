@@ -1,0 +1,23 @@
+{
+  "title": "Aleph-Alpha-GermanWeb: Improving German-Language LLM Pre-Training with Model-Based Data Curation and Synthetic Data Generation",
+  "authors": [
+    "Thomas F Burns",
+    "Letitia Parcalabescu",
+    "Stephan Wäldchen",
+    "Michael Barlow",
+    "Gregor Ziegler",
+    "Volker Stampa",
+    "Bastian Harren",
+    "Björn Deiseroth"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2026.eacl-long.58",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.58/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Generating Diverse Translation with Perturbed kNN-MT",
+  "authors": [
+    "Yuto Nishida",
+    "Makoto Morishita",
+    "Hidetaka Kamigaito",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.eacl-srw.2",
+  "acl_url": "https://aclanthology.org/2024.eacl-srw.2/"
+}

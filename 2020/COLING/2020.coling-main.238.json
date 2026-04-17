@@ -1,0 +1,23 @@
+{
+  "title": "Molweni: A Challenge Multiparty Dialogue-based Machine Reading Comprehension Dataset with Discourse Structure",
+  "authors": [
+    "Jiaqi Li",
+    "Ming Liu",
+    "Min-Yen Kan",
+    "Zihao Zheng",
+    "Zekun Wang",
+    "Wenqiang Lei",
+    "Ting Liu",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.238",
+  "acl_url": "https://aclanthology.org/2020.coling-main.238/"
+}

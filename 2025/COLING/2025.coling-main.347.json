@@ -1,0 +1,18 @@
+{
+  "title": "Synthetic Paths to Integral Truth: Mitigating Hallucinations Caused by Confirmation Bias with Synthetic Data",
+  "authors": [
+    "Changwon Ok",
+    "Eunkyeong Lee",
+    "Dongsuk Oh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.coling-main.347",
+  "acl_url": "https://aclanthology.org/2025.coling-main.347/"
+}

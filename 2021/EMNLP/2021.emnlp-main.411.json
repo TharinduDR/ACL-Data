@@ -1,0 +1,19 @@
+{
+  "title": "OSCAR: Orthogonal Subspace Correction and Rectification of Biases in Word Embeddings",
+  "authors": [
+    "Sunipa Dev",
+    "Tao Li",
+    "Jeff M Phillips",
+    "Vivek Srikumar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.emnlp-main.411",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.411/"
+}

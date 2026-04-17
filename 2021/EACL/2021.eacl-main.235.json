@@ -1,0 +1,23 @@
+{
+  "title": "Entity-level Factual Consistency of Abstractive Text Summarization",
+  "authors": [
+    "Feng Nan",
+    "Ramesh Nallapati",
+    "Zhiguo Wang",
+    "Cicero Nogueira dos Santos",
+    "Henghui Zhu",
+    "Dejiao Zhang",
+    "Kathleen McKeown",
+    "Bing Xiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.eacl-main.235",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.235/"
+}

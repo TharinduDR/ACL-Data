@@ -1,0 +1,34 @@
+{
+  "title": "XFORMPARSER: A Simple and Effective Multimodal Multilingual Semi-structured Form Parser",
+  "authors": [
+    "Xianfu Cheng",
+    "Hang Zhang",
+    "Jian Yang",
+    "Xiang Li",
+    "Weixiao Zhou",
+    "Fei Liu",
+    "Kui Wu",
+    "Xiangyuan Guan",
+    "Tao Sun",
+    "Xianjie Wu",
+    "Tongliang Li",
+    "Zhoujun Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Portuguese",
+    "French",
+    "German",
+    "Italian",
+    "Spanish",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.coling-main.41",
+  "acl_url": "https://aclanthology.org/2025.coling-main.41/"
+}

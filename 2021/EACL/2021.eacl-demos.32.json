@@ -1,0 +1,35 @@
+{
+  "title": "ELITR Multilingual Live Subtitling: Demo and Strategy",
+  "authors": [
+    "Ondřej Bojar",
+    "Dominik Macháček",
+    "Sangeet Sagar",
+    "Otakar Smrž",
+    "Jonáš Kratochvíl",
+    "Peter Polák",
+    "Ebrahim Ansari",
+    "Mohammad Mahmoudi",
+    "Rishu Kumar",
+    "Dario Franceschini",
+    "Chiara Canton",
+    "Ivan Simonini",
+    "Thai-Son Nguyen",
+    "Felix Schneider",
+    "Sebastian Stüker",
+    "Alex Waibel",
+    "Barry Haddow",
+    "Rico Sennrich",
+    "Philip Williams"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2021.eacl-demos.32",
+  "acl_url": "https://aclanthology.org/2021.eacl-demos.32/"
+}

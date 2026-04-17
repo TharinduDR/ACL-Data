@@ -1,0 +1,22 @@
+{
+  "title": "Rethinking the Evaluation of Alignment Methods: Insights into Diversity, Generalisation, and Safety",
+  "authors": [
+    "Denis Janiak",
+    "Julia Moska",
+    "Dawid Motyka",
+    "Karolina Seweryn",
+    "Paweł Walkowiak",
+    "Bartosz Żuk",
+    "Arkadiusz Janz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2026.eacl-srw.7",
+  "acl_url": "https://aclanthology.org/2026.eacl-srw.7/"
+}

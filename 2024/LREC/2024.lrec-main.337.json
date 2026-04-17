@@ -1,0 +1,22 @@
+{
+  "title": "Context-Aware Non-Autoregressive Document-Level Translation with Sentence-Aligned Connectionist Temporal Classification",
+  "authors": [
+    "Hao Yu",
+    "Kaiyu Huang",
+    "Anqi Zhao",
+    "Junpeng Liu",
+    "Degen Huang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Arabic",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.337",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.337/"
+}

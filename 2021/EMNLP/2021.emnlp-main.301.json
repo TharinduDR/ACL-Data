@@ -1,0 +1,20 @@
+{
+  "title": "FiD-Ex: Improving Sequence-to-Sequence Models for Extractive Rationale Generation",
+  "authors": [
+    "Kushal Lakhotia",
+    "Bhargavi Paranjape",
+    "Asish Ghoshal",
+    "Wen-tau Yih",
+    "Yashar Mehdad",
+    "Srinivasan Iyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.emnlp-main.301",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.301/"
+}

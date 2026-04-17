@@ -1,0 +1,22 @@
+{
+  "title": "GAST: Gradient-aligned Sparse Tuning of Large Language Models with Data-layer Selection",
+  "authors": [
+    "Kai Yao",
+    "Zhenghan Song",
+    "Kaixin Wu",
+    "Mingjie Zhong",
+    "Danzhao Cheng",
+    "Zhaorui Tan",
+    "Yixin Ji",
+    "Penglei Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2026.eacl-long.206",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.206/"
+}

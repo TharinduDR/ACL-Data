@@ -1,0 +1,21 @@
+{
+  "title": "A Multimodal In-Context Tuning Approach for E-Commerce Product Description Generation",
+  "authors": [
+    "Yunxin Li",
+    "Baotian Hu",
+    "Wenhan Luo",
+    "Lin Ma",
+    "Yuxin Ding",
+    "Min Zhang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.lrec-main.77",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.77/"
+}

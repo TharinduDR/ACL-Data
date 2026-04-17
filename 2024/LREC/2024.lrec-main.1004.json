@@ -1,0 +1,19 @@
+{
+  "title": "Model-Agnostic Cross-Lingual Training for Discourse Representation Structure Parsing",
+  "authors": [
+    "Jiangming Liu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.lrec-main.1004",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1004/"
+}

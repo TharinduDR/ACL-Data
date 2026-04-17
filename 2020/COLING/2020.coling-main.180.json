@@ -1,0 +1,21 @@
+{
+  "title": "The ApposCorpus: A new multilingual, multi-domain dataset for factual appositive generation",
+  "authors": [
+    "Yova Kementchedjhieva",
+    "Di Lu",
+    "Joel Tetreault"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Polish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T13 Knowledge discovery/representation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.coling-main.180",
+  "acl_url": "https://aclanthology.org/2020.coling-main.180/"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Bridging the Language Gap: Dynamic Learning Strategies for Improving Multilingual Performance in LLMs",
+  "authors": [
+    "Somnath Kumar",
+    "Vaibhav Balloli",
+    "Mercy Ranjit",
+    "Kabir Ahuja",
+    "Sunayana Sitaram",
+    "Kalika Bali",
+    "Tanuja Ganu",
+    "Akshay Nambi"
+  ],
+  "languages": [
+    "English",
+    "Kannada",
+    "Marathi",
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Malayalam",
+    "Oriya",
+    "Punjabi",
+    "Tamil",
+    "Telugu",
+    "Arabic",
+    "French",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Indonesian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.619",
+  "acl_url": "https://aclanthology.org/2025.coling-main.619/"
+}

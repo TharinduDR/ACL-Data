@@ -1,0 +1,20 @@
+{
+  "title": "ngram-OAXE: Phrase-Based Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation",
+  "authors": [
+    "Cunxiao Du",
+    "Zhaopeng Tu",
+    "Longyue Wang",
+    "Jing Jiang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.coling-1.446",
+  "acl_url": "https://aclanthology.org/2022.coling-1.446/"
+}

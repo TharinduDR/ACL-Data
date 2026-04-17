@@ -1,0 +1,20 @@
+{
+  "title": "Cross-lingual Intermediate Fine-tuning improves Dialogue State Tracking",
+  "authors": [
+    "Nikita Moghe",
+    "Mark Steedman",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2021.emnlp-main.87",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.87/"
+}

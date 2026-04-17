@@ -1,0 +1,20 @@
+{
+  "title": "RECIPE-TKG: From Sparse History to Structured Reasoning for LLM-based Temporal Knowledge Graph Completion",
+  "authors": [
+    "Ömer Faruk Akğül",
+    "Feiyu Zhu",
+    "Yuxin Yang",
+    "Rajgopal Kannan",
+    "Viktor Prasanna"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2026.eacl-long.86",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.86/"
+}

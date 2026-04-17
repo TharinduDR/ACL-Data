@@ -1,0 +1,23 @@
+{
+  "title": "MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models",
+  "authors": [
+    "Dingyao Yu",
+    "Kaitao Song",
+    "Peiling Lu",
+    "Tianyu He",
+    "Xu Tan",
+    "Wei Ye",
+    "Shikun Zhang",
+    "Jiang Bian"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2023.emnlp-demo.21",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.21/"
+}

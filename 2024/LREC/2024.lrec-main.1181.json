@@ -1,0 +1,25 @@
+{
+  "title": "RAAMove: A Corpus for Analyzing Moves in Research Article Abstracts",
+  "authors": [
+    "Hongzheng Li",
+    "Ruojin Wang",
+    "Ge Shi",
+    "Xing Lv",
+    "Lei Lei",
+    "Chong Feng",
+    "Fang Liu",
+    "Jinkun Lin",
+    "Yangguang Mei",
+    "Lingnan Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.lrec-main.1181",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1181/"
+}

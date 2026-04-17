@@ -1,0 +1,22 @@
+{
+  "title": "TranslateLocally: Blazing-fast translation running on the local CPU",
+  "authors": [
+    "Nikolay Bogoychev",
+    "Jelmer Van der Linde",
+    "Kenneth Heafield"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Czech",
+    "Estonian",
+    "Icelandic",
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.emnlp-demo.20",
+  "acl_url": "https://aclanthology.org/2021.emnlp-demo.20/"
+}

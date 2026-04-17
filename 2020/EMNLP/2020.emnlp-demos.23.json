@@ -1,0 +1,21 @@
+{
+  "title": "WantWords: An Open-source Online Reverse Dictionary System",
+  "authors": [
+    "Fanchao Qi",
+    "Lei Zhang",
+    "Yanhui Yang",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.emnlp-demos.23",
+  "acl_url": "https://aclanthology.org/2020.emnlp-demos.23/"
+}

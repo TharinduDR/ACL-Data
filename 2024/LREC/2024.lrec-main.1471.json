@@ -1,0 +1,38 @@
+{
+  "title": "UCxn: Typologically Informed Annotation of Constructions Atop Universal Dependencies",
+  "authors": [
+    "Leonie Weissweiler",
+    "Nina Böbel",
+    "Kirian Guiller",
+    "Santiago Herrera",
+    "Wesley Scivetti",
+    "Arthur Lorenzi",
+    "Nurit Melnik",
+    "Archana Bhatia",
+    "Hinrich Schütze",
+    "Lori Levin",
+    "Amir Zeldes",
+    "Joakim Nivre",
+    "William Croft",
+    "Nathan Schneider"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Swedish",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Hindi",
+    "Hebrew",
+    "Chinese",
+    "Coptic"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.lrec-main.1471",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1471/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "RESIN-EDITOR: A Schema-guided Hierarchical Event Graph Visualizer and Editor",
+  "authors": [
+    "Khanh Duy Nguyen",
+    "Zixuan Zhang",
+    "Reece Suchocki",
+    "Sha Li",
+    "Martha Palmer",
+    "Susan Brown",
+    "Jiawei Han",
+    "Heng Ji"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.emnlp-demo.33",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.33/"
+}

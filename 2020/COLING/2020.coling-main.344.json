@@ -1,0 +1,23 @@
+{
+  "title": "Semi-supervised Autoencoding Projective Dependency Parsing",
+  "authors": [
+    "Xiao Zhang",
+    "Dan Goldwasser"
+  ],
+  "languages": [
+    "Dutch",
+    "Spanish",
+    "English",
+    "French",
+    "Croatian",
+    "German",
+    "Italian",
+    "Russian",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.344",
+  "acl_url": "https://aclanthology.org/2020.coling-main.344/"
+}

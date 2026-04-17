@@ -1,0 +1,18 @@
+{
+  "title": "Should I try multiple optimizers when fine-tuning pre-trained Transformers for NLP tasks? Should I tune their hyperparameters?",
+  "authors": [
+    "Nefeli Gkouti",
+    "Prodromos Malakasiotis",
+    "Stavros Toumpis",
+    "Ion Androutsopoulos"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.eacl-long.157",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.157/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Beyond Boundaries: Learning a Universal Entity Taxonomy across Datasets and Languages for Open Named Entity Recognition",
+  "authors": [
+    "Yuming Yang",
+    "Wantong Zhao",
+    "Caishuang Huang",
+    "Junjie Ye",
+    "Xiao Wang",
+    "Huiyuan Zheng",
+    "Yang Nan",
+    "Yuran Wang",
+    "Xueying Xu",
+    "Kaixin Huang",
+    "Yunke Zhang",
+    "Tao Gui",
+    "Qi Zhang",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.725",
+  "acl_url": "https://aclanthology.org/2025.coling-main.725/"
+}

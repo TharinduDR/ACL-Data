@@ -1,0 +1,22 @@
+{
+  "title": "SOM-NCSCM: An Efficient Neural Chinese Sentence Compression Model Enhanced with Self-Organizing Map",
+  "authors": [
+    "Kangli Zi",
+    "Shi Wang",
+    "Yanan Cao",
+    "Yu Liu",
+    "Jicun Li",
+    "Cungen Cao"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.emnlp-main.33",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.33/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Low-Resource Language Expansion and Translation Capacity Enhancement for LLM: A Study on the Uyghur",
+  "authors": [
+    "Kaiwen Lu",
+    "Yating Yang",
+    "Fengyi Yang",
+    "Rui Dong",
+    "Bo Ma",
+    "Ahtamjan Ahmat",
+    "Abibilla Atawulla",
+    "Lei Wang",
+    "Xi Zhou"
+  ],
+  "languages": [
+    "Uyghur",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.559",
+  "acl_url": "https://aclanthology.org/2025.coling-main.559/"
+}

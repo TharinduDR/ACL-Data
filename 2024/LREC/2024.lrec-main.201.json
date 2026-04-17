@@ -1,0 +1,24 @@
+{
+  "title": "BenLLM-Eval: A Comprehensive Evaluation into the Potentials and Pitfalls of Large Language Models on Bengali NLP",
+  "authors": [
+    "Mohsinul Kabir",
+    "Mohammed Saidul Islam",
+    "Md Tahmid Rahman Laskar",
+    "Mir Tafseer Nayeem",
+    "M Saiful Bari",
+    "Enamul Hoque"
+  ],
+  "languages": [
+    "Bengali"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2024.lrec-main.201",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.201/"
+}

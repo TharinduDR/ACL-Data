@@ -1,0 +1,22 @@
+{
+  "title": "Inferno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes",
+  "authors": [
+    "Johann Frei",
+    "Nils Feldhus",
+    "Lisa Raithel",
+    "Roland Roller",
+    "Alexander Meyer",
+    "Frank Kramer"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2026.eacl-demo.13",
+  "acl_url": "https://aclanthology.org/2026.eacl-demo.13/"
+}

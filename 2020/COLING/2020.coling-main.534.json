@@ -1,0 +1,21 @@
+{
+  "title": "Analysing cross-lingual transfer in lemmatisation for Indian languages",
+  "authors": [
+    "Kumar Saunack",
+    "Kumar Saurav",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "Bengali",
+    "Hindi",
+    "Kannada",
+    "Sanskrit",
+    "Telugu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.534",
+  "acl_url": "https://aclanthology.org/2020.coling-main.534/"
+}

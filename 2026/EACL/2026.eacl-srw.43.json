@@ -1,0 +1,23 @@
+{
+  "title": "Evaluating the Impact of SAE-based Language Steering on LLM Performance",
+  "authors": [
+    "Sebastian Zvirner",
+    "Wentao Hu",
+    "Koshiro Aoki",
+    "Daisuke Kawahara"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2026.eacl-srw.43",
+  "acl_url": "https://aclanthology.org/2026.eacl-srw.43/"
+}

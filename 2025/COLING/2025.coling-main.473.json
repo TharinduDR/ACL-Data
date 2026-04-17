@@ -1,0 +1,18 @@
+{
+  "title": "Improving Relation Extraction by Sequence-to-sequence-based Dependency Parsing Pre-training",
+  "authors": [
+    "Masaki Asada",
+    "Makoto Miwa"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.coling-main.473",
+  "acl_url": "https://aclanthology.org/2025.coling-main.473/"
+}

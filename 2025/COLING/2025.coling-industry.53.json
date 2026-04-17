@@ -1,0 +1,26 @@
+{
+  "title": "DaCoM: Strategies to Construct Domain-specific Low-resource Language Machine Translation Dataset",
+  "authors": [
+    "Junghoon Kang",
+    "Keunjoo Tak",
+    "Joung Su Choi",
+    "Myunghyun Kim",
+    "Junyoung Jang",
+    "Youjin Kang"
+  ],
+  "languages": [
+    "Korean",
+    "English",
+    "Thai",
+    "Nepali",
+    "Uzbek",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-industry.53",
+  "acl_url": "https://aclanthology.org/2025.coling-industry.53/"
+}

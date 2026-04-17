@@ -1,0 +1,19 @@
+{
+  "title": "The Impacts of Unanswerable Questions on the Robustness of Machine Reading Comprehension Models",
+  "authors": [
+    "Son Quoc Tran",
+    "Phong Nguyen-Thuan Do",
+    "Uyen Le",
+    "Matt Kretchmar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eacl-main.113",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.113/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees",
+  "authors": [
+    "Jiangang Bai",
+    "Yujing Wang",
+    "Yiren Chen",
+    "Yaming Yang",
+    "Jing Bai",
+    "Jing Yu",
+    "Yunhai Tong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.eacl-main.262",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.262/"
+}

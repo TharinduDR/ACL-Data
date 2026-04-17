@@ -1,0 +1,23 @@
+{
+  "title": "GFST: Gender-Filtered Self-Training for More Accurate Gender in Translation",
+  "authors": [
+    "Prafulla Kumar Choubey",
+    "Anna Currey",
+    "Prashant Mathur",
+    "Georgiana Dinu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Hebrew",
+    "Italian",
+    "Russian",
+    "German"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.emnlp-main.123",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.123/"
+}

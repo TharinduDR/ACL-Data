@@ -1,0 +1,23 @@
+{
+  "title": "PARAPHRASUS: A Comprehensive Benchmark for Evaluating Paraphrase Detection Models",
+  "authors": [
+    "Andrianos Michail",
+    "Simon Clematide",
+    "Juri Opitz"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Japanese",
+    "Korean",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.coling-main.585",
+  "acl_url": "https://aclanthology.org/2025.coling-main.585/"
+}

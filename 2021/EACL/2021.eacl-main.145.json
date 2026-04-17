@@ -1,0 +1,25 @@
+{
+  "title": "Active Learning for Sequence Tagging with Deep Pre-trained Models and Bayesian Uncertainty Estimates",
+  "authors": [
+    "Artem Shelmanov",
+    "Dmitri Puzirev",
+    "Lyubov Kupriyanova",
+    "Denis Belyakov",
+    "Daniil Larionov",
+    "Nikita Khromov",
+    "Olga Kozlova",
+    "Ekaterina Artemova",
+    "Dmitry V. Dylov",
+    "Alexander Panchenko"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.eacl-main.145",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.145/"
+}

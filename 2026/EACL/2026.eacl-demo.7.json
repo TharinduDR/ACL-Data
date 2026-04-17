@@ -1,0 +1,22 @@
+{
+  "title": "CLARI ESG: An End-to-End System for ESG Analysis over Complex Tables in Corporate Reports",
+  "authors": [
+    "Marta Santacroce",
+    "Michele Luca Contalbo",
+    "Sara Pederzoli",
+    "Riccardo Benassi",
+    "Valeria Venturelli",
+    "Matteo Paganelli",
+    "Francesco Guerra"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2026.eacl-demo.7",
+  "acl_url": "https://aclanthology.org/2026.eacl-demo.7/"
+}

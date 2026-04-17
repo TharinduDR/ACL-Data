@@ -1,0 +1,24 @@
+{
+  "title": "What Makes for Good Visual Instructions? Synthesizing Complex Visual Reasoning Instructions for Visual Instruction Tuning",
+  "authors": [
+    "Yifan Du",
+    "Hangyu Guo",
+    "Kun Zhou",
+    "Wayne Xin Zhao",
+    "Jinpeng Wang",
+    "Chuyuan Wang",
+    "Mingchen Cai",
+    "Ruihua Song",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.coling-main.546",
+  "acl_url": "https://aclanthology.org/2025.coling-main.546/"
+}

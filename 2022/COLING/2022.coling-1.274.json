@@ -1,0 +1,24 @@
+{
+  "title": "CLOWER: A Pre-trained Language Model with Contrastive Learning over Word and Character Representations",
+  "authors": [
+    "Borun Chen",
+    "Hongyin Tang",
+    "Jiahao Bu",
+    "Kai Zhang",
+    "Jingang Wang",
+    "Qifan Wang",
+    "Hai-Tao Zheng",
+    "Wei Wu",
+    "Liqian Yu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.coling-1.274",
+  "acl_url": "https://aclanthology.org/2022.coling-1.274/"
+}

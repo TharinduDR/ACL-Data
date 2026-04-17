@@ -1,0 +1,20 @@
+{
+  "title": "Multi-stage Training with Improved Negative Contrast for Neural Passage Retrieval",
+  "authors": [
+    "Jing Lu",
+    "Gustavo Hernández Ábrego",
+    "Ji Ma",
+    "Jianmo Ni",
+    "Yinfei Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.emnlp-main.492",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.492/"
+}

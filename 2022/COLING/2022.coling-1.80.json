@@ -1,0 +1,21 @@
+{
+  "title": "SelfMix: Robust Learning Against Textual Label Noise with Self-Mixup Training",
+  "authors": [
+    "Dan Qiao",
+    "Chenchen Dai",
+    "Yuyang Ding",
+    "Juntao Li",
+    "Qiang Chen",
+    "Wenliang Chen",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.coling-1.80",
+  "acl_url": "https://aclanthology.org/2022.coling-1.80/"
+}

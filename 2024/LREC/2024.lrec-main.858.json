@@ -1,0 +1,20 @@
+{
+  "title": "Knowledge-enhanced Prompt Tuning for Dialogue-based Relation Extraction with Trigger and Label Semantic",
+  "authors": [
+    "Hao An",
+    "Zhihong Zhu",
+    "Xuxin Cheng",
+    "Zhiqi Huang",
+    "Yuexian Zou"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.lrec-main.858",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.858/"
+}

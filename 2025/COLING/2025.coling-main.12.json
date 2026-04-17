@@ -1,0 +1,27 @@
+{
+  "title": "ToolEyes: Fine-Grained Evaluation for Tool Learning Capabilities of Large Language Models in Real-world Scenarios",
+  "authors": [
+    "Junjie Ye",
+    "Guanyu Li",
+    "Songyang Gao",
+    "Caishuang Huang",
+    "Yilong Wu",
+    "Sixian Li",
+    "Xiaoran Fan",
+    "Shihan Dou",
+    "Tao Ji",
+    "Qi Zhang",
+    "Tao Gui",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.coling-main.12",
+  "acl_url": "https://aclanthology.org/2025.coling-main.12/"
+}

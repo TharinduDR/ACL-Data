@@ -1,0 +1,43 @@
+{
+  "title": "Bringing Emerging Architectures to Sequence Labeling in NLP",
+  "authors": [
+    "Ana Ezquerro",
+    "Carlos Gómez-Rodríguez",
+    "David Vilares"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Hungarian",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Chinese",
+    "Arabic",
+    "Bulgarian",
+    "Czech",
+    "Dutch",
+    "Finnish",
+    "Hebrew",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Persian",
+    "Thai",
+    "Turkish",
+    "Vietnamese",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.eacl-long.227",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.227/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Integrating Domain Terminology into Neural Machine Translation",
+  "authors": [
+    "Elise Michon",
+    "Josep Crego",
+    "Jean Senellart"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.348",
+  "acl_url": "https://aclanthology.org/2020.coling-main.348/"
+}

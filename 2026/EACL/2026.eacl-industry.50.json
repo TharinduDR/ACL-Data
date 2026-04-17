@@ -1,0 +1,26 @@
+{
+  "title": "IndicJR: A Judge-Free Benchmark of Jailbreak Robustness in South Asian Languages",
+  "authors": [
+    "Priyaranjan Pattnayak",
+    "Sanchari Chowdhuri"
+  ],
+  "languages": [
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Nepali",
+    "Odia",
+    "Punjabi",
+    "Tamil",
+    "Telugu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-industry.50",
+  "acl_url": "https://aclanthology.org/2026.eacl-industry.50/"
+}

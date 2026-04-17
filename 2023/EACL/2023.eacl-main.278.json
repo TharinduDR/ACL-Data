@@ -1,0 +1,23 @@
+{
+  "title": "DiscoScore: Evaluating Text Generation with BERT and Discourse Coherence",
+  "authors": [
+    "Wei Zhao",
+    "Michael Strube",
+    "Steffen Eger"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "French",
+    "Russian",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eacl-main.278",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.278/"
+}

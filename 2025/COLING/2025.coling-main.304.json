@@ -1,0 +1,20 @@
+{
+  "title": "GroUSE: A Benchmark to Evaluate Evaluators in Grounded Question Answering",
+  "authors": [
+    "Sacha Muller",
+    "António Loison",
+    "Bilel Omrani",
+    "Gautier Viaud"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.coling-main.304",
+  "acl_url": "https://aclanthology.org/2025.coling-main.304/"
+}

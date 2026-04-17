@@ -1,0 +1,20 @@
+{
+  "title": "LayoutReader: Pre-training of Text and Layout for Reading Order Detection",
+  "authors": [
+    "Zilong Wang",
+    "Yiheng Xu",
+    "Lei Cui",
+    "Jingbo Shang",
+    "Furu Wei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.389",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.389/"
+}

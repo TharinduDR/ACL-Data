@@ -1,0 +1,22 @@
+{
+  "title": "InternLM-Law: An Open-Sourced Chinese Legal Large Language Model",
+  "authors": [
+    "Zhiwei Fei",
+    "Songyang Zhang",
+    "Xiaoyu Shen",
+    "Dawei Zhu",
+    "Xiao Wang",
+    "Jidong Ge",
+    "Vincent Ng"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.629",
+  "acl_url": "https://aclanthology.org/2025.coling-main.629/"
+}

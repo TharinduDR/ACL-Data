@@ -1,0 +1,26 @@
+{
+  "title": "μPLAN: Summarizing using a Content Plan as Cross-Lingual Bridge",
+  "authors": [
+    "Fantine Huot",
+    "Joshua Maynez",
+    "Chris Alberti",
+    "Reinald Kim Amplayo",
+    "Priyanka Agrawal",
+    "Constanza Fierro",
+    "Shashi Narayan",
+    "Mirella Lapata"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.eacl-long.131",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.131/"
+}

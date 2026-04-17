@@ -1,0 +1,28 @@
+{
+  "title": "Improving Factual Consistency in Abstractive Summarization with Sentence Structure Pruning",
+  "authors": [
+    "Dingxin Hu",
+    "Xuanyu Zhang",
+    "Xingyue Zhang",
+    "Dongsheng Chen",
+    "Yiyang Li",
+    "Marina Litvak",
+    "Natalia Vanetik",
+    "Qing Yang",
+    "Dongliang Xu",
+    "Yingqi Zhu",
+    "Yuze Li",
+    "Yanquan Zhou",
+    "Lei Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.770",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.770/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Evaluating Self-Supervised Speech Representations for Indigenous American Languages",
+  "authors": [
+    "Chih-Chen Chen",
+    "William Chen",
+    "Rodolfo Zevallos",
+    "John E. Ortega"
+  ],
+  "languages": [
+    "Quechua",
+    "Bribri",
+    "Guarani",
+    "Kotiria",
+    "Wa'ikhana",
+    "Totonac"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2024.lrec-main.571",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.571/"
+}

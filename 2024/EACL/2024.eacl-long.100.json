@@ -1,0 +1,23 @@
+{
+  "title": "Kardec-NLU: Transfer to Low-Resource Languages with the Help of a High-Resource Cousin – A Benchmark and Evaluation for Turkic Languages",
+  "authors": [
+    "Lütfi Kerem Şenel",
+    "Benedikt Ebing",
+    "Konul Baghirova",
+    "Hinrich Schütze",
+    "Goran Glavaš"
+  ],
+  "languages": [
+    "Azerbaijani",
+    "Kazakh",
+    "Kyrgyz",
+    "Uyghur",
+    "Uzbek"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.eacl-long.100",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.100/"
+}

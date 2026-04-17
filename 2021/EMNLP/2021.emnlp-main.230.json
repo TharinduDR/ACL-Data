@@ -1,0 +1,21 @@
+{
+  "title": "Masked Language Modeling and the Distributional Hypothesis: Order Word Matters Pre-training for Little",
+  "authors": [
+    "Koustuv Sinha",
+    "Robin Jia",
+    "Dieuwke Hupkes",
+    "Joelle Pineau",
+    "Adina Williams",
+    "Douwe Kiela"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.230",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.230/"
+}

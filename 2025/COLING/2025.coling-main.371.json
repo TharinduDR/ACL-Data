@@ -1,0 +1,20 @@
+{
+  "title": "LoRA-drop: Efficient LoRA Parameter Pruning based on Output Evaluation",
+  "authors": [
+    "Hongyun Zhou",
+    "Xiangyu Lu",
+    "Wang Xu",
+    "Conghui Zhu",
+    "Tiejun Zhao",
+    "Muyun Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.coling-main.371",
+  "acl_url": "https://aclanthology.org/2025.coling-main.371/"
+}

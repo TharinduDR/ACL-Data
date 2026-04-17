@@ -1,0 +1,24 @@
+{
+  "title": "Query Decomposition for RAG: Balancing Exploration-Exploitation",
+  "authors": [
+    "Roxana Petcu",
+    "Kenton Murray",
+    "Daniel Khashabi",
+    "Evangelos Kanoulas",
+    "Maarten de Rijke",
+    "Dawn Lawrie",
+    "Kevin Duh"
+  ],
+  "languages": [
+    "Chinese",
+    "Russian",
+    "Persian"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2026.eacl-long.322",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.322/"
+}

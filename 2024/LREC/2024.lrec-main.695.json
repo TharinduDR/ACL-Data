@@ -1,0 +1,27 @@
+{
+  "title": "GPT-SW3: An Autoregressive Language Model for the Scandinavian Languages",
+  "authors": [
+    "Ariel Ekgren",
+    "Amaru Cuba Gyllensten",
+    "Felix Stollenwerk",
+    "Joey Öhman",
+    "Tim Isbister",
+    "Evangelia Gogoulou",
+    "Fredrik Carlsson",
+    "Judit Casademont",
+    "Magnus Sahlgren"
+  ],
+  "languages": [
+    "Swedish",
+    "Norwegian",
+    "Danish",
+    "Icelandic",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.695",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.695/"
+}

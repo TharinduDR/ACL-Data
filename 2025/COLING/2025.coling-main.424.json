@@ -1,0 +1,20 @@
+{
+  "title": "Analyzing the Attention Heads for Pronoun Disambiguation in Context-aware Machine Translation Models",
+  "authors": [
+    "Paweł Maka",
+    "Yusuf Can Semerci",
+    "Jan Scholtes",
+    "Gerasimos Spanakis"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.coling-main.424",
+  "acl_url": "https://aclanthology.org/2025.coling-main.424/"
+}

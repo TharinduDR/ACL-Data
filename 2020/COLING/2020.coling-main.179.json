@@ -1,0 +1,22 @@
+{
+  "title": "TableGPT: Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching",
+  "authors": [
+    "Heng Gong",
+    "Yawei Sun",
+    "Xiaocheng Feng",
+    "Bing Qin",
+    "Wei Bi",
+    "Xiaojiang Liu",
+    "Ting Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.coling-main.179",
+  "acl_url": "https://aclanthology.org/2020.coling-main.179/"
+}

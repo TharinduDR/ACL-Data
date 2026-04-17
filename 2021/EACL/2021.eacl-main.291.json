@@ -1,0 +1,20 @@
+{
+  "title": "Increasing Robustness to Spurious Correlations using Forgettable Examples",
+  "authors": [
+    "Yadollah Yaghoobzadeh",
+    "Soroush Mehri",
+    "Remi Tachet des Combes",
+    "Timothy J. Hazen",
+    "Alessandro Sordoni"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.eacl-main.291",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.291/"
+}

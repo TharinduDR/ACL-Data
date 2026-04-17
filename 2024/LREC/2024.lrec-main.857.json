@@ -1,0 +1,40 @@
+{
+  "title": "Knowledge Enhanced Pre-training for Cross-lingual Dense Retrieval",
+  "authors": [
+    "Hang Zhang",
+    "Yeyun Gong",
+    "Dayiheng Liu",
+    "Shunyu Zhang",
+    "Xingwei He",
+    "Jiancheng Lv",
+    "Jian Guo"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bengali",
+    "Chinese",
+    "French",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Malay",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.lrec-main.857",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.857/"
+}

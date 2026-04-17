@@ -1,0 +1,19 @@
+{
+  "title": "INDOBERTWEET: A Pretrained Language Model for Indonesian Twitter with Effective Domain-Specific Vocabulary Initialization",
+  "authors": [
+    "Fajri Koto",
+    "Jey Han Lau",
+    "Timothy Baldwin"
+  ],
+  "languages": [
+    "Indonesian",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.emnlp-main.833",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.833/"
+}

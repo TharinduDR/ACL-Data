@@ -1,0 +1,26 @@
+{
+  "title": "Improving Low-resource RRG Parsing with Cross-lingual Self-training",
+  "authors": [
+    "Kilian Evang",
+    "Laura Kallmeyer",
+    "Jakub Waszczuk",
+    "Kilu von Prince",
+    "Tatiana Bladier",
+    "Simon Petitjean"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Farsi",
+    "Daakaka",
+    "Dalkalaen"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2022.coling-1.384",
+  "acl_url": "https://aclanthology.org/2022.coling-1.384/"
+}

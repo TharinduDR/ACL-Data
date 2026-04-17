@@ -1,0 +1,21 @@
+{
+  "title": "GAML-BERT: Improving BERT Early Exiting by Gradient Aligned Mutual Learning",
+  "authors": [
+    "Wei Zhu",
+    "Xiaoling Wang",
+    "Yuan Ni",
+    "Guotong Xie",
+    "Zhen Guo",
+    "Xiaoming Wu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2021.emnlp-main.242",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.242/"
+}

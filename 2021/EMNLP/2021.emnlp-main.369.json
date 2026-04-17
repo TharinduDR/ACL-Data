@@ -1,0 +1,21 @@
+{
+  "title": "PhoMT: A High-Quality and Large-Scale Benchmark Dataset for Vietnamese-English Machine Translation",
+  "authors": [
+    "Long Doan",
+    "Linh The Nguyen",
+    "Nguyen Luong Tran",
+    "Thai Hoang",
+    "Dat Quoc Nguyen"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.369",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.369/"
+}

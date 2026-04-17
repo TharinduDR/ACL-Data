@@ -1,0 +1,21 @@
+{
+  "title": "VIST5: An Adaptive, Retrieval-Augmented Language Model for Visualization-oriented Dialog",
+  "authors": [
+    "Henrik Voigt",
+    "Nuno Carvalhais",
+    "Monique Meuschke",
+    "Markus Reichstein",
+    "Sina Zarrieß",
+    "Kai Lawonn"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.emnlp-demo.5",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.5/"
+}

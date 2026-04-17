@@ -1,0 +1,23 @@
+{
+  "title": "Little Red Riding Hood Goes Around the Globe: Crosslingual Story Planning and Generation with Large Language Models",
+  "authors": [
+    "Evgeniia Razumovskaia",
+    "Joshua Maynez",
+    "Annie Louis",
+    "Mirella Lapata",
+    "Shashi Narayan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.929",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.929/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Czech Dataset for Complex Aspect-Based Sentiment Analysis Tasks",
+  "authors": [
+    "Jakub Šmíd",
+    "Pavel Příbán",
+    "Ondřej Pražák",
+    "Pavel Král"
+  ],
+  "languages": [
+    "Czech",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.lrec-main.384",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.384/"
+}

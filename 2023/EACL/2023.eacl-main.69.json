@@ -1,0 +1,24 @@
+{
+  "title": "Evaluating and Improving the Coreference Capabilities of Machine Translation Models",
+  "authors": [
+    "Asaf Yehudai",
+    "Arie Cattan",
+    "Omri Abend",
+    "Gabriel Stanovsky"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Hebrew",
+    "Arabic",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eacl-main.69",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.69/"
+}

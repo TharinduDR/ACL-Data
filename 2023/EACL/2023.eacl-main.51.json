@@ -1,0 +1,20 @@
+{
+  "title": "Investigating the Effect of Relative Positional Embeddings on AMR-to-Text Generation with Structural Adapters",
+  "authors": [
+    "Sebastien Montella",
+    "Alexis Nasr",
+    "Johannes Heinecke",
+    "Frederic Bechet",
+    "Lina M. Rojas-Barahona"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.eacl-main.51",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.51/"
+}

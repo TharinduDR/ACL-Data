@@ -1,0 +1,19 @@
+{
+  "title": "Project-then-Transfer: Effective Two-stage Cross-lingual Transfer for Semantic Dependency Parsing",
+  "authors": [
+    "Hiroaki Ozaki",
+    "Gaku Morio",
+    "Terufumi Morishita",
+    "Toshinori Miyoshi"
+  ],
+  "languages": [
+    "English",
+    "Czech"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.eacl-main.221",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.221/"
+}

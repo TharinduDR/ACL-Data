@@ -1,0 +1,20 @@
+{
+  "title": "Prompt-fused framework for Inductive Logical Query Answering",
+  "authors": [
+    "Zezhong Xu",
+    "Peng Ye",
+    "Lei Liang",
+    "Huajun Chen",
+    "Wen Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.lrec-main.1152",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1152/"
+}

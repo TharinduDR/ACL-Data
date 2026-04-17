@@ -1,0 +1,21 @@
+{
+  "title": "Explain by Evidence: An Explainable Memory-based Neural Network for Question Answering",
+  "authors": [
+    "Quan Tran",
+    "Nhan Dam",
+    "Tuan Lai",
+    "Franck Dernoncourt",
+    "Trung Le",
+    "Nham Le",
+    "Dinh Phung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.coling-main.456",
+  "acl_url": "https://aclanthology.org/2020.coling-main.456/"
+}

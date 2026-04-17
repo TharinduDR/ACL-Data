@@ -1,0 +1,23 @@
+{
+  "title": "Does Meta-learning Help mBERT for Few-shot Question Generation in a Cross-lingual Transfer Setting for Indic Languages?",
+  "authors": [
+    "Aniruddha Roy",
+    "Rupak Kumar Thakur",
+    "Isha Sharma",
+    "Ashim Gupta",
+    "Amrith Krishna",
+    "Sudeshna Sarkar",
+    "Pawan Goyal"
+  ],
+  "languages": [
+    "Bengali",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T10 Question Answering",
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2022.coling-1.373",
+  "acl_url": "https://aclanthology.org/2022.coling-1.373/"
+}

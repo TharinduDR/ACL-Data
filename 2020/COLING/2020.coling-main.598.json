@@ -1,0 +1,18 @@
+{
+  "title": "German's Next Language Model",
+  "authors": [
+    "Branden Chan",
+    "Stefan Schweter",
+    "Timo Möller"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.coling-main.598",
+  "acl_url": "https://aclanthology.org/2020.coling-main.598/"
+}

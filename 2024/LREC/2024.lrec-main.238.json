@@ -1,0 +1,23 @@
+{
+  "title": "CAM 2.0: End-to-End Open Domain Comparative Question Answering System",
+  "authors": [
+    "Ahmad Shallouf",
+    "Hanna Herasimchyk",
+    "Mikhail Salnikov",
+    "Rudy Garrido Veliz",
+    "Natia Mestvirishvili",
+    "Alexander Panchenko",
+    "Chris Biemann",
+    "Irina Nikishina"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.lrec-main.238",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.238/"
+}

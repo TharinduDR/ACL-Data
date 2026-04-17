@@ -1,0 +1,48 @@
+{
+  "title": "XTREME-R: Towards More Challenging and Nuanced Multilingual Evaluation",
+  "authors": [
+    "Sebastian Ruder",
+    "Noah Constant",
+    "Jan Botha",
+    "Aditya Siddhant",
+    "Orhan Firat",
+    "Jinlan Fu",
+    "Pengfei Liu",
+    "Junjie Hu",
+    "Dan Garrette",
+    "Graham Neubig",
+    "Melvin Johnson"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bengali",
+    "Chinese",
+    "French",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Urdu",
+    "Vietnamese",
+    "Yoruba",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.emnlp-main.802",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.802/"
+}

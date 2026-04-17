@@ -1,0 +1,19 @@
+{
+  "title": "KC-ISA: An Implicit Sentiment Analysis Model Combining Knowledge Enhancement and Context Features",
+  "authors": [
+    "Minghao Xu",
+    "Daling Wang",
+    "Shi Feng",
+    "Zhenfei Yang",
+    "Yifei Zhang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.coling-1.601",
+  "acl_url": "https://aclanthology.org/2022.coling-1.601/"
+}

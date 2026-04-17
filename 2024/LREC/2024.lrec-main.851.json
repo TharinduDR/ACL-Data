@@ -1,0 +1,42 @@
+{
+  "title": "Khan Academy Corpus: A multilingual corpus of Khan Academy lectures",
+  "authors": [
+    "Dominika Ďurišková",
+    "Daniela Jurášová",
+    "Matúš Žilinec",
+    "Eduard Šubert",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Czech",
+    "German",
+    "Greek",
+    "English",
+    "Spanish",
+    "French",
+    "Hebrew",
+    "Hungarian",
+    "Armenian",
+    "Japanese",
+    "Georgian",
+    "Latvian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Tamil",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2024.lrec-main.851",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.851/"
+}

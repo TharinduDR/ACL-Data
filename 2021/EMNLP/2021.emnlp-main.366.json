@@ -1,0 +1,22 @@
+{
+  "title": "CodRED: A Cross-Document Relation Extraction Dataset for Acquiring Knowledge in the Wild",
+  "authors": [
+    "Yuan Yao",
+    "Jiaju Du",
+    "Yankai Lin",
+    "Peng Li",
+    "Zhiyuan Liu",
+    "Jie Zhou",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.emnlp-main.366",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.366/"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "LUXEMBEDDER: A Cross-Lingual Approach to Enhanced Luxembourgish Sentence Embeddings",
+  "authors": [
+    "Fred Philipp",
+    "Siwen Guo",
+    "Jacques Klein",
+    "Tegawendé F. Bissyandé"
+  ],
+  "languages": [
+    "Luxembourgish",
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Chinese",
+    "Japanese",
+    "Portuguese",
+    "Spanish",
+    "Cantonese",
+    "Persian",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.753",
+  "acl_url": "https://aclanthology.org/2025.coling-main.753/"
+}

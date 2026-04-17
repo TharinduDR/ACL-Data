@@ -1,0 +1,20 @@
+{
+  "title": "KGI: An Integrated Framework for Knowledge Intensive Language Tasks",
+  "authors": [
+    "Md Faisal Mahbub Chowdhury",
+    "Michael Glass",
+    "Gaetano Rossiello",
+    "Alfio Gliozzo",
+    "Nandana Mihindukulasooriya"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.emnlp-demos.28",
+  "acl_url": "https://aclanthology.org/2022.emnlp-demos.28/"
+}

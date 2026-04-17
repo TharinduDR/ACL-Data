@@ -1,0 +1,31 @@
+{
+  "title": "Analyzing the Evaluation of Cross-Lingual Knowledge Transfer in Multilingual Language Models",
+  "authors": [
+    "Sara Rajaei",
+    "Christof Monz"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Spanish",
+    "Chinese",
+    "Vietnamese",
+    "Arabic",
+    "Turkish",
+    "Bulgarian",
+    "Estonian",
+    "Ukrainian",
+    "Hindi",
+    "Thai",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.eacl-long.177",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.177/"
+}

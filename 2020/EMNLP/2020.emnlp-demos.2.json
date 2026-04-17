@@ -1,0 +1,18 @@
+{
+  "title": "BERTweet: A pre-trained language model for English Tweets",
+  "authors": [
+    "Dat Quoc Nguyen",
+    "Thanh Vu",
+    "Anh Tuan Nguyen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T23 Social Media Processing",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.emnlp-demos.2",
+  "acl_url": "https://aclanthology.org/2020.emnlp-demos.2/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "An Empirical Study on Multiple Information Sources for Zero-Shot Fine-Grained Entity Typing",
+  "authors": [
+    "Yi Chen",
+    "Haiyun Jiang",
+    "Lemao Liu",
+    "Shuming Shi",
+    "Chuang Fan",
+    "Min Yang",
+    "Ruifeng Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.emnlp-main.210",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.210/"
+}

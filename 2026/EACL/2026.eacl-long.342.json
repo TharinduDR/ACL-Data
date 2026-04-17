@@ -1,0 +1,22 @@
+{
+  "title": "VietMix: A Naturally-Occurring Parallel Corpus and Augmentation Framework for Vietnamese-English Code-Mixed Machine Translation",
+  "authors": [
+    "Hieu Tran",
+    "Phuong-Anh Nguyen-Le",
+    "Huy Nghiem",
+    "Quang-Nhan Nguyen",
+    "Wei Ai",
+    "Marine Carpuat"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.342",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.342/"
+}

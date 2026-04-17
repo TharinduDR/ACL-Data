@@ -1,0 +1,23 @@
+{
+  "title": "Cross-lingual Named Entity Corpus for Slavic Languages",
+  "authors": [
+    "Jakub Piskorski",
+    "Michał Marcińczuk",
+    "Roman Yangarber"
+  ],
+  "languages": [
+    "Polish",
+    "Czech",
+    "Russian",
+    "Bulgarian",
+    "Slovene",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.369",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.369/"
+}

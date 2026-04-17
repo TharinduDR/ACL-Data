@@ -1,0 +1,21 @@
+{
+  "title": "CoCoMIC: Code Completion By Jointly Modeling In-file and Cross-file Context",
+  "authors": [
+    "Yangruibo Ding",
+    "Zijian Wang",
+    "Wasi Uddin Ahmad",
+    "Murali Krishna Ramanathan",
+    "Ramesh Nallapati",
+    "Parminder Bhatia",
+    "Dan Roth",
+    "Bing Xiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.lrec-main.305",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.305/"
+}

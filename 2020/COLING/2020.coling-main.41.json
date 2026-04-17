@@ -1,0 +1,22 @@
+{
+  "title": "LAVA: Latent Action Spaces via Variational Auto-encoding for Dialogue Policy Optimization",
+  "authors": [
+    "Nurul Lubis",
+    "Christian Geishauser",
+    "Michael Heck",
+    "Hsien-chin Lin",
+    "Marco Moresi",
+    "Carel van Niekerk",
+    "Milica Gašić"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.coling-main.41",
+  "acl_url": "https://aclanthology.org/2020.coling-main.41/"
+}

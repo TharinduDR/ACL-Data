@@ -1,0 +1,29 @@
+{
+  "title": "LM-Polygraph: Uncertainty Estimation for Language Models",
+  "authors": [
+    "Ekaterina Fadeeva",
+    "Roman Vashurin",
+    "Akim Tsvigun",
+    "Artem Vazhentsev",
+    "Sergey Petrakov",
+    "Kirill Fedyanin",
+    "Daniil Vasilev",
+    "Elizaveta Goncharova",
+    "Alexander Panchenko",
+    "Maxim Panov",
+    "Timothy Baldwin",
+    "Artem Shelmanov"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.emnlp-demo.41",
+  "acl_url": "https://aclanthology.org/2023.emnlp-demo.41/"
+}

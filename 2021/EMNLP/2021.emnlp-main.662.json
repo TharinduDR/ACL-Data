@@ -1,0 +1,23 @@
+{
+  "title": "Machine Translation Decoding beyond Beam Search",
+  "authors": [
+    "Rémi Leblond",
+    "Jean-Baptiste Alayrac",
+    "Laurent Sifre",
+    "Miruna Pislar",
+    "Jean-Baptiste Lespiau",
+    "Ioannis Antonoglou",
+    "Karen Simonyan",
+    "Oriol Vinyals"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.emnlp-main.662",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.662/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Synthetic Data Generation and Joint Learning for Robust Code-Mixed Translation",
+  "authors": [
+    "Kartik",
+    "Sanjana Soni",
+    "Anoop Kunchukuttan",
+    "Tanmoy Chakraborty",
+    "Md Shad Akhtar"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.lrec-main.1345",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1345/"
+}

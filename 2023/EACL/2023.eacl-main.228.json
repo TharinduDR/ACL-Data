@@ -1,0 +1,23 @@
+{
+  "title": "Enriching Biomedical Knowledge for Low-resource Language Through Large-Scale Translation",
+  "authors": [
+    "Long Phan",
+    "Tai Dang",
+    "Hieu Tran",
+    "Trieu H. Trinh",
+    "Vy Phan",
+    "Lam D. Chau",
+    "Minh-Thang Luong"
+  ],
+  "languages": [
+    "English",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2023.eacl-main.228",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.228/"
+}

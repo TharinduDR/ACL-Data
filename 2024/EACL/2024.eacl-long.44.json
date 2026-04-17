@@ -1,0 +1,20 @@
+{
+  "title": "Importance-Aware Data Augmentation for Document-Level Neural Machine Translation",
+  "authors": [
+    "Minghao Wu",
+    "Yufei Wang",
+    "George Foster",
+    "Lizhen Qu",
+    "Gholamreza Haffari"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.eacl-long.44",
+  "acl_url": "https://aclanthology.org/2024.eacl-long.44/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "LLM-Personalize: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots",
+  "authors": [
+    "Dongge Han",
+    "Trevor McInroe",
+    "Adam Jelley",
+    "Stefano V. Albrecht",
+    "Peter Bell",
+    "Amos Storkey"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.98",
+  "acl_url": "https://aclanthology.org/2025.coling-main.98/"
+}

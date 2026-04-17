@@ -1,0 +1,21 @@
+{
+  "title": "RIVA: A Pre-trained Tweet Multimodal Model Based on Text-image Relation for Multimodal NER",
+  "authors": [
+    "Lin Sun",
+    "Jiquan Wang",
+    "Yindu Su",
+    "Fangsheng Weng",
+    "Zengwei Zheng",
+    "Yuanyi Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.coling-main.168",
+  "acl_url": "https://aclanthology.org/2020.coling-main.168/"
+}

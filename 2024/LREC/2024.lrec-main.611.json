@@ -1,0 +1,19 @@
+{
+  "title": "Exploring the Potential of Large Language Models (LLMs) for Low-resource Languages: A Study on Named-Entity Recognition (NER) and Part-Of-Speech (POS) Tagging for Nepali Language",
+  "authors": [
+    "Bipesh Subedi",
+    "Sunil Regmi",
+    "Bal Krishna Bal",
+    "Praveen Acharya"
+  ],
+  "languages": [
+    "Nepali"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.lrec-main.611",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.611/"
+}

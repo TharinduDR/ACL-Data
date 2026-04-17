@@ -1,0 +1,17 @@
+{
+  "title": "Contextual morphologically-guided tokenization for Latin encoder models",
+  "authors": [
+    "Marisa Hudspeth",
+    "Patrick J. Burns",
+    "Brendan O'Connor"
+  ],
+  "languages": [
+    "Latin"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2026.eacl-long.270",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.270/"
+}

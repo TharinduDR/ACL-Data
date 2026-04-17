@@ -1,0 +1,23 @@
+{
+  "title": "Automatic Speech Recognition for Gascon and Languedocian Variants of Occitan",
+  "authors": [
+    "Iñigo Morcillo",
+    "Igor Leturia",
+    "Ander Corral",
+    "Xabier Sarasola",
+    "Michaël Barret",
+    "Aure Séguier",
+    "Benaset Dazéas"
+  ],
+  "languages": [
+    "Occitan",
+    "French"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2024.lrec-main.177",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.177/"
+}

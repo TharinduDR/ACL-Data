@@ -1,0 +1,28 @@
+{
+  "title": "Can Activation Steering Generalize Across Languages? A Study on Syllogistic Reasoning in Language Models",
+  "authors": [
+    "Gabriele Marai",
+    "Leonardo Ranaldi",
+    "Marco Valentino",
+    "Fabio Massimo Zanzotto"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Russian",
+    "Chinese",
+    "Swahili",
+    "Bengali",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2026.eacl-long.125",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.125/"
+}

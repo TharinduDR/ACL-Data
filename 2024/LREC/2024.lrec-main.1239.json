@@ -1,0 +1,26 @@
+{
+  "title": "RU22Fact: Optimizing Evidence for Multilingual Explainable Fact-Checking on Russia-Ukraine Conflict",
+  "authors": [
+    "Yirong Zeng",
+    "Xiao Ding",
+    "Yi Zhao",
+    "Xiangyu Li",
+    "Jie Zhang",
+    "Chao Yao",
+    "Ting Liu",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Russian",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.1239",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1239/"
+}

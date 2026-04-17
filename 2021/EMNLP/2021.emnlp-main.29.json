@@ -1,0 +1,22 @@
+{
+  "title": "Latent Hatred: A Benchmark for Understanding Implicit Hate Speech",
+  "authors": [
+    "Mai ElSherief",
+    "Caleb Ziems",
+    "David Muchlinski",
+    "Vaishnavi Anupindi",
+    "Jordyn Seybolt",
+    "Munmun De Choudhury",
+    "Diyi Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.emnlp-main.29",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.29/"
+}

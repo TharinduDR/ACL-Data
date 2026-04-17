@@ -1,0 +1,18 @@
+{
+  "title": "CoCo-Ex: A Tool for Linking Concepts from Texts to ConceptNet",
+  "authors": [
+    "Maria Becker",
+    "Katharina Korfhage",
+    "Anette Frank"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2021.eacl-demos.15",
+  "acl_url": "https://aclanthology.org/2021.eacl-demos.15/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Repo4QA: Answering Coding Questions via Dense Retrieval on GitHub Repositories",
+  "authors": [
+    "Minyu Chen",
+    "Guoqiang Li",
+    "Chen Ma",
+    "Jingyang Li",
+    "Hongfei Fu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2022.coling-1.136",
+  "acl_url": "https://aclanthology.org/2022.coling-1.136/"
+}

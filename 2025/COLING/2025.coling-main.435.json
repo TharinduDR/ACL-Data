@@ -1,0 +1,28 @@
+{
+  "title": "data2lang2vec: Data Driven Typological Features Completion",
+  "authors": [
+    "Hamidreza Amirzadeh",
+    "Sadegh Jafari",
+    "Anika Harju",
+    "Rob van der Goot"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "Chinese",
+    "Cantonese",
+    "Swahili",
+    "Zulu",
+    "Xhosa",
+    "Persian",
+    "Punjabi",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.coling-main.435",
+  "acl_url": "https://aclanthology.org/2025.coling-main.435/"
+}

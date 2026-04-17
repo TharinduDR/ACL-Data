@@ -1,0 +1,27 @@
+{
+  "title": "Evaluating the Morphosyntactic Well-formedness of Generated Texts",
+  "authors": [
+    "Adithya Pratapa",
+    "Antonios Anastasopoulos",
+    "Shruti Rijhwani",
+    "Aditi Chaudhary",
+    "David R. Mortensen",
+    "Graham Neubig",
+    "Yulia Tsvetkov"
+  ],
+  "languages": [
+    "German",
+    "Russian",
+    "Czech",
+    "Turkish",
+    "Finnish",
+    "Estonian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.emnlp-main.570",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.570/"
+}

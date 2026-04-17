@@ -1,0 +1,26 @@
+{
+  "title": "GupShup: Summarizing Open-Domain Code-Switched Conversations",
+  "authors": [
+    "Laiba Mehnaz",
+    "Debanjan Mahata",
+    "Uma Sushmitha Gunturi",
+    "Amardeep Kumar",
+    "Rakesh Gosangi",
+    "Riya Jain",
+    "Gauri Gupta",
+    "Isabelle Lee",
+    "Anish Acharya",
+    "Rajiv Ratn Shah"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2021.emnlp-main.499",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.499/"
+}

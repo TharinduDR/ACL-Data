@@ -1,0 +1,20 @@
+{
+  "title": "Author's Sentiment Prediction",
+  "authors": [
+    "Mohaddeseh Bastan",
+    "Mahnaz Koupaei",
+    "Youngseo Son",
+    "Richard Sicoli",
+    "Niranjan Balasubramanian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.coling-main.52",
+  "acl_url": "https://aclanthology.org/2020.coling-main.52/"
+}

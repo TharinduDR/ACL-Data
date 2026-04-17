@@ -1,0 +1,40 @@
+{
+  "title": "CHARSPAN: Utilizing Lexical Similarity to Enable Zero-Shot Machine Translation for Extremely Low-resource Languages",
+  "authors": [
+    "Kaushal Kumar Maurya",
+    "Rahul Kejriwal",
+    "Maunendra Sankar Desarkar",
+    "Anoop Kunchukuttan"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bhojpuri",
+    "Chhattisgarhi",
+    "Sanskrit",
+    "Maithili",
+    "Awadhi",
+    "Marathi",
+    "Konkani",
+    "Nepali",
+    "Gujarati",
+    "Punjabi",
+    "Bengali",
+    "Telugu",
+    "Tamil",
+    "Malayalam",
+    "Indonesian",
+    "Javanese",
+    "Sundanese",
+    "Spanish",
+    "Portuguese",
+    "Catalan",
+    "Galician"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.eacl-short.26",
+  "acl_url": "https://aclanthology.org/2024.eacl-short.26/"
+}

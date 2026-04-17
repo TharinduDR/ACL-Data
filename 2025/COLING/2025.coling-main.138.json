@@ -1,0 +1,26 @@
+{
+  "title": "Word-level Cross-lingual Structure in Large Language Models",
+  "authors": [
+    "Zihao Feng",
+    "Hailong Cao",
+    "Wang Xu",
+    "Tiejun Zhao"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Italian",
+    "Chinese",
+    "Russian",
+    "Vietnamese",
+    "Thai"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.coling-main.138",
+  "acl_url": "https://aclanthology.org/2025.coling-main.138/"
+}

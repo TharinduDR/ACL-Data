@@ -1,0 +1,25 @@
+{
+  "title": "Multilingual and cross-lingual document classification: A meta-learning approach",
+  "authors": [
+    "Niels van der Heijden",
+    "Helen Yannakoudakis",
+    "Pushkar Mishra",
+    "Ekaterina Shutova"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Sentiment Analysis",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2021.eacl-main.168",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.168/"
+}

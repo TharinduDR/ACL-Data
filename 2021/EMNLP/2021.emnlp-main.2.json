@@ -1,0 +1,47 @@
+{
+  "title": "Zero-Shot Cross-Lingual Transfer of Neural Machine Translation with Multilingual Pretrained Encoders",
+  "authors": [
+    "Guanhua Chen",
+    "Shuming Ma",
+    "Yun Chen",
+    "Li Dong",
+    "Dongdong Zhang",
+    "Jia Pan",
+    "Wenping Wang",
+    "Furu Wei"
+  ],
+  "languages": [
+    "German",
+    "Dutch",
+    "Spanish",
+    "Italian",
+    "French",
+    "Finnish",
+    "Estonian",
+    "Hindi",
+    "Nepali",
+    "Sinhala",
+    "Tamil",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Latvian",
+    "Russian",
+    "Romanian",
+    "Czech",
+    "Gujarati",
+    "Persian",
+    "Baltic",
+    "Slavic",
+    "Indo-Aryan",
+    "Dravidian",
+    "Romance",
+    "Uralic"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.emnlp-main.2",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.2/"
+}

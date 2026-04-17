@@ -1,0 +1,20 @@
+{
+  "title": "Neural Data-to-Text Generation with LM-based Text Augmentation",
+  "authors": [
+    "Ernie Chang",
+    "Xiaoyu Shen",
+    "Dawei Zhu",
+    "Vera Demberg",
+    "Hui Su"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.eacl-main.64",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.64/"
+}

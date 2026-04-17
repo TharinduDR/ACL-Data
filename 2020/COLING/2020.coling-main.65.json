@@ -1,0 +1,31 @@
+{
+  "title": "Linguistic Profiling of a Neural Language Model",
+  "authors": [
+    "Alessio Miaschi",
+    "Dominique Brunato",
+    "Felice Dell'Orletta",
+    "Giulia Venturi"
+  ],
+  "languages": [
+    "Italian",
+    "Arabic",
+    "Chinese",
+    "German",
+    "French",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Portuguese",
+    "Spanish",
+    "Turkish",
+    "Hindi",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.65",
+  "acl_url": "https://aclanthology.org/2020.coling-main.65/"
+}

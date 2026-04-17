@@ -1,0 +1,19 @@
+{
+  "title": "KIT-19: A Comprehensive Korean Instruction Toolkit on 19 Tasks for Fine-Tuning Korean Large Language Models",
+  "authors": [
+    "Dongjun Jang",
+    "Sungjoo Byun",
+    "Hyemi Jo",
+    "Hyopil Shin"
+  ],
+  "languages": [
+    "Korean"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.lrec-main.853",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.853/"
+}

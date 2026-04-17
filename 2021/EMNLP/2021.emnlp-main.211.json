@@ -1,0 +1,26 @@
+{
+  "title": "DyLex: Incorporating Dynamic Lexicons into BERT for Sequence Labeling",
+  "authors": [
+    "Baojun Wang",
+    "Zhao Zhang",
+    "Kun Xu",
+    "Guang-Yuan Hao",
+    "Yuyang Zhang",
+    "Lifeng Shang",
+    "Linlin Li",
+    "Xiao Chen",
+    "Xin Jiang",
+    "Qun Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.emnlp-main.211",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.211/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "MaxMatch-Dropout: Subword Regularization for WordPiece",
+  "authors": [
+    "Tatsuya Hiraoka"
+  ],
+  "languages": [
+    "English",
+    "Korean",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T20 Sentiment Analysis"
+  ],
+  "paper_id": "2022.coling-1.430",
+  "acl_url": "https://aclanthology.org/2022.coling-1.430/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "MIGRATE: Cross-Lingual Adaptation of Domain-Specific LLMs through Code-Switching and Embedding Transfer",
+  "authors": [
+    "Seongtae Hong",
+    "Seungyoon Lee",
+    "Hyeonseok Moon",
+    "Heuiseok Lim"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "German",
+    "Spanish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.coling-main.617",
+  "acl_url": "https://aclanthology.org/2025.coling-main.617/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "KazParC: Kazakh Parallel Corpus for Machine Translation",
+  "authors": [
+    "Rustem Yeshpanov",
+    "Alina Polonskaya",
+    "Huseyin Atakan Varol"
+  ],
+  "languages": [
+    "Kazakh",
+    "English",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.842",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.842/"
+}

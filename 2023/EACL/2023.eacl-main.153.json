@@ -1,0 +1,33 @@
+{
+  "title": "Probing Cross-Lingual Lexical Knowledge from Multilingual Sentence Encoders",
+  "authors": [
+    "Ivan Vulić",
+    "Goran Glavaš",
+    "Fangyu Liu",
+    "Nigel Collier",
+    "Edoardo Maria Ponti",
+    "Anna Korhonen"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Turkish",
+    "Finnish",
+    "Croatian",
+    "Russian",
+    "Italian",
+    "French",
+    "Bulgarian",
+    "Catalan",
+    "Estonian",
+    "Hebrew",
+    "Georgian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2023.eacl-main.153",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.153/"
+}

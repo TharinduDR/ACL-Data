@@ -1,0 +1,22 @@
+{
+  "title": "Detecting Hallucination and Coverage Errors in Retrieval Augmented Generation for Controversial Topics",
+  "authors": [
+    "Tyler A. Chang",
+    "Katrin Tomanek",
+    "Jessica Hoffmann",
+    "Nithum Thain",
+    "Erin van Liemt",
+    "Kathleen Meier-Hellstern",
+    "Lucas Dixon"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.423",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.423/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Poor Man's Quality Estimation: Predicting Reference-Based MT Metrics Without the Reference",
+  "authors": [
+    "Vilém Zouhar",
+    "Shehzaad Dhuliawala",
+    "Wangchunshu Zhou",
+    "Nico Daheim",
+    "Tom Kocmi",
+    "Yuchen Eleanor Jiang",
+    "Mrinmaya Sachan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Russian",
+    "French",
+    "Hindi",
+    "Polish",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eacl-main.95",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.95/"
+}

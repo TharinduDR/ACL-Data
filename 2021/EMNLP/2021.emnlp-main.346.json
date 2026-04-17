@@ -1,0 +1,18 @@
+{
+  "title": "Improving Query Graph Generation for Complex Question Answering over Knowledge Base",
+  "authors": [
+    "Kechen Qin",
+    "Cheng Li",
+    "Virgil Pavlu",
+    "Javed A. Aslam"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.emnlp-main.346",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.346/"
+}

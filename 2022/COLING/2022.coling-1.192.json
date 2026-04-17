@@ -1,0 +1,22 @@
+{
+  "title": "PCBERT: Parent and Child BERT for Chinese Few-shot NER",
+  "authors": [
+    "Peichao Lai",
+    "Feiyang Ye",
+    "Lin Zhang",
+    "Zhiwei Chen",
+    "Yanggeng Fu",
+    "Yingjie Wu",
+    "Yilei Wang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.coling-1.192",
+  "acl_url": "https://aclanthology.org/2022.coling-1.192/"
+}

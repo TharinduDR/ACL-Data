@@ -1,0 +1,26 @@
+{
+  "title": "JiraiBench: A Cross-lingual Benchmark for Evaluating Large Language Models' Detection of Human Risky Health Behavior Content in Jirai Community",
+  "authors": [
+    "Yunze Xiao",
+    "Tingyu He",
+    "Lionel Z. Wang",
+    "Yiming Ma",
+    "Xingyu Song",
+    "Xiaohang Xu",
+    "Mona Diab",
+    "Irene Li",
+    "Ka Chung Ng"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T23 Social Media Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.23",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.23/"
+}

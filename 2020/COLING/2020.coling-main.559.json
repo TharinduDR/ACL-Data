@@ -1,0 +1,23 @@
+{
+  "title": "XHATE-999: Analyzing and Detecting Abusive Language Across Domains and Languages",
+  "authors": [
+    "Goran Glavaš",
+    "Vanja Mladen Karan",
+    "Ivan Vulić"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Croatian",
+    "Russian",
+    "Albanian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.coling-main.559",
+  "acl_url": "https://aclanthology.org/2020.coling-main.559/"
+}

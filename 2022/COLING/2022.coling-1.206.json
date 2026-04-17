@@ -1,0 +1,24 @@
+{
+  "title": "MECI: A Multilingual Dataset for Event Causality Identification",
+  "authors": [
+    "Viet Dac Lai",
+    "Amir Pouran Ben Veyseh",
+    "Minh Van Nguyen",
+    "Franck Dernoncourt",
+    "Thien Huu Nguyen"
+  ],
+  "languages": [
+    "English",
+    "Danish",
+    "Spanish",
+    "Turkish",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.coling-1.206",
+  "acl_url": "https://aclanthology.org/2022.coling-1.206/"
+}

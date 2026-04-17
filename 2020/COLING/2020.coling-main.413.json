@@ -1,0 +1,28 @@
+{
+  "title": "Wiktionary Normalization of Translations and Morphological Information",
+  "authors": [
+    "Winston Wu",
+    "David Yarowsky"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Portuguese",
+    "German",
+    "Spanish",
+    "Italian",
+    "Catalan",
+    "Dutch",
+    "Hungarian",
+    "Latin",
+    "Greek",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.coling-main.413",
+  "acl_url": "https://aclanthology.org/2020.coling-main.413/"
+}

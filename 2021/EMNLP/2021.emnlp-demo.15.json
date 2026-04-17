@@ -1,0 +1,30 @@
+{
+  "title": "Athena 2.0: Contextualized Dialogue Management for an Alexa Prize SocialBot",
+  "authors": [
+    "Juraj Juraska",
+    "Kevin K. Bowden",
+    "Lena Reed",
+    "Vrindavan Harrison",
+    "Wen Cui",
+    "Omkar Patil",
+    "Rishi Rajasekaran",
+    "Angela Ramirez",
+    "Cecilia Li",
+    "Eduardo Zamora",
+    "Phillip Lee",
+    "Jeshwanth Bheemanpally",
+    "Rohan Pandey",
+    "Adwait Ratnaparkhi",
+    "Marilyn Walker"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.emnlp-demo.15",
+  "acl_url": "https://aclanthology.org/2021.emnlp-demo.15/"
+}

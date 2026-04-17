@@ -1,0 +1,21 @@
+{
+  "title": "JLBert: Japanese Light BERT for Cross-Domain Short Text Classification",
+  "authors": [
+    "Chandrai Kayal",
+    "Sayantan Chattopadhyay",
+    "Aryan Gupta",
+    "Satyen Abrol",
+    "Archie Gugol"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.lrec-main.833",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.833/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource Languages",
+  "authors": [
+    "Gayane Ghazaryan",
+    "Erik Arakelyan",
+    "Pasquale Minervini",
+    "Isabelle Augenstein"
+  ],
+  "languages": [
+    "English",
+    "Armenian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.coling-main.430",
+  "acl_url": "https://aclanthology.org/2025.coling-main.430/"
+}

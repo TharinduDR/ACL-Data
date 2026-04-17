@@ -1,0 +1,23 @@
+{
+  "title": "An MRC Framework for Semantic Role Labeling",
+  "authors": [
+    "Nan Wang",
+    "Jiwei Li",
+    "Yuxian Meng",
+    "Xiaofei Sun",
+    "Han Qiu",
+    "Ziyao Wang",
+    "Guoyin Wang",
+    "Jun He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.coling-1.191",
+  "acl_url": "https://aclanthology.org/2022.coling-1.191/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Building Adaptive Acceptability Classifiers for Neural NLG",
+  "authors": [
+    "Soumya Batra",
+    "Shashank Jain",
+    "Peyman Heidari",
+    "Ankit Arun",
+    "Catharine Youngs",
+    "Xintong Li",
+    "Pinar Donmez",
+    "Shawn Mei",
+    "Shiun-Zu Kuo",
+    "Vikas Bhardwaj",
+    "Anuj Kumar",
+    "Michael White"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2021.emnlp-main.53",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.53/"
+}

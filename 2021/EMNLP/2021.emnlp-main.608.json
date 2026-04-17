@@ -1,0 +1,24 @@
+{
+  "title": "Constrained Language Models Yield Few-Shot Semantic Parsers",
+  "authors": [
+    "Richard Shin",
+    "Christopher H. Lin",
+    "Sam Thomson",
+    "Charles Chen",
+    "Subhro Roy",
+    "Emmanouil Antonios Platanios",
+    "Adam Pauls",
+    "Dan Klein",
+    "Jason Eisner",
+    "Benjamin Van Durme"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.emnlp-main.608",
+  "acl_url": "https://aclanthology.org/2021.emnlp-main.608/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "MAPL: Parameter-Efficient Adaptation of Unimodal Pre-Trained Models for Vision-Language Few-Shot Prompting",
+  "authors": [
+    "Oscar Mañas",
+    "Pau Rodriguez",
+    "Saba Ahmadi",
+    "Aida Nematzadeh",
+    "Yash Goyal",
+    "Aishwarya Agrawal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.eacl-main.185",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.185/"
+}

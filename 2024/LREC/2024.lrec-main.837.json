@@ -1,0 +1,23 @@
+{
+  "title": "JoTR: A Joint Transformer and Reinforcement Learning Framework for Dialogue Policy Learning",
+  "authors": [
+    "Wai-Chung Kwan",
+    "Huimin Wang",
+    "Hongru Wang",
+    "Zezhong Wang",
+    "Bin Liang",
+    "Xian Wu",
+    "Yefeng Zheng",
+    "Kam-Fai Wong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.lrec-main.837",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.837/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "PrOnto: Language Model Evaluations for 859 Languages",
+  "authors": [
+    "Luke Gessler"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Japanese",
+    "Indonesian",
+    "Tamil",
+    "Greek",
+    "Uyghur",
+    "Wolof",
+    "Coptic"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.lrec-main.1159",
+  "acl_url": "https://aclanthology.org/2024.lrec-main.1159/"
+}

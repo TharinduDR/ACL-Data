@@ -1,0 +1,21 @@
+{
+  "title": "IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP",
+  "authors": [
+    "Fajri Koto",
+    "Afshin Rahimi",
+    "Jey Han Lau",
+    "Timothy Baldwin"
+  ],
+  "languages": [
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.coling-main.66",
+  "acl_url": "https://aclanthology.org/2020.coling-main.66/"
+}

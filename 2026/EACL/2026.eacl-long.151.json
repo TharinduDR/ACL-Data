@@ -1,0 +1,25 @@
+{
+  "title": "FAID: Fine-Grained AI-Generated Text Detection Using Multi-Task Auxiliary and Multi-Level Contrastive Learning",
+  "authors": [
+    "Minh Ngoc Ta",
+    "Dong Cao Van",
+    "Duc-Anh Hoang",
+    "Minh Le-Anh",
+    "Truong Nguyen",
+    "My Anh Tran Nguyen",
+    "Yuxia Wang",
+    "Preslav Nakov",
+    "Dinh Viet Sang"
+  ],
+  "languages": [
+    "English",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.eacl-long.151",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.151/"
+}

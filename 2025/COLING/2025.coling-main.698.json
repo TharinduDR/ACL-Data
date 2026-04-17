@@ -1,0 +1,19 @@
+{
+  "title": "KG-FPQ: Evaluating Factual Hallucination in LLMs with Knowledge Graph-based False Premise Questions",
+  "authors": [
+    "Yanxu Zhu",
+    "Jinlin Xiao",
+    "Yuhang Wang",
+    "Jitao Sang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.coling-main.698",
+  "acl_url": "https://aclanthology.org/2025.coling-main.698/"
+}

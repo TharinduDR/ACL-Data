@@ -1,0 +1,20 @@
+{
+  "title": "Few Shot Dialogue State Tracking using Meta-learning",
+  "authors": [
+    "Saket Dingliwal",
+    "Bill Gao",
+    "Sanchit Agarwal",
+    "Chien-Wei Lin",
+    "Tagyoung Chung",
+    "Dilek Hakkani-Tür"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.eacl-main.148",
+  "acl_url": "https://aclanthology.org/2021.eacl-main.148/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "PAEG: Phrase-level Adversarial Example Generation for Neural Machine Translation",
+  "authors": [
+    "Juncheng Wan",
+    "Jian Yang",
+    "Shuming Ma",
+    "Dongdong Zhang",
+    "Weinan Zhang",
+    "Yong Yu",
+    "Zhoujun Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.coling-1.451",
+  "acl_url": "https://aclanthology.org/2022.coling-1.451/"
+}

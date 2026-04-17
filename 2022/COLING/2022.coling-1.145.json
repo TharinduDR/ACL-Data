@@ -1,0 +1,19 @@
+{
+  "title": "Logical Form Generation via Multi-task Learning for Complex Question Answering over Knowledge Bases",
+  "authors": [
+    "Xixin Hu",
+    "Xuan Wu",
+    "Yiheng Shu",
+    "Yuzhong Qu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.coling-1.145",
+  "acl_url": "https://aclanthology.org/2022.coling-1.145/"
+}

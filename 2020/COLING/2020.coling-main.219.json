@@ -1,0 +1,19 @@
+{
+  "title": "Graph-Based Knowledge Integration for Question Answering over Dialogue",
+  "authors": [
+    "Jian Liu",
+    "Dianbo Sui",
+    "Kang Liu",
+    "Jun Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, ontologies, etc.)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2020.coling-main.219",
+  "acl_url": "https://aclanthology.org/2020.coling-main.219/"
+}

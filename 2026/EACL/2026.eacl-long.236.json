@@ -1,0 +1,23 @@
+{
+  "title": "Decomposition-Enhanced Training for Post-Hoc Attributions in Language Models",
+  "authors": [
+    "Sriram Balasubramanian",
+    "Samyadeep Basu",
+    "Koustava Goswami",
+    "Ryan Rossi",
+    "Varun Manjunatha",
+    "Roshan Santhosh",
+    "Ruiyi Zhang",
+    "Soheil Feizi",
+    "Nedim Lipka"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2026.eacl-long.236",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.236/"
+}

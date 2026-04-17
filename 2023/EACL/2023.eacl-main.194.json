@@ -1,0 +1,23 @@
+{
+  "title": "Multi2Claim: Generating Scientific Claims from Multi-Choice Questions for Scientific Fact-Checking",
+  "authors": [
+    "Neşet Özkan TAN",
+    "Trung Nguyen",
+    "Joshua Bensemann",
+    "Alex Yuxuan Peng",
+    "Qiming Bao",
+    "Yang Chen",
+    "Mark Gahegan",
+    "Michael Witbrock"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eacl-main.194",
+  "acl_url": "https://aclanthology.org/2023.eacl-main.194/"
+}

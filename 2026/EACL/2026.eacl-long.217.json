@@ -1,0 +1,25 @@
+{
+  "title": "Steering Large Language Models for Machine Translation Personalization",
+  "authors": [
+    "Daniel Scalena",
+    "Gabriele Sarti",
+    "Arianna Bisazza",
+    "Elisabetta Fersini",
+    "Malvina Nissim"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "Russian",
+    "Italian",
+    "French",
+    "Dutch",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2026.eacl-long.217",
+  "acl_url": "https://aclanthology.org/2026.eacl-long.217/"
+}
