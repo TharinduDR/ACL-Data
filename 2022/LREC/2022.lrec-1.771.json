@@ -1,5 +1,5 @@
 {
-  "title": "StyleKQC: A Style-variant Paraphrase Corpus for Korean Questions and Commands",
+  "title": "StyleKQC: A Style-Variant Paraphrase Corpus for Korean Questions and Commands",
   "authors": [
     "Won Ik Cho",
     "Sangwhan Moon",
@@ -11,9 +11,9 @@
     "Korean"
   ],
   "research_areas": [
-    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T19 Text Simplification, Plain Language and Assistive Technologies"
+    "T02",
+    "T14",
+    "T19"
   ],
   "paper_id": "2022.lrec-1.771",
   "acl_url": "https://aclanthology.org/2022.lrec-1.771/"

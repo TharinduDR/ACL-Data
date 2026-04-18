@@ -1,0 +1,22 @@
+{
+  "title": "STIL - Simultaneous Slot Filling, Translation, Intent Classification, and Language Identification: Initial Results using mBART on MultiATIS++",
+  "authors": [
+    "Jack G. M. Fitzgerald"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Chinese",
+    "French",
+    "Hindi",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2020.aacl-main.57",
+  "acl_url": "https://aclanthology.org/2020.aacl-main.57/"
+}

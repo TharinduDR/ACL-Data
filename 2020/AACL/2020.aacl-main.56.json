@@ -1,0 +1,26 @@
+{
+  "title": "English Intermediate-Task Training Improves Zero-Shot Cross-Lingual Transfer Too",
+  "authors": [
+    "Jason Phang",
+    "Iacer Calixto",
+    "Phu Mon Htut",
+    "Yada Pruksachatkun",
+    "Haokun Liu",
+    "Clara Vania",
+    "Katharina Kann",
+    "Samuel R. Bowman"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.aacl-main.56",
+  "acl_url": "https://aclanthology.org/2020.aacl-main.56/"
+}

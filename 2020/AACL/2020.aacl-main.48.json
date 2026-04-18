@@ -1,0 +1,20 @@
+{
+  "title": "Multimodal Pretraining for Dense Video Captioning",
+  "authors": [
+    "Gabriel Huang",
+    "Bo Pang",
+    "Zhenhai Zhu",
+    "Clara Rivera",
+    "Radu Soricut"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2020.aacl-main.48",
+  "acl_url": "https://aclanthology.org/2020.aacl-main.48/"
+}

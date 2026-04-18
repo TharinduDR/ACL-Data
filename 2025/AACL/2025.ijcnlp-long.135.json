@@ -1,0 +1,21 @@
+{
+  "title": "Crypto-LLM: Two-Stage Language Model Pre-training with Ciphered and Natural Language Data",
+  "authors": [
+    "Yohei Kobashi",
+    "Fumiya Uchiyama",
+    "Takeshi Kojima",
+    "Andrew Gambardella",
+    "Qi Cao",
+    "Yusuke Iwasawa",
+    "Yutaka Matsuo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ijcnlp-long.135",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-long.135/"
+}

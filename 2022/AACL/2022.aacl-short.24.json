@@ -1,0 +1,20 @@
+{
+  "title": "NGEP: A Graph-based Event Planning Framework for Story Generation",
+  "authors": [
+    "Chen Tang",
+    "Zhihao Zhang",
+    "Tyler Loakman",
+    "Chenghua Lin",
+    "Frank Guerin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.aacl-short.24",
+  "acl_url": "https://aclanthology.org/2022.aacl-short.24/"
+}

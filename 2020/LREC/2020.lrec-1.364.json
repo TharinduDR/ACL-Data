@@ -1,0 +1,21 @@
+{
+  "title": "A Myanmar (Burmese)-English Named Entity Transliteration Dictionary",
+  "authors": [
+    "Aye Myat Mon",
+    "Chenchen Ding",
+    "Hour Kaing",
+    "Khin Mar Soe",
+    "Masao Utiyama",
+    "Eiichiro Sumita"
+  ],
+  "languages": [
+    "Myanmar (Burmese)",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.lrec-1.364",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.364/"
+}

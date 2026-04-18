@@ -1,0 +1,23 @@
+{
+  "title": "Bias Amplification: Large Language Models as Increasingly Biased Media",
+  "authors": [
+    "Ze Wang",
+    "Zekun Wu",
+    "Jeremy Zhang",
+    "Xin Guan",
+    "Navya Jain",
+    "Skylar Lu",
+    "Saloni Gupta",
+    "Adriano Koshiyama"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.ijcnlp-long.8",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-long.8/"
+}

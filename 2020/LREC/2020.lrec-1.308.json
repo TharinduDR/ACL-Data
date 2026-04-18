@@ -1,0 +1,51 @@
+{
+  "title": "Geographically-Balanced Gigaword Corpora for 50 Language Varieties",
+  "authors": [
+    "Jonathan Dunn",
+    "Benjamin Adams"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Catalan",
+    "Czech",
+    "Danish",
+    "German",
+    "Greek",
+    "English (Inner)",
+    "English (Outer)",
+    "English (Expanding)",
+    "Estonian",
+    "Farsi",
+    "Finnish",
+    "French",
+    "Irish",
+    "Serbo-Croatian",
+    "Hindi",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Dutch",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Slovak",
+    "Slovenian",
+    "Spanish",
+    "Swedish",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.308",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.308/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Is Language Modeling Enough? Evaluating Effective Embedding Combinations",
+  "authors": [
+    "Rudolf Schneider",
+    "Tom Oberhauser",
+    "Paul Grundmann",
+    "Felix A. Gers",
+    "Alexander Löser",
+    "Steffen Staab"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.lrec-1.583",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.583/"
+}

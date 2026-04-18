@@ -1,0 +1,21 @@
+{
+  "title": "CEASR: A Corpus for Evaluating Automatic Speech Recognition",
+  "authors": [
+    "Malgorzata Anna Ulasik",
+    "Manuela H\"urlimann",
+    "Fabian Germann",
+    "Esin Gedik",
+    "Fernando Benites",
+    "Mark Cieliebak"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.798",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.798/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Improving Sign Language Understanding with a Multi-Stream Masked Autoencoder Trained on ASL Videos",
+  "authors": [
+    "Junwen Mo",
+    "Duc Minh Vo",
+    "Hideki Nakayama"
+  ],
+  "languages": [
+    "American Sign Language",
+    "Japanese Sign Language",
+    "Russian Sign Language",
+    "Chinese Sign Language",
+    "German Sign Language"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.ijcnlp-long.66",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-long.66/"
+}

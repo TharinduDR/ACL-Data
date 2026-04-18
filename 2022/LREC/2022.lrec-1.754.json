@@ -16,9 +16,9 @@
     "French"
   ],
   "research_areas": [
-    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T23 Social Media Processing"
+    "T20",
+    "T14",
+    "T23"
   ],
   "paper_id": "2022.lrec-1.754",
   "acl_url": "https://aclanthology.org/2022.lrec-1.754/"

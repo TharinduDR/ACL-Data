@@ -1,0 +1,35 @@
+{
+  "title": "Word Sense Disambiguation for 158 Languages using Word Embeddings Only",
+  "authors": [
+    "Varvara Logacheva",
+    "Denis Teslenko",
+    "Artem Shelmanov",
+    "Steffen Remus",
+    "Dmitry Ustalov",
+    "Andrey Kutuzov",
+    "Ekaterina Artemova",
+    "Chris Biemann",
+    "Simone Paolo Ponzetto",
+    "Alexander Panchenko"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Russian",
+    "Swedish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.728",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.728/"
+}

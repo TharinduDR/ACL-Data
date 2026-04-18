@@ -69,7 +69,7 @@
     "Totok Suhardijanto",
     "Anna Yablonskaya",
     "Niklas Stoehr",
-    "Hossepol Dolatian",
+    "Hosseh Dolatian",
     "Zahroh Nuriah",
     "Shyam Ratan",
     "Francis M. Tyers",
@@ -99,14 +99,15 @@
   ],
   "languages": [
     "English",
+    "Latin",
     "French",
     "Russian",
     "Spanish"
   ],
   "research_areas": [
     "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
-    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
-    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "2022.lrec-1.89",
   "acl_url": "https://aclanthology.org/2022.lrec-1.89/"

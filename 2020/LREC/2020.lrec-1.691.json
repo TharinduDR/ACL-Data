@@ -1,0 +1,20 @@
+{
+  "title": "The Learnability of the Annotated Input in NMT Replicating (Vanmassenhove and Way, 2018) with OpenNMT",
+  "authors": [
+    "Nicolas Ballier",
+    "Nabil Amari",
+    "Laure Merat",
+    "Jean-Baptiste Yunès"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2020.lrec-1.691",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.691/"
+}

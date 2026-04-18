@@ -1,0 +1,20 @@
+{
+  "title": "MRC Examples Answerable by BERT without a Question are Less Effective in MRC Model Training",
+  "authors": [
+    "Hongyu Li",
+    "Tengyang Chen",
+    "Shuting Bai",
+    "Takehito Utsuro",
+    "Yasuhide Kawada"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.aacl-srw.21",
+  "acl_url": "https://aclanthology.org/2020.aacl-srw.21/"
+}

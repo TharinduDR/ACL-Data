@@ -1,0 +1,20 @@
+{
+  "title": "A French Corpus for Event Detection on Twitter",
+  "authors": [
+    "Béatrice Mazoyer",
+    "Julia Cagé",
+    "Nicolas Hervé",
+    "Céline Hudelot"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T23 Social Media Processing",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.lrec-1.763",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.763/"
+}

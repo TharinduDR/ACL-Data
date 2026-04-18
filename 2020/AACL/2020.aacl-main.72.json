@@ -1,0 +1,19 @@
+{
+  "title": "Explaining Word Embeddings via Disentangled Representation",
+  "authors": [
+    "Keng-Te Liao",
+    "Cheng-Syuan Lee",
+    "Zhong-Yu Huang",
+    "Shou-de Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.aacl-main.72",
+  "acl_url": "https://aclanthology.org/2020.aacl-main.72/"
+}

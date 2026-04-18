@@ -1,0 +1,18 @@
+{
+  "title": "Building a Hebrew Semantic Role Labeling Lexical Resource from Parallel Movie Subtitles",
+  "authors": [
+    "Ben Eyal",
+    "Michael Elhadad"
+  ],
+  "languages": [
+    "Hebrew",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.727",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.727/"
+}

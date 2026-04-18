@@ -1,0 +1,24 @@
+{
+  "title": "Towards Unsupervised Morphological Analysis of Polysynthetic Languages",
+  "authors": [
+    "Sujay Khandagale",
+    "Yoann Léveillé",
+    "Samuel Miller",
+    "Derek Pham",
+    "Ramy Eskander",
+    "Cass Lowry",
+    "Richard Compton",
+    "Judith Klavans",
+    "Maria Polinsky",
+    "Smaranda Muresan"
+  ],
+  "languages": [
+    "Adyghe",
+    "Inuktitut"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.aacl-short.41",
+  "acl_url": "https://aclanthology.org/2022.aacl-short.41/"
+}

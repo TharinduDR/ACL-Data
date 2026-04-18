@@ -1,0 +1,23 @@
+{
+  "title": "Fine-grained Morphosyntactic Analysis and Generation Tools for More Than One Thousand Languages",
+  "authors": [
+    "Garrett Nicolai",
+    "Dylan Lewis",
+    "Arya D. McCarthy",
+    "Aaron Mueller",
+    "Winston Wu",
+    "David Yarowsky"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "German"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.488",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.488/"
+}

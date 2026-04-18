@@ -1,0 +1,30 @@
+{
+  "title": "Multilingual Iterative Model Pruning: What Matters?",
+  "authors": [
+    "Haryo Akbarianto Wibowo",
+    "Haiyue Song",
+    "Hideki Tanaka",
+    "Masao Utiyama",
+    "Alham Fikri Aji",
+    "Raj Dabre"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Arabic",
+    "Hindi",
+    "Indonesian",
+    "Japanese",
+    "Russian",
+    "Spanish",
+    "Vietnamese",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.ijcnlp-long.32",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-long.32/"
+}

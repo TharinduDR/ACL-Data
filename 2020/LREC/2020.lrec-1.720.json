@@ -1,0 +1,26 @@
+{
+  "title": "CoSimLex: A Resource for Evaluating Graded Word Similarity in Context",
+  "authors": [
+    "Carlos S. Armendariz",
+    "Matthew Purver",
+    "Matej Ulčar",
+    "Senja Pollak",
+    "Nikola Ljubešić",
+    "Marko Robnik-Šikonja",
+    "Mark Granroth-Wilding",
+    "Kristiina Vaik"
+  ],
+  "languages": [
+    "English",
+    "Croatian",
+    "Slovene",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.720",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.720/"
+}

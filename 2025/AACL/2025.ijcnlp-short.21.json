@@ -1,0 +1,24 @@
+{
+  "title": "PerMed-MM: A Multimodal, Multi-Specialty Persian Medical Benchmark for Evaluating Vision Language Models",
+  "authors": [
+    "Ali Khoramfar",
+    "Mohammad Javad Dousti",
+    "Heshaam Faili"
+  ],
+  "languages": [
+    "Persian",
+    "Arabic",
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ijcnlp-short.21",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-short.21/"
+}

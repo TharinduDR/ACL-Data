@@ -1,0 +1,33 @@
+{
+  "title": "Exploiting Cross-Lingual Hints to Discover Event Pronouns",
+  "authors": [
+    "Sharid Loaiciga",
+    "Christian Hardmeier",
+    "Asad Sayeed"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Estonian",
+    "Finnish",
+    "Hungarian",
+    "Italian",
+    "Latvian",
+    "Dutch",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Slovak",
+    "Slovenian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2020.lrec-1.12",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.12/"
+}

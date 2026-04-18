@@ -1,0 +1,15 @@
+{
+  "title": "ELC-ParserBERT: Low-Resource Language Modeling Utilizing a Parser Network With ELC-BERT",
+  "authors": [
+    "Rufus Behr"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.conll-babylm.11",
+  "acl_url": "https://aclanthology.org/2024.conll-babylm.11/"
+}

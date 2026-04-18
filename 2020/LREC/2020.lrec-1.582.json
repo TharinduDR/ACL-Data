@@ -1,0 +1,23 @@
+{
+  "title": "High Quality ELMo Embeddings for Seven Less-Resourced Languages",
+  "authors": [
+    "Matej Ulčar",
+    "Marko Robnik-Šikonja"
+  ],
+  "languages": [
+    "Croatian",
+    "Estonian",
+    "Finnish",
+    "Latvian",
+    "Lithuanian",
+    "Slovenian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.582",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.582/"
+}

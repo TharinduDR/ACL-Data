@@ -1,0 +1,29 @@
+{
+  "title": "Love Me, Love Me, Say (and Write!) that You Love Me: Enriching the WASABI Song Corpus with Lyrics Annotations",
+  "authors": [
+    "Michael Fell",
+    "Elena Cabrio",
+    "Elmahdi Korfed",
+    "Michel Buffa",
+    "Fabien Gandon"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Polish",
+    "Finnish",
+    "Dutch",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.lrec-1.262",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.262/"
+}

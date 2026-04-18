@@ -1,0 +1,22 @@
+{
+  "title": "Evaluating Sub-word embeddings in cross-lingual models",
+  "authors": [
+    "Ali Hakimi Parizi",
+    "Paul Cook"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "German",
+    "Japanese",
+    "Russian",
+    "Spanish",
+    "Cherokee"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.lrec-1.330",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.330/"
+}

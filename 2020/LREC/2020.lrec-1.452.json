@@ -1,0 +1,23 @@
+{
+  "title": "An Evaluation Benchmark for Testing the Word Sense Disambiguation Capabilities of Machine Translation Systems",
+  "authors": [
+    "Alessandro Raganato",
+    "Yves Scherrer",
+    "Jörg Tiedemann"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Finnish",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.452",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.452/"
+}

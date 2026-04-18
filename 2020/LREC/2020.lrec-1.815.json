@@ -1,0 +1,29 @@
+{
+  "title": "FAB: The French Absolute Beginner Corpus for Pronunciation Training",
+  "authors": [
+    "Sean Robertson",
+    "Cosmin Munteanu",
+    "Gerald Penn"
+  ],
+  "languages": [
+    "French",
+    "English",
+    "Portuguese",
+    "Mandarin Chinese",
+    "Cantonese",
+    "Chinese",
+    "Russian",
+    "Spanish",
+    "Vietnamese",
+    "Persian",
+    "Korean",
+    "Hindi",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2020.lrec-1.815",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.815/"
+}

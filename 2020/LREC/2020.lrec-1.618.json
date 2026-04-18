@@ -1,0 +1,19 @@
+{
+  "title": "A Fine-Grained Sentiment Dataset for Norwegian",
+  "authors": [
+    "Lilja Øvrelid",
+    "Petter Mæhlem",
+    "Jeremy Barnes",
+    "Erik Velldal"
+  ],
+  "languages": [
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2020.lrec-1.618",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.618/"
+}

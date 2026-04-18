@@ -1,0 +1,44 @@
+{
+  "title": "Analysis of GlobalPhone and Ethiopian Languages Speech Corpora for Multilingual ASR",
+  "authors": [
+    "Martha Yifiru Tachbelie",
+    "Solomon Teferra Abate",
+    "Tanja Schultz"
+  ],
+  "languages": [
+    "Amharic",
+    "Tigrigna",
+    "Oromo",
+    "Wolaytta",
+    "Korean",
+    "Turkish",
+    "Uyghur",
+    "Croatian",
+    "Polish",
+    "Czech",
+    "Russian",
+    "German",
+    "French",
+    "Portuguese",
+    "Spanish",
+    "Swedish",
+    "Arabic",
+    "Chinese",
+    "Japanese",
+    "Thai",
+    "Vietnamese",
+    "Bulgarian",
+    "Hausa",
+    "Persian",
+    "Indonesian",
+    "Mandarin",
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.511",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.511/"
+}

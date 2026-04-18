@@ -1,0 +1,19 @@
+{
+  "title": "Classifying Syntactic Errors in Learner Language",
+  "authors": [
+    "Leshem Choshen",
+    "Dmitry Nikolaev",
+    "Yevgeni Berzak",
+    "Omri Abend"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.conll-1.7",
+  "acl_url": "https://aclanthology.org/2020.conll-1.7/"
+}

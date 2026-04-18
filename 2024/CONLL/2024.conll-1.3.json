@@ -1,0 +1,27 @@
+{
+  "title": "Multi-Cultural Norm Base: Frame-based Norm Discovery in Multi-Cultural Settings",
+  "authors": [
+    "Viet-Thanh Pham",
+    "Shilin Qu",
+    "Farhad Moghimifar",
+    "Suraj Sharma",
+    "Yuan-Fang Li",
+    "Weiqing Wang",
+    "Gholamreza Haffari"
+  ],
+  "languages": [
+    "Chinese",
+    "Afghan",
+    "Indian",
+    "British",
+    "American",
+    "Canadian"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.conll-1.3",
+  "acl_url": "https://aclanthology.org/2024.conll-1.3/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "GCDT: A Chinese RST Treebank for Multigenre and Multilingual Discourse Parsing",
+  "authors": [
+    "Siyao Peng",
+    "Yang Janet Liu",
+    "Amir Zeldes"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.aacl-short.47",
+  "acl_url": "https://aclanthology.org/2022.aacl-short.47/"
+}

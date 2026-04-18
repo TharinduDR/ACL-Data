@@ -1,0 +1,19 @@
+{
+  "title": "Czech Historical Named Entity Corpus v 1.0",
+  "authors": [
+    "Helena Hubková",
+    "Pavel Král",
+    "Eva Pettersson"
+  ],
+  "languages": [
+    "Czech",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.lrec-1.549",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.549/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "LangCompress: Language-Aware Compression of Large Language Models",
+  "authors": [
+    "Dieu-Hien Nguyen",
+    "Nguyen-Khang Le",
+    "Dinh-Truong Do",
+    "Nguyen Le Minh"
+  ],
+  "languages": [
+    "German",
+    "Spanish",
+    "French",
+    "Japanese",
+    "Chinese",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.ijcnlp-long.112",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-long.112/"
+}

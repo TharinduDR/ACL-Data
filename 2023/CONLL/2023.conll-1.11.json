@@ -1,0 +1,17 @@
+{
+  "title": "Structural Ambiguity and its Disambiguation in Language Model Based Parsers: the Case of Dutch Clause Relativization",
+  "authors": [
+    "Gijs Wijnholds",
+    "Michael Moortgat"
+  ],
+  "languages": [
+    "Dutch"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.conll-1.11",
+  "acl_url": "https://aclanthology.org/2023.conll-1.11/"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "PRAct: Optimizing Principled Reasoning and Acting of LLM Agent",
+  "authors": [
+    "Zhiwei Liu",
+    "Weiran Yao",
+    "Jiangguo Zhang",
+    "Rithesh Murthy",
+    "Liangwei Yang",
+    "Zuxin Liu",
+    "Tian Lan",
+    "Ming Zhu",
+    "Juntao Tan",
+    "Shirley Kokane",
+    "Thai Hoang",
+    "Juan Carlos Niebles",
+    "Shelby Heinecke",
+    "Huan Wang",
+    "Silvio Savarese",
+    "Caiming Xiong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.conll-1.33",
+  "acl_url": "https://aclanthology.org/2024.conll-1.33/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "CPLM, a Parallel Corpus for Mexican Languages: Development and Interface",
+  "authors": [
+    "Gerardo Sierra",
+    "Cynthia Montaño",
+    "Gemma Bel-Enguix",
+    "Diego Córdova",
+    "Margarita Mota"
+  ],
+  "languages": [
+    "Spanish",
+    "Ch'ol",
+    "Maya",
+    "Mazatec",
+    "Mixtec",
+    "Nahuatl",
+    "Otomi"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2020.lrec-1.360",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.360/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Swiss-AL: A Multilingual Swiss Web Corpus for Applied Linguistics",
+  "authors": [
+    "Julia Krasselt",
+    "Philipp Dreesen",
+    "Matthias Fluor",
+    "Cerstin Mahlow",
+    "Klaus Rothenh\"ausler",
+    "Maren Runte"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.510",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.510/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Faithful Chain-of-Thought Reasoning",
+  "authors": [
+    "Qing Lyu",
+    "Shreya Havaldar",
+    "Adam Stein",
+    "Li Zhang",
+    "Delip Rao",
+    "Eric Wong",
+    "Marianna Apidianaki",
+    "Chris Callison-Burch"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.ijcnlp-main.20",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-main.20/"
+}

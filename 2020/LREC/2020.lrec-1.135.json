@@ -1,0 +1,22 @@
+{
+  "title": "Joint Learning of Syntactic Features helps Discourse Segmentation",
+  "authors": [
+    "Takshak Desai",
+    "Parag Dakle",
+    "Dan I. Moldovan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Portuguese",
+    "Basque",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T05 Discourse and Pragmatics"
+  ],
+  "paper_id": "2020.lrec-1.135",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.135/"
+}

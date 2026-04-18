@@ -1,0 +1,25 @@
+{
+  "title": "A Tour of Explicit Multilingual Semantics: Word Sense Disambiguation, Semantic Role Labeling and Semantic Parsing",
+  "authors": [
+    "Roberto Navigli",
+    "Edoardo Barba",
+    "Simone Conia",
+    "Rexhina Blloshmi"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.aacl-tutorials.6",
+  "acl_url": "https://aclanthology.org/2022.aacl-tutorials.6/"
+}

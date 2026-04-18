@@ -1,0 +1,21 @@
+{
+  "title": "How to Probe Sentence Embeddings in Low-Resource Languages: On Structural Design Choices for Probing Task Evaluation",
+  "authors": [
+    "Steffen Eger",
+    "Johannes Daxenberger",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Russian",
+    "Georgian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.conll-1.8",
+  "acl_url": "https://aclanthology.org/2020.conll-1.8/"
+}

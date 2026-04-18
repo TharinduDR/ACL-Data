@@ -1,0 +1,25 @@
+{
+  "title": "UniSent: Universal Adaptable Sentiment Lexica for 1000+ Languages",
+  "authors": [
+    "Ehsaneddin Asgari",
+    "Fabienne Braune",
+    "Benjamin Roth",
+    "Christoph Ringlstetter",
+    "Mohammad R.K. Mofrad"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "Spanish",
+    "Czech",
+    "Macedonian",
+    "Italian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.lrec-1.506",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.506/"
+}

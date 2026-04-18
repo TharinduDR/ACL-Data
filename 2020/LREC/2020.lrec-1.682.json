@@ -1,0 +1,23 @@
+{
+  "title": "A Closer Look on Unsupervised Cross-lingual Word Embeddings Mapping",
+  "authors": [
+    "Kamil Pluciński",
+    "Mateusz Lango",
+    "Michał Zimniewicz"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "German",
+    "Finnish",
+    "Spanish",
+    "Polish",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.lrec-1.682",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.682/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Attacking Open-domain Question Answering by Injecting Misinformation",
+  "authors": [
+    "Liangming Pan",
+    "Wenhu Chen",
+    "Min-Yen Kan",
+    "William Yang Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.ijcnlp-main.35",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-main.35/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Cross-Lingual Open-Domain Question Answering with Answer Sentence Generation",
+  "authors": [
+    "Benjamin Muller",
+    "Luca Soldaini",
+    "Rik Koncel-Kedzierski",
+    "Eric Lind",
+    "Alessandro Moschitti"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "English",
+    "Japanese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.aacl-main.27",
+  "acl_url": "https://aclanthology.org/2022.aacl-main.27/"
+}

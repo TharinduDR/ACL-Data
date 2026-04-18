@@ -1,0 +1,26 @@
+{
+  "title": "A Multilingual Benchmark for Probing Negation-Awareness with Minimal Pairs",
+  "authors": [
+    "Mareike Hartmann",
+    "Miriam de lhoneux",
+    "Daniel Hershcovich",
+    "Yova Kementchedjhieva",
+    "Lukas Nielsen",
+    "Chen Qiu",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Bulgarian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.conll-1.19",
+  "acl_url": "https://aclanthology.org/2021.conll-1.19/"
+}

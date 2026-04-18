@@ -1,0 +1,19 @@
+{
+  "title": "NepBERTa: Nepali Language Model Trained in a Large Corpus",
+  "authors": [
+    "Milan Gautam",
+    "Sulav Timilsina",
+    "Binod Bhattarai"
+  ],
+  "languages": [
+    "Nepali",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.aacl-short.34",
+  "acl_url": "https://aclanthology.org/2022.aacl-short.34/"
+}

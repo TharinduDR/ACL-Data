@@ -1,0 +1,19 @@
+{
+  "title": "Automated Phonological Transcription of Akkadian Cuneiform Text",
+  "authors": [
+    "Aleksi Sahala",
+    "Miikka Silfverberg",
+    "Antti Arppe",
+    "Krister Lindén"
+  ],
+  "languages": [
+    "Akkadian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.lrec-1.433",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.433/"
+}

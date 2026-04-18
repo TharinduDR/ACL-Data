@@ -1,0 +1,25 @@
+{
+  "title": "MultiWOZ 2.1: A Consolidated Multi-Domain Dialogue Dataset with State Corrections and State Tracking Baselines",
+  "authors": [
+    "Mihail Eric",
+    "Rahul Goel",
+    "Shachi Paul",
+    "Adarsh Kumar",
+    "Abhishek Sethi",
+    "Anuj Kumar Goyal",
+    "Peter Ku",
+    "Sanchit Agarwal",
+    "Shuyang Gao",
+    "Dilek Hakkani-Tür"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.53",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.53/"
+}

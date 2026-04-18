@@ -1,0 +1,24 @@
+{
+  "title": "Towards a Better Understanding of Label Smoothing in Neural Machine Translation",
+  "authors": [
+    "Yingbo Gao",
+    "Weiyue Wang",
+    "Christian Herold",
+    "Zijian Yang",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "German",
+    "Spanish",
+    "Italian",
+    "Dutch",
+    "Romanian",
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.aacl-main.25",
+  "acl_url": "https://aclanthology.org/2020.aacl-main.25/"
+}

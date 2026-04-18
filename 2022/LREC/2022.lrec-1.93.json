@@ -14,9 +14,9 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
-    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T29 NLP for education"
   ],
   "paper_id": "2022.lrec-1.93",
   "acl_url": "https://aclanthology.org/2022.lrec-1.93/"

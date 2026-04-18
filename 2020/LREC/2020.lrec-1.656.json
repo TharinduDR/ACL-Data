@@ -1,0 +1,32 @@
+{
+  "title": "AlloVera: A Multilingual Allophone Database",
+  "authors": [
+    "David R. Mortensen",
+    "Xinjian Li",
+    "Patrick Littell",
+    "Alexis Michaud",
+    "Shruti Rijhwani",
+    "Antonios Anastasopoulos",
+    "Alan W. Black",
+    "Florian Metze",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "German",
+    "Italian",
+    "Japanese",
+    "Mandarin",
+    "Russian",
+    "Spanish",
+    "Tagalog",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.lrec-1.656",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.656/"
+}

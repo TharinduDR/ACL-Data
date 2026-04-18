@@ -1,0 +1,19 @@
+{
+  "title": "French Tweet Corpus for Automatic Stance Detection",
+  "authors": [
+    "Marc Evrard",
+    "Rémi Uro",
+    "Nicolas Hervé",
+    "Béatrice Mazoyer"
+  ],
+  "languages": [
+    "French"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.lrec-1.775",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.775/"
+}

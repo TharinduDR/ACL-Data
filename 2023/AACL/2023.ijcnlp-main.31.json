@@ -1,0 +1,23 @@
+{
+  "title": "Interactive-Chain-Prompting: Ambiguity Resolution for Crosslingual Conditional Generation with Interaction",
+  "authors": [
+    "Jonathan Pilault",
+    "Xavier Garcia",
+    "Arthur Bražinskas",
+    "Orhan Firat"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.ijcnlp-main.31",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-main.31/"
+}

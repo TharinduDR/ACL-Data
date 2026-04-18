@@ -1,0 +1,23 @@
+{
+  "title": "Corpora for Document-Level Neural Machine Translation",
+  "authors": [
+    "Siyou Liu",
+    "Xiaojun Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "Portuguese",
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Estonian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.466",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.466/"
+}

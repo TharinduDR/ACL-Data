@@ -10,9 +10,9 @@
     "English"
   ],
   "research_areas": [
-    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+    "T13",
+    "T14",
+    "T11"
   ],
   "paper_id": "2022.lrec-1.476",
   "acl_url": "https://aclanthology.org/2022.lrec-1.476/"

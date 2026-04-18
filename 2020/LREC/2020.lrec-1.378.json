@@ -1,0 +1,29 @@
+{
+  "title": "Challenge Dataset of Cognates and False Friend Pairs from Indian Languages",
+  "authors": [
+    "Diptesh Kanojia",
+    "Pushpak Bhattacharyya",
+    "Malhar Kulkarni",
+    "Gholamreza Haffari"
+  ],
+  "languages": [
+    "Hindi",
+    "Bengali",
+    "Gujarati",
+    "Marathi",
+    "Punjabi",
+    "Assamese",
+    "Oriya",
+    "Kannada",
+    "Tamil",
+    "Telugu",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.378",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.378/"
+}

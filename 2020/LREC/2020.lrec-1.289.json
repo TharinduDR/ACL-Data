@@ -1,0 +1,25 @@
+{
+  "title": "A Topic-Aligned Multilingual Corpus of Wikipedia Articles for Studying Information Asymmetry in Low Resource Languages",
+  "authors": [
+    "Dwaipayan Roy",
+    "Sumit Bhatia",
+    "Prateek Jain"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Hindi",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.lrec-1.289",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.289/"
+}

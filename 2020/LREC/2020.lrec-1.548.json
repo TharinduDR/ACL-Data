@@ -1,0 +1,20 @@
+{
+  "title": "A Chinese Corpus for Fine-grained Entity Typing",
+  "authors": [
+    "Chin Lee",
+    "Hongliang Dai",
+    "Yangqiu Song",
+    "Xin Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.lrec-1.548",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.548/"
+}

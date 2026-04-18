@@ -1,0 +1,30 @@
+{
+  "title": "Automatic Translation of Span-Prediction Datasets",
+  "authors": [
+    "Ofri Masad",
+    "Kfir Bar",
+    "Amir David Nissan Cohen"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Greek",
+    "Spanish",
+    "Hindi",
+    "Russian",
+    "Thai",
+    "Turkish",
+    "Vietnamese",
+    "Chinese",
+    "Hebrew",
+    "Swedish",
+    "Czech"
+  ],
+  "research_areas": [
+    "T10 Question Answering",
+    "T16 Machine Translation",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2023.ijcnlp-main.11",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-main.11/"
+}

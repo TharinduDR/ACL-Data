@@ -1,0 +1,18 @@
+{
+  "title": "SimplifyUR: Unsupervised Lexical Text Simplification for Urdu",
+  "authors": [
+    "Namoos Hayat Qasmi",
+    "Haris Bin Zia",
+    "Awais Athar",
+    "Agha Ali Raza"
+  ],
+  "languages": [
+    "Urdu"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.428",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.428/"
+}

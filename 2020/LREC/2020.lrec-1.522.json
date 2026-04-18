@@ -1,0 +1,24 @@
+{
+  "title": "HELFI: a Hebrew-Greek-Finnish Parallel Bible Corpus with Cross-Lingual Morpheme Alignment",
+  "authors": [
+    "Anssi Yli-Jyrä",
+    "Josi Purhonen",
+    "Matti Liljeqvist",
+    "Arto Antturi",
+    "Pekka Nieminen",
+    "Kari M. Räntilä",
+    "Valtter Luoto"
+  ],
+  "languages": [
+    "Hebrew",
+    "Greek",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.522",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.522/"
+}

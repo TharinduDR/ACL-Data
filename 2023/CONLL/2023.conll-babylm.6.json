@@ -1,0 +1,21 @@
+{
+  "title": "ChapGTP, ILLC's Attempt at Raising a BabyLM: Improving Data Efficiency by Automatic Task Formation",
+  "authors": [
+    "Jaap Jumelet",
+    "Michael Hanna",
+    "Marianne de Heer Kloots",
+    "Anna Langedijk",
+    "Charlotte Pouw",
+    "Oskar van der Wal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.conll-babylm.6",
+  "acl_url": "https://aclanthology.org/2023.conll-babylm.6/"
+}

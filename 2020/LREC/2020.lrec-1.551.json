@@ -1,0 +1,17 @@
+{
+  "title": "A Dataset of German Legal Documents for Named Entity Recognition",
+  "authors": [
+    "Elena Leitner",
+    "Georg Rehm",
+    "Julián Moreno-Schneider"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2020.lrec-1.551",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.551/"
+}

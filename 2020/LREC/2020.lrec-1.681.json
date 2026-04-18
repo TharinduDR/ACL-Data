@@ -1,0 +1,27 @@
+{
+  "title": "A Robust Self-Learning Method for Fully Unsupervised Cross-Lingual Mappings of Word Embeddings: Making the Method Robustly Reproducible as Well",
+  "authors": [
+    "Nicolas Garneau",
+    "Mathieu Godbout",
+    "David Beauchemin",
+    "Audrey Durand",
+    "Luc Lamontagne"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Finnish",
+    "Italian",
+    "Estonian",
+    "Persian",
+    "Latvian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2020.lrec-1.681",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.681/"
+}

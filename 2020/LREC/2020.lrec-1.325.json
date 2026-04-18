@@ -1,0 +1,20 @@
+{
+  "title": "Benchmarking Neural and Statistical Machine Translation on Low-Resource African Languages",
+  "authors": [
+    "Kevin Duh",
+    "Paul McNamee",
+    "Matt Post",
+    "Brian Thompson"
+  ],
+  "languages": [
+    "Somali",
+    "Swahili",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.325",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.325/"
+}

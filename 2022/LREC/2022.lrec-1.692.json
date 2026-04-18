@@ -10,15 +10,23 @@
   "languages": [
     "Bengali",
     "Assamese",
+    "Bangla",
     "Santali",
     "Kok Borok",
     "Malayalam",
     "Lepcha",
     "Limbu",
-    "Maithili"
+    "Prachalit",
+    "Sylheti Nagri",
+    "Maithili",
+    "Takri",
+    "Thaana",
+    "Baybayin",
+    "Lontara"
   ],
   "research_areas": [
     "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
     "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "2022.lrec-1.692",

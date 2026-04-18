@@ -1,0 +1,26 @@
+{
+  "title": "LITMUS++: An Agentic System for Predictive Analysis of Low-Resource Languages Across Tasks and Models",
+  "authors": [
+    "Avni Mittal",
+    "Shanu Kumar",
+    "Sandipan Dandapat",
+    "Monojit Choudhury"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Sanskrit",
+    "Italian",
+    "German",
+    "Ukrainian",
+    "Amharic"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.ijcnlp-demo.6",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-demo.6/"
+}

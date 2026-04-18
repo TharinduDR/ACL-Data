@@ -1,0 +1,19 @@
+{
+  "title": "A Finite-State Morphological Analyser for Evenki",
+  "authors": [
+    "Anna Zueva",
+    "Anastasia Kuznetsova",
+    "Francis M. Tyers"
+  ],
+  "languages": [
+    "Evenki",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.lrec-1.314",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.314/"
+}

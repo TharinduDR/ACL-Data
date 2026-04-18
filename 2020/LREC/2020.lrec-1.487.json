@@ -1,0 +1,20 @@
+{
+  "title": "Machine Learning and Deep Neural Network-Based Lemmatization and Morphosyntactic Tagging for Serbian",
+  "authors": [
+    "Ranka Stanković",
+    "Branislava Šandrih",
+    "Cvetana Krstev",
+    "Miloš Utić",
+    "Mihailo Škorić"
+  ],
+  "languages": [
+    "Serbian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.lrec-1.487",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.487/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Creating a Parallel Icelandic Dependency Treebank from Raw Text to Universal Dependencies",
+  "authors": [
+    "Hildur Jónsdóttir",
+    "Anton Karl Ingason"
+  ],
+  "languages": [
+    "Icelandic",
+    "English",
+    "Swedish",
+    "Norwegian",
+    "Danish",
+    "Faroese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.357",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.357/"
+}

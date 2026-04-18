@@ -1,0 +1,20 @@
+{
+  "title": "On the utility of enhancing BERT syntactic bias with Token Reordering Pretraining",
+  "authors": [
+    "Yassir El Mesbahi",
+    "Atif Mahmud",
+    "Abbas Ghaddar",
+    "Mehdi Rezagholizadeh",
+    "Philippe Langlais",
+    "Prasanna Parthasarathi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.conll-1.12",
+  "acl_url": "https://aclanthology.org/2023.conll-1.12/"
+}

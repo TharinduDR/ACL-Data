@@ -1,0 +1,42 @@
+{
+  "title": "Self-Augmentation Improves Zero-Shot Cross-Lingual Transfer",
+  "authors": [
+    "Fei Wang",
+    "Kuan-Hao Huang",
+    "Kai-Wei Chang",
+    "Muhao Chen"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bulgarian",
+    "German",
+    "Greek",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.ijcnlp-short.1",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-short.1/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "DIRECTOR: Generator-Classifiers For Supervised Language Modeling",
+  "authors": [
+    "Kushal Arora",
+    "Kurt Shuster",
+    "Sainbayar Sukhbaatar",
+    "Jason Weston"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.aacl-main.39",
+  "acl_url": "https://aclanthology.org/2022.aacl-main.39/"
+}

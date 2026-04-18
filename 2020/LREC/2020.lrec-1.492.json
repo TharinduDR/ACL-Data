@@ -1,0 +1,18 @@
+{
+  "title": "Kvistur 2.0: a BiLSTM Compound Splitter for Icelandic",
+  "authors": [
+    "Jón Friðrik Daðason",
+    "David Erik Mollberg",
+    "Hrafn Loftsson",
+    "Kristín Bjarnadóttir"
+  ],
+  "languages": [
+    "Icelandic",
+    "German"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.492",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.492/"
+}

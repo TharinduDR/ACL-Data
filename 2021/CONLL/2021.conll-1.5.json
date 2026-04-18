@@ -1,0 +1,28 @@
+{
+  "title": "On Language Models for Creoles",
+  "authors": [
+    "Heather Lent",
+    "Emanuele Bugliarello",
+    "Miriyam de Lhoneux",
+    "Chen Qiu",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Portuguese",
+    "French",
+    "Spanish",
+    "Malay",
+    "Haitian Creole",
+    "Nigerian Pidgin",
+    "Singlish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.conll-1.5",
+  "acl_url": "https://aclanthology.org/2021.conll-1.5/"
+}

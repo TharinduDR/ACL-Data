@@ -1,0 +1,22 @@
+{
+  "title": "LifeQA: A Real-life Dataset for Video Question Answering",
+  "authors": [
+    "Santiago Castro",
+    "Mahmoud Azab",
+    "Jonathan C. Stroud",
+    "Cristina Noujaim",
+    "Ruoyao Wang",
+    "Jia Deng",
+    "Rada Mihalcea"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.536",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.536/"
+}

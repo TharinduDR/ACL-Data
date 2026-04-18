@@ -1,0 +1,24 @@
+{
+  "title": "HKCanto-Eval: A Benchmark for Evaluating Cantonese Language Understanding and Cultural Comprehension in LLMs",
+  "authors": [
+    "Tsz Chung Cheng",
+    "Chung Shing Cheng",
+    "Chaak Ming Lau",
+    "Eugene Tin-Ho Lam",
+    "Chun Yat Wong",
+    "Hoi On Yu",
+    "Cheuk Hei Chong"
+  ],
+  "languages": [
+    "Cantonese",
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.conll-1.1",
+  "acl_url": "https://aclanthology.org/2025.conll-1.1/"
+}

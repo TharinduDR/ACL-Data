@@ -1,0 +1,21 @@
+{
+  "title": "Causal Analysis of Syntactic Agreement Neurons in Multilingual Language Models",
+  "authors": [
+    "Aaron Mueller",
+    "Yu Xia",
+    "Tal Linzen"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Dutch",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.conll-1.8",
+  "acl_url": "https://aclanthology.org/2022.conll-1.8/"
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Treebanking User-Generated Content: A Proposal for a Unified Representation in Universal Dependencies",
+  "authors": [
+    "Manuela Sanguinetti",
+    "Cristina Bosco",
+    "Lauren Cassidy",
+    "Özlem Çetinoğlu",
+    "Alessandra Teresa Cignarella",
+    "Teresa Lynn",
+    "Ines Rehbein",
+    "Josef Ruppenhofer",
+    "Djamé Seddah",
+    "Amir Zeldes"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Turkish",
+    "German",
+    "Arabic",
+    "Chinese",
+    "Italian",
+    "Persian",
+    "Portuguese",
+    "Swahili",
+    "Cantonese",
+    "Spanish",
+    "Hindi",
+    "African-American English",
+    "Singaporean English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.lrec-1.645",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.645/"
+}

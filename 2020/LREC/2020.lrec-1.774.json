@@ -1,0 +1,20 @@
+{
+  "title": "A Corpus of German Reddit Exchanges (GeRedE)",
+  "authors": [
+    "Andreas Blombach",
+    "Natalie Dykes",
+    "Philipp Heinrich",
+    "Besim Kabashi",
+    "Thomas Proisl"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T23 Social Media Processing",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.774",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.774/"
+}

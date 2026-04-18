@@ -1,0 +1,45 @@
+{
+  "title": "Found in Translation: Measuring Multilingual LLM Consistency as Simple as Translate then Evaluate",
+  "authors": [
+    "Ashim Gupta",
+    "Maitrey Mehta",
+    "Zhichao Xu",
+    "Vivek Srikumar"
+  ],
+  "languages": [
+    "Arabic",
+    "Czech",
+    "French",
+    "Hindi",
+    "Japanese",
+    "Malayalam",
+    "Persian",
+    "Russian",
+    "Spanish",
+    "Tamil",
+    "Indonesian",
+    "Korean",
+    "Bengali",
+    "Gujarati",
+    "Kannada",
+    "Punjabi",
+    "Telugu",
+    "Urdu",
+    "Vietnamese",
+    "Chinese",
+    "German",
+    "Greek",
+    "Italian",
+    "Hebrew",
+    "Portuguese",
+    "Romanian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ijcnlp-long.185",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-long.185/"
+}

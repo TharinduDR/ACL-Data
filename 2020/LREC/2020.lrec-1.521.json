@@ -1,0 +1,37 @@
+{
+  "title": "Massively Multilingual Pronunciation Mining with WikiPron",
+  "authors": [
+    "Jackson L. Lee",
+    "Lucas F. E. Ashby",
+    "M. Elizabeth Garza",
+    "Yeonju Lee-Sikka",
+    "Sean Miller",
+    "Alan Wong",
+    "Arya D. McCarthy",
+    "Kyle Gorman"
+  ],
+  "languages": [
+    "Adyghe",
+    "Bulgarian",
+    "Burmese",
+    "English (UK, R.P.)",
+    "French",
+    "Georgian",
+    "Modern Greek",
+    "Hindi",
+    "Hungarian",
+    "Icelandic",
+    "Japanese (Hiragana)",
+    "Korean",
+    "Lithuanian",
+    "Romanian",
+    "Welsh (South Wales)"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T15 Lexicon and Semantics",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2020.lrec-1.521",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.521/"
+}

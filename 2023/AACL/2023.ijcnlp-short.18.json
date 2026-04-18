@@ -1,0 +1,20 @@
+{
+  "title": "Enhancing Open-Domain Table Question Answering via Syntax- and Structure-aware Dense Retrieval",
+  "authors": [
+    "Nengzheng Jin",
+    "Dongfang Li",
+    "Junying Chen",
+    "Joanna Siebert",
+    "Qingcai Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.ijcnlp-short.18",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-short.18/"
+}

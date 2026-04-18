@@ -1,0 +1,18 @@
+{
+  "title": "Text Classification through Glyph-aware Disentangled Character Embedding and Semantic Sub-character Augmentation",
+  "authors": [
+    "Takumi Aoki",
+    "Shunsuke Kitada",
+    "Hitoshi Iyatomi"
+  ],
+  "languages": [
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.aacl-srw.1",
+  "acl_url": "https://aclanthology.org/2020.aacl-srw.1/"
+}

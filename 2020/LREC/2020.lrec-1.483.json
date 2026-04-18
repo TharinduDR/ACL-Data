@@ -1,0 +1,42 @@
+{
+  "title": "UniMorph 3.0: Universal Morphology",
+  "authors": [
+    "Arya D. McCarthy",
+    "Christo Kirov",
+    "Matteo Grella",
+    "Amrit Nidhi",
+    "Patrick Xia",
+    "Kyle Gorman",
+    "Ekaterina Vylomova",
+    "Sabrina J. Mielke",
+    "Garrett Nicolai",
+    "Miikka Silfverberg",
+    "Timofey Arkhangelskij",
+    "Natalya Krizhanovsky",
+    "Andrew Krizhanovsky",
+    "Elena Klyachko",
+    "Alexey Sorokin",
+    "John Mansfield",
+    "Valts Ernštreits",
+    "Yuval Pinter",
+    "Cassandra L. Jacobs",
+    "Ryan Cotterell",
+    "Mans Hulden",
+    "David Yarowsky"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish",
+    "Tagalog"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.lrec-1.483",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.483/"
+}

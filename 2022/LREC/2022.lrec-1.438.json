@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T01 Bias, Guardrails, filters",
     "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
-    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+    "T20 Opinion & Argument Mining",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
   ],
   "paper_id": "2022.lrec-1.438",
   "acl_url": "https://aclanthology.org/2022.lrec-1.438/"

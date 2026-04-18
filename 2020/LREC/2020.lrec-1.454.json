@@ -1,0 +1,22 @@
+{
+  "title": "JASS: Japanese-specific Sequence to Sequence Pre-training for Neural Machine Translation",
+  "authors": [
+    "Zhuoyuan Mao",
+    "Fabien Cromieres",
+    "Raj Dabre",
+    "Haiyue Song",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "Japanese",
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.lrec-1.454",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.454/"
+}

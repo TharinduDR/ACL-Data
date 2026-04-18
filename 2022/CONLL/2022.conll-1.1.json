@@ -1,0 +1,34 @@
+{
+  "title": "A Multilingual Bag-of-Entities Model for Zero-Shot Cross-Lingual Text Classification",
+  "authors": [
+    "Sosuke Nishikawa",
+    "Ikuya Yamada",
+    "Yoshimasa Tsuruoka",
+    "Isao Echizen"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Japanese",
+    "Chinese",
+    "Italian",
+    "Russian",
+    "Spanish",
+    "Arabic",
+    "Turkish",
+    "Dutch",
+    "Portuguese",
+    "Polish",
+    "Romanian",
+    "Hindi",
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T13",
+    "T14",
+    "T11"
+  ],
+  "paper_id": "2022.conll-1.1",
+  "acl_url": "https://aclanthology.org/2022.conll-1.1/"
+}

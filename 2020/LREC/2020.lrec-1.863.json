@@ -1,0 +1,18 @@
+{
+  "title": "Natural Language Processing Pipeline to Annotate Bulgarian Legislative Data",
+  "authors": [
+    "Svetla Koeva",
+    "Nikola Obreshkov",
+    "Martin Yalamov"
+  ],
+  "languages": [
+    "Bulgarian"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.lrec-1.863",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.863/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Online Learning Defense against Iterative Jailbreak Attacks via Prompt Optimization",
+  "authors": [
+    "Masahiro Kaneko",
+    "Zeerak Talat",
+    "Timothy Baldwin"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Russian",
+    "German"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ijcnlp-long.140",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-long.140/"
+}

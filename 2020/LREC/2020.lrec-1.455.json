@@ -1,0 +1,27 @@
+{
+  "title": "A Post-Editing Dataset in the Legal Domain: Do we Underestimate Neural Machine Translation Quality?",
+  "authors": [
+    "Julia Ive",
+    "Lucia Specia",
+    "Sara Szoc",
+    "Tom Vanallemeersch",
+    "Joachim Van den Bogaert",
+    "Eduardo Farah",
+    "Christine Maroti",
+    "Artur Ventura",
+    "Maxim Khalilov"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "French",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T25 Legal NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.455",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.455/"
+}

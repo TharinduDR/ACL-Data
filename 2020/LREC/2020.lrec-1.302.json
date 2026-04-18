@@ -1,0 +1,25 @@
+{
+  "title": "FlauBERT: Unsupervised Language Model Pre-training for French",
+  "authors": [
+    "Hang Le",
+    "Loïc Vial",
+    "Jibril Frej",
+    "Vincent Segonne",
+    "Maximin Coavoux",
+    "Benjamin Lecouteux",
+    "Alexandre Allauzen",
+    "Benoît Crabbe",
+    "Laurent Besacier",
+    "Didier Schwab"
+  ],
+  "languages": [
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.lrec-1.302",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.302/"
+}

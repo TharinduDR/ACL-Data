@@ -1,0 +1,19 @@
+{
+  "title": "MedRedQA for Medical Consumer Question Answering: Dataset, Tasks, and Neural Baselines",
+  "authors": [
+    "Vincent Nguyen",
+    "Sarvnaz Karimi",
+    "Maciej Rybinski",
+    "Zhenchang Xing"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2023.ijcnlp-main.42",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-main.42/"
+}

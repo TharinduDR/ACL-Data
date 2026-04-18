@@ -1,0 +1,22 @@
+{
+  "title": "Give your Text Representation Models some Love: the Case for Basque",
+  "authors": [
+    "Rodrigo Agerri",
+    "Iñaki San Vicente",
+    "Jon Ander Campos",
+    "Ander Barrena",
+    "Xabier Saralegi",
+    "Aitor Soroa",
+    "Eneko Agirre"
+  ],
+  "languages": [
+    "Basque"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.588",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.588/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Headword-Oriented Entity Linking: A Special Entity Linking Task with Dataset and Baseline",
+  "authors": [
+    "Mu Yang",
+    "Chi-Yen Chen",
+    "Yi-Hui Lee",
+    "Qian-Hui Zeng",
+    "Wei-Yun Ma",
+    "Chen-Yang Shih",
+    "Wei-Jhih Chen"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.lrec-1.235",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.235/"
+}

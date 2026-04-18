@@ -1,0 +1,27 @@
+{
+  "title": "The MWN.PT WordNet for Portuguese: Projection, Validation, Cross-lingual Alignment and Distribution",
+  "authors": [
+    "António Branco",
+    "Sara Grilo",
+    "Márcia Bolrinha",
+    "Chakaveh Saedi",
+    "Ruben Branco",
+    "João Silva",
+    "Andreia Querido",
+    "Rita de Carvalho",
+    "Rosa del Gaudio",
+    "Mariana Avelãs",
+    "Clara Pinto"
+  ],
+  "languages": [
+    "Portuguese",
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.lrec-1.598",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.598/"
+}

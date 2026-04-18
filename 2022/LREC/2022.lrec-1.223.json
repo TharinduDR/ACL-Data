@@ -6,12 +6,14 @@
     "Frédéric Vernier"
   ],
   "languages": [
-    "French"
+    "French",
+    "Romance languages",
+    "Polynesian languages"
   ],
   "research_areas": [
-    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
-    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
-    "T15 Lexicon and Semantics"
+    "T15 Lexicon and Semantics",
+    "T24 Speech Resources and Processing",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
   ],
   "paper_id": "2022.lrec-1.223",
   "acl_url": "https://aclanthology.org/2022.lrec-1.223/"

@@ -1,0 +1,21 @@
+{
+  "title": "Introducing Lexical Masks: a New Representation of Lexical Entries for Better Evaluation and Exchange of Lexicons",
+  "authors": [
+    "Bruno Cartoni",
+    "Denny Vrandečić",
+    "Daniel Calvelo Aros",
+    "Saran Lertpradit"
+  ],
+  "languages": [
+    "Italian",
+    "Russian",
+    "German"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.372",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.372/"
+}

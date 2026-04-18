@@ -1,0 +1,33 @@
+{
+  "title": "Second-Order Neural Dependency Parsing with Message Passing and End-to-End Training",
+  "authors": [
+    "Xinyu Wang",
+    "Kewei Tu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Bulgarian",
+    "Catalan",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Finnish",
+    "French",
+    "German",
+    "Greek",
+    "Hungarian",
+    "Italian",
+    "Norwegian",
+    "Romanian",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.aacl-main.12",
+  "acl_url": "https://aclanthology.org/2020.aacl-main.12/"
+}

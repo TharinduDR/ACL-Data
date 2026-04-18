@@ -1,0 +1,24 @@
+{
+  "title": "UKP-SQUARE v2: Explainability and Adversarial Attacks for Trustworthy QA",
+  "authors": [
+    "Rachneet Sachdeva",
+    "Haritz Puerto",
+    "Tim Baumgärtner",
+    "Sewin Tariverdian",
+    "Hao Zhang",
+    "Kexin Wang",
+    "Hossain Shaikh Saadi",
+    "Leonardo F. R. Ribeiro",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.aacl-demo.4",
+  "acl_url": "https://aclanthology.org/2022.aacl-demo.4/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Tackling Zero Pronoun Resolution and Non-Zero Coreference Resolution Jointly",
+  "authors": [
+    "Shisong Chen",
+    "Binbin Gu",
+    "Jianfeng Qu",
+    "Zhixu Li",
+    "An Liu",
+    "Lei Zhao",
+    "Zhigang Chen"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.conll-1.40",
+  "acl_url": "https://aclanthology.org/2021.conll-1.40/"
+}

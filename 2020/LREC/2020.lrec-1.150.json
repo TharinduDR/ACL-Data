@@ -1,0 +1,21 @@
+{
+  "title": "Multi-class Multilingual Classification of Wikipedia Articles Using Extended Named Entity Tag Set",
+  "authors": [
+    "Hassan S. Shavarani",
+    "Satoshi Sekine"
+  ],
+  "languages": [
+    "Japanese",
+    "English",
+    "French",
+    "German",
+    "Persian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.150",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.150/"
+}

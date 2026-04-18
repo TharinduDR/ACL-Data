@@ -1,0 +1,22 @@
+{
+  "title": "Dataset and Enhanced Model for Eligibility Criteria-to-SQL Semantic Parsing",
+  "authors": [
+    "Xiaoqing Yu",
+    "Tianlong Chen",
+    "Zhengjie Yu",
+    "Huiyu Li",
+    "Yang Yang",
+    "Xiaoqian Jiang",
+    "Anxiao Jiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.lrec-1.714",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.714/"
+}

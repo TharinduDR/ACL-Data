@@ -1,0 +1,20 @@
+{
+  "title": "VQA-MHUG: A Gaze Dataset to Study Multimodal Neural Attention in Visual Question Answering",
+  "authors": [
+    "Ekta Sood",
+    "Fabian Kögel",
+    "Florian Strohm",
+    "Prajit Dhar",
+    "Andreas Bulling"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering",
+    "T17 Multimodality, Cross-modality",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.conll-1.3",
+  "acl_url": "https://aclanthology.org/2021.conll-1.3/"
+}

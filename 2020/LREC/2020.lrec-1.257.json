@@ -1,0 +1,19 @@
+{
+  "title": "WN-Salience: A Corpus of News Articles with Entity Salience Annotations",
+  "authors": [
+    "Chuan Wu",
+    "Evangelos Kanoulas",
+    "Maarten de Rijke",
+    "Wei Lu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.257",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.257/"
+}

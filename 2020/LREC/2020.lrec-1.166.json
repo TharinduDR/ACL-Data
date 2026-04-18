@@ -1,0 +1,19 @@
+{
+  "title": "Age Suitability Rating: Predicting the MPAA Rating Based on Movie Dialogues",
+  "authors": [
+    "Mahsa Shafaei",
+    "Nilofar Safi Samghabadi",
+    "Sudipta Kar",
+    "Thamar Solorio"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.lrec-1.166",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.166/"
+}

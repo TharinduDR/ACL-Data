@@ -1,0 +1,21 @@
+{
+  "title": "A Spelling Correction Corpus for Multiple Arabic Dialects",
+  "authors": [
+    "Fadhl Eryani",
+    "Nizar Habash",
+    "Houda Bouamor",
+    "Salam Khalifa"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2020.lrec-1.508",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.508/"
+}

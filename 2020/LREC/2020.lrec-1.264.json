@@ -1,0 +1,22 @@
+{
+  "title": "Populating Legal Ontologies using Semantic Role Labeling",
+  "authors": [
+    "Llio Humphreys",
+    "Guido Boella",
+    "Luigi Di Caro",
+    "Livio Robaldo",
+    "Leendert van der Torre",
+    "Sepideh Ghanavati",
+    "Robert Muthuri"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2020.lrec-1.264",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.264/"
+}

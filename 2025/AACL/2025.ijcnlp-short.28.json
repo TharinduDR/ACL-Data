@@ -1,0 +1,27 @@
+{
+  "title": "Faithful Transcription: Leveraging Bible Recordings to Improve ASR for Endangered Languages",
+  "authors": [
+    "Éric Le Ferrand",
+    "Cian Hauser",
+    "Joshua Hartshorne",
+    "Emily Prud’hommeaux"
+  ],
+  "languages": [
+    "Amis",
+    "Bambara",
+    "Rukai",
+    "Swahili",
+    "Tsou",
+    "Bribri",
+    "Fongbe",
+    "Iban",
+    "Quechua"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ijcnlp-short.28",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-short.28/"
+}

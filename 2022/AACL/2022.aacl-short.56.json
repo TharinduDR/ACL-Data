@@ -1,0 +1,24 @@
+{
+  "title": "CLASP: Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing",
+  "authors": [
+    "Andy Rosenbaum",
+    "Saleh Soltan",
+    "Wael Hamza",
+    "Amir Saffari",
+    "Marco Damonte",
+    "Isabel Groves"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.aacl-short.56",
+  "acl_url": "https://aclanthology.org/2022.aacl-short.56/"
+}

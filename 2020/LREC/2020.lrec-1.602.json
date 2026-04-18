@@ -1,0 +1,19 @@
+{
+  "title": "English WordNet Taxonomic Random Walk Pseudo-Corpora",
+  "authors": [
+    "Filip Klubička",
+    "Alfredo Maldonado",
+    "Abhijit Mahalunkar",
+    "John D. Kelleher"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.lrec-1.602",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.602/"
+}

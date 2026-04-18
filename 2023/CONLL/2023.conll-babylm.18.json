@@ -1,0 +1,20 @@
+{
+  "title": "McGill BabyLM Shared Task Submission: The Effects of Data Formatting and Structural Biases",
+  "authors": [
+    "Ziling Cheng",
+    "Rahul Aralikatte",
+    "Ian Porada",
+    "Cesare Spinoso-Di Piano",
+    "Jackie Chi Kit Cheung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.conll-babylm.18",
+  "acl_url": "https://aclanthology.org/2023.conll-babylm.18/"
+}

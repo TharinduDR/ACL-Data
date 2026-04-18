@@ -1,0 +1,20 @@
+{
+  "title": "Incorporating Singletons and Mention-based Features in Coreference Resolution via Multi-task Learning for Better Generalization",
+  "authors": [
+    "Yilun Zhu",
+    "Siyaopeng",
+    "Sameer Pradhan",
+    "Amir Zeldes"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2023.ijcnlp-short.14",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-short.14/"
+}

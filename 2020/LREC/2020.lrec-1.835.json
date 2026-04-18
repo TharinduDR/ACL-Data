@@ -1,0 +1,17 @@
+{
+  "title": "GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors",
+  "authors": [
+    "Masato Hagiwara",
+    "Masato Mita"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2020.lrec-1.835",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.835/"
+}

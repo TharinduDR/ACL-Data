@@ -1,0 +1,25 @@
+{
+  "title": "An Empirical Comparison of Vocabulary Expansion and Initialization Approaches for Language Models",
+  "authors": [
+    "Nandini Mundra",
+    "Aditya Nanda Kishore",
+    "Raj Dabre",
+    "Ratish Pudupully",
+    "Anoop Kunchukuttan",
+    "Mitesh M. Khapra"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Tamil",
+    "Russian",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.conll-1.8",
+  "acl_url": "https://aclanthology.org/2024.conll-1.8/"
+}

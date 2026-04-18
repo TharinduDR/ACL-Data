@@ -1,0 +1,21 @@
+{
+  "title": "Cross-lingual and cross-domain evaluation of Machine Reading Comprehension with Squad and CALOR-Quest corpora",
+  "authors": [
+    "Delphine Charlet",
+    "Géraldine Damnati",
+    "Frédéric Béchet",
+    "Gabriel Marzinotto",
+    "Johannes Heinecke"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.lrec-1.674",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.674/"
+}

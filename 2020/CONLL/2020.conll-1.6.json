@@ -1,0 +1,23 @@
+{
+  "title": "On the Frailty of Universal POS Tags for Neural UD Parsers",
+  "authors": [
+    "Mark Anderson",
+    "Carlos Gómez-Rodríguez"
+  ],
+  "languages": [
+    "Ancient Greek",
+    "Chinese",
+    "English",
+    "Finnish",
+    "Hebrew",
+    "Russian",
+    "Tamil",
+    "Uyghur",
+    "Wolof"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.conll-1.6",
+  "acl_url": "https://aclanthology.org/2020.conll-1.6/"
+}

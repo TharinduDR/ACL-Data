@@ -1,0 +1,23 @@
+{
+  "title": "Grammatical Profiling for Semantic Change Detection",
+  "authors": [
+    "Mario Giulianelli",
+    "Andrey Kutuzov",
+    "Lidia Pivovarova"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Latin",
+    "Swedish",
+    "Italian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.conll-1.33",
+  "acl_url": "https://aclanthology.org/2021.conll-1.33/"
+}

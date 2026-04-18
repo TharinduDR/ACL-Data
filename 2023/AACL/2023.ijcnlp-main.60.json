@@ -1,0 +1,47 @@
+{
+  "title": "NusaWrites: Constructing High-Quality Corpora for Underrepresented and Extremely Low-Resource Languages",
+  "authors": [
+    "Samuel Cahyawijaya",
+    "Holy Lovenia",
+    "Fajri Koto",
+    "Dea Adhista",
+    "Emmanuel Dave",
+    "Sarah Oktavianti",
+    "Salsabil Maulana Akbar",
+    "Jhonson Lee",
+    "Nuur Shadieq",
+    "Tjeng Wawan Cenggoro",
+    "Hanung Wahyuning Linuwi",
+    "Bryan Wilie",
+    "Galih Pradipta Muridan",
+    "Genta Indra Winata",
+    "David Moeljadi",
+    "Alham Fikri Aji",
+    "Ayu Purwarianti",
+    "Pascale Fung"
+  ],
+  "languages": [
+    "Indonesian",
+    "Ambon",
+    "Batak",
+    "Betawi",
+    "Bima",
+    "Buginese",
+    "Javanese",
+    "Madurese",
+    "Makassarese",
+    "Minangkabau",
+    "Palembang / Musi",
+    "Rejang",
+    "Sundanese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.ijcnlp-main.60",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-main.60/"
+}

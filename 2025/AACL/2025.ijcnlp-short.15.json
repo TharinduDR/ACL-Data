@@ -1,0 +1,25 @@
+{
+  "title": "Does Synthetic Data Help Named Entity Recognition for Low-Resource Languages?",
+  "authors": [
+    "Gaurav Kamath",
+    "Sowmya Vajjala"
+  ],
+  "languages": [
+    "Danish",
+    "Igbo",
+    "Kannada",
+    "Kinyarwanda",
+    "Malayalam",
+    "Slovak",
+    "Swahili",
+    "Tamil",
+    "Telugu",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.ijcnlp-short.15",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-short.15/"
+}

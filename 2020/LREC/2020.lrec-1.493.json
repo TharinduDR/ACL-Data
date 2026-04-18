@@ -1,0 +1,30 @@
+{
+  "title": "Morphological Segmentation for Low Resource Languages",
+  "authors": [
+    "Justin Mott",
+    "Ann Bies",
+    "Stephanie Strassel",
+    "Jordan Kodner",
+    "Caitlin Richter",
+    "Hongzhi Xu",
+    "Mitch Marcus"
+  ],
+  "languages": [
+    "Akan",
+    "Hindi",
+    "Hungarian",
+    "Indonesian",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Tagalog",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.493",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.493/"
+}

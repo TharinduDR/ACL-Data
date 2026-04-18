@@ -12,11 +12,15 @@
     "Norwegian",
     "Slovenian",
     "Turkish",
-    "German"
+    "German",
+    "Beja",
+    "Naija",
+    "Chukchi"
   ],
   "research_areas": [
-    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
-    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+    "T24 Speech Resources and Processing",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
   ],
   "paper_id": "2022.lrec-1.191",
   "acl_url": "https://aclanthology.org/2022.lrec-1.191/"

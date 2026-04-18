@@ -1,0 +1,29 @@
+{
+  "title": "MorphAGram: Evaluation and Framework for Unsupervised Morphological Segmentation",
+  "authors": [
+    "Ramy Eskander",
+    "Francesca Callejas",
+    "Elizabeth Nichols",
+    "Judith Klavans",
+    "Smaranda Muresan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Finnish",
+    "Estonian",
+    "Georgian",
+    "Turkish",
+    "Arabic",
+    "Zulu",
+    "Mexicanero",
+    "Nahuatl",
+    "Wixarika",
+    "Yorem Nokki"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.879",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.879/"
+}

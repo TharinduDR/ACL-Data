@@ -1,0 +1,21 @@
+{
+  "title": "On Multilingual Encoder Language Model Compression for Low-Resource Languages",
+  "authors": [
+    "Daniil Gurgurov",
+    "Michal Gregor",
+    "Josef van Genabith",
+    "Simon Ostermann"
+  ],
+  "languages": [
+    "Maltese",
+    "Slovak",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.ijcnlp-srw.5",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-srw.5/"
+}

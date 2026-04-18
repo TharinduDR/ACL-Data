@@ -1,0 +1,19 @@
+{
+  "title": "Improving Sentence Boundary Detection for Spoken Language Transcripts",
+  "authors": [
+    "Ines Rehbein",
+    "Josef Ruppenhofer",
+    "Thomas Schmidt"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.878",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.878/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Defending Large Language Models against Jailbreak Attacks via Semantic Smoothing",
+  "authors": [
+    "Jiabao Ji",
+    "Bairu Hou",
+    "Alexander Robey",
+    "George J. Pappas",
+    "Hamed Hassani",
+    "Yang Zhang",
+    "Eric Wong",
+    "Shiyu Chang"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.ijcnlp-short.2",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-short.2/"
+}

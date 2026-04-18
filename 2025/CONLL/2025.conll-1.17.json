@@ -1,0 +1,27 @@
+{
+  "title": "Principal Parts Detection for Computational Morphology: Task, Models and Benchmark",
+  "authors": [
+    "Dorin Keshales",
+    "Omer Goldman",
+    "Reut Tsarfaty"
+  ],
+  "languages": [
+    "Hebrew",
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Danish",
+    "Swedish",
+    "Finnish",
+    "Turkish",
+    "Latin"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.conll-1.17",
+  "acl_url": "https://aclanthology.org/2025.conll-1.17/"
+}

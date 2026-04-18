@@ -1,0 +1,18 @@
+{
+  "title": "SiBert: Enhanced Chinese Pre-trained Language Model with Sentence Insertion",
+  "authors": [
+    "Jiahao Chen",
+    "Chenjie Cao",
+    "Xiuyan Jiang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2020.lrec-1.293",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.293/"
+}

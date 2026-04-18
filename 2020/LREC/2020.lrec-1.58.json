@@ -1,0 +1,24 @@
+{
+  "title": "The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service",
+  "authors": [
+    "Meng Chen",
+    "Ruixue Liu",
+    "Lei Shen",
+    "Shaozu Yuan",
+    "Jingyan Zhou",
+    "Youzheng Wu",
+    "Xiaodong He",
+    "Bowen Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.58",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.58/"
+}

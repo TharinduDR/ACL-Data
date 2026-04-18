@@ -1,0 +1,23 @@
+{
+  "title": "MuST-Cinema: a Speech-to-Subtitles corpus",
+  "authors": [
+    "Alina Karakanta",
+    "Matteo Negri",
+    "Marco Turchi"
+  ],
+  "languages": [
+    "Italian",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Romanian",
+    "German",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.lrec-1.460",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.460/"
+}

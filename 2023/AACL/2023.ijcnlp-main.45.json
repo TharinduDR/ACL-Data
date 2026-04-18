@@ -1,0 +1,39 @@
+{
+  "title": "A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity",
+  "authors": [
+    "Yejin Bang",
+    "Samuel Cahyawijaya",
+    "Nayeon Lee",
+    "Wenliang Dai",
+    "Dan Su",
+    "Bryan Wilie",
+    "Holy Lovenia",
+    "Ziwei Ji",
+    "Tiezhen Yu",
+    "Willy Chung",
+    "Quyet V. Do",
+    "Yan Xu",
+    "Pascale Fung"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Indonesian",
+    "Javanese",
+    "Korean",
+    "Sundanese",
+    "Buginese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.ijcnlp-main.45",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-main.45/"
+}

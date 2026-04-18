@@ -1,0 +1,23 @@
+{
+  "title": "BLISS: An Agent for Collecting Spoken Dialogue data about Health and Well-being",
+  "authors": [
+    "Jelte van Waterschoot",
+    "Iris Hendrickx",
+    "Arif Khan",
+    "Esther Klabbers",
+    "Marcel de Korte",
+    "Helmer Strik",
+    "Catia Cucchiarini",
+    "Mariët Theune"
+  ],
+  "languages": [
+    "Dutch"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.lrec-1.57",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.57/"
+}

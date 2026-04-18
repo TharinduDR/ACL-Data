@@ -1,0 +1,19 @@
+{
+  "title": "Neural Machine Translation for Low-Resourced Indian Languages",
+  "authors": [
+    "Himanshu Choudhary",
+    "Shivansh Rao",
+    "Rajesh Rohilla"
+  ],
+  "languages": [
+    "English",
+    "Tamil",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.444",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.444/"
+}

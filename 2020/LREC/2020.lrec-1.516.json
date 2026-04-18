@@ -1,0 +1,23 @@
+{
+  "title": "Multilingual Corpus Creation for Multilingual Semantic Similarity Task",
+  "authors": [
+    "Mahtab Ahmed",
+    "Chahna Dixit",
+    "Robert E. Mercer",
+    "Atif Khan",
+    "Muhammad Rifayat Samee",
+    "Felipe Urra"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.lrec-1.516",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.516/"
+}

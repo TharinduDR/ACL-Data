@@ -1,0 +1,18 @@
+{
+  "title": "Enhancing Financial Table and Text Question Answering with Tabular Graph and Numerical Reasoning",
+  "authors": [
+    "Rungsiman Nararatwong",
+    "Natthawut Kertkeidkachorn",
+    "Ryutaro Ichise"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.aacl-main.72",
+  "acl_url": "https://aclanthology.org/2022.aacl-main.72/"
+}

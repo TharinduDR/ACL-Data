@@ -1,0 +1,23 @@
+{
+  "title": "Typical Sentences as a Resource for Valence",
+  "authors": [
+    "Uwe Quasthoff",
+    "Lars Hellan",
+    "Erik Körner",
+    "Thomas Eckart",
+    "Dirk Goldhahn",
+    "Dorothee Beermann"
+  ],
+  "languages": [
+    "German",
+    "Norwegian",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.lrec-1.649",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.649/"
+}

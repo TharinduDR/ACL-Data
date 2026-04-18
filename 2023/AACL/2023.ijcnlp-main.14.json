@@ -1,0 +1,25 @@
+{
+  "title": "Analysing Cross-Lingual Transfer in Low-Resourced African Named Entity Recognition",
+  "authors": [
+    "Michael Beukman",
+    "Manuel Fokam"
+  ],
+  "languages": [
+    "Amharic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Luganda",
+    "Luo",
+    "Nigerian Pidgin",
+    "Swahili",
+    "Wolof",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.ijcnlp-main.14",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-main.14/"
+}

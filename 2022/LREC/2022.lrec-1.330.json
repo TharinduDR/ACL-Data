@@ -16,9 +16,9 @@
     "Turkish"
   ],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T14 Language Modeling",
     "T09 Inference and Reasoning",
-    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+    "T16 Machine Translation and Translation Aids"
   ],
   "paper_id": "2022.lrec-1.330",
   "acl_url": "https://aclanthology.org/2022.lrec-1.330/"

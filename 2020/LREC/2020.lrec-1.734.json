@@ -1,0 +1,21 @@
+{
+  "title": "Russian PropBank",
+  "authors": [
+    "Sarah Moeller",
+    "Irina Wagner",
+    "Martha Palmer",
+    "Kathryn Conger",
+    "Skatje Myers"
+  ],
+  "languages": [
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.lrec-1.734",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.734/"
+}

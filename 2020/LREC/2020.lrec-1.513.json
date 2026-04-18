@@ -1,0 +1,28 @@
+{
+  "title": "Large Vocabulary Read Speech Corpora for Four Ethiopian Languages: Amharic, Tigrigna, Oromo and Wolaytta",
+  "authors": [
+    "Solomon Teferra Abate",
+    "Martha Yifiru Tachbelie",
+    "Michael Melese",
+    "Hafte Abera",
+    "Tewodros Abebe",
+    "Wondwossen Mulugeta",
+    "Yaregal Assabie",
+    "Million Meshesha",
+    "Solomon Atinafu",
+    "Binyam Ephrem"
+  ],
+  "languages": [
+    "Amharic",
+    "Tigrigna",
+    "Oromo",
+    "Wolaytta"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T14 Language Modeling",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.lrec-1.513",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.513/"
+}

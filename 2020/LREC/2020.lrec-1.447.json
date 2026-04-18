@@ -1,0 +1,19 @@
+{
+  "title": "Evaluation Dataset for Zero Pronoun in Japanese to English Translation",
+  "authors": [
+    "Sho Shimazu",
+    "Sho Takase",
+    "Toshiaki Nakazawa",
+    "Naoaki Okazaki"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.447",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.447/"
+}

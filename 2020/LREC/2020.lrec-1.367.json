@@ -1,0 +1,21 @@
+{
+  "title": "Automatically Building a Multilingual Lexicon of False Friends With No Supervision",
+  "authors": [
+    "Ana-Sabina Uban",
+    "Liviu P. Dinu"
+  ],
+  "languages": [
+    "English",
+    "Romanian",
+    "French",
+    "Italian",
+    "Spanish",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2020.lrec-1.367",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.367/"
+}

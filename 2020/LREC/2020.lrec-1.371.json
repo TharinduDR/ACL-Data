@@ -1,0 +1,29 @@
+{
+  "title": "word2word: A Collection of Bilingual Lexicons for 3,564 Language Pairs",
+  "authors": [
+    "Yo Joong Choe",
+    "Kyubyong Park",
+    "Dongwoo Kim"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Spanish",
+    "Italian",
+    "Arabic",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Thai",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.lrec-1.371",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.371/"
+}

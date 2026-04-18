@@ -7,13 +7,12 @@
   ],
   "languages": [
     "Thai",
-    "English",
-    "Chinese"
+    "English"
   ],
   "research_areas": [
-    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
-    "T15 Lexicon and Semantics",
-    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+    "T02",
+    "T15",
+    "T21"
   ],
   "paper_id": "2022.lrec-1.697",
   "acl_url": "https://aclanthology.org/2022.lrec-1.697/"

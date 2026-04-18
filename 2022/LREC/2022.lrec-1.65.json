@@ -7,9 +7,9 @@
     "French"
   ],
   "research_areas": [
-    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
-    "T15 Lexicon and Semantics",
-    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+    "T13",
+    "T15",
+    "T21"
   ],
   "paper_id": "2022.lrec-1.65",
   "acl_url": "https://aclanthology.org/2022.lrec-1.65/"

@@ -13,16 +13,17 @@
     "Italian",
     "Chinese",
     "Persian",
-    "Hindi",
-    "Indonesian",
-    "Arabic",
     "Portuguese",
+    "Indonesian",
+    "Hindi",
+    "Arabic",
     "Bengali",
     "Gujarati",
     "Tamil",
     "Telugu",
     "Kazakh",
     "Lithuanian",
+    "Farsi",
     "Cantonese",
     "Swahili",
     "Zulu",
@@ -31,8 +32,8 @@
     "Punjabi"
   ],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
   ],
   "paper_id": "2022.lrec-1.542",
   "acl_url": "https://aclanthology.org/2022.lrec-1.542/"

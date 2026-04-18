@@ -1,0 +1,18 @@
+{
+  "title": "MuDoCo: Corpus for Multidomain Coreference Resolution and Referring Expression Generation",
+  "authors": [
+    "Scott Martin",
+    "Shivani Poddar",
+    "Kartikeya Upasani"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2020.lrec-1.13",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.13/"
+}

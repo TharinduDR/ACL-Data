@@ -1,0 +1,24 @@
+{
+  "title": "Getting More Data for Low-resource Morphological Inflection: Language Models and Data Augmentation",
+  "authors": [
+    "Alexey Sorokin"
+  ],
+  "languages": [
+    "Crimean Tatar",
+    "Uzbek",
+    "Swahili",
+    "Quechua",
+    "Adyghe",
+    "Turkmen",
+    "Georgian",
+    "Middle-high-german",
+    "Telugu",
+    "Karelian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.490",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.490/"
+}

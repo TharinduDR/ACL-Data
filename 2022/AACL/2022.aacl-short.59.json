@@ -1,0 +1,24 @@
+{
+  "title": "Dodging the Data Bottleneck: Automatic Subtitling with Automatically Segmented ST Corpora",
+  "authors": [
+    "Sara Papi",
+    "Alina Karakanta",
+    "Matteo Negri",
+    "Marco Turchi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Dutch",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2022.aacl-short.59",
+  "acl_url": "https://aclanthology.org/2022.aacl-short.59/"
+}

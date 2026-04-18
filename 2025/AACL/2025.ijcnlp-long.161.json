@@ -1,0 +1,20 @@
+{
+  "title": "Enhancing Low-Resource Text Classification with LLM-Generated Corpora: A Case Study on Olfactory Reference Extraction",
+  "authors": [
+    "Cédric Boscher",
+    "Shannon Bruderer",
+    "Christine Largeron",
+    "Véronique Eglin",
+    "Előd Egyed-Zsigmond"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ijcnlp-long.161",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-long.161/"
+}

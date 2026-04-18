@@ -1,0 +1,46 @@
+{
+  "title": "BabyLM's First Words: Word Segmentation as a Phonological Probing Task",
+  "authors": [
+    "Zébulon Goriely",
+    "Paula Buttery"
+  ],
+  "languages": [
+    "Basque",
+    "Cantonese",
+    "Croatian",
+    "Danish",
+    "Dutch",
+    "English",
+    "EnglishUK",
+    "Estonian",
+    "Farsi",
+    "French",
+    "German",
+    "Hungarian",
+    "Icelandic",
+    "Indonesian",
+    "Irish",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Mandarin",
+    "Norwegian",
+    "Polish",
+    "PortugueseBr",
+    "PortuguesePt",
+    "Quechua",
+    "Romanian",
+    "Serbian",
+    "Spanish",
+    "Swedish",
+    "Turkish",
+    "Welsh"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.conll-1.34",
+  "acl_url": "https://aclanthology.org/2025.conll-1.34/"
+}

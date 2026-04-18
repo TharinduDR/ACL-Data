@@ -1,0 +1,24 @@
+{
+  "title": "Cross-lingual Structure Transfer for Zero-resource Event Extraction",
+  "authors": [
+    "Di Lu",
+    "Ananya Subburathinam",
+    "Heng Ji",
+    "Jonathan May",
+    "Shih-Fu Chang",
+    "Avirup Sil",
+    "Clare Voss"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Russian",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.243",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.243/"
+}

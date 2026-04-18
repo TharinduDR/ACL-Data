@@ -1,0 +1,38 @@
+{
+  "title": "DharmaBench: Evaluating Language Models on Buddhist Texts in Sanskrit and Tibetan",
+  "authors": [
+    "Kai Golan Hashiloni",
+    "Shay Cohen",
+    "Asaf Shina",
+    "Jingyi Yang",
+    "Orr Meir Zwebner",
+    "Nicola Bajetta",
+    "Guy Bilitski",
+    "Rebecca Sundén",
+    "Guy Maduel",
+    "Ryan Conlon",
+    "Ari Barzilai",
+    "Daniel Mass",
+    "Shanshan Jia",
+    "Aviv Naaman",
+    "Sonam Choden",
+    "Sonam Jamtsho",
+    "Yadi Qu",
+    "Harunaga Isaacson",
+    "Dorji Wangchuk",
+    "Shai Fine",
+    "Orna Almogi",
+    "Kfir Bar"
+  ],
+  "languages": [
+    "Sanskrit",
+    "Tibetan"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.ijcnlp-long.114",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-long.114/"
+}

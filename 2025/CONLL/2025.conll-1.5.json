@@ -1,0 +1,19 @@
+{
+  "title": "WinoWhat: A Parallel Corpus of Paraphrased WinoGrande Sentences with Common Sense Categorization",
+  "authors": [
+    "Ine Gevers",
+    "Victor De Marez",
+    "Luna De Bruyne",
+    "Walter Daelemans"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.conll-1.5",
+  "acl_url": "https://aclanthology.org/2025.conll-1.5/"
+}

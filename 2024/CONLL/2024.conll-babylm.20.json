@@ -1,0 +1,17 @@
+{
+  "title": "WhatIf: Leveraging Word Vectors for Small-Scale Data Augmentation",
+  "authors": [
+    "Alex Lyman",
+    "Bryce Hepner"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2024.conll-babylm.20",
+  "acl_url": "https://aclanthology.org/2024.conll-babylm.20/"
+}

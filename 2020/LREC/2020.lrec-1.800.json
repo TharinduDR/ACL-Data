@@ -1,0 +1,30 @@
+{
+  "title": "Open-source Multi-speaker Speech Corpora for Building Gujarati, Kannada, Malayalam, Marathi, Tamil and Telugu Speech Synthesis Systems",
+  "authors": [
+    "Fei He",
+    "Shan-Hui Cathy Chu",
+    "Oddur Kjartansson",
+    "Clara Rivera",
+    "Anna Katanova",
+    "Alexander Gutkin",
+    "Işın Demirşahin",
+    "Cibu Johny",
+    "Martin Jansche",
+    "Supheakmungkol Sarin",
+    "Knot Pipatsrisawat"
+  ],
+  "languages": [
+    "Gujarati",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2020.lrec-1.800",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.800/"
+}

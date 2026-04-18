@@ -1,0 +1,24 @@
+{
+  "title": "Detecting Urgency in Multilingual Medical SMS in Kenya",
+  "authors": [
+    "Narshion Ngao",
+    "Zeyu Wang",
+    "Lawrence Nderu",
+    "Tobias Mwalili",
+    "Tal August",
+    "Keshet Ronen"
+  ],
+  "languages": [
+    "English",
+    "Swahili",
+    "Luo",
+    "Sheng"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.aacl-srw.10",
+  "acl_url": "https://aclanthology.org/2022.aacl-srw.10/"
+}

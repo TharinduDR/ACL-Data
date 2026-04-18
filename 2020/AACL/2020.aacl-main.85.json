@@ -1,0 +1,26 @@
+{
+  "title": "IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding",
+  "authors": [
+    "Bryan Wilie",
+    "Karissa Vincentio",
+    "Genta Indra Winata",
+    "Samuel Cahyawijaya",
+    "Xiaohong Li",
+    "Zhi Yuan Lim",
+    "Sidik Soleman",
+    "Rahmad Mahendra",
+    "Pascale Fung",
+    "Syafri Bahar",
+    "Ayu Purwarianti"
+  ],
+  "languages": [
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.aacl-main.85",
+  "acl_url": "https://aclanthology.org/2020.aacl-main.85/"
+}

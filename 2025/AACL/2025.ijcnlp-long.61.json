@@ -1,0 +1,22 @@
+{
+  "title": "EmplifAI: a Fine-grained Dataset for Japanese Empathetic Medical Dialogues in 28 Emotion Labels",
+  "authors": [
+    "Wan Jou She",
+    "Lis Kanashiro Pereira",
+    "Fei Cheng",
+    "Sakiko Yahata",
+    "Panote Siriaraya",
+    "Eiji Aramaki"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.ijcnlp-long.61",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-long.61/"
+}

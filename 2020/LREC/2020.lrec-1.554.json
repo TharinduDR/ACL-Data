@@ -1,0 +1,18 @@
+{
+  "title": "Hedwig: A Named Entity Linker",
+  "authors": [
+    "Marcus Klang",
+    "Pierre Nugues"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.lrec-1.554",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.554/"
+}

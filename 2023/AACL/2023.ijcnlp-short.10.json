@@ -1,0 +1,24 @@
+{
+  "title": "Can You Translate for Me? Code-Switched Machine Translation with Large Language Models",
+  "authors": [
+    "Jyotsana Khatri",
+    "Vivek Srivastava",
+    "Lovekesh Vig"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Spanish",
+    "Arabic",
+    "German",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.ijcnlp-short.10",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-short.10/"
+}

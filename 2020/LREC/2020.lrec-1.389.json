@@ -1,0 +1,38 @@
+{
+  "title": "Linking the TUFS Basic Vocabulary to the Open Multilingual Wordnet",
+  "authors": [
+    "Francis Bond",
+    "Hiroki Nomoto",
+    "Luis Morgado da Costa",
+    "Arthur Bond"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "English",
+    "Spanish",
+    "French",
+    "Indonesian",
+    "Japanese",
+    "Central Khmer",
+    "Korean",
+    "Lao",
+    "Mongolian",
+    "Malay",
+    "Burmese",
+    "Portuguese",
+    "Russian",
+    "Thai",
+    "Tagalog",
+    "Turkish",
+    "Urdu",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2020.lrec-1.389",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.389/"
+}

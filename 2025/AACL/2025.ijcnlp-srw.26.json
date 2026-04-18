@@ -1,0 +1,21 @@
+{
+  "title": "VariantBench: A Framework for Evaluating LLMs on Justifications for Genetic Variant Interpretation",
+  "authors": [
+    "Humair Basharat",
+    "Simon Plotkin",
+    "Michael Pink",
+    "Isabella Alfaro",
+    "Charlotte Le",
+    "Kevin Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.ijcnlp-srw.26",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-srw.26/"
+}

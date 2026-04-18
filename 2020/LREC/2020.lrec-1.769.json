@@ -1,0 +1,21 @@
+{
+  "title": "Norm It! Lexical Normalization for Italian and Its Downstream Effects for Dependency Parsing",
+  "authors": [
+    "Rob van der Goot",
+    "Alan Ramponi",
+    "Tommaso Caselli",
+    "Michele Cafagna",
+    "Lorenzo De Mattei"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T23 Social Media Processing",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2020.lrec-1.769",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.769/"
+}

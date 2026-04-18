@@ -1,0 +1,20 @@
+{
+  "title": "A Unified Framework for Multilingual and Code-Mixed Visual Question Answering",
+  "authors": [
+    "Deepak Gupta",
+    "Pabitra Lenka",
+    "Asif Ekbal",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Code-mixed English-Hindi"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2020.aacl-main.90",
+  "acl_url": "https://aclanthology.org/2020.aacl-main.90/"
+}

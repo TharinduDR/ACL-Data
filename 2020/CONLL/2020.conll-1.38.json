@@ -1,0 +1,41 @@
+{
+  "title": "An Expectation Maximisation Algorithm for Automated Cognate Detection",
+  "authors": [
+    "Roddy MacSween",
+    "Andrew Caines",
+    "Paula Buttery"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Polish",
+    "Dutch",
+    "Icelandic",
+    "Armenian",
+    "Greek",
+    "Bulgarian",
+    "Czech",
+    "Russian",
+    "Portuguese",
+    "Italian",
+    "Spanish",
+    "Hindi",
+    "Japanese",
+    "Uralic",
+    "Austronesian",
+    "Romance",
+    "Slavic",
+    "Indo-European",
+    "Bai",
+    "Romance",
+    "Slavic"
+  ],
+  "research_areas": [
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.conll-1.38",
+  "acl_url": "https://aclanthology.org/2020.conll-1.38/"
+}

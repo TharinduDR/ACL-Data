@@ -1,0 +1,23 @@
+{
+  "title": "BhashaSetu: Cross-Lingual Knowledge Transfer from High-Resource to Extreme Low-Resource Languages",
+  "authors": [
+    "Subhadip Maji",
+    "Arnab Bhattacharya"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Marathi",
+    "Bangla",
+    "Malayalam",
+    "Mizo",
+    "Khasi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.ijcnlp-long.115",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-long.115/"
+}

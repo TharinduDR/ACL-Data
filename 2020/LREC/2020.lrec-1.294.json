@@ -1,0 +1,33 @@
+{
+  "title": "Processing South Asian Languages Written in the Latin Script: the Dakshina Dataset",
+  "authors": [
+    "Brian Roark",
+    "Lawrence Wolf-Sonkin",
+    "Christo Kirov",
+    "Sabrina J. Mielke",
+    "Cibu Johny",
+    "Işın Demirşahin",
+    "Keith Hall"
+  ],
+  "languages": [
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Punjabi",
+    "Sindhi",
+    "Sinhala",
+    "Tamil",
+    "Telugu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.lrec-1.294",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.294/"
+}

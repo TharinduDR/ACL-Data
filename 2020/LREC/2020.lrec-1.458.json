@@ -1,0 +1,24 @@
+{
+  "title": "An Analysis of Massively Multilingual Neural Machine Translation for Low-Resource Languages",
+  "authors": [
+    "Aaron Mueller",
+    "Garrett Nicolai",
+    "Arya D. McCarthy",
+    "Dylan Lewis",
+    "Winston Wu",
+    "David Yarowsky"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Tagalog",
+    "Turkish",
+    "Xhosa",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.lrec-1.458",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.458/"
+}

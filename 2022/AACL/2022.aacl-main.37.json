@@ -1,0 +1,21 @@
+{
+  "title": "RecInDial: A Unified Framework for Conversational Recommendation with Pretrained Language Models",
+  "authors": [
+    "Lingzhi Wang",
+    "Huang Hu",
+    "Lei Sha",
+    "Can Xu",
+    "Kam-Fai Wong",
+    "Daxin Jiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.aacl-main.37",
+  "acl_url": "https://aclanthology.org/2022.aacl-main.37/"
+}

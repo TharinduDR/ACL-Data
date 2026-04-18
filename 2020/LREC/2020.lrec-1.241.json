@@ -1,0 +1,21 @@
+{
+  "title": "Handling Entity Normalization with no Annotated Corpus: Weakly Supervised Methods Based on Distributional Representation and Ontological Information",
+  "authors": [
+    "Arnaud Ferré",
+    "Robert Bossy",
+    "Mouhamadou Ba",
+    "Louise Deléger",
+    "Thomas Lavergne",
+    "Pierre Zweigenbaum",
+    "Claire Nédellec"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.lrec-1.241",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.241/"
+}

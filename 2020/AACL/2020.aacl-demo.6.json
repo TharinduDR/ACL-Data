@@ -1,0 +1,36 @@
+{
+  "title": "FAIRSEQ S2T: Fast Speech-to-Text Modeling with FAIRSEQ",
+  "authors": [
+    "Changhan Wang",
+    "Yun Tang",
+    "Xutai Ma",
+    "Anne Wu",
+    "Dmytro Okhonko",
+    "Juan Pino"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Chinese",
+    "Turkish",
+    "Arabic",
+    "Slovenian",
+    "Slovak",
+    "Thai",
+    "Japanese",
+    "Indonesian",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.aacl-demo.6",
+  "acl_url": "https://aclanthology.org/2020.aacl-demo.6/"
+}

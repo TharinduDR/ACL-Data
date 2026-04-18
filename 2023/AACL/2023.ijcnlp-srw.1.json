@@ -1,0 +1,22 @@
+{
+  "title": "Cross-lingual Transfer Learning for Javanese Dependency Parsing",
+  "authors": [
+    "Fadli Aulawi Al Ghiffari",
+    "Ika Alfina",
+    "Kurniawati Azizah"
+  ],
+  "languages": [
+    "Javanese",
+    "English",
+    "Indonesian",
+    "French",
+    "Italian",
+    "Korean",
+    "Croatian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.ijcnlp-srw.1",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-srw.1/"
+}

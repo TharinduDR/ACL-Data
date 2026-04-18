@@ -1,0 +1,26 @@
+{
+  "title": "MIRRORWIC: On Eliciting Word-in-Context Representations from Pretrained Language Models",
+  "authors": [
+    "Qianchu Liu",
+    "Fangyu Liu",
+    "Nigel Collier",
+    "Anna Korhonen",
+    "Ivan Vulić"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Korean",
+    "Croatian",
+    "Estonian",
+    "Georgian",
+    "Japanese",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.conll-1.44",
+  "acl_url": "https://aclanthology.org/2021.conll-1.44/"
+}

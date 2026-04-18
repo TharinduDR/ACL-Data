@@ -1,0 +1,20 @@
+{
+  "title": "An unsupervised method for weighting finite-state morphological analyzers",
+  "authors": [
+    "Amr Keleg",
+    "Francis M. Tyers",
+    "Nicholas Howell",
+    "Tommi A. Pirinen"
+  ],
+  "languages": [
+    "English",
+    "Kazakh",
+    "Serbo-Croatian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.474",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.474/"
+}

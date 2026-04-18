@@ -1,0 +1,26 @@
+{
+  "title": "CAMeL Tools: An Open Source Python Toolkit for Arabic Natural Language Processing",
+  "authors": [
+    "Ossama Obeid",
+    "Nasser Zalmout",
+    "Salam Khalifa",
+    "Dima Taji",
+    "Mai Oudah",
+    "Bashar Alhafni",
+    "Go Inoue",
+    "Fadhl Eryani",
+    "Alexander Erdmann",
+    "Nizar Habash"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.868",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.868/"
+}

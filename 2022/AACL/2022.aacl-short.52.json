@@ -1,0 +1,22 @@
+{
+  "title": "CoFE: A New Dataset of Intra-Multilingual Multi-target Stance Classification from an Online European Participatory Democracy Platform",
+  "authors": [
+    "Valentin Barriere",
+    "Guillaume Jacquet",
+    "Léo Hemamou"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Hungarian",
+    "Greek"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.aacl-short.52",
+  "acl_url": "https://aclanthology.org/2022.aacl-short.52/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dirichlet-Smoothed Word Embeddings for Low-Resource Settings",
+  "authors": [
+    "Jakob Jungmaier",
+    "Nora Kassner",
+    "Benjamin Roth"
+  ],
+  "languages": [
+    "English",
+    "Luxembourgish",
+    "Maltese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.437",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.437/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "IndicClaimBuster: A Multilingual Claim Verification Dataset",
+  "authors": [
+    "Pritam Pal",
+    "Shyamal Krishna Jana",
+    "Dipankar Das"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Code-Mix"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.ijcnlp-long.133",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-long.133/"
+}

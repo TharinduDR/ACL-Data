@@ -1,0 +1,25 @@
+{
+  "title": "A Fine-grained Interpretability Evaluation Benchmark for Neural NLP",
+  "authors": [
+    "Lijie Wang",
+    "Yaozong Shen",
+    "Shuyuan Peng",
+    "Shuai Zhang",
+    "Xinyan Xiao",
+    "Hao Liu",
+    "Hongxuan Tang",
+    "Ying Chen",
+    "Hua Wu",
+    "Haifeng Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.conll-1.6",
+  "acl_url": "https://aclanthology.org/2022.conll-1.6/"
+}

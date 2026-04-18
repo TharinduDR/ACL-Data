@@ -1,0 +1,42 @@
+{
+  "title": "The DReaM Corpus: A Multilingual Annotated Corpus of Grammars for the World's Languages",
+  "authors": [
+    "Shafqat Mumtaz Virk",
+    "Harald Hammarström",
+    "Markus Forsberg",
+    "Søren Wichmann"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Dutch",
+    "Italian",
+    "Russian",
+    "Portuguese",
+    "Indonesian",
+    "Chinese",
+    "Swahili",
+    "Hausa",
+    "Mongolia",
+    "Koongo",
+    "Ewe",
+    "Zande",
+    "Hadza",
+    "Sema",
+    "Zulu",
+    "Xhosa",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.110",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.110/"
+}

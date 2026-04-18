@@ -1,0 +1,22 @@
+{
+  "title": "Predicting and Using Target Length in Neural Machine Translation",
+  "authors": [
+    "Zijian Yang",
+    "Yingbo Gao",
+    "Weiyue Wang",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Spanish",
+    "Italian",
+    "Dutch",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.aacl-main.41",
+  "acl_url": "https://aclanthology.org/2020.aacl-main.41/"
+}

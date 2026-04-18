@@ -1,0 +1,28 @@
+{
+  "title": "Orchestrating NLP Services for the Legal Domain",
+  "authors": [
+    "Julián Moreno-Schneider",
+    "Georg Rehm",
+    "Elena Montiel-Ponsoda",
+    "Víctor Rodríguez-Doncel",
+    "Artem Revenko",
+    "Sotirios Karampatakis",
+    "Maria Khvalchik",
+    "Christian Sageder",
+    "Jorge Gracia",
+    "Filippo Maganza"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2020.lrec-1.284",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.284/"
+}

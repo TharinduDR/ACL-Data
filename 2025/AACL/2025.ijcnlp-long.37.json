@@ -1,0 +1,30 @@
+{
+  "title": "PRALEKHA: Cross-Lingual Document Alignment for Indic Languages",
+  "authors": [
+    "Sanjay Suryanarayanan",
+    "Haiyue Song",
+    "Mohammed Safi Ur Rahman Khan",
+    "Anoop Kunchukuttan",
+    "Raj Dabre"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Odia",
+    "Punjabi",
+    "Tamil",
+    "Telugu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ijcnlp-long.37",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-long.37/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Paraphrase Generation and Evaluation on Colloquial-Style Sentences",
+  "authors": [
+    "Eetu Sjöblom",
+    "Mathias Creutz",
+    "Yves Scherrer"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Finnish",
+    "French",
+    "Russian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.224",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.224/"
+}

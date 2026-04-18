@@ -1,0 +1,21 @@
+{
+  "title": "UnihanLM: Coarse-to-Fine Chinese-Japanese Language Model Pretraining with the Unihan Database",
+  "authors": [
+    "Canwen Xu",
+    "Tao Ge",
+    "Chenliang Li",
+    "Furu Wei"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.aacl-main.24",
+  "acl_url": "https://aclanthology.org/2020.aacl-main.24/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Non-Linearity in mapping based Cross-Lingual Word Embeddings",
+  "authors": [
+    "Jiawei Zhao",
+    "Andrew Gilman"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "German",
+    "Spanish",
+    "Finnish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.lrec-1.440",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.440/"
+}

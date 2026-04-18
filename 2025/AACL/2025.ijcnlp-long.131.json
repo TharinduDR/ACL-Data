@@ -1,0 +1,34 @@
+{
+  "title": "ELR-1000: A Community-Generated Dataset for Endangered Indic Indigenous Languages",
+  "authors": [
+    "Neha Joshi",
+    "Pamir Gogoi",
+    "Aasim Mirza",
+    "Aayush Jansari",
+    "Aditya Yadavalli",
+    "Ayushi Pandey",
+    "Arunima Shukla",
+    "Deepthi Sudharsan",
+    "Kalika Bali",
+    "Vivek Seshadri"
+  ],
+  "languages": [
+    "Bodo",
+    "Assamese",
+    "Meitei",
+    "Kaman-Mishmi",
+    "Khortha",
+    "Santhali",
+    "Ho",
+    "Sadri",
+    "Mundari",
+    "Khasi"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ijcnlp-long.131",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-long.131/"
+}

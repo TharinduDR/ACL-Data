@@ -1,0 +1,22 @@
+{
+  "title": "Multimodal Generation of Radiology Reports using Knowledge-Grounded Extraction of Entities and Relations",
+  "authors": [
+    "Francesco Dalla Serra",
+    "William Clackett",
+    "Chaoyang Wang",
+    "Hamish MacKinnon",
+    "Fani Deligianni",
+    "Jeffrey Dalton",
+    "Alison Q O'Neil"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.aacl-main.47",
+  "acl_url": "https://aclanthology.org/2022.aacl-main.47/"
+}

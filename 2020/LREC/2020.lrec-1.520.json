@@ -1,0 +1,35 @@
+{
+  "title": "Common Voice: A Massively-Multilingual Speech Corpus",
+  "authors": [
+    "Rosana Ardila",
+    "Megan Branson",
+    "Kelly Davis",
+    "Michael Henretty",
+    "Michael Kohler",
+    "Josh Meyer",
+    "Reuben Morais",
+    "Lindsay Saunders",
+    "Francis M. Tyers",
+    "Gregor Weber"
+  ],
+  "languages": [
+    "Slovenian",
+    "Irish",
+    "Chuvash",
+    "Breton",
+    "Turkish",
+    "Italian",
+    "Welsh",
+    "Tatar",
+    "Catalan",
+    "French",
+    "Kabyle",
+    "German"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.lrec-1.520",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.520/"
+}

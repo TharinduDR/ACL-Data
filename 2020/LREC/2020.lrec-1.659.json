@@ -1,0 +1,20 @@
+{
+  "title": "AccentDB: A Database of Non-Native English Accents to Assist Neural Speech Recognition",
+  "authors": [
+    "Afroz Ahamad",
+    "Ankit Anand",
+    "Pranesh Bhargava"
+  ],
+  "languages": [
+    "English",
+    "Bangla",
+    "Malayalam",
+    "Odiya",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.lrec-1.659",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.659/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Enhancing Code-mixed Text Generation Using Synthetic Data Filtering in Neural Machine Translation",
+  "authors": [
+    "Dama Sravani",
+    "Radhika Mamidi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.conll-1.15",
+  "acl_url": "https://aclanthology.org/2023.conll-1.15/"
+}

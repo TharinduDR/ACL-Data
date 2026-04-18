@@ -1,0 +1,29 @@
+{
+  "title": "Are Machine Reading Comprehension Systems Robust to Context Paraphrasing?",
+  "authors": [
+    "Yulong Wu",
+    "Viktor Schlegel",
+    "Riza Batista-Navarro"
+  ],
+  "languages": [
+    "Chinese",
+    "Hindi",
+    "Spanish",
+    "French",
+    "Russian",
+    "German",
+    "Italian",
+    "Dutch",
+    "Swedish",
+    "Indonesian",
+    "Vietnamese",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.ijcnlp-short.21",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-short.21/"
+}

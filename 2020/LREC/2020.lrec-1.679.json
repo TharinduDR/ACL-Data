@@ -1,0 +1,17 @@
+{
+  "title": "Evaluation of Dataset Selection for Pre-Training and Fine-Tuning Transformer Language Models for Clinical Question Answering",
+  "authors": [
+    "Sarvesh Soni",
+    "Kirk Roberts"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.lrec-1.679",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.679/"
+}

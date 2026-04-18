@@ -1,0 +1,20 @@
+{
+  "title": "GeCzLex: Lexicon of Czech and German Anaphoric Connectives",
+  "authors": [
+    "Lucie Poláková",
+    "Kateřina Rysová",
+    "Magdaléna Rysová",
+    "Jiří Mírovský"
+  ],
+  "languages": [
+    "Czech",
+    "German"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.137",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.137/"
+}

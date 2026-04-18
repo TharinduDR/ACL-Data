@@ -1,0 +1,21 @@
+{
+  "title": "An Empirical Study on Cross-X Transfer for Legal Judgment Prediction",
+  "authors": [
+    "Joel Niklaus",
+    "Matthias Stürmer",
+    "Ilias Chalkidis"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.aacl-main.3",
+  "acl_url": "https://aclanthology.org/2022.aacl-main.3/"
+}

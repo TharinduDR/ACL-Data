@@ -1,0 +1,19 @@
+{
+  "title": "Interpreting Attention Models with Human Visual Attention in Machine Reading Comprehension",
+  "authors": [
+    "Ekta Sood",
+    "Simon Tannert",
+    "Diego Frassinelli",
+    "Andreas Bulling",
+    "Ngoc Thang Vu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.conll-1.2",
+  "acl_url": "https://aclanthology.org/2020.conll-1.2/"
+}

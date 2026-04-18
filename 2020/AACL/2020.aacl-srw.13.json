@@ -1,0 +1,29 @@
+{
+  "title": "Making a Point: Pointer-Generator Transformers for Disjoint Vocabularies",
+  "authors": [
+    "Nikhil Prabhu",
+    "Katharina Kann"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "French",
+    "German",
+    "Hindi",
+    "Ice",
+    "Korean",
+    "Lithuanian",
+    "Malay",
+    "Dutch",
+    "Japanese",
+    "Russian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2020.aacl-srw.13",
+  "acl_url": "https://aclanthology.org/2020.aacl-srw.13/"
+}

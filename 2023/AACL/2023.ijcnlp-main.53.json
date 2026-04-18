@@ -1,0 +1,27 @@
+{
+  "title": "LexicoMatic: Automatic Creation of Multilingual Lexical-Semantic Dictionaries",
+  "authors": [
+    "Federico Martelli",
+    "Luigi Procopio",
+    "Edoardo Barba",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "French",
+    "German",
+    "Italian",
+    "Korean",
+    "Russian",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.ijcnlp-main.53",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-main.53/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Imposing Relation Structure in Language-Model Embeddings Using Contrastive Learning",
+  "authors": [
+    "Christos Theodoropoulos",
+    "James Henderson",
+    "Andrei Catalin Coman",
+    "Marie-Francine Moens"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.conll-1.27",
+  "acl_url": "https://aclanthology.org/2021.conll-1.27/"
+}

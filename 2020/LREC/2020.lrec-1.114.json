@@ -1,0 +1,28 @@
+{
+  "title": "Voices of the Great War: A Richly Annotated Corpus of Italian Texts on the First World War",
+  "authors": [
+    "Alessandro Lenci",
+    "Simonetta Montemagni",
+    "Federico Boschetti",
+    "Irene De Felice",
+    "Stefano dei Rossi",
+    "Felice Dell'Orletta",
+    "Michele Di Giorgio",
+    "Martina Miliani",
+    "Lucia C. Passaro",
+    "Angelica Puddu",
+    "Giulia Venturi",
+    "Nicola Labanca"
+  ],
+  "languages": [
+    "Italian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.114",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.114/"
+}

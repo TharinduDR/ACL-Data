@@ -1,0 +1,26 @@
+{
+  "title": "ParaPat: The Multi-Million Sentences Parallel Corpus of Patents Abstracts",
+  "authors": [
+    "Felipe Soares",
+    "Mark Stevenson",
+    "Diego Bartolome",
+    "Anna Zaretskaya"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Spanish",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.lrec-1.465",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.465/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "A Multilingual Parallel Corpora Collection Effort for Indian Languages",
+  "authors": [
+    "Shashank Siripragada",
+    "Jerin Philip",
+    "Vinay P. Namboodiri",
+    "C.V. Jawahar"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Telugu",
+    "Tamil",
+    "Malayalam",
+    "Gujarati",
+    "Bengali",
+    "Oriya",
+    "Marathi",
+    "Punjabi",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.462",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.462/"
+}

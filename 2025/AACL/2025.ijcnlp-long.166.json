@@ -1,0 +1,25 @@
+{
+  "title": "RASTeR: Robust, Agentic, and Structured Temporal Reasoning",
+  "authors": [
+    "Dan Schumacher",
+    "Fatemeh Haji",
+    "Tara Grey",
+    "Niharika Bandlamudi",
+    "Nupoor Karnik",
+    "Gagana Uday Kumar",
+    "Cho-Yu Jason Chiang",
+    "Peyman Najafirad",
+    "Nishant Vishwamitra",
+    "Anthony Rios"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ijcnlp-long.166",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-long.166/"
+}

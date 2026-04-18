@@ -1,0 +1,46 @@
+{
+  "title": "Combining Noisy Semantic Signals with Orthographic Cues: Cognate Induction for the Indic Dialect Continuum",
+  "authors": [
+    "Niyati Bafna",
+    "Josef van Genabith",
+    "Cristina España-Bonet",
+    "Zdeněk Žabokrtský"
+  ],
+  "languages": [
+    "Hindi",
+    "Marathi",
+    "Nepali",
+    "Sindhi",
+    "Bhojpuri",
+    "Awadhi",
+    "Magahi",
+    "Maithili",
+    "Brajbhasha",
+    "Rajasthani",
+    "Haryanvi",
+    "Bundeli",
+    "Kannauji",
+    "Khadi Boli",
+    "Chattisgarhi",
+    "Bajjika",
+    "Angika",
+    "Kumaoni",
+    "Malwi",
+    "Bhadavari",
+    "Himachali",
+    "Garwali",
+    "Punjabi",
+    "Sanskrit",
+    "Bhil",
+    "Nimaadi",
+    "Korku",
+    "Baiga"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.conll-1.9",
+  "acl_url": "https://aclanthology.org/2022.conll-1.9/"
+}

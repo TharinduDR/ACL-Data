@@ -1,0 +1,24 @@
+{
+  "title": "SAPGraph: Structure-aware Extractive Summarization for Scientific Papers with Heterogeneous Graph",
+  "authors": [
+    "Siya Qi",
+    "Lei Li",
+    "Yiyang Li",
+    "Jin Jiang",
+    "Dingxin Hu",
+    "Yuze Li",
+    "Yingqi Zhu",
+    "Yanquan Zhou",
+    "Marina Litvak",
+    "Natalia Vanetik"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.aacl-main.44",
+  "acl_url": "https://aclanthology.org/2022.aacl-main.44/"
+}

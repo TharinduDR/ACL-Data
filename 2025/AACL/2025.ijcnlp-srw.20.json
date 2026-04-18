@@ -1,0 +1,21 @@
+{
+  "title": "Rethinking Tokenization for Rich Morphology: The Dominance of Unigram over BPE and Morphological Alignment",
+  "authors": [
+    "Saketh Reddy Vemula",
+    "Sandipan Dandapat",
+    "Dipti Misra Sharma",
+    "Parameswari Krishnamurthy"
+  ],
+  "languages": [
+    "Telugu",
+    "Hindi",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ijcnlp-srw.20",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-srw.20/"
+}

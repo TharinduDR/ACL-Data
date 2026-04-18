@@ -1,0 +1,26 @@
+{
+  "title": "LRMGS: A Language-Robust Metric for Evaluating Question Answering in Very Low-Resource Indic Languages",
+  "authors": [
+    "Anuj Kumar",
+    "Satyadev Ahlawat",
+    "Yamuna Prasad",
+    "Virendra Singh"
+  ],
+  "languages": [
+    "Assamese",
+    "Dogri",
+    "Hindi",
+    "Konkani",
+    "Maithili",
+    "Manipuri",
+    "Sanskrit",
+    "Sindhi"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ijcnlp-srw.7",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-srw.7/"
+}

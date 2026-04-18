@@ -1,0 +1,19 @@
+{
+  "title": "Chinese Discourse Parsing: Model and Evaluation",
+  "authors": [
+    "Chuan-An Lin",
+    "Shyh-Shiun Hung",
+    "Hen-Hsen Huang",
+    "Hsin-Hsi Chen"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.128",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.128/"
+}

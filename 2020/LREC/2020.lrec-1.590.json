@@ -1,0 +1,18 @@
+{
+  "title": "CBOW-tag: a Modified CBOW Algorithm for Generating Embedding Models from Annotated Corpora",
+  "authors": [
+    "Attila Novák",
+    "László János Laki",
+    "Borbála Novák"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.590",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.590/"
+}

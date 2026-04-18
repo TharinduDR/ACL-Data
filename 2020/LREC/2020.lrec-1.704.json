@@ -1,0 +1,17 @@
+{
+  "title": "NegBERT: A Transfer Learning Approach for Negation Detection and Scope Resolution",
+  "authors": [
+    "Aditya Khandelwal",
+    "Suraj Sawant"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.lrec-1.704",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.704/"
+}

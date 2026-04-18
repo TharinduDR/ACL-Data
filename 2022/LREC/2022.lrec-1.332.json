@@ -10,9 +10,9 @@
     "French"
   ],
   "research_areas": [
-    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
-    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
-    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+    "T13",
+    "T16",
+    "T08"
   ],
   "paper_id": "2022.lrec-1.332",
   "acl_url": "https://aclanthology.org/2022.lrec-1.332/"

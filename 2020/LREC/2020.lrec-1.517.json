@@ -1,0 +1,30 @@
+{
+  "title": "CoVoST: A Diverse Multilingual Speech-To-Text Translation Corpus",
+  "authors": [
+    "Changhan Wang",
+    "Juan Pino",
+    "Anne Wu",
+    "Jiatao Gu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Dutch",
+    "Russian",
+    "Spanish",
+    "Italian",
+    "Turkish",
+    "Persian",
+    "Swedish",
+    "Mongolian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.lrec-1.517",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.517/"
+}

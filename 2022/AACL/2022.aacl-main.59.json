@@ -1,0 +1,30 @@
+{
+  "title": "Cross-lingual Few-Shot Learning on Unseen Languages",
+  "authors": [
+    "Genta Indra Winata",
+    "Shijie Wu",
+    "Mayank Kulkarni",
+    "Thamar Solorio",
+    "Daniel Preotiuc-Pietro"
+  ],
+  "languages": [
+    "English",
+    "Indonesian",
+    "Acehnese",
+    "Balinese",
+    "Banjarese",
+    "Buginese",
+    "Madurese",
+    "Minangkabau",
+    "Ngaju",
+    "Toba Batak",
+    "Javanese",
+    "Sundanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.aacl-main.59",
+  "acl_url": "https://aclanthology.org/2022.aacl-main.59/"
+}

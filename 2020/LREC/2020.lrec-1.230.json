@@ -1,0 +1,32 @@
+{
+  "title": "Evaluating Language Tools for Fifteen EU-official Under-resourced Languages",
+  "authors": [
+    "Diego Alves",
+    "Gaurish Thakkar",
+    "Marko Tadić"
+  ],
+  "languages": [
+    "Croatian",
+    "Czech",
+    "Danish",
+    "Estonian",
+    "Finnish",
+    "Greek",
+    "Hungarian",
+    "Irish",
+    "Latvian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Slovak",
+    "Slovene",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.230",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.230/"
+}

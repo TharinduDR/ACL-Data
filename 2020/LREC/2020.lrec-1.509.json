@@ -1,0 +1,19 @@
+{
+  "title": "A Dataset for Multilingual Epidemiological Event Extraction",
+  "authors": [
+    "Stephen Mutuvi",
+    "Antoine Doucet",
+    "Gaël Lejeune",
+    "Moses Odeo"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.lrec-1.509",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.509/"
+}

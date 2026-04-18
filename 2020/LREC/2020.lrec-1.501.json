@@ -1,0 +1,28 @@
+{
+  "title": "Multilingual Culture-Independent Word Analogy Datasets",
+  "authors": [
+    "Matej Ulčar",
+    "Kristiina Vaik",
+    "Jessica Lindström",
+    "Milda Dailidėnaitė",
+    "Marko Robnik-Šikonja"
+  ],
+  "languages": [
+    "Croatian",
+    "English",
+    "Estonian",
+    "Finnish",
+    "Latvian",
+    "Lithuanian",
+    "Russian",
+    "Slovene",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.501",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.501/"
+}

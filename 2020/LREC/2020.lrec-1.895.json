@@ -1,0 +1,22 @@
+{
+  "title": "DeepNLPF: A Framework for Integrating Third-Party NLP Tools",
+  "authors": [
+    "Francisco Rodrigues",
+    "Rinaldo Lima",
+    "William Domingues",
+    "Robson Fidalgo",
+    "Adrian Chifu",
+    "Bernard Espinasse",
+    "Sébastien Fournier"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.895",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.895/"
+}

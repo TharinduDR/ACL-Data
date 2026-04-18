@@ -1,0 +1,25 @@
+{
+  "title": "On the Robustness of Unsupervised and Semi-supervised Cross-lingual Word Embedding Learning",
+  "authors": [
+    "Yerai Doval",
+    "Jose Camacho-Collados",
+    "Luis Espinosa-Anke",
+    "Steven Schockaert"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian",
+    "German",
+    "Finnish",
+    "Persian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.lrec-1.495",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.495/"
+}

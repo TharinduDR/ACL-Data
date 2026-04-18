@@ -1,0 +1,21 @@
+{
+  "title": "HIT-SCIR at MRP 2020: Transition-based Parser and Iterative Inference Parser",
+  "authors": [
+    "Longxu Dou",
+    "Yunlong Feng",
+    "Yuqiu Ji",
+    "Wanxiang Che",
+    "Ting Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "German"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.conll-shared.6",
+  "acl_url": "https://aclanthology.org/2020.conll-shared.6/"
+}

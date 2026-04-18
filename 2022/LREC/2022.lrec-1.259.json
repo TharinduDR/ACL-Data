@@ -3,18 +3,18 @@
   "authors": [
     "Ana Zwitter Vitez",
     "Mojca Brglez",
-    "Marko Robnik-Šikonič",
+    "Marko Robnik-Šikonja",
     "Tadej Škvorc",
     "Andreja Vezovnik",
     "Senja Pollak"
   ],
   "languages": [
-    "Slovenian"
+    "Slovene"
   ],
   "research_areas": [
-    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
-    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
-    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+    "T02",
+    "T15",
+    "T22"
   ],
   "paper_id": "2022.lrec-1.259",
   "acl_url": "https://aclanthology.org/2022.lrec-1.259/"

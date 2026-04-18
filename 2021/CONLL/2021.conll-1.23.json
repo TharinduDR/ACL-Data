@@ -1,0 +1,21 @@
+{
+  "title": "A Coarse-to-Fine Labeling Framework for Joint Word Segmentation, POS Tagging, and Constituent Parsing",
+  "authors": [
+    "Yang Hou",
+    "Houquan Zhou",
+    "Zhenghua Li",
+    "Yu Zhang",
+    "Min Zhang",
+    "Zhefeng Wang",
+    "Baoxing Huai",
+    "Nicholas Jing Yuan"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.conll-1.23",
+  "acl_url": "https://aclanthology.org/2021.conll-1.23/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "A Prompt Array Keeps the Bias Away: Debiasing Vision-Language Models with Adversarial Learning",
+  "authors": [
+    "Hugo Berg",
+    "Siobhan Mackenzie Hall",
+    "Yash Bhalgat",
+    "Hannah Rose Kirk",
+    "Aleksandar Shtedritski",
+    "Max Bain"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.aacl-main.61",
+  "acl_url": "https://aclanthology.org/2022.aacl-main.61/"
+}

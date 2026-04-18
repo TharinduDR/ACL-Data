@@ -1,0 +1,31 @@
+{
+  "title": "FAD-X: Fusing Adapters for Cross-lingual Transfer to Low-Resource Languages",
+  "authors": [
+    "Jaeseong Lee",
+    "Seung-won Hwang",
+    "Taesup Kim"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Spanish",
+    "Japanese",
+    "Quechua",
+    "Min Dong",
+    "Ilokano",
+    "Mingrelian",
+    "Meadow Mari",
+    "Maori",
+    "Turkmen",
+    "Guarani"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2022.aacl-short.8",
+  "acl_url": "https://aclanthology.org/2022.aacl-short.8/"
+}

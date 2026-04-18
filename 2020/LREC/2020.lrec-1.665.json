@@ -1,0 +1,25 @@
+{
+  "title": "An Empirical Comparison of Question Classification Methods for Question Answering Systems",
+  "authors": [
+    "Eduardo Gabriel Cortes",
+    "Vinicius Woloszyn",
+    "Arne Binder",
+    "Tilo Himmelsbach",
+    "Dante Barone",
+    "Sebastian Möller"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Spanish",
+    "Dutch",
+    "Italian"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.665",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.665/"
+}

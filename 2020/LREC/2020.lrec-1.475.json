@@ -1,0 +1,26 @@
+{
+  "title": "Language-Independent Tokenisation Rivals Language-Specific Tokenisation for Word Similarity Prediction",
+  "authors": [
+    "Danushka Bollegala",
+    "Ryuichi Kiyono",
+    "Kosuke Tsujino",
+    "Haruki Yukawa"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Persian",
+    "Italian",
+    "Japanese",
+    "Turkish",
+    "Thai"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.475",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.475/"
+}

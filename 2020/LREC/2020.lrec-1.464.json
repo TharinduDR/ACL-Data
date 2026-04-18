@@ -1,0 +1,40 @@
+{
+  "title": "The MARCELL Legislative Corpus",
+  "authors": [
+    "Tamás Váradi",
+    "Svetla Koeva",
+    "Martin Yalamov",
+    "Marko Tadić",
+    "Bálint Sass",
+    "Bartłomiej Niton",
+    "Maciej Ogrodniczuk",
+    "Piotr Pęzik",
+    "Verginica Barbă Mititelu",
+    "Radu Ion",
+    "Elena Irimia",
+    "Maria Mitrofan",
+    "Vasile Păiș",
+    "Dan Tufiș",
+    "Radovan Garabik",
+    "Simon Krek",
+    "Andraž Repar",
+    "Matjaž Rihtar",
+    "Janez Brank"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Croatian",
+    "Hungarian",
+    "Polish",
+    "Romanian",
+    "Slovak",
+    "Slovenian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2020.lrec-1.464",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.464/"
+}

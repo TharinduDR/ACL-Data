@@ -1,0 +1,26 @@
+{
+  "title": "A Simple and Effective Usage of Word Clusters for CBOW Model",
+  "authors": [
+    "Yukun Feng",
+    "Chenlong Hu",
+    "Hidetaka Kamigaito",
+    "Hiroya Takamura",
+    "Manabu Okumura"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Arabic",
+    "Hebrew",
+    "Estonian",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2020.aacl-main.10",
+  "acl_url": "https://aclanthology.org/2020.aacl-main.10/"
+}

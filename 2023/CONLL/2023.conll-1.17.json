@@ -1,0 +1,20 @@
+{
+  "title": "Syntactic Inductive Bias in Transformer Language Models: Especially Helpful for Low-Resource Languages?",
+  "authors": [
+    "Luke Gessler",
+    "Nathan Schneider"
+  ],
+  "languages": [
+    "Uyghur",
+    "Wolof",
+    "Maltese",
+    "Coptic",
+    "Ancient Greek"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.conll-1.17",
+  "acl_url": "https://aclanthology.org/2023.conll-1.17/"
+}

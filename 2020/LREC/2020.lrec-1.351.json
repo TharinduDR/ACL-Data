@@ -1,0 +1,31 @@
+{
+  "title": "Automated Parsing of Interlinear Glossed Text From Page Images of Grammatical Descriptions",
+  "authors": [
+    "Erich R. Round",
+    "Jayden L. Macklin-Cordes",
+    "T. Mark Ellison",
+    "Sacha Beniamine"
+  ],
+  "languages": [
+    "Mpur",
+    "Abau",
+    "Bunuba",
+    "Darkinyung",
+    "Dhanggati",
+    "Diyari",
+    "Garrwa",
+    "Giimbiyu",
+    "Gudanji",
+    "Kukatj",
+    "Mara",
+    "Mende",
+    "Nyulnyul",
+    "Suboo"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.351",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.351/"
+}

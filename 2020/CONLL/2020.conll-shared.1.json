@@ -1,0 +1,28 @@
+{
+  "title": "MRP 2020: The Second Shared Task on Cross-Framework and Cross-Lingual Meaning Representation Parsing",
+  "authors": [
+    "Stephan Oepen",
+    "Omri Abend",
+    "Lasha Abzianidze",
+    "Johan Bos",
+    "Jan Hajič",
+    "Daniel Hershcovich",
+    "Bin Li",
+    "Tim O'Gorman",
+    "Nianwen Xue",
+    "Daniel Zeman"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Czech",
+    "German"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.conll-shared.1",
+  "acl_url": "https://aclanthology.org/2020.conll-shared.1/"
+}

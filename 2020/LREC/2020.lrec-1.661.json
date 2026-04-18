@@ -1,0 +1,23 @@
+{
+  "title": "Multi-class Hierarchical Question Classification for Multiple Choice Science Exams",
+  "authors": [
+    "Dongfang Xu",
+    "Peter Jansen",
+    "Jaycie Martin",
+    "Zhengnan Xie",
+    "Vikas Yadav",
+    "Harish Tayyar Madabushi",
+    "Oyvind Tafjord",
+    "Peter Clark"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2020.lrec-1.661",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.661/"
+}

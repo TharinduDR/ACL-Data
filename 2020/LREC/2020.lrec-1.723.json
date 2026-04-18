@@ -1,0 +1,22 @@
+{
+  "title": "Sense-Annotated Corpora for Word Sense Disambiguation in Multiple Languages and Domains",
+  "authors": [
+    "Bianca Scarlini",
+    "Tommaso Pasini",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Spanish",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.lrec-1.723",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.723/"
+}

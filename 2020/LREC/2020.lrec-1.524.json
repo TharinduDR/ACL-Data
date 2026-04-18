@@ -1,0 +1,30 @@
+{
+  "title": "Cross-lingual Named Entity List Search via Transliteration",
+  "authors": [
+    "Aleksandr Khakhmovich",
+    "Svetlana Pavlova",
+    "Kira Kirillova",
+    "Nikolay Arefyev",
+    "Ekaterina Savilova"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Hebrew",
+    "Japanese",
+    "Katakana",
+    "Korean",
+    "Russian",
+    "Belarusian",
+    "Odia",
+    "Punjabi",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T11",
+    "T16",
+    "T08"
+  ],
+  "paper_id": "2020.lrec-1.524",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.524/"
+}

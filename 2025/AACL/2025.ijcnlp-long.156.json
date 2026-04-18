@@ -1,0 +1,40 @@
+{
+  "title": "Language Arithmetics: Towards Systematic Language Neuron Identification and Manipulation",
+  "authors": [
+    "Daniil Gurgurov",
+    "Katharina Trinley",
+    "Yusser Al Ghussin",
+    "Tanja Bäumel",
+    "Josef van Genabith",
+    "Simon Ostermann"
+  ],
+  "languages": [
+    "Chinese",
+    "Arabic",
+    "Afrikaans",
+    "Dutch",
+    "French",
+    "Portuguese",
+    "Russian",
+    "Korean",
+    "Hindi",
+    "Turkish",
+    "Polish",
+    "Swedish",
+    "Danish",
+    "Norwegian",
+    "Italian",
+    "Spanish",
+    "German",
+    "Japanese",
+    "Maltese",
+    "Tibetan"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.ijcnlp-long.156",
+  "acl_url": "https://aclanthology.org/2025.ijcnlp-long.156/"
+}

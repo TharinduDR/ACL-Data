@@ -1,0 +1,29 @@
+{
+  "title": "An empirical evaluation of annotation practices in corpora from language documentation",
+  "authors": [
+    "Kilu von Prince",
+    "Sebastian Nordhoff"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "German",
+    "Russian",
+    "Mandarin Chinese",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.lrec-1.338",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.338/"
+}

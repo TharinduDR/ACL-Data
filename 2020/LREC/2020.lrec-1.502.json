@@ -1,0 +1,20 @@
+{
+  "title": "GeBioToolkit: Automatic Extraction of Gender-Balanced Multilingual Corpus of Wikipedia Biographies",
+  "authors": [
+    "Marta R. Costa-jussà",
+    "Pau Li Lin",
+    "Cristina España-Bonet"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Catalan"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.lrec-1.502",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.502/"
+}

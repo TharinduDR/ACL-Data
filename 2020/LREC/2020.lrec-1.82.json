@@ -1,0 +1,22 @@
+{
+  "title": "Understanding User Utterances in a Dialog System for Caregiving",
+  "authors": [
+    "Yoshihiko Asao",
+    "Julien Kloetzer",
+    "Junta Mizuno",
+    "Dai Saiki",
+    "Kazuma Kadowaki",
+    "Kentaro Torisawa"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.lrec-1.82",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.82/"
+}

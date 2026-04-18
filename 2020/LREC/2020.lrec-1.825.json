@@ -1,0 +1,21 @@
+{
+  "title": "Abstractive Text Summarization based on Language Model Conditioning and Locality Modeling",
+  "authors": [
+    "Dmitrii Aksonov",
+    "Julián Moreno-Schneider",
+    "Peter Bourgonje",
+    "Robert Schwarzenberg",
+    "Leonhard Hennig",
+    "Georg Rehm"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2020.lrec-1.825",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.825/"
+}

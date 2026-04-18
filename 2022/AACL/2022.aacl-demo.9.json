@@ -1,0 +1,23 @@
+{
+  "title": "Text Characterization Toolkit (TCT)",
+  "authors": [
+    "Daniel Simig",
+    "Tianlu Wang",
+    "Verna Dankers",
+    "Peter Henderson",
+    "Khuyagbaatar Batsuren",
+    "Dieuwke Hupkes",
+    "Mona Diab"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.aacl-demo.9",
+  "acl_url": "https://aclanthology.org/2022.aacl-demo.9/"
+}

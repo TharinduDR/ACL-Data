@@ -1,0 +1,19 @@
+{
+  "title": "Neural Text Sanitization with Explicit Measures of Privacy Risk",
+  "authors": [
+    "Anthi Papadopoulou",
+    "Yunhao Yu",
+    "Pierre Lison",
+    "Lilja Øvrelid"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.aacl-main.18",
+  "acl_url": "https://aclanthology.org/2022.aacl-main.18/"
+}

@@ -17,11 +17,12 @@
     "Portuguese",
     "Russian",
     "Japanese",
+    "Malay",
     "Marathi"
   ],
   "research_areas": [
-    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
-    "T15 Lexicon and Semantics"
+    "T24 Speech Resources and Processing",
+    "T13 Knowledge discovery/representation"
   ],
   "paper_id": "2022.lrec-1.114",
   "acl_url": "https://aclanthology.org/2022.lrec-1.114/"

@@ -1,0 +1,20 @@
+{
+  "title": "Question Answer Generation in Bengali: Mitigating the scarcity of QA datasets in a low-resource language",
+  "authors": [
+    "Md Shihab Shahriar",
+    "Ahmad Al Fayad Chowdhury",
+    "Md. Amimul Ehsan",
+    "Abu Raihan Kamal"
+  ],
+  "languages": [
+    "Bengali",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.ijcnlp-main.29",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-main.29/"
+}

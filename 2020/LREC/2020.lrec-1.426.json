@@ -1,0 +1,23 @@
+{
+  "title": "Semi-supervised Development of ASR Systems for Multilingual Code-switched Speech in Under-resourced Languages",
+  "authors": [
+    "Astik Biswas",
+    "Emre Yilmaz",
+    "Febe de Wet",
+    "Ewald van der Westhuizen",
+    "Thomas Niesler"
+  ],
+  "languages": [
+    "English",
+    "Zulu",
+    "Xhosa",
+    "Sesotho",
+    "Setswana"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2020.lrec-1.426",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.426/"
+}

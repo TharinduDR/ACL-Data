@@ -1,0 +1,32 @@
+{
+  "title": "How Universal are Universal Dependencies? Exploiting Syntax for Multilingual Clause-level Sentiment Detection",
+  "authors": [
+    "Hiroshi Kanayama",
+    "Ran Iwamoto"
+  ],
+  "languages": [
+    "Arabic",
+    "Czech",
+    "German",
+    "Spanish",
+    "Finnish",
+    "French",
+    "Hebrew",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Dutch",
+    "Portuguese",
+    "Russian",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.lrec-1.500",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.500/"
+}

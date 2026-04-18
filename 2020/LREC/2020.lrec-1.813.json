@@ -1,0 +1,29 @@
+{
+  "title": "Gender Representation in Open Source Speech Resources",
+  "authors": [
+    "Mahault Garnerin",
+    "Solange Rossato",
+    "Laurent Besacier"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "French",
+    "Portuguese",
+    "Cantonese",
+    "Arabic",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.lrec-1.813",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.813/"
+}

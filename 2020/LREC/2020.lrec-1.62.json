@@ -1,0 +1,22 @@
+{
+  "title": "Emotional Speech Corpus for Persuasive Dialogue System",
+  "authors": [
+    "Sara Asai",
+    "Koichiro Yoshino",
+    "Seitaro Shinagawa",
+    "Sakriani Sakti",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.lrec-1.62",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.62/"
+}

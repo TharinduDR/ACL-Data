@@ -1,0 +1,28 @@
+{
+  "title": "The CLARIN Knowledge Centre for Atypical Communication Expertise",
+  "authors": [
+    "Henk van den Heuvel",
+    "Nelleke Oostdijk",
+    "Caroline Rowland",
+    "Paul Trilsbeek"
+  ],
+  "languages": [
+    "Dutch",
+    "English",
+    "Polish",
+    "German",
+    "Turkish",
+    "Moroccan Arabic",
+    "Sranan",
+    "Sarnami",
+    "Papiamentu",
+    "Berber"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.lrec-1.405",
+  "acl_url": "https://aclanthology.org/2020.lrec-1.405/"
+}

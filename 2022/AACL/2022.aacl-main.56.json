@@ -1,0 +1,18 @@
+{
+  "title": "Low-Resource Multilingual and Zero-Shot Multispeaker TTS",
+  "authors": [
+    "Florian Lux",
+    "Julia Koch",
+    "Ngoc Thang Vu"
+  ],
+  "languages": [
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2022.aacl-main.56",
+  "acl_url": "https://aclanthology.org/2022.aacl-main.56/"
+}

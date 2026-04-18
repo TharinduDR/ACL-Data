@@ -1,0 +1,26 @@
+{
+  "title": "ProMap: Effective Bilingual Lexicon Induction via Language Model Prompting",
+  "authors": [
+    "Abdellah El Mekki",
+    "Muhammad Abdul-Mageed",
+    "El Moatez Billah Nagoudi",
+    "Ismail Berrada",
+    "Ahmed Khoumsi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Turkish",
+    "Italian",
+    "Russian",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.ijcnlp-main.39",
+  "acl_url": "https://aclanthology.org/2023.ijcnlp-main.39/"
+}

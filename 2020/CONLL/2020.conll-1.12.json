@@ -1,0 +1,19 @@
+{
+  "title": "A Corpus of Very Short Scientific Summaries",
+  "authors": [
+    "Yifan Chen",
+    "Tamara Polajnar",
+    "Colin Batchelor",
+    "Simone Teufel"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2020.conll-1.12",
+  "acl_url": "https://aclanthology.org/2020.conll-1.12/"
+}
