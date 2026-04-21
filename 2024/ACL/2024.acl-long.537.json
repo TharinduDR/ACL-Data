@@ -1,0 +1,25 @@
+{
+  "title": "POMP: Probability-driven Meta-graph Prompter for LLMs in Low-resource Unsupervised Neural Machine Translation",
+  "authors": [
+    "Shilong Pan",
+    "Zhiliang Tian",
+    "Liang Ding",
+    "Haoqi Zheng",
+    "Zhen Huang",
+    "Zhihua Wen",
+    "Dongsheng Li"
+  ],
+  "languages": [
+    "English",
+    "Gujarati",
+    "Kazakh",
+    "Nepali",
+    "Sinhala"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.537",
+  "acl_url": "https://aclanthology.org/2024.acl-long.537/"
+}

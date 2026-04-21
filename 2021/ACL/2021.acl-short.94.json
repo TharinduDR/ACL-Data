@@ -1,0 +1,21 @@
+{
+  "title": "Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction",
+  "authors": [
+    "Gyubok Lee",
+    "Seongjun Yang",
+    "Edward Choi"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Korean"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2021.acl-short.94",
+  "acl_url": "https://aclanthology.org/2021.acl-short.94/"
+}

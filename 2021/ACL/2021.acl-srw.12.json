@@ -1,0 +1,30 @@
+{
+  "title": "How do different factors Impact the Inter-language Similarity? A Case Study on Indian languages",
+  "authors": [
+    "Sourav Kumar",
+    "Salil Aggarwal",
+    "Dipty Misra Sharma",
+    "Radhika Mamidi"
+  ],
+  "languages": [
+    "Hindi",
+    "Urdu",
+    "Punjabi",
+    "Gujarati",
+    "Marathi",
+    "Bengali",
+    "Malayalam",
+    "Tamil",
+    "Telugu",
+    "Konkani",
+    "Oriya",
+    "Kannada"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-srw.12",
+  "acl_url": "https://aclanthology.org/2021.acl-srw.12/"
+}

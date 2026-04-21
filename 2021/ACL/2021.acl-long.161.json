@@ -1,0 +1,23 @@
+{
+  "title": "ChineseBERT: Chinese Pretraining Enhanced by Glyph and Pinyin Information",
+  "authors": [
+    "Zijun Sun",
+    "Xiaoya Li",
+    "Xiaofei Sun",
+    "Yuxian Meng",
+    "Xiang Ao",
+    "Qing He",
+    "Fei Wu",
+    "Jiwei Li"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.acl-long.161",
+  "acl_url": "https://aclanthology.org/2021.acl-long.161/"
+}

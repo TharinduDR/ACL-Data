@@ -1,0 +1,22 @@
+{
+  "title": "Model-Generated Pretraining Signals Improves Zero-Shot Generalization of Text-to-Text Transformers",
+  "authors": [
+    "Linyuan Gong",
+    "Chenyan Xiong",
+    "Xiaodong Liu",
+    "Payal Bajaj",
+    "Yiqing Xie",
+    "Alvin Cheung",
+    "Jianfeng Gao",
+    "Xia Song"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.724",
+  "acl_url": "https://aclanthology.org/2023.acl-long.724/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "LLMs Learn Task Heuristics from Demonstrations: A Heuristic-Driven Prompting Strategy for Document-Level Event Argument Extraction",
+  "authors": [
+    "Hanzhang Zhou",
+    "Junlang Qian",
+    "Zijian Feng",
+    "Hui Lu",
+    "Zixiao Zhu",
+    "Kezhi Mao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.acl-long.647",
+  "acl_url": "https://aclanthology.org/2024.acl-long.647/"
+}

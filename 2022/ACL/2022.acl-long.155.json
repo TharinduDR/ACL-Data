@@ -1,0 +1,24 @@
+{
+  "title": "Headed-Span-Based Projective Dependency Parsing",
+  "authors": [
+    "Songlin Yang",
+    "Kewei Tu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Italian",
+    "Dutch",
+    "Norwegian",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.acl-long.155",
+  "acl_url": "https://aclanthology.org/2022.acl-long.155/"
+}

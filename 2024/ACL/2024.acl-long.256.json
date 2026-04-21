@@ -1,0 +1,19 @@
+{
+  "title": "NextLevelBERT: Masked Language Modeling with Higher-Level Representations for Long Documents",
+  "authors": [
+    "Tamara Czinczoll",
+    "Christoph Hönes",
+    "Maximilian Schall",
+    "Gerard de Melo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.acl-long.256",
+  "acl_url": "https://aclanthology.org/2024.acl-long.256/"
+}

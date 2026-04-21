@@ -1,0 +1,25 @@
+{
+  "title": "bert2BERT: Towards Reusable Pretrained Language Models",
+  "authors": [
+    "Cheng Chen",
+    "Yichun Yin",
+    "Lifeng Shang",
+    "Xin Jiang",
+    "Yujia Qin",
+    "Fengyu Wang",
+    "Zhi Wang",
+    "Xiao Chen",
+    "Zhiyuan Liu",
+    "Qun Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.acl-long.151",
+  "acl_url": "https://aclanthology.org/2022.acl-long.151/"
+}

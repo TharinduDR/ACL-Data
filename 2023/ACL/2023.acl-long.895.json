@@ -1,0 +1,21 @@
+{
+  "title": "FACTKG: Fact Verification via Reasoning on Knowledge Graphs",
+  "authors": [
+    "Jiho Kim",
+    "Sungjin Park",
+    "Yeonsu Kwon",
+    "Yohan Jo",
+    "James Thorne",
+    "Edward Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.acl-long.895",
+  "acl_url": "https://aclanthology.org/2023.acl-long.895/"
+}

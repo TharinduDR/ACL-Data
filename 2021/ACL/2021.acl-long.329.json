@@ -1,0 +1,22 @@
+{
+  "title": "Probing Toxic Content in Large Pre-Trained Language Models",
+  "authors": [
+    "Nedjma Ousidhoum",
+    "Xinran Zhao",
+    "Tianqing Fang",
+    "Yangqiu Song",
+    "Dit-Yan Yeung"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.acl-long.329",
+  "acl_url": "https://aclanthology.org/2021.acl-long.329/"
+}

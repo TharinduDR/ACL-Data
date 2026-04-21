@@ -1,0 +1,30 @@
+{
+  "title": "Multilingual Agreement for Multilingual Neural Machine Translation",
+  "authors": [
+    "Jian Yang",
+    "Yuwei Yin",
+    "Shuming Ma",
+    "Haoyang Huang",
+    "Dongdong Zhang",
+    "Zhoujun Li",
+    "Furu Wei"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Czech",
+    "German",
+    "Finnish",
+    "Latvian",
+    "Estonian",
+    "Romanian",
+    "Hindi",
+    "Turkish",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.acl-short.31",
+  "acl_url": "https://aclanthology.org/2021.acl-short.31/"
+}

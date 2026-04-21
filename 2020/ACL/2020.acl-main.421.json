@@ -1,0 +1,32 @@
+{
+  "title": "On the Cross-lingual Transferability of Monolingual Representations",
+  "authors": [
+    "Mikel Artetxe",
+    "Sebastian Ruder",
+    "Dani Yogatama"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Estonian",
+    "Bulgarian",
+    "Russian",
+    "Turkish",
+    "Arabic",
+    "Vietnamese",
+    "Thai",
+    "Chinese",
+    "Hindi",
+    "Swahili",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.acl-main.421",
+  "acl_url": "https://aclanthology.org/2020.acl-main.421/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "TURING: an Accurate and Interpretable Multi-Hypothesis Cross-Domain Natural Language Database Interface",
+  "authors": [
+    "Peng Xu",
+    "Wenjie Zi",
+    "Hamidreza Shahidi",
+    "Ákos Kádár",
+    "Keyi Tang",
+    "Wei Yang",
+    "Jawad Ateeq",
+    "Harsh Barot",
+    "Meidan Alon",
+    "Yanshuai Cao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2021.acl-demo.36",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.36/"
+}

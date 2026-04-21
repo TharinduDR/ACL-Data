@@ -1,0 +1,21 @@
+{
+  "title": "ReTraCk: A Flexible and Efficient Framework for Knowledge Base Question Answering",
+  "authors": [
+    "Shuang Chen",
+    "Qian Liu",
+    "Zhiwei Yu",
+    "Chin-Yew Lin",
+    "Jian-Guang Lou",
+    "Feng Jiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-demo.39",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.39/"
+}

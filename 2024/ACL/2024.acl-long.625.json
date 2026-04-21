@@ -1,0 +1,27 @@
+{
+  "title": "SAPT: A Shared Attention Framework for Parameter-Efficient Continual Learning of Large Language Models",
+  "authors": [
+    "Weixiang Zhao",
+    "Shilong Wang",
+    "Yulin Hu",
+    "Yanyan Zhao",
+    "Bing Qin",
+    "Xuanyu Zhang",
+    "Qing Yang",
+    "Dongliang Xu",
+    "Wanxiang Che"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering",
+    "T11 Information Extraction",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.acl-long.625",
+  "acl_url": "https://aclanthology.org/2024.acl-long.625/"
+}

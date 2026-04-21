@@ -1,0 +1,26 @@
+{
+  "title": "Hybrid Knowledge Transfer for Improved Cross-Lingual Event Detection via Hierarchical Sample Selection",
+  "authors": [
+    "Luis F. Guzman-Nateras",
+    "Franck Dernoncourt",
+    "Thien Huu Nguyen"
+  ],
+  "languages": [
+    "Chinese",
+    "Arabic",
+    "Spanish",
+    "English",
+    "Hindi",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.296",
+  "acl_url": "https://aclanthology.org/2023.acl-long.296/"
+}

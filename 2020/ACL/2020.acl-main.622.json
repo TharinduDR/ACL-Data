@@ -1,0 +1,19 @@
+{
+  "title": "CorefQA: Coreference Resolution as Query-based Span Prediction",
+  "authors": [
+    "Wei Wu",
+    "Fei Wang",
+    "Arianna Yuan",
+    "Fei Wu",
+    "Jiwei Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2020.acl-main.622",
+  "acl_url": "https://aclanthology.org/2020.acl-main.622/"
+}

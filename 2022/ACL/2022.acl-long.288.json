@@ -1,0 +1,30 @@
+{
+  "title": "Cross-Linguual Phrase Retrieval",
+  "authors": [
+    "Heqi Zheng",
+    "Xiao Zhang",
+    "Zewen Chi",
+    "Heyan Huang",
+    "Tan Yan",
+    "Tian Lan",
+    "Wei Wei",
+    "Xian-Ling Mao"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.acl-long.288",
+  "acl_url": "https://aclanthology.org/2022.acl-long.288/"
+}

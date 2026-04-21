@@ -1,0 +1,23 @@
+{
+  "title": "Understanding Factual Errors in Summarization: Errors, Summarizers, Datasets, Error Detectors",
+  "authors": [
+    "Liyan Tang",
+    "Tanya Goyal",
+    "Alexander R. Fabbri",
+    "Philippe Laban",
+    "Jiacheng Xu",
+    "Semih Yavuz",
+    "Wojciech Kryściński",
+    "Justin F. Rousseau",
+    "Greg Durrett"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.650",
+  "acl_url": "https://aclanthology.org/2023.acl-long.650/"
+}

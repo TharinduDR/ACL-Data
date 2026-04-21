@@ -1,0 +1,22 @@
+{
+  "title": "MELoRA: Mini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning",
+  "authors": [
+    "Pengjie Ren",
+    "Chengshun Shi",
+    "Shiguang Wu",
+    "Mengqi Zhang",
+    "Zhaochun Ren",
+    "Maarten de Rijke",
+    "Zhumin Chen",
+    "Jiahuan Pei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.168",
+  "acl_url": "https://aclanthology.org/2024.acl-long.168/"
+}

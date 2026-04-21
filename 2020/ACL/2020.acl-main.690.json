@@ -1,0 +1,19 @@
+{
+  "title": "Reducing Gender Bias in Neural Machine Translation as a Domain Adaptation Problem",
+  "authors": [
+    "Danielle Saunders",
+    "Bill Byrne"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.acl-main.690",
+  "acl_url": "https://aclanthology.org/2020.acl-main.690/"
+}

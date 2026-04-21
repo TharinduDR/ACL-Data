@@ -1,0 +1,27 @@
+{
+  "title": "Can a Transformer Pass the Wug Test? Tuning Copying Bias in Neural Morphological Inflection Models",
+  "authors": [
+    "Ling Liu",
+    "Mans Hulden"
+  ],
+  "languages": [
+    "Czech",
+    "Finnish",
+    "German",
+    "Russian",
+    "Spanish",
+    "Turkish",
+    "Akan",
+    "Ga",
+    "Lingala",
+    "Nyanja",
+    "Southern Sotho",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.acl-short.84",
+  "acl_url": "https://aclanthology.org/2022.acl-short.84/"
+}

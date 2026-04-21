@@ -1,0 +1,22 @@
+{
+  "title": "QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback-based Self-Correction",
+  "authors": [
+    "Xiang Huang",
+    "Sitao Cheng",
+    "Shanshan Huang",
+    "Jiayu Shen",
+    "Yong Xu",
+    "Chaoyun Zhang",
+    "Yuzhong Qu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.acl-long.274",
+  "acl_url": "https://aclanthology.org/2024.acl-long.274/"
+}

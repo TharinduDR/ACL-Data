@@ -1,0 +1,25 @@
+{
+  "title": "Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models",
+  "authors": [
+    "Sumanta Bhattacharyya",
+    "Amirmohammad Rooshenas",
+    "Subhajit Naskar",
+    "Simeng Sun",
+    "Mohit Iyyer",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "French",
+    "Romanian",
+    "Italian",
+    "Sinhala",
+    "Nepali"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.acl-long.349",
+  "acl_url": "https://aclanthology.org/2021.acl-long.349/"
+}

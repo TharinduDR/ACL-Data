@@ -1,0 +1,23 @@
+{
+  "title": "Divide, Conquer, and Combine: Mixture of Semantic-Independent Experts for Zero-Shot Dialogue State Tracking",
+  "authors": [
+    "Qingyue Wang",
+    "Liang Ding",
+    "Yanan Cao",
+    "Yibing Zhan",
+    "Zheng Lin",
+    "Shi Wang",
+    "Dacheng Tao",
+    "Li Guo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.acl-long.114",
+  "acl_url": "https://aclanthology.org/2023.acl-long.114/"
+}

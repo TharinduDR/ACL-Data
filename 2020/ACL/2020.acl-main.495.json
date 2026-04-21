@@ -1,0 +1,22 @@
+{
+  "title": "Obtaining Faithful Interpretations from Compositional Neural Networks",
+  "authors": [
+    "Sanjay Subramanian",
+    "Ben Bogin",
+    "Nitish Gupta",
+    "Tomer Wolfson",
+    "Sameer Singh",
+    "Jonathan Berant",
+    "Matt Gardner"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2020.acl-main.495",
+  "acl_url": "https://aclanthology.org/2020.acl-main.495/"
+}

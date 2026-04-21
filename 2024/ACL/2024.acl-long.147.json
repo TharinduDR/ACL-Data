@@ -1,0 +1,21 @@
+{
+  "title": "CopyNE: Better Contextual ASR by Copying Named Entities",
+  "authors": [
+    "Shilin Zhou",
+    "Zhenghua Li",
+    "Yu Hong",
+    "Min Zhang",
+    "Zhefeng Wang",
+    "Baoxing Huai"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.acl-long.147",
+  "acl_url": "https://aclanthology.org/2024.acl-long.147/"
+}

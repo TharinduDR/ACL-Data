@@ -1,0 +1,27 @@
+{
+  "title": "Few-shot Controllable Style Transfer for Low-Resource Multilingual Settings",
+  "authors": [
+    "Kalpesh Krishna",
+    "Deepak Nathani",
+    "Xavier Garcia",
+    "Bidisha Samanta",
+    "Partha Talukdar"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Kannada",
+    "Telugu",
+    "Gujarati",
+    "Swahili",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.514",
+  "acl_url": "https://aclanthology.org/2022.acl-long.514/"
+}

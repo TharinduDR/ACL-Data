@@ -1,0 +1,20 @@
+{
+  "title": "SPoT: Better Frozen Model Adaptation through Soft Prompt Transfer",
+  "authors": [
+    "Tu Vu",
+    "Brian Lester",
+    "Noah Constant",
+    "Rami Al-Rfou",
+    "Daniel Cer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.acl-long.346",
+  "acl_url": "https://aclanthology.org/2022.acl-long.346/"
+}

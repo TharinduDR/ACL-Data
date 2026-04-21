@@ -1,0 +1,22 @@
+{
+  "title": "Distilling Knowledge Learned in BERT for Text Generation",
+  "authors": [
+    "Yen-Chun Chen",
+    "Zhe Gan",
+    "Yu Cheng",
+    "Jingzhou Liu",
+    "Jingjing Liu"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2020.acl-main.705",
+  "acl_url": "https://aclanthology.org/2020.acl-main.705/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Don't Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training",
+  "authors": [
+    "Margaret Li",
+    "Stephen Roller",
+    "Ilia Kulikov",
+    "Sean Welleck",
+    "Y-Lan Boureau",
+    "Kyunghyun Cho",
+    "Jason Weston"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.acl-main.428",
+  "acl_url": "https://aclanthology.org/2020.acl-main.428/"
+}

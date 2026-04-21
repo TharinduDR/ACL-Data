@@ -1,0 +1,21 @@
+{
+  "title": "Revisiting the Context Window for Cross-lingual Word Embeddings",
+  "authors": [
+    "Ryokan Ri",
+    "Yoshimasa Tsuruoka"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-main.94",
+  "acl_url": "https://aclanthology.org/2020.acl-main.94/"
+}

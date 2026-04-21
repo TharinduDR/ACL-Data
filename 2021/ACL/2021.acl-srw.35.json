@@ -1,0 +1,19 @@
+{
+  "title": "On the differences between BERT and MT encoder spaces and how to address them in translation tasks",
+  "authors": [
+    "Raúl Vázquez",
+    "Hande Celikkanat",
+    "Mathias Creutz",
+    "Jörg Tiedemann"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2021.acl-srw.35",
+  "acl_url": "https://aclanthology.org/2021.acl-srw.35/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Pretrained Bidirectional Distillation for Machine Translation",
+  "authors": [
+    "Yimeng Zhuang",
+    "Mei Tu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Arabic",
+    "Chinese",
+    "Portuguese",
+    "Russian",
+    "Swahili",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2023.acl-long.63",
+  "acl_url": "https://aclanthology.org/2023.acl-long.63/"
+}

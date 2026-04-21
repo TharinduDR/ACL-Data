@@ -1,0 +1,29 @@
+{
+  "title": "Overlap-based Vocabulary Generation Improves Cross-lingual Transfer Among Related Languages",
+  "authors": [
+    "Vaidehi Patil",
+    "Partha Talukdar",
+    "Sunita Sarawagi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Dutch",
+    "Western Frisian",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Italian",
+    "Hindi",
+    "Marathi",
+    "Punjabi",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.acl-long.18",
+  "acl_url": "https://aclanthology.org/2022.acl-long.18/"
+}

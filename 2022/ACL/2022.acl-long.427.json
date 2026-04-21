@@ -1,0 +1,30 @@
+{
+  "title": "XLM-E: Cross-lingual Language Model Pre-training via ELECTRA",
+  "authors": [
+    "Zewen Chi",
+    "Shaohan Huang",
+    "Li Dong",
+    "Shuming Ma",
+    "Bo Zheng",
+    "Saksham Singhal",
+    "Payal Bajaj",
+    "Xia Song",
+    "Xian-Ling Mao",
+    "Heyan Huang",
+    "Furu Wei"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Hindi",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.427",
+  "acl_url": "https://aclanthology.org/2022.acl-long.427/"
+}

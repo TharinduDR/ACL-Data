@@ -1,0 +1,21 @@
+{
+  "title": "ParaAMR: A Large-Scale Syntactically Diverse Paraphrase Dataset by AMR Back-Translation",
+  "authors": [
+    "Kuan-Hao Huang",
+    "Varun Iyer",
+    "I-Hung Hsu",
+    "Anoop Kumar",
+    "Kai-Wei Chang",
+    "Aram Galstyan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.acl-long.447",
+  "acl_url": "https://aclanthology.org/2023.acl-long.447/"
+}

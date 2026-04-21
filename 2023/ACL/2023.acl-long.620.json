@@ -1,0 +1,23 @@
+{
+  "title": "Multitask Pretraining with Structured Knowledge for Text-to-SQL Generation",
+  "authors": [
+    "Robert Giaquinto",
+    "Dejiao Zhang",
+    "Benjamin Kleiner",
+    "Yang Li",
+    "Ming Tan",
+    "Parminder Bhatia",
+    "Ramesh Nallapati",
+    "Xiaofei Ma"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2023.acl-long.620",
+  "acl_url": "https://aclanthology.org/2023.acl-long.620/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "MINER: Improving Out-of-Vocabulary Named Entity Recognition from an Information Theoretic Perspective",
+  "authors": [
+    "Xiao Wang",
+    "Shihan Dou",
+    "Limao Xiong",
+    "Yicheng Zou",
+    "Qi Zhang",
+    "Tao Gui",
+    "Liang Qiao",
+    "Zhanzhan Cheng",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.acl-long.383",
+  "acl_url": "https://aclanthology.org/2022.acl-long.383/"
+}

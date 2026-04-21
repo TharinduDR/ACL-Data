@@ -1,0 +1,26 @@
+{
+  "title": "T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step",
+  "authors": [
+    "Zehui Chen",
+    "Weihua Du",
+    "Wenwei Zhang",
+    "Kuikun Liu",
+    "Jiangning Liu",
+    "Miao Zheng",
+    "Jingming Zhuo",
+    "Songyang Zhang",
+    "Dahua Lin",
+    "Kai Chen",
+    "Feng Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.acl-long.515",
+  "acl_url": "https://aclanthology.org/2024.acl-long.515/"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Analysis of Multi-Source Language Training in Cross-Lingual Transfer",
+  "authors": [
+    "Seong Hoon Lim",
+    "Taejun Yun",
+    "Jinhyeon Kim",
+    "Jihun Choi",
+    "Taeuk Kim"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "German",
+    "French",
+    "Russian",
+    "Indonesian",
+    "Korean",
+    "Spanish",
+    "Portuguese",
+    "Japanese",
+    "Thai",
+    "Turkish",
+    "Swahili",
+    "Hindi",
+    "Burmese",
+    "Basque",
+    "Finnish",
+    "Hebrew",
+    "Greek",
+    "Urdu",
+    "Vietnamese",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.42",
+  "acl_url": "https://aclanthology.org/2024.acl-long.42/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and Two-Phase Partition",
+  "authors": [
+    "Lu Ye",
+    "Ze Tao",
+    "Yong Huang",
+    "Yang Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.acl-long.623",
+  "acl_url": "https://aclanthology.org/2024.acl-long.623/"
+}

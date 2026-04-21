@@ -1,0 +1,28 @@
+{
+  "title": "LANDeRMT: Detecting and Routing Language-Aware Neurons for Selectively Finetuning LLMs to Machine Translation",
+  "authors": [
+    "Shaolin Zhu",
+    "Leiyu Pan",
+    "Bo Li",
+    "Deyi Xiong"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese",
+    "Arabic",
+    "Italian",
+    "Portuguese",
+    "Spanish",
+    "Russian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.acl-long.656",
+  "acl_url": "https://aclanthology.org/2024.acl-long.656/"
+}

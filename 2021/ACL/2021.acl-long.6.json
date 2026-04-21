@@ -1,0 +1,24 @@
+{
+  "title": "DeepRapper: Neural Rap Generation with Rhyme and Rhythm Modeling",
+  "authors": [
+    "Lanqing Xue",
+    "Kaitao Song",
+    "Duocai Wu",
+    "Xu Tan",
+    "Nevin L. Zhang",
+    "Tao Qin",
+    "Wei-Qiang Zhang",
+    "Tie-Yan Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.acl-long.6",
+  "acl_url": "https://aclanthology.org/2021.acl-long.6/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Dialect-robust Evaluation of Generated Text",
+  "authors": [
+    "Jiao Sun",
+    "Thibault Sellam",
+    "Elizabeth Clark",
+    "Tu Vu",
+    "Timothy Dozat",
+    "Dan Garrette",
+    "Aditya Siddhant",
+    "Jacob Eisenstein",
+    "Sebastian Gehrmann"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.331",
+  "acl_url": "https://aclanthology.org/2023.acl-long.331/"
+}

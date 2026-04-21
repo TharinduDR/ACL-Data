@@ -1,0 +1,23 @@
+{
+  "title": "What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages",
+  "authors": [
+    "Nadav Borenstein",
+    "Anej Svete",
+    "Robin Shing Moon Chan",
+    "Josef Valvoda",
+    "Franz Nowak",
+    "Isabelle Augenstein",
+    "Eleanor Chodroff",
+    "Ryan Cotterell"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.807",
+  "acl_url": "https://aclanthology.org/2024.acl-long.807/"
+}

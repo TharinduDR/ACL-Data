@@ -1,0 +1,28 @@
+{
+  "title": "Zero-shot Cross-lingual Transfer With Learned Projections Using Unlabeled Target-Language Data",
+  "authors": [
+    "Ujan Deb",
+    "Ridayesh Parab",
+    "Preethi Jyothi"
+  ],
+  "languages": [
+    "Hindi",
+    "Vietnamese",
+    "German",
+    "Indonesian",
+    "Icelandic",
+    "Ilocano",
+    "Swahili",
+    "Burmese",
+    "Javanese",
+    "Quechua",
+    "Guarani"
+  ],
+  "research_areas": [
+    "T11",
+    "T10",
+    "T14"
+  ],
+  "paper_id": "2023.acl-short.39",
+  "acl_url": "https://aclanthology.org/2023.acl-short.39/"
+}

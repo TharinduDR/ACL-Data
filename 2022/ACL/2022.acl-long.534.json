@@ -1,0 +1,25 @@
+{
+  "title": "LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding",
+  "authors": [
+    "Jiapeng Wang",
+    "Lianwen Jin",
+    "Kai Ding"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "Spanish",
+    "French",
+    "Italian",
+    "German",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.acl-long.534",
+  "acl_url": "https://aclanthology.org/2022.acl-long.534/"
+}

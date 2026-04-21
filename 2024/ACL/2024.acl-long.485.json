@@ -1,0 +1,22 @@
+{
+  "title": "StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning",
+  "authors": [
+    "Shaolei Zhang",
+    "Qingkai Fang",
+    "Shoutao Guo",
+    "Zhengrui Ma",
+    "Min Zhang",
+    "Yang Feng"
+  ],
+  "languages": [
+    "French",
+    "Spanish",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.acl-long.485",
+  "acl_url": "https://aclanthology.org/2024.acl-long.485/"
+}

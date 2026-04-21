@@ -1,0 +1,21 @@
+{
+  "title": "Zshot: An Open-source Framework for Zero-Shot Named Entity Recognition and Relation Extraction",
+  "authors": [
+    "Gabriele Picco",
+    "Marcos Martinez Galindo",
+    "Alberto Purpura",
+    "Leopold Fuchs",
+    "Vanessa Lopez",
+    "Hoang Thanh Lam"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-demo.34",
+  "acl_url": "https://aclanthology.org/2023.acl-demo.34/"
+}

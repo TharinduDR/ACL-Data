@@ -1,0 +1,23 @@
+{
+  "title": "Document-Level Machine Translation with Large-Scale Public Parallel Corpora",
+  "authors": [
+    "Proyag Pal",
+    "Alexandra Birch",
+    "Kenneth Heafield"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Czech",
+    "Polish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T05 Discourse and Pragmatics"
+  ],
+  "paper_id": "2024.acl-long.712",
+  "acl_url": "https://aclanthology.org/2024.acl-long.712/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Lightweight reranking for language model generations",
+  "authors": [
+    "Siddhartha Jain",
+    "Xiaofei Ma",
+    "Anoop Deoras",
+    "Bing Xiang"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.acl-long.376",
+  "acl_url": "https://aclanthology.org/2024.acl-long.376/"
+}

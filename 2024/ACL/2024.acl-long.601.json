@@ -1,0 +1,23 @@
+{
+  "title": "Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool-Use",
+  "authors": [
+    "Yuhan Chen",
+    "Ang Lv",
+    "Ting-En Lin",
+    "Changyu Chen",
+    "Yuchuan Wu",
+    "Fei Huang",
+    "Yongbin Li",
+    "Rui Yan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.acl-long.601",
+  "acl_url": "https://aclanthology.org/2024.acl-long.601/"
+}

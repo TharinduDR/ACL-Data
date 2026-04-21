@@ -1,0 +1,24 @@
+{
+  "title": "DQ-BART: Efficient Sequence-to-Sequence Model via Joint Distillation and Quantization",
+  "authors": [
+    "Zheng Li",
+    "Zijian Wang",
+    "Ming Tan",
+    "Ramesh Nallapati",
+    "Parminder Bhatia",
+    "Andrew Arnold",
+    "Bing Xiang",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2022.acl-short.22",
+  "acl_url": "https://aclanthology.org/2022.acl-short.22/"
+}

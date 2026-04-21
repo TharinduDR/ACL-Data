@@ -1,0 +1,31 @@
+{
+  "title": "Should All Cross-Lingual Embeddings Speak English?",
+  "authors": [
+    "Antonios Anastasopoulos",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Czech",
+    "Azerbaijani",
+    "Belarusian",
+    "Galician",
+    "Russian",
+    "Slovak",
+    "Spanish",
+    "Turkish",
+    "French",
+    "Hindi",
+    "Korean",
+    "Swedish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.acl-main.766",
+  "acl_url": "https://aclanthology.org/2020.acl-main.766/"
+}

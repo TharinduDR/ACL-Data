@@ -1,0 +1,32 @@
+{
+  "title": "ESPnet-ST-v2: Multipurpose Spoken Language Translation Toolkit",
+  "authors": [
+    "Brian Yan",
+    "Jiatong Shi",
+    "Yun Tang",
+    "Hirofumi Inaguma",
+    "Yifan Peng",
+    "Siddharth Dalmia",
+    "Peter Polák",
+    "Patrick Fernandes",
+    "Dan Berrebi",
+    "Tomoki Hayashi",
+    "Xiaohui Zhang",
+    "Zhaocheng Ni",
+    "Moto Hira",
+    "Soumi Maiti",
+    "Juan Pino",
+    "Shinji Watanabe"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.acl-demo.38",
+  "acl_url": "https://aclanthology.org/2023.acl-demo.38/"
+}

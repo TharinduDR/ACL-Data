@@ -1,0 +1,27 @@
+{
+  "title": "Simple and Effective Unsupervised Speech Translation",
+  "authors": [
+    "Changhan Wang",
+    "Hirofumi Inaguma",
+    "Peng-Jen Chen",
+    "Ilia Kulikov",
+    "Yun Tang",
+    "Wei-Ning Hsu",
+    "Michael Auli",
+    "Juan Pino"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Russian",
+    "Estonian",
+    "Latvian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.acl-long.602",
+  "acl_url": "https://aclanthology.org/2023.acl-long.602/"
+}

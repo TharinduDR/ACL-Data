@@ -1,0 +1,19 @@
+{
+  "title": "From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text",
+  "authors": [
+    "Ishan Tarunesh",
+    "Syamantak Kumar",
+    "Preethi Jyothi"
+  ],
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.acl-long.245",
+  "acl_url": "https://aclanthology.org/2021.acl-long.245/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "CoLaDa: A Collaborative Label Denoising Framework for Cross-lingual Named Entity Recognition",
+  "authors": [
+    "Tingting Ma",
+    "Qianhui Wu",
+    "Huiqiang Jiang",
+    "Börje F. Karlsson",
+    "Tiejun Zhao",
+    "Chin-Yew Lin"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Dutch",
+    "Arabic",
+    "Hindi",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.acl-long.330",
+  "acl_url": "https://aclanthology.org/2023.acl-long.330/"
+}

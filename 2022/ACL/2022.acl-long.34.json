@@ -1,0 +1,34 @@
+{
+  "title": "Fantastic Questions and Where to Find Them: FAIRYTALEQA – An Authentic Dataset for Narrative Comprehension",
+  "authors": [
+    "Ying Xu",
+    "Dakuo Wang",
+    "Mo Yu",
+    "Daniel Ritchie",
+    "Bingsheng Yao",
+    "Tongshuang Wu",
+    "Zheng Zhang",
+    "Toby Jia-Jun Li",
+    "Nora Bradford",
+    "Branda Sun",
+    "Tran Bao Hoang",
+    "Yisi Sang",
+    "Yufang Hou",
+    "Xiaojuan Ma",
+    "Diyi Yang",
+    "Nanyun Peng",
+    "Zhou Yu",
+    "Mark Warschauer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2022.acl-long.34",
+  "acl_url": "https://aclanthology.org/2022.acl-long.34/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Evaluating Robustness to Input Perturbations for Neural Machine Translation",
+  "authors": [
+    "Xing Niu",
+    "Prashant Mathur",
+    "Georgiana Dinu",
+    "Yaser Al-Onaizan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Finnish",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.acl-main.755",
+  "acl_url": "https://aclanthology.org/2020.acl-main.755/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Language model acceptability judgements are not always robust to context",
+  "authors": [
+    "Koustuv Sinha",
+    "Jon Gauthier",
+    "Aaron Mueller",
+    "Kanishka Misra",
+    "Keren Fuentes",
+    "Roger Levy",
+    "Adina Williams"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.333",
+  "acl_url": "https://aclanthology.org/2023.acl-long.333/"
+}

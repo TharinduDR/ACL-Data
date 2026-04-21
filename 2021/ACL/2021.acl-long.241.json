@@ -1,0 +1,21 @@
+{
+  "title": "Database Reasoning Over Text",
+  "authors": [
+    "James Thorne",
+    "Majid Yazdani",
+    "Marzieh Saeidi",
+    "Fabrizio Silvestri",
+    "Sebastian Riedel",
+    "Alon Halevy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.acl-long.241",
+  "acl_url": "https://aclanthology.org/2021.acl-long.241/"
+}

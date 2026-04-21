@@ -1,0 +1,27 @@
+{
+  "title": "Uncertainty Estimation of Transformer Predictions for Misclassification Detection",
+  "authors": [
+    "Artem Vazhentsev",
+    "Gleb Kuzmin",
+    "Artem Shelmanov",
+    "Akim Tsvigun",
+    "Evgenii Tsybalov",
+    "Kirill Fedyanin",
+    "Maxim Panov",
+    "Alexander Panchenko",
+    "Gleb Gusev",
+    "Mikhail Burtsev",
+    "Manvel Avetisian",
+    "Leonid Zhukov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.acl-long.566",
+  "acl_url": "https://aclanthology.org/2022.acl-long.566/"
+}

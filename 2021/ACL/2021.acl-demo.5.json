@@ -1,0 +1,16 @@
+{
+  "title": "Inside ASCENT: Exploring a Deep Commonsense Knowledge Base and its Usage in Question Answering",
+  "authors": [
+    "Tuan-Phong Nguyen",
+    "Simon Razniewski",
+    "Gerhard Weikum"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.acl-demo.5",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.5/"
+}

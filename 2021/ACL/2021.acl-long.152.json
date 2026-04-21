@@ -1,0 +1,28 @@
+{
+  "title": "Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks",
+  "authors": [
+    "Weicheng Ma",
+    "Kai Zhang",
+    "Renze Lou",
+    "Lili Wang",
+    "Sorouch Vosoughi"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Hebrew",
+    "Japanese",
+    "Persian",
+    "German",
+    "Dutch",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.acl-long.152",
+  "acl_url": "https://aclanthology.org/2021.acl-long.152/"
+}

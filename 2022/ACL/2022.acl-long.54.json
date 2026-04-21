@@ -1,0 +1,22 @@
+{
+  "title": "It is AI's Turn to Ask Humans a Question: Question-Answer Pair Generation for Children's Story Books",
+  "authors": [
+    "Bingsheng Yao",
+    "Dakuo Wang",
+    "Tongshuang Wu",
+    "Zheng Zhang",
+    "Toby Jia-Jun Li",
+    "Mo Yu",
+    "Ying Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.54",
+  "acl_url": "https://aclanthology.org/2022.acl-long.54/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "EPT-X: An Expression-Pointer Transformer model that generates eXplanations for numbers",
+  "authors": [
+    "Bugeun Kim",
+    "Kyung Seo Ki",
+    "Sangkyu Rhim",
+    "Gahgene Gweon"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T29 NLP for education",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.305",
+  "acl_url": "https://aclanthology.org/2022.acl-long.305/"
+}

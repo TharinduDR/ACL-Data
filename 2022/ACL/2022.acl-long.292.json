@@ -1,0 +1,22 @@
+{
+  "title": "PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks",
+  "authors": [
+    "Yufei Wang",
+    "Can Xu",
+    "Qingfeng Sun",
+    "Huang Hu",
+    "Chongyang Tao",
+    "Xiubo Geng",
+    "Daxin Jiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.acl-long.292",
+  "acl_url": "https://aclanthology.org/2022.acl-long.292/"
+}

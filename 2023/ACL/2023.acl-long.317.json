@@ -1,0 +1,19 @@
+{
+  "title": "Simplicity Bias in Transformers and their Ability to Learn Sparse Boolean Functions",
+  "authors": [
+    "Satwik Bhattamishra",
+    "Arkil Patel",
+    "Varun Kanade",
+    "Phil Blunsom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.acl-long.317",
+  "acl_url": "https://aclanthology.org/2023.acl-long.317/"
+}

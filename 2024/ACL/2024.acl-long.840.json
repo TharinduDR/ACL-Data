@@ -1,0 +1,51 @@
+{
+  "title": "dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research",
+  "authors": [
+    "Luca Soldaini",
+    "Rodney Kinney",
+    "Akshita Bhagia",
+    "Dustin Schwenk",
+    "David Atkinson",
+    "Russell Author",
+    "Ben Bogin",
+    "Khyathi Chandu",
+    "Jennifer Dumas",
+    "Yanai Elazar",
+    "Valentin Hofmann",
+    "Ananya Harsh Jha",
+    "Sachin Kumar",
+    "Li Lucy",
+    "Xinxi Lyu",
+    "Nathan Lambert",
+    "Ian Magnusson",
+    "Jacob Morrison",
+    "Niklas Muennighoff",
+    "Aakanksha Naik",
+    "Crystal Nam",
+    "Matthew E. Peters",
+    "Abhilasha Ravichander",
+    "Kyle Richardson",
+    "Zejiang Shen",
+    "Emma Strubell",
+    "Nishant Subramani",
+    "Oyvind Tafjord",
+    "Pete Walsh",
+    "Luke Zettlemoyer",
+    "Noah A. Smith",
+    "Hannaneh Hajishirzi",
+    "Iz Beltagy",
+    "Dirk Groeneveld",
+    "Jesse Dodge",
+    "Kyle Lo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.840",
+  "acl_url": "https://aclanthology.org/2024.acl-long.840/"
+}

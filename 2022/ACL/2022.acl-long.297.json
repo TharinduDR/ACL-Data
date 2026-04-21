@@ -1,0 +1,21 @@
+{
+  "title": "LexGLUE: A Benchmark Dataset for Legal Language Understanding in English",
+  "authors": [
+    "Ilias Chalkidis",
+    "Abhik Jana",
+    "Dirk Hartung",
+    "Michael Bommarito",
+    "Ion Androutsopoulos",
+    "Daniel Martin Katz",
+    "Nikolaos Aletras"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.297",
+  "acl_url": "https://aclanthology.org/2022.acl-long.297/"
+}

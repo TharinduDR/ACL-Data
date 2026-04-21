@@ -1,0 +1,20 @@
+{
+  "title": "Evaluating Entity Disambiguation and the Role of Popularity in Retrieval-Based NLP",
+  "authors": [
+    "Anthony Chen",
+    "Pallavi Gudipati",
+    "Shayne Longpre",
+    "Xiao Ling",
+    "Sameer Singh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.acl-long.345",
+  "acl_url": "https://aclanthology.org/2021.acl-long.345/"
+}

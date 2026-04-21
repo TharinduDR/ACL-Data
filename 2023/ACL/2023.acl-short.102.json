@@ -1,0 +1,19 @@
+{
+  "title": "Latent Positional Information is in the Self-Attention Variance of Transformer Language Models Without Positional Embeddings",
+  "authors": [
+    "Ta-Chung Chi",
+    "Ting-Han Fan",
+    "Li-Wei Chen",
+    "Alexander I. Rudnicky",
+    "Peter J. Ramadge"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.acl-short.102",
+  "acl_url": "https://aclanthology.org/2023.acl-short.102/"
+}

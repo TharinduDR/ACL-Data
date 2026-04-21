@@ -1,0 +1,21 @@
+{
+  "title": "Automatic Machine Translation Evaluation using Source Language Inputs and Cross-lingual Language Model",
+  "authors": [
+    "Kosuke Takahashi",
+    "Katsuhito Sudoh",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.acl-main.327",
+  "acl_url": "https://aclanthology.org/2020.acl-main.327/"
+}

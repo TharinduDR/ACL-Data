@@ -1,0 +1,21 @@
+{
+  "title": "Improving Compositional Generalization with Self-Training for Data-to-Text Generation",
+  "authors": [
+    "Sanket Vaibhav Mehta",
+    "Jinfeng Rao",
+    "Yi Tay",
+    "Mihir Kale",
+    "Ankur P. Parikh",
+    "Emma Strubell"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2022.acl-long.289",
+  "acl_url": "https://aclanthology.org/2022.acl-long.289/"
+}

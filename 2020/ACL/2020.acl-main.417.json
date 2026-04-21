@@ -1,0 +1,38 @@
+{
+  "title": "ParaCrawl: Web-Scale Acquisition of Parallel Corpora",
+  "authors": [
+    "Marta Bañón",
+    "Pinzhen Chen",
+    "Barry Haddow",
+    "Kenneth Heafield",
+    "Hieu Hoang",
+    "Miquel Esplà-Gomis",
+    "Mikel Forcada",
+    "Amir Kamran",
+    "Faheem Kirefu",
+    "Philipp Koehn",
+    "Sergio Ortiz-Rojas",
+    "Leopoldo Pla",
+    "Gema Ramírez-Sánchez",
+    "Elsa Sarrías",
+    "Marek Strelec",
+    "Brian Thompson",
+    "William Waites",
+    "Dion Wiggins",
+    "Jaume Zaragoza"
+  ],
+  "languages": [
+    "German",
+    "Czech",
+    "Hungarian",
+    "Estonian",
+    "Maltese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.acl-main.417",
+  "acl_url": "https://aclanthology.org/2020.acl-main.417/"
+}

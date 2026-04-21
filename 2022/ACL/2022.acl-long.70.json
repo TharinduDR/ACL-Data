@@ -1,0 +1,38 @@
+{
+  "title": "Learning Disentangled Semantic Representations for Zero-Shot Cross-Lingual Transfer in Multilingual Machine Reading Comprehension",
+  "authors": [
+    "Linjuan Wu",
+    "Shaojuan Wu",
+    "Xiaowang Zhang",
+    "Deyi Xiong",
+    "Shizhan Chen",
+    "Zhiqiang Zhuang",
+    "Zhiyong Feng"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "German",
+    "Greek",
+    "Russian",
+    "Turkish",
+    "Vietnamese",
+    "Thai",
+    "Hindi",
+    "Romanian",
+    "Bengali",
+    "Finnish",
+    "Indonesian",
+    "Korean",
+    "Swahili",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.acl-long.70",
+  "acl_url": "https://aclanthology.org/2022.acl-long.70/"
+}

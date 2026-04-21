@@ -1,0 +1,26 @@
+{
+  "title": "An (unhelpful) guide to selecting the right ASR architecture for your under-resourced language",
+  "authors": [
+    "Robbie Jimerson",
+    "Zoey Liu",
+    "Emily Prud’hommeaux"
+  ],
+  "languages": [
+    "Bemba",
+    "Wolof",
+    "Swahili",
+    "Seneca",
+    "Fongbe",
+    "Iban",
+    "Hupa",
+    "Oneida",
+    "Quechua",
+    "Bribri",
+    "Guarani"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.acl-short.87",
+  "acl_url": "https://aclanthology.org/2023.acl-short.87/"
+}

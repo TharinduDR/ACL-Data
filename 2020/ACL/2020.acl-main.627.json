@@ -1,0 +1,23 @@
+{
+  "title": "Cross-Lingual Semantic Role Labeling with High-Quality Translated Training Corpus",
+  "authors": [
+    "Hao Fei",
+    "Meishan Zhang",
+    "Donghong Ji"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Spanish",
+    "Portuguese",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16",
+    "T21"
+  ],
+  "paper_id": "2020.acl-main.627",
+  "acl_url": "https://aclanthology.org/2020.acl-main.627/"
+}

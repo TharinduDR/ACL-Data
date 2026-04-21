@@ -1,0 +1,18 @@
+{
+  "title": "Ultra-Fine Entity Typing with Weak Supervision from a Masked Language Model",
+  "authors": [
+    "Hongliang Dai",
+    "Yangqiu Song",
+    "Haixun Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.acl-long.141",
+  "acl_url": "https://aclanthology.org/2021.acl-long.141/"
+}

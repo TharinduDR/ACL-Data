@@ -1,0 +1,20 @@
+{
+  "title": "Hard-Coded Gaussian Attention for Neural Machine Translation",
+  "authors": [
+    "Weiqui You",
+    "Simeng Sun",
+    "Mohit Iyyer"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian",
+    "French",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.acl-main.687",
+  "acl_url": "https://aclanthology.org/2020.acl-main.687/"
+}

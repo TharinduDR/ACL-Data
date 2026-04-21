@@ -1,0 +1,25 @@
+{
+  "title": "Eliciting Better Multilingual Structured Reasoning from LLMs through Code",
+  "authors": [
+    "Bryan Li",
+    "Tamer Alkhoul",
+    "Daniele Bonadiman",
+    "Nikolaos Pappas",
+    "Saab Mansour"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Chinese",
+    "Arabic",
+    "Japanese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T16 Machine Translation and Translation Aids",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2024.acl-long.281",
+  "acl_url": "https://aclanthology.org/2024.acl-long.281/"
+}

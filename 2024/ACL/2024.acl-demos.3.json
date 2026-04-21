@@ -1,0 +1,20 @@
+{
+  "title": "XNLP: An Interactive Demonstration System for Universal Structured NLP",
+  "authors": [
+    "Hao Fei",
+    "Meishan Zhang",
+    "Min Zhang",
+    "Tat-Seng Chua"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.acl-demos.3",
+  "acl_url": "https://aclanthology.org/2024.acl-demos.3/"
+}

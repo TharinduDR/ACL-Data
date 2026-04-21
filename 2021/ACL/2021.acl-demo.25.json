@@ -1,0 +1,18 @@
+{
+  "title": "Neural Extractive Search",
+  "authors": [
+    "Shauli Ravfogel",
+    "Hillel Taub-Tabib",
+    "Yoav Goldberg"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.acl-demo.25",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.25/"
+}

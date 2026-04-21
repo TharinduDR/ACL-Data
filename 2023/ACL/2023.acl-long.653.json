@@ -1,0 +1,37 @@
+{
+  "title": "BLOOM+1: Adding Language Support to BLOOM for Zero-Shot Prompting",
+  "authors": [
+    "Zheng-Xin Yong",
+    "Hailey Schoelkopf",
+    "Niklas Muennighoff",
+    "Alham Fikri Aji",
+    "David Ifeoluwa Adelani",
+    "Khalid Almubarak",
+    "M Saiful Bari",
+    "Lintang Sutawika",
+    "Jungo Kasai",
+    "Ahmed Baruwa",
+    "Genta Indra Winata",
+    "Stella Biderman",
+    "Edward Raff",
+    "Dragomir Radev",
+    "Vassilina Nikoulina"
+  ],
+  "languages": [
+    "German",
+    "Bulgarian",
+    "Russian",
+    "Greek",
+    "Turkish",
+    "Korean",
+    "Thai",
+    "Guarani"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2023.acl-long.653",
+  "acl_url": "https://aclanthology.org/2023.acl-long.653/"
+}

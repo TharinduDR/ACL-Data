@@ -1,0 +1,20 @@
+{
+  "title": "FIREBALL: A Dataset of Dungeons and Dragons Actual-Play with Structured Game State Information",
+  "authors": [
+    "Andrew Zhu",
+    "Karmanya Aggarwal",
+    "Alexander Feng",
+    "Lara J. Martin",
+    "Chris Callison-Burch"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.229",
+  "acl_url": "https://aclanthology.org/2023.acl-long.229/"
+}

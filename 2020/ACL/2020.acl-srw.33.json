@@ -1,0 +1,19 @@
+{
+  "title": "How much complexity does an RNN architecture need to learn syntax-sensitive dependencies?",
+  "authors": [
+    "Gantavya Bhatt",
+    "Hritik Bansal",
+    "Rishubh Singh",
+    "Sumeet Agarwal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2020.acl-srw.33",
+  "acl_url": "https://aclanthology.org/2020.acl-srw.33/"
+}

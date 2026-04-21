@@ -1,0 +1,23 @@
+{
+  "title": "Fine-Tuned Machine Translation Metrics Struggle in Unseen Domains",
+  "authors": [
+    "Vilém Zouhar",
+    "Shuoyang Ding",
+    "Anna Currey",
+    "Tatyana Badeka",
+    "Jenyuan Wang",
+    "Brian Thompson"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-short.45",
+  "acl_url": "https://aclanthology.org/2024.acl-short.45/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "GAIA: A Fine-grained Multimedia Knowledge Extraction System",
+  "authors": [
+    "Manling Li",
+    "Alireza Zareian",
+    "Ying Lin",
+    "Xiaoman Pan",
+    "Spencer Whitehead",
+    "Brian Chen",
+    "Bo Wu",
+    "Heng Ji",
+    "Shih-Fu Chang",
+    "Clare Voss",
+    "Daniel Napierski",
+    "Marjorie Freedman"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2020.acl-demos.11",
+  "acl_url": "https://aclanthology.org/2020.acl-demos.11/"
+}

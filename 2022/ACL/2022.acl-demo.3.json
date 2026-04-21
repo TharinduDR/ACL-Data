@@ -1,0 +1,25 @@
+{
+  "title": "ViLMedic: a framework for research at the intersection of vision and language in medical AI",
+  "authors": [
+    "Jean-Benoit Delbrouck",
+    "Khaled Saab",
+    "Maya Varma",
+    "Sabri Eyuboglu",
+    "Jared A. Dunnmon",
+    "Pierre Chambon",
+    "Juan Manuel Zambrano",
+    "Akshay Chaudhari",
+    "Curtis P. Langlotz"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.acl-demo.3",
+  "acl_url": "https://aclanthology.org/2022.acl-demo.3/"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resource Cross-Lingual NLP",
+  "authors": [
+    "M Saiful Bari",
+    "Tasnim Mohiuddin",
+    "Shafiq Joty"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Dutch",
+    "German",
+    "Arabic",
+    "Finnish",
+    "Urdu",
+    "Bengali",
+    "Burmese",
+    "Swahili",
+    "Hindi",
+    "Chinese",
+    "French",
+    "Japanese",
+    "Korean"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2021.acl-long.154",
+  "acl_url": "https://aclanthology.org/2021.acl-long.154/"
+}

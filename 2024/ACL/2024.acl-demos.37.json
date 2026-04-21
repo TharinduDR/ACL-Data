@@ -1,0 +1,41 @@
+{
+  "title": "LLMBox: A Comprehensive Library for Large Language Models",
+  "authors": [
+    "Tianyi Tang",
+    "Yiwen Hu",
+    "Bingqian Li",
+    "Wenyang Luo",
+    "Zijing Qin",
+    "Haoxiang Sun",
+    "Jiapeng Wang",
+    "Shiyi Xu",
+    "Xiaoxue Cheng",
+    "Geyang Guo",
+    "Han Peng",
+    "Bowen Zheng",
+    "Yiru Tang",
+    "Yingqian Min",
+    "Yushuo Chen",
+    "Jie Chen",
+    "Yuanqian Zhao",
+    "Luran Ding",
+    "Yuhao Wang",
+    "Zican Dong",
+    "Chunxuan Xia",
+    "Junyi Li",
+    "Kun Zhou",
+    "Wayne Xin Zhao",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.acl-demos.37",
+  "acl_url": "https://aclanthology.org/2024.acl-demos.37/"
+}

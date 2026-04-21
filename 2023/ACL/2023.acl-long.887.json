@@ -1,0 +1,39 @@
+{
+  "title": "XSEMPLR: Cross-Lingual Semantic Parsing in Multiple Natural Languages and Meaning Representations",
+  "authors": [
+    "Yusen Zhang",
+    "Jun Wang",
+    "Zhiguo Wang",
+    "Rui Zhang"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "Persian",
+    "Finnish",
+    "French",
+    "German",
+    "Hebrew",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Kannada",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Thai",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.acl-long.887",
+  "acl_url": "https://aclanthology.org/2023.acl-long.887/"
+}

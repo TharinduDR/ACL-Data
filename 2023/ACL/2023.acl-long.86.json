@@ -1,0 +1,18 @@
+{
+  "title": "GEC-DePenD: Non-Autoregressive Grammatical Error Correction with Decoupled Permutation and Decoding",
+  "authors": [
+    "Konstantin Yakovlev",
+    "Alexander Podolskiy",
+    "Andrey Bout",
+    "Sergey Nikolenko",
+    "Irina Piontkovskaya"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.acl-long.86",
+  "acl_url": "https://aclanthology.org/2023.acl-long.86/"
+}

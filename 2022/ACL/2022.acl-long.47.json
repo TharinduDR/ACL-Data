@@ -1,0 +1,20 @@
+{
+  "title": "AraT5: Text-to-Text Transformers for Arabic Language Generation",
+  "authors": [
+    "El Moatez Billah Nagoudi",
+    "AbdelRahim Elmadany",
+    "Muhammad Abdul-Mageed"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.acl-long.47",
+  "acl_url": "https://aclanthology.org/2022.acl-long.47/"
+}

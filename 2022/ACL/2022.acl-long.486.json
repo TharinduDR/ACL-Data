@@ -1,0 +1,28 @@
+{
+  "title": "STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation",
+  "authors": [
+    "Qingkai Fang",
+    "Rong Ye",
+    "Lei Li",
+    "Yang Feng",
+    "Mingxuan Wang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Spanish",
+    "Italian",
+    "Romanian",
+    "Portuguese",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.acl-long.486",
+  "acl_url": "https://aclanthology.org/2022.acl-long.486/"
+}

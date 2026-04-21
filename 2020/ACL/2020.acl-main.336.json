@@ -1,0 +1,26 @@
+{
+  "title": "Hypernymy Detection for Low-Resource Languages via Meta Learning",
+  "authors": [
+    "Changlong Yu",
+    "Jialong Han",
+    "Haisong Zhang",
+    "Wilfred Ng"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "Finnish",
+    "Italian",
+    "Thai",
+    "Japanese",
+    "Greek"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.acl-main.336",
+  "acl_url": "https://aclanthology.org/2020.acl-main.336/"
+}

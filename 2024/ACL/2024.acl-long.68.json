@@ -1,0 +1,22 @@
+{
+  "title": "ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base",
+  "authors": [
+    "Siyu Yuan",
+    "Jiangjie Chen",
+    "Changzhi Sun",
+    "Jiaqing Liang",
+    "Yanghua Xiao",
+    "Deqing Yang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.acl-long.68",
+  "acl_url": "https://aclanthology.org/2024.acl-long.68/"
+}

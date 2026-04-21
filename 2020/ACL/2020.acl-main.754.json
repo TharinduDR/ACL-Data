@@ -1,0 +1,32 @@
+{
+  "title": "Balancing Training for Multilingual Neural Machine Translation",
+  "authors": [
+    "Xinyi Wang",
+    "Yulia Tsvetkov",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "Azerbaijani",
+    "Belarusian",
+    "Glagolitic",
+    "Slovak",
+    "Turkish",
+    "Russian",
+    "Portuguese",
+    "Czech",
+    "Bosnian",
+    "Marathi",
+    "Hindi",
+    "Macedonian",
+    "Greek",
+    "Bulgarian",
+    "French",
+    "Korean"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.acl-main.754",
+  "acl_url": "https://aclanthology.org/2020.acl-main.754/"
+}

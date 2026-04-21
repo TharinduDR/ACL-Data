@@ -1,0 +1,22 @@
+{
+  "title": "P-Tuning: Prompt Tuning Can Be Comparable to Fine-tuning Across Scales and Tasks",
+  "authors": [
+    "Xiao Liu",
+    "Kaixuan Ji",
+    "Yicheng Fu",
+    "Weng Lam Tam",
+    "Zhengxiao Du",
+    "Zhilin Yang",
+    "Jie Tang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2022.acl-short.8",
+  "acl_url": "https://aclanthology.org/2022.acl-short.8/"
+}

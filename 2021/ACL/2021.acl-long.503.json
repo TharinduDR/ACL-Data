@@ -1,0 +1,22 @@
+{
+  "title": "BERTGEN: Multi-task Generation through BERT",
+  "authors": [
+    "Faidon Mitzalis",
+    "Ozan Caglayan",
+    "Pranava Madhyastha",
+    "Lucia Specia"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2021.acl-long.503",
+  "acl_url": "https://aclanthology.org/2021.acl-long.503/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Mitigating the Burden of Redundant Datasets via Batch-Wise Unique Samples and Frequency-Aware Losses",
+  "authors": [
+    "Donato Crisostomi",
+    "Andrea Caciolai",
+    "Alessandro Pedrani",
+    "Alessandro Manzotti",
+    "Enrico Palumbo",
+    "Kay Rottmann",
+    "Davide Bernardi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2023.acl-industry.23",
+  "acl_url": "https://aclanthology.org/2023.acl-industry.23/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Text Classification with Negative Supervision",
+  "authors": [
+    "Sora Ohashi",
+    "Junya Takayama",
+    "Tomoyuki Kajiwara",
+    "Chenhui Chu",
+    "Yuki Arase"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.acl-main.33",
+  "acl_url": "https://aclanthology.org/2020.acl-main.33/"
+}

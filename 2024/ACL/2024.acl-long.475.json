@@ -1,0 +1,32 @@
+{
+  "title": "KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction",
+  "authors": [
+    "Zixuan Li",
+    "Yutao Zeng",
+    "Yuxin Zuo",
+    "Weicheng Ren",
+    "Wenxuan Liu",
+    "Miao Su",
+    "Yucan Guo",
+    "Yantao Liu",
+    "Xiang Li",
+    "Zhilei Hu",
+    "Long Bai",
+    "Wei Li",
+    "Yidan Liu",
+    "Pan Yang",
+    "Xiaolong Jin",
+    "Jiafeng Guo",
+    "Xueqi Cheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.acl-long.475",
+  "acl_url": "https://aclanthology.org/2024.acl-long.475/"
+}

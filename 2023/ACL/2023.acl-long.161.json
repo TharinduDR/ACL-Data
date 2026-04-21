@@ -1,0 +1,21 @@
+{
+  "title": "Towards Stable Natural Language Understanding via Information Entropy Guided Debiasing",
+  "authors": [
+    "Li Du",
+    "Xiao Ding",
+    "Zhouhao Sun",
+    "Ting Liu",
+    "Bing Qin",
+    "Jingshuo Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.161",
+  "acl_url": "https://aclanthology.org/2023.acl-long.161/"
+}

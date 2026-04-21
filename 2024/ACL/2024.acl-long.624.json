@@ -1,0 +1,32 @@
+{
+  "title": "AlignBench: Benchmarking Chinese Alignment of Large Language Models",
+  "authors": [
+    "Xiao Liu",
+    "Xuanyu Lei",
+    "Shengyuan Wang",
+    "Yue Huang",
+    "Zhuoer Feng",
+    "Bosi Wen",
+    "Jiale Cheng",
+    "Pei Ke",
+    "Yifan Xu",
+    "Weng Lam Tam",
+    "Xiaohan Zhang",
+    "Lichao Sun",
+    "Xiaotao Gu",
+    "Hongning Wang",
+    "Jing Zhang",
+    "Minlie Huang",
+    "Yuxiao Dong",
+    "Jie Tang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.acl-long.624",
+  "acl_url": "https://aclanthology.org/2024.acl-long.624/"
+}

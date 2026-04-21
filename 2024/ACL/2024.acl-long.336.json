@@ -1,0 +1,23 @@
+{
+  "title": "The Fine-Tuning Paradox: Boosting Translation Quality Without Sacrificing LLM Abilities",
+  "authors": [
+    "David Stap",
+    "Eva Hasler",
+    "Bill Byrne",
+    "Christof Monz",
+    "Ke Tran"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.336",
+  "acl_url": "https://aclanthology.org/2024.acl-long.336/"
+}

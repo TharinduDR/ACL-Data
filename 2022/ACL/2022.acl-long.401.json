@@ -1,0 +1,21 @@
+{
+  "title": "Measuring Fairness of Text Classifiers via Prediction Sensitivity",
+  "authors": [
+    "Satyapriya Krishna",
+    "Rahul Gupta",
+    "Apurv Verma",
+    "Jwala Dhamala",
+    "Yada Pruksachatkun",
+    "Kai-Wei Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.401",
+  "acl_url": "https://aclanthology.org/2022.acl-long.401/"
+}

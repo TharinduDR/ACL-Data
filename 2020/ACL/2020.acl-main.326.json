@@ -1,0 +1,18 @@
+{
+  "title": "On Exposure Bias, Hallucination and Domain Shift in Neural Machine Translation",
+  "authors": [
+    "Chaojun Wang",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Romansh"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.acl-main.326",
+  "acl_url": "https://aclanthology.org/2020.acl-main.326/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Open-Domain Hierarchical Event Schema Induction by Incremental Prompting and Verification",
+  "authors": [
+    "Sha Li",
+    "Ruining Zhao",
+    "Manling Li",
+    "Heng Ji",
+    "Chris Callison-Burch",
+    "Jiawei Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.acl-long.312",
+  "acl_url": "https://aclanthology.org/2023.acl-long.312/"
+}

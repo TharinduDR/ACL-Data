@@ -1,0 +1,20 @@
+{
+  "title": "Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge",
+  "authors": [
+    "Yuanhe Tian",
+    "Yan Song",
+    "Xiang Ao",
+    "Fei Xia",
+    "Xiaojun Quan",
+    "Tong Zhang",
+    "Yonggang Wang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-main.735",
+  "acl_url": "https://aclanthology.org/2020.acl-main.735/"
+}

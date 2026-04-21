@@ -1,0 +1,25 @@
+{
+  "title": "Multi-VALUE: A Framework for Cross-Dialectal English NLP",
+  "authors": [
+    "Caleb Ziem",
+    "William Held",
+    "Jingfeng Yang",
+    "Jwala Dhamala",
+    "Rahul Gupta",
+    "Diyi Yang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Gujarati",
+    "Russian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.acl-long.44",
+  "acl_url": "https://aclanthology.org/2023.acl-long.44/"
+}

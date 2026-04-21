@@ -1,0 +1,43 @@
+{
+  "title": "Multilingual Speech Translation from Efficient Finetuning of Pretrained Models",
+  "authors": [
+    "Xian Li",
+    "Changhan Wang",
+    "Yun Tang",
+    "Chau Tran",
+    "Yuqing Tang",
+    "Juan Pino",
+    "Alexei Baevski",
+    "Alexis Conneau",
+    "Michael Auli"
+  ],
+  "languages": [
+    "Arabic",
+    "Catalan",
+    "Welsh",
+    "German",
+    "English",
+    "Estonian",
+    "Persian",
+    "French",
+    "Japanese",
+    "Indonesian",
+    "Italian",
+    "Latvian",
+    "Mongolian",
+    "Dutch",
+    "Portuguese",
+    "Russian",
+    "Swedish",
+    "Tamil",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2021.acl-long.68",
+  "acl_url": "https://aclanthology.org/2021.acl-long.68/"
+}

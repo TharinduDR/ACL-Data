@@ -1,0 +1,28 @@
+{
+  "title": "ODE Transformer: An Ordinary Differential Equation-Inspired Model for Sequence Generation",
+  "authors": [
+    "Bei Li",
+    "Quan Du",
+    "Tao Zhou",
+    "Yi Jing",
+    "Shuhan Zhou",
+    "Xin Zeng",
+    "Tong Xiao",
+    "Jingbo Zhu",
+    "Xuebo Liu",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2022.acl-long.571",
+  "acl_url": "https://aclanthology.org/2022.acl-long.571/"
+}

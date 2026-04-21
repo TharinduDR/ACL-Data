@@ -1,0 +1,25 @@
+{
+  "title": "Why Overfitting Isn't Always Bad: Retrofitting Cross-Lingual Word Embeddings to Dictionaries",
+  "authors": [
+    "Mozhi Zhang",
+    "Yoshinari Fujinuma",
+    "Michael J. Paul",
+    "Jordan Boyd-Graber"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-main.201",
+  "acl_url": "https://aclanthology.org/2020.acl-main.201/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "BeamAggR: Beam Aggregation Reasoning over Multi-source Knowledge for Multi-hop Question Answering",
+  "authors": [
+    "Zheng Chu",
+    "Jingchang Chen",
+    "Qianglong Chen",
+    "Haotian Wang",
+    "Kun Zhu",
+    "Xiyuan Du",
+    "Weijiang Yu",
+    "Ming Liu",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.acl-long.67",
+  "acl_url": "https://aclanthology.org/2024.acl-long.67/"
+}

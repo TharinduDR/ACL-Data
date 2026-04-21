@@ -1,0 +1,30 @@
+{
+  "title": "XLAVS-R: Cross-Lingual Audio-Visual Speech Representation Learning for Noise-Robust Speech Perception",
+  "authors": [
+    "HyoJung Han",
+    "Mohamed Anwar",
+    "Juan Pino",
+    "Wei-Ning Hsu",
+    "Marine Carpuat",
+    "Bowen Shi",
+    "Changhan Wang"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Greek",
+    "Spanish",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.acl-long.697",
+  "acl_url": "https://aclanthology.org/2024.acl-long.697/"
+}

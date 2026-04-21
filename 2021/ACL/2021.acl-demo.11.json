@@ -1,0 +1,21 @@
+{
+  "title": "CogIE: An Information Extraction Toolkit for Bridging Texts and CogNet",
+  "authors": [
+    "Zhuoran Jin",
+    "Yubo Chen",
+    "Dianbo Sui",
+    "Chenhao Wang",
+    "Zhipeng Xue",
+    "Jun Zhao"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.acl-demo.11",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.11/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Federated Learning of Gboard Language Models with Differential Privacy",
+  "authors": [
+    "Zheng Xu",
+    "Yanxiang Zhang",
+    "Galen Andrew",
+    "Christopher A. Choquette-Choo",
+    "Peter Kairouz",
+    "H. Brendan McMahan",
+    "Jesse Rosenstock",
+    "Yuanbo Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Spanish",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2023.acl-industry.60",
+  "acl_url": "https://aclanthology.org/2023.acl-industry.60/"
+}

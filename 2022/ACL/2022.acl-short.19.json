@@ -1,0 +1,19 @@
+{
+  "title": "Detecting Annotation Errors in Morphological Data with the Transformer",
+  "authors": [
+    "Ling Liu",
+    "Mans Hulden"
+  ],
+  "languages": [
+    "German",
+    "Russian",
+    "Finnish",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-short.19",
+  "acl_url": "https://aclanthology.org/2022.acl-short.19/"
+}

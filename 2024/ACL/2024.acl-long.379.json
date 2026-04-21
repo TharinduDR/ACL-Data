@@ -1,0 +1,25 @@
+{
+  "title": "PLUG: Leveraging Pivot Language in Cross-Lingual Instruction Tuning",
+  "authors": [
+    "Zhihan Zhang",
+    "Dong-Ho Lee",
+    "Yuwei Fang",
+    "Wenbao Yu",
+    "Mengzhao Jia",
+    "Meng Jiang",
+    "Francesco Barbieri"
+  ],
+  "languages": [
+    "Chinese",
+    "Korean",
+    "Italian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.379",
+  "acl_url": "https://aclanthology.org/2024.acl-long.379/"
+}

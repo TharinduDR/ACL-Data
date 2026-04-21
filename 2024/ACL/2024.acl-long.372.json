@@ -1,0 +1,30 @@
+{
+  "title": "Translation-based Lexicalization Generation and Lexical Gap Detection: Application to Kinship Terms",
+  "authors": [
+    "Senyu Li",
+    "Bradley Hauer",
+    "Ning Shi",
+    "Grzegorz Kondrak"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Persian",
+    "Spanish",
+    "Russian",
+    "French",
+    "German",
+    "Polish",
+    "Arabic",
+    "Italian",
+    "Mongolian",
+    "Hungarian",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.acl-long.372",
+  "acl_url": "https://aclanthology.org/2024.acl-long.372/"
+}

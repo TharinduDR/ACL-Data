@@ -1,0 +1,20 @@
+{
+  "title": "CICERO: A Dataset for Contextualized Commonsense Inference in Dialogues",
+  "authors": [
+    "Deepanway Ghosal",
+    "Siqi Shen",
+    "Navonil Majumder",
+    "Rada Mihalcea",
+    "Soujanya Poria"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.acl-long.344",
+  "acl_url": "https://aclanthology.org/2022.acl-long.344/"
+}

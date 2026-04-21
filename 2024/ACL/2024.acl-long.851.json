@@ -1,0 +1,25 @@
+{
+  "title": "MMToM-QA: Multimodal Theory of Mind Question Answering",
+  "authors": [
+    "Chuanyang Jin",
+    "Yutong Wu",
+    "Jing Cao",
+    "Jiannan Xiang",
+    "Yen-Ling Kuo",
+    "Zhiting Hu",
+    "Tomer D. Ullman",
+    "Antonio Torralba",
+    "Joshua B. Tenenbaum",
+    "Tianmin Shu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.851",
+  "acl_url": "https://aclanthology.org/2024.acl-long.851/"
+}

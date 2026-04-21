@@ -1,0 +1,31 @@
+{
+  "title": "WebCPM: Interactive Web Search for Chinese Long-form Question Answering",
+  "authors": [
+    "Yujia Qin",
+    "Zihan Cai",
+    "Dian Jin",
+    "Lan Yan",
+    "Shihao Liang",
+    "Kunlun Zhu",
+    "Yankai Lin",
+    "Xu Han",
+    "Ning Ding",
+    "Huadong Wang",
+    "Ruobing Xie",
+    "Fanchao Qi",
+    "Zhiyuan Liu",
+    "Maosong Sun",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.499",
+  "acl_url": "https://aclanthology.org/2023.acl-long.499/"
+}

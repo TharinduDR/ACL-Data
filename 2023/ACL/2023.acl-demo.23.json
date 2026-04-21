@@ -1,0 +1,32 @@
+{
+  "title": "Massively Multi-Lingual Event Understanding: Extraction, Visualization, and Search",
+  "authors": [
+    "Chris Jenkins",
+    "Shantanu Agarwal",
+    "Joel Barry",
+    "Steven Fincke",
+    "Elizabeth Boschee"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "Farsi",
+    "Korean",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Yiddish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.acl-demo.23",
+  "acl_url": "https://aclanthology.org/2023.acl-demo.23/"
+}

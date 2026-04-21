@@ -1,0 +1,25 @@
+{
+  "title": "Bilingual Dictionary Based Neural Machine Translation without Using Parallel Sentences",
+  "authors": [
+    "Xiangyu Duan",
+    "Baijun Ji",
+    "Hao Jia",
+    "Min Tan",
+    "Min Zhang",
+    "Boxing Chen",
+    "Weihua Luo",
+    "Yue Zhang"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.acl-main.143",
+  "acl_url": "https://aclanthology.org/2020.acl-main.143/"
+}

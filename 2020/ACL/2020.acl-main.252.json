@@ -1,0 +1,36 @@
+{
+  "title": "Leveraging Monolingual Data with Self-Supervision for Multilingual Neural Machine Translation",
+  "authors": [
+    "Aditya Siddhant",
+    "Ankur Bapna",
+    "Yuan Cao",
+    "Orhan Firat",
+    "Mia Chen",
+    "Sneha Kudungunta",
+    "Naveen Arivazhagan",
+    "Yonghui Wu"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "French",
+    "Russian",
+    "Chinese",
+    "Spanish",
+    "Finnish",
+    "German",
+    "Estonian",
+    "Latvian",
+    "Romanian",
+    "Hindi",
+    "Kazakh",
+    "Turkish",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.acl-main.252",
+  "acl_url": "https://aclanthology.org/2020.acl-main.252/"
+}

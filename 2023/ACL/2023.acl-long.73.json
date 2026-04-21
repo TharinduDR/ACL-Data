@@ -1,0 +1,30 @@
+{
+  "title": "NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation",
+  "authors": [
+    "Shengming Yin",
+    "Chenfei Wu",
+    "Huan Yang",
+    "Jianfeng Wang",
+    "Xiaodong Wang",
+    "Minheng Ni",
+    "Zhengyuan Yang",
+    "Linjie Li",
+    "Shuguang Liu",
+    "Fan Yang",
+    "Jianlong Fu",
+    "Gong Ming",
+    "Lijuan Wang",
+    "Zicheng Liu",
+    "Houqiang Li",
+    "Nan Duan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.acl-long.73",
+  "acl_url": "https://aclanthology.org/2023.acl-long.73/"
+}

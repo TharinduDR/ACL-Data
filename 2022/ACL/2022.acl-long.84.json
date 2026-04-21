@@ -1,0 +1,23 @@
+{
+  "title": "Modeling Temporal-Modal Entity Graph for Procedural Multimodal Machine Comprehension",
+  "authors": [
+    "Huibin Zhang",
+    "Zhengkun Zhang",
+    "Yao Zhang",
+    "Jun Wang",
+    "Yufan Li",
+    "Ning Jiang",
+    "Xin Wei",
+    "Zhenglu Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.acl-long.84",
+  "acl_url": "https://aclanthology.org/2022.acl-long.84/"
+}

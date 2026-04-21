@@ -1,0 +1,18 @@
+{
+  "title": "SentiBERT: A Transferable Transformer-Based Architecture for Compositional Sentiment Semantics",
+  "authors": [
+    "Da Yin",
+    "Tao Meng",
+    "Kai-Wei Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.acl-main.341",
+  "acl_url": "https://aclanthology.org/2020.acl-main.341/"
+}

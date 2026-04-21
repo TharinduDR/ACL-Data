@@ -1,0 +1,23 @@
+{
+  "title": "OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics",
+  "authors": [
+    "Jian Guan",
+    "Zhixin Zhang",
+    "Zhuoer Feng",
+    "Zitao Liu",
+    "Wenbiao Ding",
+    "Xiaoxi Mao",
+    "Changjie Fan",
+    "Minlie Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2021.acl-long.500",
+  "acl_url": "https://aclanthology.org/2021.acl-long.500/"
+}

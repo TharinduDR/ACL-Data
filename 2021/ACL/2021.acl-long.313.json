@@ -1,0 +1,21 @@
+{
+  "title": "ILDC for CJPE: Indian Legal Documents Corpus for Court Judgment Prediction and Explanation",
+  "authors": [
+    "Vijit Malik",
+    "Rishabh Sanjay",
+    "Shubham Kumar Nigam",
+    "Kripa Ghosh",
+    "Shouvik Kumar Guha",
+    "Arnab Bhattacharya",
+    "Ashutosh Modi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.acl-long.313",
+  "acl_url": "https://aclanthology.org/2021.acl-long.313/"
+}

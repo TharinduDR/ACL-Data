@@ -1,0 +1,41 @@
+{
+  "title": "AmericasNLI: Evaluating Zero-shot Natural Language Understanding of Pretrained Multilingual Models in Truly Low-resource Languages",
+  "authors": [
+    "Abteen Ebrahimi",
+    "Manuel Mager",
+    "Arturo Oncevay",
+    "Vishrav Chaudhary",
+    "Luis Chiruzzo",
+    "Angela Fan",
+    "John E. Ortega",
+    "Ricardo Ramos",
+    "Annette Rios",
+    "Ivan Meza-Ruiz",
+    "Gustavo A. Giménez-Lugo",
+    "Elisabeth Mager",
+    "Graham Neubig",
+    "Alexis Palmer",
+    "Rolando Coto-Solano",
+    "Ngoc Thang Vu",
+    "Katharina Kann"
+  ],
+  "languages": [
+    "Aymara",
+    "Asháninka",
+    "Bribri",
+    "Guaraní",
+    "Nahuatl",
+    "Otomi",
+    "Quechua",
+    "Rarámuri",
+    "Shipibo-Konibo",
+    "Wixarika"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.435",
+  "acl_url": "https://aclanthology.org/2022.acl-long.435/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Can LMs Store and Retrieve 1-to-N Relational Knowledge?",
+  "authors": [
+    "Haruki Nagasawa",
+    "Benjamin Heinzerling",
+    "Kazuma Kokuta",
+    "Kentaro Inui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-srw.22",
+  "acl_url": "https://aclanthology.org/2023.acl-srw.22/"
+}

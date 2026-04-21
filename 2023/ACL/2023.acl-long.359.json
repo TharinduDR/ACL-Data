@@ -1,0 +1,37 @@
+{
+  "title": "Are Fairy Tales Fair? Analyzing Gender Bias in Temporal Narrative Event Chains of Children’s Fairy Tales",
+  "authors": [
+    "Paulina Toro Isaza",
+    "Guangxuan Xu",
+    "Akintoye Oloko",
+    "Yufang Hou",
+    "Nanyun Peng",
+    "Dakuo Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Japanese",
+    "French",
+    "Portuguese",
+    "Spanish",
+    "Arabic",
+    "Russian",
+    "Finnish",
+    "Greek",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.acl-long.359",
+  "acl_url": "https://aclanthology.org/2023.acl-long.359/"
+}

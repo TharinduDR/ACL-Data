@@ -1,0 +1,18 @@
+{
+  "title": "CWSeg: An Efficient and General Approach to Chinese Word Segmentation",
+  "authors": [
+    "Dedong Li",
+    "Rui Zhao",
+    "Fei Tan"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.acl-industry.1",
+  "acl_url": "https://aclanthology.org/2023.acl-industry.1/"
+}

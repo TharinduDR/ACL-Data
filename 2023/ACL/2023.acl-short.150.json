@@ -1,0 +1,25 @@
+{
+  "title": "STT4SG-350: A Speech Corpus for All Swiss German Dialect Regions",
+  "authors": [
+    "Michel Plüss",
+    "Jan Deriu",
+    "Yanick Schraner",
+    "Claudio Paonessa",
+    "Julia Hartmann",
+    "Larissa Schmidt",
+    "Christian Scheller",
+    "Manuela Hürlimann",
+    "Tanja Samardžić",
+    "Manfred Vogel",
+    "Mark Cieliebak"
+  ],
+  "languages": [
+    "Swiss German"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.acl-short.150",
+  "acl_url": "https://aclanthology.org/2023.acl-short.150/"
+}

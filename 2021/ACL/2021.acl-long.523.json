@@ -1,0 +1,19 @@
+{
+  "title": "POLYJUICE: Generating Counterfactuals for Explaining, Evaluating, and Improving Models",
+  "authors": [
+    "Tongshuang Wu",
+    "Marco Tulio Ribeiro",
+    "Jeffrey Heer",
+    "Daniel S. Weld"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.acl-long.523",
+  "acl_url": "https://aclanthology.org/2021.acl-long.523/"
+}

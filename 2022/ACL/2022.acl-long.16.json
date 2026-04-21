@@ -1,0 +1,25 @@
+{
+  "title": "Sparse Progressive Distillation: Resolving Overfitting under Pretrain-and-Finetune Paradigm",
+  "authors": [
+    "Shaoyi Huang",
+    "Dongkuan Xu",
+    "Ian En-Hsu Yen",
+    "Yijue Wang",
+    "Sung-En Chang",
+    "Bingbing Li",
+    "Shiyang Chen",
+    "Mimi Xie",
+    "Sanguthevar Rajasekaran",
+    "Hang Liu",
+    "Caiwen Ding"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.16",
+  "acl_url": "https://aclanthology.org/2022.acl-long.16/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Unified Speech-Text Pre-training for Speech Translation and Recognition",
+  "authors": [
+    "Yun Tang",
+    "Hongyu Gong",
+    "Ning Dong",
+    "Changhan Wang",
+    "Wei-Ning Hsu",
+    "Jiatao Gu",
+    "Alexei Baevski",
+    "Xian Li",
+    "Abdelrahman Mohamed",
+    "Michael Auli",
+    "Juan Pino"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2022.acl-long.105",
+  "acl_url": "https://aclanthology.org/2022.acl-long.105/"
+}

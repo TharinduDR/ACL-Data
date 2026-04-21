@@ -1,0 +1,20 @@
+{
+  "title": "S²ynRE: Two-stage Self-training with Synthetic data for Low-resource Relation Extraction",
+  "authors": [
+    "Benfeng Xu",
+    "Quan Wang",
+    "Yajuan Lyu",
+    "Dai Dai",
+    "Yongdong Zhang",
+    "Zhendong Mao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.455",
+  "acl_url": "https://aclanthology.org/2023.acl-long.455/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "TOXI GEN: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection",
+  "authors": [
+    "Thomas Hartvigsen",
+    "Saadia Gabriel",
+    "Hamid Palangi",
+    "Maarten Sap",
+    "Dipankar Ray",
+    "Ece Kamar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2022.acl-long.234",
+  "acl_url": "https://aclanthology.org/2022.acl-long.234/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "xMoCo: Cross Momentum Contrastive Learning for Open-Domain Question Answering",
+  "authors": [
+    "Nan Yang",
+    "Furu Wei",
+    "Binxing Jiao",
+    "Daxin Jiang",
+    "Linjun Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.acl-long.477",
+  "acl_url": "https://aclanthology.org/2021.acl-long.477/"
+}

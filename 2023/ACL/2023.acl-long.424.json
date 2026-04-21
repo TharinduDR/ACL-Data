@@ -1,0 +1,20 @@
+{
+  "title": "Answering Ambiguous Questions via Iterative Prompting",
+  "authors": [
+    "Weiwei Sun",
+    "Hengyi Cai",
+    "Hongshen Chen",
+    "Pengjie Ren",
+    "Zhumin Chen",
+    "Maarten de Rijke",
+    "Zhaochun Ren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.acl-long.424",
+  "acl_url": "https://aclanthology.org/2023.acl-long.424/"
+}

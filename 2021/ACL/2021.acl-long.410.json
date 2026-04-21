@@ -1,0 +1,24 @@
+{
+  "title": "LEXFIT: Lexical Fine-Tuning of Pretrained Language Models",
+  "authors": [
+    "Ivan Vulić",
+    "Edoardo M. Ponti",
+    "Anna Korhonen",
+    "Goran Glavaš"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Finnish",
+    "Polish",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.acl-long.410",
+  "acl_url": "https://aclanthology.org/2021.acl-long.410/"
+}

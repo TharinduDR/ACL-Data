@@ -1,0 +1,21 @@
+{
+  "title": "Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation",
+  "authors": [
+    "Tianlu Wang",
+    "Xi Victoria Lin",
+    "Nazneen Fatema Rajani",
+    "Bryan McCann",
+    "Vicente Ordonez",
+    "Caiming Xiong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.acl-main.484",
+  "acl_url": "https://aclanthology.org/2020.acl-main.484/"
+}

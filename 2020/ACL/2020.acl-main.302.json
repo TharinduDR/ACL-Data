@@ -1,0 +1,28 @@
+{
+  "title": "Efficient Second-Order TreeCRF for Neural Dependency Parsing",
+  "authors": [
+    "Yu Zhang",
+    "Zhenghua Li",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Bulgarian",
+    "Catalan",
+    "Czech",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Norwegian",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-main.302",
+  "acl_url": "https://aclanthology.org/2020.acl-main.302/"
+}

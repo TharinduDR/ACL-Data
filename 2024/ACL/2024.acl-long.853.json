@@ -1,0 +1,30 @@
+{
+  "title": "Unintended Impacts of LLM Alignment on Global Representation",
+  "authors": [
+    "Michael J. Ryan",
+    "William Held",
+    "Diyi Yang"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bengali",
+    "Russian",
+    "Swahili",
+    "Korean",
+    "Finnish",
+    "Indonesian",
+    "Telugu",
+    "Portuguese",
+    "German",
+    "Japanese",
+    "Italian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.acl-long.853",
+  "acl_url": "https://aclanthology.org/2024.acl-long.853/"
+}

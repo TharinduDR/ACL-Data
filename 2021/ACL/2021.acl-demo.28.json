@@ -1,0 +1,29 @@
+{
+  "title": "ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation",
+  "authors": [
+    "Weizhen Qi",
+    "Yeyun Gong",
+    "Yu Yan",
+    "Can Xu",
+    "Bolun Yao",
+    "Bartuer Zhou",
+    "Biao Cheng",
+    "Daxin Jiang",
+    "Jiusheng Chen",
+    "Ruofei Zhang",
+    "Houqiang Li",
+    "Nan Duan"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2021.acl-demo.28",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.28/"
+}

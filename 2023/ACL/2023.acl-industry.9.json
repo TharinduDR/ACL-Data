@@ -1,0 +1,23 @@
+{
+  "title": "KG-FLIP: Knowledge-guided Fashion-domain Language-Image Pre-training for E-commerce",
+  "authors": [
+    "Qinjin Jia",
+    "Yang Liu",
+    "Shaoyuan Xu",
+    "Huidong Liu",
+    "Daoping Wu",
+    "Jinmiao Fu",
+    "Roland Vollgraf",
+    "Bryan Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.acl-industry.9",
+  "acl_url": "https://aclanthology.org/2023.acl-industry.9/"
+}

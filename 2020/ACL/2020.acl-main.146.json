@@ -1,0 +1,20 @@
+{
+  "title": "End-to-End Neural Word Alignment Outperforms GIZA++",
+  "authors": [
+    "Thomas Zenkel",
+    "Joern Wuebker",
+    "John DeNero"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "French",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.acl-main.146",
+  "acl_url": "https://aclanthology.org/2020.acl-main.146/"
+}

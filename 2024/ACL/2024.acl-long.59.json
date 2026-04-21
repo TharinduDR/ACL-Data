@@ -1,0 +1,25 @@
+{
+  "title": "An Information Bottleneck Perspective for Effective Noise Filtering on Retrieval-Augmented Generation",
+  "authors": [
+    "Kun Zhu",
+    "Xiaocheng Feng",
+    "Xiyuan Du",
+    "Yuxuan Gu",
+    "Weijiang Yu",
+    "Haotian Wang",
+    "Qianglong Chen",
+    "Zheng Chu",
+    "Jingchang Chen",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.acl-long.59",
+  "acl_url": "https://aclanthology.org/2024.acl-long.59/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "M⁴LE: A Multi-Ability Multi-Range Multi-Task Multi-Domain Long-Context Evaluation Benchmark for Large Language Models",
+  "authors": [
+    "Wai-Chung Kwan",
+    "Xingshan Zeng",
+    "Yufei Wang",
+    "Yusen Sun",
+    "Liangyou Li",
+    "Yuxin Jiang",
+    "Lifeng Shang",
+    "Qun Liu",
+    "Kam-Fai Wong"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.acl-long.832",
+  "acl_url": "https://aclanthology.org/2024.acl-long.832/"
+}

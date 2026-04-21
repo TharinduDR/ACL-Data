@@ -1,0 +1,21 @@
+{
+  "title": "Anchor-based Bilingual Word Embeddings for Low-Resource Languages",
+  "authors": [
+    "Tobias Eder",
+    "Viktor Hangya",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Macedonian",
+    "Hiligaynon"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.acl-short.30",
+  "acl_url": "https://aclanthology.org/2021.acl-short.30/"
+}

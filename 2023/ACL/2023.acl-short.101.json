@@ -1,0 +1,21 @@
+{
+  "title": "Reasoning Implicit Sentiment with Chain-of-Thought Prompting",
+  "authors": [
+    "Hao Fei",
+    "Bobo Li",
+    "Qian Liu",
+    "Lidong Bing",
+    "Fei Li",
+    "Tat-Seng Chua"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.acl-short.101",
+  "acl_url": "https://aclanthology.org/2023.acl-short.101/"
+}

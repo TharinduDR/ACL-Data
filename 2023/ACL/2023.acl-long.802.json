@@ -1,0 +1,22 @@
+{
+  "title": "USSA: A Unified Table Filling Scheme for Structured Sentiment Analysis",
+  "authors": [
+    "Zepeng Zhai",
+    "Hao Chen",
+    "Ruifan Li",
+    "Xiaojie Wang"
+  ],
+  "languages": [
+    "English",
+    "Norwegian",
+    "Basque",
+    "Catalan"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.acl-long.802",
+  "acl_url": "https://aclanthology.org/2023.acl-long.802/"
+}

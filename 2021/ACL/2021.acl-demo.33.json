@@ -1,0 +1,19 @@
+{
+  "title": "ChrEnTranslate: Cherokee-English Machine Translation Demo with Quality Estimation and Corrective Feedback",
+  "authors": [
+    "Shiyue Zhang",
+    "Benjamin Frey",
+    "Mohit Bansal"
+  ],
+  "languages": [
+    "Cherokee",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.acl-demo.33",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.33/"
+}

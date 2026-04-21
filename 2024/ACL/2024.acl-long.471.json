@@ -1,0 +1,25 @@
+{
+  "title": "Large Language Models as Zero-shot Dialogue State Tracker through Function Calling",
+  "authors": [
+    "Zekun Li",
+    "Zhiyu Zoey Chen",
+    "Mike Ross",
+    "Patrick Huber",
+    "Seungwhan Moon",
+    "Zhaojiang Lin",
+    "Luna Dong",
+    "Adithya Sagar",
+    "Xifeng Yan",
+    "Paul A. Crook"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.471",
+  "acl_url": "https://aclanthology.org/2024.acl-long.471/"
+}

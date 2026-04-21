@@ -1,0 +1,22 @@
+{
+  "title": "Superfiltering: Weak-to-Strong Data Filtering for Fast Instruction-Tuning",
+  "authors": [
+    "Ming Li",
+    "Yong Zhang",
+    "Shwai He",
+    "Zhitao Li",
+    "Hongyu Zhao",
+    "Jianzong Wang",
+    "Ning Cheng",
+    "Tianyi Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.769",
+  "acl_url": "https://aclanthology.org/2024.acl-long.769/"
+}

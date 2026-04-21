@@ -1,0 +1,20 @@
+{
+  "title": "Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models",
+  "authors": [
+    "Abhishek Kumar",
+    "Robert Morabito",
+    "Sanzhar Umbet",
+    "Jad Kabbara",
+    "Ali Emami"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.acl-long.20",
+  "acl_url": "https://aclanthology.org/2024.acl-long.20/"
+}

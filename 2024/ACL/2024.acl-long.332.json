@@ -1,0 +1,21 @@
+{
+  "title": "Soft Knowledge Prompt: Help External Knowledge Become a Better Teacher to Instruct LLM in Knowledge-based VQA",
+  "authors": [
+    "Qunbo Wang",
+    "Ruyi Ji",
+    "Tianhao Peng",
+    "Wenjun Wu",
+    "Zechao Li",
+    "Jing Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.acl-long.332",
+  "acl_url": "https://aclanthology.org/2024.acl-long.332/"
+}

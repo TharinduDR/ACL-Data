@@ -1,0 +1,22 @@
+{
+  "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+  "authors": [
+    "Adyasha Maharana",
+    "Dong-Ho Lee",
+    "Sergey Tulyakov",
+    "Mohit Bansal",
+    "Francesco Barbieri",
+    "Yuwei Fang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T18 Text Summarization",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.acl-long.747",
+  "acl_url": "https://aclanthology.org/2024.acl-long.747/"
+}

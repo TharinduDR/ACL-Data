@@ -1,0 +1,26 @@
+{
+  "title": "pNLP-Mixer: an Efficient all-MLP Architecture for Language",
+  "authors": [
+    "Francesco Fusco",
+    "Damian Pascual",
+    "Peter Staar",
+    "Diego Antognini"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Hindi",
+    "Japanese",
+    "Portuguese",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.acl-industry.6",
+  "acl_url": "https://aclanthology.org/2023.acl-industry.6/"
+}

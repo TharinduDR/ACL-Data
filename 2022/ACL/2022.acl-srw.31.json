@@ -1,0 +1,23 @@
+{
+  "title": "Automatic Generation of Distractors for Fill-in-the-Blank Exercises with Round-Trip Neural Machine Translation",
+  "authors": [
+    "Subhadarshi Panda",
+    "Frank Palma Gomez",
+    "Michael Flor",
+    "Alla Rozovskaya"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Italian",
+    "French",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2022.acl-srw.31",
+  "acl_url": "https://aclanthology.org/2022.acl-srw.31/"
+}

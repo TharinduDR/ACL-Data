@@ -1,0 +1,31 @@
+{
+  "title": "xPQA: Cross-Lingual Product Question Answering across 12 Languages",
+  "authors": [
+    "Xiaoyu Shen",
+    "Akari Asai",
+    "Bill Byrne",
+    "Adrià de Gispert"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Polish",
+    "Arabic",
+    "Hindi",
+    "Tamil",
+    "Chinese",
+    "Japanese",
+    "Korean"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-industry.12",
+  "acl_url": "https://aclanthology.org/2023.acl-industry.12/"
+}

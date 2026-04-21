@@ -1,0 +1,23 @@
+{
+  "title": "Graph Neural News Recommendation with Unsupervised Preference Disentanglement",
+  "authors": [
+    "Linmei Hu",
+    "Siyong Xu",
+    "Chen Li",
+    "Cheng Yang",
+    "Chuan Shi",
+    "Nan Duan",
+    "Xing Xie",
+    "Ming Zhou"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2020.acl-main.392",
+  "acl_url": "https://aclanthology.org/2020.acl-main.392/"
+}

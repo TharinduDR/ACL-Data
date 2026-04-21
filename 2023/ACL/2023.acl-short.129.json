@@ -1,0 +1,20 @@
+{
+  "title": "Controlling the Extraction of Memorized Data from Large Language Models via Prompt-Tuning",
+  "authors": [
+    "Mustafa Safa Ozdayi",
+    "Charith Peris",
+    "Jack Fitzgerald",
+    "Christophe Dupuy",
+    "Jimit Majmudar",
+    "Haidar Khan",
+    "Rahil Parikh",
+    "Rahul Gupta"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-short.129",
+  "acl_url": "https://aclanthology.org/2023.acl-short.129/"
+}

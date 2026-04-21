@@ -1,0 +1,23 @@
+{
+  "title": "Do Llamas Work in English? On the Latent Language of Multilingual Transformers",
+  "authors": [
+    "Chris Wendler",
+    "Veniamin Veselovsky",
+    "Giovanni Monea",
+    "Robert West"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.acl-long.820",
+  "acl_url": "https://aclanthology.org/2024.acl-long.820/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "PETALS: Collaborative Inference and Fine-tuning of Large Models",
+  "authors": [
+    "Alexander Borzunov",
+    "Dmitry Baranchuk",
+    "Tim Dettmers",
+    "Max Ryabinin",
+    "Younes Belkada",
+    "Artem Chumachenko",
+    "Pavel Samygin",
+    "Colin Raffel"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Hindi",
+    "C++"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2023.acl-demo.54",
+  "acl_url": "https://aclanthology.org/2023.acl-demo.54/"
+}

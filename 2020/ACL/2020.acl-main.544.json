@@ -1,0 +1,21 @@
+{
+  "title": "Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder",
+  "authors": [
+    "Daya Guo",
+    "Duyu Tang",
+    "Nan Duan",
+    "Jian Yin",
+    "Daxin Jiang",
+    "Ming Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.acl-main.544",
+  "acl_url": "https://aclanthology.org/2020.acl-main.544/"
+}

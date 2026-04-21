@@ -1,0 +1,20 @@
+{
+  "title": "Multi-Head Highly Parallelized LSTM Decoder for Neural Machine Translation",
+  "authors": [
+    "Hongfei Xu",
+    "Qiuhui Liu",
+    "Josef van Genabith",
+    "Deyi Xiong",
+    "Meng Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.acl-long.23",
+  "acl_url": "https://aclanthology.org/2021.acl-long.23/"
+}

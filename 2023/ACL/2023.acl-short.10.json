@@ -1,0 +1,29 @@
+{
+  "title": "xSIM++: An Improved Proxy to Bitext Mining Performance for Low-Resource Languages",
+  "authors": [
+    "Mingda Chen",
+    "Kevin Heffernan",
+    "Onur Çelebi",
+    "Alex Mourachko",
+    "Holger Schwenk"
+  ],
+  "languages": [
+    "English",
+    "Faroese",
+    "Kabuverdianu",
+    "Tok Pisin",
+    "Kikuyu",
+    "Friulian",
+    "Igbo",
+    "Luxembourgish",
+    "Swahili",
+    "Zulu",
+    "Bemba"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-short.10",
+  "acl_url": "https://aclanthology.org/2023.acl-short.10/"
+}

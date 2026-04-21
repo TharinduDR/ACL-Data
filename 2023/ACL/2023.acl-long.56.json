@@ -1,0 +1,23 @@
+{
+  "title": "UniLG: A Unified Structure-aware Framework for Lyrics Generation",
+  "authors": [
+    "Tao Qian",
+    "Fan Lou",
+    "Jiatong Shi",
+    "Yuning Wu",
+    "Shuai Guo",
+    "Xiang Yin",
+    "Qin Jin"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.56",
+  "acl_url": "https://aclanthology.org/2023.acl-long.56/"
+}

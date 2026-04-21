@@ -1,0 +1,30 @@
+{
+  "title": "Xiaomingbot: A Multilingual Robot News Reporter",
+  "authors": [
+    "Runxin Xu",
+    "Jun Cao",
+    "Mingxuan Wang",
+    "Jiaze Chen",
+    "Hao Zhou",
+    "Ying Zeng",
+    "Yuping Wang",
+    "Li Chen",
+    "Xiang Yin",
+    "Xijin Zhang",
+    "Songcheng Jiang",
+    "Yuxuan Wang",
+    "Lei Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2020.acl-demos.1",
+  "acl_url": "https://aclanthology.org/2020.acl-demos.1/"
+}

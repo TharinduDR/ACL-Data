@@ -1,0 +1,37 @@
+{
+  "title": "One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia",
+  "authors": [
+    "Alham Fikri Aji",
+    "Genta Indra Winata",
+    "Fajri Koto",
+    "Samuel Cahyawijaya",
+    "Ade Romadhony",
+    "Rahmad Mahendra",
+    "Kemal Kurniawan",
+    "David Moeljadi",
+    "Radityo Eko Prasojo",
+    "Timothy Baldwin",
+    "Jey Han Lau",
+    "Sebastian Ruder"
+  ],
+  "languages": [
+    "Indonesian",
+    "Javanese",
+    "Sundanese",
+    "Minangkabau",
+    "Balinese",
+    "Batak",
+    "Acehnese",
+    "Banjar",
+    "Betawi",
+    "Papuan languages"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.acl-long.500",
+  "acl_url": "https://aclanthology.org/2022.acl-long.500/"
+}

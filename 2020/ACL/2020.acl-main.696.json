@@ -1,0 +1,18 @@
+{
+  "title": "Supervised Grapheme-to-Phoneme Conversion of Orthographic Schwas in Hindi and Punjabi",
+  "authors": [
+    "Aryaman Arora",
+    "Luke Gessler",
+    "Nathan Schneider"
+  ],
+  "languages": [
+    "Hindi",
+    "Punjabi"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.acl-main.696",
+  "acl_url": "https://aclanthology.org/2020.acl-main.696/"
+}

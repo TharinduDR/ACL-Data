@@ -1,0 +1,24 @@
+{
+  "title": "XL-LEXEME: WiC Pretrained Model for Cross-Lingual LEXical sEMantic changeE",
+  "authors": [
+    "Pierluigi Cassotti",
+    "Lucia Siciliani",
+    "Marco de Gemmis",
+    "Giovanni Semeraro",
+    "Pierpaolo Basile"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Swedish",
+    "Russian",
+    "Latin"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-short.135",
+  "acl_url": "https://aclanthology.org/2023.acl-short.135/"
+}

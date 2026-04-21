@@ -1,0 +1,45 @@
+{
+  "title": "Cheetah: Natural Language Generation for 517 African Languages",
+  "authors": [
+    "Ife Adebara",
+    "AbdelRahim Elmadany",
+    "Muhammad Abdul-Mageed"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Afrikaans",
+    "Bemba",
+    "Luganda",
+    "N. Pidgin",
+    "Amharic",
+    "Igbo",
+    "Oromo",
+    "Rundi",
+    "Swahili",
+    "Yoruba",
+    "Hausa",
+    "Tigrinya",
+    "Somali",
+    "Zulu",
+    "Xhosa",
+    "Sesotho",
+    "Luganda",
+    "Nyankore",
+    "Atezo",
+    "Bambara",
+    "Fon",
+    "Moore",
+    "Wolof",
+    "Ghomálá'",
+    "Kabyle",
+    "Berber"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.acl-long.691",
+  "acl_url": "https://aclanthology.org/2024.acl-long.691/"
+}

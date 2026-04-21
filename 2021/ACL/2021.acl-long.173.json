@@ -1,0 +1,22 @@
+{
+  "title": "Data Augmentation for Text Generation Without Any Augmented Data",
+  "authors": [
+    "Wei Bi",
+    "Huayang Li",
+    "Jiacheng Huang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.acl-long.173",
+  "acl_url": "https://aclanthology.org/2021.acl-long.173/"
+}

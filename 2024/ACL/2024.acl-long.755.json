@@ -1,0 +1,27 @@
+{
+  "title": "Explanation-aware Soft Ensemble Empowers Large Language Model In-context Learning",
+  "authors": [
+    "Yue Yu",
+    "Jiaming Shen",
+    "Tianqi Liu",
+    "Zhen Qin",
+    "Jing Nathan Yan",
+    "Jialu Liu",
+    "Chao Zhang",
+    "Michael Bendersky"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, multi-hop question answering"
+  ],
+  "paper_id": "2024.acl-long.755",
+  "acl_url": "https://aclanthology.org/2024.acl-long.755/"
+}

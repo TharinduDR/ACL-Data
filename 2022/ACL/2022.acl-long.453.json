@@ -1,0 +1,22 @@
+{
+  "title": "Multilingual Detection of Personal Employment Status on Twitter",
+  "authors": [
+    "Manuel Tonneau",
+    "Dhaval Adjodah",
+    "João Palotti",
+    "Nir Grinberg",
+    "Samuel Fraiberger"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.acl-long.453",
+  "acl_url": "https://aclanthology.org/2022.acl-long.453/"
+}

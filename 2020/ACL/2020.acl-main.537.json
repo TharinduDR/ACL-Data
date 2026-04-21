@@ -1,0 +1,21 @@
+{
+  "title": "FastBERT: a Self-distilling BERT with Adaptive Inference Time",
+  "authors": [
+    "Weijie Liu",
+    "Peng Zhou",
+    "Zhiruo Wang",
+    "Zhe Zhao",
+    "Haotang Deng",
+    "Qi Ju"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2020.acl-main.537",
+  "acl_url": "https://aclanthology.org/2020.acl-main.537/"
+}

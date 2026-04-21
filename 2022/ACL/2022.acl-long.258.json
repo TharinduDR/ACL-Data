@@ -1,0 +1,20 @@
+{
+  "title": "VALUE: Understanding Dialect Disparity in NLU",
+  "authors": [
+    "Caleb Ziem",
+    "Jiaao Chen",
+    "Camille Harris",
+    "Jessica Anderson",
+    "Diyi Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.acl-long.258",
+  "acl_url": "https://aclanthology.org/2022.acl-long.258/"
+}

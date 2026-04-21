@@ -1,0 +1,24 @@
+{
+  "title": "Conversation Learner – A Machine Teaching Tool for Building Dialog Managers for Task-Oriented Dialog Systems",
+  "authors": [
+    "Swadheen Shukla",
+    "Lars Liden",
+    "Shahin Shayandeh",
+    "Eslam Kamal",
+    "Jinchao Li",
+    "Matt Mazzola",
+    "Thomas Park",
+    "Baolin Peng",
+    "Jianfeng Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2020.acl-demos.39",
+  "acl_url": "https://aclanthology.org/2020.acl-demos.39/"
+}

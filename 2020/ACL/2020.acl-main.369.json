@@ -1,0 +1,22 @@
+{
+  "title": "CluBERT: A Cluster-Based Approach for Learning Sense Distributions in Multiple Languages",
+  "authors": [
+    "Tommaso Pasini",
+    "Federico Scozzafava",
+    "Bianca Scarlini"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Spanish",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.acl-main.369",
+  "acl_url": "https://aclanthology.org/2020.acl-main.369/"
+}

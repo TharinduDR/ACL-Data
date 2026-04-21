@@ -1,0 +1,26 @@
+{
+  "title": "DialogVED: A Pre-trained Latent Variable Encoder-Decoder Model for Dialog Response Generation",
+  "authors": [
+    "Wei Chen",
+    "Yeyun Gong",
+    "Song Wang",
+    "Bolun Yao",
+    "Weizhen Qi",
+    "Zhongyu Wei",
+    "Xiaowu Hu",
+    "Bartuer Zhou",
+    "Yi Mao",
+    "Weizhu Chen",
+    "Biao Cheng",
+    "Nan Duan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.acl-long.333",
+  "acl_url": "https://aclanthology.org/2022.acl-long.333/"
+}

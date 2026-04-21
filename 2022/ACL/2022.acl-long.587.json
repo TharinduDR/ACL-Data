@@ -1,0 +1,20 @@
+{
+  "title": "Your Answer is Incorrect... Would you like to know why? Introducing a Bilingual Short Answer Feedback Dataset",
+  "authors": [
+    "Anna Filighera",
+    "Siddharth Singh Parihar",
+    "Sebastian Ochs",
+    "Tim Steuer",
+    "Tobias Meuser"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.acl-long.587",
+  "acl_url": "https://aclanthology.org/2022.acl-long.587/"
+}

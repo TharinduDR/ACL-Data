@@ -1,0 +1,23 @@
+{
+  "title": "KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering",
+  "authors": [
+    "Donghan Yu",
+    "Chenguang Zhu",
+    "Yuwei Fang",
+    "Wenhan Yao",
+    "Shuohang Wang",
+    "Yichong Xu",
+    "Xiang Ren",
+    "Yiming Yang",
+    "Michael Zeng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.acl-long.340",
+  "acl_url": "https://aclanthology.org/2022.acl-long.340/"
+}

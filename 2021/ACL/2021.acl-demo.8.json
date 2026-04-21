@@ -1,0 +1,35 @@
+{
+  "title": "ParCourE: A Parallel Corpus Explorer for a Massively Multilingual Corpus",
+  "authors": [
+    "Ayyoob Imani",
+    "Masoud Jalili Sabet",
+    "Philipp Dufter",
+    "Michael Cysouw",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Swahili",
+    "Spanish",
+    "Croatian",
+    "Latin",
+    "Portuguese",
+    "Seychelles Creole",
+    "Chinese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.acl-demo.8",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.8/"
+}

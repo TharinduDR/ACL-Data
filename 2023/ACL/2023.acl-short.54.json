@@ -1,0 +1,24 @@
+{
+  "title": "Morphological Inflection with Phonological Features",
+  "authors": [
+    "David Guriel",
+    "Omer Goldman",
+    "Reut Tsarfaty"
+  ],
+  "languages": [
+    "Swahili",
+    "Georgian",
+    "Albanian",
+    "Bulgarian",
+    "Latvian",
+    "Hungarian",
+    "Finnish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.acl-short.54",
+  "acl_url": "https://aclanthology.org/2023.acl-short.54/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "A Survey of Deep Learning for Mathematical Reasoning",
+  "authors": [
+    "Pan Lu",
+    "Liang Qiu",
+    "Wenhao Yu",
+    "Sean Welleck",
+    "Kai-Wei Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.acl-long.817",
+  "acl_url": "https://aclanthology.org/2023.acl-long.817/"
+}

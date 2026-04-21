@@ -1,0 +1,33 @@
+{
+  "title": "TweeNLP: A Twitter Exploration Portal for Natural Language Processing",
+  "authors": [
+    "Viraj Shah",
+    "Shruti Singh",
+    "Mayank Singh"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "Portuguese",
+    "Spanish",
+    "Arabic",
+    "German",
+    "Turkish",
+    "Korean",
+    "French",
+    "Russian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2021.acl-demo.32",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.32/"
+}

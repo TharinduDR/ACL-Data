@@ -1,0 +1,46 @@
+{
+  "title": "Meta-Learning for Fast Cross-Lingual Adaptation in Dependency Parsing",
+  "authors": [
+    "Anna Langedijk",
+    "Verna Dankers",
+    "Phillip Lippe",
+    "Sander Bos",
+    "Bryan Cardenas Guevara",
+    "Helen Yannakoudakis",
+    "Ekaterina Shutova"
+  ],
+  "languages": [
+    "Armenian",
+    "Breton",
+    "Buryat",
+    "Faroese",
+    "Kazakh",
+    "Upper Sorbian",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Japanese",
+    "Persian",
+    "Swedish",
+    "Tamil",
+    "Urdu",
+    "Vietnamese",
+    "Bulgarian",
+    "Telugu",
+    "Arabic",
+    "Czech",
+    "English",
+    "Hindi",
+    "Italian",
+    "Korean",
+    "Norwegian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.acl-long.582",
+  "acl_url": "https://aclanthology.org/2022.acl-long.582/"
+}

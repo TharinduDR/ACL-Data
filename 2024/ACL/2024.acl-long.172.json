@@ -1,0 +1,30 @@
+{
+  "title": "LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding",
+  "authors": [
+    "Yushi Bai",
+    "Xin Lv",
+    "Jiajie Zhang",
+    "Hongchang Lyu",
+    "Jiankai Tang",
+    "Zhidian Huang",
+    "Zhengxiao Du",
+    "Xiao Liu",
+    "Aohan Zeng",
+    "Lei Hou",
+    "Yuxiao Dong",
+    "Jie Tang",
+    "Juanzi Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.acl-long.172",
+  "acl_url": "https://aclanthology.org/2024.acl-long.172/"
+}

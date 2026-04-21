@@ -1,0 +1,22 @@
+{
+  "title": "UniEX: An Effective and Efficient Framework for Unified Information Extraction via a Span-extractive Perspective",
+  "authors": [
+    "Ping Yang",
+    "Junyu Lu",
+    "Ruyi Gan",
+    "Junjie Wang",
+    "Yuxiang Zhang",
+    "Jiaxing Zhang",
+    "Pingjian Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.907",
+  "acl_url": "https://aclanthology.org/2023.acl-long.907/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "BITE: Textual Backdoor Attacks with Iterative Trigger Injection",
+  "authors": [
+    "Jun Yan",
+    "Vansh Gupta",
+    "Xiang Ren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.acl-long.725",
+  "acl_url": "https://aclanthology.org/2023.acl-long.725/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "CHiMED-GPT: A Chinese Medical Large Language Model with Full Training Regime and Better Alignment to Human Preferences",
+  "authors": [
+    "Yuanhe Tian",
+    "Ruyi Gan",
+    "Yan Song",
+    "Jiaxing Zhang",
+    "Yongdong Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.acl-long.386",
+  "acl_url": "https://aclanthology.org/2024.acl-long.386/"
+}

@@ -1,0 +1,42 @@
+{
+  "title": "PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts",
+  "authors": [
+    "Stephen H. Bach",
+    "Victor Sanh",
+    "Zheng-Xin Yong",
+    "Albert Webson",
+    "Colin Raffel",
+    "Nihal V. Nayak",
+    "Abheesht Sharma",
+    "Taewoon Kim",
+    "M Saiful Bari",
+    "Thibault Fevry",
+    "Zaid Alyafeai",
+    "Manan Dey",
+    "Andrea Santilli",
+    "Zhiqing Sun",
+    "Srulik Ben-David",
+    "Canwen Xu",
+    "Gunjan Chhablani",
+    "Han Wang",
+    "Jason Alan Fries",
+    "Maged S. Al-shaibani",
+    "Shanya Sharma",
+    "Urmish Thakker",
+    "Khalid Almubarak",
+    "Xiangru Tang",
+    "Dragomir Radev",
+    "Mike Tian-Jian Jiang",
+    "Alexander M. Rush"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-demo.9",
+  "acl_url": "https://aclanthology.org/2022.acl-demo.9/"
+}

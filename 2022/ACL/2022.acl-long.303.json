@@ -1,0 +1,22 @@
+{
+  "title": "FiNER: Financial Numeric Entity Recognition for XBRL Tagging",
+  "authors": [
+    "Lefteris Loukas",
+    "Manos Fergadiotis",
+    "Ilias Chalkidis",
+    "Eirini Spyropoulou",
+    "Prodromos Malakasiotis",
+    "Ion Androutsopoulos",
+    "George Paliouras"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.acl-long.303",
+  "acl_url": "https://aclanthology.org/2022.acl-long.303/"
+}

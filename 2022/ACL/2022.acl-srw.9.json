@@ -1,0 +1,19 @@
+{
+  "title": "GN Ner: Reducing Overlapping in Span-based NER Using Graph Neural Networks",
+  "authors": [
+    "Urchade Zaratiana",
+    "Nadi Tomeh",
+    "Pierre Holat",
+    "Thierry Charnois"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.acl-srw.9",
+  "acl_url": "https://aclanthology.org/2022.acl-srw.9/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "FEDLEGAL: The First Real-World Federated Learning Benchmark for Legal NLP",
+  "authors": [
+    "Zhuo Zhang",
+    "Xiangjing Hu",
+    "Jingyuan Zhang",
+    "Yating Zhang",
+    "Hui Wang",
+    "Lizhen Qu",
+    "Zenglin Xu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.193",
+  "acl_url": "https://aclanthology.org/2023.acl-long.193/"
+}

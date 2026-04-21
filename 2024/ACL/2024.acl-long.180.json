@@ -1,0 +1,22 @@
+{
+  "title": "Landmark Embedding: A Chunking-Free Embedding Method For Retrieval Augmented Long-Context Large Language Models",
+  "authors": [
+    "Kun Luo",
+    "Zheng Liu",
+    "Shitao Xiao",
+    "Tong Zhou",
+    "Yubo Chen",
+    "Jun Zhao",
+    "Kang Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.acl-long.180",
+  "acl_url": "https://aclanthology.org/2024.acl-long.180/"
+}

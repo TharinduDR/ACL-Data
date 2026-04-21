@@ -1,0 +1,25 @@
+{
+  "title": "DIFFUSIONDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models",
+  "authors": [
+    "Zijie J. Wang",
+    "Evan Montoya",
+    "David Munechika",
+    "Haoyang Yang",
+    "Benjamin Hoover",
+    "Duen Horng Chau"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2023.acl-long.51",
+  "acl_url": "https://aclanthology.org/2023.acl-long.51/"
+}

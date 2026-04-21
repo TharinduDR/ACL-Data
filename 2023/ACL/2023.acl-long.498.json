@@ -1,0 +1,22 @@
+{
+  "title": "Characterizing and Measuring Linguistic Dataset Drift",
+  "authors": [
+    "Tyler A. Chang",
+    "Kishaloy Halder",
+    "Neha Anna John",
+    "Yogarshi Vyas",
+    "Yassine Benajiba",
+    "Miguel Ballesteros",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.acl-long.498",
+  "acl_url": "https://aclanthology.org/2023.acl-long.498/"
+}

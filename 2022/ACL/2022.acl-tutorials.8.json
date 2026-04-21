@@ -1,0 +1,29 @@
+{
+  "title": "Natural Language Processing for Multilingual Task-Oriented Dialogue",
+  "authors": [
+    "Evgenia Razumovskaia",
+    "Goran Glavaš",
+    "Olga Majewska",
+    "Edoardo Maria Ponti",
+    "Ivan Vulić"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Portuguese",
+    "Spanish",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-tutorials.8",
+  "acl_url": "https://aclanthology.org/2022.acl-tutorials.8/"
+}

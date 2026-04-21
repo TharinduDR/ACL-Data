@@ -1,0 +1,22 @@
+{
+  "title": "A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking",
+  "authors": [
+    "Yong Shan",
+    "Zekang Li",
+    "Jinchao Zhang",
+    "Fandong Meng",
+    "Yang Feng",
+    "Cheng Niu",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.acl-main.563",
+  "acl_url": "https://aclanthology.org/2020.acl-main.563/"
+}

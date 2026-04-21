@@ -1,0 +1,20 @@
+{
+  "title": "Stage-wise Fine-tuning for Graph-to-Text Generation",
+  "authors": [
+    "Qingyun Wang",
+    "Semih Yavuz",
+    "Xi Victoria Lin",
+    "Heng Ji",
+    "Nazneen Fatema Rajani"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.acl-srw.2",
+  "acl_url": "https://aclanthology.org/2021.acl-srw.2/"
+}

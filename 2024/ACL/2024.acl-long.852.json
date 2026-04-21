@@ -1,0 +1,25 @@
+{
+  "title": "DOCMath-Eval: Evaluating Math Reasoning Capabilities of LLMs in Understanding Long and Specialized Documents",
+  "authors": [
+    "Yilun Zhao",
+    "Yitao Long",
+    "Hongjun Liu",
+    "Ryo Kamoi",
+    "Linyong Nan",
+    "Lyuhao Chen",
+    "Yixin Liu",
+    "Xiangru Tang",
+    "Rui Zhang",
+    "Arman Cohan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, multi-hop question answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.acl-long.852",
+  "acl_url": "https://aclanthology.org/2024.acl-long.852/"
+}

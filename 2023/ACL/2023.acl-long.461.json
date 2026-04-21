@@ -1,0 +1,27 @@
+{
+  "title": "MAD-TSC: A Multilingual Aligned News Dataset for Target-dependent Sentiment Classification",
+  "authors": [
+    "Evan Dufraisse",
+    "Adrian Popescu",
+    "Julien Tourille",
+    "Armelle Brun",
+    "Jerome Deshayes"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Italian",
+    "French",
+    "Portuguese",
+    "Dutch",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2023.acl-long.461",
+  "acl_url": "https://aclanthology.org/2023.acl-long.461/"
+}

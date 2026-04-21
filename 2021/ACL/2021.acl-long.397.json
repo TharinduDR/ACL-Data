@@ -1,0 +1,24 @@
+{
+  "title": "From Paraphrasing to Semantic Parsing: Unsupervised Semantic Parsing via Synchronous Semantic Decoding",
+  "authors": [
+    "Shan Wu",
+    "Bo Chen",
+    "Chunlei Xin",
+    "Xianpei Han",
+    "Le Sun",
+    "Weipeng Zhang",
+    "Jiansong Chen",
+    "Fan Yang",
+    "Xunliang Cai"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.acl-long.397",
+  "acl_url": "https://aclanthology.org/2021.acl-long.397/"
+}

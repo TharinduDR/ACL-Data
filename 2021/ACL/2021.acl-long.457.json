@@ -1,0 +1,21 @@
+{
+  "title": "SMedBERT: A Knowledge-Enhanced Pre-trained Language Model with Structured Semantics for Medical Text Mining",
+  "authors": [
+    "Taolin Zhang",
+    "Zerui Cai",
+    "Chengyu Wang",
+    "Minghui Qiu",
+    "Bite Yang",
+    "Xiaofeng He"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T13 Knowledge discovery/representation",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2021.acl-long.457",
+  "acl_url": "https://aclanthology.org/2021.acl-long.457/"
+}

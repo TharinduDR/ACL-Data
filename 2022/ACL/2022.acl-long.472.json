@@ -1,0 +1,24 @@
+{
+  "title": "Language-Agnostic Meta-Learning for Low-Resource Text-to-Speech with Articulatory Features",
+  "authors": [
+    "Florian Lux",
+    "Ngoc Thang Vu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Hungarian",
+    "Dutch",
+    "Finnish",
+    "Spanish",
+    "Greek"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2022.acl-long.472",
+  "acl_url": "https://aclanthology.org/2022.acl-long.472/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Automatic Error Analysis for Document-level Information Extraction",
+  "authors": [
+    "Aliva Das",
+    "Xinya Du",
+    "Barry Wang",
+    "Kejian Shi",
+    "Jiayuan Gu",
+    "Thomas Porter",
+    "Claire Cardie"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.274",
+  "acl_url": "https://aclanthology.org/2022.acl-long.274/"
+}

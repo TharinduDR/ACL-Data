@@ -1,0 +1,21 @@
+{
+  "title": "ERASER: A Benchmark to Evaluate Rationalized NLP Models",
+  "authors": [
+    "Jay DeYoung",
+    "Sarthak Jain",
+    "Nazneen Fatema Rajani",
+    "Eric Lehman",
+    "Caiming Xiong",
+    "Richard Socher",
+    "Byron C. Wallace"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.acl-main.408",
+  "acl_url": "https://aclanthology.org/2020.acl-main.408/"
+}

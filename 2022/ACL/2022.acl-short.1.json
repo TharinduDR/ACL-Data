@@ -1,0 +1,17 @@
+{
+  "title": "BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models",
+  "authors": [
+    "Elad Ben-Zaken",
+    "Shauli Ravfogel",
+    "Yoav Goldberg"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-short.1",
+  "acl_url": "https://aclanthology.org/2022.acl-short.1/"
+}

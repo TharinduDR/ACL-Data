@@ -1,0 +1,22 @@
+{
+  "title": "OpenPrompt: An Open-source Framework for Prompt-learning",
+  "authors": [
+    "Ning Ding",
+    "Shengding Hu",
+    "Weilin Zhao",
+    "Yulin Chen",
+    "Zhiyuan Liu",
+    "Hai-Tao Zheng",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.acl-demo.10",
+  "acl_url": "https://aclanthology.org/2022.acl-demo.10/"
+}

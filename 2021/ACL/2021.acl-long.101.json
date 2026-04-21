@@ -1,0 +1,35 @@
+{
+  "title": "Improving Zero-Shot Translation by Disentangling Positional Information",
+  "authors": [
+    "Danni Liu",
+    "Jan Niehues",
+    "James Cross",
+    "Francisco Guzmán",
+    "Xian Li"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Dutch",
+    "Romanian",
+    "German",
+    "Spanish",
+    "Finnish",
+    "French",
+    "Portuguese",
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Odia",
+    "Punjabi",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.acl-long.101",
+  "acl_url": "https://aclanthology.org/2021.acl-long.101/"
+}

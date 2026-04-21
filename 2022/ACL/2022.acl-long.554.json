@@ -1,0 +1,17 @@
+{
+  "title": "Softmax Bottleneck Makes Language Models Unable to Represent Multi-mode Word Distributions",
+  "authors": [
+    "Haw-Shiuan Chang",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.554",
+  "acl_url": "https://aclanthology.org/2022.acl-long.554/"
+}

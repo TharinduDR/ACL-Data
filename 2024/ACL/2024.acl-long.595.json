@@ -1,0 +1,50 @@
+{
+  "title": "INDICGENBENCH: A Multilingual Benchmark to Evaluate Generation Capabilities of LLMs on Indic Languages",
+  "authors": [
+    "Harman Singh",
+    "Nitish Gupta",
+    "Shikhar Bharadwaj",
+    "Dinesh Tewari",
+    "Partha Talukdar"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Gujarati",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Tamil",
+    "Telugu",
+    "Urdu",
+    "Assamese",
+    "Bhojpuri",
+    "Nepali",
+    "Odia",
+    "Punjabi",
+    "Pashto",
+    "Sanskrit",
+    "Awadhi",
+    "Haryanvi",
+    "Tibetan",
+    "Bodo",
+    "Garhwali",
+    "Konkani",
+    "Chhattisgarhi",
+    "Rajasthani",
+    "Maithili",
+    "Manipuri",
+    "Malvi",
+    "Marwari",
+    "Santali"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.acl-long.595",
+  "acl_url": "https://aclanthology.org/2024.acl-long.595/"
+}

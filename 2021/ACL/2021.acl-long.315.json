@@ -1,0 +1,21 @@
+{
+  "title": "Dual Reader-Parser on Hybrid Textual and Tabular Evidence for Open Domain Question Answering",
+  "authors": [
+    "Alexander Hanbo Li",
+    "Patrick Ng",
+    "Peng Xu",
+    "Henghui Zhu",
+    "Zhiguo Wang",
+    "Bing Xiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2021.acl-long.315",
+  "acl_url": "https://aclanthology.org/2021.acl-long.315/"
+}

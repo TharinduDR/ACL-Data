@@ -1,0 +1,35 @@
+{
+  "title": "CaMEL: Case Marker Extraction without Labels",
+  "authors": [
+    "Leonie Weissweiler",
+    "Valentin Hofmann",
+    "Masoud Jalili Sabet",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "Albanian",
+    "Belarusian",
+    "Bengali",
+    "Czech",
+    "German",
+    "Greek",
+    "Icelandic",
+    "Indonesian",
+    "Irish",
+    "Latin",
+    "Lithuanian",
+    "Nynorsk",
+    "Bokmål",
+    "Polish",
+    "Russian",
+    "Slovenian",
+    "Swedish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.acl-long.377",
+  "acl_url": "https://aclanthology.org/2022.acl-long.377/"
+}

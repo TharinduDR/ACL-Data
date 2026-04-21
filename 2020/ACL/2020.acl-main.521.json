@@ -1,0 +1,20 @@
+{
+  "title": "IMOJIE: Iterative Memory-Based Joint Open Information Extraction",
+  "authors": [
+    "Keshav Kolluru",
+    "Samarth Aggarwal",
+    "Vipul Rathore",
+    "Mausam",
+    "Soumen Chakrabarti"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.acl-main.521",
+  "acl_url": "https://aclanthology.org/2020.acl-main.521/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Machine Translation for Livonian: Catering to 20 Speakers",
+  "authors": [
+    "Matīss Rikters",
+    "Marili Tomingas",
+    "Tuuli Tuisk",
+    "Valts Ernštreits",
+    "Mark Fishel"
+  ],
+  "languages": [
+    "Livonian",
+    "English",
+    "Estonian",
+    "Latvian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-short.55",
+  "acl_url": "https://aclanthology.org/2022.acl-short.55/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "RARR: Researching and Revising What Language Models Say, Using Language Models",
+  "authors": [
+    "Luyu Gao",
+    "Zhuyun Dai",
+    "Panupong Pasupat",
+    "Anthony Chen",
+    "Arun Tejasvi Chaganty",
+    "Yicheng Fan",
+    "Vincent Y. Zhao",
+    "Ni Lao",
+    "Hongrae Lee",
+    "Da-Cheng Juan",
+    "Kelvin Guu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.acl-long.910",
+  "acl_url": "https://aclanthology.org/2023.acl-long.910/"
+}

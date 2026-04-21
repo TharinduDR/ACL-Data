@@ -1,0 +1,19 @@
+{
+  "title": "Hypergraph Transformer: Weakly-Supervised Multi-hop Reasoning for Knowledge-based Visual Question Answering",
+  "authors": [
+    "Yu-Jung Heo",
+    "Eun-Sol Kim",
+    "Woo Suk Choi",
+    "Byoung-Tak Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.acl-long.29",
+  "acl_url": "https://aclanthology.org/2022.acl-long.29/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Towards More Equitable Question Answering Systems: How Much More Data Do You Need?",
+  "authors": [
+    "Arnab Debnath",
+    "Navid Rajabi",
+    "Fardina Fathmiul Alam",
+    "Antonios Anastasopoulos"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bengali",
+    "Finnish",
+    "Indonesian",
+    "Swahili",
+    "Russian",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.acl-short.79",
+  "acl_url": "https://aclanthology.org/2021.acl-short.79/"
+}

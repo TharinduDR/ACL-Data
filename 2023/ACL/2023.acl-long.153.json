@@ -1,0 +1,22 @@
+{
+  "title": "Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters",
+  "authors": [
+    "Boshi Wang",
+    "Sewon Min",
+    "Xiang Deng",
+    "Jiaming Shen",
+    "Luke Zettlemoyer",
+    "Huan Sun",
+    "You Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.acl-long.153",
+  "acl_url": "https://aclanthology.org/2023.acl-long.153/"
+}

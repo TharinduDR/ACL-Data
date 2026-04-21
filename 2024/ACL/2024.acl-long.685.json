@@ -1,0 +1,22 @@
+{
+  "title": "Retaining Key Information under High Compression Ratios: Query-Guided Compressor for LLMs",
+  "authors": [
+    "Zhiwei Cao",
+    "Qian Cao",
+    "Yu Lu",
+    "Ningxin Peng",
+    "Luyang Huang",
+    "Shanbo Cheng",
+    "Jinsong Su"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.acl-long.685",
+  "acl_url": "https://aclanthology.org/2024.acl-long.685/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "An Embarrassingly Simple Method to Mitigate Undesirable Properties of Pretrained Language Model Tokenizers",
+  "authors": [
+    "Valentin Hofmann",
+    "Hinrich Schütze",
+    "Janet B. Pierrehumbert"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-short.43",
+  "acl_url": "https://aclanthology.org/2022.acl-short.43/"
+}

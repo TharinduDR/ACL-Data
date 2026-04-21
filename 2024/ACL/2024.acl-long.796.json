@@ -1,0 +1,41 @@
+{
+  "title": "Cendol: Open Instruction-tuned Generative Large Language Models for Indonesian Languages",
+  "authors": [
+    "Samuel Cahyawijaya",
+    "Holy Lovenia",
+    "Fajri Koto",
+    "Rifki Afina Putri",
+    "Emmanuel Dave",
+    "Jhonson Lee",
+    "Nuur Shadieq",
+    "Wawan Cenggoro",
+    "Salsabil Maulana Akbar",
+    "Muhammad Ihza Mahendra",
+    "Dea Annisayanti Putri",
+    "Bryan Wilie",
+    "Genta Indra Winata",
+    "Alham Fikri Aji",
+    "Ayu Purwarianti",
+    "Pascal Fung"
+  ],
+  "languages": [
+    "Indonesian",
+    "Acehnese",
+    "Balinese",
+    "Banjarese",
+    "Buginese",
+    "Javanese",
+    "Madurese",
+    "Minangkabau",
+    "Ngaju",
+    "Sundanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.acl-long.796",
+  "acl_url": "https://aclanthology.org/2024.acl-long.796/"
+}

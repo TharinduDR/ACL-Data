@@ -1,0 +1,20 @@
+{
+  "title": "An Inner Table Retriever for Robust Table Question Answering",
+  "authors": [
+    "Weizhe Lin",
+    "Rexhina Blloshmi",
+    "Bill Byrne",
+    "Adrià de Gispert",
+    "Gonzalo Iglesias"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.acl-long.551",
+  "acl_url": "https://aclanthology.org/2023.acl-long.551/"
+}

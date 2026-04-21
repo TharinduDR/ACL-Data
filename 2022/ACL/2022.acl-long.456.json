@@ -1,0 +1,22 @@
+{
+  "title": "Bridging the Data Gap between Training and Inference for Unsupervised Neural Machine Translation",
+  "authors": [
+    "Zhiwei He",
+    "Xing Wang",
+    "Rui Wang",
+    "Shuming Shi",
+    "Zhaopeng Tu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.acl-long.456",
+  "acl_url": "https://aclanthology.org/2022.acl-long.456/"
+}

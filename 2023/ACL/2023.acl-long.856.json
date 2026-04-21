@@ -1,0 +1,47 @@
+{
+  "title": "Beyond English-Centric Bitexts for Better Multilingual Language Representation Learning",
+  "authors": [
+    "Barun Patra",
+    "Saksham Singhal",
+    "Shaohan Huang",
+    "Zewen Chi",
+    "Li Dong",
+    "Furu Wei",
+    "Vishrav Chaudhary",
+    "Xia Song"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bulgarian",
+    "Bengali",
+    "German",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Swedish",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Urdu",
+    "Vietnamese",
+    "Chinese",
+    "Zulu",
+    "Xhosa",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2023.acl-long.856",
+  "acl_url": "https://aclanthology.org/2023.acl-long.856/"
+}

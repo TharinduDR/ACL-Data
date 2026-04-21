@@ -1,0 +1,20 @@
+{
+  "title": "HistRED: A Historical Document-Level Relation Extraction Dataset",
+  "authors": [
+    "Soyoung Yang",
+    "Minseok Choi",
+    "Youngwoo Cho",
+    "Jaegul Choo"
+  ],
+  "languages": [
+    "Korean",
+    "Hanja"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2023.acl-long.180",
+  "acl_url": "https://aclanthology.org/2023.acl-long.180/"
+}

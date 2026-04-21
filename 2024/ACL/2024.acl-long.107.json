@@ -1,0 +1,23 @@
+{
+  "title": "Self-Alignment for Factuality: Mitigating Hallucinations in LLMs via Self-Evaluation",
+  "authors": [
+    "Xiaoying Zhang",
+    "Baolin Peng",
+    "Ye Tian",
+    "Jingyan Zhou",
+    "Lifeng Jin",
+    "Linfeng Song",
+    "Haitao Mi",
+    "Helen Meng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.107",
+  "acl_url": "https://aclanthology.org/2024.acl-long.107/"
+}

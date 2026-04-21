@@ -1,0 +1,18 @@
+{
+  "title": "AMRs Assemble! Learning to Ensemble with Autoregressive Models for AMR Parsing",
+  "authors": [
+    "Abelardo Carlos Martínez Lorenzo",
+    "Pere-Lluís Huguet Cabot",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-short.137",
+  "acl_url": "https://aclanthology.org/2023.acl-short.137/"
+}

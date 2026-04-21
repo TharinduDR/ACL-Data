@@ -1,0 +1,26 @@
+{
+  "title": "Translation-Enhanced Multilingual Text-to-Image Generation",
+  "authors": [
+    "Yaoyiran Li",
+    "Ching-Yun Chang",
+    "Stephen Rawls",
+    "Ivan Vulić",
+    "Anna Korhonen"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "Finnish",
+    "Spanish",
+    "Indonesian",
+    "Japanese",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.acl-long.510",
+  "acl_url": "https://aclanthology.org/2023.acl-long.510/"
+}

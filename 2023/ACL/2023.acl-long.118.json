@@ -1,0 +1,20 @@
+{
+  "title": "KALM: Knowledge-Aware Integration of Local, Document, and Global Contexts for Long Document Understanding",
+  "authors": [
+    "Shangbin Feng",
+    "Zhaoxuan Tan",
+    "Wenqian Zhang",
+    "Zhenyu Lei",
+    "Yulia Tsvetkov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.acl-long.118",
+  "acl_url": "https://aclanthology.org/2023.acl-long.118/"
+}

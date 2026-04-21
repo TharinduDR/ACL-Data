@@ -1,0 +1,22 @@
+{
+  "title": "Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages",
+  "authors": [
+    "Mofetoluwa Adeyemi",
+    "Akintunde Oladipo",
+    "Ronak Pradeep",
+    "Jimmy Lin"
+  ],
+  "languages": [
+    "English",
+    "Hausa",
+    "Somali",
+    "Swahili",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.acl-short.59",
+  "acl_url": "https://aclanthology.org/2024.acl-short.59/"
+}

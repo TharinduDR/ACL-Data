@@ -1,0 +1,22 @@
+{
+  "title": "NollySent: Leveraging Transfer Learning and Machine Translation for Nigerian Movie Sentiment Classification",
+  "authors": [
+    "Iyanuoluwa Shode",
+    "David Ifeoluwa Adelani",
+    "Jing Peng",
+    "Anna Feldman"
+  ],
+  "languages": [
+    "English",
+    "Hausa",
+    "Igbo",
+    "Nigerian-Pidgin",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.acl-short.85",
+  "acl_url": "https://aclanthology.org/2023.acl-short.85/"
+}

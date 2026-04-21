@@ -1,0 +1,21 @@
+{
+  "title": "A Unified MRC Framework for Named Entity Recognition",
+  "authors": [
+    "Xiaoya Li",
+    "Jingrong Feng",
+    "Yuxian Meng",
+    "Qinghong Han",
+    "Fei Wu",
+    "Jiwei Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2020.acl-main.519",
+  "acl_url": "https://aclanthology.org/2020.acl-main.519/"
+}

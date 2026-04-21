@@ -1,0 +1,23 @@
+{
+  "title": "Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus",
+  "authors": [
+    "Luisa Bentivogli",
+    "Beatrice Savoldi",
+    "Matteo Negri",
+    "Mattia Antonino Di Gangi",
+    "Roldano Cattoni",
+    "Marco Turchi"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "French"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2020.acl-main.619",
+  "acl_url": "https://aclanthology.org/2020.acl-main.619/"
+}

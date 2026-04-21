@@ -1,0 +1,46 @@
+{
+  "title": "Language Embeddings for Typology and Cross-lingual Transfer Learning",
+  "authors": [
+    "Dian Yu",
+    "Taiqi He",
+    "Kenji Sagae"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Romanian",
+    "Arabic",
+    "German",
+    "Russian",
+    "Bulgarian",
+    "Greek",
+    "Slovak",
+    "Catalan",
+    "Hebrew",
+    "Slovene",
+    "Croatian",
+    "Hungarian",
+    "Spanish",
+    "Czech",
+    "Indonesian",
+    "Swedish",
+    "Danish",
+    "Italian",
+    "Turkish",
+    "Dutch",
+    "Norwegian Bokmål",
+    "Ukrainian",
+    "Estonian",
+    "Polish",
+    "Vietnamese",
+    "Finnish",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.acl-long.560",
+  "acl_url": "https://aclanthology.org/2021.acl-long.560/"
+}

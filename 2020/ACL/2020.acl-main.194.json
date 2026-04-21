@@ -1,0 +1,20 @@
+{
+  "title": "MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification",
+  "authors": [
+    "Jiaao Chen",
+    "Zichao Yang",
+    "Diyi Yang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2020.acl-main.194",
+  "acl_url": "https://aclanthology.org/2020.acl-main.194/"
+}

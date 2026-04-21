@@ -1,0 +1,20 @@
+{
+  "title": "QASR: QCRI Aljazeera Speech Resource A Large Scale Annotated Arabic Speech Corpus",
+  "authors": [
+    "Hamdy Mubarak",
+    "Amir Hussein",
+    "Shammur Absar Chowdhury",
+    "Ahmed Ali"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2021.acl-long.177",
+  "acl_url": "https://aclanthology.org/2021.acl-long.177/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation",
+  "authors": [
+    "Weixiang Yan",
+    "Haitian Liu",
+    "Yunkun Wang",
+    "Yunzhe Li",
+    "Qian Chen",
+    "Wen Wang",
+    "Tingyu Lin",
+    "Weishan Zhao",
+    "Li Zhu",
+    "Hari Sundaram",
+    "Shuiguang Deng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.301",
+  "acl_url": "https://aclanthology.org/2024.acl-long.301/"
+}

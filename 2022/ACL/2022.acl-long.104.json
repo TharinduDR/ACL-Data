@@ -1,0 +1,25 @@
+{
+  "title": "Bias Mitigation in Machine Translation Quality Estimation",
+  "authors": [
+    "Hanna Behnke",
+    "Marina Fomicheva",
+    "Lucia Specia"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Romanian",
+    "Sinhala",
+    "Estonian",
+    "Nepali",
+    "Russian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.104",
+  "acl_url": "https://aclanthology.org/2022.acl-long.104/"
+}

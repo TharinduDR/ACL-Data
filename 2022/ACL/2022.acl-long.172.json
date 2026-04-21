@@ -1,0 +1,22 @@
+{
+  "title": "Redistributing Low-Frequency Words: Making the Most of Monolingual Data in Non-Autoregressive Translation",
+  "authors": [
+    "Liang Ding",
+    "Longyue Wang",
+    "Shuming Shi",
+    "Dacheng Tao",
+    "Zhaopeng Tu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian",
+    "Chinese",
+    "Cantonese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.acl-long.172",
+  "acl_url": "https://aclanthology.org/2022.acl-long.172/"
+}

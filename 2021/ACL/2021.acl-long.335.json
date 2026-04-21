@@ -1,0 +1,22 @@
+{
+  "title": "Are Pre-trained Convolutions Better than Pre-trained Transformers?",
+  "authors": [
+    "Yi Tay",
+    "Mostafa Dehghani",
+    "Jai Gupta",
+    "Vamsi Ariband",
+    "Dara Bahri",
+    "Zhen Qin",
+    "Donald Metzler"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2021.acl-long.335",
+  "acl_url": "https://aclanthology.org/2021.acl-long.335/"
+}

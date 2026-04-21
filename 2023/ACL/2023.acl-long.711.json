@@ -1,0 +1,25 @@
+{
+  "title": "Improving the Detection of Multilingual Online Attacks with Rich Social Media Data from Singapore",
+  "authors": [
+    "Janosch Haber",
+    "Bertie Vidgen",
+    "Matt Chapman",
+    "Vibhor Agarwal",
+    "Roy Ka-Wei Lee",
+    "Yong Keong Yap",
+    "Paul Röttger"
+  ],
+  "languages": [
+    "English",
+    "Indonesian",
+    "Malay",
+    "Singlish"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.711",
+  "acl_url": "https://aclanthology.org/2023.acl-long.711/"
+}

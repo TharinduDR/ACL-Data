@@ -1,0 +1,21 @@
+{
+  "title": "TAMS: Translation-Assisted Morphological Segmentation",
+  "authors": [
+    "Enora Rice",
+    "Ali Marashian",
+    "Luke Gessler",
+    "Alexis Palmer",
+    "Katharina von der Wense"
+  ],
+  "languages": [
+    "Tsez",
+    "Lezgi",
+    "Arapaho"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.acl-long.366",
+  "acl_url": "https://aclanthology.org/2024.acl-long.366/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "GL-CLEF: A Global–Local Contrastive Learning Framework for Cross-lingual Spoken Language Understanding",
+  "authors": [
+    "Libo Qin",
+    "Qiguang Chen",
+    "Tianbao Xie",
+    "Qixin Li",
+    "Jian-Guang Lou",
+    "Wanxiang Che",
+    "Min-Yen Kan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Chinese",
+    "Portuguese",
+    "Japanese",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2022.acl-long.191",
+  "acl_url": "https://aclanthology.org/2022.acl-long.191/"
+}

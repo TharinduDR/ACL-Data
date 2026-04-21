@@ -1,0 +1,23 @@
+{
+  "title": "Direct parsing to sentiment graphs",
+  "authors": [
+    "David Samuel",
+    "Jeremy Barnes",
+    "Robin Kurtz",
+    "Stephan Oepen",
+    "Lilja Øvrelid",
+    "Erik Velldal"
+  ],
+  "languages": [
+    "Norwegian",
+    "Basque",
+    "Catalan",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.acl-short.51",
+  "acl_url": "https://aclanthology.org/2022.acl-short.51/"
+}

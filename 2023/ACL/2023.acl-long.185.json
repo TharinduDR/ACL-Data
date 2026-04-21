@@ -1,0 +1,19 @@
+{
+  "title": "PVGRU: Generating Diverse and Relevant Dialogue Responses via Pseudo-Variational Mechanism",
+  "authors": [
+    "Yongkang Liu",
+    "Shi Feng",
+    "Daling Wang",
+    "Yifei Zhang",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.185",
+  "acl_url": "https://aclanthology.org/2023.acl-long.185/"
+}

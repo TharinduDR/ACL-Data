@@ -1,0 +1,23 @@
+{
+  "title": "Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification",
+  "authors": [
+    "Lu Fan",
+    "Guangfeng Yan",
+    "Qimai Li",
+    "Han Liu",
+    "Xiaotong Zhang",
+    "Albert Y.S. Lam",
+    "Xiao-Ming Wu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.acl-main.99",
+  "acl_url": "https://aclanthology.org/2020.acl-main.99/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "WAV2GLOSS: Generating Interlinear Glossed Text from Speech",
+  "authors": [
+    "Taiqi He",
+    "Kwanghee Choi",
+    "Lindia Tjuatja",
+    "Nathaniel R. Robinson",
+    "Jiatong Shi",
+    "Shinji Watanabe",
+    "Graham Neubig",
+    "David R. Mortensen",
+    "Lori Levin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T16 Machine Translation and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.acl-long.34",
+  "acl_url": "https://aclanthology.org/2024.acl-long.34/"
+}

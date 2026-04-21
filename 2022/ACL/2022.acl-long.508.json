@@ -1,0 +1,27 @@
+{
+  "title": "Sharpness-Aware Minimization Improves Language Model Generalization",
+  "authors": [
+    "Dara Bahri",
+    "Hossein Mobahi",
+    "Yi Tay"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bengali",
+    "Finnish",
+    "Indonesian",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Tamil",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.508",
+  "acl_url": "https://aclanthology.org/2022.acl-long.508/"
+}

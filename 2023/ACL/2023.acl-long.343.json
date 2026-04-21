@@ -1,0 +1,24 @@
+{
+  "title": "FairPrism: Evaluating Fairness-Related Harms in Text Generation",
+  "authors": [
+    "Eve Fleisig",
+    "Aubrie Amstutz",
+    "Chad Atalla",
+    "Su Lin Blodgett",
+    "Hal Daumé III",
+    "Alexandra Olteanu",
+    "Emily Sheng",
+    "Dan Vann",
+    "Hanna Wallach"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.acl-long.343",
+  "acl_url": "https://aclanthology.org/2023.acl-long.343/"
+}

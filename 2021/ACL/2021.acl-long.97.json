@@ -1,0 +1,30 @@
+{
+  "title": "A Dataset and Baselines for Multilingual Reply Suggestion",
+  "authors": [
+    "Mozhi Zhang",
+    "Wei Wang",
+    "Budhaditya Deb",
+    "Guoqing Zheng",
+    "Milad Shokouhi",
+    "Ahmed Hassan Awadallah"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Portuguese",
+    "French",
+    "Japanese",
+    "Swedish",
+    "Italian",
+    "Dutch",
+    "Russian"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.acl-long.97",
+  "acl_url": "https://aclanthology.org/2021.acl-long.97/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Improving Adversarial Text Generation by Modeling the Distant Future",
+  "authors": [
+    "Ruiyi Zhang",
+    "Changyou Chen",
+    "Zhe Gan",
+    "Wenlin Wang",
+    "Dinghan Shen",
+    "Guoyin Wang",
+    "Zheng Wen",
+    "Lawrence Carin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2020.acl-main.227",
+  "acl_url": "https://aclanthology.org/2020.acl-main.227/"
+}

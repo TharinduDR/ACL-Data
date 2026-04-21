@@ -1,0 +1,22 @@
+{
+  "title": "PHOTON: A Robust Cross-Domain Text-to-SQL System",
+  "authors": [
+    "Jichuan Zeng",
+    "Xi Victoria Lin",
+    "Caiming Xiong",
+    "Richard Socher",
+    "Michael R. Lyu",
+    "Irwin King",
+    "Steven C.H. Hoi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-demos.24",
+  "acl_url": "https://aclanthology.org/2020.acl-demos.24/"
+}

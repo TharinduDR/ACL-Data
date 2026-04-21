@@ -1,0 +1,21 @@
+{
+  "title": "Hints on the data for language modeling of synthetic languages with transformers",
+  "authors": [
+    "Rodolfo Zevallos",
+    "Núria Bel"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Turkish",
+    "Quechua"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.acl-long.699",
+  "acl_url": "https://aclanthology.org/2023.acl-long.699/"
+}

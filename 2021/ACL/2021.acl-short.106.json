@@ -1,0 +1,26 @@
+{
+  "title": "Learning to Solve NLP Tasks in an Incremental Number of Languages",
+  "authors": [
+    "Giuseppe Castellucci",
+    "Simone Filice",
+    "Danilo Croce",
+    "Roberto Basili"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T20 Opinion & Argument Mining, Sentiment Analysis"
+  ],
+  "paper_id": "2021.acl-short.106",
+  "acl_url": "https://aclanthology.org/2021.acl-short.106/"
+}

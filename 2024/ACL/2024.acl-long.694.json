@@ -1,0 +1,26 @@
+{
+  "title": "API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs",
+  "authors": [
+    "Kinjal Basu",
+    "Ibrahim Abdelaziz",
+    "Subhajit Chaudhury",
+    "Soham Dan",
+    "Maxwell Crouse",
+    "Asim Munawar",
+    "Vernon Austel",
+    "Sadhana Kumaravel",
+    "Vinod Muthusamy",
+    "Pavan Kapanipathi",
+    "Luis A. Lastras"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.acl-long.694",
+  "acl_url": "https://aclanthology.org/2024.acl-long.694/"
+}

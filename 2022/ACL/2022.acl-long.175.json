@@ -1,0 +1,23 @@
+{
+  "title": "Generating Scientific Claims for Zero-Shot Scientific Fact Checking",
+  "authors": [
+    "Dustin Wright",
+    "David Wadden",
+    "Kyle Lo",
+    "Bailey Kuehl",
+    "Arman Cohan",
+    "Isabelle Augenstein",
+    "Lucy Lu Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T13 Knowledge discovery/representation",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.175",
+  "acl_url": "https://aclanthology.org/2022.acl-long.175/"
+}

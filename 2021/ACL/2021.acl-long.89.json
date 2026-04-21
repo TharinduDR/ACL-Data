@@ -1,0 +1,22 @@
+{
+  "title": "Multi-Task Retrieval for Knowledge-Intensive Tasks",
+  "authors": [
+    "Jean Maillard",
+    "Vladimir Karpukhin",
+    "Fabio Petroni",
+    "Wen-tau Yih",
+    "Barlas Oüguz",
+    "Veselin Stoyanov",
+    "Gargi Ghosh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.acl-long.89",
+  "acl_url": "https://aclanthology.org/2021.acl-long.89/"
+}

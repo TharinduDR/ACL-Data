@@ -1,0 +1,25 @@
+{
+  "title": "UltraEval: A Lightweight Platform for Flexible and Comprehensive Evaluation for LLMs",
+  "authors": [
+    "Chaoqun He",
+    "Renjie Luo",
+    "Shengding Hu",
+    "Yuanqian Zhao",
+    "Jie Zhou",
+    "Hanghao Wu",
+    "Jiajie Zhang",
+    "Xu Han",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.acl-demos.23",
+  "acl_url": "https://aclanthology.org/2024.acl-demos.23/"
+}

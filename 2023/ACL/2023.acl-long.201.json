@@ -1,0 +1,18 @@
+{
+  "title": "MatSci-NLP: Evaluating Scientific Language Models on Materials Science Language Tasks Using Text-to-Schema Modeling",
+  "authors": [
+    "Yu Song",
+    "Santiago Miret",
+    "Bang Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.201",
+  "acl_url": "https://aclanthology.org/2023.acl-long.201/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Emerging Cross-lingual Structure in Pretrained Language Models",
+  "authors": [
+    "Alexis Conneau",
+    "Shijie Wu",
+    "Haoran Li",
+    "Luke Zettlemoyer",
+    "Veselin Stoyanov"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T21 Parsing"
+  ],
+  "paper_id": "2020.acl-main.536",
+  "acl_url": "https://aclanthology.org/2020.acl-main.536/"
+}

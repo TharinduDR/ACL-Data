@@ -1,0 +1,20 @@
+{
+  "title": "Investigation on Data Adaptation Techniques for Neural Named Entity Recognition",
+  "authors": [
+    "Evgeniia Tokarchuk",
+    "David Thulke",
+    "Weiyue Wang",
+    "Christian Dugast",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.acl-srw.1",
+  "acl_url": "https://aclanthology.org/2021.acl-srw.1/"
+}

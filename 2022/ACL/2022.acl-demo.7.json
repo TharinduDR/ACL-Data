@@ -1,0 +1,19 @@
+{
+  "title": "QiuNiu: A Chinese Lyrics Generation System with Passage-Level Input",
+  "authors": [
+    "Le Zhang",
+    "Rongsheng Zhang",
+    "Xiaoxi Mao",
+    "Yongzhu Chang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2022.acl-demo.7",
+  "acl_url": "https://aclanthology.org/2022.acl-demo.7/"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "MAPO: Advancing Multilingual Reasoning through Multilingual-Alignment-as-Preference Optimization",
+  "authors": [
+    "Shuaijie She",
+    "Wei Zou",
+    "Shujian Huang",
+    "Wenhao Zhu",
+    "Xiang Liu",
+    "Xiang Geng",
+    "Jiajun Chen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Bengali",
+    "Thai",
+    "Swahili",
+    "Japanese",
+    "Russian",
+    "German",
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.acl-long.539",
+  "acl_url": "https://aclanthology.org/2024.acl-long.539/"
+}

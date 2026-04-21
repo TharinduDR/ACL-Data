@@ -1,0 +1,21 @@
+{
+  "title": "Joint Verification and Reranking for Open Fact Checking Over Tables",
+  "authors": [
+    "Michael Schlichtkrull",
+    "Vladimir Karpukhin",
+    "Barlas Oügüz",
+    "Mike Lewis",
+    "Wen-tau Yih",
+    "Sebastian Riedel"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.acl-long.529",
+  "acl_url": "https://aclanthology.org/2021.acl-long.529/"
+}

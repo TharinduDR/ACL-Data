@@ -1,0 +1,20 @@
+{
+  "title": "Randomized Positional Encodings Boost Length Generalization of Transformers",
+  "authors": [
+    "Anian Ruoss",
+    "Grégoire Delétang",
+    "Tim Genewein",
+    "Jordi Grau-Moya",
+    "Róbert Csordás",
+    "Mehdi Bennani",
+    "Shane Legg",
+    "Joel Veness"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.acl-short.161",
+  "acl_url": "https://aclanthology.org/2023.acl-short.161/"
+}

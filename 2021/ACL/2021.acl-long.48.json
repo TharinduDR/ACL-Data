@@ -1,0 +1,35 @@
+{
+  "title": "COSY: COUNTERFACTUAL SYNTAX FOR CROSS-LINGUAL UNDERSTANDING",
+  "authors": [
+    "Sicheng Yu",
+    "Hao Zhang",
+    "Yulei Niu",
+    "Qianru Sun",
+    "Jing Jiang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Spanish",
+    "German",
+    "Russian",
+    "Turkish",
+    "Arabic",
+    "Hindi",
+    "Vietnamese",
+    "Zulu",
+    "Xhosa",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.acl-long.48",
+  "acl_url": "https://aclanthology.org/2021.acl-long.48/"
+}

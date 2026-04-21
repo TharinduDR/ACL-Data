@@ -1,0 +1,25 @@
+{
+  "title": "Resolving Ambiguities in Text-to-Image Generative Models",
+  "authors": [
+    "Ninareh Mehrabi",
+    "Palash Goyal",
+    "Apurv Verma",
+    "Jwala Dhamala",
+    "Varun Kumar",
+    "Qian Hu",
+    "Kai-Wei Chang",
+    "Richard Zemel",
+    "Aram Galstyan",
+    "Rahul Gupta"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.804",
+  "acl_url": "https://aclanthology.org/2023.acl-long.804/"
+}

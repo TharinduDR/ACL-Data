@@ -1,0 +1,25 @@
+{
+  "title": "SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark",
+  "authors": [
+    "Zhenwen Liang",
+    "Kehan Guo",
+    "Gang Liu",
+    "Taicheng Guo",
+    "Yujun Zhou",
+    "Tianyu Yang",
+    "Jiajun Jiao",
+    "Renjie Pi",
+    "Jipeng Zhang",
+    "Xiangliang Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.acl-short.11",
+  "acl_url": "https://aclanthology.org/2024.acl-short.11/"
+}

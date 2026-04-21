@@ -1,0 +1,33 @@
+{
+  "title": "Enhancing Cross-lingual Natural Language Inference by Prompt-learning from Cross-lingual Templates",
+  "authors": [
+    "Kunxun Qi",
+    "Hai Wan",
+    "Jianfeng Du",
+    "Haolan Chen"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Greek",
+    "Bulgarian",
+    "Russian",
+    "Arabic",
+    "Turkish",
+    "Vietnamese",
+    "Thai",
+    "Chinese",
+    "Hindi",
+    "Swahili",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.134",
+  "acl_url": "https://aclanthology.org/2022.acl-long.134/"
+}

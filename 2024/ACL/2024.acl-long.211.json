@@ -1,0 +1,30 @@
+{
+  "title": "OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems",
+  "authors": [
+    "Chaoqun He",
+    "Renjie Luo",
+    "Yuzhuo Bai",
+    "Shengding Hu",
+    "Zhen Leng Thai",
+    "Junhao Shen",
+    "Jinyi Hu",
+    "Xu Han",
+    "Yujie Huang",
+    "Yuxiang Zhang",
+    "Jie Liu",
+    "Lei Qi",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.acl-long.211",
+  "acl_url": "https://aclanthology.org/2024.acl-long.211/"
+}

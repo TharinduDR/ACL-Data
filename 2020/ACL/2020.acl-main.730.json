@@ -1,0 +1,19 @@
+{
+  "title": "TVQA+: Spatio-Temporal Grounding for Video Question Answering",
+  "authors": [
+    "Jie Lei",
+    "Licheng Yu",
+    "Tamara L. Berg",
+    "Mohit Bansal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.acl-main.730",
+  "acl_url": "https://aclanthology.org/2020.acl-main.730/"
+}

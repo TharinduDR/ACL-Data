@@ -1,0 +1,25 @@
+{
+  "title": "Beyond Sentence-Level End-to-End Speech Translation: Context Helps",
+  "authors": [
+    "Biao Zhang",
+    "Ivan Titov",
+    "Barry Haddow",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.acl-long.200",
+  "acl_url": "https://aclanthology.org/2021.acl-long.200/"
+}

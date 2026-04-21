@@ -1,0 +1,19 @@
+{
+  "title": "Do Question Answering Modeling Improvements Hold Across Benchmarks?",
+  "authors": [
+    "Nelson F. Liu",
+    "Tony Lee",
+    "Robin Jia",
+    "Percy Liang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.736",
+  "acl_url": "https://aclanthology.org/2023.acl-long.736/"
+}

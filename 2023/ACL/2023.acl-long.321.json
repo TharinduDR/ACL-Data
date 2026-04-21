@@ -1,0 +1,28 @@
+{
+  "title": "Bridging the Domain Gaps in Context Representations for k-Nearest Neighbor Neural Machine Translation",
+  "authors": [
+    "Zhiwei Cao",
+    "Baosong Yang",
+    "Huan Lin",
+    "Suhang Wu",
+    "Xiangpeng Wei",
+    "Dayiheng Liu",
+    "Jun Xie",
+    "Min Zhang",
+    "Jinsong Su"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Korean",
+    "Medical",
+    "Law"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.acl-long.321",
+  "acl_url": "https://aclanthology.org/2023.acl-long.321/"
+}

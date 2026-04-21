@@ -1,0 +1,25 @@
+{
+  "title": "COVID-19 Claim Radar: A Structured Claim Extraction and Tracking System",
+  "authors": [
+    "Manling Li",
+    "Revanth Gangi Reddy",
+    "Ziqi Wang",
+    "Yi-Shyuan Chiang",
+    "Tuan M. Lai",
+    "Pengfei Yu",
+    "Zixuan Zhang",
+    "Heng Ji"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.acl-demo.13",
+  "acl_url": "https://aclanthology.org/2022.acl-demo.13/"
+}

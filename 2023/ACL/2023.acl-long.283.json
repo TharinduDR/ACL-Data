@@ -1,0 +1,25 @@
+{
+  "title": "SESCORE2: Learning Text Generation Evaluation via Synthesizing Realistic Mistakes",
+  "authors": [
+    "Wenda Xu",
+    "Xian Qian",
+    "Mingxuan Wang",
+    "Lei Li",
+    "William Yang Wang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese",
+    "Chinese",
+    "Spanish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.283",
+  "acl_url": "https://aclanthology.org/2023.acl-long.283/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Prompt-based Zero-shot Text Classification with Conceptual Knowledge",
+  "authors": [
+    "Yuqi Wang",
+    "Wei Wang",
+    "Qi Chen",
+    "Kaizhu Huang",
+    "Anh Nguyen",
+    "Suparna De"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.acl-srw.4",
+  "acl_url": "https://aclanthology.org/2023.acl-srw.4/"
+}

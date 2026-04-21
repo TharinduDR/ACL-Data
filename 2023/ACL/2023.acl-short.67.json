@@ -1,0 +1,25 @@
+{
+  "title": "Unsupervised Subtitle Segmentation with Masked Language Models",
+  "authors": [
+    "David Ponce",
+    "Thierry Etchegoyhen",
+    "Victor Ruiz"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "French",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-short.67",
+  "acl_url": "https://aclanthology.org/2023.acl-short.67/"
+}

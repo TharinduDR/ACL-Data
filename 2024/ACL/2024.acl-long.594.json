@@ -1,0 +1,21 @@
+{
+  "title": "Exploring Hybrid Question Answering via Program-based Prompting",
+  "authors": [
+    "Qi Shi",
+    "Han Cui",
+    "Haofeng Wang",
+    "Qingfu Zhu",
+    "Wanxiang Che",
+    "Ting Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.acl-long.594",
+  "acl_url": "https://aclanthology.org/2024.acl-long.594/"
+}

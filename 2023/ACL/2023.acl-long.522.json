@@ -1,0 +1,47 @@
+{
+  "title": "GANLM: Encoder-Decoder Pre-training with an Auxiliary Discriminator",
+  "authors": [
+    "Jian Yang",
+    "Shuming Ma",
+    "Li Dong",
+    "Shaohan Huang",
+    "Haoyang Huang",
+    "Yuwei Yin",
+    "Dongdong Zhang",
+    "Liqun Yang",
+    "Furu Wei",
+    "Zhoujun Li"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Czech",
+    "Finnish",
+    "Latvian",
+    "Estonian",
+    "Romanian",
+    "Hindi",
+    "Turkish",
+    "Gujarati",
+    "Chinese",
+    "Arabic",
+    "Bulgarian",
+    "Swedish",
+    "Thai",
+    "Urdu",
+    "Vietnamese",
+    "Zulu",
+    "Xhosa",
+    "Persian",
+    "Punjabi",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.acl-long.522",
+  "acl_url": "https://aclanthology.org/2023.acl-long.522/"
+}

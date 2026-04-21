@@ -1,0 +1,23 @@
+{
+  "title": "LoRA-Flow: Dynamic LoRA Fusion for Large Language Models in Generative Tasks",
+  "authors": [
+    "Hanqing Wang",
+    "Bowen Ping",
+    "Shuo Wang",
+    "Xu Han",
+    "Yun Chen",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.acl-long.695",
+  "acl_url": "https://aclanthology.org/2024.acl-long.695/"
+}

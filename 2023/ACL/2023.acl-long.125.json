@@ -1,0 +1,23 @@
+{
+  "title": "SIMLM: Pre-training with Representation Bottleneck for Dense Passage Retrieval",
+  "authors": [
+    "Liang Wang",
+    "Nan Yang",
+    "Xiaolong Huang",
+    "Binxing Jiao",
+    "Linjun Yang",
+    "Daxin Jiang",
+    "Rangan Majumder",
+    "Furu Wei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2023.acl-long.125",
+  "acl_url": "https://aclanthology.org/2023.acl-long.125/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction",
+  "authors": [
+    "Kuan-Hao Huang",
+    "I-Hung Hsu",
+    "Premkumar Natarajan",
+    "Kai-Wei Chang",
+    "Nanyun Peng"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.acl-long.317",
+  "acl_url": "https://aclanthology.org/2022.acl-long.317/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation",
+  "authors": [
+    "Lifu Tu",
+    "Richard Yuanzhe Pang",
+    "Sam Wiseman",
+    "Kevin Gimpel"
+  ],
+  "languages": [
+    "German",
+    "Romanian",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.acl-main.251",
+  "acl_url": "https://aclanthology.org/2020.acl-main.251/"
+}

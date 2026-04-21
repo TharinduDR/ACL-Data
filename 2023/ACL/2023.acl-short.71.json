@@ -1,0 +1,37 @@
+{
+  "title": "Bhasha-Abhijnaanam: Native-script and Romanized Language Identification for 22 Indic Languages",
+  "authors": [
+    "Yash Madhani",
+    "Mitesh M. Khapra",
+    "Anoop Kunchukuttan"
+  ],
+  "languages": [
+    "Assamese",
+    "Bangla",
+    "Bodo",
+    "Dogri",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Kashmiri",
+    "Konkani",
+    "Maithili",
+    "Malayalam",
+    "Manipuri",
+    "Marathi",
+    "Nepali",
+    "Oriya",
+    "Punjabi",
+    "Sanskrit",
+    "Sindhi",
+    "Tamil",
+    "Telugu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-short.71",
+  "acl_url": "https://aclanthology.org/2023.acl-short.71/"
+}

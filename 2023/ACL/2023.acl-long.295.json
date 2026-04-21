@@ -1,0 +1,23 @@
+{
+  "title": "Tackling Ambiguity with Images: Improved Multimodal Machine Translation and Contrastive Evaluation",
+  "authors": [
+    "Matthieu Futeral",
+    "Cordelia Schmid",
+    "Ivan Laptev",
+    "Benoît Sagot",
+    "Rachel Bawden"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.295",
+  "acl_url": "https://aclanthology.org/2023.acl-long.295/"
+}

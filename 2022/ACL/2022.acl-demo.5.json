@@ -1,0 +1,27 @@
+{
+  "title": "AnnIE: An Annotation Platform for Constructing Complete Open Information Extraction Benchmark",
+  "authors": [
+    "Niklas Friedrich",
+    "Kiril Gashteovski",
+    "Mingying Yu",
+    "Bhushan Kotnis",
+    "Carolin Lawrence",
+    "Mathias Niepert",
+    "Goran Glavas"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Arabic",
+    "Galician",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-demo.5",
+  "acl_url": "https://aclanthology.org/2022.acl-demo.5/"
+}

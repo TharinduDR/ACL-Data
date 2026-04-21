@@ -1,0 +1,20 @@
+{
+  "title": "KinGDOM: Knowledge-Guided DOmain Adaptation for Sentiment Analysis",
+  "authors": [
+    "Deepanway Ghosal",
+    "Devamanyu Hazarika",
+    "Abhinaba Roy",
+    "Navonil Majumder",
+    "Rada Mihalcea",
+    "Soujanya Poria"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.acl-main.292",
+  "acl_url": "https://aclanthology.org/2020.acl-main.292/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "ERNIE-DOC: A Retrospective Long-Document Modeling Transformer",
+  "authors": [
+    "Siyu Ding",
+    "Junyuan Shang",
+    "Shuohuan Wang",
+    "Yu Sun",
+    "Hao Tian",
+    "Hua Wu",
+    "Haifeng Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T20 Sentiment Analysis"
+  ],
+  "paper_id": "2021.acl-long.227",
+  "acl_url": "https://aclanthology.org/2021.acl-long.227/"
+}

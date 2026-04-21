@@ -1,0 +1,17 @@
+{
+  "title": "pyBART: Evidence-based Syntactic Transformations for IE",
+  "authors": [
+    "Aryeh Tiktsinsky",
+    "Yoav Goldberg",
+    "Reut Tsarfaty"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-demos.7",
+  "acl_url": "https://aclanthology.org/2020.acl-demos.7/"
+}

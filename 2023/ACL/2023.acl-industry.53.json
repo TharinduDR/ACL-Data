@@ -1,0 +1,20 @@
+{
+  "title": "Reducing cohort bias in natural language understanding systems with targeted self-training scheme",
+  "authors": [
+    "Dieu-Thu Le",
+    "Gabriela Cortes",
+    "Bei Chen",
+    "Melanie Bradford"
+  ],
+  "languages": [
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-industry.53",
+  "acl_url": "https://aclanthology.org/2023.acl-industry.53/"
+}

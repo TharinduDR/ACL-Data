@@ -1,0 +1,41 @@
+{
+  "title": "Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn't",
+  "authors": [
+    "Chihiro Taguchi",
+    "David Chiang"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Thai",
+    "Arabic",
+    "English",
+    "French",
+    "Italian",
+    "Czech",
+    "Swedish",
+    "Dutch",
+    "German",
+    "Lithuanian",
+    "Polish",
+    "Basque",
+    "Indonesian",
+    "Kabyle",
+    "Swahili",
+    "Hungarian",
+    "Russian",
+    "Tatar",
+    "Abkhaz",
+    "Georgian",
+    "Armenian",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.827",
+  "acl_url": "https://aclanthology.org/2024.acl-long.827/"
+}

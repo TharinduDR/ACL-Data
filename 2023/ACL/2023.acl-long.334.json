@@ -1,0 +1,23 @@
+{
+  "title": "ROBUT: A Systematic Study of Table QA Robustness Against Human-Annotated Adversarial Perturbations",
+  "authors": [
+    "Yilun Zhao",
+    "Chen Zhao",
+    "Linyong Nan",
+    "Zhenting Qi",
+    "Wenlin Zhang",
+    "Boyu Mi",
+    "Xiangru Tang",
+    "Dragomir Radev"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.334",
+  "acl_url": "https://aclanthology.org/2023.acl-long.334/"
+}

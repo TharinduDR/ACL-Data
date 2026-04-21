@@ -1,0 +1,24 @@
+{
+  "title": "Personalized PageRank with Syntagmatic Information for Multilingual Word Sense Disambiguation",
+  "authors": [
+    "Federico Scozzafava",
+    "Marco Maru",
+    "Fabrizio Brignone",
+    "Giovanni Torrisi",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.acl-demos.6",
+  "acl_url": "https://aclanthology.org/2020.acl-demos.6/"
+}

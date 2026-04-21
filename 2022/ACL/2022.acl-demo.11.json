@@ -1,0 +1,25 @@
+{
+  "title": "Guided K-best Selection for Semantic Parsing Annotation",
+  "authors": [
+    "Anton Belyy",
+    "Chieh-Yang Huang",
+    "Jacob Andreas",
+    "Emmanouil Antonios Platanios",
+    "Sam Thomson",
+    "Richard Shin",
+    "Subhro Roy",
+    "Aleksandr Nisnevich",
+    "Charles Chen",
+    "Benjamin Van Durme"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.acl-demo.11",
+  "acl_url": "https://aclanthology.org/2022.acl-demo.11/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Understanding Gender Bias in Knowledge Base Embeddings",
+  "authors": [
+    "Yupei Du",
+    "Qi Zheng",
+    "Yuanbin Wu",
+    "Man Lan",
+    "Yan Yang",
+    "Meirong Ma"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.acl-long.98",
+  "acl_url": "https://aclanthology.org/2022.acl-long.98/"
+}

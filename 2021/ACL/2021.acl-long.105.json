@@ -1,0 +1,25 @@
+{
+  "title": "Exploiting Language Relatedness for Low Web-Resource Language Model Adaptation: An Indic Languages Study",
+  "authors": [
+    "Yash Khemchandani",
+    "Sarvesh Mehtani",
+    "Vaidehi Patil",
+    "Abhijeet Awasthi",
+    "Partha Talukdar",
+    "Sunita Sarawagi"
+  ],
+  "languages": [
+    "Punjabi",
+    "Gujarati",
+    "Bengali",
+    "Oriya",
+    "Assamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-long.105",
+  "acl_url": "https://aclanthology.org/2021.acl-long.105/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Contrastive Decoding: Open-ended Text Generation as Optimization",
+  "authors": [
+    "Xiang Lisa Li",
+    "Ari Holtzman",
+    "Daniel Fried",
+    "Percy Liang",
+    "Jason Eisner",
+    "Tatsunori Hashimoto",
+    "Luke Zettlemoyer",
+    "Mike Lewis"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.687",
+  "acl_url": "https://aclanthology.org/2023.acl-long.687/"
+}

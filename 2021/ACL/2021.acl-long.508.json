@@ -1,0 +1,17 @@
+{
+  "title": "Length-Adaptive Transformer: Train Once with Length Drop, Use Anytime with Search",
+  "authors": [
+    "Gyuwan Kim",
+    "Kyunghyun Cho"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-long.508",
+  "acl_url": "https://aclanthology.org/2021.acl-long.508/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Towards Robustness of Text-to-SQL Models against Synonym Substitution",
+  "authors": [
+    "Yujian Gan",
+    "Xinyun Chen",
+    "Qiuping Huang",
+    "Matthew Purver",
+    "John R. Woodward",
+    "Jinxia Xie",
+    "Pengsheng Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2021.acl-long.195",
+  "acl_url": "https://aclanthology.org/2021.acl-long.195/"
+}

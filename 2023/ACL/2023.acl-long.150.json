@@ -1,0 +1,21 @@
+{
+  "title": "Symbolic Chain-of-Thought Distillation: Small Models Can Also \"Think\" Step-by-Step",
+  "authors": [
+    "Liunian Harold Li",
+    "Jack Hessel",
+    "Youngjae Yu",
+    "Xiang Ren",
+    "Kai-Wei Chang",
+    "Yejin Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.acl-long.150",
+  "acl_url": "https://aclanthology.org/2023.acl-long.150/"
+}

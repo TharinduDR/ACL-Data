@@ -1,0 +1,23 @@
+{
+  "title": "FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction",
+  "authors": [
+    "Chen-Yu Lee",
+    "Chun-Liang Li",
+    "Timothy Dozat",
+    "Vincent Perot",
+    "Guolong Su",
+    "Nan Hua",
+    "Joshua Ainslie",
+    "Renshen Wang",
+    "Yasuhisa Fujii",
+    "Tomas Pfister"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.acl-long.260",
+  "acl_url": "https://aclanthology.org/2022.acl-long.260/"
+}

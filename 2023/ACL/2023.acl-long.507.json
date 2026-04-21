@@ -1,0 +1,19 @@
+{
+  "title": "WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models",
+  "authors": [
+    "Virginia K. Felkner",
+    "Ho-Chun Herbert Chang",
+    "Eugene Jang",
+    "Jonathan May"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.acl-long.507",
+  "acl_url": "https://aclanthology.org/2023.acl-long.507/"
+}

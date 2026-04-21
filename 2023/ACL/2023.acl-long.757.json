@@ -1,0 +1,22 @@
+{
+  "title": "CHBias: Bias Evaluation and Mitigation of Chinese Conversational Language Models",
+  "authors": [
+    "Jiaxu Zhao",
+    "Meng Fang",
+    "Zijing Shi",
+    "Yitong Li",
+    "Ling Chen",
+    "Mykola Pechenizkiy"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.757",
+  "acl_url": "https://aclanthology.org/2023.acl-long.757/"
+}

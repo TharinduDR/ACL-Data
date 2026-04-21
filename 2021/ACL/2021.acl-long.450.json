@@ -1,0 +1,23 @@
+{
+  "title": "A Conditional Splitting Framework for Efficient Constituency Parsing",
+  "authors": [
+    "Thanh-Tung Nguyen",
+    "Xuan-Phi Nguyen",
+    "Shafiq Joty",
+    "Xiaoli Li"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Hungarian",
+    "Korean",
+    "Polish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-long.450",
+  "acl_url": "https://aclanthology.org/2021.acl-long.450/"
+}

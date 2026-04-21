@@ -1,0 +1,29 @@
+{
+  "title": "In-context Mixing (ICM): Code-mixed Prompts for Multilingual LLMs",
+  "authors": [
+    "Bhavani Shankar",
+    "Preethi Jyothi",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Telugu",
+    "Marathi",
+    "Bengali",
+    "Vietnamese",
+    "French",
+    "German",
+    "Turkish",
+    "Korean",
+    "Czech",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T29",
+    "T28",
+    "T19"
+  ],
+  "paper_id": "2024.acl-long.228",
+  "acl_url": "https://aclanthology.org/2024.acl-long.228/"
+}

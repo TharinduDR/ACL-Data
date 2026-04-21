@@ -1,0 +1,22 @@
+{
+  "title": "TaxoLLaMA: WordNet-based Model for Solving Multiple Lexical Semantic Tasks",
+  "authors": [
+    "Viktor Moskvoretskii",
+    "Ekaterina Neminova",
+    "Alina Lobanova",
+    "Alexander Panchenko",
+    "Irina Nikishina"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2024.acl-long.127",
+  "acl_url": "https://aclanthology.org/2024.acl-long.127/"
+}

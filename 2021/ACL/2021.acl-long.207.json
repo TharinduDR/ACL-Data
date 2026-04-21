@@ -1,0 +1,28 @@
+{
+  "title": "Multi-View Cross-Lingual Structured Prediction with Minimum Supervision",
+  "authors": [
+    "Zechuan Hu",
+    "Yong Jiang",
+    "Nguyen Bach",
+    "Tao Wang",
+    "Zhongqiang Huang",
+    "Fei Huang",
+    "Kewei Tu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Dutch",
+    "Spanish",
+    "Catalan",
+    "Finnish",
+    "Hindi",
+    "Russian"
+  ],
+  "research_areas": [
+    "T11",
+    "T21"
+  ],
+  "paper_id": "2021.acl-long.207",
+  "acl_url": "https://aclanthology.org/2021.acl-long.207/"
+}

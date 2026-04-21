@@ -1,0 +1,19 @@
+{
+  "title": "SWiPE: A Dataset for Document-Level Simplification of Wikipedia Pages",
+  "authors": [
+    "Philippe Laban",
+    "Jesse Vig",
+    "Wojciech Kryscinski",
+    "Shafiq Joty",
+    "Caiming Xiong",
+    "Chien-Sheng Jason Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2023.acl-long.596",
+  "acl_url": "https://aclanthology.org/2023.acl-long.596/"
+}

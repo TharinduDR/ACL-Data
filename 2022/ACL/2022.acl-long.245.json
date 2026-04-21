@@ -1,0 +1,18 @@
+{
+  "title": "Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost",
+  "authors": [
+    "Lihu Chen",
+    "Gaël Varoquaux",
+    "Fabian M. Suchanek"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.245",
+  "acl_url": "https://aclanthology.org/2022.acl-long.245/"
+}

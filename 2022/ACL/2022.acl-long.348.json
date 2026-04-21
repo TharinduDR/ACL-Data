@@ -1,0 +1,21 @@
+{
+  "title": "Educational Question Generation of Children Storybooks via Question Type Distribution Learning and Event-Centric Summarization",
+  "authors": [
+    "Zhenjie Zhao",
+    "Yufang Hou",
+    "Dakuo Wang",
+    "Mo Yu",
+    "Chengzhong Liu",
+    "Xiaojuan Ma"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2022.acl-long.348",
+  "acl_url": "https://aclanthology.org/2022.acl-long.348/"
+}

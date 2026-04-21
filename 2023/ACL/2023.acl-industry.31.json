@@ -1,0 +1,18 @@
+{
+  "title": "An efficient method for Natural Language Querying on Structured Data",
+  "authors": [
+    "Hanoz Bhathena",
+    "Aviral Joshi",
+    "Prateek Singh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.acl-industry.31",
+  "acl_url": "https://aclanthology.org/2023.acl-industry.31/"
+}

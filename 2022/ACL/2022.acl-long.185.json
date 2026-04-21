@@ -1,0 +1,25 @@
+{
+  "title": "Understanding and Improving Sequence-to-Sequence Pretraining for Neural Machine Translation",
+  "authors": [
+    "Wenxuan Wang",
+    "Wenxiang Jiao",
+    "Yongchang Hao",
+    "Xing Wang",
+    "Shuming Shi",
+    "Zhaopeng Tu",
+    "Michael R. Lyu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.185",
+  "acl_url": "https://aclanthology.org/2022.acl-long.185/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Speech Sense Disambiguation: Tackling Homophone Ambiguity in End-to-End Speech Translation",
+  "authors": [
+    "Tengfei Yu",
+    "Xuebo Liu",
+    "Liang Ding",
+    "Kehai Chen",
+    "Dacheng Tao",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.acl-long.435",
+  "acl_url": "https://aclanthology.org/2024.acl-long.435/"
+}

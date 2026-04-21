@@ -1,0 +1,18 @@
+{
+  "title": "How to Distill your BERT: An Empirical Study on the Impact of Weight Initialisation and Distillation Objectives",
+  "authors": [
+    "Xinpeng Wang",
+    "Leonie Weissweiler",
+    "Hinrich Schütze",
+    "Barbara Plank"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-short.157",
+  "acl_url": "https://aclanthology.org/2023.acl-short.157/"
+}

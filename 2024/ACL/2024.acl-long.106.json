@@ -1,0 +1,31 @@
+{
+  "title": "LoRAMoE: Alleviating World Knowledge Forgetting in Large Language Models via MoE-Style Plugin",
+  "authors": [
+    "Shihan Dou",
+    "Enyu Zhou",
+    "Yan Liu",
+    "Songyang Gao",
+    "Wei Shen",
+    "Limao Xiong",
+    "Yuhao Zhou",
+    "Xiao Wang",
+    "Zhiheng Xi",
+    "Xiaoran Fan",
+    "Shiliang Pu",
+    "Jiang Zhu",
+    "Rui Zheng",
+    "Tao Gui",
+    "Qi Zhang",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.acl-long.106",
+  "acl_url": "https://aclanthology.org/2024.acl-long.106/"
+}

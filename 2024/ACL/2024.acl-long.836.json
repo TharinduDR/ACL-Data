@@ -1,0 +1,24 @@
+{
+  "title": "Quality-Aware Translation Models: Efficient Generation and Quality Estimation in a Single Model",
+  "authors": [
+    "Christian Tomani",
+    "David Vilar",
+    "Markus Freitag",
+    "Colin Cherry",
+    "Subhajit Naskar",
+    "Mara Finkelstein",
+    "Xavier Garcia",
+    "Daniel Cremers"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.836",
+  "acl_url": "https://aclanthology.org/2024.acl-long.836/"
+}

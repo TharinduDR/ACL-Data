@@ -1,0 +1,23 @@
+{
+  "title": "BiTIIMT: A Bilingual Text Infilling Method for Interactive Machine Translation",
+  "authors": [
+    "Yanling Xiao",
+    "Lemao Liu",
+    "Guoping Huang",
+    "Qu Cui",
+    "Shujian Huang",
+    "Shuming Shi",
+    "Jiajun Chen"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.acl-long.138",
+  "acl_url": "https://aclanthology.org/2022.acl-long.138/"
+}

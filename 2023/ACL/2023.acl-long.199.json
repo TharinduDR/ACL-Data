@@ -1,0 +1,27 @@
+{
+  "title": "DAMP: Doubly Aligned Multilingual Parser for Task-Oriented Dialogue",
+  "authors": [
+    "William Held",
+    "Christopher Hidey",
+    "Fei Liu",
+    "Eric Zhu",
+    "Rahul Goel",
+    "Diyi Yang",
+    "Rushin Shah"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Hindi",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.acl-long.199",
+  "acl_url": "https://aclanthology.org/2023.acl-long.199/"
+}

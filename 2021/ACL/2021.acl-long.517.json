@@ -1,0 +1,19 @@
+{
+  "title": "On the Efficacy of Adversarial Data Collection for Question Answering: Results from a Large-Scale Randomized Study",
+  "authors": [
+    "Divyansh Kaushik",
+    "Douwe Kiela",
+    "Zachary C. Lipton",
+    "Wen-tau Yih"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.acl-long.517",
+  "acl_url": "https://aclanthology.org/2021.acl-long.517/"
+}

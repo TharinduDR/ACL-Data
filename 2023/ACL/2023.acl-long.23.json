@@ -1,0 +1,25 @@
+{
+  "title": "What about em? How Commercial Machine Translation Fails to Handle (Neo-)Pronouns",
+  "authors": [
+    "Anne Lauscher",
+    "Debora Nozza",
+    "Archie Crowley",
+    "Ehm Miltersen",
+    "Dirk Hovy"
+  ],
+  "languages": [
+    "English",
+    "Danish",
+    "Farsi",
+    "French",
+    "German",
+    "Italian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.23",
+  "acl_url": "https://aclanthology.org/2023.acl-long.23/"
+}

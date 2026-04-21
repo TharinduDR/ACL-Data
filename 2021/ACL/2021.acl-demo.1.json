@@ -1,0 +1,33 @@
+{
+  "title": "TexSmart: A System for Enhanced Natural Language Understanding",
+  "authors": [
+    "Lemao Liu",
+    "Haisong Zhang",
+    "Haiyun Jiang",
+    "Yangming Li",
+    "Enbo Zhao",
+    "Kun Xu",
+    "Linfeng Song",
+    "Suncong Zheng",
+    "Botong Zhou",
+    "Jianchen Zhu",
+    "Xiao Feng",
+    "Tao Chen",
+    "Tao Yang",
+    "Dong Yu",
+    "Feng Zhang",
+    "Zhanhui Kang",
+    "Shuming Shi"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-demo.1",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.1/"
+}

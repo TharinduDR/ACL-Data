@@ -1,0 +1,22 @@
+{
+  "title": "DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts",
+  "authors": [
+    "Alisa Liu",
+    "Maarten Sap",
+    "Ximing Lu",
+    "Swabha Swayamdipta",
+    "Chandra Bhagavatula",
+    "Noah A. Smith",
+    "Yejin Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.acl-long.522",
+  "acl_url": "https://aclanthology.org/2021.acl-long.522/"
+}

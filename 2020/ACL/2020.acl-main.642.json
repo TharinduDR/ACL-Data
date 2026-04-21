@@ -1,0 +1,22 @@
+{
+  "title": "Aligned Dual Channel Graph Convolutional Network for Visual Question Answering",
+  "authors": [
+    "Qingbao Huang",
+    "Jielong Wei",
+    "Yi Cai",
+    "Changmeng Zheng",
+    "Junying Chen",
+    "Ho-fung Leung",
+    "Qing Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-main.642",
+  "acl_url": "https://aclanthology.org/2020.acl-main.642/"
+}

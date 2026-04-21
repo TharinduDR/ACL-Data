@@ -1,0 +1,21 @@
+{
+  "title": "LAIT: Efficient Multi-Segment Encoding in Transformers with Layer-Adjustable Interaction",
+  "authors": [
+    "Jeremiah Milbauer",
+    "Annie Louis",
+    "Mohammad Javad Hosseini",
+    "Alex Fabrikant",
+    "Donald Metzler",
+    "Tal Schuster"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.acl-long.571",
+  "acl_url": "https://aclanthology.org/2023.acl-long.571/"
+}

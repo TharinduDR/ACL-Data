@@ -1,0 +1,20 @@
+{
+  "title": "Multi-Row, Multi-Span Distant Supervision For Table+Text Question Answering",
+  "authors": [
+    "Vishwajeet Kumar",
+    "Yash Gupta",
+    "Saneem Chemmengath",
+    "Jaydeep Sen",
+    "Soumen Chakrabarti",
+    "Samarth Bharadwaj",
+    "Feifei Pan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.acl-long.449",
+  "acl_url": "https://aclanthology.org/2023.acl-long.449/"
+}

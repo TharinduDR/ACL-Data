@@ -1,0 +1,28 @@
+{
+  "title": "How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models",
+  "authors": [
+    "Phillip Rust",
+    "Jonas Pfeiffer",
+    "Ivan Vulić",
+    "Sebastian Ruder",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "Finnish",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-long.243",
+  "acl_url": "https://aclanthology.org/2021.acl-long.243/"
+}

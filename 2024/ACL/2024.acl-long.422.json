@@ -1,0 +1,23 @@
+{
+  "title": "Text Embedding Inversion Security for Multilingual Language Models",
+  "authors": [
+    "Yiyi Chen",
+    "Heather Lent",
+    "Johannes Bjerva"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Finnish",
+    "Hungarian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.422",
+  "acl_url": "https://aclanthology.org/2024.acl-long.422/"
+}

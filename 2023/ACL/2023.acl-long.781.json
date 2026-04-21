@@ -1,0 +1,22 @@
+{
+  "title": "Don't Retrain, Just Rewrite: Countering Adversarial Perturbations by Rewriting Text",
+  "authors": [
+    "Ashim Gupta",
+    "Carter Wood Blum",
+    "Temma Choji",
+    "Yingjie Fei",
+    "Shalin Shah",
+    "Alakananda Vempala",
+    "Vivek Srikumar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.781",
+  "acl_url": "https://aclanthology.org/2023.acl-long.781/"
+}

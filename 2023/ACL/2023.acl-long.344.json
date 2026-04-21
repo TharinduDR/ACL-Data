@@ -1,0 +1,32 @@
+{
+  "title": "Factually Consistent Summarization via Reinforcement Learning with Textual Entailment Feedback",
+  "authors": [
+    "Paul Roit",
+    "Johan Ferret",
+    "Lior Shani",
+    "Roee Aharoni",
+    "Geoffrey Cideron",
+    "Robert Dadashi",
+    "Matthieu Geist",
+    "Sertan Girgin",
+    "Léonard Hussenot",
+    "Orgad Keller",
+    "Nikola Momchev",
+    "Sabela Ramos",
+    "Piotr Stanczyk",
+    "Nino Vieillard",
+    "Olivier Bachem",
+    "Gal Elidan",
+    "Avinatan Hassidim",
+    "Olivier Pietquin",
+    "Idan Szpektor"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.acl-long.344",
+  "acl_url": "https://aclanthology.org/2023.acl-long.344/"
+}

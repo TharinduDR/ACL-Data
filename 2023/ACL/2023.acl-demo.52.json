@@ -1,0 +1,21 @@
+{
+  "title": "KWJA: A Unified Japanese Analyzer Based on Foundation Models",
+  "authors": [
+    "Nobuhiro Ueda",
+    "Kazumasa Omura",
+    "Takashi Kodama",
+    "Hirokazu Kiyomaru",
+    "Yugo Murawaki",
+    "Daisuke Kawahara",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.acl-demo.52",
+  "acl_url": "https://aclanthology.org/2023.acl-demo.52/"
+}

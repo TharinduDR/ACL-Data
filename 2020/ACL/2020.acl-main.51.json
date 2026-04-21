@@ -1,0 +1,21 @@
+{
+  "title": "Simple, Interpretable and Stable Method for Detecting Words with Usage Change across Corpora",
+  "authors": [
+    "Hila Gonen",
+    "Ganesh Jawahar",
+    "Djamé Seddah",
+    "Yoav Goldberg"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.acl-main.51",
+  "acl_url": "https://aclanthology.org/2020.acl-main.51/"
+}

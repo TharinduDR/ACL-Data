@@ -1,0 +1,26 @@
+{
+  "title": "NAIJAHATE: Evaluating Hate Speech Detection on Nigerian Twitter Using Representative Data",
+  "authors": [
+    "Manuel Tonneau",
+    "Pedro Vitor Quinta de Castro",
+    "Karim Lasri",
+    "Ibrahim Farouq",
+    "Lakshminarayanan Subramanian",
+    "Victor Orozco-Olvera",
+    "Samuel P. Fraiberger"
+  ],
+  "languages": [
+    "English",
+    "Nigerian Pidgin",
+    "Hausa",
+    "Yoruba",
+    "Igbo"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.acl-long.488",
+  "acl_url": "https://aclanthology.org/2024.acl-long.488/"
+}

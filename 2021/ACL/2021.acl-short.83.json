@@ -1,0 +1,21 @@
+{
+  "title": "QA-Driven Zero-shot Slot Filling with Weak Supervision Pretraining",
+  "authors": [
+    "Xinya Du",
+    "Luheng He",
+    "Qi Li",
+    "Dian Yu",
+    "Panupong Pasupat",
+    "Yuan Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.acl-short.83",
+  "acl_url": "https://aclanthology.org/2021.acl-short.83/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "SpeechT5: Unified-Modal Encoder-Decoder Pre-Training for Spoken Language Processing",
+  "authors": [
+    "Juny Ao",
+    "Rui Wang",
+    "Long Zhou",
+    "Chengyi Wang",
+    "Shuo Ren",
+    "Yu Wu",
+    "Shujie Liu",
+    "Tom Ko",
+    "Qing Li",
+    "Yu Zhang",
+    "Zhihua Wei",
+    "Yao Qian",
+    "Jinyu Li",
+    "Furu Wei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2022.acl-long.393",
+  "acl_url": "https://aclanthology.org/2022.acl-long.393/"
+}

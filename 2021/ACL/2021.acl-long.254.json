@@ -1,0 +1,23 @@
+{
+  "title": "TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance",
+  "authors": [
+    "Fengbin Zhu",
+    "Wenqiang Lei",
+    "Youcheng Huang",
+    "Chao Wang",
+    "Shuo Zhang",
+    "Jiancheng Lv",
+    "Fuli Feng",
+    "Tat-Seng Chua"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.acl-long.254",
+  "acl_url": "https://aclanthology.org/2021.acl-long.254/"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Structural Knowledge Distillation: Tractablely Distilling Information for Structured Predictor",
+  "authors": [
+    "Xinyu Wang",
+    "Yong Jiang",
+    "Zhaohui Yan",
+    "Zixia Jia",
+    "Nguyen Bach",
+    "Tao Wang",
+    "Zhongqiang Huang",
+    "Fei Huang",
+    "Kewei Tu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Dutch",
+    "French",
+    "Portuguese",
+    "Italian",
+    "Chinese",
+    "Persian",
+    "Tamil",
+    "Basque",
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-long.46",
+  "acl_url": "https://aclanthology.org/2021.acl-long.46/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Learning Syntactic Dense Embedding with Correlation Graph for Automatic Readability Assessment",
+  "authors": [
+    "Xinying Qiu",
+    "Yuan Chen",
+    "Hanwu Chen",
+    "Jian-Yun Nie",
+    "Yuming Shen",
+    "Dawei Lu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.acl-long.235",
+  "acl_url": "https://aclanthology.org/2021.acl-long.235/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation",
+  "authors": [
+    "Zixuan Zhang",
+    "Nikolaus Parulian",
+    "Heng Ji",
+    "Ahmed S. Elsayed",
+    "Skatje Myers",
+    "Martha Palmer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2021.acl-long.489",
+  "acl_url": "https://aclanthology.org/2021.acl-long.489/"
+}

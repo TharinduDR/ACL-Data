@@ -1,0 +1,25 @@
+{
+  "title": "Continual Learning with Semi-supervised Contrastive Distillation for Incremental Neural Machine Translation",
+  "authors": [
+    "Yunlong Liang",
+    "Fandong Meng",
+    "Jiaan Wang",
+    "Jinan Xu",
+    "Yufeng Chen",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Korean",
+    "Medical",
+    "Subtitles"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.acl-long.588",
+  "acl_url": "https://aclanthology.org/2024.acl-long.588/"
+}

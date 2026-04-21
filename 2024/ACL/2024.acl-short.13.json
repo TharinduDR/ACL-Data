@@ -1,0 +1,23 @@
+{
+  "title": "IEPILE: Unearthing Large-Scale Schema-Based Information Extraction Corpus",
+  "authors": [
+    "Honghao Gui",
+    "Lin Yuan",
+    "Hongbin Ye",
+    "Ningyu Zhang",
+    "Mengshu Sun",
+    "Lei Liang",
+    "Huajun Chen"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.acl-short.13",
+  "acl_url": "https://aclanthology.org/2024.acl-short.13/"
+}

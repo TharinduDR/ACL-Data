@@ -1,0 +1,22 @@
+{
+  "title": "Domain Adaptation for Subjective Induction Questions Answering on Products by Adversarial Disentangled Learning",
+  "authors": [
+    "Yufeng Zhang",
+    "Jianxing Yu",
+    "Yanghui Rao",
+    "Libin Zheng",
+    "Qinliang Su",
+    "Huaijie Zhu",
+    "Jian Yin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.acl-long.491",
+  "acl_url": "https://aclanthology.org/2024.acl-long.491/"
+}

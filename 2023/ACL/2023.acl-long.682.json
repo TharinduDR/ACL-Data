@@ -1,0 +1,19 @@
+{
+  "title": "Downstream Datasets Make Surprisingly Good Pretraining Corpora",
+  "authors": [
+    "Kundan Krishna",
+    "Saurabh Garg",
+    "Jeffrey P. Bigham",
+    "Zachary C. Lipton"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.acl-long.682",
+  "acl_url": "https://aclanthology.org/2023.acl-long.682/"
+}

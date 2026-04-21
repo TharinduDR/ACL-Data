@@ -1,0 +1,20 @@
+{
+  "title": "Automatic Gloss Dictionary for Sign Language Learners",
+  "authors": [
+    "Chenchen Xu",
+    "Dongxu Li",
+    "Hongdong Li",
+    "Hanna Suominen",
+    "Ben Swift"
+  ],
+  "languages": [
+    "American Sign Language",
+    "Australian Auslan"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2022.acl-demo.8",
+  "acl_url": "https://aclanthology.org/2022.acl-demo.8/"
+}

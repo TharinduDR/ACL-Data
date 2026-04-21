@@ -1,0 +1,21 @@
+{
+  "title": "More than Text: Multi-modal Chinese Word Segmentation",
+  "authors": [
+    "Dong Zhang",
+    "Zheng Hu",
+    "Shoushan Li",
+    "Hanqian Wu",
+    "Qiaoming Zhu",
+    "Guodong Zhou"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-short.70",
+  "acl_url": "https://aclanthology.org/2021.acl-short.70/"
+}

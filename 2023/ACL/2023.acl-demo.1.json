@@ -1,0 +1,30 @@
+{
+  "title": "Human-in-the-Loop Schema Induction",
+  "authors": [
+    "Tianyi Zhang",
+    "Isaac Tham",
+    "Zhaoyi Hou",
+    "Jiaxuan Ren",
+    "Liyang Zhou",
+    "Hainiu Xu",
+    "Li Zhang",
+    "Lara J. Martin",
+    "Rotem Dror",
+    "Sha Li",
+    "Heng Ji",
+    "Martha Palmer",
+    "Susan Brown",
+    "Reece Suchocki",
+    "Chris Callison-Burch"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.acl-demo.1",
+  "acl_url": "https://aclanthology.org/2023.acl-demo.1/"
+}

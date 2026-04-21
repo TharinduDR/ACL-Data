@@ -1,0 +1,22 @@
+{
+  "title": "GLM: General Language Model Pretraining with Autoregressive Blank Infilling",
+  "authors": [
+    "Zhengxiao Du",
+    "Yujie Qian",
+    "Xiao Liu",
+    "Ming Ding",
+    "Jiezhong Qiu",
+    "Zhilin Yang",
+    "Jie Tang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2022.acl-long.26",
+  "acl_url": "https://aclanthology.org/2022.acl-long.26/"
+}

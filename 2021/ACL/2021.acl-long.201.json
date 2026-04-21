@@ -1,0 +1,27 @@
+{
+  "title": "LayoutLMv2: Multi-modal Pre-training for Visually-rich Document Understanding",
+  "authors": [
+    "Yang Xu",
+    "Yiheng Xu",
+    "Tengchao Lv",
+    "Lei Cui",
+    "Furu Wei",
+    "Guoxin Wang",
+    "Yijuan Lu",
+    "Dinei Florencio",
+    "Cha Zhang",
+    "Wanxiang Che",
+    "Min Zhang",
+    "Lidong Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.acl-long.201",
+  "acl_url": "https://aclanthology.org/2021.acl-long.201/"
+}

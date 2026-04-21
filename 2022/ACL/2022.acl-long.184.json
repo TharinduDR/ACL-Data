@@ -1,0 +1,21 @@
+{
+  "title": "Measuring and Mitigating Name Biases in Neural Machine Translation",
+  "authors": [
+    "Jun Wang",
+    "Benjamin I. P. Rubinstein",
+    "Trevor Cohn"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.acl-long.184",
+  "acl_url": "https://aclanthology.org/2022.acl-long.184/"
+}

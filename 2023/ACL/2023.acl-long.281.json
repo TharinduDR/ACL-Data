@@ -1,0 +1,21 @@
+{
+  "title": "Unsupervised Graph-Text Mutual Conversion with a Unified Pretrained Language Model",
+  "authors": [
+    "Yi Xu",
+    "Shuqian Sheng",
+    "Jiexing Qi",
+    "Luoyi Fu",
+    "Zhouhan Lin",
+    "Xinbing Wang",
+    "Chenghu Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.281",
+  "acl_url": "https://aclanthology.org/2023.acl-long.281/"
+}

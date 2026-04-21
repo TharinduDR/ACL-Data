@@ -1,0 +1,21 @@
+{
+  "title": "Learning an Unreferenced Metric for Online Dialogue Evaluation",
+  "authors": [
+    "Koustuv Sinha",
+    "Prasanna Parthasarathi",
+    "Jasmine Wang",
+    "Ryan Lowe",
+    "William L. Hamilton",
+    "Joelle Pineau"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.acl-main.220",
+  "acl_url": "https://aclanthology.org/2020.acl-main.220/"
+}

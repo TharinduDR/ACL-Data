@@ -1,0 +1,35 @@
+{
+  "title": "Prix-LM: Pretraining for Multilingual Knowledge Base Construction",
+  "authors": [
+    "Wenxuan Zhou",
+    "Fangyu Liu",
+    "Ivan Vulić",
+    "Nigel Collier",
+    "Muhao Chen"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "German",
+    "French",
+    "Finnish",
+    "Estonian",
+    "Hungarian",
+    "Russian",
+    "Turkish",
+    "Korean",
+    "Japanese",
+    "Chinese",
+    "Thai",
+    "Telugu",
+    "Lao",
+    "Marathi"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.acl-long.371",
+  "acl_url": "https://aclanthology.org/2022.acl-long.371/"
+}

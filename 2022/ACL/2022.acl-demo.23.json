@@ -1,0 +1,26 @@
+{
+  "title": "MMEKG: Multi-modal Event Knowledge Graph towards Universal Representation across Modalities",
+  "authors": [
+    "Yubo Ma",
+    "Zehao Wang",
+    "Mukai Li",
+    "Yixin Cao",
+    "Meiqi Chen",
+    "Xinze Li",
+    "Wenqi Sun",
+    "Kunquan Deng",
+    "Kun Wang",
+    "Aixin Sun",
+    "Jing Shao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.acl-demo.23",
+  "acl_url": "https://aclanthology.org/2022.acl-demo.23/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Pre-training via Leveraging Assisting Languages for Neural Machine Translation",
+  "authors": [
+    "Haiyue Song",
+    "Raj Dabre",
+    "Zhuoyuan Mao",
+    "Fei Cheng",
+    "Sadao Kurohashi",
+    "Eiichiro Sumita"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "English",
+    "French",
+    "Arabic",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2020.acl-srw.37",
+  "acl_url": "https://aclanthology.org/2020.acl-srw.37/"
+}

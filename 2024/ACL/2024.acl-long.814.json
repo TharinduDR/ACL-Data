@@ -1,0 +1,27 @@
+{
+  "title": "∞BENCH: Extending Long Context Evaluation Beyond 100K Tokens",
+  "authors": [
+    "Xinrong Zhang",
+    "Yingfa Chen",
+    "Shengding Hu",
+    "Zihang Xu",
+    "Junhao Chen",
+    "Moo Khai Hao Xu Han",
+    "Zhen Leng Thai",
+    "Shuo Wang",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.acl-long.814",
+  "acl_url": "https://aclanthology.org/2024.acl-long.814/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Improving the Robustness of QA Models to Challenge Sets with Variational Question-Answer Pair Generation",
+  "authors": [
+    "Kazutoshi Shinoda",
+    "Saku Sugawara",
+    "Akiko Aizawa"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.acl-srw.21",
+  "acl_url": "https://aclanthology.org/2021.acl-srw.21/"
+}

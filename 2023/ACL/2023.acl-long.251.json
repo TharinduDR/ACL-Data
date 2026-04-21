@@ -1,0 +1,20 @@
+{
+  "title": "Back Translation for Speech-to-text Translation Without Transcripts",
+  "authors": [
+    "Qingkai Fang",
+    "Yang Feng"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.acl-long.251",
+  "acl_url": "https://aclanthology.org/2023.acl-long.251/"
+}

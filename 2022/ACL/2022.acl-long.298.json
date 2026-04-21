@@ -1,0 +1,23 @@
+{
+  "title": "DiBiMT: A Novel Benchmark for Measuring Word Sense Disambiguation Biases in Machine Translation",
+  "authors": [
+    "Niccolò Campolungo",
+    "Federico Martelli",
+    "Francesco Saina",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.298",
+  "acl_url": "https://aclanthology.org/2022.acl-long.298/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "How do different tokenizers perform on downstream tasks in scriptio continua languages?: A case study in Japanese",
+  "authors": [
+    "Takuro Fujii",
+    "Koki Shibata",
+    "Atsuki Yamaguchi",
+    "Terufumi Morishita",
+    "Yasuhiro Sogawa"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.acl-srw.5",
+  "acl_url": "https://aclanthology.org/2023.acl-srw.5/"
+}

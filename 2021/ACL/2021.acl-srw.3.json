@@ -1,0 +1,20 @@
+{
+  "title": "Transformer-Based Direct Hidden Markov Model for Machine Translation",
+  "authors": [
+    "Weiyue Wang",
+    "Zijian Yang",
+    "Yingbo Gao",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "German",
+    "Chinese",
+    "Turkish",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.acl-srw.3",
+  "acl_url": "https://aclanthology.org/2021.acl-srw.3/"
+}

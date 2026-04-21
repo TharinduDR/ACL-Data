@@ -1,0 +1,27 @@
+{
+  "title": "EasyInstruct: An Easy-to-use Instruction Processing Framework for Large Language Models",
+  "authors": [
+    "Yixin Ou",
+    "Ningyu Zhang",
+    "Honghao Gui",
+    "Ziwen Xu",
+    "Shuofei Qiao",
+    "Yida Xue",
+    "Runnan Fang",
+    "Kangwei Liu",
+    "Lei Li",
+    "Zhen Bi",
+    "Guozhou Zheng",
+    "Huajun Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.acl-demos.10",
+  "acl_url": "https://aclanthology.org/2024.acl-demos.10/"
+}

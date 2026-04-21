@@ -1,0 +1,21 @@
+{
+  "title": "CoCA: Fusing Position Embedding with Collinear Constrained Attention in Transformers for Long Context Window Extending",
+  "authors": [
+    "Shiyi Zhu",
+    "Jing Ye",
+    "Wei Jiang",
+    "Siqiao Xue",
+    "Qi Zhang",
+    "Yifan Wu",
+    "Jianguo Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.233",
+  "acl_url": "https://aclanthology.org/2024.acl-long.233/"
+}

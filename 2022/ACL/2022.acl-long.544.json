@@ -1,0 +1,38 @@
+{
+  "title": "CBLUE: A Chinese Biomedical Language Understanding Evaluation Benchmark",
+  "authors": [
+    "Ningyu Zhang",
+    "Mosha Chen",
+    "Zhen Bi",
+    "Xiaozhuan Liang",
+    "Lei Li",
+    "Xin Shang",
+    "Kangping Yin",
+    "Chuanqi Tan",
+    "Jian Xu",
+    "Fei Huang",
+    "Luo Si",
+    "Yuan Ni",
+    "Guotong Xie",
+    "Zhifang Sui",
+    "Baobao Chang",
+    "Hui Zong",
+    "Zheng Yuan",
+    "Linfeng Li",
+    "Jun Yan",
+    "Hongying Zan",
+    "Kunli Zhang",
+    "Buzhou Tang",
+    "Qingcai Chen"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.acl-long.544",
+  "acl_url": "https://aclanthology.org/2022.acl-long.544/"
+}

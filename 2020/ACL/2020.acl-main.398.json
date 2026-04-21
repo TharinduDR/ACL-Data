@@ -1,0 +1,20 @@
+{
+  "title": "TAPAS: Weakly Supervised Table Parsing via Pre-training",
+  "authors": [
+    "Jonathan Herzig",
+    "Paweł Krzysztof Nowak",
+    "Thomas Müller",
+    "Francesco Piccinno",
+    "Julian Martin Eisenschlos"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-main.398",
+  "acl_url": "https://aclanthology.org/2020.acl-main.398/"
+}

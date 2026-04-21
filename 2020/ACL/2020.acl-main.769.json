@@ -1,0 +1,18 @@
+{
+  "title": "End-to-End Bias Mitigation by Modelling Biases in Corpora",
+  "authors": [
+    "Rabeeh Karimi Mahabadi",
+    "Yonatan Belinkov",
+    "James Henderson"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.acl-main.769",
+  "acl_url": "https://aclanthology.org/2020.acl-main.769/"
+}

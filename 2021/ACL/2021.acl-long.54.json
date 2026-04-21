@@ -1,0 +1,23 @@
+{
+  "title": "SocAoG: Incremental Graph Parsing for Social Relation Inference in Dialogues",
+  "authors": [
+    "Liang Qiu",
+    "Yuan Liang",
+    "Yizhou Zhao",
+    "Pan Lu",
+    "Baolin Peng",
+    "Zhou Yu",
+    "Ying Nian Wu",
+    "Song-Chun Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.acl-long.54",
+  "acl_url": "https://aclanthology.org/2021.acl-long.54/"
+}

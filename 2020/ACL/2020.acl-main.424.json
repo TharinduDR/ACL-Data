@@ -1,0 +1,20 @@
+{
+  "title": "ASSET: A Dataset for Tuning and Evaluation of Sentence Simplification Models with Multiple Rewriting Transformations",
+  "authors": [
+    "Fernando Alva-Manchego",
+    "Louis Martin",
+    "Antoine Bordes",
+    "Carolina Scarton",
+    "Benoît Sagot",
+    "Lucia Specia"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.acl-main.424",
+  "acl_url": "https://aclanthology.org/2020.acl-main.424/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Glyph2Vec: Learning Chinese Out-of-Vocabulary Word Embedding from Glyphs",
+  "authors": [
+    "Hong-You Chen",
+    "Sz-Han Yu",
+    "Shou-De Lin"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.acl-main.256",
+  "acl_url": "https://aclanthology.org/2020.acl-main.256/"
+}

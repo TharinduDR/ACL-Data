@@ -1,0 +1,22 @@
+{
+  "title": "MSCTD: A Multimodal Sentiment Chat Translation Dataset",
+  "authors": [
+    "Yunlong Liang",
+    "Fandong Meng",
+    "Jinan Xu",
+    "Yufeng Chen",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.acl-long.186",
+  "acl_url": "https://aclanthology.org/2022.acl-long.186/"
+}

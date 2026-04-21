@@ -1,0 +1,29 @@
+{
+  "title": "OpenEval: Benchmarking Chinese LLMs across Capability, Alignment and Safety",
+  "authors": [
+    "Chuang Liu",
+    "Linshao Yu",
+    "Jiaxuan Li",
+    "Renren Jin",
+    "Yufei Huang",
+    "Ling Shi",
+    "Junhui Zhang",
+    "Xinmeng Ji",
+    "Tingting Cui",
+    "Tao Liu",
+    "Jinwang Song",
+    "Hongying Zan",
+    "Sun Li",
+    "Deyi Xiong"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2024.acl-demos.19",
+  "acl_url": "https://aclanthology.org/2024.acl-demos.19/"
+}

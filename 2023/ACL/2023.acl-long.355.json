@@ -1,0 +1,26 @@
+{
+  "title": "CONTRACL: Contrastive Learning For Causal Language Model",
+  "authors": [
+    "Nihal Jain",
+    "Dejiao Zhang",
+    "Wasi Uddin Ahmad",
+    "Zijian Wang",
+    "Feng Nan",
+    "Xiaopeng Li",
+    "Ming Tan",
+    "Ramesh Nallapati",
+    "Baishakhi Ray",
+    "Parminder Bhatia",
+    "Xiaofei Ma",
+    "Bing Xiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2023.acl-long.355",
+  "acl_url": "https://aclanthology.org/2023.acl-long.355/"
+}

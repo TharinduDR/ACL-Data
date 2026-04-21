@@ -1,0 +1,35 @@
+{
+  "title": "CTC-based Non-autoregressive Speech Translation",
+  "authors": [
+    "Chen Xu",
+    "Xiaoqian Liu",
+    "Xiaowen Liu",
+    "Qingxuan Sun",
+    "Yuhao Zhang",
+    "Murun Yang",
+    "Qianqian Dong",
+    "Tom Ko",
+    "Mingxuan Wang",
+    "Tong Xiao",
+    "Anxiang Ma",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.acl-long.744",
+  "acl_url": "https://aclanthology.org/2023.acl-long.744/"
+}

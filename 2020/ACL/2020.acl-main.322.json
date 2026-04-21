@@ -1,0 +1,24 @@
+{
+  "title": "Does Multi-Encoder Help? A Case Study on Context-Aware Neural Machine Translation",
+  "authors": [
+    "Bei Li",
+    "Hui Liu",
+    "Ziyang Wang",
+    "Yufan Jiang",
+    "Tong Xiao",
+    "Jingbo Zhu",
+    "Tongran Liu",
+    "Changliang Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.acl-main.322",
+  "acl_url": "https://aclanthology.org/2020.acl-main.322/"
+}

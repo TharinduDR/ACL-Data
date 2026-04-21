@@ -1,0 +1,23 @@
+{
+  "title": "Breaking Corpus Bottleneck for Context-Aware Neural Machine Translation with Cross-Task Pre-training",
+  "authors": [
+    "Linqing Chen",
+    "Junhui Li",
+    "Zhengxian Gong",
+    "Boxing Chen",
+    "Weihua Luo",
+    "Min Zhang",
+    "Guodong Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.acl-long.222",
+  "acl_url": "https://aclanthology.org/2021.acl-long.222/"
+}

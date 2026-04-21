@@ -1,0 +1,42 @@
+{
+  "title": "Substructure Distribution Projection for Zero-Shot Cross-Lingual Dependency Parsing",
+  "authors": [
+    "Freda Shi",
+    "Kevin Gimpel",
+    "Karen Livescu"
+  ],
+  "languages": [
+    "Arabic",
+    "Hindi",
+    "Korean",
+    "Turkish",
+    "German",
+    "French",
+    "Spanish",
+    "Italian",
+    "Chinese",
+    "Czech",
+    "Finnish",
+    "Hungarian",
+    "Japanese",
+    "Norwegian",
+    "Portuguese",
+    "Russian",
+    "Tamil",
+    "Telugu",
+    "Vietnamese",
+    "Chinese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.acl-long.452",
+  "acl_url": "https://aclanthology.org/2022.acl-long.452/"
+}

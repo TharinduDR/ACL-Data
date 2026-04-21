@@ -1,0 +1,22 @@
+{
+  "title": "WIKIDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types",
+  "authors": [
+    "Xuwu Wang",
+    "Junfeng Tian",
+    "Min Gui",
+    "Zhixu Li",
+    "Rui Wang",
+    "Ming Yan",
+    "Lihan Chen",
+    "Yanghua Xiao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.acl-long.328",
+  "acl_url": "https://aclanthology.org/2022.acl-long.328/"
+}

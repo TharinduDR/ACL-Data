@@ -1,0 +1,27 @@
+{
+  "title": "DODO: Dynamic Contextual Compression for Decoder-only LMs",
+  "authors": [
+    "Guanghui Qin",
+    "Corby Rosset",
+    "Ethan C. Chau",
+    "Nikhil Rao",
+    "Benjamin Van Durme"
+  ],
+  "languages": [
+    "English",
+    "Bulgarian",
+    "German",
+    "French",
+    "Italian",
+    "Dutch",
+    "Polish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.acl-long.536",
+  "acl_url": "https://aclanthology.org/2024.acl-long.536/"
+}

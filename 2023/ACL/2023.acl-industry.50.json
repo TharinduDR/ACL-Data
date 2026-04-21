@@ -1,0 +1,39 @@
+{
+  "title": "Evaluating Embedding APIs for Information Retrieval",
+  "authors": [
+    "Ehsan Kamalloo",
+    "Xinyu Zhang",
+    "Odunayo Ogundepo",
+    "Nandan Thakur",
+    "David Alfonso-Hermelo",
+    "Mehdi Rezagholizadeh",
+    "Jimmy Lin"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bengali",
+    "German",
+    "Spanish",
+    "Persian",
+    "Finnish",
+    "French",
+    "Hindi",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Telugu",
+    "Thai",
+    "Yoruba",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-industry.50",
+  "acl_url": "https://aclanthology.org/2023.acl-industry.50/"
+}

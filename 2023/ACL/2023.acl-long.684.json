@@ -1,0 +1,26 @@
+{
+  "title": "XDailyDialog: A Multilingual Parallel Dialogue Corpus",
+  "authors": [
+    "Zeming Liu",
+    "Ping Nie",
+    "Jie Cai",
+    "Haifeng Wang",
+    "Zheng-Yu Niu",
+    "Peng Zhang",
+    "Mrinmaya Sachan",
+    "Kaiping Peng"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Italian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.acl-long.684",
+  "acl_url": "https://aclanthology.org/2023.acl-long.684/"
+}

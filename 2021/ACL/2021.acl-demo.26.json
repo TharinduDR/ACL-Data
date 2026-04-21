@@ -1,0 +1,27 @@
+{
+  "title": "FastSeq: Make Sequence Generation Faster",
+  "authors": [
+    "Yu Yan",
+    "Fei Hu",
+    "Jiusheng Chen",
+    "Nikhil Bhendawade",
+    "Ting Ye",
+    "Yeyun Gong",
+    "Nan Duan",
+    "Desheng Cui",
+    "Bingyu Chi",
+    "Ruifei Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2021.acl-demo.26",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.26/"
+}

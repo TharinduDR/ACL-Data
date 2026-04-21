@@ -1,0 +1,26 @@
+{
+  "title": "PROXYQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models",
+  "authors": [
+    "Haochen Tan",
+    "Zhijiang Guo",
+    "Zhan Shi",
+    "Lu Xu",
+    "Zhili Liu",
+    "Yunlong Feng",
+    "Xiaoguang Li",
+    "Yasheng Wang",
+    "Lifeng Shang",
+    "Qun Liu",
+    "Linqi Song"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.acl-long.368",
+  "acl_url": "https://aclanthology.org/2024.acl-long.368/"
+}

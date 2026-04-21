@@ -1,0 +1,23 @@
+{
+  "title": "Test-time Adaptation for Machine Translation Evaluation by Uncertainty Minimization",
+  "authors": [
+    "Runzhe Zhan",
+    "Xuebo Liu",
+    "Derek F. Wong",
+    "Cuilian Zhang",
+    "Lidia S. Chao",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.47",
+  "acl_url": "https://aclanthology.org/2023.acl-long.47/"
+}

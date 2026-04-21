@@ -1,0 +1,35 @@
+{
+  "title": "M4GT-Bench: Evaluation Benchmark for Black-Box Machine-Generated Text Detection",
+  "authors": [
+    "Yuxia Wang",
+    "Jonibek Mansurov",
+    "Petar Ivanov",
+    "Jinyan Su",
+    "Artem Shelmanov",
+    "Akim Tsvigun",
+    "Osama Mohammed Afzal",
+    "Tarek Mahmoud",
+    "Giovanni Puccetti",
+    "Thomas Arnold",
+    "Alham Fikri Aji",
+    "Nizar Habash",
+    "Iryna Gurevych",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "German",
+    "Indonesian",
+    "Italian",
+    "Russian",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.218",
+  "acl_url": "https://aclanthology.org/2024.acl-long.218/"
+}

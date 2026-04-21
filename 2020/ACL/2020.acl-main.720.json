@@ -1,0 +1,35 @@
+{
+  "title": "Sources of Transfer in Multilingual Named Entity Recognition",
+  "authors": [
+    "David Mueller",
+    "Nicholas Andrews",
+    "Mark Dredze"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Dutch",
+    "Amharic",
+    "Arabic",
+    "Farsi",
+    "Hindi",
+    "Hungarian",
+    "Indonesian",
+    "Somali",
+    "Swahili",
+    "Tagalog",
+    "Vietnamese",
+    "Russian",
+    "Bengali",
+    "Uzbek",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.acl-main.720",
+  "acl_url": "https://aclanthology.org/2020.acl-main.720/"
+}

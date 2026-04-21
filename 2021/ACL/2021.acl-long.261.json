@@ -1,0 +1,19 @@
+{
+  "title": "Position Bias Mitigation: A Knowledge-Aware Graph Model for Emotion Cause Extraction",
+  "authors": [
+    "Hanqi Yan",
+    "Lin Gui",
+    "Gabriele Pergola",
+    "Yulan He"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.acl-long.261",
+  "acl_url": "https://aclanthology.org/2021.acl-long.261/"
+}

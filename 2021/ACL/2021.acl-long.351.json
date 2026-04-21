@@ -1,0 +1,45 @@
+{
+  "title": "How to Adapt Your Pretrained Multilingual Model to 1600 Languages",
+  "authors": [
+    "Abteen Ebrahimi",
+    "Katharina Kann"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bashkir",
+    "Bambara",
+    "Cebuano",
+    "Chechen",
+    "Chuvash",
+    "Coptic",
+    "Crimean Turkish",
+    "Manx",
+    "Ancient Greek",
+    "Swiss German",
+    "Hakka Chinese",
+    "Igbo",
+    "Iloko",
+    "Kinyarwanda",
+    "Magahi",
+    "Eastern Mari",
+    "Minangkabau",
+    "Maltese",
+    "Maori",
+    "Erzya",
+    "Low German",
+    "Odia",
+    "Scots",
+    "Tatar",
+    "Tajik",
+    "Waray",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-long.351",
+  "acl_url": "https://aclanthology.org/2021.acl-long.351/"
+}

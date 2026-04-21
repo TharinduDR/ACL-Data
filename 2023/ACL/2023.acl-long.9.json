@@ -1,0 +1,27 @@
+{
+  "title": "Natural Language to Code Generation in Interactive Data Science Notebooks",
+  "authors": [
+    "Pengcheng Yin",
+    "Wen-Ding Li",
+    "Kefan Xiao",
+    "Abhishek Rao",
+    "Yeming Wen",
+    "Kensen Shi",
+    "Joshua Howland",
+    "Paige Bailey",
+    "Michele Catasta",
+    "Henryk Michalewski",
+    "Alex Polozov",
+    "Charles Sutton"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.9",
+  "acl_url": "https://aclanthology.org/2023.acl-long.9/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "A Tale of a Probe and a Parser",
+  "authors": [
+    "Rowan Hall Maudslay",
+    "Josef Valvoda",
+    "Tiago Pimentel",
+    "Adina Williams",
+    "Ryan Cotterell"
+  ],
+  "languages": [
+    "Arabic",
+    "Basque",
+    "Czech",
+    "English",
+    "Finnish",
+    "Japanese",
+    "Korean",
+    "Tamil",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-main.659",
+  "acl_url": "https://aclanthology.org/2020.acl-main.659/"
+}

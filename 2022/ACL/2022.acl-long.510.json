@@ -1,0 +1,19 @@
+{
+  "title": "Weakly Supervised Word Segmentation for Computational Language Documentation",
+  "authors": [
+    "Shu Okabe",
+    "Laurent Besacier",
+    "François Yvon"
+  ],
+  "languages": [
+    "Mboshi",
+    "Japhug"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.acl-long.510",
+  "acl_url": "https://aclanthology.org/2022.acl-long.510/"
+}

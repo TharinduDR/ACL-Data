@@ -1,0 +1,24 @@
+{
+  "title": "Attention Calibration for Transformer in Neural Machine Translation",
+  "authors": [
+    "Yu Lu",
+    "Jiali Zeng",
+    "Jiajun Zhang",
+    "Shuangzhi Wu",
+    "Mu Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Romanian",
+    "Finnish",
+    "Latvian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.acl-long.103",
+  "acl_url": "https://aclanthology.org/2021.acl-long.103/"
+}

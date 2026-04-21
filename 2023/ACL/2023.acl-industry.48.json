@@ -1,0 +1,21 @@
+{
+  "title": "BADGE: Speeding Up BERT Inference after Deployment via Block-wise Bypasses and Divergence-Based Early Exiting",
+  "authors": [
+    "Wei Zhu",
+    "Peng Wang",
+    "Yuan Ni",
+    "Guotong Xie",
+    "Xiaoling Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.acl-industry.48",
+  "acl_url": "https://aclanthology.org/2023.acl-industry.48/"
+}

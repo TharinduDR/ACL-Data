@@ -1,0 +1,20 @@
+{
+  "title": "Causal-Debias: Unifying Debiasing in Pretrained Language Models and Fine-tuning via Causal Invariant Learning",
+  "authors": [
+    "Fan Zhou",
+    "Yuzhou Mao",
+    "Liu Yu",
+    "Yi Yang",
+    "Ting Zhong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.acl-long.232",
+  "acl_url": "https://aclanthology.org/2023.acl-long.232/"
+}

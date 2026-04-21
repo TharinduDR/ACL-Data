@@ -1,0 +1,20 @@
+{
+  "title": "StructFormer: Joint Unsupervised Induction of Dependency and Constituency Structure from Masked Language Modeling",
+  "authors": [
+    "Yikang Shen",
+    "Yi Tay",
+    "Che Zheng",
+    "Dara Bahri",
+    "Donald Metzler",
+    "Aaron Courville"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-long.559",
+  "acl_url": "https://aclanthology.org/2021.acl-long.559/"
+}

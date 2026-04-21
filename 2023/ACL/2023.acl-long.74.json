@@ -1,0 +1,23 @@
+{
+  "title": "Synthetic Text Generation with Differential Privacy: A Simple and Practical Recipe",
+  "authors": [
+    "Xiang Yue",
+    "Huseyin A. Inan",
+    "Xuechen Li",
+    "Girish Kumar",
+    "Julia McAnallen",
+    "Hoda Shajari",
+    "Huan Sun",
+    "David Levitan",
+    "Robert Sim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.74",
+  "acl_url": "https://aclanthology.org/2023.acl-long.74/"
+}

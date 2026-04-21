@@ -1,0 +1,19 @@
+{
+  "title": "To Adapt or to Annotate: Challenges and Interventions for Domain Adaptation in Open-Domain Question Answering",
+  "authors": [
+    "Dheeru Dua",
+    "Emma Strubell",
+    "Sameer Singh",
+    "Pat Verga"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.807",
+  "acl_url": "https://aclanthology.org/2023.acl-long.807/"
+}

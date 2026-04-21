@@ -1,0 +1,27 @@
+{
+  "title": "kNN-TL: k-Nearest-Neighbor Transfer Learning for Low-Resource Neural Machine Translation",
+  "authors": [
+    "Shudong Liu",
+    "Xuebo Liu",
+    "Derek F. Wong",
+    "Zhaocong Li",
+    "Wenxiang Jiao",
+    "Lidia S. Chao",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Hungarian",
+    "Indonesian",
+    "Catalan",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.105",
+  "acl_url": "https://aclanthology.org/2023.acl-long.105/"
+}

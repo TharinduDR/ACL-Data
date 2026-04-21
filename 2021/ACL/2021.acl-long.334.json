@@ -1,0 +1,23 @@
+{
+  "title": "BinaryBERT: Pushing the Limit of BERT Quantization",
+  "authors": [
+    "Haoli Bai",
+    "Wei Zhang",
+    "Lu Hou",
+    "Lifeng Shang",
+    "Jing Jin",
+    "Xin Jiang",
+    "Qun Liu",
+    "Michael Lyu",
+    "Irwin King"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.acl-long.334",
+  "acl_url": "https://aclanthology.org/2021.acl-long.334/"
+}

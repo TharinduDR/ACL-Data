@@ -1,0 +1,30 @@
+{
+  "title": "IndicIRSuite: Multilingual Dataset and Neural Information Models for Indian Languages",
+  "authors": [
+    "Saiful haq",
+    "Ashutosh Sharma",
+    "Omar Khattab",
+    "Niyati Chhaya",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "Assamese",
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Oriya",
+    "Punjabi",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-short.46",
+  "acl_url": "https://aclanthology.org/2024.acl-short.46/"
+}

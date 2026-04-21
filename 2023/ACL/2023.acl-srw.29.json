@@ -1,0 +1,20 @@
+{
+  "title": "Building a Buzzer-Quiz Answering System",
+  "authors": [
+    "Naoya Sugiura",
+    "Kosuke Yamada",
+    "Ryohei Sasano",
+    "Koichi Takeda",
+    "Katsuhiko Toyama"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-srw.29",
+  "acl_url": "https://aclanthology.org/2023.acl-srw.29/"
+}

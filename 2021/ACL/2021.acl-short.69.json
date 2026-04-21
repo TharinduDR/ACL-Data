@@ -1,0 +1,27 @@
+{
+  "title": "When is Char Better Than Subword: A Systematic Study of Segmentation Algorithms for Neural Machine Translation",
+  "authors": [
+    "Jiahuan Li",
+    "Yutong Shen",
+    "Shujian Huang",
+    "Xinyu Dai",
+    "Jiajun Chen"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Romanian",
+    "Finnish",
+    "Turkish",
+    "Hebrew",
+    "Arabic",
+    "Vietnamese",
+    "Malay"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-short.69",
+  "acl_url": "https://aclanthology.org/2021.acl-short.69/"
+}

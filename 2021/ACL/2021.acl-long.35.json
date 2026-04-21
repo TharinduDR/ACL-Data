@@ -1,0 +1,18 @@
+{
+  "title": "DESCGEN: A Distantly Supervised Dataset for Generating Abstractive Entity Descriptions",
+  "authors": [
+    "Weijia Shi",
+    "Mandar Joshi",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2021.acl-long.35",
+  "acl_url": "https://aclanthology.org/2021.acl-long.35/"
+}

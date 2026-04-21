@@ -1,0 +1,41 @@
+{
+  "title": "TencentPretrain: A Scalable and Flexible Toolkit for Pre-training Models of Different Modalities",
+  "authors": [
+    "Zhe Zhao",
+    "Yudong Li",
+    "Cheng Hou",
+    "Jing Zhao",
+    "Rong Tian",
+    "Weijie Liu",
+    "Yiren Chen",
+    "Ningyuan Sun",
+    "Haoyan Liu",
+    "Weiquan Mao",
+    "Han Guo",
+    "Weigang Guo",
+    "Taiqiang Wu",
+    "Tao Zhu",
+    "Wenhang Shi",
+    "Chen Chen",
+    "Shan Huang",
+    "Sihong Chen",
+    "Liqun Liu",
+    "Feifei Li",
+    "Xiaoshuai Chen",
+    "Xingwu Sun",
+    "Zhanhui Kang",
+    "Xiaoyong Du",
+    "Linlin Shen",
+    "Kimmo Yan"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.acl-demo.20",
+  "acl_url": "https://aclanthology.org/2023.acl-demo.20/"
+}

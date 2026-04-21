@@ -1,0 +1,37 @@
+{
+  "title": "LANGBRIDGE: Multilingual Reasoning Without Multilingual Supervision",
+  "authors": [
+    "Dongkeun Yoon",
+    "Joel Jang",
+    "Sungdong Kim",
+    "Seungone Kim",
+    "Sheikh Shafayat",
+    "Minjoon Seo"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Spanish",
+    "Russian",
+    "Japanese",
+    "Thai",
+    "Swahili",
+    "Bengali",
+    "Telugu",
+    "Portuguese",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.acl-long.405",
+  "acl_url": "https://aclanthology.org/2024.acl-long.405/"
+}

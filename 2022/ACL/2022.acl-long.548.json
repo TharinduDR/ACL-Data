@@ -1,0 +1,21 @@
+{
+  "title": "Modeling Syntactic-Semantic Dependency Correlations in Semantic Role Labeling Using Mixture Models",
+  "authors": [
+    "Junjie Chen",
+    "Xiangheng He",
+    "Yusuke Miyao"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Catalan",
+    "Chinese",
+    "Czech"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.acl-long.548",
+  "acl_url": "https://aclanthology.org/2022.acl-long.548/"
+}

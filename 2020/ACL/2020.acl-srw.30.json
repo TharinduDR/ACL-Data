@@ -1,0 +1,21 @@
+{
+  "title": "Embeddings of Label Components for Sequence Labeling: A Case Study of Fine-grained Named Entity Recognition",
+  "authors": [
+    "Takuma Kato",
+    "Kaori Abe",
+    "Hiroki Ouchi",
+    "Shumpei Miyawaki",
+    "Jun Suzuki",
+    "Kentaro Inui"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-srw.30",
+  "acl_url": "https://aclanthology.org/2020.acl-srw.30/"
+}

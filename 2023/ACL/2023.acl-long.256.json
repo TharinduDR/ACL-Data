@@ -1,0 +1,27 @@
+{
+  "title": "Unified Demonstration Retriever for In-Context Learning",
+  "authors": [
+    "Xiaonan Li",
+    "Kai Lv",
+    "Hang Yan",
+    "Tianyang Lin",
+    "Zhu Wei",
+    "Yuan Ni",
+    "Guotong Xie",
+    "Xiaoling Wang",
+    "Xipeng Qiu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T18 Text Summarization",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2023.acl-long.256",
+  "acl_url": "https://aclanthology.org/2023.acl-long.256/"
+}

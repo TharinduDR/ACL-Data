@@ -1,0 +1,18 @@
+{
+  "title": "Transitive Consistency Constrained Learning for Entity-to-Entity Stance Detection",
+  "authors": [
+    "Haoyang Wen",
+    "Eduard Hovy",
+    "Alexander Hauptmann"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.acl-long.80",
+  "acl_url": "https://aclanthology.org/2024.acl-long.80/"
+}

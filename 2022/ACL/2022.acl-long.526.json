@@ -1,0 +1,21 @@
+{
+  "title": "Cluster & Tune: Boost Cold Start Performance in Text Classification",
+  "authors": [
+    "Eyal Shnarch",
+    "Ariel Gera",
+    "Alon Halfon",
+    "Lena Dankin",
+    "Leshem Choshen",
+    "Ranit Aharonov",
+    "Noam Slonim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.acl-long.526",
+  "acl_url": "https://aclanthology.org/2022.acl-long.526/"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "When Does Translation Require Context? A Data-driven, Multilingual Exploration",
+  "authors": [
+    "Patrick Fernandes",
+    "Kayo Yin",
+    "Emmy Liu",
+    "André F. T. Martins",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Hebrew",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Dutch",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.acl-long.36",
+  "acl_url": "https://aclanthology.org/2023.acl-long.36/"
+}

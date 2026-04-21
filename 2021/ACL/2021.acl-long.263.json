@@ -1,0 +1,22 @@
+{
+  "title": "Structured Sentiment Analysis as Dependency Graph Parsing",
+  "authors": [
+    "Jeremy Barnes",
+    "Robin Kurtz",
+    "Stephan Oepen",
+    "Lilja Øvrelid",
+    "Erik Velldal"
+  ],
+  "languages": [
+    "English",
+    "Norwegian",
+    "Basque",
+    "Catalan"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-long.263",
+  "acl_url": "https://aclanthology.org/2021.acl-long.263/"
+}

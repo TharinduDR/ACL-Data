@@ -1,0 +1,24 @@
+{
+  "title": "M³AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset",
+  "authors": [
+    "Zhe Chen",
+    "Heyang Liu",
+    "Wenyi Yu",
+    "Guangzhi Sun",
+    "Hongcheng Liu",
+    "Ji Wu",
+    "Chao Zhang",
+    "Yu Wang",
+    "Yanfeng Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.acl-long.489",
+  "acl_url": "https://aclanthology.org/2024.acl-long.489/"
+}

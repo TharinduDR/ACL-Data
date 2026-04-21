@@ -1,0 +1,21 @@
+{
+  "title": "Article Reranking by Memory-Enhanced Key Sentence Matching for Detecting Previously Fact-Checked Claims",
+  "authors": [
+    "Qiang Sheng",
+    "Juan Cao",
+    "Xueyao Zhang",
+    "Xirong Li",
+    "Lei Zhong"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2021.acl-long.425",
+  "acl_url": "https://aclanthology.org/2021.acl-long.425/"
+}

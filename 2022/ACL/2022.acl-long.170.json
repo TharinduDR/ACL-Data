@@ -1,0 +1,23 @@
+{
+  "title": "ClusterFormer: Neural Clustering Attention for Efficient and Effective Transformer",
+  "authors": [
+    "Ningning Wang",
+    "Guobing Gan",
+    "Peng Zhang",
+    "Shuai Zhang",
+    "Junqiu Wei",
+    "Qun Liu",
+    "Xin Jiang"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.170",
+  "acl_url": "https://aclanthology.org/2022.acl-long.170/"
+}

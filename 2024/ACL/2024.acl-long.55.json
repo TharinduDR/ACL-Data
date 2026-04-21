@@ -1,0 +1,25 @@
+{
+  "title": "ABSINSTRUCT: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation",
+  "authors": [
+    "Zhaowei Wang",
+    "Wei Fan",
+    "Qing Zong",
+    "Hongming Zhang",
+    "Sehyun Choi",
+    "Tianqing Fang",
+    "Xin Liu",
+    "Yangqiu Song",
+    "Ginny Y. Wong",
+    "Simon See"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.acl-long.55",
+  "acl_url": "https://aclanthology.org/2024.acl-long.55/"
+}

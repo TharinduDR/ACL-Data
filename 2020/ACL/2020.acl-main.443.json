@@ -1,0 +1,19 @@
+{
+  "title": "Code and Named Entity Recognition in StackOverflow",
+  "authors": [
+    "Jeniya Tabassum",
+    "Mounica Maddela",
+    "Wei Xu",
+    "Alan Ritter"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2020.acl-main.443",
+  "acl_url": "https://aclanthology.org/2020.acl-main.443/"
+}

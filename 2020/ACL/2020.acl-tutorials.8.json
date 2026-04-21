@@ -1,0 +1,15 @@
+{
+  "title": "Open-Domain Question Answering",
+  "authors": [
+    "Danqi Chen",
+    "Wen-tau Yih"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.acl-tutorials.8",
+  "acl_url": "https://aclanthology.org/2020.acl-tutorials.8/"
+}

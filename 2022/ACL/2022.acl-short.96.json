@@ -1,0 +1,29 @@
+{
+  "title": "(Un)solving Morphological Inflection: Lemma Overlap Artificially Inflates Models' Performance",
+  "authors": [
+    "Omer Goldman",
+    "David Guriel",
+    "Reut Tsarfaty"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hindi",
+    "Dakota",
+    "Middle High German",
+    "Afro-Asiatic",
+    "Austronesian",
+    "Indo-Iranian",
+    "Niger-Congo",
+    "Oto-Manguean",
+    "Romance",
+    "Turkic",
+    "Uralic"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-short.96",
+  "acl_url": "https://aclanthology.org/2022.acl-short.96/"
+}

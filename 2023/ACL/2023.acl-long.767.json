@@ -1,0 +1,23 @@
+{
+  "title": "Training Trajectories of Language Models Across Scales",
+  "authors": [
+    "Mengzhou Xia",
+    "Mikel Artetxe",
+    "Chunting Zhou",
+    "Xi Victoria Lin",
+    "Ramakanth Pasunuru",
+    "Danqi Chen",
+    "Luke Zettlemoyer",
+    "Ves Stoyanov"
+  ],
+  "languages": [
+    "English",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.767",
+  "acl_url": "https://aclanthology.org/2023.acl-long.767/"
+}

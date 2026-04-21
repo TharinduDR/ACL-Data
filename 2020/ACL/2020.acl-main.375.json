@@ -1,0 +1,30 @@
+{
+  "title": "Do Neural Language Models Show Preferences for Syntactic Formalisms?",
+  "authors": [
+    "Artur Kulmizev",
+    "Vinit Ravishankar",
+    "Mostafa Abdou",
+    "Joakim Nivre"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "Basque",
+    "Finnish",
+    "Hebrew",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Swedish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T12",
+    "T21"
+  ],
+  "paper_id": "2020.acl-main.375",
+  "acl_url": "https://aclanthology.org/2020.acl-main.375/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Recursive Tree-Structured Self-Attention for Answer Sentence Selection",
+  "authors": [
+    "Khalil Mrini",
+    "Emilia Farcas",
+    "Ndapa Nakashole"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-long.358",
+  "acl_url": "https://aclanthology.org/2021.acl-long.358/"
+}

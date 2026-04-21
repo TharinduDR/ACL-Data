@@ -1,0 +1,27 @@
+{
+  "title": "SLUE Phase-2: A Benchmark Suite of Diverse Spoken Language Understanding Tasks",
+  "authors": [
+    "Suwon Shon",
+    "Siddhant Arora",
+    "Chyi-Jiunn Lin",
+    "Ankita Pasad",
+    "Felix Wu",
+    "Roshan Sharma",
+    "Wei-Lun Wu",
+    "Hung-Yi Lee",
+    "Karen Livescu",
+    "Shinji Watanabe"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.acl-long.496",
+  "acl_url": "https://aclanthology.org/2023.acl-long.496/"
+}

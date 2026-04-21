@@ -1,0 +1,28 @@
+{
+  "title": "NeurST: Neural Speech Translation Toolkit",
+  "authors": [
+    "Chengqi Zhao",
+    "Mingxuan Wang",
+    "Qianqian Dong",
+    "Rong Ye",
+    "Lei Li"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Dutch",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.acl-demo.7",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.7/"
+}

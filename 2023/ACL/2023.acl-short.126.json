@@ -1,0 +1,31 @@
+{
+  "title": "RAMP: Retrieval and Attribute-Marking Enhanced Prompting for Attribute-Controlled Translation",
+  "authors": [
+    "Gabriele Sarti",
+    "Phu Mon Htut",
+    "Xing Niu",
+    "Benjamin Hsu",
+    "Anna Currey",
+    "Georgiana Dinu",
+    "Maria Nadejde"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Dutch",
+    "Arabic",
+    "Hindi",
+    "Portuguese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-short.126",
+  "acl_url": "https://aclanthology.org/2023.acl-short.126/"
+}

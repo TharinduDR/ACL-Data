@@ -1,0 +1,19 @@
+{
+  "title": "End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2",
+  "authors": [
+    "Donghoon Ham",
+    "Jeong-Gwan Lee",
+    "Youngsoo Jang",
+    "Kee-Eung Kim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.acl-main.54",
+  "acl_url": "https://aclanthology.org/2020.acl-main.54/"
+}

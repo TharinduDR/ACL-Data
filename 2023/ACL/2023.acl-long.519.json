@@ -1,0 +1,29 @@
+{
+  "title": "Revisiting Cross-Lingual Summarization: A Corpus-based Study and A New Benchmark with Improved Annotation",
+  "authors": [
+    "Yulong Chen",
+    "Huajian Zhang",
+    "Yijie Zhou",
+    "Xuefeng Bai",
+    "Yueguan Wang",
+    "Ming Zhong",
+    "Jianhao Yan",
+    "Yafu Li",
+    "Judy Li",
+    "Michael Zhu",
+    "Yue Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.519",
+  "acl_url": "https://aclanthology.org/2023.acl-long.519/"
+}

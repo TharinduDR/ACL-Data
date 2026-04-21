@@ -1,0 +1,23 @@
+{
+  "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",
+  "authors": [
+    "Mike Lewis",
+    "Yinhan Liu",
+    "Naman Goyal",
+    "Marjan Ghazvininejad",
+    "Abdelrahman Mohamed",
+    "Omer Levy",
+    "Ves Stoyanov",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2020.acl-main.703",
+  "acl_url": "https://aclanthology.org/2020.acl-main.703/"
+}

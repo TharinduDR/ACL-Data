@@ -1,0 +1,25 @@
+{
+  "title": "A Comparative Study on the Impact of Model Compression Techniques on Fairness in Language Models",
+  "authors": [
+    "Krithika Ramesh",
+    "Arnav Chavan",
+    "Shrey Pandit",
+    "Sunayana Sitaram"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Danish",
+    "Italian",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.acl-long.878",
+  "acl_url": "https://aclanthology.org/2023.acl-long.878/"
+}

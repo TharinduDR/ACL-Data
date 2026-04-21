@@ -1,0 +1,21 @@
+{
+  "title": "A Joint Model for Document Segmentation and Segment Labeling",
+  "authors": [
+    "Joe Barrow",
+    "Rajiv Jain",
+    "Vlad I. Morariu",
+    "Varun Manjunatha",
+    "Douglas W. Oard",
+    "Philip Resnik"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.acl-main.29",
+  "acl_url": "https://aclanthology.org/2020.acl-main.29/"
+}

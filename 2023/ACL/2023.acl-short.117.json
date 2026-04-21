@@ -1,0 +1,22 @@
+{
+  "title": "Text-to-SQL Error Correction with Language Models of Code",
+  "authors": [
+    "Ziru Chen",
+    "Shijie Chen",
+    "Michael White",
+    "Raymond Mooney",
+    "Ali Payani",
+    "Jayanth Srinivasa",
+    "Yu Su",
+    "Huan Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.acl-short.117",
+  "acl_url": "https://aclanthology.org/2023.acl-short.117/"
+}

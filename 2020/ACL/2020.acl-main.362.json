@@ -1,0 +1,22 @@
+{
+  "title": "Graph-to-Tree Learning for Solving Math Word Problems",
+  "authors": [
+    "Jipeng Zhang",
+    "Lei Wang",
+    "Roy Ka-Wei Lee",
+    "Yi Bin",
+    "Yan Wang",
+    "Jie Shao",
+    "Ee-Peng Lim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2020.acl-main.362",
+  "acl_url": "https://aclanthology.org/2020.acl-main.362/"
+}

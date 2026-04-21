@@ -1,0 +1,20 @@
+{
+  "title": "CipherDAug: Ciphertext based Data Augmentation for Neural Machine Translation",
+  "authors": [
+    "Nishant Kambhatla",
+    "Logan Born",
+    "Anoop Sarkar"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "French",
+    "Chinese",
+    "Slovak"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.acl-long.17",
+  "acl_url": "https://aclanthology.org/2022.acl-long.17/"
+}

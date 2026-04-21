@@ -1,0 +1,21 @@
+{
+  "title": "SCOTT: Self-Consistent Chain-of-Thought Distillation",
+  "authors": [
+    "Peifeng Wang",
+    "Zhengyang Wang",
+    "Zheng Li",
+    "Yifan Gao",
+    "Bing Yin",
+    "Xiang Ren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.304",
+  "acl_url": "https://aclanthology.org/2023.acl-long.304/"
+}

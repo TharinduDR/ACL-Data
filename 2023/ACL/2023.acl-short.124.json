@@ -1,0 +1,28 @@
+{
+  "title": "Hexatagging: Projective Dependency Parsing as Tagging",
+  "authors": [
+    "Afra Amini",
+    "Tianyu Liu",
+    "Ryan Cotterell"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Bulgarian",
+    "Catalan",
+    "Czech",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Norwegian",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.acl-short.124",
+  "acl_url": "https://aclanthology.org/2023.acl-short.124/"
+}

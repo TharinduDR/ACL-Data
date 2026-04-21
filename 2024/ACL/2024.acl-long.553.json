@@ -1,0 +1,25 @@
+{
+  "title": "BinaryAlign: Word Alignment as Binary Sequence Labeling",
+  "authors": [
+    "Gaetan Lopez Latouche",
+    "Marc-André Carbonneau",
+    "Ben Swanson"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "Romanian",
+    "Japanese",
+    "German",
+    "Swedish",
+    "Finnish",
+    "Greek",
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.acl-long.553",
+  "acl_url": "https://aclanthology.org/2024.acl-long.553/"
+}

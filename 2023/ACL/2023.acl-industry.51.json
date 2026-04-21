@@ -1,0 +1,20 @@
+{
+  "title": "Domain-Agnostic Neural Architecture for Class Incremental Continual Learning in Document Processing Platform",
+  "authors": [
+    "Mateusz Wójcik",
+    "Witold Kościukiewicz",
+    "Mateusz Baran",
+    "Tomasz Kajdanowicz",
+    "Adam Gonczarek"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.acl-industry.51",
+  "acl_url": "https://aclanthology.org/2023.acl-industry.51/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "FiD-ICL: A Fusion-in-Decoder Approach for Efficient In-Context Learning",
+  "authors": [
+    "Qinyuan Ye",
+    "Iz Beltagy",
+    "Matthew E. Peters",
+    "Xiang Ren",
+    "Hannaneh Hajishirzi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.454",
+  "acl_url": "https://aclanthology.org/2023.acl-long.454/"
+}

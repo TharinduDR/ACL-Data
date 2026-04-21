@@ -1,0 +1,20 @@
+{
+  "title": "HATECHECK: Functional Tests for Hate Speech Detection Models",
+  "authors": [
+    "Paul Röttger",
+    "Bertram Vidgen",
+    "Dong Nguyen",
+    "Zeerak Waseem",
+    "Helen Margetts",
+    "Janet B. Pierrehumbert"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.acl-long.4",
+  "acl_url": "https://aclanthology.org/2021.acl-long.4/"
+}

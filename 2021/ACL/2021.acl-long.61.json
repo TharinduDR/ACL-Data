@@ -1,0 +1,22 @@
+{
+  "title": "AdvPicker: Effectively Leveraging Unlabeled Data via Adversarial Discriminator for Cross-Lingual NER",
+  "authors": [
+    "Weile Chen",
+    "Huiqiang Jiang",
+    "Qianhui Wu",
+    "Börje F. Karlsson",
+    "Yi Guan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.acl-long.61",
+  "acl_url": "https://aclanthology.org/2021.acl-long.61/"
+}

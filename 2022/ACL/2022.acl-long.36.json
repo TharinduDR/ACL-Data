@@ -1,0 +1,29 @@
+{
+  "title": "Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment",
+  "authors": [
+    "Zijie Huang",
+    "Zheng Li",
+    "Haoming Jiang",
+    "Tianyu Cao",
+    "Hanqing Lu",
+    "Bing Yin",
+    "Karthik Subbian",
+    "Yizhou Sun",
+    "Wei Wang"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Japanese",
+    "German",
+    "Italian"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.acl-long.36",
+  "acl_url": "https://aclanthology.org/2022.acl-long.36/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Towards Unifying Multi-Lingual and Cross-Lingual Summarization",
+  "authors": [
+    "Jiaan Wang",
+    "Fandong Meng",
+    "Duo Zheng",
+    "Yunlong Liang",
+    "Zhixu Li",
+    "Jianfeng Qu",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Hindi",
+    "Chinese",
+    "Thai",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.843",
+  "acl_url": "https://aclanthology.org/2023.acl-long.843/"
+}

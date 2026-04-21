@@ -1,0 +1,21 @@
+{
+  "title": "PokeMQA: Programmable knowledge editing for Multi-hop Question Answering",
+  "authors": [
+    "Hengrui Gu",
+    "Kaixiong Zhou",
+    "Xiaotian Han",
+    "Ninghao Liu",
+    "Ruobing Wang",
+    "Xin Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.acl-long.438",
+  "acl_url": "https://aclanthology.org/2024.acl-long.438/"
+}

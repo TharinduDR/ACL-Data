@@ -1,0 +1,22 @@
+{
+  "title": "Making More of Little Data: Improving Low-Resource Automatic Speech Recognition Using Data Augmentation",
+  "authors": [
+    "Martijn Bartelds",
+    "Nay San",
+    "Bradley McDonnell",
+    "Dan Jurafsky",
+    "Martijn Wieling"
+  ],
+  "languages": [
+    "Gronings",
+    "West-Frisian",
+    "Besemah",
+    "Nasal"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.acl-long.42",
+  "acl_url": "https://aclanthology.org/2023.acl-long.42/"
+}

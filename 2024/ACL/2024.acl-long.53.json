@@ -1,0 +1,23 @@
+{
+  "title": "Prompt Refinement with Image Pivot for Text-to-Image Generation",
+  "authors": [
+    "Jingtao Zhan",
+    "Qingyao Ai",
+    "Yiqun Liu",
+    "Yingwei Pan",
+    "Ting Yao",
+    "Jiaxin Mao",
+    "Shaoping Ma",
+    "Tao Mei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.acl-long.53",
+  "acl_url": "https://aclanthology.org/2024.acl-long.53/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Phone-ing it in: Towards Flexible, Multi-Modal Language Model Training using Phonetic Representations of Data",
+  "authors": [
+    "Colin Leong",
+    "Daniel Whitenack"
+  ],
+  "languages": [
+    "Swahili",
+    "Kinyarwanda"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.acl-long.364",
+  "acl_url": "https://aclanthology.org/2022.acl-long.364/"
+}

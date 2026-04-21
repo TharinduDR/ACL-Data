@@ -1,0 +1,25 @@
+{
+  "title": "Treebank Embedding Vectors for Out-of-Domain Dependency Parsing",
+  "authors": [
+    "Joachim Wagner",
+    "James Barry",
+    "Jennifer Foster"
+  ],
+  "languages": [
+    "Czech",
+    "English",
+    "French",
+    "Finnish",
+    "Italian",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-main.778",
+  "acl_url": "https://aclanthology.org/2020.acl-main.778/"
+}

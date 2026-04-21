@@ -1,0 +1,20 @@
+{
+  "title": "EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets",
+  "authors": [
+    "Xiaohan Chen",
+    "Yu Cheng",
+    "Shuohang Wang",
+    "Zhe Gan",
+    "Zhangyang Wang",
+    "Jingjing Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.acl-long.171",
+  "acl_url": "https://aclanthology.org/2021.acl-long.171/"
+}

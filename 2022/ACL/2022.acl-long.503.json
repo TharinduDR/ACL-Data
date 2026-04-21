@@ -1,0 +1,20 @@
+{
+  "title": "SkipBERT: Efficient Inference with Shallow Layer Skipping",
+  "authors": [
+    "Jue Wang",
+    "Ke Chen",
+    "Gang Chen",
+    "Lidan Shou",
+    "Julian McAuley"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2022.acl-long.503",
+  "acl_url": "https://aclanthology.org/2022.acl-long.503/"
+}

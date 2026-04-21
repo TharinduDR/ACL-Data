@@ -1,0 +1,23 @@
+{
+  "title": "Improving Pretraining Techniques for Code-Switched NLP",
+  "authors": [
+    "Richeek Das",
+    "Sahasra Ranjan",
+    "Shreya Pathak",
+    "Preethi Jyothi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Spanish",
+    "Tamil",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.acl-long.66",
+  "acl_url": "https://aclanthology.org/2023.acl-long.66/"
+}

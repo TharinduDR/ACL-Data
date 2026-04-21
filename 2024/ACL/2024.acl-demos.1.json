@@ -1,0 +1,22 @@
+{
+  "title": "PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud",
+  "authors": [
+    "Chengyu Wang",
+    "Zhongjie Duan",
+    "Bingyan Liu",
+    "Xinyi Zou",
+    "Cen Chen",
+    "Kui Jia",
+    "Jun Huang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.acl-demos.1",
+  "acl_url": "https://aclanthology.org/2024.acl-demos.1/"
+}

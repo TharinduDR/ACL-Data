@@ -1,0 +1,19 @@
+{
+  "title": "Why Did the Chicken Cross the Road? Rephrasing and Analyzing Ambiguous Questions in VQA",
+  "authors": [
+    "Elias Stengel-Eskin",
+    "Jimena Guallar-Blasco",
+    "Yi Zhou",
+    "Benjamin Van Durme"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.acl-long.569",
+  "acl_url": "https://aclanthology.org/2023.acl-long.569/"
+}

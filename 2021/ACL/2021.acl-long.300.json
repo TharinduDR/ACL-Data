@@ -1,0 +1,25 @@
+{
+  "title": "Cross-language Sentence Selection via Data Augmentation and Rationale Training",
+  "authors": [
+    "Yanda Chen",
+    "Chris Kedzie",
+    "Suraj Nair",
+    "Petra Galuščáková",
+    "Rui Zhang",
+    "Douglas W. Oard",
+    "Kathleen McKeown"
+  ],
+  "languages": [
+    "English",
+    "Somali",
+    "Swahili",
+    "Tagalog"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.acl-long.300",
+  "acl_url": "https://aclanthology.org/2021.acl-long.300/"
+}

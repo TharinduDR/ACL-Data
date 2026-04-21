@@ -1,0 +1,19 @@
+{
+  "title": "Nested Named Entity Recognition via Explicitly Excluding the Influence of the Best Path",
+  "authors": [
+    "Yiran Wang",
+    "Hiroyuki Shindo",
+    "Yuji Matsumoto",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-long.275",
+  "acl_url": "https://aclanthology.org/2021.acl-long.275/"
+}

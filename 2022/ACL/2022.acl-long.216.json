@@ -1,0 +1,21 @@
+{
+  "title": "Improving Event Representation via Simultaneous Weakly Supervised Contrastive Learning and Clustering",
+  "authors": [
+    "Jun Gao",
+    "Wei Wang",
+    "Changlong Yu",
+    "Huan Zhao",
+    "Wilfred Ng",
+    "Ruifeng Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.acl-long.216",
+  "acl_url": "https://aclanthology.org/2022.acl-long.216/"
+}

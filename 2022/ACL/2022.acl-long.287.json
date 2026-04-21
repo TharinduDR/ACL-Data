@@ -1,0 +1,32 @@
+{
+  "title": "Multilingual Document-Level Translation Enables Zero-Shot Transfer From Sentences to Documents",
+  "authors": [
+    "Biao Zhang",
+    "Ankur Bapna",
+    "Melvin Johnson",
+    "Ali Dabirmoghaddam",
+    "Naveen Arivazhagan",
+    "Orhan Firat"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Czech",
+    "Finnish",
+    "Lithuanian",
+    "Polish",
+    "Arabic",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Dutch",
+    "Romanian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.acl-long.287",
+  "acl_url": "https://aclanthology.org/2022.acl-long.287/"
+}

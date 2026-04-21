@@ -1,0 +1,24 @@
+{
+  "title": "Latxa: An Open Language Model and Evaluation Suite for Basque",
+  "authors": [
+    "Julen Etaniz",
+    "Oscar Sainz",
+    "Naiara Perez",
+    "Itziar Aldabe",
+    "German Rigau",
+    "Eneko Agirre",
+    "Aitor Ormazabal",
+    "Mikel Artetxe",
+    "Aitor Soroa"
+  ],
+  "languages": [
+    "Basque",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.799",
+  "acl_url": "https://aclanthology.org/2024.acl-long.799/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "EvolveMT: an Ensemble MT Engine Improving Itself with Usage Only",
+  "authors": [
+    "Kamer Ali Yuksel",
+    "Ahmet Gunduz",
+    "Mohamed Al-Badrashiny",
+    "Shreyas Sharma",
+    "Hassan Sawaf"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-industry.33",
+  "acl_url": "https://aclanthology.org/2023.acl-industry.33/"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "A Simple and Effective Dependency Parser for Telugu",
+  "authors": [
+    "Sneha Nallani",
+    "Manish Shrivastava",
+    "Dipti Misra Sharma"
+  ],
+  "languages": [
+    "Telugu"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-srw.19",
+  "acl_url": "https://aclanthology.org/2020.acl-srw.19/"
+}

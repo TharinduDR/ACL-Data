@@ -1,0 +1,22 @@
+{
+  "title": "HOSMEL: A Hot-Swappable Modularized Entity Linking Toolkit for Chinese",
+  "authors": [
+    "Daniel Zhang-Li",
+    "Jing Zhang",
+    "Jifan Yu",
+    "Xiaokang Zhang",
+    "Peng Zhang",
+    "Jie Tang",
+    "Juanzi Li"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.acl-demo.21",
+  "acl_url": "https://aclanthology.org/2022.acl-demo.21/"
+}

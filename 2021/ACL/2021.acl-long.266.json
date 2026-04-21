@@ -1,0 +1,24 @@
+{
+  "title": "Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation",
+  "authors": [
+    "Liang Ding",
+    "Longyue Wang",
+    "Xuebo Liu",
+    "Derek F. Wong",
+    "Dacheng Tao",
+    "Zhaopeng Tu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.acl-long.266",
+  "acl_url": "https://aclanthology.org/2021.acl-long.266/"
+}

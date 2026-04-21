@@ -1,0 +1,25 @@
+{
+  "title": "UnitY: Two-pass Direct Speech-to-speech Translation with Discrete Units",
+  "authors": [
+    "Hirofumi Inaguma",
+    "Sravya Popuri",
+    "Ilia Kulikov",
+    "Peng-Jen Chen",
+    "Changhan Wang",
+    "Yu-An Chung",
+    "Yun Tang",
+    "Ann Lee",
+    "Shinji Watanabe",
+    "Juan Pino"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.acl-long.872",
+  "acl_url": "https://aclanthology.org/2023.acl-long.872/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "VulLibGen: Generating Names of Vulnerability-Affected Packages via a Large Language Model",
+  "authors": [
+    "Tianyu Chen",
+    "Lin Li",
+    "Liuchuan Zhu",
+    "Zongyang Li",
+    "Xueqing Liu",
+    "Guangtai Liang",
+    "Qianxiang Wang",
+    "Tao Xie"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.acl-long.527",
+  "acl_url": "https://aclanthology.org/2024.acl-long.527/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction",
+  "authors": [
+    "Yilin Niu",
+    "Fangkai Jiao",
+    "Mantong Zhou",
+    "Ting Yao",
+    "Jingfang Xu",
+    "Minlie Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.acl-main.361",
+  "acl_url": "https://aclanthology.org/2020.acl-main.361/"
+}

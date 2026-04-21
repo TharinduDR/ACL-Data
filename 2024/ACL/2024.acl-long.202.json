@@ -1,0 +1,26 @@
+{
+  "title": "StreamAtt: Direct Streaming Speech-to-Text Translation with Attention-based Audio History Selection",
+  "authors": [
+    "Sara Papi",
+    "Marco Gaido",
+    "Matteo Negri",
+    "Luisa Bentivogli"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.202",
+  "acl_url": "https://aclanthology.org/2024.acl-long.202/"
+}

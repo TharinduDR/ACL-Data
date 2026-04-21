@@ -1,0 +1,21 @@
+{
+  "title": "Explore Spurious Correlations at the Concept Level in Language Models for Text Classification",
+  "authors": [
+    "Yuhang Zhou",
+    "Paiheng Xu",
+    "Xiaoyu Liu",
+    "Bang An",
+    "Wei Ai",
+    "Furong Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.acl-long.28",
+  "acl_url": "https://aclanthology.org/2024.acl-long.28/"
+}

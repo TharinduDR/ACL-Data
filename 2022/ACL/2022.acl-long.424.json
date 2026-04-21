@@ -1,0 +1,21 @@
+{
+  "title": "MSP: Multi-Stage Prompting for Making Pre-trained Language Models Better Translators",
+  "authors": [
+    "Zhixing Tan",
+    "Xiangwen Zhang",
+    "Shuo Wang",
+    "Yang Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Romanian",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2022.acl-long.424",
+  "acl_url": "https://aclanthology.org/2022.acl-long.424/"
+}

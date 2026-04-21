@@ -1,0 +1,20 @@
+{
+  "title": "Multitask Pre-training of Modular Prompt for Chinese Few-Shot Learning",
+  "authors": [
+    "Tianxiang Sun",
+    "Zhengfu He",
+    "Qin Zhu",
+    "Xipeng Qiu",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.acl-long.625",
+  "acl_url": "https://aclanthology.org/2023.acl-long.625/"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Importance-based Neuron Allocation for Multilingual Neural Machine Translation",
+  "authors": [
+    "Wanying Xie",
+    "Yang Feng",
+    "Shuhao Gu",
+    "Dong Yu"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Romanian",
+    "Dutch",
+    "Czech",
+    "Finnish",
+    "Greek",
+    "Hungarian",
+    "Lithuanian",
+    "Latvian",
+    "Polish",
+    "Portuguese",
+    "Slovak",
+    "Slovene",
+    "Swedish",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.acl-long.445",
+  "acl_url": "https://aclanthology.org/2021.acl-long.445/"
+}

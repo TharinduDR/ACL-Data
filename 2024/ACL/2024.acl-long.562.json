@@ -1,0 +1,21 @@
+{
+  "title": "Bridging the Preference Gap between Retrievers and LLMs",
+  "authors": [
+    "Zixuan Ke",
+    "Weize Kong",
+    "Cheng Li",
+    "Mingyang Zhang",
+    "Qiaozhu Mei",
+    "Michael Bendersky"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.acl-long.562",
+  "acl_url": "https://aclanthology.org/2024.acl-long.562/"
+}

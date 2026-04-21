@@ -1,0 +1,26 @@
+{
+  "title": "Bi-Phone: Modeling Inter Language Phonetic Influences in Text",
+  "authors": [
+    "Abhirut Gupta",
+    "Ananya B. Sai",
+    "Richard Sproat",
+    "Yuri Vasilevski",
+    "James S. Ren",
+    "Ambarish Jash",
+    "Sukhdeep S. Sodhi",
+    "Aravindan Raghuveer"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Tamil",
+    "Bengali"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2023.acl-long.145",
+  "acl_url": "https://aclanthology.org/2023.acl-long.145/"
+}

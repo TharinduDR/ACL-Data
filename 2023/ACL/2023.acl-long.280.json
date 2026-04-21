@@ -1,0 +1,20 @@
+{
+  "title": "Mixture-of-Domain-Adapters: Decoupling and Injecting Domain Knowledge to Pre-trained Language Models' Memories",
+  "authors": [
+    "Shizhe Diao",
+    "Tianyang Xu",
+    "Ruijia Xu",
+    "Jiawei Wang",
+    "Tong Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T13 Knowledge discovery/representation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.280",
+  "acl_url": "https://aclanthology.org/2023.acl-long.280/"
+}

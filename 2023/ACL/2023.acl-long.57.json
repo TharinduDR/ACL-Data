@@ -1,0 +1,22 @@
+{
+  "title": "FC-KBQA: A Fine-to-Coarse Composition Framework for Knowledge Base Question Answering",
+  "authors": [
+    "Lingxi Zhang",
+    "Jing Zhang",
+    "Yanling Wang",
+    "Shulin Cao",
+    "Xinmei Huang",
+    "Cuiping Li",
+    "Hong Chen",
+    "Juanzi Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.acl-long.57",
+  "acl_url": "https://aclanthology.org/2023.acl-long.57/"
+}

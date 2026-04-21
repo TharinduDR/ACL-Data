@@ -1,0 +1,23 @@
+{
+  "title": "Semi-supervised Contextual Historical Text Normalization",
+  "authors": [
+    "Peter Makarov",
+    "Simon Clematide"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Spanish",
+    "Hungarian",
+    "Icelandic",
+    "Portuguese",
+    "Slovene"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2020.acl-main.650",
+  "acl_url": "https://aclanthology.org/2020.acl-main.650/"
+}

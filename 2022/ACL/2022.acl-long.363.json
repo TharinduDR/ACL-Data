@@ -1,0 +1,36 @@
+{
+  "title": "Alternative Input Signals Ease Transfer in Multilingual Machine Translation",
+  "authors": [
+    "Simeng Sun",
+    "Angela Fan",
+    "James Cross",
+    "Vishrav Chaudhary",
+    "Chau Tran",
+    "Philipp Koehn",
+    "Francisco Guzmán"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Hindi",
+    "Oriya",
+    "Kannada",
+    "Tamil",
+    "Telugu",
+    "Marathi",
+    "Punjabi",
+    "Malayalam",
+    "Gujarati",
+    "Kazakh",
+    "Kyrgyz",
+    "Turkish",
+    "Uzbek",
+    "Azerbaijani"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.acl-long.363",
+  "acl_url": "https://aclanthology.org/2022.acl-long.363/"
+}

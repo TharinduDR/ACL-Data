@@ -1,0 +1,21 @@
+{
+  "title": "Data Augmentation with Unsupervised Machine Translation Improves the Structural Similarity of Cross-lingual Word Embeddings",
+  "authors": [
+    "Sosuke Nishikawa",
+    "Ryokan Ri",
+    "Yoshimasa Tsuruoka"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.acl-srw.17",
+  "acl_url": "https://aclanthology.org/2021.acl-srw.17/"
+}

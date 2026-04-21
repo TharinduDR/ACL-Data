@@ -1,0 +1,31 @@
+{
+  "title": "EXAMS-V: A Multi-Discipline Multilingual Multimodal Exam Benchmark for Evaluating Vision Language Models",
+  "authors": [
+    "Rocktim Jyoti Das",
+    "Simeon Emilov Hristov",
+    "Haonan Li",
+    "Dimitar Iliyanov Dimitrov",
+    "Ivan Koychev",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Italian",
+    "Arabic",
+    "Polish",
+    "Hungarian",
+    "Bulgarian",
+    "Croatian",
+    "Serbian"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.420",
+  "acl_url": "https://aclanthology.org/2024.acl-long.420/"
+}

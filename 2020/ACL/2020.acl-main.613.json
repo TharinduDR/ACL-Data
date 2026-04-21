@@ -1,0 +1,24 @@
+{
+  "title": "Document Translation vs. Query Translation for Cross-Lingual Information Retrieval in the Medical Domain",
+  "authors": [
+    "Shadi Saleh",
+    "Pavel Pecina"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "French",
+    "German",
+    "Hungarian",
+    "Spanish",
+    "Swedish",
+    "Polish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2020.acl-main.613",
+  "acl_url": "https://aclanthology.org/2020.acl-main.613/"
+}

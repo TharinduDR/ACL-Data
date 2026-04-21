@@ -1,0 +1,22 @@
+{
+  "title": "Explanation-based Finetuning Makes Models More Robust to Spurious Cues",
+  "authors": [
+    "Josh Magnus Ludan",
+    "Yixuan Meng",
+    "Tai Nguyen",
+    "Saurabh Shah",
+    "Qing Lyu",
+    "Marianna Apidianaki",
+    "Chris Callison-Burch"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.acl-long.242",
+  "acl_url": "https://aclanthology.org/2023.acl-long.242/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Logic-Guided Data Augmentation and Regularization for Consistent Question Answering",
+  "authors": [
+    "Akari Asai",
+    "Hannaneh Hajishirzi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.acl-main.499",
+  "acl_url": "https://aclanthology.org/2020.acl-main.499/"
+}

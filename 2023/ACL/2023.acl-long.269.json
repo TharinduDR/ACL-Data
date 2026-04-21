@@ -1,0 +1,28 @@
+{
+  "title": "Revisiting non-English Text Simplification: A Unified Multilingual Benchmark",
+  "authors": [
+    "Michael J. Ryan",
+    "Tarek Naous",
+    "Wei Xu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Russian",
+    "Spanish",
+    "Urdu",
+    "Basque",
+    "Slovene",
+    "Portuguese",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.269",
+  "acl_url": "https://aclanthology.org/2023.acl-long.269/"
+}

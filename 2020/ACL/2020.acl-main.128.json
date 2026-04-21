@@ -1,0 +1,21 @@
+{
+  "title": "Few-shot Slot Tagging with Collapsed Dependency Transfer and Label-enhanced Task-adaptive Projection Network",
+  "authors": [
+    "Yutai Hou",
+    "Wanxiang Che",
+    "Yongkui Lai",
+    "Zhihan Zhou",
+    "Yijia Liu",
+    "Han Liu",
+    "Ting Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-main.128",
+  "acl_url": "https://aclanthology.org/2020.acl-main.128/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Hard Prompts Made Interpretable: Sparse Entropy Regularization for Prompt Tuning with RL",
+  "authors": [
+    "Yunseon Choi",
+    "Sangmin Bae",
+    "Seonghyun Ban",
+    "Minchan Jeong",
+    "Chuheng Zhang",
+    "Lei Song",
+    "Li Zhao",
+    "Jiang Bian",
+    "Kee-Eung Kim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.acl-long.449",
+  "acl_url": "https://aclanthology.org/2024.acl-long.449/"
+}

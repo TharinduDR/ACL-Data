@@ -1,0 +1,26 @@
+{
+  "title": "AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension",
+  "authors": [
+    "Qian Yang",
+    "Jin Xu",
+    "Wenrui Liu",
+    "Yunfei Chu",
+    "Ziyue Jiang",
+    "Xiaohuan Zhou",
+    "Yichong Leng",
+    "Yuanjun Lv",
+    "Zhou Zhao",
+    "Chang Zhou",
+    "Jingren Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.acl-long.109",
+  "acl_url": "https://aclanthology.org/2024.acl-long.109/"
+}

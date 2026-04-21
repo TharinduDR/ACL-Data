@@ -1,0 +1,18 @@
+{
+  "title": "Accurate Training of Web-based Question Answering Systems with Feedback from Ranked Users",
+  "authors": [
+    "Liang Wang",
+    "Ivano Lauriola",
+    "Alessandro Moschitti"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-industry.63",
+  "acl_url": "https://aclanthology.org/2023.acl-industry.63/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "SenseBERT: Driving Some Sense into BERT",
+  "authors": [
+    "Yoav Levine",
+    "Barak Lenz",
+    "Or Dagan",
+    "Ori Ram",
+    "Dan Padnos",
+    "Or Sharir",
+    "Shai Shalev-Shwartz",
+    "Amnon Shashua",
+    "Yoav Shoham"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.acl-main.423",
+  "acl_url": "https://aclanthology.org/2020.acl-main.423/"
+}

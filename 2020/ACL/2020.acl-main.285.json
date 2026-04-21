@@ -1,0 +1,27 @@
+{
+  "title": "MOOCCube: A Large-scale Data Repository for NLP Applications in MOOCs",
+  "authors": [
+    "Jifan Yu",
+    "Gan Luo",
+    "Tong Xiao",
+    "Qingyang Zhong",
+    "Yuquan Wang",
+    "Wenzheng Feng",
+    "Junyi Luo",
+    "Chenyu Wang",
+    "Lei Hou",
+    "Juanzi Li",
+    "Zhiyuan Liu",
+    "Jie Tang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T29 NLP for education",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2020.acl-main.285",
+  "acl_url": "https://aclanthology.org/2020.acl-main.285/"
+}

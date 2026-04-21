@@ -1,0 +1,22 @@
+{
+  "title": "Adaptive Nearest Neighbor Machine Translation",
+  "authors": [
+    "Xin Zheng",
+    "Zhirui Zhang",
+    "Junliang Guo",
+    "Shujian Huang",
+    "Boxing Chen",
+    "Weihua Luo",
+    "Jiajun Chen"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.acl-short.47",
+  "acl_url": "https://aclanthology.org/2021.acl-short.47/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "A Simple Recipe for Multilingual Grammatical Error Correction",
+  "authors": [
+    "Sascha Rothe",
+    "Jonathan Mallinson",
+    "Eric Malmi",
+    "Sebastian Krause",
+    "Aliaksei Severyn"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T29"
+  ],
+  "paper_id": "2021.acl-short.89",
+  "acl_url": "https://aclanthology.org/2021.acl-short.89/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "R2D2: Recursive Transformer based on Differentiable Tree for Interpretable Hierarchical Language Modeling",
+  "authors": [
+    "Xiang Hu",
+    "Haitao Mi",
+    "Zujie Wen",
+    "Yafang Wang",
+    "Yi Su",
+    "Jing Zheng",
+    "Gerard de Melo"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.acl-long.379",
+  "acl_url": "https://aclanthology.org/2021.acl-long.379/"
+}

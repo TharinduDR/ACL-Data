@@ -1,0 +1,30 @@
+{
+  "title": "ESPnet-ST: All-in-One Speech Translation Toolkit",
+  "authors": [
+    "Hirofumi Inaguma",
+    "Shun Kiyono",
+    "Kevin Duh",
+    "Shigeki Karita",
+    "Nelson Yalta",
+    "Tomoki Hayashi",
+    "Shinji Watanabe"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Portuguese",
+    "German",
+    "Italian",
+    "Russian",
+    "Dutch",
+    "Norwegian",
+    "Cantonese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.acl-demos.34",
+  "acl_url": "https://aclanthology.org/2020.acl-demos.34/"
+}

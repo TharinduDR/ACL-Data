@@ -1,0 +1,21 @@
+{
+  "title": "Adversarial NLI: A New Benchmark for Natural Language Understanding",
+  "authors": [
+    "Yixin Nie",
+    "Adina Williams",
+    "Emily Dinan",
+    "Mohit Bansal",
+    "Jason Weston",
+    "Douwe Kiela"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2020.acl-main.441",
+  "acl_url": "https://aclanthology.org/2020.acl-main.441/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "TEXT2EVENT: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction",
+  "authors": [
+    "Yaojie Lu",
+    "Hongyu Lin",
+    "Jin Xu",
+    "Xianpei Han",
+    "Jialong Tang",
+    "Annan Li",
+    "Le Sun",
+    "Meng Liao",
+    "Shaoyi Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.acl-long.217",
+  "acl_url": "https://aclanthology.org/2021.acl-long.217/"
+}

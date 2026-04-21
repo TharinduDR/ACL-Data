@@ -1,0 +1,24 @@
+{
+  "title": "HAT: Hardware-Aware Transformers for Efficient Natural Language Processing",
+  "authors": [
+    "Hanrui Wang",
+    "Zhanghao Wu",
+    "Zhijian Liu",
+    "Han Cai",
+    "Ligeng Zhu",
+    "Chuang Gan",
+    "Song Han"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.acl-main.686",
+  "acl_url": "https://aclanthology.org/2020.acl-main.686/"
+}

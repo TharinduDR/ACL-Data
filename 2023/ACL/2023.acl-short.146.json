@@ -1,0 +1,19 @@
+{
+  "title": "NarrowBERT: Accelerating Masked Language Model Pretraining and Inference",
+  "authors": [
+    "Haoxin Li",
+    "Phillip Keung",
+    "Daniel Cheng",
+    "Jungo Kasai",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-short.146",
+  "acl_url": "https://aclanthology.org/2023.acl-short.146/"
+}

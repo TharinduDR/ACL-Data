@@ -1,0 +1,20 @@
+{
+  "title": "UINAUIL: A Unified Benchmark for Italian Natural Language Understanding",
+  "authors": [
+    "Valerio Basile",
+    "Livio Bioglio",
+    "Alessio Bosca",
+    "Cristina Bosco",
+    "Viviana Patti"
+  ],
+  "languages": [
+    "Italian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.acl-demo.33",
+  "acl_url": "https://aclanthology.org/2023.acl-demo.33/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "GPT-too: A Language-Model-First Approach for AMR-to-Text Generation",
+  "authors": [
+    "Manuel Mager",
+    "Ramón Fernandez Astudillo",
+    "Tahira Naseem",
+    "Md Arafat Sultan",
+    "Young-Suk Lee",
+    "Radu Florian",
+    "Salim Roukos"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-main.167",
+  "acl_url": "https://aclanthology.org/2020.acl-main.167/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "MDACE: MIMIC Documents Annotated with Code Evidence",
+  "authors": [
+    "Hua Cheng",
+    "Rana Jafari",
+    "April Russell",
+    "Russell Klopf",
+    "Edmond Lu",
+    "Benjamin Striner",
+    "Matthew R. Gormley"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.416",
+  "acl_url": "https://aclanthology.org/2023.acl-long.416/"
+}

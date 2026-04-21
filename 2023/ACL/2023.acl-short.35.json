@@ -1,0 +1,21 @@
+{
+  "title": "Improving Syntactic Probing Correctness and Robustness with Control Tasks",
+  "authors": [
+    "Weicheng Ma",
+    "Brian Wang",
+    "Hefan Zhang",
+    "Lili Wang",
+    "Rolando Coto-Solano",
+    "Saeed Hassanpour",
+    "Sorouch Vosoughi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.acl-short.35",
+  "acl_url": "https://aclanthology.org/2023.acl-short.35/"
+}

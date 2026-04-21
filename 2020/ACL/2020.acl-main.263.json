@@ -1,0 +1,20 @@
+{
+  "title": "It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations",
+  "authors": [
+    "Samson Tan",
+    "Shafiq Joty",
+    "Min-Yen Kan",
+    "Richard Socher"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.acl-main.263",
+  "acl_url": "https://aclanthology.org/2020.acl-main.263/"
+}

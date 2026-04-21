@@ -1,0 +1,19 @@
+{
+  "title": "TABERT: Pretraining for Joint Understanding of Textual and Tabular Data",
+  "authors": [
+    "Pengcheng Yin",
+    "Graham Neubig",
+    "Wen-tau Yih",
+    "Sebastian Riedel"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T21 Parsing"
+  ],
+  "paper_id": "2020.acl-main.745",
+  "acl_url": "https://aclanthology.org/2020.acl-main.745/"
+}

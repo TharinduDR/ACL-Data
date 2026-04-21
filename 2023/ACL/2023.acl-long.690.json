@@ -1,0 +1,22 @@
+{
+  "title": "Hard Sample Aware Prompt-Tuning",
+  "authors": [
+    "Yuanjian Xu",
+    "Qi An",
+    "Jiahuan Zhang",
+    "Peng Li",
+    "Zaiqing Nie"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.acl-long.690",
+  "acl_url": "https://aclanthology.org/2023.acl-long.690/"
+}

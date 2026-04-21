@@ -1,0 +1,24 @@
+{
+  "title": "What the DAAM: Interpreting Stable Diffusion Using Cross Attention",
+  "authors": [
+    "Raphael Tang",
+    "Linqing Liu",
+    "Akshat Pandey",
+    "Zhiying Jiang",
+    "Gefei Yang",
+    "Karun Kumar",
+    "Pontus Stenetorp",
+    "Jimmy Lin",
+    "Ferhan Ture"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.acl-long.310",
+  "acl_url": "https://aclanthology.org/2023.acl-long.310/"
+}

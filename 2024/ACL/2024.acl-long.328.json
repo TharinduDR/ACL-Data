@@ -1,0 +1,23 @@
+{
+  "title": "FinTextQA: A Dataset for Long-form Financial Question Answering",
+  "authors": [
+    "Jian Chen",
+    "Peilin Zhou",
+    "Yining Hua",
+    "Yingxin Loh",
+    "Kehui Chen",
+    "Ziyuan Li",
+    "Bing Zhu",
+    "Junwei Liang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.328",
+  "acl_url": "https://aclanthology.org/2024.acl-long.328/"
+}

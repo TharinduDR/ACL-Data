@@ -1,0 +1,23 @@
+{
+  "title": "LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking",
+  "authors": [
+    "Hang Jiang",
+    "Sairam Gurajada",
+    "Qiu Hao Lu",
+    "Sumit Neelam",
+    "Lucian Popa",
+    "Prithviraj Sen",
+    "Yunyao Li",
+    "Alexander Gray"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.acl-long.64",
+  "acl_url": "https://aclanthology.org/2021.acl-long.64/"
+}

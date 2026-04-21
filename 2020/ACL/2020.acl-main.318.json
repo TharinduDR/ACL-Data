@@ -1,0 +1,27 @@
+{
+  "title": "A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction",
+  "authors": [
+    "Shuo Ren",
+    "Shujie Liu",
+    "Ming Zhou",
+    "Shuai Ma"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Italian",
+    "Russian",
+    "Chinese",
+    "Finnish",
+    "Polish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.acl-main.318",
+  "acl_url": "https://aclanthology.org/2020.acl-main.318/"
+}

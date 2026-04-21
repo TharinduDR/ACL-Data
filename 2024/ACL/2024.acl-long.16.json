@@ -1,0 +1,21 @@
+{
+  "title": "MINPROMPT: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering",
+  "authors": [
+    "Xiusi Chen",
+    "Jyun-Yu Jiang",
+    "Wei-Cheng Chang",
+    "Cho-Jui Hsieh",
+    "Hsiang-Fu Yu",
+    "Wei Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.acl-long.16",
+  "acl_url": "https://aclanthology.org/2024.acl-long.16/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "LATEXSOVER: a Hierarchical Semantic Parsing of LaTeX Document into Code for an Assistive Optimization Modeling Application",
+  "authors": [
+    "Rindra Ramamonjison",
+    "Timothy T. Yu",
+    "Linzi Xing",
+    "Mahdi Mostajabdaveh",
+    "Xiaorui Li",
+    "Xiaojin Fu",
+    "Xiongwei Han",
+    "Yuanzhe Chen",
+    "Ren Li",
+    "Kun Mao",
+    "Yong Zhang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T27 Code generation and programming languages",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.acl-demo.45",
+  "acl_url": "https://aclanthology.org/2023.acl-demo.45/"
+}

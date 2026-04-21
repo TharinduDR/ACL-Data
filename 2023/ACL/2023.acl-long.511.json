@@ -1,0 +1,41 @@
+{
+  "title": "Benchmarking Large Language Model Capabilities for Conditional Generation",
+  "authors": [
+    "Joshua Maynez",
+    "Priyanka Agrawal",
+    "Sebastian Gehrmann"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Russian",
+    "Spanish",
+    "German",
+    "Arabic",
+    "Japanese",
+    "Korean",
+    "Thai",
+    "Vietnamese",
+    "Hindi",
+    "Bengali",
+    "Turkish",
+    "Indonesian",
+    "Portuguese",
+    "French",
+    "Italian",
+    "Chinese",
+    "Swahili",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.511",
+  "acl_url": "https://aclanthology.org/2023.acl-long.511/"
+}

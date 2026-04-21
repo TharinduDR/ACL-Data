@@ -1,0 +1,21 @@
+{
+  "title": "Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic",
+  "authors": [
+    "Rishabh Bhardwaj",
+    "Do Duc Anh",
+    "Soujanya Poria"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Hindi",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.acl-long.762",
+  "acl_url": "https://aclanthology.org/2024.acl-long.762/"
+}

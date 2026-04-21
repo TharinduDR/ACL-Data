@@ -1,0 +1,19 @@
+{
+  "title": "(QA)²: Question Answering with Questionable Assumptions",
+  "authors": [
+    "Najoung Kim",
+    "Phu Mon Htut",
+    "Samuel R. Bowman",
+    "Jackson Petty"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T05 Discourse and Pragmatics"
+  ],
+  "paper_id": "2023.acl-long.472",
+  "acl_url": "https://aclanthology.org/2023.acl-long.472/"
+}

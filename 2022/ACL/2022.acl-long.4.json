@@ -1,0 +1,22 @@
+{
+  "title": "AlephBERT: Language Model Pre-training and Evaluation from Sub-Word to Sentence Level",
+  "authors": [
+    "Amit Seker",
+    "Elron Bandel",
+    "Dan Bareket",
+    "Idan Brusilovsky",
+    "Refael Shaked Greenfeld",
+    "Reut Tsarfaty"
+  ],
+  "languages": [
+    "Hebrew",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.acl-long.4",
+  "acl_url": "https://aclanthology.org/2022.acl-long.4/"
+}

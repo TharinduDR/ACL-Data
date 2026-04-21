@@ -1,0 +1,21 @@
+{
+  "title": "Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts When Knowledge Conflicts?",
+  "authors": [
+    "Hexiang Tan",
+    "Fei Sun",
+    "Wanli Yang",
+    "Yuanzhuo Wang",
+    "Qi Cao",
+    "Xueqi Cheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.acl-long.337",
+  "acl_url": "https://aclanthology.org/2024.acl-long.337/"
+}

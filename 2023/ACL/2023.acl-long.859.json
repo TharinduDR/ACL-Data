@@ -1,0 +1,23 @@
+{
+  "title": "Prompting PaLM for Translation: Assessing Strategies and Performance",
+  "authors": [
+    "David Vilar",
+    "Markus Freitag",
+    "Colin Cherry",
+    "Jiaming Luo",
+    "Viresh Ratnakar",
+    "George Foster"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.859",
+  "acl_url": "https://aclanthology.org/2023.acl-long.859/"
+}

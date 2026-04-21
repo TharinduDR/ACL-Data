@@ -1,0 +1,26 @@
+{
+  "title": "Cross-lingual Text Classification with Heterogeneous Graph Neural Network",
+  "authors": [
+    "Ziyun Wang",
+    "Xuan Liu",
+    "Peiji Yang",
+    "Shixing Liu",
+    "Zhisheng Wang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Spanish",
+    "Japanese",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14",
+    "T20",
+    "T16"
+  ],
+  "paper_id": "2021.acl-short.78",
+  "acl_url": "https://aclanthology.org/2021.acl-short.78/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Selecting Backtranslated Data from Multiple Sources for Improved Neural Machine Translation",
+  "authors": [
+    "Xabier Soto",
+    "Dimitar Shterionov",
+    "Alberto Poncelas",
+    "Andy Way"
+  ],
+  "languages": [
+    "Basque",
+    "Spanish",
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.acl-main.359",
+  "acl_url": "https://aclanthology.org/2020.acl-main.359/"
+}

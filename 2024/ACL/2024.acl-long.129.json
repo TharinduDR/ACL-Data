@@ -1,0 +1,22 @@
+{
+  "title": "MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter",
+  "authors": [
+    "Jitai Hao",
+    "Weiwei Sun",
+    "Xin Xin",
+    "Qi Meng",
+    "Zhumin Chen",
+    "Pengjie Ren",
+    "Zhaochun Ren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2024.acl-long.129",
+  "acl_url": "https://aclanthology.org/2024.acl-long.129/"
+}

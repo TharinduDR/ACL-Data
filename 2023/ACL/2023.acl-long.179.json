@@ -1,0 +1,20 @@
+{
+  "title": "An Invariant Learning Characterization of Controlled Text Generation",
+  "authors": [
+    "Carolina Zheng",
+    "Claudia Shi",
+    "Keyon Vafa",
+    "Amir Feder",
+    "David M. Blei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.179",
+  "acl_url": "https://aclanthology.org/2023.acl-long.179/"
+}

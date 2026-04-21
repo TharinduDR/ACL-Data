@@ -1,0 +1,20 @@
+{
+  "title": "Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language",
+  "authors": [
+    "Qianhui Wu",
+    "Zijia Lin",
+    "Börje F. Karlsson",
+    "Jian-Guang Lou",
+    "Biqing Huang"
+  ],
+  "languages": [
+    "Spanish",
+    "Dutch",
+    "German"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.acl-main.581",
+  "acl_url": "https://aclanthology.org/2020.acl-main.581/"
+}

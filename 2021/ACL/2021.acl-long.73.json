@@ -1,0 +1,23 @@
+{
+  "title": "XLPT-AMR: Cross-Lingual Pre-Training via Multi-Task Learning for Zero-Shot AMR Parsing and Text Generation",
+  "authors": [
+    "Dongqin Xu",
+    "Junhui Li",
+    "Muhua Zhu",
+    "Min Zhang",
+    "Guodong Zhou"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2021.acl-long.73",
+  "acl_url": "https://aclanthology.org/2021.acl-long.73/"
+}

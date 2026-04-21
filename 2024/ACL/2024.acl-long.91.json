@@ -1,0 +1,22 @@
+{
+  "title": "LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression",
+  "authors": [
+    "Huiqiang Jiang",
+    "Qianhui Wu",
+    "Xufang Luo",
+    "Dongsheng Li",
+    "Chin-Yew Lin",
+    "Yuqing Yang",
+    "Lili Qiu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.acl-long.91",
+  "acl_url": "https://aclanthology.org/2024.acl-long.91/"
+}

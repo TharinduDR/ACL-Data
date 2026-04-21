@@ -1,0 +1,19 @@
+{
+  "title": "BUCA: A Binary Classification Approach to Unsupervised Commonsense Question Answering",
+  "authors": [
+    "Jie He",
+    "Simon Chi Lok U",
+    "Víctor Gutiérrez-Basulto",
+    "Jeff Z. Pan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-short.33",
+  "acl_url": "https://aclanthology.org/2023.acl-short.33/"
+}

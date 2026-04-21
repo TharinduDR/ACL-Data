@@ -1,0 +1,30 @@
+{
+  "title": "Respond in my Language: Mitigating Language Inconsistency in Response Generation based on Large Language Models",
+  "authors": [
+    "Liang Zhang",
+    "Qin Jin",
+    "Haoyang Huang",
+    "Dongdong Zhang",
+    "Furu Wei"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Swedish",
+    "Japanese",
+    "Korean",
+    "Arabic",
+    "Spanish",
+    "Portuguese",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.229",
+  "acl_url": "https://aclanthology.org/2024.acl-long.229/"
+}

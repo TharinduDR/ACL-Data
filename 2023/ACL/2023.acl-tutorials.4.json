@@ -1,0 +1,18 @@
+{
+  "title": "Generating Text from Language Models",
+  "authors": [
+    "Afra Amini",
+    "Ryan Cotterell",
+    "John Hewitt",
+    "Luca Malagutti",
+    "Clara Meister",
+    "Tiago Pimentel"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2023.acl-tutorials.4",
+  "acl_url": "https://aclanthology.org/2023.acl-tutorials.4/"
+}

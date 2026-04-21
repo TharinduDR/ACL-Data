@@ -1,0 +1,21 @@
+{
+  "title": "Learning to Ask Conversational Questions by Optimizing Levenshtein Distance",
+  "authors": [
+    "Zhongkun Liu",
+    "Pengjie Ren",
+    "Zhumin Chen",
+    "Zhaochun Ren",
+    "Maarten de Rijke",
+    "Ming Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2021.acl-long.438",
+  "acl_url": "https://aclanthology.org/2021.acl-long.438/"
+}

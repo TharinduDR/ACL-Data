@@ -1,0 +1,22 @@
+{
+  "title": "MVP-Tuning: Multi-View Knowledge Retrieval with Prompt Tuning for Commonsense Reasoning",
+  "authors": [
+    "Yongfeng Huang",
+    "Yanyang Li",
+    "Yicong Xu",
+    "Lin Zhang",
+    "Ruyi Gan",
+    "Jiaxing Zhang",
+    "Liwei Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.750",
+  "acl_url": "https://aclanthology.org/2023.acl-long.750/"
+}

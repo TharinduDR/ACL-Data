@@ -1,0 +1,15 @@
+{
+  "title": "A dynamic programming algorithm for span-based nested named-entity recognition in O(n^2)",
+  "authors": [
+    "Caio Corro"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.acl-long.598",
+  "acl_url": "https://aclanthology.org/2023.acl-long.598/"
+}

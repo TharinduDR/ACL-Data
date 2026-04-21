@@ -1,0 +1,44 @@
+{
+  "title": "Towards Leaving No Indic Language Behind: Building Monolingual Corpora, Benchmark and Models for Indic Languages",
+  "authors": [
+    "Sumanth Doddapaneni",
+    "Rahul Aralikatte",
+    "Gowtham Ramesh",
+    "Shreya Goyal",
+    "Mitesh M. Khapra",
+    "Anoop Kunchukuttan",
+    "Pratyush Kumar"
+  ],
+  "languages": [
+    "Assamese",
+    "Bengali",
+    "Dogri",
+    "English",
+    "Konkani",
+    "Gujarati",
+    "Hindi",
+    "Khasi",
+    "Kannada",
+    "Kashmiri",
+    "Maithili",
+    "Malayalam",
+    "Manipuri",
+    "Marathi",
+    "Nepali",
+    "Odia",
+    "Punjabi",
+    "Sanskrit",
+    "Santali",
+    "Sindhi",
+    "Tamil",
+    "Telugu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.693",
+  "acl_url": "https://aclanthology.org/2023.acl-long.693/"
+}

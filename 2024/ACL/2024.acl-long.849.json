@@ -1,0 +1,34 @@
+{
+  "title": "MultiPICo: Multilingual Perspectivist Irony Corpus",
+  "authors": [
+    "Silvia Casola",
+    "Simona Frenda",
+    "Soda Marem Lo",
+    "Erhan Sezerer",
+    "Antonio Uva",
+    "Valerio Basile",
+    "Cristina Bosco",
+    "Alessandro Pedrani",
+    "Chiara Rubagotti",
+    "Viviana Patti",
+    "Davide Bernardi"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Portuguese",
+    "Italian",
+    "Dutch",
+    "Hindi",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.acl-long.849",
+  "acl_url": "https://aclanthology.org/2024.acl-long.849/"
+}

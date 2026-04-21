@@ -1,0 +1,26 @@
+{
+  "title": "Improving Pretrained Cross-Lingual Language Models via Self-Labeled Word Alignment",
+  "authors": [
+    "Zewen Chi",
+    "Li Dong",
+    "Bo Zheng",
+    "Shaohan Huang",
+    "Xian-Ling Mao",
+    "Heyan Huang",
+    "Furu Wei"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "Hindi",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.acl-long.265",
+  "acl_url": "https://aclanthology.org/2021.acl-long.265/"
+}

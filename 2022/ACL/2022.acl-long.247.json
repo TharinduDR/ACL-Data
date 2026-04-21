@@ -1,0 +1,19 @@
+{
+  "title": "Upstream Mitigation Is Not All You Need: Testing the Bias Transfer Hypothesis in Pre-Trained Language Models",
+  "authors": [
+    "Ryan Steed",
+    "Swetasudha Panda",
+    "Ari Kobren",
+    "Michael Wick"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.acl-long.247",
+  "acl_url": "https://aclanthology.org/2022.acl-long.247/"
+}

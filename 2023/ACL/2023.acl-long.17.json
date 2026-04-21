@@ -1,0 +1,20 @@
+{
+  "title": "Retrieve-and-Sample: Document-level Event Argument Extraction via Hybrid Retrieval Augmentation",
+  "authors": [
+    "Yubing Ren",
+    "Yanan Cao",
+    "Ping Guo",
+    "Fang Fang",
+    "Wei Ma",
+    "Zheng Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.17",
+  "acl_url": "https://aclanthology.org/2023.acl-long.17/"
+}

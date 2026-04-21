@@ -1,0 +1,24 @@
+{
+  "title": "A Semantics-aware Transformer Model of Relation Linking for Knowledge Base Question Answering",
+  "authors": [
+    "Tahira Naseem",
+    "Srinivas Ravishankar",
+    "Nandana Mihindukulasooriya",
+    "Ibrahim Abdelaziz",
+    "Young-Suk Lee",
+    "Pavan Kapanipathi",
+    "Salim Roukos",
+    "Alfio Gliozzo",
+    "Alexander Gray"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.acl-short.34",
+  "acl_url": "https://aclanthology.org/2021.acl-short.34/"
+}

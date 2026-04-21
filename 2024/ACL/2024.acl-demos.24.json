@@ -1,0 +1,19 @@
+{
+  "title": "PyFoma: a Python finite-state compiler module",
+  "authors": [
+    "Mans Hulden",
+    "Michael Ginn",
+    "Miikka Silfverberg",
+    "Michael Hammond"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.acl-demos.24",
+  "acl_url": "https://aclanthology.org/2024.acl-demos.24/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Unified Contextual Query Rewriting",
+  "authors": [
+    "Yingxue Zhou",
+    "Jie Hao",
+    "Mukund Rungta",
+    "Yang Liu",
+    "Eunah Cho",
+    "Xing Fan",
+    "Yanbin Lu",
+    "Vishal Vasudevan",
+    "Kellen Gillespie",
+    "Zeynab Raeesy",
+    "Wei Shen",
+    "Chenlei Guo",
+    "Gokhan Tur"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2023.acl-industry.58",
+  "acl_url": "https://aclanthology.org/2023.acl-industry.58/"
+}

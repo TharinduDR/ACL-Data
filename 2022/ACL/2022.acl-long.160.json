@@ -1,0 +1,24 @@
+{
+  "title": "MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER",
+  "authors": [
+    "Ran Zhou",
+    "Xin Li",
+    "Ruidan He",
+    "Lidong Bing",
+    "Erik Cambria",
+    "Luo Si",
+    "Chunyan Miao"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.acl-long.160",
+  "acl_url": "https://aclanthology.org/2022.acl-long.160/"
+}

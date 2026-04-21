@@ -1,0 +1,21 @@
+{
+  "title": "Constructing Multilingual Code Search Dataset Using Neural Machine Translation",
+  "authors": [
+    "Ryo Sekizawa",
+    "Nan Duan",
+    "Shuai Lu",
+    "Hitomi Yanaka"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.acl-srw.10",
+  "acl_url": "https://aclanthology.org/2023.acl-srw.10/"
+}

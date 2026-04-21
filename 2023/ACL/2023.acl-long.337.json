@@ -1,0 +1,34 @@
+{
+  "title": "Using Neural Machine Translation for Generating Diverse Challenging Exercises for Language Learners",
+  "authors": [
+    "Frank Palma Gomez",
+    "Subhadarshi Panda",
+    "Michael Flor",
+    "Alla Rozovskaya"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Dutch",
+    "Spanish",
+    "Russian",
+    "French",
+    "Czech",
+    "German",
+    "Indonesian",
+    "Vietnamese",
+    "Bislama",
+    "Chinese",
+    "Arabic",
+    "Malayalam",
+    "Chuukese",
+    "Hindi",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.acl-long.337",
+  "acl_url": "https://aclanthology.org/2023.acl-long.337/"
+}

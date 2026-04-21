@@ -1,0 +1,20 @@
+{
+  "title": "S2ORC: The Semantic Scholar Open Research Corpus",
+  "authors": [
+    "Kyle Lo",
+    "Lucy Lu Wang",
+    "Mark Neumann",
+    "Rodney Kinney",
+    "Daniel S. Weld"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.acl-main.447",
+  "acl_url": "https://aclanthology.org/2020.acl-main.447/"
+}

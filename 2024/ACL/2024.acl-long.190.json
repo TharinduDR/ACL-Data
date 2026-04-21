@@ -1,0 +1,23 @@
+{
+  "title": "Progressively Modality Freezing for Multi-Modal Entity Alignment",
+  "authors": [
+    "Yani Huang",
+    "Xuefeng Zhang",
+    "Richong Zhang",
+    "Junfan Chen",
+    "Jaein Kim"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "Japanese",
+    "German"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.acl-long.190",
+  "acl_url": "https://aclanthology.org/2024.acl-long.190/"
+}

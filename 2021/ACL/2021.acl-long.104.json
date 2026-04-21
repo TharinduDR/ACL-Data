@@ -1,0 +1,19 @@
+{
+  "title": "Diverse Pretrained Context Encodings Improve Document Translation",
+  "authors": [
+    "Domenic Donato",
+    "Lei Yu",
+    "Chris Dyer"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.acl-long.104",
+  "acl_url": "https://aclanthology.org/2021.acl-long.104/"
+}

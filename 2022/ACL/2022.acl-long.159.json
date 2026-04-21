@@ -1,0 +1,24 @@
+{
+  "title": "Cross-Linguual Contrastive Learning for Fine-Grained Entity Typing for Low-Resource Languages",
+  "authors": [
+    "Xu Han",
+    "Yuqi Luo",
+    "Weize Chen",
+    "Zhiyuan Liu",
+    "Maosong Sun",
+    "Botong Zhou",
+    "Fei Hao",
+    "Suncong Zheng"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.acl-long.159",
+  "acl_url": "https://aclanthology.org/2022.acl-long.159/"
+}

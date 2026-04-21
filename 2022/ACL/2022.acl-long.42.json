@@ -1,0 +1,24 @@
+{
+  "title": "Neural Label Search for Zero-Shot Multi-Lingual Extractive Summarization",
+  "authors": [
+    "Ruipeng Jia",
+    "Xingxing Zhang",
+    "Yanan Cao",
+    "Shi Wang",
+    "Zheng Lin",
+    "Furu Wei"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Turkish",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.acl-long.42",
+  "acl_url": "https://aclanthology.org/2022.acl-long.42/"
+}

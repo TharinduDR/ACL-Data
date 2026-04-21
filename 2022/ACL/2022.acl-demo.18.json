@@ -1,0 +1,23 @@
+{
+  "title": "DATA LAB: A Platform for Data Analysis and Intervention",
+  "authors": [
+    "Yang Xiao",
+    "Jinlan Fu",
+    "Weizhe Yuan",
+    "Vijay Viswanathan",
+    "Zhoumianze Liu",
+    "Yixin Liu",
+    "Graham Neubig",
+    "Pengfei Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.acl-demo.18",
+  "acl_url": "https://aclanthology.org/2022.acl-demo.18/"
+}

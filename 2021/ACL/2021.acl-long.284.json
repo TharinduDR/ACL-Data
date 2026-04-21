@@ -1,0 +1,26 @@
+{
+  "title": "Value-Agnostic Conversational Semantic Parsing",
+  "authors": [
+    "Emmanouil Antonios Platanios",
+    "Adam Pauls",
+    "Subhro Roy",
+    "Yuchen Zhang",
+    "Alex Kyte",
+    "Alan Guo",
+    "Sam Thomson",
+    "Jayant Krishnamurthy",
+    "Jason Wolfe",
+    "Jacob Andreas",
+    "Dan Klein"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T27 Code generation and programming languages",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2021.acl-long.284",
+  "acl_url": "https://aclanthology.org/2021.acl-long.284/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Span-ConveRT: Few-shot Span Extraction for Dialog with Pretrained Conversational Representations",
+  "authors": [
+    "Sam Coope",
+    "Tyler Farghly",
+    "Daniela Gerz",
+    "Ivan Vulić",
+    "Matthew Henderson"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2020.acl-main.11",
+  "acl_url": "https://aclanthology.org/2020.acl-main.11/"
+}

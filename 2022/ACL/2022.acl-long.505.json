@@ -1,0 +1,47 @@
+{
+  "title": "mLUKE: The Power of Entity Representations in Multilingual Pretrained Language Models",
+  "authors": [
+    "Ryokan Ri",
+    "Ikuya Yamada",
+    "Yoshimasa Tsuruoka"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "French",
+    "Russian",
+    "Turkish",
+    "Arabic",
+    "Vietnamese",
+    "Thai",
+    "Chinese",
+    "Hindi",
+    "Portuguese",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Swedish",
+    "Slovak",
+    "Czech",
+    "Ukrainian",
+    "Bengali",
+    "Finnish",
+    "Hungarian",
+    "Dutch",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2022.acl-long.505",
+  "acl_url": "https://aclanthology.org/2022.acl-long.505/"
+}

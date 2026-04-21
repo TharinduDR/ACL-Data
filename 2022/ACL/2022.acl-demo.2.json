@@ -1,0 +1,26 @@
+{
+  "title": "UKP-SQUARE: An Online Platform for Question Answering Research",
+  "authors": [
+    "Tim Baumgärtner",
+    "Kexin Wang",
+    "Rachneet Sachdeva",
+    "Max Eichler",
+    "Gregor Geigle",
+    "Clifton Poth",
+    "Hannah Sterz",
+    "Haritz Puerto",
+    "Leonardo F. R. Ribeiro",
+    "Jonas Pfeiffer",
+    "Nils Reimers",
+    "Gözde Gül Şahin",
+    "Iryna Gurevych"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.acl-demo.2",
+  "acl_url": "https://aclanthology.org/2022.acl-demo.2/"
+}

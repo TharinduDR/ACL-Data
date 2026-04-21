@@ -1,0 +1,28 @@
+{
+  "title": "Empowering Cross-lingual Behavioral Testing of NLP Models with Typological Features",
+  "authors": [
+    "Ester Hlavnova",
+    "Sebastian Ruder"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian",
+    "French",
+    "German",
+    "Swedish",
+    "Finnish",
+    "Slovak",
+    "Russian",
+    "Chinese",
+    "Swahili",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.396",
+  "acl_url": "https://aclanthology.org/2023.acl-long.396/"
+}

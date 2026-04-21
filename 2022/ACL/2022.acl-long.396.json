@@ -1,0 +1,21 @@
+{
+  "title": "Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering",
+  "authors": [
+    "Jing Zhang",
+    "Xiaokang Zhang",
+    "Jifan Yu",
+    "Jian Tang",
+    "Jie Tang",
+    "Cuiping Li",
+    "Hong Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.acl-long.396",
+  "acl_url": "https://aclanthology.org/2022.acl-long.396/"
+}

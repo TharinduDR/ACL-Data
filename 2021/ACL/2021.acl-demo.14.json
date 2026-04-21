@@ -1,0 +1,23 @@
+{
+  "title": "ESRA: Explainable Scientific Research Assistant",
+  "authors": [
+    "Pollawat Hongwimol",
+    "Peeranuth Kehasukcharoen",
+    "Pasit Laohawarutchai",
+    "Piyawat Lertvittayakumjorn",
+    "Aik Beng Ng",
+    "Zhangsheng Lai",
+    "Timothy Liu",
+    "Peerapon Vateekul"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.acl-demo.14",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.14/"
+}

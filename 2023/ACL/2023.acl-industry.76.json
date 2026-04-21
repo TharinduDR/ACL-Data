@@ -1,0 +1,20 @@
+{
+  "title": "Automated Digitization of Unstructured Medical Prescriptions",
+  "authors": [
+    "Megha Sharma",
+    "Tushar Vatsal",
+    "Srujana Merugu",
+    "Aruna Rajan"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2023.acl-industry.76",
+  "acl_url": "https://aclanthology.org/2023.acl-industry.76/"
+}

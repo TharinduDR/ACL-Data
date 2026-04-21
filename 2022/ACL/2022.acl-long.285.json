@@ -1,0 +1,24 @@
+{
+  "title": "Zero-Shot Cross-lingual Semantic Parsing",
+  "authors": [
+    "Tom Sherborne",
+    "Mirella Lapata"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Portuguese",
+    "Spanish",
+    "German",
+    "Chinese",
+    "Hindi",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.acl-long.285",
+  "acl_url": "https://aclanthology.org/2022.acl-long.285/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues",
+  "authors": [
+    "Ge Bai",
+    "Jie Liu",
+    "Xingyuan Bu",
+    "Yancheng He",
+    "Jiaheng Liu",
+    "Zhanhui Zhou",
+    "Zhuoran Lin",
+    "Wenbo Su",
+    "Tiezheng Ge",
+    "Bo Zheng",
+    "Wanli Ouyang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.401",
+  "acl_url": "https://aclanthology.org/2024.acl-long.401/"
+}

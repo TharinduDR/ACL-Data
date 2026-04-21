@@ -1,0 +1,31 @@
+{
+  "title": "Character-Aware Models Improve Visual Text Rendering",
+  "authors": [
+    "Rosanne Liu",
+    "Dan Garrette",
+    "Chitwan Saharia",
+    "William Chan",
+    "Adam Roberts",
+    "Sharan Narang",
+    "Irina Blok",
+    "RJ Mical",
+    "Mohammad Norouzi",
+    "Noah Constant"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "Finnish",
+    "Korean",
+    "Russian",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.900",
+  "acl_url": "https://aclanthology.org/2023.acl-long.900/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Toward Human-Like Evaluation for Natural Language Generation with Error Analysis",
+  "authors": [
+    "Qingyu Lu",
+    "Liang Ding",
+    "Liping Xie",
+    "Kanjian Zhang",
+    "Derek F. Wong",
+    "Dacheng Tao"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Japanese",
+    "Russian",
+    "Indonesian",
+    "Korean",
+    "Persian",
+    "Portuguese",
+    "Thai"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.acl-long.324",
+  "acl_url": "https://aclanthology.org/2023.acl-long.324/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Program Transfer for Answering Complex Questions over Knowledge Bases",
+  "authors": [
+    "Shulin Cao",
+    "Jiaxin Shi",
+    "Zijun Yao",
+    "Xin Lv",
+    "Jifan Yu",
+    "Lei Hou",
+    "Juanzi Li",
+    "Zhiyuan Liu",
+    "Jinghui Xiao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.acl-long.559",
+  "acl_url": "https://aclanthology.org/2022.acl-long.559/"
+}

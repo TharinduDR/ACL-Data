@@ -1,0 +1,24 @@
+{
+  "title": "History Semantic Graph Enhanced Conversational KBQA with Temporal Information Modeling",
+  "authors": [
+    "Hao Sun",
+    "Yang Li",
+    "Liwei Deng",
+    "Bowen Li",
+    "Binyuan Hui",
+    "Binhua Li",
+    "Yunshi Lan",
+    "Yan Zhang",
+    "Yongbin Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2023.acl-long.195",
+  "acl_url": "https://aclanthology.org/2023.acl-long.195/"
+}

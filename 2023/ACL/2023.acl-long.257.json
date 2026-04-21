@@ -1,0 +1,22 @@
+{
+  "title": "Movie101: A New Movie Understanding Benchmark",
+  "authors": [
+    "Zihao Yue",
+    "Qi Zhang",
+    "Anwen Hu",
+    "Liang Zhang",
+    "Ziheng Wang",
+    "Qin Jin"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.257",
+  "acl_url": "https://aclanthology.org/2023.acl-long.257/"
+}

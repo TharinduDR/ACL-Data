@@ -1,0 +1,26 @@
+{
+  "title": "A System for Answering Simple Questions in Multiple Languages",
+  "authors": [
+    "Anton Razzhigaev",
+    "Mikhail Salnikov",
+    "Valentin Malykh",
+    "Pavel Braslavski",
+    "Alexander Panchenko"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "French",
+    "Spanish",
+    "German",
+    "Italian",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-demo.51",
+  "acl_url": "https://aclanthology.org/2023.acl-demo.51/"
+}

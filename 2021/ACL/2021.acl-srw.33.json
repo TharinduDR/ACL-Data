@@ -1,0 +1,19 @@
+{
+  "title": "Neural Machine Translation with Synchronous Latent Phrase Structure",
+  "authors": [
+    "Shintaro Harada",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-srw.33",
+  "acl_url": "https://aclanthology.org/2021.acl-srw.33/"
+}

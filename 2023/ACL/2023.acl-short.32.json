@@ -1,0 +1,29 @@
+{
+  "title": "Stop Pre-Training: Adapt Visual-Language Models to Unseen Languages",
+  "authors": [
+    "Yasmine Karoui",
+    "Rémi Lebret",
+    "Negar Foroutan",
+    "Karl Aberer"
+  ],
+  "languages": [
+    "English",
+    "Indonesian",
+    "Swahili",
+    "Tamil",
+    "Turkish",
+    "Chinese",
+    "German",
+    "Spanish",
+    "Russian",
+    "Arabic",
+    "French"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.acl-short.32",
+  "acl_url": "https://aclanthology.org/2023.acl-short.32/"
+}

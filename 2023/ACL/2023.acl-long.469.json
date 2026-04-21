@@ -1,0 +1,22 @@
+{
+  "title": "Don't Parse, Choose Spans! Continuous and Discontinuous Constituency Parsing via Autoregressive Span Selection",
+  "authors": [
+    "Songlin Yang",
+    "Kewei Tu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Korean",
+    "Hungarian",
+    "Basque",
+    "Polish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.acl-long.469",
+  "acl_url": "https://aclanthology.org/2023.acl-long.469/"
+}

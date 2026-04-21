@@ -1,0 +1,24 @@
+{
+  "title": "Local Byte Fusion for Neural Machine Translation",
+  "authors": [
+    "Makesh Narsimhan Sreedhar",
+    "Xiangpeng Wan",
+    "Yu Cheng",
+    "Junjie Hu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hindi",
+    "Nepali",
+    "Tamil",
+    "Telugu",
+    "Khmer",
+    "Lao"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.acl-long.397",
+  "acl_url": "https://aclanthology.org/2023.acl-long.397/"
+}

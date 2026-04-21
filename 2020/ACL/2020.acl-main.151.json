@@ -1,0 +1,29 @@
+{
+  "title": "On the Limitations of Cross-lingual Encoders as Exposed by Reference-Free Machine Translation Evaluation",
+  "authors": [
+    "Wei Zhao",
+    "Goran Glavaš",
+    "Maxime Peyrard",
+    "Yang Gao",
+    "Robert West",
+    "Steffen Eger"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "Czech",
+    "Latvian",
+    "Finnish",
+    "Russian",
+    "Kazakh",
+    "Lithuanian",
+    "Estonian",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.acl-main.151",
+  "acl_url": "https://aclanthology.org/2020.acl-main.151/"
+}

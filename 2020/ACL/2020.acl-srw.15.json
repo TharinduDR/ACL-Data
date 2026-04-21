@@ -1,0 +1,21 @@
+{
+  "title": "Multi-Task Neural Model for Agglutinative Language Translation",
+  "authors": [
+    "Yirong Pan",
+    "Xiao Li",
+    "Yating Yang",
+    "Rui Dong"
+  ],
+  "languages": [
+    "Turkish",
+    "English",
+    "Uyghur",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-srw.15",
+  "acl_url": "https://aclanthology.org/2020.acl-srw.15/"
+}

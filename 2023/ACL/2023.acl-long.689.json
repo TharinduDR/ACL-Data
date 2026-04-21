@@ -1,0 +1,29 @@
+{
+  "title": "Accelerating Transformer Inference for Translation via Parallel Decoding",
+  "authors": [
+    "Andrea Santilli",
+    "Silvio Severino",
+    "Emilian Postolache",
+    "Valentino Maiorca",
+    "Michele Mancusi",
+    "Riccardo Marin",
+    "Emanuele Rodolà"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian",
+    "Finnish",
+    "Vietnamese",
+    "Hindi",
+    "Italian",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.acl-long.689",
+  "acl_url": "https://aclanthology.org/2023.acl-long.689/"
+}

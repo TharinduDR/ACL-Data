@@ -1,0 +1,19 @@
+{
+  "title": "Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions",
+  "authors": [
+    "Harsh Trivedi",
+    "Niranjan Balasubramanian",
+    "Tushar Khot",
+    "Ashish Sabharwal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.acl-long.557",
+  "acl_url": "https://aclanthology.org/2023.acl-long.557/"
+}

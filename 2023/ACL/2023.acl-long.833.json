@@ -1,0 +1,20 @@
+{
+  "title": "Visually-augmented Pretrained Language Models for NLP Tasks without Images",
+  "authors": [
+    "Hangyu Guo",
+    "Kun Zhou",
+    "Wayne Xin Zhao",
+    "Qinyu Zhang",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.acl-long.833",
+  "acl_url": "https://aclanthology.org/2023.acl-long.833/"
+}

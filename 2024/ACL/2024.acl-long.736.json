@@ -1,0 +1,26 @@
+{
+  "title": "Never Lost in the Middle: Mastering Long-Context Question Answering with Position-Agnostic Decompositional Training",
+  "authors": [
+    "Junqing He",
+    "Kunhao Pan",
+    "Xiaoqun Dong",
+    "Zhuoyang Song",
+    "Yibo Liu",
+    "Qianguo Sun",
+    "Yuxin Liang",
+    "Hao Wang",
+    "Enming Zhang",
+    "Jiaxing Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.acl-long.736",
+  "acl_url": "https://aclanthology.org/2024.acl-long.736/"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "X-FACT: A New Benchmark Dataset for Multilingual Fact Checking",
+  "authors": [
+    "Ashim Gupta",
+    "Vivek Srikumar"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Spanish",
+    "Persian",
+    "Indonesian",
+    "Italian",
+    "Hindi",
+    "Gujarati",
+    "Georgian",
+    "Marathi",
+    "Punjabi",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Norwegian",
+    "Sinhala",
+    "Serbian",
+    "Tamil",
+    "Albanian",
+    "Russian",
+    "Turkish",
+    "Azerbaijani",
+    "German",
+    "Dutch",
+    "French"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.acl-short.86",
+  "acl_url": "https://aclanthology.org/2021.acl-short.86/"
+}

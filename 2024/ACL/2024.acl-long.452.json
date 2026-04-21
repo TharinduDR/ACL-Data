@@ -1,0 +1,21 @@
+{
+  "title": "BizBench: A Quantitative Reasoning Benchmark for Business and Finance",
+  "authors": [
+    "Rik Koncel-Kedzior ski",
+    "Michael Krumdick",
+    "Viet Lai",
+    "Varshini Reddy",
+    "Charles Lovering",
+    "Chris Tanner"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.acl-long.452",
+  "acl_url": "https://aclanthology.org/2024.acl-long.452/"
+}

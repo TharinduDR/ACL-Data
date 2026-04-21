@@ -1,0 +1,24 @@
+{
+  "title": "Multilingual LLMs are Better Cross-lingual In-context Learners with Alignment",
+  "authors": [
+    "Eshaan Tanwar",
+    "Subhabrata Dutta",
+    "Manish Borthakur",
+    "Tanmoy Chakraborty"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.acl-long.346",
+  "acl_url": "https://aclanthology.org/2023.acl-long.346/"
+}

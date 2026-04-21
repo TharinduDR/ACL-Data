@@ -1,0 +1,24 @@
+{
+  "title": "MATCHA: Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering",
+  "authors": [
+    "Fangyu Liu",
+    "Francesco Piccinno",
+    "Syrine Krichene",
+    "Chenxi Pang",
+    "Kenton Lee",
+    "Mandar Joshi",
+    "Yasemin Altun",
+    "Nigel Collier",
+    "Julian Martin Eisenschlos"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.acl-long.714",
+  "acl_url": "https://aclanthology.org/2023.acl-long.714/"
+}

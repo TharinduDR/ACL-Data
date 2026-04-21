@@ -1,0 +1,29 @@
+{
+  "title": "Impacts of Misspelled Queries on Translation and Product Search",
+  "authors": [
+    "Greg Hanneman",
+    "Natawut Monaikul",
+    "Taichi Nakatani"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Portuguese",
+    "Chinese",
+    "Japanese",
+    "Hebrew",
+    "Tamil",
+    "Indonesian",
+    "Korean",
+    "Thai"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.acl-long.750",
+  "acl_url": "https://aclanthology.org/2024.acl-long.750/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Explaining How Transformers Use Context to Build Predictions",
+  "authors": [
+    "Javier Ferrando",
+    "Gerard I. Gállego",
+    "Ioannis Tsiamas",
+    "Marta R. Costa-jussà"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.acl-long.301",
+  "acl_url": "https://aclanthology.org/2023.acl-long.301/"
+}

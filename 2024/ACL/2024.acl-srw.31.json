@@ -1,0 +1,19 @@
+{
+  "title": "ViMedAQA: A Vietnamese Medical Abstractive Question-Answering Dataset and Findings of Large Language Model",
+  "authors": [
+    "Minh-Nam Tran",
+    "Phu-Vinh Nguyen",
+    "Long Nguyen",
+    "Dien Dinh"
+  ],
+  "languages": [
+    "English",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.acl-srw.31",
+  "acl_url": "https://aclanthology.org/2024.acl-srw.31/"
+}

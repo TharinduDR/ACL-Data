@@ -1,0 +1,22 @@
+{
+  "title": "Fact-Checking Complex Claims with Program-Guided Reasoning",
+  "authors": [
+    "Liangming Pan",
+    "Xiaobao Wu",
+    "Xinyuan Lu",
+    "Anh Tuan Luu",
+    "William Yang Wang",
+    "Min-Yen Kan",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.acl-long.386",
+  "acl_url": "https://aclanthology.org/2023.acl-long.386/"
+}

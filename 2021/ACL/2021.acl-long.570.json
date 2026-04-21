@@ -1,0 +1,21 @@
+{
+  "title": "Including Signed Languages in Natural Language Processing",
+  "authors": [
+    "Kayo Yin",
+    "Amit Moryossef",
+    "Julie Hochgesang",
+    "Yoav Goldberg",
+    "Malihe Alikhani"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2021.acl-long.570",
+  "acl_url": "https://aclanthology.org/2021.acl-long.570/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "MultiTACRED: A Multilingual Version of the TAC Relation Extraction Dataset",
+  "authors": [
+    "Leonhard Hennig",
+    "Philippe Thomas",
+    "Sebastian Möller"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Spanish",
+    "Finnish",
+    "French",
+    "Hindi",
+    "Japanese",
+    "Polish",
+    "Russian",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.acl-long.210",
+  "acl_url": "https://aclanthology.org/2023.acl-long.210/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Modeling Morphological Typology for Unsupervised Learning of Language Morphology",
+  "authors": [
+    "Hongzhi Xu",
+    "Jordan Kodner",
+    "Mitch Marcus",
+    "Charles Yang"
+  ],
+  "languages": [
+    "Akan",
+    "Hindi",
+    "Hungarian",
+    "Indonesian",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Tagalog",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-main.596",
+  "acl_url": "https://aclanthology.org/2020.acl-main.596/"
+}

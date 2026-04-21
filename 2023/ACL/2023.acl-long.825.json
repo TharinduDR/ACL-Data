@@ -1,0 +1,26 @@
+{
+  "title": "Learning Language-Specific Layers for Multilingual Machine Translation",
+  "authors": [
+    "Telmo Pessoa Pires",
+    "Robin M. Schmidt",
+    "Yi-Hsiu Liao",
+    "Stephan Peitz"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Swahili",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.acl-long.825",
+  "acl_url": "https://aclanthology.org/2023.acl-long.825/"
+}

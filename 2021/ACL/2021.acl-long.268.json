@@ -1,0 +1,22 @@
+{
+  "title": "Prevent the Language Model from being Overconfident in Neural Machine Translation",
+  "authors": [
+    "Mengqi Miao",
+    "Fandong Meng",
+    "Yijin Liu",
+    "Xiao-Hua Zhou",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.acl-long.268",
+  "acl_url": "https://aclanthology.org/2021.acl-long.268/"
+}

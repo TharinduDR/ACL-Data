@@ -1,0 +1,21 @@
+{
+  "title": "A Semantic-based Method for Unsupervised Commonsense Question Answering",
+  "authors": [
+    "Yilin Niu",
+    "Fei Huang",
+    "Jiaming Liang",
+    "Wenkai Chen",
+    "Xiaoyan Zhu",
+    "Minlie Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.acl-long.237",
+  "acl_url": "https://aclanthology.org/2021.acl-long.237/"
+}

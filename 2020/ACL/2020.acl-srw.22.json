@@ -1,0 +1,20 @@
+{
+  "title": "Efficient Neural Machine Translation for Low-Resource Languages via Exploiting Related Languages",
+  "authors": [
+    "Vikrant Goyal",
+    "Sourav Kumar",
+    "Dipti Misra Sharma"
+  ],
+  "languages": [
+    "English",
+    "Gujarati",
+    "Bengali",
+    "Marathi",
+    "Punjabi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.acl-srw.22",
+  "acl_url": "https://aclanthology.org/2020.acl-srw.22/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization",
+  "authors": [
+    "Ziming Mao",
+    "Chen Henry Wu",
+    "Ansong Ni",
+    "Yusen Zhang",
+    "Rui Zhang",
+    "Tao Yu",
+    "Budhaditya Deb",
+    "Chenguang Zhu",
+    "Ahmed H. Awadallah",
+    "Dragomir Radev"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.acl-long.118",
+  "acl_url": "https://aclanthology.org/2022.acl-long.118/"
+}

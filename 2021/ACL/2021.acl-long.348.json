@@ -1,0 +1,30 @@
+{
+  "title": "SemFace: Pre-training Encoder and Decoder with a Semantic Interface for Neural Machine Translation",
+  "authors": [
+    "Shuo Ren",
+    "Long Zhou",
+    "Shujie Liu",
+    "Furu Wei",
+    "Ming Zhou",
+    "Shuai Ma"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Romanian",
+    "Finnish",
+    "Estonian",
+    "Latvian",
+    "Lithuanian",
+    "Gujarati",
+    "Kazakh"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.acl-long.348",
+  "acl_url": "https://aclanthology.org/2021.acl-long.348/"
+}

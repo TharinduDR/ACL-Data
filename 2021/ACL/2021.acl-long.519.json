@@ -1,0 +1,22 @@
+{
+  "title": "End-to-End Training of Neural Retrievers for Open-Domain Question Answering",
+  "authors": [
+    "Devendra Singh Sachan",
+    "Mostofa Patwary",
+    "Mohammad Shoeybi",
+    "Neel Kant",
+    "Wei Ping",
+    "William L Hamilton",
+    "Bryan Catanzaro"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.acl-long.519",
+  "acl_url": "https://aclanthology.org/2021.acl-long.519/"
+}

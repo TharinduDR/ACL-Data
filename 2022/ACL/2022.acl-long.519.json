@@ -1,0 +1,20 @@
+{
+  "title": "Adapting Coreference Resolution Models through Active Learning",
+  "authors": [
+    "Michelle Yuan",
+    "Patrick Xia",
+    "Chandler May",
+    "Benjamin Van Durme",
+    "Jordan Boyd-Graber"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.519",
+  "acl_url": "https://aclanthology.org/2022.acl-long.519/"
+}

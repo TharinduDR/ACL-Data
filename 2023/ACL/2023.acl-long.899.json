@@ -1,0 +1,38 @@
+{
+  "title": "SpeechMatrix: A Large-Scale Mined Corpus of Multilingual Speech-to-Speech Translations",
+  "authors": [
+    "Paul-Ambroise Duquenne",
+    "Hongyu Gong",
+    "Ning Dong",
+    "Jingfei Du",
+    "Ann Lee",
+    "Vedanuj Goswami",
+    "Changhan Wang",
+    "Juan Pino",
+    "Benoît Sagot",
+    "Holger Schwenk"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Spanish",
+    "Estonian",
+    "Finnish",
+    "Croatian",
+    "Hungarian",
+    "Italian",
+    "Dutch",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Slovak",
+    "Slovenian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.acl-long.899",
+  "acl_url": "https://aclanthology.org/2023.acl-long.899/"
+}

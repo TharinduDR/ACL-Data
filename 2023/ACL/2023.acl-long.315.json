@@ -1,0 +1,25 @@
+{
+  "title": "Cross-View Language Modeling: Towards Unified Cross-Lingual Cross-Modal Pre-training",
+  "authors": [
+    "Yan Zeng",
+    "Wangchunshu Zhou",
+    "Ao Luo",
+    "Ziming Cheng",
+    "Xinsong Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "French",
+    "Czech",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.acl-long.315",
+  "acl_url": "https://aclanthology.org/2023.acl-long.315/"
+}

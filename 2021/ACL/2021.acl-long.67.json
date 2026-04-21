@@ -1,0 +1,22 @@
+{
+  "title": "Bilingual Lexicon Induction via Unsupervised Bitext Construction and Word Alignment",
+  "authors": [
+    "Haoyue Shi",
+    "Luke Zettlemoyer",
+    "Sida I. Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.acl-long.67",
+  "acl_url": "https://aclanthology.org/2021.acl-long.67/"
+}

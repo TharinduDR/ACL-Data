@@ -1,0 +1,29 @@
+{
+  "title": "MILIE: Modular & Iterative Multilingual Open Information Extraction",
+  "authors": [
+    "Bhushan Kotnis",
+    "Kiril Gashteovski",
+    "Daniel Oñoro-Rubio",
+    "Ammar Shaker",
+    "Vanessa Rodriguez-Tembras",
+    "Makoto Takamoto",
+    "Mathias Niepert",
+    "Carolin Lawrence"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Arabic",
+    "Galician",
+    "Spanish",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.acl-long.478",
+  "acl_url": "https://aclanthology.org/2022.acl-long.478/"
+}

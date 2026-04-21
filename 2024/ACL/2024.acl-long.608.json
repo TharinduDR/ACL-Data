@@ -1,0 +1,24 @@
+{
+  "title": "Soul-Mix: Enhancing Multimodal Machine Translation with Manifold Mixup",
+  "authors": [
+    "Xuxin Cheng",
+    "Ziyu Yao",
+    "Yifei Xin",
+    "Hao An",
+    "Hongxiang Li",
+    "Yaowei Li",
+    "Yuexian Zou"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.acl-long.608",
+  "acl_url": "https://aclanthology.org/2024.acl-long.608/"
+}

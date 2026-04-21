@@ -1,0 +1,24 @@
+{
+  "title": "Alignment-Augmented Consistent Translation for Multilingual Open Information Extraction",
+  "authors": [
+    "Keshav Kolluru",
+    "Mohammed Muqeeth",
+    "Shubham Mittal",
+    "Soumen Chakrabarti",
+    "Mausam"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Portuguese",
+    "Chinese",
+    "Hindi",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.acl-long.179",
+  "acl_url": "https://aclanthology.org/2022.acl-long.179/"
+}

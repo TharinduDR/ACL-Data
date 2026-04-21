@@ -1,0 +1,23 @@
+{
+  "title": "A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Any Translation",
+  "authors": [
+    "Zhengrui Ma",
+    "Qingkai Fang",
+    "Shaolei Zhang",
+    "Shoutao Guo",
+    "Yang Feng",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.acl-long.85",
+  "acl_url": "https://aclanthology.org/2024.acl-long.85/"
+}

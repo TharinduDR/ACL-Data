@@ -1,0 +1,21 @@
+{
+  "title": "The CRINGE Loss: Learning what language not to model",
+  "authors": [
+    "Leonard Adolphs",
+    "Tianyu Gao",
+    "Jing Xu",
+    "Kurt Shuster",
+    "Sainbayar Sukhbaatar",
+    "Jason Weston"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2023.acl-long.493",
+  "acl_url": "https://aclanthology.org/2023.acl-long.493/"
+}

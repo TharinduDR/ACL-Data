@@ -1,0 +1,31 @@
+{
+  "title": "Information-Theoretic Probing for Linguistic Structure",
+  "authors": [
+    "Tiago Pimentel",
+    "Josef Valvoda",
+    "Rowan Hall Maudsley",
+    "Ran Zmigrod",
+    "Adina Williams",
+    "Ryan Cotterell"
+  ],
+  "languages": [
+    "Basque",
+    "Czech",
+    "English",
+    "Finnish",
+    "Indonesian",
+    "Korean",
+    "Marathi",
+    "Tamil",
+    "Telugu",
+    "Turkish",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.acl-main.420",
+  "acl_url": "https://aclanthology.org/2020.acl-main.420/"
+}

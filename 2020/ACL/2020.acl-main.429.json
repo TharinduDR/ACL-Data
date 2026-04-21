@@ -1,0 +1,17 @@
+{
+  "title": "How does BERT's attention change when you fine-tune? An analysis methodology and a case study in negation scope",
+  "authors": [
+    "Yiyun Zhao",
+    "Steven Bethard"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2020.acl-main.429",
+  "acl_url": "https://aclanthology.org/2020.acl-main.429/"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "KuiLeiXi: a Chinese Open-Ended Text Adventure Game",
+  "authors": [
+    "Yadong Xi",
+    "Xiaoxi Mao",
+    "Le Li",
+    "Lei Lin",
+    "Yanjiang Chen",
+    "Shuhan Yang",
+    "Xuhan Chen",
+    "Kailun Tao",
+    "Zhi Li",
+    "Gongzheng Li",
+    "Lin Jiang",
+    "Siyan Liu",
+    "Zeng Zhao",
+    "Minlie Huang",
+    "Changjie Fan",
+    "Zhipeng Hu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2021.acl-demo.21",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.21/"
+}

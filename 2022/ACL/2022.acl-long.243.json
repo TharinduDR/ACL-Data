@@ -1,0 +1,35 @@
+{
+  "title": "Investigating Failures of Automatic Translation in the Case of Unambiguous Gender",
+  "authors": [
+    "Adithya Renduchintala",
+    "Adina Williams"
+  ],
+  "languages": [
+    "Belarusian",
+    "Catalan",
+    "Czech",
+    "German",
+    "Greek",
+    "Spanish",
+    "French",
+    "Hebrew",
+    "Croatian",
+    "Italian",
+    "Latvian",
+    "Lithuanian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Serbian",
+    "Ukrainian",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.acl-long.243",
+  "acl_url": "https://aclanthology.org/2022.acl-long.243/"
+}

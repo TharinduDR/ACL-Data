@@ -1,0 +1,24 @@
+{
+  "title": "Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models",
+  "authors": [
+    "Weihong Zhong",
+    "Xiaocheng Feng",
+    "Liang Zhao",
+    "Qiming Li",
+    "Lei Huang",
+    "Yuxuan Gu",
+    "Weitao Ma",
+    "Yuan Xu",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.acl-long.648",
+  "acl_url": "https://aclanthology.org/2024.acl-long.648/"
+}

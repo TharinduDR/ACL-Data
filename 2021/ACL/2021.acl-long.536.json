@@ -1,0 +1,25 @@
+{
+  "title": "Improving Factual Consistency of Abstractive Summarization via Question Answering",
+  "authors": [
+    "Feng Nan",
+    "Cicero Nogueira dos Santos",
+    "Henghui Zhu",
+    "Patrick Ng",
+    "Kathleen McKeown",
+    "Ramesh Nallapati",
+    "Dejiao Zhang",
+    "Zhiguo Wang",
+    "Andrew O. Arnold",
+    "Bing Xiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.acl-long.536",
+  "acl_url": "https://aclanthology.org/2021.acl-long.536/"
+}

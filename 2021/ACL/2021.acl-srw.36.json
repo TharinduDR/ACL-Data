@@ -1,0 +1,20 @@
+{
+  "title": "Synchronous Syntactic Attention for Transformer Neural Machine Translation",
+  "authors": [
+    "Hiroyuki Deguchi",
+    "Akihiro Tamura",
+    "Takashi Ninomiya"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.acl-srw.36",
+  "acl_url": "https://aclanthology.org/2021.acl-srw.36/"
+}

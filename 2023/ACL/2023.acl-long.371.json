@@ -1,0 +1,23 @@
+{
+  "title": "Towards standardizing Korean Grammatical Error Correction: Datasets and Annotation",
+  "authors": [
+    "Soyoung Yoon",
+    "Sungjoon Park",
+    "Gyuan Kim",
+    "Junhee Cho",
+    "Kihyo Park",
+    "Gyutae Kim",
+    "Minjoon Seo",
+    "Alice Oh"
+  ],
+  "languages": [
+    "Korean"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.371",
+  "acl_url": "https://aclanthology.org/2023.acl-long.371/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Backpack Language Models",
+  "authors": [
+    "John Hewitt",
+    "John Thickstun",
+    "Christopher D. Manning",
+    "Percy Liang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2023.acl-long.506",
+  "acl_url": "https://aclanthology.org/2023.acl-long.506/"
+}

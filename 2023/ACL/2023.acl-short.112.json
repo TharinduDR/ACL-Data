@@ -1,0 +1,29 @@
+{
+  "title": "Exploring the Impact of Layer Normalization for Zero-shot Neural Machine Translation",
+  "authors": [
+    "Zhuoyuan Mao",
+    "Raj Dabre",
+    "Qianying Liu",
+    "Haiyue Song",
+    "Chenhui Chu",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "German",
+    "French",
+    "Russian",
+    "Dutch",
+    "Portuguese",
+    "Italian",
+    "Spanish",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-short.112",
+  "acl_url": "https://aclanthology.org/2023.acl-short.112/"
+}

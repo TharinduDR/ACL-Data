@@ -1,0 +1,20 @@
+{
+  "title": "MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding",
+  "authors": [
+    "Jia-Chen Gu",
+    "Chongyang Tao",
+    "Zhen-Hua Ling",
+    "Can Xu",
+    "Xiubo Geng",
+    "Daxin Jiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.acl-long.285",
+  "acl_url": "https://aclanthology.org/2021.acl-long.285/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "CLTR: An End-to-End, Transformer-Based System for Cell Level Table Retrieval and Table Question Answering",
+  "authors": [
+    "Feifei Pan",
+    "Mustafa Canim",
+    "Michael Glass",
+    "Alfio Gliozzo",
+    "Peter Fox"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.acl-demo.24",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.24/"
+}

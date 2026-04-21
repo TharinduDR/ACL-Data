@@ -1,0 +1,32 @@
+{
+  "title": "Analyzing and Reducing the Performance Gap in Cross-Lingual Transfer with Fine-tuning Slow and Fast",
+  "authors": [
+    "Yiduo Guo",
+    "Yaobo Liang",
+    "Dongyan Zhao",
+    "Bing Liu",
+    "Duan Nan"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Greek",
+    "Spanish",
+    "Hindi",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Tamil",
+    "Urdu",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.acl-long.221",
+  "acl_url": "https://aclanthology.org/2023.acl-long.221/"
+}

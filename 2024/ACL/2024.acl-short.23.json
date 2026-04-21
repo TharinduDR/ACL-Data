@@ -1,0 +1,19 @@
+{
+  "title": "Sketch-Guided Constrained Decoding for Boosting Blackbox Large Language Models without Logit Access",
+  "authors": [
+    "Saibo Geng",
+    "Berkay Döner",
+    "Chris Wendler",
+    "Martin Josifoski",
+    "Robert West"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.acl-short.23",
+  "acl_url": "https://aclanthology.org/2024.acl-short.23/"
+}

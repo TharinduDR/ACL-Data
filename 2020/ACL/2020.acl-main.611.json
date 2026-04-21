@@ -1,0 +1,18 @@
+{
+  "title": "FLAT: Chinese NER Using Flat-Lattice Transformer",
+  "authors": [
+    "Xiaonan Li",
+    "Hang Yan",
+    "Xipeng Qiu",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.acl-main.611",
+  "acl_url": "https://aclanthology.org/2020.acl-main.611/"
+}

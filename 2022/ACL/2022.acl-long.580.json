@@ -1,0 +1,35 @@
+{
+  "title": "SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities",
+  "authors": [
+    "Hsiang-Sheng Tsai",
+    "Heng-Jui Chang",
+    "Wen-Chin Huang",
+    "Zili Huang",
+    "Kushal Lakhotia",
+    "Shu-wen Yang",
+    "Shu-yen Dong",
+    "Andy T. Liu",
+    "Cheng-I Jeff Lai",
+    "Jiatong Shi",
+    "Xuankai Chang",
+    "Phil Hall",
+    "Hsuan-Jui Chen",
+    "Shang-Wen Li",
+    "Shinji Watanabe",
+    "Abdelrahman Mohamed",
+    "Hung-yi Lee"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.acl-long.580",
+  "acl_url": "https://aclanthology.org/2022.acl-long.580/"
+}

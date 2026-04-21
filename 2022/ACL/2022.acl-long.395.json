@@ -1,0 +1,23 @@
+{
+  "title": "Unified Structure Generation for Universal Information Extraction",
+  "authors": [
+    "Yaojie Lu",
+    "Qing Liu",
+    "Dai Dai",
+    "Xinyan Xiao",
+    "Hongyu Lin",
+    "Xianpei Han",
+    "Le Sun",
+    "Hua Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.acl-long.395",
+  "acl_url": "https://aclanthology.org/2022.acl-long.395/"
+}

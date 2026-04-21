@@ -1,0 +1,26 @@
+{
+  "title": "SafetyBench: Evaluating the Safety of Large Language Models",
+  "authors": [
+    "Zhixin Zhang",
+    "Leqi Lei",
+    "Lindong Wu",
+    "Rui Sun",
+    "Yongkang Huang",
+    "Chong Long",
+    "Xiao Liu",
+    "Xuanyu Lei",
+    "Jie Tang",
+    "Minlie Huang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.acl-long.830",
+  "acl_url": "https://aclanthology.org/2024.acl-long.830/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "SIMMC-VR: A Task-oriented Multimodal Dialog Dataset with Situated and Immersive VR Streams",
+  "authors": [
+    "Te-Lin Wu",
+    "Satwik Kottur",
+    "Andrea Madotto",
+    "Mahmoud Azab",
+    "Pedro Rodriguez",
+    "Babak Damavandi",
+    "Nanyun Peng",
+    "Seungwhan Moon"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.345",
+  "acl_url": "https://aclanthology.org/2023.acl-long.345/"
+}

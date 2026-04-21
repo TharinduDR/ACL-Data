@@ -1,0 +1,24 @@
+{
+  "title": "What is the best recipe for character-level encoder-only modelling?",
+  "authors": [
+    "Kris Cao"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "Finnish",
+    "German",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.acl-long.326",
+  "acl_url": "https://aclanthology.org/2023.acl-long.326/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Parallel Context Windows for Large Language Models",
+  "authors": [
+    "Nir Ratner",
+    "Yoav Levine",
+    "Yonatan Belinkov",
+    "Ori Ram",
+    "Inbal Magar",
+    "Omri Abend",
+    "Ehud Karpas",
+    "Amnon Shashua",
+    "Kevin Leyton-Brown",
+    "Yoav Shoham"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2023.acl-long.352",
+  "acl_url": "https://aclanthology.org/2023.acl-long.352/"
+}

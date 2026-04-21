@@ -1,0 +1,25 @@
+{
+  "title": "Towards Better Entity Linking with Multi-View Enhanced Distillation",
+  "authors": [
+    "Yi Liu",
+    "Yuan Tian",
+    "Jianxun Lian",
+    "Xinlong Wang",
+    "Yanan Cao",
+    "Fang Fang",
+    "Wen Zhang",
+    "Haizhen Huang",
+    "Denvy Deng",
+    "Qi Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.542",
+  "acl_url": "https://aclanthology.org/2023.acl-long.542/"
+}

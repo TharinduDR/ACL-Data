@@ -1,0 +1,20 @@
+{
+  "title": "KLEJ: Comprehensive Benchmark for Polish Language Understanding",
+  "authors": [
+    "Piotr Rybak",
+    "Robert Mroczkowski",
+    "Janusz Tracz",
+    "Ireneusz Gawlik"
+  ],
+  "languages": [
+    "Polish",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.acl-main.111",
+  "acl_url": "https://aclanthology.org/2020.acl-main.111/"
+}

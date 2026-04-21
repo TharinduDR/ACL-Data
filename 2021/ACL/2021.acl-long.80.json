@@ -1,0 +1,43 @@
+{
+  "title": "VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation",
+  "authors": [
+    "Changhan Wang",
+    "Morgane Rivière",
+    "Ann Lee",
+    "Anne Wu",
+    "Chaitanya Talnikar",
+    "Daniel Haziza",
+    "Mary Williamson",
+    "Juan Pino",
+    "Emmanuel Dupoux"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Czech",
+    "Hungarian",
+    "Polish",
+    "Slovak",
+    "Slovene",
+    "Lithuanian",
+    "Latvian",
+    "Estonian",
+    "Danish",
+    "Finnish",
+    "Bulgarian",
+    "Romanian",
+    "Croatian",
+    "Greek"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2021.acl-long.80",
+  "acl_url": "https://aclanthology.org/2021.acl-long.80/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Syntactic Data Augmentation Increases Robustness to Inference Heuristics",
+  "authors": [
+    "Junghyun Min",
+    "R. Thomas McCoy",
+    "Dipanjan Das",
+    "Emily Pitler",
+    "Tal Linzen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.acl-main.212",
+  "acl_url": "https://aclanthology.org/2020.acl-main.212/"
+}

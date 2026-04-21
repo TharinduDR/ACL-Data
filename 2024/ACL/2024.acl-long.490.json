@@ -1,0 +1,20 @@
+{
+  "title": "Mitigating Biases for Instruction-following Language Models via Bias Neurons Elimination",
+  "authors": [
+    "Nakyeong Yang",
+    "Taegwan Kang",
+    "Jungkyu Choi",
+    "Honglak Lee",
+    "Kyomin Jung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.acl-long.490",
+  "acl_url": "https://aclanthology.org/2024.acl-long.490/"
+}

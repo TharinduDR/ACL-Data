@@ -1,0 +1,23 @@
+{
+  "title": "CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-training",
+  "authors": [
+    "Zhenhui Ye",
+    "Rongjie Huang",
+    "Yi Ren",
+    "Ziyue Jiang",
+    "Jinglin Liu",
+    "Jinzheng He",
+    "Xiang Yin",
+    "Zhou Zhao"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2023.acl-long.518",
+  "acl_url": "https://aclanthology.org/2023.acl-long.518/"
+}

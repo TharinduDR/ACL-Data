@@ -1,0 +1,21 @@
+{
+  "title": "UNIPELT: A Unified Framework for Parameter-Efficient Language Model Tuning",
+  "authors": [
+    "Yuning Mao",
+    "Lambert Mathias",
+    "Rui Hou",
+    "Amjad Almahairi",
+    "Hao Ma",
+    "Jiawei Han",
+    "Wen-tau Yih",
+    "Madian Khabsa"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.acl-long.433",
+  "acl_url": "https://aclanthology.org/2022.acl-long.433/"
+}

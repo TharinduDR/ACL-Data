@@ -1,0 +1,20 @@
+{
+  "title": "Temporal Knowledge Question Answering via Abstract Reasoning Induction",
+  "authors": [
+    "Ziyang Chen",
+    "Dongfang Li",
+    "Xiang Zhao",
+    "Baotian Hu",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.acl-long.267",
+  "acl_url": "https://aclanthology.org/2024.acl-long.267/"
+}

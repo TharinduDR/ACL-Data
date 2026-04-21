@@ -1,0 +1,17 @@
+{
+  "title": "Transformers to Learn Hierarchical Contexts in Multiparty Dialogue for Span-based Question Answering",
+  "authors": [
+    "Changmao Li",
+    "Jinho D. Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2020.acl-main.505",
+  "acl_url": "https://aclanthology.org/2020.acl-main.505/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling",
+  "authors": [
+    "Canasai Kruengkrai",
+    "Thien Hai Nguyen",
+    "Sharifah Mahani Aljunied",
+    "Lidong Bing"
+  ],
+  "languages": [
+    "Vietnamese",
+    "Thai",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.acl-main.523",
+  "acl_url": "https://aclanthology.org/2020.acl-main.523/"
+}

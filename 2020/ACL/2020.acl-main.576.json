@@ -1,0 +1,23 @@
+{
+  "title": "MIE: A Medical Information Extractor towards Medical Dialogues",
+  "authors": [
+    "Yuanzhe Zhang",
+    "Zhongtao Jiang",
+    "Tao Zhang",
+    "Shiwan Liu",
+    "Jiarun Cao",
+    "Kang Liu",
+    "Shengping Liu",
+    "Jun Zhao"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2020.acl-main.576",
+  "acl_url": "https://aclanthology.org/2020.acl-main.576/"
+}

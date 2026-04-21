@@ -1,0 +1,27 @@
+{
+  "title": "MOLEMAN: Mention-Only Linking of Entities with a Mention Annotation Network",
+  "authors": [
+    "Nicholas FitzGerald",
+    "Jan A. Botha",
+    "Daniel Gillick",
+    "Daniel M. Bikel",
+    "Tom Kwiatkowski",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "English",
+    "Spanish",
+    "French",
+    "Japanese",
+    "Swahili",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.acl-short.37",
+  "acl_url": "https://aclanthology.org/2021.acl-short.37/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Lexicon Enhanced Chinese Sequence Labelling Using BERT Adapter",
+  "authors": [
+    "Wei Liu",
+    "Xiyan Fu",
+    "Yue Zhang",
+    "Wenming Xiao"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.acl-long.454",
+  "acl_url": "https://aclanthology.org/2021.acl-long.454/"
+}

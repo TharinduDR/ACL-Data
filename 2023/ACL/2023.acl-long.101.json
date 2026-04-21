@@ -1,0 +1,21 @@
+{
+  "title": "A Cautious Generalization Goes a Long Way: Learning Morphophonological Rules",
+  "authors": [
+    "Salam Khalifa",
+    "Sarah Payne",
+    "Jordan Kodner",
+    "Ellen Broselow",
+    "Owen Rambow"
+  ],
+  "languages": [
+    "Arabic",
+    "Sudanese Arabic"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.acl-long.101",
+  "acl_url": "https://aclanthology.org/2023.acl-long.101/"
+}

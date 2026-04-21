@@ -1,0 +1,19 @@
+{
+  "title": "Direct Fact Retrieval from Knowledge Graphs without Entity Linking",
+  "authors": [
+    "Jinheon Baek",
+    "Alham Fikri Aji",
+    "Jens Lehmann",
+    "Sung Ju Hwang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.acl-long.558",
+  "acl_url": "https://aclanthology.org/2023.acl-long.558/"
+}

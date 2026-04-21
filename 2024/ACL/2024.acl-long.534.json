@@ -1,0 +1,35 @@
+{
+  "title": "MERA: A Comprehensive LLM Evaluation in Russian",
+  "authors": [
+    "Alena Fenogenova",
+    "Artem Chervyakov",
+    "Nikita Martynov",
+    "Anastasia Kozlova",
+    "Maria Tikhonova",
+    "Albina Akhmetgareeva",
+    "Anton Emelyanov",
+    "Denis Shevelev",
+    "Pavel Lebedev",
+    "Leonid Sinev",
+    "Ulyana Isaeva",
+    "Katerina Kolomeytseva",
+    "Daniil Moskovskiy",
+    "Elizaveta Goncharova",
+    "Nikita Savushkin",
+    "Polina Mikhailova",
+    "Anastasia Minaeva",
+    "Denis Dimitrov",
+    "Alexander Panchenko",
+    "Sergei Markov"
+  ],
+  "languages": [
+    "Russian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.acl-long.534",
+  "acl_url": "https://aclanthology.org/2024.acl-long.534/"
+}

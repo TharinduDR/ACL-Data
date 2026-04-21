@@ -1,0 +1,35 @@
+{
+  "title": "Sharing Encoder Representations across Languages, Domains and Tasks in Large-Scale Spoken Language Understanding",
+  "authors": [
+    "Jonathan Hueser",
+    "Judith Gaspers",
+    "Thomas Guedre",
+    "Chandana Satya Prakash",
+    "Jin Cao",
+    "Daniil Sorokin",
+    "Quynh Do",
+    "Nicolas Anastassacos",
+    "Tobias Falke",
+    "Turan Gojayev",
+    "Mariusz Momotko",
+    "Denis Romasanta Rodriguez",
+    "Austin Doolittle",
+    "Kartik Balasubramaniam",
+    "Wael Hamza",
+    "Fabian Trifienbach",
+    "Patrick Lehnen"
+  ],
+  "languages": [
+    "German",
+    "Italian",
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-industry.43",
+  "acl_url": "https://aclanthology.org/2023.acl-industry.43/"
+}

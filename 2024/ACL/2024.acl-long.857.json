@@ -1,0 +1,21 @@
+{
+  "title": "NounAtlas: Filling the Gap in Nominal Semantic Role Labeling",
+  "authors": [
+    "Roberto Navigli",
+    "Marco Lo Pinto",
+    "Pasquale Silvestri",
+    "Dennis Rotondi",
+    "Simone Ciciliano",
+    "Alessandro Scire"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.acl-long.857",
+  "acl_url": "https://aclanthology.org/2024.acl-long.857/"
+}

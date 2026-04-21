@@ -1,0 +1,21 @@
+{
+  "title": "Language-aware Interlingua for Multilingual Neural Machine Translation",
+  "authors": [
+    "Changfeng Zhu",
+    "Heng Yu",
+    "Shanbo Cheng",
+    "Weihua Luo"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.acl-main.150",
+  "acl_url": "https://aclanthology.org/2020.acl-main.150/"
+}

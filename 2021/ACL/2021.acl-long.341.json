@@ -1,0 +1,21 @@
+{
+  "title": "RADDLE: An Evaluation Benchmark and Analysis Platform for Robust Task-oriented Dialog Systems",
+  "authors": [
+    "Baolin Peng",
+    "Chunyuan Li",
+    "Zhu Zhang",
+    "Chenguang Zhu",
+    "Jinchao Li",
+    "Jianfeng Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.acl-long.341",
+  "acl_url": "https://aclanthology.org/2021.acl-long.341/"
+}

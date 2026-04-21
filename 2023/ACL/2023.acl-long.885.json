@@ -1,0 +1,20 @@
+{
+  "title": "Few-shot Reranking for Multi-hop QA via Language Model Prompting",
+  "authors": [
+    "Muhammad Khalifa",
+    "Lajanugen Logeswaran",
+    "Moontae Lee",
+    "Honglak Lee",
+    "Lu Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.acl-long.885",
+  "acl_url": "https://aclanthology.org/2023.acl-long.885/"
+}

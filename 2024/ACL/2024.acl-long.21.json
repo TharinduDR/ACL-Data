@@ -1,0 +1,29 @@
+{
+  "title": "Retrieval-Augmented Multilingual Knowledge Editing",
+  "authors": [
+    "Weixuan Wang",
+    "Barry Haddow",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Dutch",
+    "Spanish",
+    "French",
+    "Portuguese",
+    "Russian",
+    "Thai",
+    "Turkish",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation",
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.acl-long.21",
+  "acl_url": "https://aclanthology.org/2024.acl-long.21/"
+}

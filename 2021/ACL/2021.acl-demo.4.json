@@ -1,0 +1,26 @@
+{
+  "title": "TextBox: A Unified, Modularized, and Extensible Framework for Text Generation",
+  "authors": [
+    "Junyi Li",
+    "Tianyi Tang",
+    "Gaole He",
+    "Jinhao Jiang",
+    "Xiaoxuan Hu",
+    "Puzhao Xie",
+    "Zhipeng Chen",
+    "Zhuohao Yu",
+    "Wayne Xin Zhao",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.acl-demo.4",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.4/"
+}

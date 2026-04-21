@@ -1,0 +1,26 @@
+{
+  "title": "The Microsoft Toolkit of Multi-Task Deep Neural Networks for Natural Language Understanding",
+  "authors": [
+    "Xiaodong Liu",
+    "Yu Wang",
+    "Jianshu Ji",
+    "Hao Cheng",
+    "Xueyun Zhu",
+    "Emmanuel Awa",
+    "Pengcheng He",
+    "Weizhu Chen",
+    "Hoifung Poon",
+    "Guihong Cao",
+    "Jianfeng Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.acl-demos.16",
+  "acl_url": "https://aclanthology.org/2020.acl-demos.16/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "A Monolingual Approach to Contextualized Word Embeddings for Mid-Resource Languages",
+  "authors": [
+    "Pedro Javier Ortiz Suárez",
+    "Laurent Romary",
+    "Benoît Sagot"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Catalan",
+    "Danish",
+    "Finnish",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-main.156",
+  "acl_url": "https://aclanthology.org/2020.acl-main.156/"
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Expanding Pretrained Models to Thousands More Languages via Lexicon-based Adaptation",
+  "authors": [
+    "Xinyi Wang",
+    "Sebastian Ruder",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Maltese",
+    "Achinese",
+    "Bashkir",
+    "Crimean Turkish",
+    "Hakka Chinese",
+    "Igbo",
+    "Ilokano",
+    "Kinyarwanda",
+    "Eastern Mari",
+    "Maori",
+    "Hausa",
+    "Wolof",
+    "Luganda",
+    "Luo",
+    "Bambara",
+    "Manx",
+    "Ancient Greek",
+    "Swiss German",
+    "Erzya"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.acl-long.61",
+  "acl_url": "https://aclanthology.org/2022.acl-long.61/"
+}

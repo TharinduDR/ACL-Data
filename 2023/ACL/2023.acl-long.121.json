@@ -1,0 +1,27 @@
+{
+  "title": "Improving Translation Quality Estimation with Bias Mitigation",
+  "authors": [
+    "Hui Huang",
+    "Shuangzhi Wu",
+    "Kehai Chen",
+    "Hui Di",
+    "Muyun Yang",
+    "Tiejun Zhao"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Romanian",
+    "Russian",
+    "Sinhala",
+    "Nepali"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.121",
+  "acl_url": "https://aclanthology.org/2023.acl-long.121/"
+}

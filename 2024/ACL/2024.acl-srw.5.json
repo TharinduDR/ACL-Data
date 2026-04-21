@@ -1,0 +1,22 @@
+{
+  "title": "Speech-to-Speech Translation with Discrete-Unit-Based Style Transfer",
+  "authors": [
+    "Yongqi Wang",
+    "Jionghao Bai",
+    "Rongjie Huang",
+    "Ruiqi Li",
+    "Zhiqing Hong",
+    "Zhou Zhao"
+  ],
+  "languages": [
+    "French",
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.acl-srw.5",
+  "acl_url": "https://aclanthology.org/2024.acl-srw.5/"
+}

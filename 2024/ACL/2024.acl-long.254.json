@@ -1,0 +1,24 @@
+{
+  "title": "A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains",
+  "authors": [
+    "Alon Jacovi",
+    "Yonatan Bitton",
+    "Bernd Bohnet",
+    "Jonathan Herzig",
+    "Or Honovich",
+    "Michael Tseng",
+    "Michael Collins",
+    "Roe Aharoni",
+    "Mor Geva"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.acl-long.254",
+  "acl_url": "https://aclanthology.org/2024.acl-long.254/"
+}

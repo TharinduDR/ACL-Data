@@ -1,0 +1,18 @@
+{
+  "title": "Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder",
+  "authors": [
+    "Zheng Tang",
+    "Gustave Hahn-Powell",
+    "Mihai Surdeanu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.acl-srw.23",
+  "acl_url": "https://aclanthology.org/2020.acl-srw.23/"
+}

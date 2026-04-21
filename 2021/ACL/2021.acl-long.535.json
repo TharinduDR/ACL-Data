@@ -1,0 +1,22 @@
+{
+  "title": "ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining",
+  "authors": [
+    "Alexander R. Fabbri",
+    "Faiaz Rahman",
+    "Imad Rizvi",
+    "Borui Wang",
+    "Haoran Li",
+    "Yashar Mehdad",
+    "Dragomir Radev"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.acl-long.535",
+  "acl_url": "https://aclanthology.org/2021.acl-long.535/"
+}

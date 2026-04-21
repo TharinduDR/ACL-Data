@@ -1,0 +1,21 @@
+{
+  "title": "TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition",
+  "authors": [
+    "Bill Yuchen Lin",
+    "Dong-Ho Lee",
+    "Ming Shen",
+    "Ryan Moreno",
+    "Xiao Huang",
+    "Prashant Shiralkar",
+    "Xiang Ren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.acl-main.752",
+  "acl_url": "https://aclanthology.org/2020.acl-main.752/"
+}

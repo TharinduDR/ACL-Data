@@ -1,0 +1,24 @@
+{
+  "title": "Learning In-context Learning for Named Entity Recognition",
+  "authors": [
+    "Jiawei Chen",
+    "Yaojie Lu",
+    "Hongyu Lin",
+    "Jie Lou",
+    "Wei Jia",
+    "Dai Dai",
+    "Hua Wu",
+    "Boxi Cao",
+    "Xianpei Han",
+    "Le Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.764",
+  "acl_url": "https://aclanthology.org/2023.acl-long.764/"
+}

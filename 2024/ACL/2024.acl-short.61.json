@@ -1,0 +1,20 @@
+{
+  "title": "Guidance-Based Prompt Data Augmentation in Specialized Domains for Named Entity Recognition",
+  "authors": [
+    "Hyeonseok Kang",
+    "Hyein Seo",
+    "Jeesu Jung",
+    "Sangkeun Jung",
+    "Du-Seong Chang",
+    "Riwoo Chung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.acl-short.61",
+  "acl_url": "https://aclanthology.org/2024.acl-short.61/"
+}

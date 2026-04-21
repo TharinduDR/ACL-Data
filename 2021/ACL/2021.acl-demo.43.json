@@ -1,0 +1,24 @@
+{
+  "title": "OpenAttack: An Open-source Textual Adversarial Attack Toolkit",
+  "authors": [
+    "Guoyang Zeng",
+    "Fanchao Qi",
+    "Qianrui Zhou",
+    "Tingji Zhang",
+    "Zixian Ma",
+    "Bairu Hou",
+    "Yuan Zang",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.acl-demo.43",
+  "acl_url": "https://aclanthology.org/2021.acl-demo.43/"
+}

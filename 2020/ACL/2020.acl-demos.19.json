@@ -1,0 +1,25 @@
+{
+  "title": "ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems",
+  "authors": [
+    "Qi Zhu",
+    "Zheng Zhang",
+    "Yan Fang",
+    "Xiang Li",
+    "Ryuichi Takanobu",
+    "Jinchao Li",
+    "Baolin Peng",
+    "Jianfeng Gao",
+    "Xiaoyan Zhu",
+    "Minlie Huang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.acl-demos.19",
+  "acl_url": "https://aclanthology.org/2020.acl-demos.19/"
+}

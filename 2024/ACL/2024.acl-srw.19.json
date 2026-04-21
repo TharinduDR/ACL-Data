@@ -1,0 +1,21 @@
+{
+  "title": "Label-Aware Automatic Verbalizer for Few-Shot Text Classification in Mid-To-Low Resource Languages",
+  "authors": [
+    "Thanakorn Thaminkaew",
+    "Piyawat Lertvittayakumjorn",
+    "Peerapon Vateekul"
+  ],
+  "languages": [
+    "Indonesian",
+    "Tagalog",
+    "Thai",
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.acl-srw.19",
+  "acl_url": "https://aclanthology.org/2024.acl-srw.19/"
+}

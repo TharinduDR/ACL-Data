@@ -1,0 +1,22 @@
+{
+  "title": "Multistage Collaborative Knowledge Distillation from a Large Language Model for Semi-Supervised Sequence Generation",
+  "authors": [
+    "Jiachen Zhao",
+    "Wenlong Zhao",
+    "Andrew Drozdov",
+    "Benjamin Rozonoyer",
+    "Md Arafat Sultan",
+    "Jay-Yoon Lee",
+    "Mohit Iyyer",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.acl-long.766",
+  "acl_url": "https://aclanthology.org/2024.acl-long.766/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "The Mechanical Bard: An Interpretable Machine Learning Approach to Shakespearean Sonnet Generation",
+  "authors": [
+    "Edwin Agnew",
+    "Michelle Qiu",
+    "Lily Zhu",
+    "Sam Wiseman",
+    "Cynthia Rudin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2023.acl-short.140",
+  "acl_url": "https://aclanthology.org/2023.acl-short.140/"
+}

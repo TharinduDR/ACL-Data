@@ -1,0 +1,21 @@
+{
+  "title": "Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models",
+  "authors": [
+    "Victor Agostinelli",
+    "Max Wild",
+    "Matthew Raffel",
+    "Kazi Ahmed Asif Fuad",
+    "Lizhong Chen"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2024.acl-long.567",
+  "acl_url": "https://aclanthology.org/2024.acl-long.567/"
+}

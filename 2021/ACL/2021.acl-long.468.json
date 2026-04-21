@@ -1,0 +1,24 @@
+{
+  "title": "Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation",
+  "authors": [
+    "Xin Liu",
+    "Baosong Yang",
+    "Dayiheng Liu",
+    "Haibo Zhang",
+    "Weihua Luo",
+    "Min Zhang",
+    "Haibing Zhang",
+    "Jinsong Su"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.acl-long.468",
+  "acl_url": "https://aclanthology.org/2021.acl-long.468/"
+}

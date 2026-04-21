@@ -1,0 +1,19 @@
+{
+  "title": "Japanese-to-English Simultaneous Dubbing Prototype",
+  "authors": [
+    "Xiaolin Wang",
+    "Masao Utiyama",
+    "Eiichiro Sumita"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.acl-demo.16",
+  "acl_url": "https://aclanthology.org/2023.acl-demo.16/"
+}

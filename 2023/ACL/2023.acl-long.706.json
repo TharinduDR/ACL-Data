@@ -1,0 +1,28 @@
+{
+  "title": "DT-Solver: Automated Theorem Proving with Dynamic-Tree Sampling Guided by Proof-level Value Function",
+  "authors": [
+    "Haiming Wang",
+    "Ye Yuan",
+    "Zhengying Liu",
+    "Jianhao Shen",
+    "Yichun Yin",
+    "Jing Xiong",
+    "Enze Xie",
+    "Han Shi",
+    "Yujun Li",
+    "Lin Li",
+    "Jian Yin",
+    "Zhenguo Li",
+    "Xiaodan Liang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2023.acl-long.706",
+  "acl_url": "https://aclanthology.org/2023.acl-long.706/"
+}

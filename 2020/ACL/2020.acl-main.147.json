@@ -1,0 +1,19 @@
+{
+  "title": "Enhancing Machine Translation with Dependency-Aware Self-Attention",
+  "authors": [
+    "Emanuele Bugliarello",
+    "Naoaki Okazaki"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Turkish",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.acl-main.147",
+  "acl_url": "https://aclanthology.org/2020.acl-main.147/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "LM-CPPF: Paraphrasing-Guided Data Augmentation for Contrastive Prompt-Based Few-Shot Fine-Tuning",
+  "authors": [
+    "Amirhossein Abaskohi",
+    "Sascha Rothe",
+    "Yadollah Yaghoobzadeh"
+  ],
+  "languages": [
+    "Arabic",
+    "French",
+    "German",
+    "Chinese",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.acl-short.59",
+  "acl_url": "https://aclanthology.org/2023.acl-short.59/"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "DITTO: Data-efficient and Fair Targeted Subset Selection for ASR Accent Adaptation",
+  "authors": [
+    "Suraj Kothawade",
+    "Anmol Mekala",
+    "Chandra Sekhara D",
+    "Mayank Kothari",
+    "Rishabh Iyer",
+    "Ganesh Ramakrishnan",
+    "Preeti Jyothi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Kannada",
+    "Tamil",
+    "Malayalam",
+    "Assamese",
+    "Manipuri",
+    "Vietnamese",
+    "Chinese",
+    "Arabic",
+    "Korean",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.acl-long.319",
+  "acl_url": "https://aclanthology.org/2023.acl-long.319/"
+}

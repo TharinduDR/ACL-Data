@@ -1,0 +1,20 @@
+{
+  "title": "QAConv: Question Answering on Informative Conversations",
+  "authors": [
+    "Chien-Sheng Wu",
+    "Andrea Madotto",
+    "Wen Hao Liu",
+    "Pascale Fung",
+    "Caiming Xiong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2022.acl-long.370",
+  "acl_url": "https://aclanthology.org/2022.acl-long.370/"
+}

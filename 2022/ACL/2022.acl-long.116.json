@@ -1,0 +1,26 @@
+{
+  "title": "Domain Knowledge Transferring for Pre-trained Language Model via Calibrated Activation Boundary Distillation",
+  "authors": [
+    "Dongha Choi",
+    "HongSeok Choi",
+    "Hyunju Lee"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2022.acl-long.116",
+  "acl_url": "https://aclanthology.org/2022.acl-long.116/"
+}

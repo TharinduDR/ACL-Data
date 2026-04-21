@@ -1,0 +1,21 @@
+{
+  "title": "Won't Get Fooled Again: Answering Questions with False Premises",
+  "authors": [
+    "Shengding Hu",
+    "Yifan Luo",
+    "Huadong Wang",
+    "Xingyi Cheng",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.acl-long.309",
+  "acl_url": "https://aclanthology.org/2023.acl-long.309/"
+}

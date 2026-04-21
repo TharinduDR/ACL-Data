@@ -1,0 +1,20 @@
+{
+  "title": "DuReader_robust: A Chinese Dataset Towards Evaluating Robustness and Generalization of Machine Reading Comprehension in Real-World Applications",
+  "authors": [
+    "Hongxuan Tang",
+    "Hongyu Li",
+    "Jing Liu",
+    "Yu Hong",
+    "Hua Wu",
+    "Haifeng Wang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.acl-short.120",
+  "acl_url": "https://aclanthology.org/2021.acl-short.120/"
+}

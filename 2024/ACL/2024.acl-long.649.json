@@ -1,0 +1,27 @@
+{
+  "title": "mCoT: Multilingual Instruction Tuning for Reasoning Consistency in Language Models",
+  "authors": [
+    "Huiyuan Lai",
+    "Malvina Nissim"
+  ],
+  "languages": [
+    "English",
+    "Swahili",
+    "Bengali",
+    "Chinese",
+    "French",
+    "German",
+    "Japanese",
+    "Russian",
+    "Spanish",
+    "Telugu",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.649",
+  "acl_url": "https://aclanthology.org/2024.acl-long.649/"
+}

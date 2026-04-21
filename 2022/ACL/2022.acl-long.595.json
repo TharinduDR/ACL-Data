@@ -1,0 +1,29 @@
+{
+  "title": "Bilingual alignment transfers to multilingual alignment for unsupervised parallel text mining",
+  "authors": [
+    "Chih-chan Tien",
+    "Shane Steinert-Threlkeld"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Chinese",
+    "Swahili",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.acl-long.595",
+  "acl_url": "https://aclanthology.org/2022.acl-long.595/"
+}

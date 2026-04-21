@@ -1,0 +1,24 @@
+{
+  "title": "Intermediate-Task Transfer Learning with Pretrained Models for Natural Language Understanding: When and Why Does It Work?",
+  "authors": [
+    "Yada Pruksachatkun",
+    "Jason Phang",
+    "Haokun Liu",
+    "Phu Mon Htut",
+    "Xiaoyi Zhang",
+    "Richard Yuanzhe Pang",
+    "Clara Vania",
+    "Katharina Kann",
+    "Samuel R. Bowman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2020.acl-main.467",
+  "acl_url": "https://aclanthology.org/2020.acl-main.467/"
+}

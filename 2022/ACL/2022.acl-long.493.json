@@ -1,0 +1,28 @@
+{
+  "title": "Hyperlink-induced Pre-training for Passage Retrieval in Open-domain Question Answering",
+  "authors": [
+    "Jiawei Zhou",
+    "Xiaoguang Li",
+    "Lifeng Shang",
+    "Lan Luo",
+    "Ke Zhan",
+    "Enrui Hu",
+    "Xinyu Zhang",
+    "Hao Jiang",
+    "Zhao Cao",
+    "Fan Yu",
+    "Xin Jiang",
+    "Qun Liu",
+    "Lei Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.acl-long.493",
+  "acl_url": "https://aclanthology.org/2022.acl-long.493/"
+}

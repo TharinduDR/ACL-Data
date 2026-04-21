@@ -1,0 +1,31 @@
+{
+  "title": "UltraLink: An Open-Source Knowledge-Enhanced Multilingual Supervised Fine-tuning Dataset",
+  "authors": [
+    "Haoyu Wang",
+    "Shuo Wang",
+    "Yukun Yan",
+    "Xujia Wang",
+    "Zhiyu Yang",
+    "Yuzhuang Xu",
+    "Zhenghao Liu",
+    "Liner Yang",
+    "Ning Ding",
+    "Xu Han",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Russian",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.acl-long.644",
+  "acl_url": "https://aclanthology.org/2024.acl-long.644/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension",
+  "authors": [
+    "Bo Zheng",
+    "Haoyang Wen",
+    "Yaobo Liang",
+    "Nan Duan",
+    "Wanxiang Che",
+    "Daxin Jiang",
+    "Ming Zhou",
+    "Ting Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2020.acl-main.599",
+  "acl_url": "https://aclanthology.org/2020.acl-main.599/"
+}

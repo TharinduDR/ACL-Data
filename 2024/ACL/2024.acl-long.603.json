@@ -1,0 +1,39 @@
+{
+  "title": "Enhancing Multilingual Capabilities of Large Language Models through Self-Distillation from Resource-Rich Languages",
+  "authors": [
+    "Yuanchi Zhang",
+    "Yile Wang",
+    "Zijun Liu",
+    "Shuo Wang",
+    "Xiaolong Wang",
+    "Peng Li",
+    "Maosong Sun",
+    "Yang Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Slovenian",
+    "Vietnamese",
+    "Polish",
+    "Czech",
+    "Danish",
+    "Ukrainian",
+    "Finnish",
+    "Hungarian",
+    "Norwegian",
+    "Bulgarian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.acl-long.603",
+  "acl_url": "https://aclanthology.org/2024.acl-long.603/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Addressing Semantic Drift in Generative Question Answering with Auxiliary Extraction",
+  "authors": [
+    "Chenliang Li",
+    "Bin Bi",
+    "Ming Yan",
+    "Wei Wang",
+    "Songfang Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.acl-short.118",
+  "acl_url": "https://aclanthology.org/2021.acl-short.118/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "ActionIE: Action Extraction from Scientific Literature with Programming Languages",
+  "authors": [
+    "Xianrui Zhong",
+    "Yufeng Du",
+    "Siru Ouyang",
+    "Ming Zhong",
+    "Tingfeng Luo",
+    "Qirong Ho",
+    "Hao Peng",
+    "Heng Ji",
+    "Jiawei Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.acl-long.683",
+  "acl_url": "https://aclanthology.org/2024.acl-long.683/"
+}

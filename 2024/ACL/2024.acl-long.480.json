@@ -1,0 +1,19 @@
+{
+  "title": "Decoder-only Streaming Transformer for Simultaneous Translation",
+  "authors": [
+    "Shoutao Guo",
+    "Shaolei Zhang",
+    "Yang Feng"
+  ],
+  "languages": [
+    "English",
+    "Vietnamese",
+    "Romanian",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.acl-long.480",
+  "acl_url": "https://aclanthology.org/2024.acl-long.480/"
+}
