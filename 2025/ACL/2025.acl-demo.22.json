@@ -1,0 +1,21 @@
+{
+  "title": "DEEP: an automatic bidirectional translator leveraging an ASR for translation of Italian sign language",
+  "authors": [
+    "Nicolas Tagliabue",
+    "Elisa Colletti",
+    "Roberto Tedesco",
+    "Francesco Roberto Dani",
+    "Alessandro Trivilini",
+    "Sonia Cenceschi"
+  ],
+  "languages": [
+    "Italian",
+    "Italian Sign Language"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.acl-demo.22",
+  "acl_url": "https://aclanthology.org/2025.acl-demo.22/"
+}

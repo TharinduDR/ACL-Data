@@ -1,0 +1,24 @@
+{
+  "title": "CoDesc: A Large Code-Description Parallel Dataset",
+  "authors": [
+    "Masum Hasan",
+    "Tanveer Muttaqueen",
+    "Abdullah Al Ishtiaq",
+    "Kazi Sajeed Mehrab",
+    "Md. Mahim Anjum Haque",
+    "Tahmid Hasan",
+    "Wasi Uddin Ahmad",
+    "Anindya Iqbal",
+    "Rifat Shahriyar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T18 Text Summarization",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2021.findings-acl.18",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.18/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Improving Sharpness-Aware Minimization with Fisher Mask for Better Generalization on Language Models",
+  "authors": [
+    "Qihuang Zhong",
+    "Liang Ding",
+    "Li Shen",
+    "Peng Mi",
+    "Juhua Liu",
+    "Bo Du",
+    "Dacheng Tao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2022.findings-emnlp.300",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.300/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "VISITRON: Visual Semantics-Aligned Interactively Trained Object-Navigator",
+  "authors": [
+    "Ayush Shrivastava",
+    "Karthik Gopalakrishnan",
+    "Yang Liu",
+    "Robinson Piramuthu",
+    "Gokhan Tür",
+    "Devi Parikh",
+    "Dilek Hakkani-Tür"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.findings-acl.157",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.157/"
+}

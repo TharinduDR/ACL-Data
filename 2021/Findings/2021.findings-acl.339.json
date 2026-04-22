@@ -1,0 +1,45 @@
+{
+  "title": "Leveraging Abstract Meaning Representation for Knowledge Base Question Answering",
+  "authors": [
+    "Pavan Kapanipathi",
+    "Ibrahim Abdelaziz",
+    "Srinivas Ravishankar",
+    "Salim Roukos",
+    "Alexander Gray",
+    "Ramon Astudillo",
+    "Maria Chang",
+    "Cristina Corneliu",
+    "Saswati Dana",
+    "Achille Fokoue",
+    "Dinesh Garg",
+    "Alfio Gliozzo",
+    "Sairam Gurajada",
+    "Hima Karanam",
+    "Naweed Khan",
+    "Dinesh Khandelwal",
+    "Young-Suk Lee",
+    "Yunyao Li",
+    "Francois Luus",
+    "Ndihvuwo Makondo",
+    "Nandana Mihindukulasooriya",
+    "Tahira Naseem",
+    "Sumit Neelam",
+    "Lucian Popa",
+    "Revanth Reddy",
+    "Ryan Riegel",
+    "Gaetano Rossiello",
+    "Udit Sharma",
+    "G P Shrivatsa Bhargav",
+    "Mo Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-acl.339",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.339/"
+}

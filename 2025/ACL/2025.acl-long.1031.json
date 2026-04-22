@@ -1,0 +1,23 @@
+{
+  "title": "Uncovering the Impact of Chain-of-Thought Reasoning for Direct Preference Optimization: Lessons from Text-to-SQL",
+  "authors": [
+    "Hanbing Liu",
+    "Haoyang Li",
+    "Xiaokang Zhang",
+    "Ruotong Chen",
+    "Haiyong Xu",
+    "Tian Tian",
+    "Qi Qi",
+    "Jing Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1031",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1031/"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "A Survey of Data Augmentation Approaches for NLP",
+  "authors": [
+    "Steven Y. Feng",
+    "Varun Gangal",
+    "Jason Wei",
+    "Sarah Chandar",
+    "Sorosh Vosoughi",
+    "Teruko Mitamura",
+    "Eduard Hovy"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Turkish",
+    "Persian",
+    "German",
+    "Cantonese",
+    "Portuguese",
+    "Swahili",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2021.findings-acl.84",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.84/"
+}

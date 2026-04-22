@@ -1,0 +1,26 @@
+{
+  "title": "Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning?",
+  "authors": [
+    "Yancheng He",
+    "Shilong Li",
+    "Jiaheng Liu",
+    "Weixun Wang",
+    "Xingyuan Bu",
+    "Ge Zhang",
+    "Zhongyuan Peng",
+    "Zhaoxiang Zhang",
+    "Zhicheng Zheng",
+    "Wenbo Su",
+    "Bo Zheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2025.acl-long.905",
+  "acl_url": "https://aclanthology.org/2025.acl-long.905/"
+}

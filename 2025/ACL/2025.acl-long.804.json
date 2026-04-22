@@ -1,0 +1,27 @@
+{
+  "title": "Aligning Large Language Models to Follow Instructions and Hallucinate Less via Effective Data Filtering",
+  "authors": [
+    "Shuzheng Si",
+    "Haozhe Zhao",
+    "Gang Chen",
+    "Cheng Gao",
+    "Yuzhuo Bai",
+    "Zhitong Wang",
+    "Kaikai An",
+    "Kangyang Luo",
+    "Chen Qian",
+    "Fanchao Qi",
+    "Baobao Chang",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.acl-long.804",
+  "acl_url": "https://aclanthology.org/2025.acl-long.804/"
+}

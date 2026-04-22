@@ -1,0 +1,29 @@
+{
+  "title": "CulFiT: A Fine-grained Cultural-aware LLM Training Paradigm via Multilingual Critique Data Synthesis",
+  "authors": [
+    "Ruixiang Feng",
+    "Shen Gao",
+    "Xiuying Chen",
+    "Lisi Chen",
+    "Shuo Shang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Indonesian",
+    "Korean",
+    "Persian",
+    "Arabic",
+    "Sundanese",
+    "Hausa",
+    "Amharic"
+  ],
+  "research_areas": [
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.1092",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1092/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Token Prepending: A Training-Free Approach for Eliciting Better Sentence Embeddings from LLMs",
+  "authors": [
+    "Yuchen Fu",
+    "Zifeng Cheng",
+    "Zhiwei Jiang",
+    "Zhonghui Wang",
+    "Yafeng Yin",
+    "Zhengliang Li",
+    "Qing Gu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.159",
+  "acl_url": "https://aclanthology.org/2025.acl-long.159/"
+}

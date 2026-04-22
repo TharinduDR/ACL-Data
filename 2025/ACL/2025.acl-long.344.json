@@ -1,0 +1,27 @@
+{
+  "title": "UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations",
+  "authors": [
+    "Fengran Mo",
+    "Yifan Gao",
+    "Chuan Meng",
+    "Xin Liu",
+    "Zhuofeng Wu",
+    "Kelong Mao",
+    "Zhengyang Wang",
+    "Pei Chen",
+    "Zheng Li",
+    "Xian Li",
+    "Bing Yin",
+    "Meng Jiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.344",
+  "acl_url": "https://aclanthology.org/2025.acl-long.344/"
+}

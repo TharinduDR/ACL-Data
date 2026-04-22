@@ -1,0 +1,21 @@
+{
+  "title": "Minimally-Supervised Morphological Segmentation using Adaptor Grammars with Linguistic Priors",
+  "authors": [
+    "Ramy Eskander",
+    "Cass Lowry",
+    "Sujay Khandagale",
+    "Francesca Callejas",
+    "Judith Klavans",
+    "Maria Polinsky",
+    "Smaranda Muresan"
+  ],
+  "languages": [
+    "Japanese",
+    "Georgian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-acl.347",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.347/"
+}

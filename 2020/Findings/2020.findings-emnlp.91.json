@@ -1,0 +1,21 @@
+{
+  "title": "HybridQA: A Dataset of Multi-Hop Question Answering over Tabular and Textual Data",
+  "authors": [
+    "Wenhu Chen",
+    "Hanwen Zha",
+    "Zhiyu Chen",
+    "Wenhan Xiong",
+    "Hong Wang",
+    "William Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.91",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.91/"
+}

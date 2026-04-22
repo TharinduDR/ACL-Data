@@ -1,0 +1,23 @@
+{
+  "title": "Enhancing Neural Machine Translation Through Target Language Data: A kNN-LM Approach for Domain Adaptation",
+  "authors": [
+    "Abudurexiti Reheman",
+    "Hongyu Liu",
+    "Junhao Ruan",
+    "Abdukeyumu Abudula",
+    "Yingfeng Luo",
+    "Tong Xiao",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.acl-long.496",
+  "acl_url": "https://aclanthology.org/2025.acl-long.496/"
+}

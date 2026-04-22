@@ -1,0 +1,22 @@
+{
+  "title": "Optimizing Word Segmentation for Downstream Task",
+  "authors": [
+    "Tatsuya Hiraoka",
+    "Sho Takase",
+    "Kei Uchiumi",
+    "Atsushi Keyaki",
+    "Naoaki Okazaki"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.findings-emnlp.120",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.120/"
+}

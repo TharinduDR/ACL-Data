@@ -1,0 +1,21 @@
+{
+  "title": "Two-Step Question Retrieval for Open-Domain QA",
+  "authors": [
+    "Yeon Seonwoo",
+    "Juhee Son",
+    "Jiho Jin",
+    "Sang-Woo Lee",
+    "Ji-Hoon Kim",
+    "Jung-Woo Ha",
+    "Alice Oh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.findings-acl.117",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.117/"
+}

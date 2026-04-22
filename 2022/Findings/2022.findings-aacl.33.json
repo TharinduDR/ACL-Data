@@ -1,0 +1,20 @@
+{
+  "title": "Multilingual Auxiliary Tasks Training: Bridging the Gap between Languages for Zero-Shot Transfer of Hate Speech Detection Models",
+  "authors": [
+    "Syrielle Montariol",
+    "Arij Riabi",
+    "Djamé Seddah"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-aacl.33",
+  "acl_url": "https://aclanthology.org/2022.findings-aacl.33/"
+}

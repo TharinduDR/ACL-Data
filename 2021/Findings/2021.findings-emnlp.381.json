@@ -1,0 +1,19 @@
+{
+  "title": "HAConvGNN: Hierarchical Attention Based Convolutional Graph Neural Network for Code Documentation Generation in Jupyter Notebooks",
+  "authors": [
+    "Xuye Liu",
+    "Dakuo Wang",
+    "April Yi Wang",
+    "Yufang Hou",
+    "Lingfei Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.findings-emnlp.381",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.381/"
+}

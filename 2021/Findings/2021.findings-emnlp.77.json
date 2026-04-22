@@ -1,0 +1,19 @@
+{
+  "title": "Few-Shot Table-to-Text Generation with Prototype Memory",
+  "authors": [
+    "Yixuan Su",
+    "Zaiqiao Meng",
+    "Simon Baker",
+    "Nigel Collier"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.findings-emnlp.77",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.77/"
+}

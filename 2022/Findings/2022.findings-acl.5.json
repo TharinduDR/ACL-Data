@@ -1,0 +1,18 @@
+{
+  "title": "RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction",
+  "authors": [
+    "Yew Ken Chia",
+    "Lidong Bing",
+    "Soujanya Poria",
+    "Luo Si"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.findings-acl.5",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.5/"
+}

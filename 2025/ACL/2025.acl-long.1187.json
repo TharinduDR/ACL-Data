@@ -1,0 +1,21 @@
+{
+  "title": "STaR-SQL: Self-Taught Reasoner for Text-to-SQL",
+  "authors": [
+    "Mingqian He",
+    "Yongliang Shen",
+    "Wenqi Zhang",
+    "Qiuying Peng",
+    "Jun Wang",
+    "Weiming Lu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-long.1187",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1187/"
+}

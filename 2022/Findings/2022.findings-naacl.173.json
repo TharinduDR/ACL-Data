@@ -1,0 +1,17 @@
+{
+  "title": "Improve Discourse Dependency Parsing with Contextualized Representations",
+  "authors": [
+    "Yifei Zhou",
+    "Yansong Feng"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.findings-naacl.173",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.173/"
+}

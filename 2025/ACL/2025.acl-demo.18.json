@@ -1,0 +1,46 @@
+{
+  "title": "OLMoTRACE: Tracing Language Model Outputs Back to Trillions of Training Tokens",
+  "authors": [
+    "Jiacheng Liu",
+    "Taylor Blanton",
+    "Yanai Elazar",
+    "Sewon Min",
+    "YenSung Chen",
+    "Arnavi Chheda-Kothary",
+    "Huy Tran",
+    "Byron Bischoff",
+    "Eric Marsh",
+    "Michael Schmitz",
+    "Cassidy Trier",
+    "Aaron Sarnat",
+    "Jenna James",
+    "Jon Borchardt",
+    "Bailey Kuehl",
+    "Evie Cheng",
+    "Karen Farley",
+    "Sruthi Sreeram",
+    "Taira Anderson",
+    "David Albright",
+    "Carissa Schoenick",
+    "Luca Soldaini",
+    "Dirk Groeneveld",
+    "Rock Yuren Pang",
+    "Pang Wei Koh",
+    "Noah A. Smith",
+    "Sophie Lebrecht",
+    "Yejin Choi",
+    "Hannaneh Hajishirzi",
+    "Ali Farhadi",
+    "Jesse Dodge"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-demo.18",
+  "acl_url": "https://aclanthology.org/2025.acl-demo.18/"
+}

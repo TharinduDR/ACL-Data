@@ -1,0 +1,23 @@
+{
+  "title": "ACORD: An Expert-Annotated Dataset for Legal Contract Clause Retrieval",
+  "authors": [
+    "Steven H. Wang",
+    "Maksim Zubkov",
+    "Kexin Fan",
+    "Sarah Harrell",
+    "Yuyang Sun",
+    "Wei Chen",
+    "Andreas Plesner",
+    "Roger Wattenhofer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.acl-long.1206",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1206/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions",
+  "authors": [
+    "Jiazhaol Li",
+    "Corey Lester",
+    "Xinyan Zhao",
+    "Yuting Ding",
+    "Yun Jiang",
+    "V.G. Vinod Vydiswaran"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.findings-emnlp.251",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.251/"
+}

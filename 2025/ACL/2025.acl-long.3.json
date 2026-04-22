@@ -1,0 +1,44 @@
+{
+  "title": "M-REWARDBENCH: Evaluating Reward Models in Multilingual Settings",
+  "authors": [
+    "Srishti Gureja",
+    "Lester James V. Miranda",
+    "Shayekh Bin Islam",
+    "Rishabh Maheshwary",
+    "Drishti Sharma",
+    "Gusti Winata",
+    "Nathan Lambert",
+    "Sebastian Ruder",
+    "Sara Hooker",
+    "Marzieh Fadaee"
+  ],
+  "languages": [
+    "Arabic",
+    "Czech",
+    "German",
+    "Greek",
+    "French",
+    "Hebrew",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Spanish",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.3",
+  "acl_url": "https://aclanthology.org/2025.acl-long.3/"
+}

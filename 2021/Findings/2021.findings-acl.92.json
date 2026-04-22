@@ -1,0 +1,20 @@
+{
+  "title": "Investigating the Reordering Capability in CTC-based Non-Autoregressive End-to-End Speech Translation",
+  "authors": [
+    "Shun-Po Chuang",
+    "Yung-Sung Chuang",
+    "Chih-Chiang Chang",
+    "Hung-yi Lee"
+  ],
+  "languages": [
+    "Spanish",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.findings-acl.92",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.92/"
+}

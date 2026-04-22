@@ -1,0 +1,23 @@
+{
+  "title": "Language Constrained Multimodal Hyper Adapter For Many-to-Many Multimodal Summarization",
+  "authors": [
+    "Nayu Liu",
+    "Fanglong Yao",
+    "Haoran Luo",
+    "Yong Yang",
+    "Chen Tang",
+    "Bo Lv"
+  ],
+  "languages": [
+    "English",
+    "Indonesian",
+    "Russian",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.acl-long.1229",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1229/"
+}

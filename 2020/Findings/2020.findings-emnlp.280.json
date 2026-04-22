@@ -1,0 +1,23 @@
+{
+  "title": "Neutralizing Gender Bias in Word Embeddings with Latent Disentanglement and Counterfactual Generation",
+  "authors": [
+    "Seungjae Shin",
+    "Kyungwoo Song",
+    "JoonHo Jang",
+    "Hyemi Kim",
+    "Weonyoung Joo",
+    "Il-Chul Moon"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Korean"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.280",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.280/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "On Romanization for Model Transfer Between Scripts in Neural Machine Translation",
+  "authors": [
+    "Chantal Amrhein",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "French",
+    "Russian",
+    "Chinese",
+    "Amharic",
+    "Marathi",
+    "Tamil",
+    "Hebrew",
+    "Yiddish",
+    "Maltese",
+    "Serbo-Croatian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.findings-emnlp.223",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.223/"
+}

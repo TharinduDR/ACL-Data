@@ -1,0 +1,20 @@
+{
+  "title": "SEQZERO: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models",
+  "authors": [
+    "Jingfeng Yang",
+    "Haoming Jiang",
+    "Qingyu Yin",
+    "Danqing Zhang",
+    "Bing Yin",
+    "Diyi Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-naacl.5",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.5/"
+}

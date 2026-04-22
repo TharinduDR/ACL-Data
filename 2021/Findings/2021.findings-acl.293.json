@@ -1,0 +1,20 @@
+{
+  "title": "DISFL-QA: A Benchmark Dataset for Understanding Disfluencies in Question Answering",
+  "authors": [
+    "Aditya Gupta",
+    "Jiacheng Xu",
+    "Shyam Upadhyay",
+    "Diyi Yang",
+    "Manaal Faruqui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.findings-acl.293",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.293/"
+}

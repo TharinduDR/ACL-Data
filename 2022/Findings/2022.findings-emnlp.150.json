@@ -1,0 +1,21 @@
+{
+  "title": "CQR-SQL: Conversational Question Reformulation Enhanced Context-Dependent Text-to-SQL Parsers",
+  "authors": [
+    "Dongling Xiao",
+    "Linzhen Chai",
+    "Qian-Wen Zhang",
+    "Zhao Yan",
+    "Zhoujun Li",
+    "Yunbo Cao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.findings-emnlp.150",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.150/"
+}

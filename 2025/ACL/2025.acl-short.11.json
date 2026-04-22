@@ -1,0 +1,22 @@
+{
+  "title": "Grounded, or a Good Guesser? A Per-Question Balanced Dataset to Separate Blind from Grounded Models for Embodied Question Answering",
+  "authors": [
+    "Miles Shelton",
+    "Nate Wingerd",
+    "Kritim K. Rijal",
+    "Ayush Garg",
+    "Adelina Gutic",
+    "Brett Barnes",
+    "Catherine Finegan-Dollak"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-short.11",
+  "acl_url": "https://aclanthology.org/2025.acl-short.11/"
+}

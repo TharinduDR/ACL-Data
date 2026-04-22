@@ -1,0 +1,19 @@
+{
+  "title": "How Does Distilled Data Complexity Impact the Quality and Confidence of Non-Autoregressive Machine Translation?",
+  "authors": [
+    "Weijia Xu",
+    "Shuming Ma",
+    "Dongdong Zhang",
+    "Marine Carpuat"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.findings-acl.385",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.385/"
+}

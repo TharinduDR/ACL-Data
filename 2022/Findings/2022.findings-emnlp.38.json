@@ -1,0 +1,24 @@
+{
+  "title": "Can language models learn from explanations in context?",
+  "authors": [
+    "Andrew K. Lampinen",
+    "Ishita Dasgupta",
+    "Stephanie C. Y. Chan",
+    "Kory Mathewson",
+    "Michael Henry Tessler",
+    "Antonia Creswell",
+    "James L. McClelland",
+    "Jane X. Wang",
+    "Felix Hill"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.findings-emnlp.38",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.38/"
+}

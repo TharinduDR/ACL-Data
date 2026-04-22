@@ -1,0 +1,28 @@
+{
+  "title": "Language Clustering for Multilingual Named Entity Recognition",
+  "authors": [
+    "Kyle Shaffer"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "English",
+    "French",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Russian",
+    "Hebrew",
+    "Korean",
+    "Japanese",
+    "Chinese",
+    "Swahili",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2021.findings-emnlp.4",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.4/"
+}

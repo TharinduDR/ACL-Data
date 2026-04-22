@@ -1,0 +1,31 @@
+{
+  "title": "MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation",
+  "authors": [
+    "Haochen Xue",
+    "Feilong Tang",
+    "Ming Hu",
+    "Yexin Liu",
+    "Qidong Huang",
+    "Yulong Li",
+    "Chengzhi Liu",
+    "Zhongxing Xu",
+    "Chong Zhang",
+    "Chun-Mei Feng",
+    "Yutong Xie",
+    "Imran Razzaq",
+    "Zongyuan Ge",
+    "Jionglong Su",
+    "Junjun He",
+    "Yu Qiao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1096",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1096/"
+}

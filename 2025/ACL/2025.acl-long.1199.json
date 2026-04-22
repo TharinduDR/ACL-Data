@@ -1,0 +1,31 @@
+{
+  "title": "Alleviating Hallucinations from Knowledge Misalignment in Large Language Models via Selective Abstention Learning",
+  "authors": [
+    "Lei Huang",
+    "Xiaocheng Feng",
+    "Weitao Ma",
+    "Yuchun Fan",
+    "Xiachong Feng",
+    "Yuxuan Gu",
+    "Yangfan Ye",
+    "Liang Zhao",
+    "Weihong Zhong",
+    "Baoxin Wang",
+    "Dayong Wu",
+    "Guoping Hu",
+    "Lingpeng Kong",
+    "Tong Xiao",
+    "Ting Liu",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1199",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1199/"
+}

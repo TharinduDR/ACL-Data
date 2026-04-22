@@ -1,0 +1,22 @@
+{
+  "title": "REAL-MM-RAG: A Real-World Multi-Modal Retrieval Benchmark",
+  "authors": [
+    "Navve Wasserman",
+    "Roi Pony",
+    "Oshri Naparstek",
+    "Adi Raz Goldfarb",
+    "Eli Schwartz",
+    "Udi Barzelay",
+    "Leonid Karlinsky"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.1528",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1528/"
+}

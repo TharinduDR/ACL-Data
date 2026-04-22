@@ -1,0 +1,29 @@
+{
+  "title": "Margin-aware Unsupervised Domain Adaptation for Cross-lingual Text Labeling",
+  "authors": [
+    "Dejiao Zhang",
+    "Ramesh Nallapati",
+    "Henghui Zhu",
+    "Feng Nan",
+    "Cicero Nogueira dos Santos",
+    "Kathleen McKeown",
+    "Bing Xiang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Chinese",
+    "Russian",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2020.findings-emnlp.315",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.315/"
+}

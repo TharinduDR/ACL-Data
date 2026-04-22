@@ -1,0 +1,27 @@
+{
+  "title": "Chinese SafetyQA: A Safety Short-form Factuality Benchmark for Large Language Models",
+  "authors": [
+    "Yingshui Tan",
+    "Boren Zheng",
+    "Baihui Zheng",
+    "Kerui Cao",
+    "Huiyun Jing",
+    "Jincheng Wei",
+    "Jiaheng Liu",
+    "Yancheng He",
+    "Wenbo Su",
+    "Xiaoyong Zhu",
+    "Bo Zheng",
+    "Kaifu Zhang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.acl-long.732",
+  "acl_url": "https://aclanthology.org/2025.acl-long.732/"
+}

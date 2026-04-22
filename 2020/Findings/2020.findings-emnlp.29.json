@@ -1,0 +1,44 @@
+{
+  "title": "Multilingual Argument Mining: Datasets and Analysis",
+  "authors": [
+    "Orith Toledo-Ronen",
+    "Matan Orbach",
+    "Yonatan Bilu",
+    "Artem Spector",
+    "Noam Slonim"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "German",
+    "Dutch",
+    "Chinese",
+    "Arabic",
+    "Hebrew",
+    "Japanese",
+    "Portuguese",
+    "Russian",
+    "Polish",
+    "Slovak",
+    "Cantonese",
+    "Korean",
+    "Thai",
+    "Vietnamese",
+    "Indonesian",
+    "Malay",
+    "Turkish",
+    "Persian",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T16",
+    "T20",
+    "T14"
+  ],
+  "paper_id": "2020.findings-emnlp.29",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.29/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Analyzing the Limits of Self-Supervision in Handling Bias in Language",
+  "authors": [
+    "Lisa Bauer",
+    "Karthik Gopalakrishnan",
+    "Spandana Gella",
+    "Yang Liu",
+    "Mohit Bansal",
+    "Dilek Hakkani-Tür"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.545",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.545/"
+}

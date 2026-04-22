@@ -1,0 +1,26 @@
+{
+  "title": "Locate-and-Focus: Enhancing Terminology Translation in Speech Language Models",
+  "authors": [
+    "Suhang Wu",
+    "Jialong Tang",
+    "Chengyi Yang",
+    "Pei Zhang",
+    "Baosong Yang",
+    "Junhui Li",
+    "Junfeng Yao",
+    "Min Zhang",
+    "Jinsong Su"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.acl-long.556",
+  "acl_url": "https://aclanthology.org/2025.acl-long.556/"
+}

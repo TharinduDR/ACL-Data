@@ -1,0 +1,24 @@
+{
+  "title": "CLAR: A Cross-Lingual Argument Regularizer for Semantic Role Labeling",
+  "authors": [
+    "Ishan Jindal",
+    "Yunyao Li",
+    "Siddhartha Brahma",
+    "Huaiyu Zhu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Chinese",
+    "Czech",
+    "Catalan"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.findings-emnlp.279",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.279/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "ArabicTransformer: Efficient Large Arabic Language Model with Funnel Transformer and ELECTRA Objective",
+  "authors": [
+    "Sultan Alrowili",
+    "K. Vijay-Shanker"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2021.findings-emnlp.108",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.108/"
+}

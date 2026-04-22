@@ -1,0 +1,36 @@
+{
+  "title": "Modular Sentence Encoders: Separating Language Specialization from Cross-Lingual Alignment",
+  "authors": [
+    "Yongxin Huang",
+    "Kexin Wang",
+    "Goran Glavaš",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech",
+    "Spanish",
+    "French",
+    "Kazakh",
+    "Korean",
+    "Kyrgyz",
+    "Marathi",
+    "Dutch",
+    "Polish",
+    "Russian",
+    "Kinyarwanda",
+    "Telugu",
+    "Turkish",
+    "Uyghur",
+    "Uzbek",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.108",
+  "acl_url": "https://aclanthology.org/2025.acl-long.108/"
+}

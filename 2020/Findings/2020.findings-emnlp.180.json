@@ -1,0 +1,21 @@
+{
+  "title": "Automatically Identifying Gender Issues in Machine Translation using Perturbations",
+  "authors": [
+    "Hila Gonen",
+    "Kellie Webster"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.180",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.180/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Bregman Conditional Random Fields: Sequence Labeling with Parallelizable Inference Algorithms",
+  "authors": [
+    "Caio Corro",
+    "Mathieu Lacroix",
+    "Joseph Le Roux"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Chinese",
+    "Japanese",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.acl-long.1430",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1430/"
+}

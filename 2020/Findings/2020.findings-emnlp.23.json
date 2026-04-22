@@ -1,0 +1,22 @@
+{
+  "title": "Minimize Exposure Bias of Seq2Seq Models in Joint Entity and Relation Extraction",
+  "authors": [
+    "Ranran Haoran Zhang",
+    "Qianying Liu",
+    "Aysa Xuemo Fan",
+    "Heng Ji",
+    "Daojian Zeng",
+    "Fei Cheng",
+    "Daisuke Kawahara",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.findings-emnlp.23",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.23/"
+}

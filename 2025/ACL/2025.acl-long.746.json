@@ -1,0 +1,21 @@
+{
+  "title": "LAQuer: Localized Attribution Queries in Content-grounded Generation",
+  "authors": [
+    "Eran Hirsch",
+    "Aviv Slobodkin",
+    "David Wan",
+    "Elias Stengel-Eskin",
+    "Mohit Bansal",
+    "Ido Dagan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-long.746",
+  "acl_url": "https://aclanthology.org/2025.acl-long.746/"
+}

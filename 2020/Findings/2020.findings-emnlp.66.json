@@ -1,0 +1,19 @@
+{
+  "title": "PolicyQA: A Reading Comprehension Dataset for Privacy Policies",
+  "authors": [
+    "Wasi Uddin Ahmad",
+    "Jianfeng Chi",
+    "Yuan Tian",
+    "Kai-Wei Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.66",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.66/"
+}

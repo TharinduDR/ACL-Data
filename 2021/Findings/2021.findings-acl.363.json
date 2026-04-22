@@ -1,0 +1,21 @@
+{
+  "title": "On the Distribution, Sparsity, and Inference-time Quantization of Attention Values in Transformers",
+  "authors": [
+    "Tianchu Ji",
+    "Shraddhan Jain",
+    "Michael Ferdman",
+    "Peter Milder",
+    "H. Andrew Schwartz",
+    "Niranjan Balasubramanian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.findings-acl.363",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.363/"
+}

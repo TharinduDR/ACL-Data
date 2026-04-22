@@ -1,0 +1,25 @@
+{
+  "title": "TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining",
+  "authors": [
+    "Jeffrey Li",
+    "Mohammadreza Armandpour",
+    "Iman Mirzadeh",
+    "Sachin Mehta",
+    "Vaishaal Shankar",
+    "Raviteja Vemulapalli",
+    "Samy Bengio",
+    "Oncel Tuzel",
+    "Mehrdad Farajtabar",
+    "Hadi Pouransari",
+    "Fartash Faghri"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1551",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1551/"
+}

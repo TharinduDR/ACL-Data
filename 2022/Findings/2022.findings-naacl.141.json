@@ -1,0 +1,21 @@
+{
+  "title": "SeaD: End-to-end Text-to-SQL Generation with Schema-aware Denoising",
+  "authors": [
+    "Kuan Xu",
+    "Yongbo Wang",
+    "Yongliang Wang",
+    "Zihao Wang",
+    "Zujie Wen",
+    "Yang Dong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-naacl.141",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.141/"
+}

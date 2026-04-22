@@ -1,0 +1,37 @@
+{
+  "title": "SwiLTra-Bench: The Swiss Legal Translation Benchmark",
+  "authors": [
+    "Joel Niklaus",
+    "Jakob Merane",
+    "Luka Nenadic",
+    "Sina Ahmadi",
+    "Yingqiang Gao",
+    "Cyrill A. H. Chevalley",
+    "Claude Humbel",
+    "Christophe Gösken",
+    "Lorenzo Tanzi",
+    "Thomas Lüthi",
+    "Stefan Palombo",
+    "Spencer Poff",
+    "Boling Yang",
+    "Nan Wu",
+    "Matthew Guillod",
+    "Robin Mamie",
+    "Daniel Brunner",
+    "Julio Pereyra",
+    "Niko Grupen"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T25 Legal NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.725",
+  "acl_url": "https://aclanthology.org/2025.acl-long.725/"
+}

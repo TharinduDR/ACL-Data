@@ -1,0 +1,19 @@
+{
+  "title": "On Utilizing Constituent Language Resources to Improve Downstream Tasks in Hinglish",
+  "authors": [
+    "Vishwajeet Kumar",
+    "Rudra Murthy",
+    "Tejas Indulal Dhamecha"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T20 Sentiment Analysis"
+  ],
+  "paper_id": "2022.findings-emnlp.283",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.283/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "MedICaT: A Dataset of Medical Images, Captions, and Textual References",
+  "authors": [
+    "Sanjay Subramanian",
+    "Lucy Lu Wang",
+    "Sachin Mehta",
+    "Ben Bogin",
+    "Madeleine van Zuylen",
+    "Sravanthi Parasa",
+    "Sameer Singh",
+    "Matt Gardner",
+    "Hannaneh Hajishirzi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.findings-emnlp.191",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.191/"
+}

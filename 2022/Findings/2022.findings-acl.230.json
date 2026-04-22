@@ -1,0 +1,23 @@
+{
+  "title": "Revisiting the Effects of Leakage on Dependency Parsing",
+  "authors": [
+    "Nathaniel Krasner",
+    "Miriam Wanner",
+    "Antonios Anastasopoulos"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Swedish",
+    "Danish",
+    "Norwegian",
+    "Icelandic",
+    "Faroese",
+    "Afrikaans"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-acl.230",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.230/"
+}

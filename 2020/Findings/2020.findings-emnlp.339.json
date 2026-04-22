@@ -1,0 +1,23 @@
+{
+  "title": "Controllable Text Generation with Focused Variation",
+  "authors": [
+    "Lei Shu",
+    "Alexandros Papangelis",
+    "Yi-Chia Wang",
+    "Gokhan Tur",
+    "Hu Xu",
+    "Zhaleh Feizollahi",
+    "Bing Liu",
+    "Piero Molino"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2020.findings-emnlp.339",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.339/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Question Answering with Long Multiple-Span Answers",
+  "authors": [
+    "Ming Zhu",
+    "Aman Ahuja",
+    "Da-Cheng Juan",
+    "Wei Wei",
+    "Chandan K. Reddy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.findings-emnlp.342",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.342/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Rethinking KenLM: Good and Bad Model Ensembles for Efficient Text Quality Filtering in Large Web Corpora",
+  "authors": [
+    "Yungi Kim",
+    "Hyunsoo Ha",
+    "Sukyung Lee",
+    "Jihoo Kim",
+    "Seonghoon Yang",
+    "Chanjun Park"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.acl-short.4",
+  "acl_url": "https://aclanthology.org/2025.acl-short.4/"
+}

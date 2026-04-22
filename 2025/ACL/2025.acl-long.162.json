@@ -1,0 +1,19 @@
+{
+  "title": "Addressing Blind Guessing: Calibration of Selection Bias in Multiple-Choice Question Answering by Video Language Models",
+  "authors": [
+    "Olga Loginova",
+    "Oleksandr Bezrukov",
+    "Ravi Shekhar",
+    "Alexey Kravets"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.acl-long.162",
+  "acl_url": "https://aclanthology.org/2025.acl-long.162/"
+}

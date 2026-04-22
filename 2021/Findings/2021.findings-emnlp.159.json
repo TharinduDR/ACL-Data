@@ -1,0 +1,23 @@
+{
+  "title": "A Pretraining Numerical Reasoning Model for Ordinal Constrained Question Answering on Knowledge Base",
+  "authors": [
+    "Yu Feng",
+    "Jing Zhang",
+    "Gaole He",
+    "Wayne Xin Zhao",
+    "Lemao Liu",
+    "Quan Liu",
+    "Cuiping Li",
+    "Hong Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2021.findings-emnlp.159",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.159/"
+}

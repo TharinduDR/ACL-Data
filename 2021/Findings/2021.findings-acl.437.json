@@ -1,0 +1,23 @@
+{
+  "title": "Are Multilingual Models the Best Choice for Moderately Under-Resourced Languages? A Comprehensive Assessment for Catalan",
+  "authors": [
+    "Jordi Armengol-Estapé",
+    "Casimiro Pio Carrino",
+    "Carlos Rodriguez-Penagos",
+    "Ona de Gibert Bonet",
+    "Carme Armentano-Oller",
+    "Aitor Gonzalez-Agirre",
+    "Maite Melero",
+    "Marta Villegas"
+  ],
+  "languages": [
+    "Catalan"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-acl.437",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.437/"
+}

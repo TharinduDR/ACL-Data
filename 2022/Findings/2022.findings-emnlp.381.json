@@ -1,0 +1,23 @@
+{
+  "title": "FOCUSQA: Open-Domain Question Answering with a Context in Focus",
+  "authors": [
+    "Gianni Barlacchi",
+    "Ivano Lauriola",
+    "Alessandro Moschitti",
+    "Marco Del Tredici",
+    "Xiaoyu Shen",
+    "Thuy Vu",
+    "Bill Byrne",
+    "Adrià de Gispert"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.381",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.381/"
+}

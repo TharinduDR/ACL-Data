@@ -1,0 +1,25 @@
+{
+  "title": "Evaluating Language Models as Synthetic Data Generators",
+  "authors": [
+    "Seungone Kim",
+    "Juyoung Suk",
+    "Xiang Yue",
+    "Vijay Viswanathan",
+    "Seongyun Lee",
+    "Yizhong Wang",
+    "Kiril Gashteovski",
+    "Carolin Lawrence",
+    "Sean Welleck",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.acl-long.320",
+  "acl_url": "https://aclanthology.org/2025.acl-long.320/"
+}

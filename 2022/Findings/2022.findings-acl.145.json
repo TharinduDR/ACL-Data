@@ -1,0 +1,31 @@
+{
+  "title": "IndicBART: A Pre-trained Model for Indic Natural Language Generation",
+  "authors": [
+    "Raj Dabre",
+    "Himani Shrotriya",
+    "Anoop Kunchukuttan",
+    "Ratish Puduppully",
+    "Mitesh M. Khapra",
+    "Pratyush Kumar"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Oriya",
+    "Punjabi",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.findings-acl.145",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.145/"
+}

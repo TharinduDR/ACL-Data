@@ -1,0 +1,21 @@
+{
+  "title": "Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks",
+  "authors": [
+    "Xingxuan Li",
+    "Weiwen Xu",
+    "Ruochen Zhao",
+    "Fangkai Jiao",
+    "Shafiq Joty",
+    "Lidong Bing"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.1244",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1244/"
+}

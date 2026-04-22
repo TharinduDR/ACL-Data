@@ -1,0 +1,26 @@
+{
+  "title": "STAR: SQL Guided Pre-Training for Context-dependent Text-to-SQL Parsing",
+  "authors": [
+    "Zefeng Cai",
+    "Xiangyu Li",
+    "Binyuan Hui",
+    "Min Yang",
+    "Bowen Li",
+    "Binhua Li",
+    "Zheng Cao",
+    "Weijie Li",
+    "Fei Huang",
+    "Luo Si",
+    "Yongbin Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2022.findings-emnlp.89",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.89/"
+}

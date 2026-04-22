@@ -1,0 +1,27 @@
+{
+  "title": "MERaLiON-AudioLLM: Advancing Speech and Language Understanding for Singapore",
+  "authors": [
+    "Yingxu He",
+    "Zhuohan Liu",
+    "Geyu Lin",
+    "Shuo Sun",
+    "Bin Wang",
+    "Wenyu Zhang",
+    "Xunlong Zou",
+    "Nancy F. Chen",
+    "Ai Ti Aw"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Malay",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2025.acl-demo.3",
+  "acl_url": "https://aclanthology.org/2025.acl-demo.3/"
+}

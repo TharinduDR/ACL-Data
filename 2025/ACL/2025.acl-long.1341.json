@@ -1,0 +1,28 @@
+{
+  "title": "LLM×MapReduce: Simplified Long-Sequence Processing using Large Language Models",
+  "authors": [
+    "Zihan Zhou",
+    "Chong Li",
+    "Xinyi Chen",
+    "Shuo Wang",
+    "Yu Chao",
+    "Zhili Li",
+    "Haoyu Wang",
+    "Qi Shi",
+    "Zhixing Tan",
+    "Xu Han",
+    "Xiaodong Shi",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2025.acl-long.1341",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1341/"
+}

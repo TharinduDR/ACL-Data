@@ -1,0 +1,19 @@
+{
+  "title": "CRUSH: Contextually Regularized and User anchored Self-supervised Hate speech Detection",
+  "authors": [
+    "Souvic Chakraborty",
+    "Parag Dutta",
+    "Sumegh Roychowdhury",
+    "Animesh Mukherjee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.findings-naacl.144",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.144/"
+}

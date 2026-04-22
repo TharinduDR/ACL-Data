@@ -1,0 +1,15 @@
+{
+  "title": "RL with KL penalties is better viewed as Bayesian inference",
+  "authors": [
+    "Tomasz Korbak",
+    "Ethan Perez",
+    "Christopher L Buckley"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.findings-emnlp.77",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.77/"
+}

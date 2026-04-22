@@ -1,0 +1,21 @@
+{
+  "title": "KokoroChat: A Japanese Psychological Counseling Dialogue Dataset Collected via Role-Playing by Trained Counselors",
+  "authors": [
+    "Zhiyang Qi",
+    "Takumasa Kaneko",
+    "Keiko Takamizo",
+    "Mariko Ukiyo",
+    "Michimasa Inaba"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.acl-long.608",
+  "acl_url": "https://aclanthology.org/2025.acl-long.608/"
+}

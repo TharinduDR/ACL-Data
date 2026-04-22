@@ -1,0 +1,18 @@
+{
+  "title": "Segmenting Natural Language Sentences via Lexical Unit Analysis",
+  "authors": [
+    "Yangming Li",
+    "Lemao Liu",
+    "Shuming Shi"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-emnlp.18",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.18/"
+}

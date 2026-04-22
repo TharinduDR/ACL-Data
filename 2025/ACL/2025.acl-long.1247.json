@@ -1,0 +1,27 @@
+{
+  "title": "CulturalBench: A Robust, Diverse, and Challenging Cultural Benchmark by Human-AI CulturalTeaming",
+  "authors": [
+    "Yu Ying Chiu",
+    "Liwei Jiang",
+    "Bill Yuchen Lin",
+    "Chan Young Park",
+    "Shuyue Stella Li",
+    "Sahithya Ravi",
+    "Mehar Bhatia",
+    "Maria Antoniak",
+    "Yulia Tsvetkov",
+    "Vered Shwartz",
+    "Yejin Choi"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2025.acl-long.1247",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1247/"
+}

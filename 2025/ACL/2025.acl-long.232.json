@@ -1,0 +1,20 @@
+{
+  "title": "Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?",
+  "authors": [
+    "Zhiyuan Zeng",
+    "Qingyuan Chen",
+    "Zhangyue Yin",
+    "Yunhua Zhou",
+    "Xipeng Qiu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.232",
+  "acl_url": "https://aclanthology.org/2025.acl-long.232/"
+}

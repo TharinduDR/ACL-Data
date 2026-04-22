@@ -1,0 +1,18 @@
+{
+  "title": "Gaussian Multi-head Attention for Simultaneous Machine Translation",
+  "authors": [
+    "Shaolei Zhang",
+    "Yang Feng"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Vietnamese",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.findings-acl.238",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.238/"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "TokAlign: Efficient Vocabulary Adaptation via Token Alignment",
+  "authors": [
+    "Chong Li",
+    "Jiajun Zhang",
+    "Chengqing Zong"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "German",
+    "Japanese",
+    "Korean",
+    "Tamil",
+    "Telugu",
+    "Thai",
+    "Urdu",
+    "Vietnamese",
+    "Chinese",
+    "Persian",
+    "Russian",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Polish",
+    "Czech",
+    "Hungarian",
+    "Romanian",
+    "Swedish",
+    "Ukrainian",
+    "Finnish",
+    "Kazakh",
+    "Hebrew",
+    "Armenian",
+    "Icelandic",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.207",
+  "acl_url": "https://aclanthology.org/2025.acl-long.207/"
+}

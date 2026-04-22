@@ -1,0 +1,39 @@
+{
+  "title": "Middle-Layer Representation Alignment for Cross-Lingual Transfer in Fine-Tuned LLMs",
+  "authors": [
+    "Danni Liu",
+    "Jan Niehues"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Czech",
+    "Danish",
+    "German",
+    "Greek",
+    "Hebrew",
+    "Hindi",
+    "Croatian",
+    "Icelandic",
+    "Japanese",
+    "Javanese",
+    "Portuguese",
+    "Russian",
+    "Slovak",
+    "Serbian",
+    "Swedish",
+    "Thai",
+    "Tagalog",
+    "Turkish",
+    "Ukrainian",
+    "Urdu",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.acl-long.778",
+  "acl_url": "https://aclanthology.org/2025.acl-long.778/"
+}

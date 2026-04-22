@@ -1,0 +1,29 @@
+{
+  "title": "ATRI: Mitigating Multilingual Audio Text Retrieval Inconsistencies by Reducing Data Distribution Errors",
+  "authors": [
+    "Yuguo Yin",
+    "Yuxin Xie",
+    "Wenyuan Yang",
+    "Dongchao Yang",
+    "Jinghan Ru",
+    "Xianwei Zhuang",
+    "Liming Liang",
+    "Yuexian Zou"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Dutch",
+    "Catalan",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.acl-long.273",
+  "acl_url": "https://aclanthology.org/2025.acl-long.273/"
+}

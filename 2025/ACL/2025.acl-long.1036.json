@@ -1,0 +1,23 @@
+{
+  "title": "LLM Meets Scene Graph: Can Large Language Models Understand and Generate Scene Graphs? A Benchmark and Empirical Study",
+  "authors": [
+    "Dongil Yang",
+    "Minjin Kim",
+    "Sunghwan Kim",
+    "Beong-woo Kwak",
+    "Minjun Park",
+    "Jinseok Hong",
+    "Woontack Woo",
+    "Jinyoung Yeo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.acl-long.1036",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1036/"
+}

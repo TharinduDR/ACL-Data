@@ -1,0 +1,21 @@
+{
+  "title": "Efficient Transformer-based Large Scale Language Representations using Hardware-friendly Block Structured Pruning",
+  "authors": [
+    "Bingbing Li",
+    "Zhenglun Kong",
+    "Tianyun Zhang",
+    "Ji Li",
+    "Zhengang Li",
+    "Hang Liu",
+    "Caiwen Ding"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.286",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.286/"
+}

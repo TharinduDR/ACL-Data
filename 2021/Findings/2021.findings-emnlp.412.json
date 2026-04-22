@@ -1,0 +1,20 @@
+{
+  "title": "A Divide-And-Conquer Approach for Multi-label Multi-hop Relation Detection in Knowledge Base Question Answering",
+  "authors": [
+    "Deyu Zhou",
+    "Yanzheng Xiang",
+    "Linhai Zhang",
+    "Chenchen Ye",
+    "Qian-Wen Zhang",
+    "Yunbo Cao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.findings-emnlp.412",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.412/"
+}

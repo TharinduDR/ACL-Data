@@ -1,0 +1,21 @@
+{
+  "title": "BertGCN: Transductive Text Classification by Combining GCN and BERT",
+  "authors": [
+    "Yuxiao Lin",
+    "Yuxian Meng",
+    "Xiaofei Sun",
+    "Qinghong Han",
+    "Kun Kuang",
+    "Jiwei Li",
+    "Fei Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2021.findings-acl.126",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.126/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Agri-CM³: A Chinese Massive Multi-modal, Multi-level Benchmark for Agricultural Understanding and Reasoning",
+  "authors": [
+    "Haotian Wang",
+    "Yi Guan",
+    "Fanshu Meng",
+    "Chao Zhao",
+    "Lian Yan",
+    "Yang Yang",
+    "Jingchi Jiang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.576",
+  "acl_url": "https://aclanthology.org/2025.acl-long.576/"
+}

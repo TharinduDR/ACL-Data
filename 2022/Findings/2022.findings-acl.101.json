@@ -1,0 +1,17 @@
+{
+  "title": "Co-training an Unsupervised Constituency Parser with Weak Supervision",
+  "authors": [
+    "Nickil Maveli",
+    "Shay B. Cohen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-acl.101",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.101/"
+}

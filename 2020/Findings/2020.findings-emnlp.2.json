@@ -1,0 +1,21 @@
+{
+  "title": "Summarizing Chinese Medical Answer with Graph Convolution Networks and Question-focused Dual Attention",
+  "authors": [
+    "Ningyu Zhang",
+    "Shumin Deng",
+    "Juan Li",
+    "Xi Chen",
+    "Wei Zhang",
+    "Huajun Chen"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2020.findings-emnlp.2",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.2/"
+}

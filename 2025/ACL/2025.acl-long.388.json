@@ -1,0 +1,28 @@
+{
+  "title": "Distilling an End-to-End Voice Assistant Without Instruction Training Data",
+  "authors": [
+    "William Held",
+    "Yanzhe Zhang",
+    "Minzhi Li",
+    "Weiyang Shi",
+    "Michael J Ryan",
+    "Diyi Yang"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "German",
+    "Indonesian",
+    "Japanese",
+    "Tamil",
+    "Turkish",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.388",
+  "acl_url": "https://aclanthology.org/2025.acl-long.388/"
+}

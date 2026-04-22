@@ -1,0 +1,22 @@
+{
+  "title": "Constructing Contrastive Samples via Summarization for Text Classification with Limited Annotations",
+  "authors": [
+    "Yangkai Du",
+    "Tengfei Ma",
+    "Lingfei Wu",
+    "Fangli Xu",
+    "Xuhong Zhang",
+    "Bo Long",
+    "Shouling Ji"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis"
+  ],
+  "paper_id": "2021.findings-emnlp.118",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.118/"
+}

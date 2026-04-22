@@ -1,0 +1,26 @@
+{
+  "title": "Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs",
+  "authors": [
+    "Weixiang Zhao",
+    "Yulin Hu",
+    "Yang Deng",
+    "Jiahe Guo",
+    "Xingyu Sui",
+    "Xinyang Han",
+    "An Zhang",
+    "Yanyan Zhao",
+    "Bing Qin",
+    "Tat-Seng Chua",
+    "Ting Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.544",
+  "acl_url": "https://aclanthology.org/2025.acl-long.544/"
+}

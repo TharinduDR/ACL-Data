@@ -1,0 +1,35 @@
+{
+  "title": "AIR-BENCH: Automated Heterogeneous Information Retrieval Benchmark",
+  "authors": [
+    "Jianyu Chen",
+    "Nan Wang",
+    "Chaofan Li",
+    "Bo Wang",
+    "Shitao Xiao",
+    "Han Xiao",
+    "Hao Liao",
+    "Defu Lian",
+    "Zheng Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "French",
+    "German",
+    "Spanish",
+    "Persian",
+    "Hindi",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Russian"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.982",
+  "acl_url": "https://aclanthology.org/2025.acl-long.982/"
+}

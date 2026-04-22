@@ -1,0 +1,18 @@
+{
+  "title": "On the Interplay Between Fine-tuning and Sentence-level Probing for Linguistic Knowledge in Pre-trained Transformers",
+  "authors": [
+    "Marius Mosbach",
+    "Anna Khokhlova",
+    "Michael A. Hedderich",
+    "Dietrich Klakow"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.findings-emnlp.227",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.227/"
+}

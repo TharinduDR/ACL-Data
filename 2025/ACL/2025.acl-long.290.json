@@ -1,0 +1,23 @@
+{
+  "title": "Efficient Universal Goal Hijacking with Semantics-guided Prompt Organization",
+  "authors": [
+    "Yihao Huang",
+    "Chong Wang",
+    "Xiaojun Jia",
+    "Qing Guo",
+    "Felix Juefei-Xu",
+    "Jian Zhang",
+    "Yang Liu",
+    "Geguang Pu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.acl-long.290",
+  "acl_url": "https://aclanthology.org/2025.acl-long.290/"
+}

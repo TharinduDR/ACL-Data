@@ -1,0 +1,17 @@
+{
+  "title": "ContractNLI: A Dataset for Document-level Natural Language Inference for Contracts",
+  "authors": [
+    "Yuta Koreeda",
+    "Christopher D. Manning"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T09 Inference and Reasoning",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-emnlp.164",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.164/"
+}

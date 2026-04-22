@@ -1,0 +1,17 @@
+{
+  "title": "Attention Weights in Transformer NMT Fail Aligning Words Between Sequences but Largely Explain Model Predictions",
+  "authors": [
+    "Javier Ferrando",
+    "Marta R. Costa-jussà"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.findings-emnlp.39",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.39/"
+}

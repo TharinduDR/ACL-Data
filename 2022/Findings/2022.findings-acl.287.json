@@ -1,0 +1,24 @@
+{
+  "title": "Divide and Conquer: Text Semantic Matching with Disentangled Keywords and Intents",
+  "authors": [
+    "Yicheng Zou",
+    "Hongwei Liu",
+    "Tao Gui",
+    "Junzhe Wang",
+    "Qi Zhang",
+    "Meng Tang",
+    "Haixiang Li",
+    "Daniel Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.findings-acl.287",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.287/"
+}

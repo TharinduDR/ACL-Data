@@ -1,0 +1,18 @@
+{
+  "title": "Hierarchical Region Learning for Nested Named Entity Recognition",
+  "authors": [
+    "Xinwei Long",
+    "Shuzi Niu",
+    "Yucheng Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.430",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.430/"
+}

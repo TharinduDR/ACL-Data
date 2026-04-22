@@ -1,0 +1,24 @@
+{
+  "title": "Dia-Lingle: A Gamified Interface for Dialectal Data Collection",
+  "authors": [
+    "Jiugeng Sun",
+    "Rita Sevastjanova",
+    "Sina Ahmadi",
+    "Rico Sennrich",
+    "Mennatallah El-Assady"
+  ],
+  "languages": [
+    "Swiss German",
+    "Kurdish",
+    "Korean",
+    "Japanese",
+    "Romansh"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T29 NLP for education",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-demo.15",
+  "acl_url": "https://aclanthology.org/2025.acl-demo.15/"
+}

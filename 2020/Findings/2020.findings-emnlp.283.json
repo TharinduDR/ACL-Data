@@ -1,0 +1,23 @@
+{
+  "title": "A Multilingual View of Unsupervised Machine Translation",
+  "authors": [
+    "Xavier Garcia",
+    "Pierre Foret",
+    "Thibault Sellam",
+    "Ankur P. Parikh"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Romanian",
+    "German",
+    "Czech",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.findings-emnlp.283",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.283/"
+}

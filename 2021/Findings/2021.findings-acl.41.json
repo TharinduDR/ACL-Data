@@ -1,0 +1,20 @@
+{
+  "title": "Decoupling Adversarial Training for Fair NLP",
+  "authors": [
+    "Xudong Han",
+    "Timothy Baldwin",
+    "Trevor Cohn"
+  ],
+  "languages": [
+    "English",
+    "African American English",
+    "Standard American English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-acl.41",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.41/"
+}

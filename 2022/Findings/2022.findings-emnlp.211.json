@@ -1,0 +1,23 @@
+{
+  "title": "Mitigating Covertly Unsafe Text within Natural Language Systems",
+  "authors": [
+    "Alex Mei",
+    "Anisha Kabir",
+    "Sharon Levy",
+    "Melanie Subbiah",
+    "Emily Allaway",
+    "John Judge",
+    "Desmond Patton",
+    "Bruce Bimber",
+    "Kathleen McKeown",
+    "William Yang Wang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.findings-emnlp.211",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.211/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Towards Adversarially Robust Text Classifiers by Learning to Reweight Clean Examples",
+  "authors": [
+    "Jianhan Xu",
+    "Cenyuan Zhang",
+    "Xiaoqing Zheng",
+    "Linyang Li",
+    "Cho-Jui Hsieh",
+    "Kai-Wei Chang",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.findings-acl.134",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.134/"
+}

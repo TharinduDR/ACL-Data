@@ -1,0 +1,30 @@
+{
+  "title": "Enhancing Open-Domain Task-Solving Capability of LLMs via Autonomous Tool Integration from GitHub",
+  "authors": [
+    "Bohan Lyu",
+    "Xin Cong",
+    "Heyang Yu",
+    "Pan Yang",
+    "Cheng Qian",
+    "Zihe Wang",
+    "Yujia Qin",
+    "Yining Ye",
+    "Yaxi Lu",
+    "Chen Qian",
+    "Zhong Zhang",
+    "Yukun Yan",
+    "Yankai Lin",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.acl-long.845",
+  "acl_url": "https://aclanthology.org/2025.acl-long.845/"
+}

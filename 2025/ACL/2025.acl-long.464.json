@@ -1,0 +1,53 @@
+{
+  "title": "INJONGO: A Multicultural Intent Detection and Slot-filling Dataset for 16 African Languages",
+  "authors": [
+    "Hao Yu",
+    "Jesujoba O. Alabi",
+    "Andiswa Bukula",
+    "Jian Yun Zhuang",
+    "En-Shiun Annie Lee",
+    "Tadesse Kebede Guge",
+    "Israel Abebe Azime",
+    "Happy Buzaaba",
+    "Blessing Kudzaishe Sibanda",
+    "Godson K. Kalipe",
+    "Jonathan Mukiibi",
+    "Salomon Kabongo Kabenamuatu",
+    "Mmasibidi Setaka",
+    "Lolwethu Ndolela",
+    "Nkiruka Odu",
+    "Rooweither Mabuya",
+    "Shamsuddeen Hassan Muhammad",
+    "Salomey Osei",
+    "Sokhar Samb",
+    "Juliet W. Murage",
+    "Dietrich Klakow",
+    "David Ifeoluwa Adelani"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "Ewe",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Lingala",
+    "Luganda",
+    "Oromo",
+    "Shona",
+    "Sesotho",
+    "Swahili",
+    "Twi",
+    "Wolof",
+    "Xhosa",
+    "Yoruba",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.464",
+  "acl_url": "https://aclanthology.org/2025.acl-long.464/"
+}

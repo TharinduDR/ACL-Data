@@ -1,0 +1,21 @@
+{
+  "title": "Improved Knowledge Distillation for Pre-trained Language Models via Knowledge Selection",
+  "authors": [
+    "Chenglong Wang",
+    "Yi Lu",
+    "Yongyu Mu",
+    "Yimin Hu",
+    "Tong Xiao",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T20 Sentiment Analysis"
+  ],
+  "paper_id": "2022.findings-emnlp.464",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.464/"
+}

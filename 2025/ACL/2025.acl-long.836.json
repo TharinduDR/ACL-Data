@@ -1,0 +1,20 @@
+{
+  "title": "Movie101v2: Improved Movie Narration Benchmark",
+  "authors": [
+    "Zihao Yue",
+    "Yepeng Zhang",
+    "Ziheng Wang",
+    "Qin Jin"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2025.acl-long.836",
+  "acl_url": "https://aclanthology.org/2025.acl-long.836/"
+}

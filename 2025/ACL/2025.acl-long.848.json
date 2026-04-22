@@ -1,0 +1,27 @@
+{
+  "title": "Which Demographics do LLMs Default to During Annotation?",
+  "authors": [
+    "Johannes Schäfer",
+    "Aidan Combs",
+    "Christopher Bagdon",
+    "Jiahui Li",
+    "Nadine Probol",
+    "Lynn Greschner",
+    "Sean Papay",
+    "Yarik Menchaca Resendiz",
+    "Aswathy Velutharambath",
+    "Amelie Wührl",
+    "Sabine Weber",
+    "Roman Klinger"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.848",
+  "acl_url": "https://aclanthology.org/2025.acl-long.848/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Entity Cloze By Date: What LMs Know About Unseen Entities",
+  "authors": [
+    "Yasumasa Onoe",
+    "Michael J.Q. Zhang",
+    "Eunsol Choi",
+    "Greg Durrett"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-naacl.52",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.52/"
+}

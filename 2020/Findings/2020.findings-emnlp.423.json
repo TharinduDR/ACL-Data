@@ -1,0 +1,21 @@
+{
+  "title": "Compressing Transformer-Based Semantic Parsing Models using Compositional Code Embeddings",
+  "authors": [
+    "Prafull Prakash",
+    "Saurabh Kumar Shashidhar",
+    "Wenlong Zhao",
+    "Subendhu Rongali",
+    "Haidar Khan",
+    "Michael Kayser"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.findings-emnlp.423",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.423/"
+}

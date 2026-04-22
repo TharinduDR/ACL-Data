@@ -1,0 +1,33 @@
+{
+  "title": "ChatSOP: An SOP-Guided MCTS Planning Framework for Controllable LLM Dialogue Agents",
+  "authors": [
+    "Zhigen Li",
+    "Jianxiang Peng",
+    "Yanmeng Wang",
+    "Yong Cao",
+    "Tianhao Shen",
+    "Minghui Zhang",
+    "Linxi Su",
+    "Shang Wu",
+    "Yihang Wu",
+    "Yuqian Wang",
+    "Ye Wang",
+    "Wei Hu",
+    "Jianfeng Li",
+    "Shaofeng Li",
+    "Shaojun Wang",
+    "Jing Xiao",
+    "Deyi Xiong"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.863",
+  "acl_url": "https://aclanthology.org/2025.acl-long.863/"
+}

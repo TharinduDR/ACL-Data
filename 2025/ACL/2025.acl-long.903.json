@@ -1,0 +1,25 @@
+{
+  "title": "Hierarchical Bracketing Encodings for Dependency Parsing as Tagging",
+  "authors": [
+    "Ana Ezquerro",
+    "David Vilares",
+    "Anssi Yli-Jyrä",
+    "Carlos Gómez-Rodríguez"
+  ],
+  "languages": [
+    "English",
+    "Ancient Greek",
+    "Finnish",
+    "French",
+    "Hebrew",
+    "Russian",
+    "Tamil",
+    "Uyghur",
+    "Wolof"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.acl-long.903",
+  "acl_url": "https://aclanthology.org/2025.acl-long.903/"
+}

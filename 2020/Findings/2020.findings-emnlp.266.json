@@ -1,0 +1,20 @@
+{
+  "title": "Assessing Robustness of Text Classification through Maximal Safe Radius Computation",
+  "authors": [
+    "Emanuele La Malfa",
+    "Min Wu",
+    "Luca Laurenti",
+    "Benjie Wang",
+    "Anthony Hartshorn",
+    "Marta Kwiatkowska"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.findings-emnlp.266",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.266/"
+}

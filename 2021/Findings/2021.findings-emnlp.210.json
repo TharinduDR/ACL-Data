@@ -1,0 +1,25 @@
+{
+  "title": "Challenges in Detoxifying Language Models",
+  "authors": [
+    "Johannes Welbl",
+    "Amelia Glaese",
+    "Jonathan Uesato",
+    "Sumanth Dathathri",
+    "John Mellor",
+    "Lisa Anne Hendricks",
+    "Kirsty Anderson",
+    "Pushmeet Kohli",
+    "Ben Coppin",
+    "Po-Sen Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.findings-emnlp.210",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.210/"
+}

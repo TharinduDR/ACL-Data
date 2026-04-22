@@ -1,0 +1,30 @@
+{
+  "title": "Less, but Better: Efficient Multilingual Expansion for LLMs via Layer-wise Mixture-of-Experts",
+  "authors": [
+    "Xue Zhang",
+    "Yunlong Liang",
+    "Fandong Meng",
+    "Songming Zhang",
+    "Yufeng Chen",
+    "Jinan Xu",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Greek",
+    "Hungarian",
+    "Turkish",
+    "Bengali",
+    "Hindi",
+    "Nepali"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.878",
+  "acl_url": "https://aclanthology.org/2025.acl-long.878/"
+}

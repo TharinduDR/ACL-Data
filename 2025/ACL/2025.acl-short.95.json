@@ -1,0 +1,22 @@
+{
+  "title": "Cross-Linguual Representation Alignment Through Contrastive Image-Caption Tuning",
+  "authors": [
+    "Nathaniel Krasner",
+    "Nicholas Lanuzo",
+    "Antonios Anastasopoulos"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Japanese",
+    "Hindi",
+    "Quechua"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2025.acl-short.95",
+  "acl_url": "https://aclanthology.org/2025.acl-short.95/"
+}

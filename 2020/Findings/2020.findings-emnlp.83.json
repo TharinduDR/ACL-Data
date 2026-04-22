@@ -1,0 +1,25 @@
+{
+  "title": "Cross-lingual Alignment Methods for Multilingual BERT: A Comparative Study",
+  "authors": [
+    "Saurabh Kulshreshtha",
+    "José Luis Redondo-García",
+    "Ching-Yun Chang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Dutch",
+    "Hindi",
+    "Turkish",
+    "Armenian",
+    "Thai"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.findings-emnlp.83",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.83/"
+}

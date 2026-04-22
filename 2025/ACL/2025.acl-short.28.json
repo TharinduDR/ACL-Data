@@ -1,0 +1,18 @@
+{
+  "title": "Can Large Language Models Accurately Generate Answer Keys for Health-related Questions?",
+  "authors": [
+    "Davis Bartles",
+    "Deepak Gupta",
+    "Dina Demner-Fushman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.acl-short.28",
+  "acl_url": "https://aclanthology.org/2025.acl-short.28/"
+}

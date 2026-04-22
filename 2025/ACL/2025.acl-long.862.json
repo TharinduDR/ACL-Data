@@ -1,0 +1,22 @@
+{
+  "title": "Understanding Large Language Model Vulnerabilities to Social Bias Attacks",
+  "authors": [
+    "Jiaxu Zhao",
+    "Meng Fang",
+    "Fanghua Ye",
+    "Ke Xu",
+    "Qin Zhang",
+    "Joey Tianyi Zhou",
+    "Mykola Pechenizkiy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.862",
+  "acl_url": "https://aclanthology.org/2025.acl-long.862/"
+}

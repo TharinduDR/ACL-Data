@@ -1,0 +1,21 @@
+{
+  "title": "Improving Generalization of Pre-trained Language Models via Stochastic Weight Averaging",
+  "authors": [
+    "Peng Lu",
+    "Ivan kobyzev",
+    "Mehdi Rezagholizadeh",
+    "Ahmad Rashid",
+    "Ali Ghodsi",
+    "Philippe Langlais"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2022.findings-emnlp.363",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.363/"
+}

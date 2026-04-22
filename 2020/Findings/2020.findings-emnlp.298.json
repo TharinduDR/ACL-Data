@@ -1,0 +1,18 @@
+{
+  "title": "Improve Transformer Models with Better Relative Position Embeddings",
+  "authors": [
+    "Zhiheng Huang",
+    "Davis Liang",
+    "Peng Xu",
+    "Bing Xiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2020.findings-emnlp.298",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.298/"
+}

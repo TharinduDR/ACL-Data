@@ -1,0 +1,22 @@
+{
+  "title": "Unveiling Privacy Risks in LLM Agent Memory",
+  "authors": [
+    "Bo Wang",
+    "Weiyi He",
+    "Shenglai Zeng",
+    "Zhen Xiang",
+    "Yue Xing",
+    "Jiliang Tang",
+    "Pengfei He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.acl-long.1227",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1227/"
+}

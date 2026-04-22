@@ -1,0 +1,23 @@
+{
+  "title": "RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts",
+  "authors": [
+    "Mingyan Wu",
+    "Zhenghao Liu",
+    "Yukun Yan",
+    "Xinze Li",
+    "Shi Yu",
+    "Zheni Zeng",
+    "Yu Gu",
+    "Ge Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.629",
+  "acl_url": "https://aclanthology.org/2025.acl-long.629/"
+}

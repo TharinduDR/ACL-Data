@@ -1,0 +1,22 @@
+{
+  "title": "SpindleKV: A Novel KV Cache Reduction Method Balancing Both Shallow and Deep Layers",
+  "authors": [
+    "Zicong Tang",
+    "Shi Luohe",
+    "Zuchao Li",
+    "Baoyuan Qi",
+    "Liu Guoming",
+    "Lefei Zhang",
+    "Ping Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.acl-long.1380",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1380/"
+}

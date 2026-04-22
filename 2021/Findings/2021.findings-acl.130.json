@@ -1,0 +1,20 @@
+{
+  "title": "PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support",
+  "authors": [
+    "Hao Sun",
+    "Zhenru Lin",
+    "Chujie Zheng",
+    "Siyang Liu",
+    "Minlie Huang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-acl.130",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.130/"
+}

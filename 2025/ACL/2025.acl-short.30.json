@@ -1,0 +1,17 @@
+{
+  "title": "A Little Human Data Goes A Long Way",
+  "authors": [
+    "Dhananjay Ashok",
+    "Jonathan May"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-short.30",
+  "acl_url": "https://aclanthology.org/2025.acl-short.30/"
+}

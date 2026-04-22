@@ -1,0 +1,23 @@
+{
+  "title": "Third-Party Aligner for Neural Word Alignments",
+  "authors": [
+    "Jinpeng Zhang",
+    "Chuanqi Dong",
+    "Xiangyu Duan",
+    "Yuqi Zhang",
+    "Min Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "French",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2022.findings-emnlp.228",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.228/"
+}

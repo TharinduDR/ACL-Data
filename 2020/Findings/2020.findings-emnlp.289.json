@@ -1,0 +1,18 @@
+{
+  "title": "Towards Zero-Shot Conditional Summarization with Adaptive Multi-Task Fine-Tuning",
+  "authors": [
+    "Travis R. Goodwin",
+    "Max E. Savery",
+    "Dina Demner-Fushman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2020.findings-emnlp.289",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.289/"
+}

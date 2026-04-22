@@ -1,0 +1,22 @@
+{
+  "title": "HiDe-LLaVA: Hierarchical Decoupling for Continual Instruction Tuning of Multimodal Large Language Model",
+  "authors": [
+    "Haiyang Guo",
+    "Fanhu Zeng",
+    "Ziwei Xiang",
+    "Fei Zhu",
+    "Da-Han Wang",
+    "Xu-Yao Zhang",
+    "Cheng-Lin Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.666",
+  "acl_url": "https://aclanthology.org/2025.acl-long.666/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Template-Based Named Entity Recognition Using BART",
+  "authors": [
+    "Leyang Cui",
+    "Yu Wu",
+    "Jian Liu",
+    "Sen Yang",
+    "Yue Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.findings-acl.161",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.161/"
+}

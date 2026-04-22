@@ -1,0 +1,21 @@
+{
+  "title": "EfficientQAT: Efficient Quantization-Aware Training for Large Language Models",
+  "authors": [
+    "Mengzhao Chen",
+    "Wenqi Shao",
+    "Peng Xu",
+    "Jiahao Wang",
+    "Peng Gao",
+    "Kaipeng Zhang",
+    "Ping Luo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.498",
+  "acl_url": "https://aclanthology.org/2025.acl-long.498/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Structurally Diverse Sampling for Sample-Efficient Training and Comprehensive Evaluation",
+  "authors": [
+    "Shivanshu Gupta",
+    "Sameer Singh",
+    "Matt Gardner"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.365",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.365/"
+}

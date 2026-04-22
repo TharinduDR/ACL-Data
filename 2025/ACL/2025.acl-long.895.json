@@ -1,0 +1,24 @@
+{
+  "title": "CodeTool: Enhancing Programmatic Tool Invocation of LLMs via Process Supervision",
+  "authors": [
+    "Yifei Lu",
+    "Fanghua Ye",
+    "Jian Li",
+    "Qiang Gao",
+    "Cheng Liu",
+    "Haibo Luo",
+    "Nan Du",
+    "Xiaolong Li",
+    "Feiliang Ren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.895",
+  "acl_url": "https://aclanthology.org/2025.acl-long.895/"
+}

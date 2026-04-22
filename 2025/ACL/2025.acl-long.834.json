@@ -1,0 +1,22 @@
+{
+  "title": "TripCraft: A Benchmark for Spatio-Temporally Fine Grained Travel Planning",
+  "authors": [
+    "Soumyabrata Chaudhuri",
+    "Pranav Purkar",
+    "Ritwik Raghav",
+    "Shubhojit Mallick",
+    "Manish Gupta",
+    "Abhik Jana",
+    "Shreya Ghosh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-long.834",
+  "acl_url": "https://aclanthology.org/2025.acl-long.834/"
+}

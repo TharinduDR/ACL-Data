@@ -1,0 +1,20 @@
+{
+  "title": "SeNsER: Learning Cross-Building Sensor Metadata Tagger",
+  "authors": [
+    "Yang Jiao",
+    "Jiacheng Li",
+    "Jiaman Wu",
+    "Dezhi Hong",
+    "Rajesh Gupta",
+    "Jingbo Shang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.85",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.85/"
+}

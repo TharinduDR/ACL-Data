@@ -1,0 +1,22 @@
+{
+  "title": "Logic2Text: High-Fidelity Natural Language Generation from Logical Forms",
+  "authors": [
+    "Zhiyu Chen",
+    "Wenhu Chen",
+    "Hanwen Zha",
+    "Xiyou Zhou",
+    "Yunkai Zhang",
+    "Sairam Sundaresan",
+    "William Yang Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T19 Text Summarization"
+  ],
+  "paper_id": "2020.findings-emnlp.190",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.190/"
+}

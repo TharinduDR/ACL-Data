@@ -1,0 +1,19 @@
+{
+  "title": "Segment-Based Attention Masking for GPTs",
+  "authors": [
+    "Shahar Katz",
+    "Liran Ringel",
+    "Yaniv Romano",
+    "Lior Wolf"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-long.947",
+  "acl_url": "https://aclanthology.org/2025.acl-long.947/"
+}

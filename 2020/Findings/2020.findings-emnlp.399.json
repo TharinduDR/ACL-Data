@@ -1,0 +1,18 @@
+{
+  "title": "LIMIT-BERT : Linguistics Informed Multi-Task BERT",
+  "authors": [
+    "Junru Zhou",
+    "Zhuosheng Zhang",
+    "Hai Zhao",
+    "Shuailiang Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.399",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.399/"
+}

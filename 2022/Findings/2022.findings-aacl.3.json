@@ -1,0 +1,19 @@
+{
+  "title": "KreolMorisienMT: A Dataset for Mauritian Creole Machine Translation",
+  "authors": [
+    "Raj Dabre",
+    "Aneerav Sukhoo"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Mauritian Creole"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-aacl.3",
+  "acl_url": "https://aclanthology.org/2022.findings-aacl.3/"
+}

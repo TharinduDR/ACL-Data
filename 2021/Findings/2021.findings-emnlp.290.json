@@ -1,0 +1,26 @@
+{
+  "title": "MDAPT: Multilingual Domain Adaptive Pretraining in a Single Model",
+  "authors": [
+    "Rasmus Kær Jørgensen",
+    "Mareike Hartmann",
+    "Xiang Dai",
+    "Desmond Elliott"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Romanian",
+    "Portuguese",
+    "Italian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2021.findings-emnlp.290",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.290/"
+}

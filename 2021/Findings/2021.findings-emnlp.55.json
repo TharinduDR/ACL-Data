@@ -1,0 +1,24 @@
+{
+  "title": "Saliency-based Multi-View Mixed Language Training for Zero-shot Cross-lingual Classification",
+  "authors": [
+    "Siyu Lai",
+    "Hui Huang",
+    "Dong Jing",
+    "Yufeng Chen",
+    "Jinan Xu",
+    "Jian Liu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.findings-emnlp.55",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.55/"
+}

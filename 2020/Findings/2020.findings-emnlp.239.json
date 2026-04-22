@@ -1,0 +1,20 @@
+{
+  "title": "Hierarchical Pre-training for Sequence Labelling in Spoken Dialog",
+  "authors": [
+    "Emile Chapuis",
+    "Pierre Colombo",
+    "Matteo Manica",
+    "Matthieu Labeau",
+    "Chloe Clavel"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.findings-emnlp.239",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.239/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "N-gram Is Back: Residual Learning of Neural Text Generation with n-gram Language Model",
+  "authors": [
+    "Huayang Li",
+    "Deng Cai",
+    "Jin Xu",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Vietnamese",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.findings-emnlp.109",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.109/"
+}

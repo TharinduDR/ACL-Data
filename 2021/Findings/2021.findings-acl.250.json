@@ -1,0 +1,23 @@
+{
+  "title": "Do Multilingual Neural Machine Translation Models Contain Language Pair Specific Attention Heads?",
+  "authors": [
+    "Zae Myung Kim",
+    "Laurent Besacier",
+    "Vassilina Nikoulina",
+    "Didier Schwab"
+  ],
+  "languages": [
+    "French",
+    "German",
+    "Italian",
+    "Spanish",
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.findings-acl.250",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.250/"
+}

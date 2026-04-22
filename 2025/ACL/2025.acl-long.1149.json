@@ -1,0 +1,32 @@
+{
+  "title": "MPO: Multilingual Safety Alignment via Reward Gap Optimization",
+  "authors": [
+    "Weixiang Zhao",
+    "Yulin Hu",
+    "Yang Deng",
+    "Tongtong Wu",
+    "Wenxuan Zhang",
+    "Jiahe Guo",
+    "An Zhang",
+    "Yanyan Zhao",
+    "Bing Qin",
+    "Tat-Seng Chua",
+    "Ting Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Korean",
+    "Arabic",
+    "Bengali",
+    "Swahili",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1149",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1149/"
+}

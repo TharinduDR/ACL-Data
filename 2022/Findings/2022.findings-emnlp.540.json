@@ -1,0 +1,40 @@
+{
+  "title": "CHIA: CHoosing Instances to Annotate for Machine Translation",
+  "authors": [
+    "Rajat Bhatnagar",
+    "Ananya Ganesh",
+    "Katharina Kann"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Finnish",
+    "Slovak",
+    "Bulgarian",
+    "Czech",
+    "Danish",
+    "Estonian",
+    "French",
+    "Hungarian",
+    "Italian",
+    "Lithuanian",
+    "Latvian",
+    "Dutch",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Slovene",
+    "Swedish",
+    "Lashi",
+    "Tampulma",
+    "Cebuano",
+    "Yucatec Maya",
+    "Dyula"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.findings-emnlp.540",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.540/"
+}

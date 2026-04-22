@@ -1,0 +1,26 @@
+{
+  "title": "TyDiP: A Dataset for Politeness Classification in Nine Typologically Diverse Languages",
+  "authors": [
+    "Anirudh Srinivasan",
+    "Eunsol Choi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Korean",
+    "Spanish",
+    "Tamil",
+    "French",
+    "Vietnamese",
+    "Russian",
+    "Afrikaans",
+    "Hungarian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.findings-emnlp.420",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.420/"
+}

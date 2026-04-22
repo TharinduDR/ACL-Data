@@ -1,0 +1,23 @@
+{
+  "title": "An Information-Theoretic Approach and Dataset for Probing Gender Stereotypes in Multilingual Masked Language Models",
+  "authors": [
+    "Victor Steinborn",
+    "Philipp Dufter",
+    "Haris Jabbar",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Finnish",
+    "Indonesian",
+    "Thai"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2022.findings-naacl.69",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.69/"
+}

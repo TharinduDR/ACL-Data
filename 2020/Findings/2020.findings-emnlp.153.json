@@ -1,0 +1,19 @@
+{
+  "title": "Improving Constituency Parsing with Span Attention",
+  "authors": [
+    "Yuanhe Tian",
+    "Yan Song",
+    "Fei Xia",
+    "Tong Zhang"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.153",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.153/"
+}

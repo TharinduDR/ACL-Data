@@ -1,0 +1,24 @@
+{
+  "title": "Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking",
+  "authors": [
+    "Yilong Chen",
+    "Junyuan Shang",
+    "Zhenyu Zhang",
+    "Yanxi Xie",
+    "Jiawei Sheng",
+    "Tingwen Liu",
+    "Shuohuan Wang",
+    "Yu Sun",
+    "Hua Wu",
+    "Haifeng Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.1369",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1369/"
+}

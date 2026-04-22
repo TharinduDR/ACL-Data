@@ -1,0 +1,22 @@
+{
+  "title": "GerMedIQ: A Resource for Simulated and Synthesized Anamnesis Interview Responses in German",
+  "authors": [
+    "Justin Hofenbitzer",
+    "Sebastian Schöning",
+    "Sebastian Belle",
+    "Jacqueline Lammert",
+    "Luise Modersohn",
+    "Martin Boeker",
+    "Diego Frassinelli"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-srw.84",
+  "acl_url": "https://aclanthology.org/2025.acl-srw.84/"
+}

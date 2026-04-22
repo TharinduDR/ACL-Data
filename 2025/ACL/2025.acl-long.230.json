@@ -1,0 +1,28 @@
+{
+  "title": "SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model",
+  "authors": [
+    "Xun Liang",
+    "Simin Niu",
+    "Zhiyu Li",
+    "Sensen Zhang",
+    "Hanyu Wang",
+    "Feiyu Xiong",
+    "Jason Zhaoxin Fan",
+    "Bo Tang",
+    "Jihao Zhao",
+    "Jiawei Yang",
+    "Shichao Song",
+    "Mengwei Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.acl-long.230",
+  "acl_url": "https://aclanthology.org/2025.acl-long.230/"
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Bridging the Language Gaps in Large Language Models with Inference-Time Cross-Lingual Intervention",
+  "authors": [
+    "Weixuan Wang",
+    "Minghao Wu",
+    "Barry Haddow",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Greek",
+    "Spanish",
+    "Estonian",
+    "French",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Dutch",
+    "Portuguese",
+    "Russian",
+    "Swahili",
+    "Tamil",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.270",
+  "acl_url": "https://aclanthology.org/2025.acl-long.270/"
+}

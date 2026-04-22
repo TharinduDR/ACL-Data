@@ -1,0 +1,21 @@
+{
+  "title": "SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation",
+  "authors": [
+    "Jialong Wu",
+    "Zhenglin Wang",
+    "Linhai Zhang",
+    "Yilong Lai",
+    "Yulan He",
+    "Deyu Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.acl-long.529",
+  "acl_url": "https://aclanthology.org/2025.acl-long.529/"
+}

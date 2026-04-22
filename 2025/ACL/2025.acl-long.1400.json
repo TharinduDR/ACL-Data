@@ -1,0 +1,25 @@
+{
+  "title": "LLMs Trust Humans More, That's a Problem! Unveiling and Mitigating the Authority Bias in Retrieval-Augmented Generation",
+  "authors": [
+    "Yuxuan Li",
+    "Xinwei Guo",
+    "Jiashi Gao",
+    "Guanhua Chen",
+    "Xiangyu Zhao",
+    "Jiaxin Zhang",
+    "Quanying Liu",
+    "Haiyan Wu",
+    "Xin Yao",
+    "Xuetao Wei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.1400",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1400/"
+}

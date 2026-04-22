@@ -1,0 +1,21 @@
+{
+  "title": "UnCIE: Explicitly Leveraging Semantic Similarity to Reduce the Parameters of Word Embeddings",
+  "authors": [
+    "Zhi Li",
+    "Yuchen Zhai",
+    "Chengyu Wang",
+    "Minghui Qiu",
+    "Kailiang Li",
+    "Yin Zhang"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2021.findings-emnlp.156",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.156/"
+}

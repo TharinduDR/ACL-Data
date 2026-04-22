@@ -1,0 +1,20 @@
+{
+  "title": "MobiLoRA: Accelerating LoRA-based LLM Inference on Mobile Devices via Context-aware KV Cache Optimization",
+  "authors": [
+    "Borui Li",
+    "Yitao Wang",
+    "Haoran Ma",
+    "Ligeng Chen",
+    "Jun Xiao",
+    "Shuai Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2025.acl-long.1140",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1140/"
+}

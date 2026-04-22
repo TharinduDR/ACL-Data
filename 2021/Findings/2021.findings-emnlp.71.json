@@ -1,0 +1,20 @@
+{
+  "title": "Probing Across Time: What Does RoBERTa Know and When?",
+  "authors": [
+    "Leo Z. Liu",
+    "Yizhong Wang",
+    "Jungo Kasai",
+    "Hannaneh Hajishirzi",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-emnlp.71",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.71/"
+}

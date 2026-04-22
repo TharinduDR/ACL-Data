@@ -1,0 +1,22 @@
+{
+  "title": "Dynamic Head Selection for Neural Lexicalized Constituency Parsing",
+  "authors": [
+    "Yang Hou",
+    "Zhenghua Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Korean",
+    "Hungarian",
+    "Basque",
+    "Polish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.acl-long.786",
+  "acl_url": "https://aclanthology.org/2025.acl-long.786/"
+}

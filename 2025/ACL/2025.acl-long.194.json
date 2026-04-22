@@ -1,0 +1,33 @@
+{
+  "title": "Enhancing Character-Level Understanding in LLMs through Token Internal Structure Learning",
+  "authors": [
+    "Zhu Xu",
+    "Zhiqiang Zhao",
+    "Zihan Zhang",
+    "Yuchi Liu",
+    "Quanwei Shen",
+    "Fei Liu",
+    "Yu Kuang",
+    "Jian He",
+    "Conglin Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Arabic",
+    "Bengali",
+    "Finnish",
+    "Indonesian",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T29",
+    "T14",
+    "T08"
+  ],
+  "paper_id": "2025.acl-long.194",
+  "acl_url": "https://aclanthology.org/2025.acl-long.194/"
+}

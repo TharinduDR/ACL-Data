@@ -1,0 +1,20 @@
+{
+  "title": "On Synthetic Data Strategies for Domain-Specific Generative Retrieval",
+  "authors": [
+    "Haoyang Wen",
+    "Jiang Guo",
+    "Yi Zhang",
+    "Jiarong Jiang",
+    "Zhiguo Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.392",
+  "acl_url": "https://aclanthology.org/2025.acl-long.392/"
+}

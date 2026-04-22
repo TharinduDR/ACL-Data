@@ -1,0 +1,21 @@
+{
+  "title": "DenseLoRA: Dense Low-Rank Adaptation of Large Language Models",
+  "authors": [
+    "Lin Mu",
+    "Xiaoyu Wang",
+    "Li Ni",
+    "Yang Li",
+    "Zhize Wu",
+    "Peiquan Jin",
+    "Yiwen Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.503",
+  "acl_url": "https://aclanthology.org/2025.acl-long.503/"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Dependency Parsing via Sequence Generation",
+  "authors": [
+    "Boda Lin",
+    "Zijun Yao",
+    "Jiaxin Shi",
+    "Shulin Cao",
+    "Binghao Tang",
+    "Si Li",
+    "Yong Luo",
+    "Juanzi Li",
+    "Lei Hou"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Bulgarian",
+    "Catalan",
+    "Czech",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Norwegian",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-emnlp.543",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.543/"
+}

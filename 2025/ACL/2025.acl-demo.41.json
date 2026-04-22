@@ -1,0 +1,23 @@
+{
+  "title": "LiDARR: Linking Document AMRs with Referents Resolvers",
+  "authors": [
+    "Jon Z. Cai",
+    "Kristin Wright-Bettner",
+    "Zekun Zhao",
+    "Shafiuuddin Rehan Ahmed",
+    "Abijith Trichur Ramachandran",
+    "Jeffrey Flanigan",
+    "Martha Palmer",
+    "James H. Martin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.acl-demo.41",
+  "acl_url": "https://aclanthology.org/2025.acl-demo.41/"
+}

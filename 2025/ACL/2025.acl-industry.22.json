@@ -1,0 +1,27 @@
+{
+  "title": "LOTUS: A Leaderboard for Detailed Image Captioning from Quality to Societal Bias and User Preferences",
+  "authors": [
+    "Yusuke Hirota",
+    "Boyi Li",
+    "Ryo Hachiuma",
+    "Yueh-Hua Wu",
+    "Boris Ivanovic",
+    "Yuta Nakashima",
+    "Marco Pavone",
+    "Yejin Choi",
+    "Yu-Chiang Frank Wang",
+    "Huck Yang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.acl-industry.22",
+  "acl_url": "https://aclanthology.org/2025.acl-industry.22/"
+}

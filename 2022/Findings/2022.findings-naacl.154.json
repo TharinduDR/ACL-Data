@@ -1,0 +1,19 @@
+{
+  "title": "NLU++: A Multi-Label, Slot-Rich, Generalisable Dataset for Natural Language Understanding in Task-Oriented Dialogue",
+  "authors": [
+    "Iñigo Casanueva",
+    "Ivan Vulić",
+    "Georgios P. Spithourakis",
+    "Paweł Budzianowski"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-naacl.154",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.154/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Bootstrapping a Crosslingual Semantic Parser",
+  "authors": [
+    "Tom Sherborne",
+    "Yumo Xu",
+    "Mirella Lapata"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16",
+    "T21",
+    "T15"
+  ],
+  "paper_id": "2020.findings-emnlp.45",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.45/"
+}

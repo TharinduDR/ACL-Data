@@ -1,0 +1,32 @@
+{
+  "title": "Multilingual CheckList: Generation and Evaluation",
+  "authors": [
+    "Karthikeyan K",
+    "Shaily Bhatt",
+    "Pankaj Singh",
+    "Somak Aditya",
+    "Sandipan Dandapat",
+    "Sunayana Sitaram",
+    "Monojit Choudhury"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Gujarati",
+    "French",
+    "Swahili",
+    "Arabic",
+    "German",
+    "Spanish",
+    "Russian",
+    "Vietnamese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.findings-aacl.27",
+  "acl_url": "https://aclanthology.org/2022.findings-aacl.27/"
+}

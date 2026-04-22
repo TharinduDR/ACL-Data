@@ -1,0 +1,21 @@
+{
+  "title": "Removal of Hallucination on Hallucination: Debate-Augmented RAG",
+  "authors": [
+    "Wentao Hu",
+    "Wengyu Zhang",
+    "Yiyang Jiang",
+    "Chen Jason Zhang",
+    "Xiaoyong Wei",
+    "Qing Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.acl-long.770",
+  "acl_url": "https://aclanthology.org/2025.acl-long.770/"
+}

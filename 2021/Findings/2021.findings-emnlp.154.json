@@ -1,0 +1,19 @@
+{
+  "title": "fBERT: A Neural Transformer for Identifying Offensive Content",
+  "authors": [
+    "Diptanu Sarkar",
+    "Marcos Zampieri",
+    "Tharindu Ranasinghe",
+    "Alexander Ororbia"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.findings-emnlp.154",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.154/"
+}

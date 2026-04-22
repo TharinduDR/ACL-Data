@@ -1,0 +1,19 @@
+{
+  "title": "Towards Controllable Biases in Language Generation",
+  "authors": [
+    "Emily Sheng",
+    "Kai-Wei Chang",
+    "Premkumar Natarajan",
+    "Nanyun Peng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.291",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.291/"
+}

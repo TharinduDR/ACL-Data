@@ -1,0 +1,20 @@
+{
+  "title": "PCEE-BERT: Accelerating BERT Inference via Patient and Confident Early Exiting",
+  "authors": [
+    "Zhen Zhang",
+    "Wei Zhu",
+    "Jinfan Zhang",
+    "Peng Wang",
+    "Rize Jin",
+    "Tae-Sun Chung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2022.findings-naacl.25",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.25/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Ontology-Guided Reverse Thinking Makes Large Language Models Stronger on Knowledge Graph Question Answering",
+  "authors": [
+    "Runxuan Liu",
+    "Bei Luo",
+    "Jiaqi Li",
+    "Baoxin Wang",
+    "Ming Liu",
+    "Dayong Wu",
+    "Shijin Wang",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.acl-long.741",
+  "acl_url": "https://aclanthology.org/2025.acl-long.741/"
+}

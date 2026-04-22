@@ -1,0 +1,23 @@
+{
+  "title": "Beyond Text Compression: Evaluating Tokenizers Across Scales",
+  "authors": [
+    "Jonas F. Lotz",
+    "António V. Lopes",
+    "Stephan Peitz",
+    "Hendra Setiawan",
+    "Leonardo Emili"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.acl-long.1546",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1546/"
+}

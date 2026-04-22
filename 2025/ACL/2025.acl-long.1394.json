@@ -1,0 +1,23 @@
+{
+  "title": "Pretraining Context Compressor for Large Language Models with Embedding-Based Memory",
+  "authors": [
+    "Yuhong Dai",
+    "Jianxun Lian",
+    "Yitian Huang",
+    "Wei Zhang",
+    "Mingyang Zhou",
+    "Mingqi Wu",
+    "Xing Xie",
+    "Hao Liao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.1394",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1394/"
+}

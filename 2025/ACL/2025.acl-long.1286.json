@@ -1,0 +1,22 @@
+{
+  "title": "CSTree-SRI: Introspection-Driven Cognitive Semantic Tree for Multi-Turn Question Answering over Extra-Long Contexts",
+  "authors": [
+    "Zhaowen Wang",
+    "Xiang Wei",
+    "Kangshao Du",
+    "Yiting Zhang",
+    "Libo Qin",
+    "Yingjie Xia",
+    "Li Kuang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1286",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1286/"
+}

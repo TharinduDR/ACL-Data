@@ -1,0 +1,24 @@
+{
+  "title": "Annotations Matter: Leveraging Multi-task Learning to Parse UD and SUD",
+  "authors": [
+    "Zeeshan Ali Sayyed",
+    "Daniel Dakota"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Hungarian",
+    "Chinese",
+    "Finnish",
+    "Korean",
+    "Russian",
+    "Turkish",
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-acl.305",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.305/"
+}

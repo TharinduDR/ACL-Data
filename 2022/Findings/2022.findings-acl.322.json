@@ -1,0 +1,23 @@
+{
+  "title": "Structural Supervision for Word Alignment and Machine Translation",
+  "authors": [
+    "Lei Li",
+    "Kai Fan",
+    "Hongjia Li",
+    "Chun Yuan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Romanian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.findings-acl.322",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.322/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings",
+  "authors": [
+    "Masoud Jalili Sabet",
+    "Philipp Dufter",
+    "François Yvon",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Persian",
+    "French",
+    "Hindi",
+    "Romanian",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.147",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.147/"
+}

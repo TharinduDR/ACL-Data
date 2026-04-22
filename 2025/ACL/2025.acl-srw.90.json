@@ -1,0 +1,20 @@
+{
+  "title": "Time-LlaMA: Adapting Large Language Models for Time Series Modeling via Dynamic Low-rank Adaptation",
+  "authors": [
+    "Juyuan Zhang",
+    "Jiechao Gao",
+    "Wenwen Ouyang",
+    "Wei Zhu",
+    "Hui Yi Leong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-srw.90",
+  "acl_url": "https://aclanthology.org/2025.acl-srw.90/"
+}

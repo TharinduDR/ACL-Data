@@ -1,0 +1,20 @@
+{
+  "title": "XDAC: XAI-Driven Detection and Attribution of LLM-Generated News Comments in Korean",
+  "authors": [
+    "Wooyoung Go",
+    "Hyoungshick Kim",
+    "Alice Oh",
+    "Yongdae Kim"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.acl-long.1108",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1108/"
+}

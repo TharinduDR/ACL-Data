@@ -1,0 +1,18 @@
+{
+  "title": "ForumSum: A Multi-Speaker Conversation Summarization Dataset",
+  "authors": [
+    "Misha Khalman",
+    "Yao Zhao",
+    "Mohammad Saleh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2021.findings-emnlp.391",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.391/"
+}

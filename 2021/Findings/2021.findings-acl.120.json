@@ -1,0 +1,23 @@
+{
+  "title": "Detecting Hallucinated Content in Conditional Neural Sequence Generation",
+  "authors": [
+    "Chunting Zhou",
+    "Graham Neubig",
+    "Jiatao Gu",
+    "Mona Diab",
+    "Francisco Guzmán",
+    "Luke Zettlemoyer",
+    "Marjan Ghazvininejad"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.findings-acl.120",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.120/"
+}

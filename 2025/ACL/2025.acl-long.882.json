@@ -1,0 +1,25 @@
+{
+  "title": "InSertEr: Speech Instruction Following with Unsupervised Interleaved Pre-training",
+  "authors": [
+    "Dingdong Wang",
+    "Jin Xu",
+    "Ruihang Chu",
+    "Zhifang Guo",
+    "Xiong Wang",
+    "Jincenzi Wu",
+    "Dongchao Yang",
+    "Shengpeng Ji",
+    "Junyang Lin"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.882",
+  "acl_url": "https://aclanthology.org/2025.acl-long.882/"
+}

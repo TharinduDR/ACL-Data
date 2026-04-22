@@ -1,0 +1,22 @@
+{
+  "title": "SEUF: Is Unlearning One Expert Enough for Mixture-of-Experts LLMs?",
+  "authors": [
+    "Haomin Zhuang",
+    "Yihua Zhang",
+    "Kehan Guo",
+    "Jinghan Jia",
+    "Gaowen Liu",
+    "Sijia Liu",
+    "Xiangliang Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.acl-long.424",
+  "acl_url": "https://aclanthology.org/2025.acl-long.424/"
+}

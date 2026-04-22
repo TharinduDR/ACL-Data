@@ -1,0 +1,21 @@
+{
+  "title": "S³ - Semantic Signal Separation",
+  "authors": [
+    "Márton Kardos",
+    "Jan Kostkan",
+    "Kenneth Enevoldsen",
+    "Arnaud-Quentin Vermillet",
+    "Kristoffer Nielbo",
+    "Roberta Rocca"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.32",
+  "acl_url": "https://aclanthology.org/2025.acl-long.32/"
+}

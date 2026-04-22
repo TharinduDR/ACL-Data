@@ -1,0 +1,21 @@
+{
+  "title": "PTUM: Pre-training User Model from Unlabeled User Behaviors via Self-supervision",
+  "authors": [
+    "Chuhan Wu",
+    "Fangzhao Wu",
+    "Tao Qi",
+    "Jianxun Lian",
+    "Yongfeng Huang",
+    "Xing Xie"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.174",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.174/"
+}

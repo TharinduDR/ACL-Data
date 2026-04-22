@@ -1,0 +1,37 @@
+{
+  "title": "DOCmT5: Document-Level Pretraining of Multilingual Language Models",
+  "authors": [
+    "Chia-Hsuan Lee",
+    "Aditya Siddhant",
+    "Viresh Ratnakar",
+    "Melvin Johnson"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "Hindi",
+    "Indonesian",
+    "Russian",
+    "Vietnamese",
+    "German",
+    "Turkish",
+    "Arabic",
+    "Bengali",
+    "Farsi",
+    "Korean",
+    "Lithuanian",
+    "Malay",
+    "Persian",
+    "Portuguese",
+    "Thai",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.findings-naacl.32",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.32/"
+}

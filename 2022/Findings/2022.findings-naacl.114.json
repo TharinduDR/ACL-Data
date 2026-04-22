@@ -1,0 +1,26 @@
+{
+  "title": "Domain-matched Pre-training Tasks for Dense Retrieval",
+  "authors": [
+    "Barlas Oüguz",
+    "Kushal Lakhotia",
+    "Anchit Gupta",
+    "Patrick Lewis",
+    "Vladimir Karpukhin",
+    "Aleksandra Piktus",
+    "Xilun Chen",
+    "Sebastian Riedel",
+    "Wen-tau Yih",
+    "Sonal Gupta",
+    "Yashar Mehdad"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.findings-naacl.114",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.114/"
+}

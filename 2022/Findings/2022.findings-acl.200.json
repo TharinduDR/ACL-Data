@@ -1,0 +1,20 @@
+{
+  "title": "Detecting Various Types of Noise for Neural Machine Translation",
+  "authors": [
+    "Christian Herold",
+    "Jan Rosendahl",
+    "Joris Vanvinckenroye",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Khmer"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.findings-acl.200",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.200/"
+}

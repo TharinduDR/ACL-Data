@@ -1,0 +1,23 @@
+{
+  "title": "JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs",
+  "authors": [
+    "Pei Ke",
+    "Haozhe Ji",
+    "Yu Ran",
+    "Xin Cui",
+    "Liwei Wang",
+    "Linfeng Song",
+    "Xiaoyan Zhu",
+    "Minlie Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2021.findings-acl.223",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.223/"
+}

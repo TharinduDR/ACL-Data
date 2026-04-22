@@ -1,0 +1,20 @@
+{
+  "title": "Improving Named Entity Recognition with Attentive Ensemble of Syntactic Information",
+  "authors": [
+    "Yuyang Nie",
+    "Yuanhe Tian",
+    "Yan Song",
+    "Xiang Ao",
+    "Xiang Wan"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.378",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.378/"
+}

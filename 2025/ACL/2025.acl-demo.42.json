@@ -1,0 +1,21 @@
+{
+  "title": "SlimLM: An Efficient Small Language Model for On-Device Document Assistance",
+  "authors": [
+    "Thang M. Pham",
+    "Phat T. Nguyen",
+    "Seunghyun Yoon",
+    "Viet Dac Lai",
+    "Franck Dernoncourt",
+    "Trung Bui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-demo.42",
+  "acl_url": "https://aclanthology.org/2025.acl-demo.42/"
+}

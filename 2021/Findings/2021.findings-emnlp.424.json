@@ -1,0 +1,22 @@
+{
+  "title": "GeDi: Generative Discriminator Guided Sequence Generation",
+  "authors": [
+    "Ben Krause",
+    "Akhilesh Deepak Gotmare",
+    "Bryan McCann",
+    "Nitish Shirish Keskar",
+    "Shafiq Joty",
+    "Richard Socher",
+    "Nazneen Fatema Rajani"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-emnlp.424",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.424/"
+}

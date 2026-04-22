@@ -1,0 +1,40 @@
+{
+  "title": "SYGMA: A System for Generalizable and Modular Question Answering Over Knowledge Bases",
+  "authors": [
+    "Sumit Neelam",
+    "Udit Sharma",
+    "Hima Karanam",
+    "Shajith Ikbal",
+    "Pavan Kapanipathi",
+    "Ibrahim Abdelaziz",
+    "Nandana Mihindukulasooriya",
+    "Young-Suk Lee",
+    "Santosh Srivastava",
+    "Cezar Pendus",
+    "Saswati Dana",
+    "Dinesh Garg",
+    "Achille Fokoue",
+    "G P Shrivatsa Bhargav",
+    "Dinesh Khandelwal",
+    "Srinivas Ravishankar",
+    "Sairam Gurajada",
+    "Maria Chang",
+    "Rosario Uceda-Sosa",
+    "Salim Roukos",
+    "Alexander Gray",
+    "Guilherme Lima",
+    "Ryan Riegel",
+    "Francois Luu",
+    "L Venkata Subramaniam"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.284",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.284/"
+}

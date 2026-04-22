@@ -1,0 +1,30 @@
+{
+  "title": "PLATO-XL: Exploring the Large-scale Pre-training of Dialogue Generation",
+  "authors": [
+    "Siqi Bao",
+    "Huang He",
+    "Fan Wang",
+    "Hua Wu",
+    "Haifeng Wang",
+    "Wenquan Wu",
+    "Zhihua Wu",
+    "Zhen Guo",
+    "Hua Lu",
+    "Xinxian Huang",
+    "Xin Tian",
+    "Xinchao Xu",
+    "Yingzhan Lin",
+    "Zheng-Yu Niu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-aacl.10",
+  "acl_url": "https://aclanthology.org/2022.findings-aacl.10/"
+}

@@ -1,0 +1,38 @@
+{
+  "title": "MultiSocial: Multilingual Benchmark of Machine-Generated Text Detection of Social-Media Texts",
+  "authors": [
+    "Dominik Macko",
+    "Jakub Kopal",
+    "Robert Moro",
+    "Ivan Srba"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Catalan",
+    "Chinese",
+    "Croatian",
+    "Czech",
+    "Dutch",
+    "Estonian",
+    "German",
+    "Greek",
+    "Hungarian",
+    "Irish",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Scottish Gaelic",
+    "Slovak",
+    "Slovenian",
+    "Spanish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T28",
+    "T29"
+  ],
+  "paper_id": "2025.acl-long.36",
+  "acl_url": "https://aclanthology.org/2025.acl-long.36/"
+}

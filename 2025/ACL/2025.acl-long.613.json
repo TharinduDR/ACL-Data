@@ -1,0 +1,23 @@
+{
+  "title": "WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models",
+  "authors": [
+    "Yifu Chen",
+    "Shengpeng Ji",
+    "Haoxiao Wang",
+    "Ziqing Wang",
+    "Siyu Chen",
+    "Jinzheng He",
+    "Jin Xu",
+    "Zhou Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.613",
+  "acl_url": "https://aclanthology.org/2025.acl-long.613/"
+}

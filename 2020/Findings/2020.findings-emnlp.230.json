@@ -1,0 +1,26 @@
+{
+  "title": "Adaptive Feature Selection for End-to-End Speech Translation",
+  "authors": [
+    "Biao Zhang",
+    "Ivan Titov",
+    "Barry Haddow",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.findings-emnlp.230",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.230/"
+}

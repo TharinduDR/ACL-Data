@@ -1,0 +1,25 @@
+{
+  "title": "ControlSpeech: Towards Simultaneous and Independent Zero-shot Speaker Cloning and Zero-shot Language Style Control",
+  "authors": [
+    "Shengpeng Ji",
+    "Qian Chen",
+    "Wen Wang",
+    "Jialong Zuo",
+    "Minghui Fang",
+    "Ziyue Jiang",
+    "Hai Huang",
+    "Zehan Wang",
+    "Xize Cheng",
+    "Siqi Zheng",
+    "Zhou Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.346",
+  "acl_url": "https://aclanthology.org/2025.acl-long.346/"
+}

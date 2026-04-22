@@ -1,0 +1,23 @@
+{
+  "title": "ENGinius: A Bilingual LLM Optimized for Plant Construction Engineering",
+  "authors": [
+    "Wooseong Lee",
+    "Minseo Kim",
+    "Taeil Hur",
+    "Gyeonghwan Jang",
+    "Woncheol Lee",
+    "Maro Na",
+    "Taeuk Kim"
+  ],
+  "languages": [
+    "English",
+    "Korean"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2025.acl-industry.95",
+  "acl_url": "https://aclanthology.org/2025.acl-industry.95/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Incremental Text-to-Speech Synthesis with Prefix-to-Prefix Framework",
+  "authors": [
+    "Mingbo Ma",
+    "Baigong Zheng",
+    "Kaibo Liu",
+    "Renjie Zheng",
+    "Hairong Liu",
+    "Kainan Peng",
+    "Kenneth Church",
+    "Liang Huang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.findings-emnlp.346",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.346/"
+}

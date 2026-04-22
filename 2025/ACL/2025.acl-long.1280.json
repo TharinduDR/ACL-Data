@@ -1,0 +1,27 @@
+{
+  "title": "Can LLMs Deceive CLIP? Benchmarking Adversarial Compositionality of Pre-trained Multimodal Representation via Text Updates",
+  "authors": [
+    "Jaewoo Ahn",
+    "Heeseung Yun",
+    "Dayoon Ko",
+    "Gunhee Kim"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1280",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1280/"
+}

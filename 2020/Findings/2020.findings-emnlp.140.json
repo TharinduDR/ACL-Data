@@ -1,0 +1,23 @@
+{
+  "title": "STYLEDGPT: Stylized Response Generation with Pre-trained Language Models",
+  "authors": [
+    "Ze Yang",
+    "Wei Wu",
+    "Can Xu",
+    "Xinnian Liang",
+    "Jiaqi Bai",
+    "Liran Wang",
+    "Wei Wang",
+    "Zhoujun Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.140",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.140/"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "GLGE: A New General Language Generation Evaluation Benchmark",
+  "authors": [
+    "Dayiheng Liu",
+    "Yu Yan",
+    "Yeyun Gong",
+    "Weizhen Qi",
+    "Hang Zhang",
+    "Jian Jiao",
+    "Weizhu Chen",
+    "Jie Fu",
+    "Linjun Shou",
+    "Ming Gong",
+    "Pengcheng Wang",
+    "Jiusheng Chen",
+    "Daxin Jiang",
+    "Jiancheng Lv",
+    "Ruofei Zhang",
+    "Winnie Wu",
+    "Ming Zhou",
+    "Nan Duan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-acl.36",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.36/"
+}

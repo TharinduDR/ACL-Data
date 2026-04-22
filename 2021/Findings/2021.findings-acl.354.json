@@ -1,0 +1,23 @@
+{
+  "title": "Learning Contextualized Knowledge Structures for Commonsense Reasoning",
+  "authors": [
+    "Jun Yan",
+    "Mrigank Raman",
+    "Aaron Chan",
+    "Tianyu Zhang",
+    "Ryan Rossi",
+    "Handong Zhao",
+    "Sungchul Kim",
+    "Nedim Lipka",
+    "Xiang Ren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.findings-acl.354",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.354/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Leveraging In-Context Learning for Political Bias Testing of LLMs",
+  "authors": [
+    "Patrick Haller",
+    "Jannis Vamvas",
+    "Rico Sennrich",
+    "Lena A. Jäger"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.1205",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1205/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SMASH: Improving SMAll Language Models' Few-Shot Ability with Prompt-Based Distillation",
+  "authors": [
+    "Yueqian Wang",
+    "Chang Liu",
+    "Kai Chen",
+    "Xi Wang",
+    "Dongyan Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.findings-emnlp.492",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.492/"
+}

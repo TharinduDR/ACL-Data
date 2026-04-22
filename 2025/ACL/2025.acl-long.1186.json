@@ -1,0 +1,21 @@
+{
+  "title": "Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains",
+  "authors": [
+    "Kun Li",
+    "Tianhua Zhang",
+    "Xixin Wu",
+    "Hongyin Luo",
+    "James Glass",
+    "Helen Meng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.1186",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1186/"
+}

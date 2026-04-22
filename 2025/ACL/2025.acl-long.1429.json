@@ -1,0 +1,22 @@
+{
+  "title": "Reconsidering LLM Uncertainty Estimation Methods in the Wild",
+  "authors": [
+    "Yavuz Bakman",
+    "Duygu Nur Yaldiz",
+    "Sungmin Kang",
+    "Tuo Zhang",
+    "Baturalp Buyukates",
+    "Salman Avestimehr",
+    "Sai Praneeth Karimireddy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-long.1429",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1429/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "PROVBENCH: A Benchmark of Legal Provision Recommendation for Contract Auto-Reviewing",
+  "authors": [
+    "Xiuxuan Shen",
+    "Zhongyuan Jiang",
+    "Junsan Zhang",
+    "Junxiao Han",
+    "Yao Wan",
+    "Chengjie Guo",
+    "Bingcheng Liu",
+    "Jie Wu",
+    "Renxiang Li",
+    "Philip S. Yu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.acl-long.312",
+  "acl_url": "https://aclanthology.org/2025.acl-long.312/"
+}

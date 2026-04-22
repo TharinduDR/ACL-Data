@@ -1,0 +1,23 @@
+{
+  "title": "LAMB: A Training-Free Method to Enhance the Long-Context Understanding of SSMs via Attention-Guided Token Filtering",
+  "authors": [
+    "Zhifan Ye",
+    "Zheng Wang",
+    "Kejing Xia",
+    "Jihoon Hong",
+    "Leshu Li",
+    "Lexington Whalen",
+    "Cheng Wan",
+    "Yonggan Fu",
+    "Yingyan (Celine) Lin",
+    "Souvik Kundu"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-short.96",
+  "acl_url": "https://aclanthology.org/2025.acl-short.96/"
+}

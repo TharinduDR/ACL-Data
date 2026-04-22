@@ -1,0 +1,23 @@
+{
+  "title": "FlagEval-Arena: A Side-by-Side Comparative Evaluation Platform for Large Language Models and Text-Driven AIGC",
+  "authors": [
+    "Jing-Shu Zheng",
+    "Richeng Xuan",
+    "Bowen Qin",
+    "Zheqi He",
+    "Tongshuai Ren",
+    "Xuejing Li",
+    "Jin-Ge Yao",
+    "Xi Yang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-demo.56",
+  "acl_url": "https://aclanthology.org/2025.acl-demo.56/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "A Discourse-Aware Graph Neural Network for Emotion Recognition in Multi-Party Conversation",
+  "authors": [
+    "Yang Sun",
+    "Nan Yu",
+    "Guohong Fu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2021.findings-emnlp.252",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.252/"
+}

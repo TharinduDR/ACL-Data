@@ -1,0 +1,25 @@
+{
+  "title": "LEVEN: A Large-Scale Chinese Legal Event Detection Dataset",
+  "authors": [
+    "Feng Yao",
+    "Chaojun Xiao",
+    "Xiaozhi Wang",
+    "Zhiyuan Liu",
+    "Lei Hou",
+    "Cunchao Tu",
+    "Juanzi Li",
+    "Yun Liu",
+    "Weixing Shen",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2022.findings-acl.17",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.17/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Can a Large Language Model Keep My Secrets? A Study on LLM-Controlled Agents",
+  "authors": [
+    "Niklas Hemken",
+    "Sai Koneru",
+    "Florian Jacob",
+    "Hannes Hartenstein",
+    "Jan Niehues"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-srw.49",
+  "acl_url": "https://aclanthology.org/2025.acl-srw.49/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Simple or Complex? Complexity-Controllable Question Generation with Soft Templates and Deep Mixture of Experts Model",
+  "authors": [
+    "Sheng Bi",
+    "Xiya Cheng",
+    "Yuan-Fang Li",
+    "Lizhen Qu",
+    "Shirong Shen",
+    "Guilin Qi",
+    "Lu Pan",
+    "Yinlin Jiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2021.findings-emnlp.397",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.397/"
+}

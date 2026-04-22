@@ -1,0 +1,20 @@
+{
+  "title": "ConveRT: Efficient and Accurate Conversational Representations from Transformers",
+  "authors": [
+    "Matthew Henderson",
+    "Iñigo Casanueva",
+    "Nikola Mrkšić",
+    "Pei-Hao Su",
+    "Tsung-Hsien Wen",
+    "Ivan Vulić"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.findings-emnlp.196",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.196/"
+}

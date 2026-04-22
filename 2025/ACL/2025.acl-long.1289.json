@@ -1,0 +1,28 @@
+{
+  "title": "Make Imagination Clearer! Stable Diffusion-based Visual Imagination for Multimodal Machine Translation",
+  "authors": [
+    "Andong Chen",
+    "Yuchen Song",
+    "Kehai Chen",
+    "Xuefeng Bai",
+    "Muyun Yang",
+    "Liqiang Nie",
+    "Jie Liu",
+    "Tiejun Zhao",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese",
+    "Czech",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.acl-long.1289",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1289/"
+}

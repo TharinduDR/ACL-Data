@@ -1,0 +1,25 @@
+{
+  "title": "Syntax-guided Localized Self-attention by Constituency Syntactic Distance",
+  "authors": [
+    "Shengyuan Hou",
+    "Jushi Kai",
+    "Haotian Xue",
+    "Bingyu Zhu",
+    "Bo Yuan",
+    "Longtao Huang",
+    "Xinbing Wang",
+    "Zhouhan Lin"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-emnlp.173",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.173/"
+}

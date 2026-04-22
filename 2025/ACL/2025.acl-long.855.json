@@ -1,0 +1,26 @@
+{
+  "title": "Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation",
+  "authors": [
+    "Yue Yang",
+    "Ajay Patel",
+    "Matt Deitke",
+    "Tanmay Gupta",
+    "Luca Weihs",
+    "Andrew Head",
+    "Mark Yatskar",
+    "Chris Callison-Burch",
+    "Ranjay Krishna",
+    "Aniruddha Kemhavi",
+    "Christopher Clark"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.855",
+  "acl_url": "https://aclanthology.org/2025.acl-long.855/"
+}

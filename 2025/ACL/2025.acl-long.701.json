@@ -1,0 +1,29 @@
+{
+  "title": "KazMMLU: Evaluating Language Models on Kazakh, Russian, and Regional Knowledge of Kazakhstan",
+  "authors": [
+    "Mukhammed Togmanov",
+    "Nurdaulet Mukhituly",
+    "Diana Turmakhan",
+    "Jonibek Mansurov",
+    "Maiya Goloburda",
+    "Akhmed Sakip",
+    "Zhuohan Xie",
+    "Yuxia Wang",
+    "Bekassyl Syzdykov",
+    "Nurkhan Laiyk",
+    "Alham Fikri Aji",
+    "Ekaterina Kochmar",
+    "Preslav Nakov",
+    "Fajri Koto"
+  ],
+  "languages": [
+    "Kazakh",
+    "Russian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2025.acl-long.701",
+  "acl_url": "https://aclanthology.org/2025.acl-long.701/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Sustainable Modular Debiasing of Language Models",
+  "authors": [
+    "Anne Lauscher",
+    "Tobias Lüken",
+    "Goran Glavaš"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Italian",
+    "Croatian",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-emnlp.411",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.411/"
+}

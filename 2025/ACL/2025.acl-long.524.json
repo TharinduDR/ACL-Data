@@ -1,0 +1,22 @@
+{
+  "title": "LongReD: Mitigating Short-Text Degradation of Long-Context Large Language Models via Restoration Distillation",
+  "authors": [
+    "Zican Dong",
+    "Junyi Li",
+    "Jinhao Jiang",
+    "Mingyu Xu",
+    "Wayne Xin Zhao",
+    "Bingning Wang",
+    "Weipeng Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.524",
+  "acl_url": "https://aclanthology.org/2025.acl-long.524/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "HOVER: A Dataset for Many-Hop Fact Extraction And Claim Verification",
+  "authors": [
+    "Yichen Jiang",
+    "Shikha Bordia",
+    "Zheng Zhong",
+    "Charles Dognin",
+    "Maneesh Singh",
+    "Mohit Bansal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.findings-emnlp.309",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.309/"
+}

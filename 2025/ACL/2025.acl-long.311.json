@@ -1,0 +1,26 @@
+{
+  "title": "NeuSym-RAG: Hybrid Neural Symbolic Retrieval with Multiview Structuring for PDF Question Answering",
+  "authors": [
+    "Ruisheng Cao",
+    "Hanchong Zhang",
+    "Tiancheng Huang",
+    "Zhangyi Kang",
+    "Yuxin Zhang",
+    "Liangtai Sun",
+    "Hanqi Li",
+    "Yuxun Miao",
+    "Shuai Fan",
+    "Lu Chen",
+    "Kai Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.311",
+  "acl_url": "https://aclanthology.org/2025.acl-long.311/"
+}

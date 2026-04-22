@@ -1,0 +1,19 @@
+{
+  "title": "Spanish Dialect Classification: A Comparative Study of Linguistically Tailored Features, Unigrams and BERT Embeddings",
+  "authors": [
+    "Laura Zeidler",
+    "Chris Jenkins",
+    "Filip Miletic",
+    "Sabine Schulte im Walde"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.acl-srw.36",
+  "acl_url": "https://aclanthology.org/2025.acl-srw.36/"
+}

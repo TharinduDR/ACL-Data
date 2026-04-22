@@ -1,0 +1,29 @@
+{
+  "title": "Improving Multilingual Neural Machine Translation with Auxiliary Source Languages",
+  "authors": [
+    "Weijia Xu",
+    "Yuwei Yin",
+    "Shuming Ma",
+    "Dongdong Zhang",
+    "Haoyang Huang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Japanese",
+    "French",
+    "Czech",
+    "German",
+    "Finnish",
+    "Latvian",
+    "Romanian",
+    "Hindi",
+    "Turkish",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.findings-emnlp.260",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.260/"
+}

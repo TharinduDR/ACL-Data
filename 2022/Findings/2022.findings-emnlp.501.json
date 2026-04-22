@@ -1,0 +1,18 @@
+{
+  "title": "A Simple and Strong Baseline for End-to-End Neural RST-style Discourse Parsing",
+  "authors": [
+    "Naoki Kobayashi",
+    "Tsutomu Hirao",
+    "Hidetaka Kamigaito",
+    "Manabu Okumura",
+    "Masaaki Nagata"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-emnlp.501",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.501/"
+}

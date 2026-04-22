@@ -1,0 +1,22 @@
+{
+  "title": "A Conditional Generative Matching Model for Multi-lingual Reply Suggestion",
+  "authors": [
+    "Budhaditya Deb",
+    "Guoqing Zheng",
+    "Milad Shokouhi",
+    "Ahmed Hassan Awadallah"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Japanese",
+    "German"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.findings-emnlp.134",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.134/"
+}

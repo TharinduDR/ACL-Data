@@ -1,0 +1,23 @@
+{
+  "title": "On the Language Coverage Bias for Neural Machine Translation",
+  "authors": [
+    "Shuo Wang",
+    "Zhaopeng Tu",
+    "Zhixing Tan",
+    "Shuming Shi",
+    "Maosong Sun",
+    "Yang Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-acl.422",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.422/"
+}

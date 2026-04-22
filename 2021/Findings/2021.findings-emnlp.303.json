@@ -1,0 +1,26 @@
+{
+  "title": "Do UD Trees Match Mention Spans in Coreference Annotations?",
+  "authors": [
+    "Martin Popel",
+    "Zdeněk Žabokrtský",
+    "Anna Nedoluzhko",
+    "Michal Novák",
+    "Daniel Zeman"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Hungarian",
+    "Lithuanian",
+    "Polish",
+    "Russian",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-emnlp.303",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.303/"
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Predicting cross-linguistic adjective order with information gain",
+  "authors": [
+    "William Dyer",
+    "Richard Futrell",
+    "Zoey Liu",
+    "Gregory Scontras"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Chinese",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "German",
+    "Greek",
+    "Latvian",
+    "Russian",
+    "Slovak",
+    "Slovenian",
+    "Swedish",
+    "Turkish",
+    "Ukrainian",
+    "Urdu",
+    "Basque",
+    "Catalan",
+    "French",
+    "Galician",
+    "Indonesian",
+    "Italian",
+    "Persian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Spanish",
+    "Vietnamese",
+    "Arabic",
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2021.findings-acl.83",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.83/"
+}

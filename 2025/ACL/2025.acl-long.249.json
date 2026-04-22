@@ -1,0 +1,26 @@
+{
+  "title": "Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of-Expert Models",
+  "authors": [
+    "Zihan Qiu",
+    "Zeyu Huang",
+    "Bo Zheng",
+    "Kaiyue Wen",
+    "Zekun Wang",
+    "Rui Men",
+    "Ivan Titov",
+    "Dayiheng Liu",
+    "Jingren Zhou",
+    "Junyang Lin"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-long.249",
+  "acl_url": "https://aclanthology.org/2025.acl-long.249/"
+}

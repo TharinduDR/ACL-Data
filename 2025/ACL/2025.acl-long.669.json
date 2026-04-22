@@ -1,0 +1,27 @@
+{
+  "title": "TeamLoRA: Boosting Low-Rank Adaptation with Expert Collaboration and Competition",
+  "authors": [
+    "Tianwei Lin",
+    "Jiang Liu",
+    "Wenqiao Zhang",
+    "Yang Dai",
+    "Haoyuan Li",
+    "Zhelun Yu",
+    "Wanggui He",
+    "Juncheng Li",
+    "Jiannan Guo",
+    "Hao Jiang",
+    "Siliang Tang",
+    "Yuetting Zhuang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.acl-long.669",
+  "acl_url": "https://aclanthology.org/2025.acl-long.669/"
+}

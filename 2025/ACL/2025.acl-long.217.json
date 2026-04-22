@@ -1,0 +1,28 @@
+{
+  "title": "QAEncoder: Towards Aligned Representation Learning in Question Answering Systems",
+  "authors": [
+    "Zhengren Wang",
+    "Qinhan Yu",
+    "Shida Wei",
+    "Zhiyu Li",
+    "Feiyu Xiong",
+    "Xiaoxing Wang",
+    "Simin Niu",
+    "Hao Liang",
+    "Wentao Zhang"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "French",
+    "Hindi",
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.217",
+  "acl_url": "https://aclanthology.org/2025.acl-long.217/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling",
+  "authors": [
+    "Weilin Zhao",
+    "Tengyu Pan",
+    "Xu Han",
+    "Yudi Zhang",
+    "Ao Sun",
+    "Yuxiang Huang",
+    "Kaihao Zhang",
+    "Weilun Zhao",
+    "Yuxuan Li",
+    "Jie Zhou",
+    "Hao Zhou",
+    "Jianyong Wang",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.acl-long.198",
+  "acl_url": "https://aclanthology.org/2025.acl-long.198/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "BEAMR: Beam Reweighing with Attribute Discriminators for Controllable Text Generation",
+  "authors": [
+    "David Landsman",
+    "Jerry Zikun Chen",
+    "Hussain Zaidi"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.findings-aacl.40",
+  "acl_url": "https://aclanthology.org/2022.findings-aacl.40/"
+}

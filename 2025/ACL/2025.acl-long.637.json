@@ -1,0 +1,21 @@
+{
+  "title": "Upcycling Instruction Tuning from Dense to Mixture-of-Experts via Parameter Merging",
+  "authors": [
+    "Tingfeng Hui",
+    "Zhenyu Zhang",
+    "Shuohuan Wang",
+    "Yu Sun",
+    "Hua Wu",
+    "Sen Su"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-long.637",
+  "acl_url": "https://aclanthology.org/2025.acl-long.637/"
+}

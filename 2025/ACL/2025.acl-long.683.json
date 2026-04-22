@@ -1,0 +1,22 @@
+{
+  "title": "LexCLiPR: Cross-Lingual Paragraph Retrieval from Legal Judgments",
+  "authors": [
+    "Rohit Upadhyay",
+    "Santosh T.Y.S.S"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Romanian",
+    "Russian",
+    "Turkish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.acl-long.683",
+  "acl_url": "https://aclanthology.org/2025.acl-long.683/"
+}

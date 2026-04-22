@@ -1,0 +1,20 @@
+{
+  "title": "COSMIC: CCommonSense knowledge for eMotion Identification in Conversations",
+  "authors": [
+    "Deepanway Ghosal",
+    "Navonil Majumder",
+    "Alexander Gelbukh",
+    "Rada Mihalcea",
+    "Soujanya Poria"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.findings-emnlp.224",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.224/"
+}

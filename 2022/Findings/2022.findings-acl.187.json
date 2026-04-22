@@ -1,0 +1,21 @@
+{
+  "title": "Enabling Multimodal Generation on CLIP via Vision-Language Knowledge Distillation",
+  "authors": [
+    "Wenliang Dai",
+    "Lu Hou",
+    "Lifeng Shang",
+    "Xin Jiang",
+    "Qun Liu",
+    "Pascale Fung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.findings-acl.187",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.187/"
+}

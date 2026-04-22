@@ -1,0 +1,24 @@
+{
+  "title": "TransAdv: A Translation-based Adversarial Learning Framework for Zero-Resource Cross-Lingual Named Entity Recognition",
+  "authors": [
+    "Yichun Zhao",
+    "Jintao Du",
+    "Gongshen Liu",
+    "Huijia Zhu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Dutch",
+    "Arabic",
+    "Hindi",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.findings-emnlp.52",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.52/"
+}

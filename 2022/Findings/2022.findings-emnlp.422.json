@@ -1,0 +1,21 @@
+{
+  "title": "Hidden State Variability of Pretrained Language Models Can Guide Computation Reduction for Transfer Learning",
+  "authors": [
+    "Shuo Xie",
+    "Jiahao Qiu",
+    "Ankita Pasad",
+    "Li Du",
+    "Qing Qu",
+    "Hongyuan Mei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.422",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.422/"
+}

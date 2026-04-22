@@ -1,0 +1,19 @@
+{
+  "title": "Using Interactive Feedback to Improve the Accuracy and Explainability of Question Answering Systems Post-Deployment",
+  "authors": [
+    "Zichao Li",
+    "Prakhar Sharma",
+    "Xing Han Lu",
+    "Jackie C.K. Cheung",
+    "Siva Reddy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.findings-acl.75",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.75/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Multilingual Knowledge Graph Completion via Ensemble Knowledge Transfer",
+  "authors": [
+    "Xuelu Chen",
+    "Muhao Chen",
+    "Changjun Fan",
+    "Ankith Uppunda",
+    "Yizhou Sun",
+    "Carlo Zaniolo"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Japanese",
+    "Greek"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2020.findings-emnlp.290",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.290/"
+}

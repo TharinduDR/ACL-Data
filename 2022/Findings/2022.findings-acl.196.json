@@ -1,0 +1,29 @@
+{
+  "title": "xGQA: Cross-Lingual Visual Question Answering",
+  "authors": [
+    "Jonas Pfeiffer",
+    "Gregor Geigle",
+    "Aishwarya Kamath",
+    "Jan-Martin O. Steitz",
+    "Stefan Roth",
+    "Ivan Vulić",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Portuguese",
+    "Russian",
+    "Indonesian",
+    "Bengali",
+    "Korean",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.findings-acl.196",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.196/"
+}

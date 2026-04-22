@@ -1,0 +1,27 @@
+{
+  "title": "Qwen2.5-xCoder: Multi-Agent Collaboration for Multilingual Code Instruction Tuning",
+  "authors": [
+    "Jian Yang",
+    "Wei Zhang",
+    "Jiaxi Yang",
+    "Yibo Miao",
+    "Shanghaoran Quan",
+    "Zhenhe Wu",
+    "Qiyao Peng",
+    "Liqun Yang",
+    "Tianyu Liu",
+    "Zeyu Cui",
+    "Binyuan Hui",
+    "Junyang Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.642",
+  "acl_url": "https://aclanthology.org/2025.acl-long.642/"
+}

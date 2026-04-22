@@ -1,0 +1,24 @@
+{
+  "title": "Multi-Path Transformer is Better: A Case Study on Neural Machine Translation",
+  "authors": [
+    "Ye Lin",
+    "Shuhan Zhou",
+    "Yanyang Li",
+    "Anxiang Ma",
+    "Tong Xiao",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Finnish",
+    "Latvian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.findings-emnlp.414",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.414/"
+}

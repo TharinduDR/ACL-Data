@@ -1,0 +1,18 @@
+{
+  "title": "A little goes a long way: Improving toxic language classification despite data scarcity",
+  "authors": [
+    "Mika Juuti",
+    "Tommi Gröndahl",
+    "Adrian Flanagan",
+    "N. Asokan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.findings-emnlp.269",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.269/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "The Authors Matter: Understanding and Mitigating Implicit Bias in Deep Text Classification",
+  "authors": [
+    "Haochen Liu",
+    "Wei Jin",
+    "Hamid Karimi",
+    "Zitao Liu",
+    "Jiliang Tang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.findings-acl.7",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.7/"
+}

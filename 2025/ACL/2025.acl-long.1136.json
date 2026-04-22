@@ -1,0 +1,24 @@
+{
+  "title": "Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation",
+  "authors": [
+    "Shuo Tang",
+    "Xianghe Pang",
+    "Zexi Liu",
+    "Bohan Tang",
+    "Rui Ye",
+    "Tian Jin",
+    "Xiaowen Dong",
+    "Yanfeng Wang",
+    "Siheng Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2025.acl-long.1136",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1136/"
+}

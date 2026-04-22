@@ -1,0 +1,21 @@
+{
+  "title": "Controlled Text Generation Using Dictionary Prior in Variational Autoencoders",
+  "authors": [
+    "Xianghong Fang",
+    "Jian Li",
+    "Lifeng Shang",
+    "Xin Jiang",
+    "Qun Liu",
+    "Dit-Yan Yeung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.findings-acl.10",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.10/"
+}

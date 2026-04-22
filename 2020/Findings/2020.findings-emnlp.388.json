@@ -1,0 +1,22 @@
+{
+  "title": "BERT for Monolingual and Cross-Lingual Reverse Dictionary",
+  "authors": [
+    "Hang Yan",
+    "Xiaonan Li",
+    "Xipeng Qiu",
+    "Bocao Deng"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2020.findings-emnlp.388",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.388/"
+}

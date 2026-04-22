@@ -1,0 +1,26 @@
+{
+  "title": "RuCCoN: Clinical Concept Normalization in Russian",
+  "authors": [
+    "Aleksandr Nesterov",
+    "Galina Zubkova",
+    "Zulfat Miftahutdinov",
+    "Vladimir Kokh",
+    "Elena Tutubalina",
+    "Artem Shelmanov",
+    "Anton M. Alekseev",
+    "Manvel Avetisian",
+    "Andrey Chertok",
+    "Sergey Nikolenko"
+  ],
+  "languages": [
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.findings-acl.21",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.21/"
+}

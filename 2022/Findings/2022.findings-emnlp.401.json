@@ -1,0 +1,39 @@
+{
+  "title": "Prompt-Tuning Can Be Much Better Than Fine-Tuning on Cross-lingual Understanding With Multilingual Language Models",
+  "authors": [
+    "Lifu Tu",
+    "Caiming Xiong",
+    "Yingbo Zhou"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese",
+    "Chinese",
+    "Arabic",
+    "Bulgarian",
+    "Greek",
+    "French",
+    "Hindi",
+    "Russian",
+    "Swahili",
+    "Tamil",
+    "Turkish",
+    "Urdu",
+    "Vietnamese",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2022.findings-emnlp.401",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.401/"
+}

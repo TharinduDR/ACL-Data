@@ -1,0 +1,42 @@
+{
+  "title": "Unsupervised Preference-Aware Language Identification",
+  "authors": [
+    "Xingzhang Ren",
+    "Baosong Yang",
+    "Dayiheng Liu",
+    "Haibo Zhang",
+    "Xiaoyu Lv",
+    "Liang Yao",
+    "Jun Xie"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Chinese",
+    "Russian",
+    "Portuguese",
+    "German",
+    "Italian",
+    "Dutch",
+    "Japanese",
+    "Korean",
+    "Arabic",
+    "Thai",
+    "Hindi",
+    "Hebrew",
+    "Vietnamese",
+    "Turkish",
+    "Polish",
+    "Indonesian",
+    "Malay",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-acl.303",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.303/"
+}

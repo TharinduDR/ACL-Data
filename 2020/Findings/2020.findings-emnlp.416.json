@@ -1,0 +1,21 @@
+{
+  "title": "Multi-hop Question Generation with Graph Convolutional Network",
+  "authors": [
+    "Dan Su",
+    "Yan Xu",
+    "Wenliang Dai",
+    "Ziwei Ji",
+    "Tiezheng Yu",
+    "Pascale Fung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.findings-emnlp.416",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.416/"
+}

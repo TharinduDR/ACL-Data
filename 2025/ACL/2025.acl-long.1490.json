@@ -1,0 +1,21 @@
+{
+  "title": "Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories",
+  "authors": [
+    "Alperen Yildiz",
+    "Sin G. Teo",
+    "Yiling Lou",
+    "Yebo Feng",
+    "Chong Wang",
+    "Dinil Mon Divakaran"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-long.1490",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1490/"
+}

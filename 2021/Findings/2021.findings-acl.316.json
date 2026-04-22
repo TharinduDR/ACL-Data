@@ -1,0 +1,21 @@
+{
+  "title": "Transforming Term Extraction: Transformer-Based Approaches to Multilingual Term Extraction Across Domains",
+  "authors": [
+    "Christian Lang",
+    "Lennart Wachowiak",
+    "Barbara Heinisch",
+    "Dagmar Gromann"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.findings-acl.316",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.316/"
+}

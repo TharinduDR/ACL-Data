@@ -1,0 +1,28 @@
+{
+  "title": "An Empirical Study of Many-to-Many Summarization with Large Language Models",
+  "authors": [
+    "Jiaan Wang",
+    "Fandong Meng",
+    "Zengkui Sun",
+    "Yunlong Liang",
+    "Yuxuan Cao",
+    "Jiarong Xu",
+    "Haoxiang Shi",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "French",
+    "Chinese",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.555",
+  "acl_url": "https://aclanthology.org/2025.acl-long.555/"
+}

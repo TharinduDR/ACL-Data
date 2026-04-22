@@ -1,0 +1,41 @@
+{
+  "title": "AfriMed-QA: A Pan-African, Multi-Specialty, Medical Question-Answering Benchmark Dataset",
+  "authors": [
+    "Tobi Olatunji",
+    "Charles Nimo",
+    "Abraham Owodunni",
+    "Tassallah Abdullahi",
+    "Emmanuel Ayodele",
+    "Mardhiyah Sanni",
+    "Chinemelu Aka",
+    "Folafunmi Omofoye",
+    "Foutse Yuehoh",
+    "Timothy Faniran",
+    "Bonaventure F. P. Dossou",
+    "Moshood Yekini",
+    "Jonas Kemp",
+    "Katherine Heller",
+    "Jude Chidubem Omeke",
+    "Chidi Asuzu MD",
+    "Naome A. Etori",
+    "Aimérou Ndiaye",
+    "Ifeoma Okoh",
+    "Evans Doe Ocansey",
+    "Wendy Kinara",
+    "Michael Best",
+    "Irfan Essa",
+    "Stephen Edward Moore",
+    "Chris Fourie",
+    "Mercy Nyamewaa Asiedu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.96",
+  "acl_url": "https://aclanthology.org/2025.acl-long.96/"
+}

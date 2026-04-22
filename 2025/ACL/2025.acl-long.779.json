@@ -1,0 +1,21 @@
+{
+  "title": "Can External Validation Tools Improve Annotation Quality for LLM-as-a-Judge?",
+  "authors": [
+    "Arduin Findeis",
+    "Floris Weers",
+    "Guoli Yin",
+    "Ke Ye",
+    "Ruoming Pang",
+    "Tom Gunter"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2025.acl-long.779",
+  "acl_url": "https://aclanthology.org/2025.acl-long.779/"
+}

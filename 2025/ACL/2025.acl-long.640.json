@@ -1,0 +1,35 @@
+{
+  "title": "CLAIM: Mitigating Multilingual Object Hallucination in Large Vision-Language Models with Cross-Lingual Attention Intervention",
+  "authors": [
+    "Zekai Ye",
+    "Qiming Li",
+    "Xiaocheng Feng",
+    "Libo Qin",
+    "Yichong Huang",
+    "Baohang Li",
+    "Kui Jiang",
+    "Yang Xiang",
+    "Zhirui Zhang",
+    "Yunfei Lu",
+    "Duyu Tang",
+    "Dandan Tu",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Russian",
+    "Portuguese",
+    "Bulgarian",
+    "Hindi",
+    "German"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.640",
+  "acl_url": "https://aclanthology.org/2025.acl-long.640/"
+}

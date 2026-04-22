@@ -1,0 +1,22 @@
+{
+  "title": "COM2SENSE: A Commonsense Reasoning Benchmark with Complementary Sentences",
+  "authors": [
+    "Shikhar Singh",
+    "Nuan Wen",
+    "Yu Hou",
+    "Pegah Alipoormolabashi",
+    "Te-Lin Wu",
+    "Xuezhe Ma",
+    "Nanyun Peng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2021.findings-acl.78",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.78/"
+}

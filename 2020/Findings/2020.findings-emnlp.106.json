@@ -1,0 +1,45 @@
+{
+  "title": "Learning Robust and Multilingual Speech Representations",
+  "authors": [
+    "Kazuya Kawakami",
+    "Luyu Wang",
+    "Chris Dyer",
+    "Phil Blunsom",
+    "Aaron van den Oord"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "Fongbe",
+    "Swahili",
+    "Wolof",
+    "Czech",
+    "Uyghur",
+    "Javanese",
+    "Sundanese",
+    "Tunisian Arabic",
+    "Sinhala",
+    "Bengali",
+    "Nepali",
+    "African French",
+    "Catalan",
+    "Malayalam",
+    "Tamil",
+    "Spanish",
+    "Nigerian English",
+    "Chilean Spanish",
+    "Columbian Spanish",
+    "Peruvian Spanish",
+    "Basque",
+    "Galician",
+    "Gujarati",
+    "Kannada"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2020.findings-emnlp.106",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.106/"
+}

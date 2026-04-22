@@ -1,0 +1,36 @@
+{
+  "title": "NEKO: Cross-Modality Post-Recognition Error Correction with Tasks-Guided Mixture-of-Experts Language Model",
+  "authors": [
+    "Yen-Ting Lin",
+    "Zhehuai Chen",
+    "Piotr Zelasko",
+    "Zhen Wan",
+    "Xuesong Yang",
+    "Zih-Ching Chen",
+    "Krishna C Puvvada",
+    "Szu-Wei Fu",
+    "Ke Hu",
+    "Jun Wei Chiu",
+    "Jagadeesh Balam",
+    "Boris Ginsburg",
+    "Yu-Chiang Frank Wang",
+    "Chao-Han Huck Yang"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Japanese",
+    "Chinese",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Persian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.acl-industry.17",
+  "acl_url": "https://aclanthology.org/2025.acl-industry.17/"
+}

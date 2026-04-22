@@ -1,0 +1,21 @@
+{
+  "title": "Word-level Perturbation Considering Word Length and Compositional Subwords",
+  "authors": [
+    "Tatsuya Hiraoka",
+    "Sho Takase",
+    "Kei Uchiumi",
+    "Atsushi Keyaki",
+    "Naoaki Okazaki"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.findings-acl.258",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.258/"
+}

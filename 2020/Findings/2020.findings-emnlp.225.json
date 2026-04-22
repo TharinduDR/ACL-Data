@@ -1,0 +1,20 @@
+{
+  "title": "Improving Compositional Generalization in Semantic Parsing",
+  "authors": [
+    "Inbar Oren",
+    "Jonathan Herzig",
+    "Nitish Gupta",
+    "Matt Gardner",
+    "Jonathan Berant"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.225",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.225/"
+}

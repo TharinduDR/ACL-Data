@@ -1,0 +1,23 @@
+{
+  "title": "Switch Point biased Self-Training: Re-purposing Pretrained Models for Code-Switching",
+  "authors": [
+    "Parul Chopra",
+    "Sai Krishna Rallabandi",
+    "Alan W Black",
+    "Khyathi Raghavi Chandu"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Telugu",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11",
+    "T21",
+    "T14"
+  ],
+  "paper_id": "2021.findings-emnlp.373",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.373/"
+}

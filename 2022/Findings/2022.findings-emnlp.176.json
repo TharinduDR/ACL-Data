@@ -1,0 +1,19 @@
+{
+  "title": "Event-Centric Question Answering via Contrastive Learning and Invertible Event Transformation",
+  "authors": [
+    "Junru Lu",
+    "Xingwei Tan",
+    "Gabriele Pergola",
+    "Lin Gui",
+    "Yulan He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.findings-emnlp.176",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.176/"
+}

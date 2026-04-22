@@ -1,0 +1,25 @@
+{
+  "title": "Learning to Plan and Realize Separately for Open-Ended Dialogue Systems",
+  "authors": [
+    "Sashank Santhanam",
+    "Zhuo Cheng",
+    "Brodie Mather",
+    "Bonnie Dorr",
+    "Archana Bhatia",
+    "Bryanna Hebenstreit",
+    "Alan Zemel",
+    "Adam Dalton",
+    "Tomek Strzalkowski",
+    "Samira Shaikh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.247",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.247/"
+}

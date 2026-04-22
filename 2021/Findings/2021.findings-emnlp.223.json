@@ -1,0 +1,17 @@
+{
+  "title": "CodeQA: A Question Answering Dataset for Source Code Comprehension",
+  "authors": [
+    "Chenxiao Liu",
+    "Xiaojun Wan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2021.findings-emnlp.223",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.223/"
+}

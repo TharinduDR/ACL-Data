@@ -1,0 +1,40 @@
+{
+  "title": "ConLoan: A Contrastive Multilingual Dataset for Evaluating Loanwords",
+  "authors": [
+    "Sina Ahmadi",
+    "Micha David Hess",
+    "Elena Álvarez Mellado",
+    "Alessia Battisti",
+    "Cui Ding",
+    "Anne Göhring",
+    "Yingqiang Gao",
+    "Zifan Jiang",
+    "Andrianos Michail",
+    "Peshmerge Morad",
+    "Joel Niklaus",
+    "Maria Christina Panagiotopoulou",
+    "Stefano Perrella",
+    "Juri Opitz",
+    "Anastassia Shaitarova",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "Chinese",
+    "French",
+    "German",
+    "Greek",
+    "Icelandic",
+    "Italian",
+    "Northern Kurdish",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1453",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1453/"
+}

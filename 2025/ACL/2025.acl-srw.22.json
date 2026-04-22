@@ -1,0 +1,23 @@
+{
+  "title": "Translating Movie Subtitles by Large Language Models using Movie-meta Information",
+  "authors": [
+    "Ashmari Pramodya",
+    "Yusuke Sakai",
+    "Justin Vasselli",
+    "Hidetaka Kamigaito",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-srw.22",
+  "acl_url": "https://aclanthology.org/2025.acl-srw.22/"
+}

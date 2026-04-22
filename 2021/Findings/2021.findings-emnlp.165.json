@@ -1,0 +1,19 @@
+{
+  "title": "Japanese Zero Anaphora Resolution Can Benefit from Parallel Texts Through Neural Transfer Learning",
+  "authors": [
+    "Masato Umakoshi",
+    "Yugo Murawaki",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2021.findings-emnlp.165",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.165/"
+}

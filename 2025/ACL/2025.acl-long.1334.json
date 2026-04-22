@@ -1,0 +1,25 @@
+{
+  "title": "T2I-FactualBench: Benchmarking the Factuality of Text-to-Image Models with Knowledge-Intensive Concepts",
+  "authors": [
+    "Ziwei Huang",
+    "Wanggui He",
+    "Quanyu Long",
+    "Yandi Wang",
+    "Haoyuan Li",
+    "Zhelun Yu",
+    "Fangxun Shu",
+    "Long Chan",
+    "Hao Jiang",
+    "Fei Wu",
+    "Leilei Gan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1334",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1334/"
+}

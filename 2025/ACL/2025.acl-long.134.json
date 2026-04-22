@@ -1,0 +1,23 @@
+{
+  "title": "uMedSum: A Unified Framework for Clinical Abstractive Summarization",
+  "authors": [
+    "Aishik Nagar",
+    "Yutong Liu",
+    "Andy T. Liu",
+    "Viktor Schlegel",
+    "Vijay Prakash Dwivedi",
+    "Arun-Kumar Kaliya-Perumal",
+    "Guna Pratheep Kalanchiam",
+    "Yili Tang",
+    "Robby T. Tan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.acl-long.134",
+  "acl_url": "https://aclanthology.org/2025.acl-long.134/"
+}

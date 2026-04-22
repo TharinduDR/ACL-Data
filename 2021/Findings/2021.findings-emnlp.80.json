@@ -1,0 +1,25 @@
+{
+  "title": "Robust Fragment-Based Framework for Cross-lingual Sentence Retrieval",
+  "authors": [
+    "Nattapol Trijakwanich",
+    "Peerat Limkonchotiwat",
+    "Raehem Sarwar",
+    "Wannaphong Phatthiyaphaibun",
+    "Ekapol Chuangsuwanich",
+    "Sarana Nutanong"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Arabic",
+    "Thai"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2021.findings-emnlp.80",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.80/"
+}

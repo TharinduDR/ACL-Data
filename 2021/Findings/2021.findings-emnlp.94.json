@@ -1,0 +1,20 @@
+{
+  "title": "KERS: A Knowledge-Enhanced Framework for Recommendation Dialog Systems with Multiple Subgoals",
+  "authors": [
+    "Jun Zhang",
+    "Yan Yang",
+    "Chengcai Chen",
+    "Liang He",
+    "Zhou Yu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.findings-emnlp.94",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.94/"
+}

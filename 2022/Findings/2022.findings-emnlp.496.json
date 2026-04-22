@@ -1,0 +1,22 @@
+{
+  "title": "P³LM: Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training",
+  "authors": [
+    "Junwei Bao",
+    "Yifan Wang",
+    "Jiangyong Ying",
+    "Yeyun Gong",
+    "Jing Zhao",
+    "Youzheng Wu",
+    "Xiaodong He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2022.findings-emnlp.496",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.496/"
+}

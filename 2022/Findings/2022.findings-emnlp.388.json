@@ -1,0 +1,22 @@
+{
+  "title": "Cross-Lingual Text-to-SQL Semantic Parsing with Representation Mixup",
+  "authors": [
+    "Peng Shi",
+    "Linfeng Song",
+    "Lifeng Jin",
+    "Haitao Mi",
+    "He Bai",
+    "Jimmy Lin",
+    "Dong Yu"
+  ],
+  "languages": [
+    "Chinese",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-emnlp.388",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.388/"
+}

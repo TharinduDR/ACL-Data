@@ -1,0 +1,22 @@
+{
+  "title": "AdaPrompt: Adaptive Model Training for Prompt-based NLP",
+  "authors": [
+    "Yulong Chen",
+    "Yang Liu",
+    "Li Dong",
+    "Shuohang Wang",
+    "Chenguang Zhu",
+    "Michael Zeng",
+    "Yue Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Sentiment Analysis, Emotion Recognition/Generation",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.findings-emnlp.448",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.448/"
+}

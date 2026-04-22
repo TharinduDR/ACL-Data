@@ -1,0 +1,22 @@
+{
+  "title": "LongT5: Efficient Text-To-Text Transformer for Long Sequences",
+  "authors": [
+    "Mandy Guo",
+    "Joshua Ainslie",
+    "David Uthus",
+    "Santiago Ontañón",
+    "Jianmo Ni",
+    "Yun-Hsuan Sung",
+    "Yinfei Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2022.findings-naacl.55",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.55/"
+}

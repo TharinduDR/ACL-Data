@@ -1,0 +1,21 @@
+{
+  "title": "GNN-encoder: Learning a Dual-encoder Architecture via Graph Neural Networks for Dense Passage Retrieval",
+  "authors": [
+    "Jiduan Liu",
+    "Jiahao Liu",
+    "Yang Yang",
+    "Jingang Wang",
+    "Wei Wu",
+    "Dongyan Zhao",
+    "Rui Yan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.findings-emnlp.39",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.39/"
+}

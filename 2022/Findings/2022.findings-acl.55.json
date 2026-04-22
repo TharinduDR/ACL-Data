@@ -1,0 +1,25 @@
+{
+  "title": "Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal",
+  "authors": [
+    "Umang Gupta",
+    "Jwala Dhamala",
+    "Varun Kumar",
+    "Apurv Verma",
+    "Yada Pruksachatkun",
+    "Satyapriya Krishna",
+    "Rahul Gupta",
+    "Kai-Wei Chang",
+    "Greg Ver Steeg",
+    "Aram Galstyan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-acl.55",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.55/"
+}

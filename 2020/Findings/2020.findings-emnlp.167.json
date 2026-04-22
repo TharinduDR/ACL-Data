@@ -1,0 +1,20 @@
+{
+  "title": "On the Potential of Lexico-logical Alignments for Semantic Parsing to SQL Queries",
+  "authors": [
+    "Tianze Shi",
+    "Chen Zhao",
+    "Jordan Boyd-Graber",
+    "Hal Daumé III",
+    "Lillian Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.findings-emnlp.167",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.167/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Vulnerability of LLMs to Vertically Aligned Text Manipulations",
+  "authors": [
+    "Zhecheng Li",
+    "Yiwei Wang",
+    "Bryan Hooi",
+    "Yujun Cai",
+    "Zhen Xiong",
+    "Nanyun Peng",
+    "Kai-Wei Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.978",
+  "acl_url": "https://aclanthology.org/2025.acl-long.978/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Towards Identifying Social Bias in Dialog Systems: Framework, Dataset, and Benchmark",
+  "authors": [
+    "Jingyan Zhou",
+    "Jiawen Deng",
+    "Fei Mi",
+    "Yitong Li",
+    "Yasheng Wang",
+    "Minlie Huang",
+    "Xin Jiang",
+    "Qun Liu",
+    "Helen Meng"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.262",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.262/"
+}

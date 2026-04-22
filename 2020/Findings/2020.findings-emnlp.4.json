@@ -1,0 +1,17 @@
+{
+  "title": "Adapting BERT for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences",
+  "authors": [
+    "Boon Peng Yap",
+    "Andrew Koh",
+    "Eng Siong Chng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.findings-emnlp.4",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.4/"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit",
+  "authors": [
+    "Huixue Zhou",
+    "Hengrui Gu",
+    "Zaifu Zhan",
+    "Xi Liu",
+    "Kaixiong Zhou",
+    "Mingfu Liang",
+    "Yongkang Xiao",
+    "Srinivas Govindan",
+    "Piyush Chawla",
+    "Jiyan Yang",
+    "Xiangfei Meng",
+    "Huayu Li",
+    "Buyun Zhang",
+    "Liang Luo",
+    "Wen-Yen Chen",
+    "Yiping Han",
+    "Bo Long",
+    "Rui Zhang",
+    "Tianlong Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.1283",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1283/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "LIFBENCH: Evaluating the Instruction Following Performance and Stability of Large Language Models in Long-Context Scenarios",
+  "authors": [
+    "Xiaodong Wu",
+    "Minhao Wang",
+    "Yichen Liu",
+    "Xiaoming Shi",
+    "He Yan",
+    "Xiangju Lu",
+    "Junmin Zhu",
+    "Wei Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2025.acl-long.803",
+  "acl_url": "https://aclanthology.org/2025.acl-long.803/"
+}

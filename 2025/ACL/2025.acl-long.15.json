@@ -1,0 +1,23 @@
+{
+  "title": "Delving into Multilingual Ethical Bias: The MSQAD with Statistical Hypothesis Tests for Large Language Models",
+  "authors": [
+    "Seunguk Yu",
+    "Juhwan Choi",
+    "Youngbin Kim"
+  ],
+  "languages": [
+    "English",
+    "Korean",
+    "Chinese",
+    "Spanish",
+    "German",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.15",
+  "acl_url": "https://aclanthology.org/2025.acl-long.15/"
+}

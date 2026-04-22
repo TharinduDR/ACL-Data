@@ -1,0 +1,19 @@
+{
+  "title": "Event Extraction from Historical Texts: A New Dataset for Black Rebellions",
+  "authors": [
+    "Viet Dac Lai",
+    "Minh Van Nguyen",
+    "Heidi Kaufman",
+    "Thien Huu Nguyen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.findings-acl.211",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.211/"
+}

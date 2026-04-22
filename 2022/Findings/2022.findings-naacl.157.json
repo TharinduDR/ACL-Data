@@ -1,0 +1,37 @@
+{
+  "title": "Por Qué Não Utiliser Alla Språk? Mixed Training with Gradient Optimization in Few-Shot Cross-Lingual Transfer",
+  "authors": [
+    "Haoran Xu",
+    "Kenton Murray"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Malay",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Urdu",
+    "Vietnamese",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.findings-naacl.157",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.157/"
+}

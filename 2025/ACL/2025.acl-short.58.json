@@ -1,0 +1,23 @@
+{
+  "title": "Mitigating Posterior Salience Attenuation in Long-Context LLMs with Positional Contrastive Decoding",
+  "authors": [
+    "Zikai Xiao",
+    "Ziyang Wang",
+    "Wen Ma",
+    "Yan Zhang",
+    "Wei Shen",
+    "Yan Wang",
+    "Luqi Gong",
+    "Zuozhu Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-short.58",
+  "acl_url": "https://aclanthology.org/2025.acl-short.58/"
+}

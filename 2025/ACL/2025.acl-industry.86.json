@@ -1,0 +1,29 @@
+{
+  "title": "SingaKids: A Multilingual Multimodal Dialogic Tutor for Language Learning",
+  "authors": [
+    "Zhengyuan Liu",
+    "Geyu Lin",
+    "Hui Li Tan",
+    "Huayun Zhang",
+    "Yanfeng Lu",
+    "Xiaoxue Gao",
+    "Stella Xin Yin",
+    "He Sun",
+    "Hock Huan Goh",
+    "Lung Hsiang Wong",
+    "Nancy F. Chen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Malay",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.acl-industry.86",
+  "acl_url": "https://aclanthology.org/2025.acl-industry.86/"
+}

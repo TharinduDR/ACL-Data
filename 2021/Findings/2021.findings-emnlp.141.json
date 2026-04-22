@@ -1,0 +1,26 @@
+{
+  "title": "Char2Subword: Extending the Subword Embedding Space Using Robust Character Compositionality",
+  "authors": [
+    "Gustavo Aguilar",
+    "Bryan McCann",
+    "Tong Niu",
+    "Nazneen Rajani",
+    "Nitish Keskar",
+    "Thamar Solorio"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Hindi",
+    "Nepali",
+    "Modern Standard Arabic",
+    "Egyptian Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T23 Social Media Processing",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-emnlp.141",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.141/"
+}

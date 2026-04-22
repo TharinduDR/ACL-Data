@@ -1,0 +1,29 @@
+{
+  "title": "Neural Parameter Search for Slimmer Fine-Tuned Models and Better Transfer",
+  "authors": [
+    "Guodong Du",
+    "Zitao Fang",
+    "Jing Li",
+    "Junlin Li",
+    "Runhua Jiang",
+    "Shuyang Yu",
+    "Yifei Guo",
+    "Yangneng Chen",
+    "Sim Kuan Goh",
+    "Ho-Kin Tang",
+    "Daojing He",
+    "Honghai Liu",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.acl-long.1570",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1570/"
+}

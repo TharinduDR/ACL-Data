@@ -1,0 +1,27 @@
+{
+  "title": "CuLEMO: Cultural Lenses on Emotion - Benchmarking LLMs for Cross-Cultural Emotion Understanding",
+  "authors": [
+    "Tadesse Destaw Belay",
+    "Ahmed Haj Ahmed",
+    "Alvin Grissom II",
+    "Iqra Ameer",
+    "Grigori Sidorov",
+    "Olga Kolesnikova",
+    "Seid Muhie Yimam"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Amharic",
+    "Hindi",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.acl-long.925",
+  "acl_url": "https://aclanthology.org/2025.acl-long.925/"
+}

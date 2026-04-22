@@ -1,0 +1,30 @@
+{
+  "title": "MEDPLAN: A Two-Stage RAG-Based System for Personalized Medical Plan Generation",
+  "authors": [
+    "Hsin-Ling Hsu",
+    "Cong-Tinh Dao",
+    "Luning Wang",
+    "Zitao Shuai",
+    "Nguyen Minh Thao Phan",
+    "Jun-En Ding",
+    "Chun-Chieh Liao",
+    "Pengfei Hu",
+    "Xiaoxue Han",
+    "Chih-Ho Hsu",
+    "Dongsheng Luo",
+    "Wen-Chih Peng",
+    "Feng Liu",
+    "Fang-Ming Hung",
+    "Chenwei Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-industry.76",
+  "acl_url": "https://aclanthology.org/2025.acl-industry.76/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "MAPLE: Enhancing Review Generation with Multi-Aspect Prompt LEarning in Explainable Recommendation",
+  "authors": [
+    "Ching-Wen Yang",
+    "Zhi-Quan Feng",
+    "Ying-Jia Lin",
+    "Che-Wei Chen",
+    "Kun-Da Wu",
+    "Hao Xu",
+    "Jui-Feng Yao",
+    "Hung-Yu Kao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.acl-long.1535",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1535/"
+}

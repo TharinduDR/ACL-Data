@@ -1,0 +1,27 @@
+{
+  "title": "Sequence Models for Computational Etymology of Borrowings",
+  "authors": [
+    "Winston Wu",
+    "Kevin Duh",
+    "David Yarowsky"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Vietnamese",
+    "French",
+    "German",
+    "Spanish",
+    "Arabic",
+    "Sanskrit",
+    "Greek",
+    "Russian",
+    "Italian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.findings-acl.353",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.353/"
+}

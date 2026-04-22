@@ -1,0 +1,21 @@
+{
+  "title": "Reference Language based Unsupervised Neural Machine Translation",
+  "authors": [
+    "Zuchao Li",
+    "Hai Zhao",
+    "Rui Wang",
+    "Masao Utiyama",
+    "Eiichiro Sumita"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Romanian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.findings-emnlp.371",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.371/"
+}

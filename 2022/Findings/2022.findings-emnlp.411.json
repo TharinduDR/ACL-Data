@@ -1,0 +1,20 @@
+{
+  "title": "Augmenting Multi-Turn Text-to-SQL Datasets with Self-Play",
+  "authors": [
+    "Qi Liu",
+    "Zihuiwen Ye",
+    "Tao Yu",
+    "Phil Blunsom",
+    "Linfeng Song"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2022.findings-emnlp.411",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.411/"
+}

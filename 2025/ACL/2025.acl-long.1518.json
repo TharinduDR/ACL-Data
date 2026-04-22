@@ -1,0 +1,22 @@
+{
+  "title": "RE³SYN: A Dependency-Based Data Synthesis Framework for Long-Context Post-training",
+  "authors": [
+    "Zhiyang Zhang",
+    "Ziqiang Liu",
+    "Huiming Wang",
+    "Renke Shan",
+    "Li Kuang",
+    "Lu Wang",
+    "De Wen Soh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.1518",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1518/"
+}

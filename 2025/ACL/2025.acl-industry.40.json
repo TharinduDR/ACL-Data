@@ -1,0 +1,23 @@
+{
+  "title": "EdgeInfinite: A Memory-Efficient Infinite-Context Transformer for Edge Devices",
+  "authors": [
+    "Jiyu Chen",
+    "Shuang Peng",
+    "Daxiong Luo",
+    "Fan Yang",
+    "Renshou Wu",
+    "Fangyuan Li",
+    "Xiaoxin Chen"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-industry.40",
+  "acl_url": "https://aclanthology.org/2025.acl-industry.40/"
+}

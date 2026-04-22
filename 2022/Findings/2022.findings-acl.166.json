@@ -1,0 +1,24 @@
+{
+  "title": "Zero-shot Learning for Grapheme to Phoneme Conversion with Language Ensemble",
+  "authors": [
+    "Xinjian Li",
+    "Florian Metze",
+    "David R Mortensen",
+    "Shinji Watanabe",
+    "Alan W Black"
+  ],
+  "languages": [
+    "English",
+    "Mandarin Chinese",
+    "French",
+    "German",
+    "Japanese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2022.findings-acl.166",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.166/"
+}

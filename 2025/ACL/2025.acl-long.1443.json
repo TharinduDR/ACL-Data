@@ -1,0 +1,22 @@
+{
+  "title": "An Empirical Study of Iterative Refinements for Non-autoregressive Translation",
+  "authors": [
+    "Yisheng Xiao",
+    "Pei Guo",
+    "Zechen Sun",
+    "Juntao Li",
+    "Kai Song",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.1443",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1443/"
+}

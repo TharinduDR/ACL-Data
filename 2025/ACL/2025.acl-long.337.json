@@ -1,0 +1,22 @@
+{
+  "title": "BERT-like Models for Slavic Morpheme Segmentation",
+  "authors": [
+    "Dmitry Morozov",
+    "Lizaveta Astapenka",
+    "Anna Glazkova",
+    "Timur Garipov",
+    "Olga Lyashevskaya"
+  ],
+  "languages": [
+    "Belarusian",
+    "Czech",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2025.acl-long.337",
+  "acl_url": "https://aclanthology.org/2025.acl-long.337/"
+}

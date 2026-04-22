@@ -1,0 +1,19 @@
+{
+  "title": "QA Analysis in Medical and Legal Domains: A Survey of Data Augmentation in Low-Resource Settings",
+  "authors": [
+    "Benedictus Kent Rachmat",
+    "Thomas Gerald",
+    "Zheng Zhang",
+    "Cyril Grouin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.acl-srw.89",
+  "acl_url": "https://aclanthology.org/2025.acl-srw.89/"
+}

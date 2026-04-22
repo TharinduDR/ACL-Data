@@ -1,0 +1,19 @@
+{
+  "title": "Great Truths are Always Simple: A Rather Simple Knowledge Encoder for Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models",
+  "authors": [
+    "Jinhao Jiang",
+    "Kun Zhou",
+    "Wayne Xin Zhao",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.findings-naacl.131",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.131/"
+}

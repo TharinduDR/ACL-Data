@@ -1,0 +1,35 @@
+{
+  "title": "Towards Effective and Efficient Continual Pre-training of Large Language Models",
+  "authors": [
+    "Jie Chen",
+    "Zhipeng Chen",
+    "Jiapeng Wang",
+    "Kun Zhou",
+    "Yutao Zhu",
+    "Jinhao Jiang",
+    "Yingqian Min",
+    "Wayne Xin Zhao",
+    "Zhicheng Dou",
+    "Jiaxin Mao",
+    "Yankai Lin",
+    "Ruihua Song",
+    "Jun Xu",
+    "Xu Chen",
+    "Rui Yan",
+    "Zhewei Wei",
+    "Di Hu",
+    "Wenbing Huang",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-long.289",
+  "acl_url": "https://aclanthology.org/2025.acl-long.289/"
+}

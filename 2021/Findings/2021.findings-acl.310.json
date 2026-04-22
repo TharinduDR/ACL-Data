@@ -1,0 +1,22 @@
+{
+  "title": "It's All in the Heads: Using Attention Heads as a Baseline for Cross-Lingual Transfer in Commonsense Reasoning",
+  "authors": [
+    "Alexey Tikhonov",
+    "Max Ryabinin"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Japanese",
+    "Russian",
+    "Chinese",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2021.findings-acl.310",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.310/"
+}

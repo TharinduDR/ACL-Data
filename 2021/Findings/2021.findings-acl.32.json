@@ -1,0 +1,37 @@
+{
+  "title": "XeroAlign: Zero-Shot Cross-lingual Transformer Alignment",
+  "authors": [
+    "Milan Gritta",
+    "Ignacio Iacobacci"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Hindi",
+    "Thai",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Turkish",
+    "Bengali",
+    "Indonesian",
+    "Vietnamese",
+    "Malay",
+    "Arabic",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.findings-acl.32",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.32/"
+}

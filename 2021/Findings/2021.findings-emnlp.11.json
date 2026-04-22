@@ -1,0 +1,20 @@
+{
+  "title": "Cross-Modal Retrieval Augmentation for Multi-Modal Classification",
+  "authors": [
+    "Shir Gur",
+    "Natalia Neverova",
+    "Chris Stauffer",
+    "Ser-Nam Lim",
+    "Douwe Kiela",
+    "Austin Reiter"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2021.findings-emnlp.11",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.11/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "LexGen: Domain-aware Multilingual Lexicon Generation",
+  "authors": [
+    "Ayush Maheshwari",
+    "Atul Kumar Singh",
+    "Karthika N J",
+    "Krishnakant Bhatt",
+    "Preethi Jyothi",
+    "Ganesh Ramakrishnan"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Gujarati",
+    "Kannada",
+    "Marathi",
+    "Odia",
+    "Tamil",
+    "Punjabi",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.acl-long.365",
+  "acl_url": "https://aclanthology.org/2025.acl-long.365/"
+}

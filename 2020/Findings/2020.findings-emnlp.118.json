@@ -1,0 +1,20 @@
+{
+  "title": "Parsing with Multilingual BERT, a Small Corpus, and a Small Treebank",
+  "authors": [
+    "Ethan C. Chau",
+    "Lucy H. Lin",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "Irish",
+    "Maltese",
+    "Singlish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.118",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.118/"
+}

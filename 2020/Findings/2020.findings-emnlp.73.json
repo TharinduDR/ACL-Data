@@ -1,0 +1,21 @@
+{
+  "title": "Event Extraction as Multi-turn Question Answering",
+  "authors": [
+    "Fayuan Li",
+    "Weihua Peng",
+    "Yuguang Chen",
+    "Quan Wang",
+    "Lu Pan",
+    "Yajuan Lyu",
+    "Yong Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.findings-emnlp.73",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.73/"
+}

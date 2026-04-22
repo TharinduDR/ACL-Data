@@ -1,0 +1,21 @@
+{
+  "title": "BERT Meets CTC: New Formulation of End-to-End Speech Recognition with Pre-trained Masked Language Model",
+  "authors": [
+    "Yosuke Higuchi",
+    "Brian Yan",
+    "Siddhant Arora",
+    "Tetsuji Ogawa",
+    "Tetsunori Kobayashi",
+    "Shinji Watanabe"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2022.findings-emnlp.402",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.402/"
+}

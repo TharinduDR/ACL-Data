@@ -1,0 +1,21 @@
+{
+  "title": "DRAG: Distilling RAG for SLMs from LLMs to Transfer Knowledge and Mitigate Hallucination via Evidence and Graph-based Distillation",
+  "authors": [
+    "Jennifer Chen",
+    "Aidar Myrzakhan",
+    "Yaxin Luo",
+    "Hassaan Muhammad Khan",
+    "Sondos Mahmoud Bsharat",
+    "Zhiqiang Shen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.358",
+  "acl_url": "https://aclanthology.org/2025.acl-long.358/"
+}

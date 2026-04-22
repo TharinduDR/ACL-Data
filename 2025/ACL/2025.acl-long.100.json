@@ -1,0 +1,38 @@
+{
+  "title": "Second Language (Arabic) Acquisition of LLMs via Progressive Vocabulary Expansion",
+  "authors": [
+    "Jianqing Zhu",
+    "Huang Huang",
+    "Zhihang Lin",
+    "Juhao Liang",
+    "Zhengyang Tang",
+    "Khalid Almubarak",
+    "Abdulmohsen Alharthik",
+    "Bang An",
+    "Juncai He",
+    "Xiangbo Wu",
+    "Fei Yu",
+    "Junying Chen",
+    "Zhuoheng Ma",
+    "Yuhao Du",
+    "He Zhang",
+    "Saied Alshahrani",
+    "Emad A. Alghamdi",
+    "Lian Zhang",
+    "Ruoyu Sun",
+    "Haizhou Li",
+    "Benyou Wang",
+    "Jinchao Xu"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-long.100",
+  "acl_url": "https://aclanthology.org/2025.acl-long.100/"
+}

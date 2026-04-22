@@ -1,0 +1,25 @@
+{
+  "title": "Does Putting a Linguist in the Loop Improve NLU Data Collection?",
+  "authors": [
+    "Alicia Parrish",
+    "William Huang",
+    "Omar Agha",
+    "Soo-Hwan Lee",
+    "Nikita Nangia",
+    "Alex Warstadt",
+    "Karmanya Aggarwal",
+    "Emily Allaway",
+    "Tal Linzen",
+    "Samuel R. Bowman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2021.findings-emnlp.421",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.421/"
+}

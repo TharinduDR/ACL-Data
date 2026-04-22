@@ -1,0 +1,26 @@
+{
+  "title": "Minimax and Neyman–Pearson Meta-Learning for Outlier Languages",
+  "authors": [
+    "Edoardo Maria Ponti",
+    "Rahul Aralikatte",
+    "Disha Shrivastava",
+    "Siva Reddy",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Finnish",
+    "Korean",
+    "Indonesian",
+    "Russian",
+    "Swahili",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-acl.106",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.106/"
+}

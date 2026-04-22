@@ -1,0 +1,25 @@
+{
+  "title": "Lost in Literalism: How Supervised Training Shapes Translationese in LLMs",
+  "authors": [
+    "Yafu Li",
+    "Ronghao Zhang",
+    "Zhilin Wang",
+    "Huajian Zhang",
+    "Leyang Cui",
+    "Yongjing Yin",
+    "Tong Xiao",
+    "Yue Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.630",
+  "acl_url": "https://aclanthology.org/2025.acl-long.630/"
+}

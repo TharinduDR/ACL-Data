@@ -1,0 +1,27 @@
+{
+  "title": "FreeTransfer-X: Safe and Label-Free Cross-Lingual Transfer from Off-the-Shelf Models",
+  "authors": [
+    "Yinpeng Guo",
+    "Liangyou Li",
+    "Xin Jiang",
+    "Qun Liu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Portuguese",
+    "Hindi",
+    "Chinese",
+    "Japanese",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-naacl.16",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.16/"
+}

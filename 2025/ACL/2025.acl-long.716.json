@@ -1,0 +1,21 @@
+{
+  "title": "QA Eval: Mixture of Evaluators for Question-Answering Task Evaluation",
+  "authors": [
+    "Tan Yue",
+    "Rui Mao",
+    "Xuzhao Shi",
+    "Shuo Zhan",
+    "Zuhao Yang",
+    "Dongyan Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.716",
+  "acl_url": "https://aclanthology.org/2025.acl-long.716/"
+}

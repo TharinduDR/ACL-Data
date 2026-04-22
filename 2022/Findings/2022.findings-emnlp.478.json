@@ -1,0 +1,23 @@
+{
+  "title": "Model and Data Transfer for Cross-Lingual Sequence Labelling in Zero-Resource Settings",
+  "authors": [
+    "Iker García-Ferrero",
+    "Rodrigo Agerri",
+    "German Rigau"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Dutch",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T11",
+    "T16",
+    "T20"
+  ],
+  "paper_id": "2022.findings-emnlp.478",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.478/"
+}

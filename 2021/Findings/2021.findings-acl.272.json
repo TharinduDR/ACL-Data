@@ -1,0 +1,20 @@
+{
+  "title": "Self-Supervised Document Similarity Ranking via Contextualized Language Models and Hierarchical Inference",
+  "authors": [
+    "Dvir Ginzburg",
+    "Itzik Malkiel",
+    "Oren Barkan",
+    "Avi Caciularu",
+    "Noam Koenigstein"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-acl.272",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.272/"
+}

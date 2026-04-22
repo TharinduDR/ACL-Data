@@ -1,0 +1,22 @@
+{
+  "title": "DIFFPO: Diffusion-styled Preference Optimization for Efficient Inference-Time Alignment of Large Language Models",
+  "authors": [
+    "Ruizhe Chen",
+    "Wenhao Chai",
+    "Zhifei Yang",
+    "Xiaotian Zhang",
+    "Joey Tianyi Zhou",
+    "Tony Quek",
+    "Soujanya Poria",
+    "Zuozhu Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.926",
+  "acl_url": "https://aclanthology.org/2025.acl-long.926/"
+}

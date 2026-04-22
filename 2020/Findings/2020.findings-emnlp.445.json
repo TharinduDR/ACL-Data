@@ -1,0 +1,33 @@
+{
+  "title": "IndicNLP Suite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for Indian Languages",
+  "authors": [
+    "Divyanshu Kakwani",
+    "Anoop Kunchukuttan",
+    "Satish Golla",
+    "Gokul N.C.",
+    "Avik Bhattacharyya",
+    "Mitesh M. Khapra",
+    "Pratyush Kumar"
+  ],
+  "languages": [
+    "English",
+    "Punjabi",
+    "Hindi",
+    "Bengali",
+    "Odia",
+    "Assamese",
+    "Gujarati",
+    "Marathi",
+    "Kannada",
+    "Telugu",
+    "Malayalam",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.445",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.445/"
+}

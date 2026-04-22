@@ -1,0 +1,18 @@
+{
+  "title": "Differentially Private Representation for NLP: Formal Guarantee and An Empirical Study on Privacy and Fairness",
+  "authors": [
+    "Lingjuan Lyu",
+    "Xuanli He",
+    "Yitong Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.findings-emnlp.213",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.213/"
+}

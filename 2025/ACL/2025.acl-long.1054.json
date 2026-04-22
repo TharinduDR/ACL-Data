@@ -1,0 +1,24 @@
+{
+  "title": "Automated CAD Modeling Sequence Generation from Text Descriptions via Transformer-Based Large Language Models",
+  "authors": [
+    "Jianxing Liao",
+    "Junyan Xu",
+    "Yatao Sun",
+    "Maowen Tang",
+    "Sicheng He",
+    "Jingxian Liao",
+    "Shui Yu",
+    "Yun Li",
+    "Xiaohong Guan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.acl-long.1054",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1054/"
+}

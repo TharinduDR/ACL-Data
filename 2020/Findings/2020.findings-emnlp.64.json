@@ -1,0 +1,20 @@
+{
+  "title": "Pruning Redundant Mappings in Transformer Models via Spectral-Normalized Identity Prior",
+  "authors": [
+    "Zi Lin",
+    "Jeremiah Zhe Liu",
+    "Zi Yang",
+    "Nan Hua",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2020.findings-emnlp.64",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.64/"
+}

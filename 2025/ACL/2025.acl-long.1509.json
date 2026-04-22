@@ -1,0 +1,24 @@
+{
+  "title": "BATAYAN: A Filipino NLP benchmark for evaluating Large Language Models",
+  "authors": [
+    "Jann Railey Montalan",
+    "Jimson Paulo Layacan",
+    "David Demitri Africa",
+    "Richell Isaiah Flores",
+    "Michael T. Lopez IF",
+    "Theresa Denise Magsajo",
+    "Anjanette Cayabyab",
+    "William Chandra Tjhi"
+  ],
+  "languages": [
+    "Filipino"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.acl-long.1509",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1509/"
+}

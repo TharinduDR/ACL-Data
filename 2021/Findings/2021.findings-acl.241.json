@@ -1,0 +1,23 @@
+{
+  "title": "Two Parents, One Child: Dual Transfer for Low-Resource Neural Machine Translation",
+  "authors": [
+    "Meng Zhang",
+    "Liangyou Li",
+    "Qun Liu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Estonian",
+    "Turkish",
+    "French",
+    "Spanish",
+    "Medical Domain"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.findings-acl.241",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.241/"
+}

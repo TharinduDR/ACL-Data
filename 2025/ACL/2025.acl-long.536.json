@@ -1,0 +1,19 @@
+{
+  "title": "DTCRS: Dynamic Tree Construction for Recursive Summarization",
+  "authors": [
+    "Guanran Luo",
+    "Zhongquan Jian",
+    "Wentao Qiu",
+    "Meihong Wang",
+    "Qingqiang Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.acl-long.536",
+  "acl_url": "https://aclanthology.org/2025.acl-long.536/"
+}

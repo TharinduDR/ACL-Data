@@ -1,0 +1,28 @@
+{
+  "title": "Aligning Large Language Models with Implicit Preferences from User-Generated Content",
+  "authors": [
+    "Zhaoxuan Tan",
+    "Zheng Li",
+    "Tianyi Liu",
+    "Haodong Wang",
+    "Hyokun Yun",
+    "Ming Zeng",
+    "Pei Chen",
+    "Zhihan Zhang",
+    "Yifan Gao",
+    "Ruijie Wang",
+    "Priyanka Nigam",
+    "Bing Yin",
+    "Meng Jiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.acl-long.384",
+  "acl_url": "https://aclanthology.org/2025.acl-long.384/"
+}

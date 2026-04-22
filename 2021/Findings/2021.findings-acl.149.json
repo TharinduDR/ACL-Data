@@ -1,0 +1,32 @@
+{
+  "title": "Multi-Granularity Contrasting for Cross-Lingual Pre-Training",
+  "authors": [
+    "Shicheng Li",
+    "Pengcheng Yang",
+    "Fuli Luo",
+    "Jun Xie"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Greek",
+    "Bulgarian",
+    "Russian",
+    "Turkish",
+    "Arabic",
+    "Vietnamese",
+    "Thai",
+    "Chinese",
+    "Hindi",
+    "Swahili",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2021.findings-acl.149",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.149/"
+}

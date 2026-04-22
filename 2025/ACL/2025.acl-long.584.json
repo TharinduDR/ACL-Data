@@ -1,0 +1,25 @@
+{
+  "title": "UniLR: Unleashing the Power of LLMs on Multiple Legal Tasks with a Unified Legal Retriever",
+  "authors": [
+    "Ang Li",
+    "Yiquan Wu",
+    "Yifei Liu",
+    "Ming Cai",
+    "Lizhi Qing",
+    "Shihang Wang",
+    "Yangyang Kang",
+    "Chengyuan Liu",
+    "Fei Wu",
+    "Kun Kuang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.584",
+  "acl_url": "https://aclanthology.org/2025.acl-long.584/"
+}

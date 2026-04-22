@@ -1,0 +1,18 @@
+{
+  "title": "TRACT: Regression-Aware Fine-tuning Meets Chain-of-Thought Reasoning for LLM-as-a-Judge",
+  "authors": [
+    "Cheng-Han Chiang",
+    "Hung-yi Lee",
+    "Michal Lukasik"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.147",
+  "acl_url": "https://aclanthology.org/2025.acl-long.147/"
+}

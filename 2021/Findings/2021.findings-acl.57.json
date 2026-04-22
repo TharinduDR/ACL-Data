@@ -1,0 +1,21 @@
+{
+  "title": "Improving BERT with Syntax-aware Local Attention",
+  "authors": [
+    "Zhongli Li",
+    "Qingyu Zhou",
+    "Chao Li",
+    "Ke Xu",
+    "Yunbo Cao"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2021.findings-acl.57",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.57/"
+}

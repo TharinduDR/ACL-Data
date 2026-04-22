@@ -1,0 +1,19 @@
+{
+  "title": "SPABERT: A Pretrained Language Model from Geographic Data for Geo-Entity Representation",
+  "authors": [
+    "Zekun Li",
+    "Jina Kim",
+    "Yao-Yi Chiang",
+    "Muha Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2022.findings-emnlp.200",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.200/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "VMLU Benchmarks: A comprehensive benchmark toolkit for Vietnamese LLMs",
+  "authors": [
+    "Cuc Thi Bui",
+    "Nguyen Truong Son",
+    "Truong Van Trang",
+    "Lam Viet Phung",
+    "Pham Nhu Huy",
+    "Hoang Anh Le",
+    "Quoc Huu Van",
+    "Phong Nguyen-Thuan Do",
+    "Van Le Tran Truc",
+    "Duc Thanh Chau",
+    "Le-Minh Nguyen"
+  ],
+  "languages": [
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2025.acl-long.563",
+  "acl_url": "https://aclanthology.org/2025.acl-long.563/"
+}

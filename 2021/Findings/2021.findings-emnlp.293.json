@@ -1,0 +1,44 @@
+{
+  "title": "MURAL: Multimodal, Multitask Retrieval Across Languages",
+  "authors": [
+    "Aashi Jain",
+    "Mandy Guo",
+    "Krishna Srinivasan",
+    "Ting Chen",
+    "Sneha Kudugunta",
+    "Chao Jia",
+    "Yinfei Yang",
+    "Jason Baldridge"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Czech",
+    "Japanese",
+    "Chinese",
+    "Russian",
+    "Polish",
+    "Turkish",
+    "Tajik",
+    "Uzbek",
+    "Irish",
+    "Belarusian",
+    "Malagasy",
+    "Haitian",
+    "Waray-Waray",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.findings-emnlp.293",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.293/"
+}

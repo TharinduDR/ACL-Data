@@ -1,0 +1,22 @@
+{
+  "title": "Transformer-GCRF: Recovering Chinese Dropped Pronouns with General Conditional Random Fields",
+  "authors": [
+    "Jingxuan Yang",
+    "Kerui Xu",
+    "Jun Xu",
+    "Si Li",
+    "Sheng Gao",
+    "Jun Guo",
+    "Ji-Rong Wen",
+    "Nianwen Xue"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.13",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.13/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Digest the Knowledge: Large Language Models empowered Message Passing for Knowledge Graph Question Answering",
+  "authors": [
+    "Junhong Wan",
+    "Tao Yu",
+    "Kunyu Jiang",
+    "Yao Fu",
+    "Weihao Jiang",
+    "Jiang Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-long.750",
+  "acl_url": "https://aclanthology.org/2025.acl-long.750/"
+}

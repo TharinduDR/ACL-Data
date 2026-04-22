@@ -1,0 +1,19 @@
+{
+  "title": "CHEER-Ekman: Fine-grained Embodied Emotion Classification",
+  "authors": [
+    "Phan Anh Duong",
+    "Cat Luong",
+    "Divyesh Bommana",
+    "Tianyu Jiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-short.88",
+  "acl_url": "https://aclanthology.org/2025.acl-short.88/"
+}

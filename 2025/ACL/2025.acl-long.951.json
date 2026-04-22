@@ -1,0 +1,22 @@
+{
+  "title": "DIVE into MoE: Diversity-Enhanced Reconstruction of Large Language Models from Dense into Mixture-of-Experts",
+  "authors": [
+    "Yuchen Feng",
+    "Bowen Shen",
+    "Naibin Gu",
+    "Jiaxuan Zhao",
+    "Peng Fu",
+    "Zheng Lin",
+    "Weiping Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-long.951",
+  "acl_url": "https://aclanthology.org/2025.acl-long.951/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SMS Spam Detection Through Skip-gram Embeddings and Shallow Networks",
+  "authors": [
+    "Gustavo José de Sousa",
+    "Daniel Carlos Guimarães Pedronette",
+    "João Paulo Papa",
+    "Ivan Rizzo Guilherme"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2021.findings-acl.367",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.367/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference",
+  "authors": [
+    "Benjamin Warner",
+    "Antoine Chaffin",
+    "Benjamin Clavié",
+    "Orion Weller",
+    "Oskar Hallström",
+    "Said Taghadouini",
+    "Alexis Gallagher",
+    "Raja Biswas",
+    "Faisal Ladha",
+    "Tom Aarsen",
+    "Nathan Cooper",
+    "Griffin Adams",
+    "Jeremy Howard",
+    "Iacopo Poli"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.acl-long.127",
+  "acl_url": "https://aclanthology.org/2025.acl-long.127/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Understanding In-Context Machine Translation for Low-Resource Languages: A Case Study on Manchu",
+  "authors": [
+    "Renhao Pei",
+    "Yihong Liu",
+    "Peiqin Lin",
+    "François Yvon",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "Manchu",
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.acl-long.429",
+  "acl_url": "https://aclanthology.org/2025.acl-long.429/"
+}

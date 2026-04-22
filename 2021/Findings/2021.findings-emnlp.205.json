@@ -1,0 +1,22 @@
+{
+  "title": "Wine is Not v i n. On the Compatibility of Tokenizations Across Languages",
+  "authors": [
+    "Antonis Maronikolakis",
+    "Philipp Dufter",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "Greek",
+    "Russian",
+    "Chinese",
+    "Fake-English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.findings-emnlp.205",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.205/"
+}

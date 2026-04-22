@@ -1,0 +1,24 @@
+{
+  "title": "FocusLLM: Precise Understanding of Long Context by Dynamic Condensing",
+  "authors": [
+    "Zhenyu Li",
+    "Yike Zhang",
+    "Tengyu Pan",
+    "Yutao Sun",
+    "Zhichao Duan",
+    "Junjie Fang",
+    "Rong Han",
+    "Zixuan Wan",
+    "Jianyong Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.acl-long.1500",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1500/"
+}

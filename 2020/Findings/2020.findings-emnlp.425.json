@@ -1,0 +1,20 @@
+{
+  "title": "ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations",
+  "authors": [
+    "Shizhe Diao",
+    "Jiaxin Bai",
+    "Yan Song",
+    "Tong Zhang",
+    "Yonggang Wang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.425",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.425/"
+}

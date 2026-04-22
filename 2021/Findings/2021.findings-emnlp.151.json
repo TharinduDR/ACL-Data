@@ -1,0 +1,23 @@
+{
+  "title": "Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation",
+  "authors": [
+    "Humair Raj Khan",
+    "Deepak Gupta",
+    "Asif Ekbal"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Spanish",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T10 Question Answering",
+    "T17 Multimodality, Cross-modality",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2021.findings-emnlp.151",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.151/"
+}

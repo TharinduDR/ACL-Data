@@ -1,0 +1,28 @@
+{
+  "title": "LegalAgentBench: Evaluating LLM Agents in Legal Domain",
+  "authors": [
+    "Haitao Li",
+    "Junjie Chen",
+    "Jingli Yang",
+    "Qingyao Ai",
+    "Jia Wei",
+    "Youfeng Liu",
+    "Kai Lin",
+    "Yueyue Wu",
+    "Guozhi Yuan",
+    "Yiran Hu",
+    "Wuyue Wang",
+    "Yiqun Liu",
+    "Minlie Huang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.116",
+  "acl_url": "https://aclanthology.org/2025.acl-long.116/"
+}

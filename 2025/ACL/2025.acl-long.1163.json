@@ -1,0 +1,23 @@
+{
+  "title": "Revisiting Scaling Laws for Language Models: The Role of Data Quality and Training Strategies",
+  "authors": [
+    "Zhengyu Chen",
+    "Siqi Wang",
+    "Teng Xiao",
+    "Yudong Wang",
+    "Shiqi Chen",
+    "Xunliang Cai",
+    "Junxian He",
+    "Jingang Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2025.acl-long.1163",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1163/"
+}

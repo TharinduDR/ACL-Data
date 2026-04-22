@@ -1,0 +1,21 @@
+{
+  "title": "Unsupervised Syntactically Controlled Paraphrase Generation with Abstract Meaning Representations",
+  "authors": [
+    "Kuan-Hao Huang",
+    "Varun Iyer",
+    "Anoop Kumar",
+    "Sriram Venkatapathy",
+    "Kai-Wei Chang",
+    "Aram Galstyan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.findings-emnlp.111",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.111/"
+}

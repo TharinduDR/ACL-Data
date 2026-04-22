@@ -1,0 +1,21 @@
+{
+  "title": "Thai Nested Named Entity Recognition Corpus",
+  "authors": [
+    "Weerayut Buaphet",
+    "Can Udomcharoenchaikit",
+    "Peerat Limkonchotiwat",
+    "Attapol T. Rutherford",
+    "Sarana Nutanong"
+  ],
+  "languages": [
+    "Thai",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-acl.116",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.116/"
+}

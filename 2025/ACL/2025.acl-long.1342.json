@@ -1,0 +1,25 @@
+{
+  "title": "CheXalign: Preference fine-tuning in chest X-ray interpretation models without human feedback",
+  "authors": [
+    "Dennis Hein",
+    "Zhihong Chen",
+    "Sophie Ostmeier",
+    "Justin Xu",
+    "Maya Varma",
+    "Eduardo Pontes Reis",
+    "Arne Edward Michalson",
+    "Christian Bluethgen",
+    "Hyun Joo Shin",
+    "Curtis Langlotz",
+    "Akshay S Chaudhari"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.acl-long.1342",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1342/"
+}

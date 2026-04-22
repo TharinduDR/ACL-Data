@@ -1,0 +1,19 @@
+{
+  "title": "Decomposing Complex Questions Makes Multi-Hop QA Easier and More Interpretable",
+  "authors": [
+    "Ruilin Fu",
+    "Han Wang",
+    "Xuejun Zhang",
+    "Jun Zhou",
+    "Yonghong Yan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.findings-emnlp.17",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.17/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "XFUND: A Benchmark Dataset for Multilingual Visually Rich Form Understanding",
+  "authors": [
+    "Yiheng Xu",
+    "Tengchao Lv",
+    "Lei Cui",
+    "Guoxin Wang",
+    "Yijuan Lu",
+    "Dinei Florencio",
+    "Cha Zhang",
+    "Furu Wei"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "Spanish",
+    "French",
+    "Italian",
+    "German",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.findings-acl.253",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.253/"
+}

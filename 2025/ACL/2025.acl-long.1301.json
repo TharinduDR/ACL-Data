@@ -1,0 +1,29 @@
+{
+  "title": "Automated Structured Radiology Report Generation",
+  "authors": [
+    "Jean-Benoit Delbrouck",
+    "Justin Xu",
+    "Johannes Moll",
+    "Alois Thomas",
+    "Zhihong Chen",
+    "Sophie Ostmeier",
+    "Asfandyar Azhar",
+    "Kelvin Zhenghao Li",
+    "Andrew Johnston",
+    "Christian Bluethgen",
+    "Eduardo Reis",
+    "Mohamed Muneer",
+    "Maya Varma",
+    "Curtis Langlotz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1301",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1301/"
+}

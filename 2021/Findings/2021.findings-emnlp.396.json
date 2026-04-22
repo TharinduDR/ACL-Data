@@ -1,0 +1,21 @@
+{
+  "title": "Secoco: Self-Correcting Encoding for Neural Machine Translation",
+  "authors": [
+    "Tao Wang",
+    "Chengqi Zhao",
+    "Mingxuan Wang",
+    "Lei Li",
+    "Hang Li",
+    "Deyi Xiong"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.findings-emnlp.396",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.396/"
+}

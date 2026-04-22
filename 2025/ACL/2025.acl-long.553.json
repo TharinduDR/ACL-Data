@@ -1,0 +1,22 @@
+{
+  "title": "GenderAlign: An Alignment Dataset for Mitigating Gender Bias in Large Language Models",
+  "authors": [
+    "Tao Zhang",
+    "Ziqian Zeng",
+    "Yuxiang Xiao",
+    "Huiping Zhuang",
+    "Cen Chen",
+    "James Foulds",
+    "Shimei Pan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.553",
+  "acl_url": "https://aclanthology.org/2025.acl-long.553/"
+}

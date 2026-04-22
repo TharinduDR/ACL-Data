@@ -1,0 +1,43 @@
+{
+  "title": "CC-TUNING: A Cross-Lingual Connection Mechanism for Improving Joint Multilingual Supervised Fine-Tuning",
+  "authors": [
+    "Yangfan Ye",
+    "Xiaocheng Feng",
+    "Zekun Yuan",
+    "Xiachong Feng",
+    "Libo Qin",
+    "Lei Huang",
+    "Weitao Ma",
+    "Yichong Huang",
+    "Zhirui Zhang",
+    "Yunfei Lu",
+    "Xiaohui Yan",
+    "Duyu Tang",
+    "Dandan Tu",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "German",
+    "Russian",
+    "Swahili",
+    "Turkish",
+    "Urdu",
+    "Vietnamese",
+    "Zulu",
+    "Xhosa",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-long.933",
+  "acl_url": "https://aclanthology.org/2025.acl-long.933/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Autoregressive Speech Synthesis without Vector Quantization",
+  "authors": [
+    "Lingwei Meng",
+    "Long Zhou",
+    "Shujie Liu",
+    "Sanyuan Chen",
+    "Bing Han",
+    "Shujie Hu",
+    "Yanqing Liu",
+    "Jinyu Li",
+    "Sheng Zhao",
+    "Xixin Wu",
+    "Helen Meng",
+    "Furu Wei"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.acl-long.65",
+  "acl_url": "https://aclanthology.org/2025.acl-long.65/"
+}

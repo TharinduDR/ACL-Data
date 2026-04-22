@@ -1,0 +1,21 @@
+{
+  "title": "NAST: A Non-Autoregressive Generator with Word Alignment for Unsupervised Text Style Transfer",
+  "authors": [
+    "Fei Huang",
+    "Zikai Chen",
+    "Chen Henry Wu",
+    "Qihan Guo",
+    "Xiaoyan Zhu",
+    "Minlie Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis",
+    "T19 Text Simplification"
+  ],
+  "paper_id": "2021.findings-acl.138",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.138/"
+}

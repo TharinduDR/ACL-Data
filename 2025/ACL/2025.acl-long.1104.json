@@ -1,0 +1,24 @@
+{
+  "title": "S²R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning",
+  "authors": [
+    "Ruotian Ma",
+    "Peisong Wang",
+    "Cheng Liu",
+    "Xingyan Liu",
+    "Jiaqi Chen",
+    "Bang Zhang",
+    "Xin Zhou",
+    "Nan Du",
+    "Jia Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.1104",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1104/"
+}

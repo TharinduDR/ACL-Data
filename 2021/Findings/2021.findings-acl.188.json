@@ -1,0 +1,31 @@
+{
+  "title": "MINILMv2: Multi-Head Self-Attention Relation Distillation for Compressing Pretrained Transformers",
+  "authors": [
+    "Wenhui Wang",
+    "Hangbo Bao",
+    "Shaohan Huang",
+    "Li Dong",
+    "Furu Wei"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Spanish",
+    "Russian",
+    "Turkish",
+    "Arabic",
+    "Hindi",
+    "Vietnamese",
+    "Thai",
+    "Swahili",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-acl.188",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.188/"
+}

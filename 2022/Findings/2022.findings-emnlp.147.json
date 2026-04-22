@@ -1,0 +1,20 @@
+{
+  "title": "Can Language Models Serve as Temporal Knowledge Bases?",
+  "authors": [
+    "Ruolin Zhao",
+    "Feng Zhao",
+    "Guandong Xu",
+    "Sixiao Zhang",
+    "Hai Jin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.findings-emnlp.147",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.147/"
+}

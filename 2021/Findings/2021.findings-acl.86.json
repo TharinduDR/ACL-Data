@@ -1,0 +1,23 @@
+{
+  "title": "Handling Cross- and Out-of-Domain Samples in Thai Word Segmentation",
+  "authors": [
+    "Peerat Limkonchotiwat",
+    "Wannaphong Phatthiyaphaibun",
+    "Raehem Sarwar",
+    "Ekapol Chuangsuvanich",
+    "Sarana Nutanong"
+  ],
+  "languages": [
+    "Thai",
+    "Chinese",
+    "Japanese",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2021.findings-acl.86",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.86/"
+}

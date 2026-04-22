@@ -1,0 +1,17 @@
+{
+  "title": "Fight Fire with Fire: Fine-tuning Hate Detectors using Large Samples of Generated Hate Speech",
+  "authors": [
+    "Tomer Wullach",
+    "Amir Adler",
+    "Einat Minkov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.findings-emnlp.402",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.402/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Sparse-to-Dense: A Free Lunch for Lossless Acceleration of Video Understanding in LLMs",
+  "authors": [
+    "Xuan Zhang",
+    "Cunxiao Du",
+    "Sicheng Yu",
+    "Jiawei Wu",
+    "Fengzhuo Zhang",
+    "Wei Gao",
+    "Qian Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-short.59",
+  "acl_url": "https://aclanthology.org/2025.acl-short.59/"
+}

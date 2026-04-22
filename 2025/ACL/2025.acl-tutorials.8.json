@@ -1,0 +1,23 @@
+{
+  "title": "Guardrails and Security for LLMs: Safe, Secure and Controllable Steering of LLM Applications",
+  "authors": [
+    "Traian Rebedea",
+    "Leon Derczynski",
+    "Shaona Ghosh",
+    "Makesh Narsimhan Sreedhar",
+    "Faeze Brahman",
+    "Liwei Jiang",
+    "Bo Li",
+    "Yulia Tsvetkov",
+    "Christopher Parisien",
+    "Yejin Choi"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-tutorials.8",
+  "acl_url": "https://aclanthology.org/2025.acl-tutorials.8/"
+}

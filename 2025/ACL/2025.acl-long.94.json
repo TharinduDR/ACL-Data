@@ -1,0 +1,23 @@
+{
+  "title": "UnSeenTimeQA: Time-Sensitive Question-Answering Beyond LLMs' Memorization",
+  "authors": [
+    "Md Nayem Uddin",
+    "Amir Saeidi",
+    "Divij Handa",
+    "Agastya Seth",
+    "Tran Cao Son",
+    "Eduardo Blanco",
+    "Steven R. Corman",
+    "Chitta Baral"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.94",
+  "acl_url": "https://aclanthology.org/2025.acl-long.94/"
+}

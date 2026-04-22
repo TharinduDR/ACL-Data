@@ -1,0 +1,23 @@
+{
+  "title": "Automatic Bilingual Markup Transfer",
+  "authors": [
+    "Thomas Zenkel",
+    "Joern Wuebker",
+    "John DeNero"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Finnish",
+    "French",
+    "Japanese",
+    "Dutch",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-emnlp.299",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.299/"
+}

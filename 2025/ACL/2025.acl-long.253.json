@@ -1,0 +1,38 @@
+{
+  "title": "Lost in Multilinguality: Dissecting Cross-lingual Factual Inconsistency in Transformer Language Models",
+  "authors": [
+    "Mingyang Wang",
+    "Heike Adel",
+    "Lukas Lange",
+    "Yihong Liu",
+    "Ercong Nie",
+    "Jannik Strötgren",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Arabic",
+    "Catalan",
+    "Greek",
+    "Spanish",
+    "Persian",
+    "French",
+    "Hebrew",
+    "Hungarian",
+    "Japanese",
+    "Korean",
+    "Dutch",
+    "Russian",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.acl-long.253",
+  "acl_url": "https://aclanthology.org/2025.acl-long.253/"
+}

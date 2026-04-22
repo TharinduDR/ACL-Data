@@ -1,0 +1,23 @@
+{
+  "title": "Not All Errors Are Equal: Learning Text Generation Metrics using Stratified Error Synthesis",
+  "authors": [
+    "Wenda Xu",
+    "Yilin Tuan",
+    "Yujie Lu",
+    "Michael Saxon",
+    "Lei Li",
+    "William Yang Wang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.489",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.489/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "A multilabel approach to morphosyntactic probing",
+  "authors": [
+    "Naomi Tachikawa Shapiro",
+    "Amandalynne Paullada",
+    "Shane Steinert-Threlkeld"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Croatian",
+    "Finnish",
+    "Hebrew",
+    "Korean",
+    "Spanish",
+    "Turkish",
+    "Arabic",
+    "Chinese",
+    "Marathi",
+    "Slovenian",
+    "Tagalog",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-emnlp.382",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.382/"
+}

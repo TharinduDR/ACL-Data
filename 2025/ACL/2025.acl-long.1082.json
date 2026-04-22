@@ -1,0 +1,27 @@
+{
+  "title": "Disentangling Language and Culture for Evaluating Multilingual Large Language Models",
+  "authors": [
+    "Jiahao Ying",
+    "Wei Tang",
+    "Yiran Zhao",
+    "Yixin Cao",
+    "Yu Rong",
+    "Wenxuan Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Indonesian",
+    "Korean",
+    "Persian",
+    "Sundanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1082",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1082/"
+}

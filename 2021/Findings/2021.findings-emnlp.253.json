@@ -1,0 +1,19 @@
+{
+  "title": "MeLT: Message-Level Transformer with Masked Document Representations as Pre-Training for Stance Detection",
+  "authors": [
+    "Matthew Matero",
+    "Nikita Soni",
+    "Niranjan Balasubramanian",
+    "H. Andrew Schwartz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2021.findings-emnlp.253",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.253/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Domain Adaptation of Foundation LLMs for e-Commerce",
+  "authors": [
+    "Christian Herold",
+    "Michael Kozielski",
+    "Tala Bazazo",
+    "Pavel Petrushkov",
+    "Patrycja Cieplicka",
+    "Dominika Basaj",
+    "Yannick Versley",
+    "Seyyed Hadi Hashemi",
+    "Shahram Khadivi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-industry.74",
+  "acl_url": "https://aclanthology.org/2025.acl-industry.74/"
+}

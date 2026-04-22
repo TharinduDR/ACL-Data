@@ -1,0 +1,23 @@
+{
+  "title": "Automatic Term Name Generation for Gene Ontology: Task and Dataset",
+  "authors": [
+    "Yanjian Zhang",
+    "Qin Chen",
+    "Yiteng Zhang",
+    "Yixu Gao",
+    "Zhongyu Wei",
+    "Jiajie Peng",
+    "Zengfeng Huang",
+    "Weijian Sun",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.findings-emnlp.422",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.422/"
+}

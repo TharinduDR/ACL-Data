@@ -1,0 +1,29 @@
+{
+  "title": "Value Compass Benchmarks: A Comprehensive, Generative and Self-Evolving Platform for LLMs' Value Evaluation",
+  "authors": [
+    "Jing Yao",
+    "Xiaoyuan Yi",
+    "Shitong Duan",
+    "Jindong Wang",
+    "Yuzhuo Bai",
+    "Muhua Huang",
+    "Yang Ou",
+    "Scarlett Li",
+    "Peng Zhang",
+    "Tun Lu",
+    "Zhicheng Dou",
+    "Maosong Sun",
+    "James Evans",
+    "Xing Xie"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-demo.64",
+  "acl_url": "https://aclanthology.org/2025.acl-demo.64/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Combining Static Word Embeddings and Contextual Representations for Bilingual Lexicon Induction",
+  "authors": [
+    "Jinpeng Zhang",
+    "Baijun Ji",
+    "Nini Xiao",
+    "Xiangyu Duan",
+    "Min Zhang",
+    "Yangbin Shi",
+    "Weihua Luo"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Arabic",
+    "Chinese",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.findings-acl.260",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.260/"
+}

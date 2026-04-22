@@ -1,0 +1,19 @@
+{
+  "title": "Hey AI, Can You Solve Complex Tasks by Talking to Agents?",
+  "authors": [
+    "Tushar Khot",
+    "Kyle Richardson",
+    "Daniel Khashabi",
+    "Ashish Sabharwal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-acl.142",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.142/"
+}

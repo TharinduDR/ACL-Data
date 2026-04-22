@@ -1,0 +1,33 @@
+{
+  "title": "AGENTGYM: Evaluating and Training Large Language Model-based Agents across Diverse Environments",
+  "authors": [
+    "Zhiheng Xi",
+    "Yiwen Ding",
+    "Wenxiang Chen",
+    "Boyang Hong",
+    "Honglin Guo",
+    "Junzhe Wang",
+    "Xin Guo",
+    "Dingwen Yang",
+    "Chenyang Liao",
+    "Wei He",
+    "Songyang Gao",
+    "Lu Chen",
+    "Rui Zheng",
+    "Yicheng Zou",
+    "Tao Gui",
+    "Qi Zhang",
+    "Xipeng Qiu",
+    "Xuanjing Huang",
+    "Zuxuan Wu",
+    "Yu-Gang Jiang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.acl-long.1355",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1355/"
+}

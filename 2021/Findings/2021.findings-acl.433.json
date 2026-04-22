@@ -1,0 +1,22 @@
+{
+  "title": "Adapting Monolingual Models: Data can be Scarce when Language Similarity is High",
+  "authors": [
+    "Wietse de Vries",
+    "Martijn Bartelds",
+    "Malvina Nissim",
+    "Martijn Wieling"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Dutch",
+    "Gronings",
+    "West Frisian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-acl.433",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.433/"
+}

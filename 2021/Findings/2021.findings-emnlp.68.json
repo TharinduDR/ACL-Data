@@ -1,0 +1,20 @@
+{
+  "title": "Recall and Learn: A Memory-augmented Solver for Math Word Problems",
+  "authors": [
+    "Shifeng Huang",
+    "Jiawei Wang",
+    "Jiao Xu",
+    "Da Cao",
+    "Ming Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2021.findings-emnlp.68",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.68/"
+}

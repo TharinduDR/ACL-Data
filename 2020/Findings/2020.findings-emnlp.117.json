@@ -1,0 +1,41 @@
+{
+  "title": "Evaluating Models' Local Decision Boundaries via Contrast Sets",
+  "authors": [
+    "Matt Gardner",
+    "Yoav Artzi",
+    "Victoria Basmova",
+    "Jonathan Berant",
+    "Ben Bogin",
+    "Sihao Chen",
+    "Pradeep Dasigi",
+    "Dheeru Dua",
+    "Yanai Elazar",
+    "Ananth Gottumukkala",
+    "Nitish Gupta",
+    "Hanna Hajishirzi",
+    "Gabriel Ilharco",
+    "Daniel Kashabi",
+    "Kevin Lin",
+    "Jiangming Liu",
+    "Nelson F. Liu",
+    "Phoebe Mulcaire",
+    "Qiang Ning",
+    "Sameer Singh",
+    "Noah A. Smith",
+    "Sanjay Subramanian",
+    "Reut Tsarfaty",
+    "Eric Wallace",
+    "Ally Zhang",
+    "Ben Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.117",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.117/"
+}

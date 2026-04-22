@@ -1,0 +1,41 @@
+{
+  "title": "OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models",
+  "authors": [
+    "Siming Huang",
+    "Tianhao Cheng",
+    "Jason Klein Liu",
+    "Weidi Xu",
+    "Jiaran Hao",
+    "Liuyihan Song",
+    "Yang Xu",
+    "Jian Yang",
+    "Jiaheng Liu",
+    "Chenchen Zhang",
+    "Linzhen Chai",
+    "Ruifeng Yuan",
+    "Xianzhen Luo",
+    "Qiufeng Wang",
+    "Yuantao Fan",
+    "Qingfeng Zhu",
+    "Zhaoxiang Zhang",
+    "Yang Gao",
+    "Jie Fu",
+    "Qian Liu",
+    "Houyi Li",
+    "Ge Zhang",
+    "Yuan Qi",
+    "Yinghui Xu",
+    "Wei Chu",
+    "Zili Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1591",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1591/"
+}

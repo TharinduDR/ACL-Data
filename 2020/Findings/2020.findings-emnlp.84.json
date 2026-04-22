@@ -1,0 +1,23 @@
+{
+  "title": "Hybrid Emoji-Based Masked Language Models for Zero-Shot Abusive Language Detection",
+  "authors": [
+    "Michele Corazza",
+    "Stefano Menini",
+    "Elena Cabrio",
+    "Sara Tonelli",
+    "Serena Villata"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.findings-emnlp.84",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.84/"
+}

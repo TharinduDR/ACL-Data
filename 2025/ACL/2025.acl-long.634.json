@@ -1,0 +1,21 @@
+{
+  "title": "Activation Steering Decoding: Mitigating Hallucination in Large Vision-Language Models through Bidirectional Hidden State Intervention",
+  "authors": [
+    "Jingran Su",
+    "Jingfan Chen",
+    "Hongxin Li",
+    "Yuntao Chen",
+    "Qing Li",
+    "Zhaoxiang Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.634",
+  "acl_url": "https://aclanthology.org/2025.acl-long.634/"
+}

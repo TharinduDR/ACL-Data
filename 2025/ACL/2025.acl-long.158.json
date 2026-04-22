@@ -1,0 +1,27 @@
+{
+  "title": "Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training",
+  "authors": [
+    "Youliang Yuan",
+    "Wenxiang Jiao",
+    "Wenxuan Wang",
+    "Jen-tse Huang",
+    "Jiahao Xu",
+    "Tian Liang",
+    "Pinjia He",
+    "Zhaopeng Tu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.acl-long.158",
+  "acl_url": "https://aclanthology.org/2025.acl-long.158/"
+}

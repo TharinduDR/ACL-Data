@@ -1,0 +1,24 @@
+{
+  "title": "Rethinking Zero-shot Neural Machine Translation: From a Perspective of Latent Variables",
+  "authors": [
+    "Weizhi Wang",
+    "Zhirui Zhang",
+    "Yichao Du",
+    "Boxing Chen",
+    "Jun Xie",
+    "Weihua Luo"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Arabic",
+    "Chinese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.findings-emnlp.366",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.366/"
+}

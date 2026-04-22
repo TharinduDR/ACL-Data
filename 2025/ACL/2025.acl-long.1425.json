@@ -1,0 +1,29 @@
+{
+  "title": "Structure-aware Domain Knowledge Injection for Large Language Models",
+  "authors": [
+    "Kai Liu",
+    "Ze Chen",
+    "Zhihang Fu",
+    "Wei Zhang",
+    "Rongxin Jiang",
+    "Fan Zhou",
+    "Yaowu Chen",
+    "Yue Wu",
+    "Jieping Ye"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "French",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.1425",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1425/"
+}

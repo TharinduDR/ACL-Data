@@ -1,0 +1,25 @@
+{
+  "title": "MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation",
+  "authors": [
+    "Chia-Yuan Chang",
+    "Zhimeng Jiang",
+    "Vineeth Rakesh",
+    "Menghai Pan",
+    "Chin-Chia Michael Yeh",
+    "Guanchu Wang",
+    "Mingzhi Hu",
+    "Zhichao Xu",
+    "Yan Zheng",
+    "Mahashweta Das",
+    "Na Zou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.131",
+  "acl_url": "https://aclanthology.org/2025.acl-long.131/"
+}

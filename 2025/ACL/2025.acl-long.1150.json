@@ -1,0 +1,25 @@
+{
+  "title": "QualiSpeech: A Speech Quality Assessment Dataset with Natural Language Reasoning and Descriptions",
+  "authors": [
+    "Siyin Wang",
+    "Wenyi Yu",
+    "Xianzhao Chen",
+    "Xiaohai Tian",
+    "Jun Zhang",
+    "Lu Lu",
+    "Yu Tsao",
+    "Junichi Yamagishi",
+    "Yuxuan Wang",
+    "Chao Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1150",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1150/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Incorporating Dynamic Semantics into Pre-Trained Language Model for Aspect-based Sentiment Analysis",
+  "authors": [
+    "Kai Zhang",
+    "Kun Zhang",
+    "Mengdi Zhang",
+    "Hongke Zhao",
+    "Qi Liu",
+    "Wei Wu",
+    "Enhong Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.findings-acl.285",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.285/"
+}

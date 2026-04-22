@@ -1,0 +1,26 @@
+{
+  "title": "Generating OpenAPI Specifications from Online API Documentation with Large Language Models",
+  "authors": [
+    "Koren Lazar",
+    "Matan Vetzler",
+    "Kiran Kate",
+    "Jason Tsay",
+    "David Boaz",
+    "Himanshu Gupta",
+    "Avraham Shinnar",
+    "Rohith D Vallam",
+    "David Amid",
+    "Esther Goldbraich",
+    "Guy Uziel",
+    "Jim Laredo",
+    "Ateret Anaby Tavor"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-industry.18",
+  "acl_url": "https://aclanthology.org/2025.acl-industry.18/"
+}

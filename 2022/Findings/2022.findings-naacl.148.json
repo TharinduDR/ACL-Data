@@ -1,0 +1,26 @@
+{
+  "title": "XLTime: A Cross-Lingual Knowledge Transfer Framework for Temporal Expression Extraction",
+  "authors": [
+    "Yuwei Cao",
+    "William Groves",
+    "Tanay Kumar Saha",
+    "Joel R. Tetreault",
+    "Alex Jaimes",
+    "Hao Peng",
+    "Philip S. Yu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Basque"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.findings-naacl.148",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.148/"
+}

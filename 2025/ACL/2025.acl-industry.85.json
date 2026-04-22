@@ -1,0 +1,24 @@
+{
+  "title": "One Missing Piece for Open-Source Reasoning Models: A Dataset to Mitigate Cold-Starting Short CoT LLMs in RL",
+  "authors": [
+    "Hyungjoo Chae",
+    "Dongjin Kang",
+    "Ji-hyuk Kim",
+    "Beong-woo Kwak",
+    "Sunghyun Park",
+    "Haeju Park",
+    "Jinyoung Yeo",
+    "Moontae Lee",
+    "Kyungjae Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-industry.85",
+  "acl_url": "https://aclanthology.org/2025.acl-industry.85/"
+}

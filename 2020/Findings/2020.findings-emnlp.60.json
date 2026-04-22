@@ -1,0 +1,22 @@
+{
+  "title": "Toward Recognizing More Entity Types in NER: An Efficient Implementation using Only Entity Lexicons",
+  "authors": [
+    "Minlong Peng",
+    "Ruotian Ma",
+    "Qi Zhang",
+    "Lujun Zhao",
+    "Mengxi Wei",
+    "Changlong Sun",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.findings-emnlp.60",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.60/"
+}

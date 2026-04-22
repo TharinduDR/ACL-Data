@@ -1,0 +1,26 @@
+{
+  "title": "Reinforcement Learning with Imbalanced Dataset for Data-to-Text Medical Report Generation",
+  "authors": [
+    "Toru Nishino",
+    "Ryota Ozaki",
+    "Ryuji Kano",
+    "Norihisa Nakano",
+    "Tomoko Ohkuma",
+    "Yohei Momoki",
+    "Yuki Tagawa",
+    "Keigo Nakamura",
+    "Tomoki Taniguchi",
+    "Motoki Taniguchi"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.202",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.202/"
+}

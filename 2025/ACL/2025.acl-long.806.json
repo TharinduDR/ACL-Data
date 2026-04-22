@@ -1,0 +1,21 @@
+{
+  "title": "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning Based on Emotional Information",
+  "authors": [
+    "Zhiwei Liu",
+    "Kailai Yang",
+    "Qianqian Xie",
+    "Christine de Kock",
+    "Sophia Ananiadou",
+    "Eduard Hovy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.acl-long.806",
+  "acl_url": "https://aclanthology.org/2025.acl-long.806/"
+}

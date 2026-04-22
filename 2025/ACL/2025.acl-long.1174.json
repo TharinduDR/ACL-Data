@@ -1,0 +1,29 @@
+{
+  "title": "Analyzing LLMs' Knowledge Boundary Cognition Across Languages Through the Lens of Internal Representations",
+  "authors": [
+    "Chenghao Xiao",
+    "Hou Pong Chan",
+    "Hao Zhang",
+    "Mahani Aljunied",
+    "Lidong Bing",
+    "Noura Al Moubayed",
+    "Yu Rong"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Vietnamese",
+    "Thai",
+    "Khmer",
+    "Indonesian",
+    "Malay",
+    "Lao"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-long.1174",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1174/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Language Models that Seek for Knowledge: Modular Search & Generation for Dialogue and Prompt Completion",
+  "authors": [
+    "Kurt Shuster",
+    "Mojtaba Komeili",
+    "Leonard Adolphs",
+    "Stephen Roller",
+    "Arthur Szlam",
+    "Jason Weston"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.findings-emnlp.27",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.27/"
+}

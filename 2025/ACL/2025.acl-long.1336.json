@@ -1,0 +1,23 @@
+{
+  "title": "OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization",
+  "authors": [
+    "Hongliang He",
+    "Wenlin Yao",
+    "Kaixin Ma",
+    "Wenbao Yu",
+    "Hongming Zhang",
+    "Tianqing Fang",
+    "Zhenzhong Lan",
+    "Dong Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1336",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1336/"
+}

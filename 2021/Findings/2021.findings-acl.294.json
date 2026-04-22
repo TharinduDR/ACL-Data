@@ -1,0 +1,20 @@
+{
+  "title": "Does Robustness Improve Fairness? Approaching Fairness with Word Substitution Robustness Methods for Text Classification",
+  "authors": [
+    "Yada Pruksachatkun",
+    "Satyapriya Krishna",
+    "Jwala Dhamala",
+    "Rahul Gupta",
+    "Kai Wei Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.findings-acl.294",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.294/"
+}

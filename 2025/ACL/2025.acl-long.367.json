@@ -1,0 +1,24 @@
+{
+  "title": "MathFusion: Enhancing Mathematical Problem-solving of LLM through Instruction Fusion",
+  "authors": [
+    "Qizhi Pei",
+    "Lijun Wu",
+    "Zhuoshi Pan",
+    "Yu Li",
+    "Honglin Lin",
+    "Chenlin Ming",
+    "Xin Gao",
+    "Conghui He",
+    "Rui Yan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.367",
+  "acl_url": "https://aclanthology.org/2025.acl-long.367/"
+}

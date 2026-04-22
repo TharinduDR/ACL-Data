@@ -1,0 +1,34 @@
+{
+  "title": "Using Optimal Transport as Alignment Objective for fine-tuning Multilingual Contextualized Embeddings",
+  "authors": [
+    "Sawsan Alqahtani",
+    "Garima Lalwani",
+    "Yi Zhang",
+    "Salvatore Romeo",
+    "Saab Mansour"
+  ],
+  "languages": [
+    "English",
+    "Bulgarian",
+    "German",
+    "Greek",
+    "Spanish",
+    "French",
+    "Russian",
+    "Arabic",
+    "Mandarin Chinese",
+    "Hindi",
+    "Thai",
+    "Turkish",
+    "Urdu",
+    "Swahili",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.findings-emnlp.329",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.329/"
+}

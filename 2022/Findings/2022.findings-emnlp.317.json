@@ -1,0 +1,49 @@
+{
+  "title": "What Do Compressed Multilingual Machine Translation Models Forget?",
+  "authors": [
+    "Alireza Mohammadshahi",
+    "Vassilina Nikoulina",
+    "Alexandre Berard",
+    "Caroline Brun",
+    "James Henderson",
+    "Laurent Besacier"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Ukrainian",
+    "Hebrew",
+    "Russian",
+    "Italian",
+    "French",
+    "Spanish",
+    "German",
+    "Polish",
+    "Czech",
+    "Chinese",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Vietnamese",
+    "Urdu",
+    "Thai",
+    "Indonesian",
+    "Bengali",
+    "Azerbaijani",
+    "Serbian",
+    "Welsh",
+    "Japanese",
+    "Lao",
+    "Cantonese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.317",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.317/"
+}

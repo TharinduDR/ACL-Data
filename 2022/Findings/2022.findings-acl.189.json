@@ -1,0 +1,26 @@
+{
+  "title": "A Simple Hash-Based Early Exiting Approach For Language Understanding and Generation",
+  "authors": [
+    "Tianxiang Sun",
+    "Xiangyang Liu",
+    "Wei Zhu",
+    "Zhichao Geng",
+    "Lingling Wu",
+    "Yilong He",
+    "Yuan Ni",
+    "Guotong Xie",
+    "Xuanjing Huang",
+    "Xipeng Qiu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T20 Sentiment Analysis"
+  ],
+  "paper_id": "2022.findings-acl.189",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.189/"
+}

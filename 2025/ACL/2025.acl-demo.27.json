@@ -1,0 +1,25 @@
+{
+  "title": "ADEPT-SQL: A High-performance Text-to-SQL Application for Real-World Enterprise-Level Databases",
+  "authors": [
+    "Yongnan Chen",
+    "Zhuo Chang",
+    "Shijia Gu",
+    "Yuanhang Zong",
+    "Mei Zhang",
+    "Shiyu Wang",
+    "Zixiang He",
+    "HongZhi Chen",
+    "Wei Jin",
+    "Bin Cui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.acl-demo.27",
+  "acl_url": "https://aclanthology.org/2025.acl-demo.27/"
+}

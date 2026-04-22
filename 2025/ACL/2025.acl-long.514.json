@@ -1,0 +1,21 @@
+{
+  "title": "Mitigating Confounding in Speech-Based Dementia Detection through Weight Masking",
+  "authors": [
+    "Zhecheng Sheng",
+    "Xiruo Ding",
+    "Brian Hur",
+    "Changye Li",
+    "Trevor Cohen",
+    "Sergei Pakhomov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.514",
+  "acl_url": "https://aclanthology.org/2025.acl-long.514/"
+}

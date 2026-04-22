@@ -1,0 +1,21 @@
+{
+  "title": "Recursive Top-Down Production for Sentence Generation with Latent Trees",
+  "authors": [
+    "Shawn Tan",
+    "Yikang Shen",
+    "Timothy J. O'Donnell",
+    "Alessandro Sordoni",
+    "Aaron Courville"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.208",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.208/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "State-offset Tuning: State-based Parameter-Efficient Fine-Tuning for State Space Models",
+  "authors": [
+    "Wonjun Kang",
+    "Kevin Galim",
+    "Yuchen Zeng",
+    "Minjae Lee",
+    "Hyung Il Koo",
+    "Nam Ik Cho"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T20 Sentiment Analysis"
+  ],
+  "paper_id": "2025.acl-short.36",
+  "acl_url": "https://aclanthology.org/2025.acl-short.36/"
+}

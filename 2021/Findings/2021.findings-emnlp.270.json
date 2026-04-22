@@ -1,0 +1,20 @@
+{
+  "title": "RW-KD: Sample-wise Loss Terms Re-Weighting for Knowledge Distillation",
+  "authors": [
+    "Peng Lu",
+    "Abbas Ghaddar",
+    "Ahmad Rashid",
+    "Mehdi Rezagholizadeh",
+    "Ali Ghodsi",
+    "Philippe Langlais"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-emnlp.270",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.270/"
+}

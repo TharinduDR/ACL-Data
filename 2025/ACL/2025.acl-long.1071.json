@@ -1,0 +1,21 @@
+{
+  "title": "Reinforced IR: A Self-Boosting Framework For Domain-Adapted Information Retrieval",
+  "authors": [
+    "Chaofan Li",
+    "Jianyu Chen",
+    "Yingxia Shao",
+    "Chaozhou Li",
+    "Quanqing Xu",
+    "Defu Lian",
+    "Zheng Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.1071",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1071/"
+}

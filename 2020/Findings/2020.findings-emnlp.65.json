@@ -1,0 +1,21 @@
+{
+  "title": "Rethinking Self-Attention: Towards Interpretability in Neural Parsing",
+  "authors": [
+    "Khalil Mrini",
+    "Franck Dernoncourt",
+    "Quan Tran",
+    "Trung Bui",
+    "Walter Chang",
+    "Ndapa Nakashole"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.65",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.65/"
+}

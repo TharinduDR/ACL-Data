@@ -1,0 +1,22 @@
+{
+  "title": "Natural SQL: Making SQL Easier to Infer from Natural Language Specifications",
+  "authors": [
+    "Yujian Gan",
+    "Xinyun Chen",
+    "Jinxia Xie",
+    "Matthew Purver",
+    "John R. Woodward",
+    "John Drake",
+    "Qiaofu Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-emnlp.174",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.174/"
+}

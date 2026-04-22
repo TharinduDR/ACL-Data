@@ -1,0 +1,23 @@
+{
+  "title": "On the Complementarity between Pre-Training and Back-Translation for Neural Machine Translation",
+  "authors": [
+    "Xuebo Liu",
+    "Longyue Wang",
+    "Derek F. Wong",
+    "Liang Ding",
+    "Lidia S. Chao",
+    "Shuming Shi",
+    "Zhaopeng Tu"
+  ],
+  "languages": [
+    "English",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.findings-emnlp.247",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.247/"
+}

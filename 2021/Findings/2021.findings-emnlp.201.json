@@ -1,0 +1,18 @@
+{
+  "title": "RollingLDA: An Update Algorithm of Latent Dirichlet Allocation to Construct Consistent Time Series from Textual Data",
+  "authors": [
+    "Jonas Rieger",
+    "Carsten Jentsch",
+    "Jörg Rahnenführer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-emnlp.201",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.201/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "SMARTAVE: Structured Multimodal Transformer for Product Attribute Value Extraction",
+  "authors": [
+    "Qifan Wang",
+    "Li Yang",
+    "Jingang Wang",
+    "Jitin Krishnan",
+    "Bo Dai",
+    "Sinong Wang",
+    "Zenglin Xu",
+    "Madian Khabsa",
+    "Hao Ma"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.findings-emnlp.20",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.20/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "RiddleSense: Reasoning about Riddle Questions Featuring Linguistic Creativity and Commonsense Knowledge",
+  "authors": [
+    "Bill Yuchen Lin",
+    "Ziyi Wu",
+    "Yichi Yang",
+    "Dong-Ho Lee",
+    "Xiang Ren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-acl.131",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.131/"
+}

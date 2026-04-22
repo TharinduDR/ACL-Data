@@ -1,0 +1,21 @@
+{
+  "title": "FOLDMOE: Efficient Long Sequence MoE Training via Attention-MoE Pipelining",
+  "authors": [
+    "Guichao Zhu",
+    "Lintian Lei",
+    "Yuhao Qing",
+    "Yichao Fu",
+    "Fanxin Li",
+    "Dong Huang",
+    "Zekai Sun",
+    "Heming Cui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.186",
+  "acl_url": "https://aclanthology.org/2025.acl-long.186/"
+}

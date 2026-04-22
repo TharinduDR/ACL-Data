@@ -1,0 +1,21 @@
+{
+  "title": "ComFact: A Benchmark for Linking Contextual Commonsense Knowledge",
+  "authors": [
+    "Silin Gao",
+    "Jena D. Hwang",
+    "Saya Kanno",
+    "Hiromi Wakaki",
+    "Yuki Mitsufuji",
+    "Antoine Bosselut"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.findings-emnlp.120",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.120/"
+}

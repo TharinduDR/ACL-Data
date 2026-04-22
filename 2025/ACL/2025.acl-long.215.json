@@ -1,0 +1,32 @@
+{
+  "title": "Large Margin Representation Learning for Robust Cross-lingual Named Entity Recognition",
+  "authors": [
+    "Guangcheng Zhu",
+    "Ruixuan Xiao",
+    "Haobo Wang",
+    "Zhen Zhu",
+    "Gengyu Lyu",
+    "Junbo Zhao"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Dutch",
+    "Arabic",
+    "Hindi",
+    "Chinese",
+    "Bengali",
+    "Farsi",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Swedish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.acl-long.215",
+  "acl_url": "https://aclanthology.org/2025.acl-long.215/"
+}

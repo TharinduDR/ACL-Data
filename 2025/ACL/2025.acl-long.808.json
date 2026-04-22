@@ -1,0 +1,20 @@
+{
+  "title": "CalibraEval: Calibrating Prediction Distribution to Mitigate Selection Bias in LLMs-as-Judges",
+  "authors": [
+    "Haitao Li",
+    "Junjie Chen",
+    "Qingyao Ai",
+    "Zhumin Chu",
+    "Yujia Zhou",
+    "Qian Dong",
+    "Yiqun Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.808",
+  "acl_url": "https://aclanthology.org/2025.acl-long.808/"
+}

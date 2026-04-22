@@ -1,0 +1,23 @@
+{
+  "title": "Condor: Enhance LLM Alignment with Knowledge-Driven Data Synthesis and Refinement",
+  "authors": [
+    "Maosong Cao",
+    "Taolin Zhang",
+    "Mo Li",
+    "Chuyu Zhang",
+    "Yunxin Liu",
+    "Haodong Duan",
+    "Songyang Zhang",
+    "Kai Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.1091",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1091/"
+}

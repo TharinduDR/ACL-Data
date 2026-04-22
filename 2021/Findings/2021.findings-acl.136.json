@@ -1,0 +1,21 @@
+{
+  "title": "Few-shot Knowledge Graph-to-Text Generation with Pretrained Language Models",
+  "authors": [
+    "Junyi Li",
+    "Tianyi Tang",
+    "Wayne Xin Zhao",
+    "Zhicheng Wei",
+    "Nicholas Jing Yuan",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.findings-acl.136",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.136/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Enhancing Dual-Encoders with Question and Answer Cross-Embeddings for Answer Retrieval",
+  "authors": [
+    "Yanmeng Wang",
+    "Jun Bai",
+    "Ye Wang",
+    "Jianfei Zhang",
+    "Wenge Rong",
+    "Zongcheng Ji",
+    "Shaojun Wang",
+    "Jing Xiao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.findings-emnlp.198",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.198/"
+}

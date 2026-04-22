@@ -1,0 +1,28 @@
+{
+  "title": "English-based acoustic models perform well in the forced alignment of two English-based Pacific Creoles",
+  "authors": [
+    "Sam Passmore",
+    "Lila San Roque",
+    "Kirsty Gillespie",
+    "Saurabh Kumar Nath",
+    "Kira Davey",
+    "Keira Mullan",
+    "Tim Cawley",
+    "Jennifer Biggs",
+    "Rosey Billington",
+    "Bethwyn Evans",
+    "Nick Thieberger",
+    "Nicholas Evans",
+    "Danielle Barth"
+  ],
+  "languages": [
+    "Tok Pisin",
+    "Bislama"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1505",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1505/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Improving Zero-Shot Cross-lingual Transfer Between Closely Related Languages by Injecting Character-Level Noise",
+  "authors": [
+    "Noëmi Aeppli",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "German",
+    "Swiss German",
+    "Finnish",
+    "French",
+    "Icelandic",
+    "Swedish",
+    "Moldavian",
+    "Romanian",
+    "Karelian",
+    "Livvi",
+    "Old French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-acl.321",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.321/"
+}

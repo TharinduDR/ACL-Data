@@ -1,0 +1,24 @@
+{
+  "title": "Enhancing Chain-of-Thought Reasoning with Critical Representation Fine-tuning",
+  "authors": [
+    "Chenxi Huang",
+    "Shaotian Yan",
+    "Liang Xie",
+    "Binbin Lin",
+    "Sinan Fan",
+    "Yue Xin",
+    "Deng Cai",
+    "Chen Shen",
+    "Jieping Ye"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-long.1129",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1129/"
+}

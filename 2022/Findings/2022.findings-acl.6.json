@@ -1,0 +1,31 @@
+{
+  "title": "Pre-Trained Multilingual Sequence-to-Sequence Models: A Hope for Low-Resource Language Translation?",
+  "authors": [
+    "En-Shiun Annie Lee",
+    "Sarubi Thillainathan",
+    "Shravan Nayak",
+    "Surangika Ranathunga",
+    "David Ifeoluwa Adelani",
+    "Ruisi Su",
+    "Arya D. McCarthy"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Hindi",
+    "Sinhala",
+    "Xhosa",
+    "Irish",
+    "Yoruba",
+    "Assamese",
+    "Kannada",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-acl.6",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.6/"
+}

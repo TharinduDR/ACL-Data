@@ -1,0 +1,23 @@
+{
+  "title": "SocialForge: simulating the social internet to provide realistic training against influence operations",
+  "authors": [
+    "Ulysse Oliveri",
+    "Guillaume Gadek",
+    "Alexandre Dey",
+    "Benjamin Costé",
+    "Damien Lolive",
+    "Arnaud Delhay-Lorrain",
+    "Bruno Grilheres"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.acl-industry.13",
+  "acl_url": "https://aclanthology.org/2025.acl-industry.13/"
+}

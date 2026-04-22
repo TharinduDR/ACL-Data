@@ -1,0 +1,30 @@
+{
+  "title": "FCGCL: Fine- and Coarse-Granularity Contrastive Learning for Speech Translation",
+  "authors": [
+    "Hao Zhang",
+    "Nianwen Si",
+    "Yaqi Chen",
+    "Zhen Li",
+    "Tong Niu",
+    "Xukui Yang",
+    "Dan Qu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Spanish",
+    "Italian",
+    "Romanian",
+    "Portuguese",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.findings-emnlp.222",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.222/"
+}

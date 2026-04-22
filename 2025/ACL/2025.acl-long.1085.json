@@ -1,0 +1,23 @@
+{
+  "title": "CoreEval: Automatically Building Contamination-Resilient Datasets with Real-World Knowledge toward Reliable LLM Evaluation",
+  "authors": [
+    "Jingqian Zhao",
+    "Bingbing Wang",
+    "Geng Tu",
+    "Yice Zhang",
+    "Qianlong Wang",
+    "Bin Liang",
+    "Jing Li",
+    "Ruifeng Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.acl-long.1085",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1085/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Probing Multilingual Cognate Prediction Models",
+  "authors": [
+    "Clémentine Fourrier",
+    "Benoît Sagot"
+  ],
+  "languages": [
+    "Galician",
+    "Portuguese",
+    "Spanish",
+    "Catalan",
+    "Occitan",
+    "Italian",
+    "French",
+    "Romanian",
+    "Aromanian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.findings-acl.299",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.299/"
+}

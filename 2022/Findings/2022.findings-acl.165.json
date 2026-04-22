@@ -1,0 +1,23 @@
+{
+  "title": "BBQ: A Hand-Built Bias Benchmark for Question Answering",
+  "authors": [
+    "Alicia Parrish",
+    "Angelica Chen",
+    "Nikita Nangia",
+    "Vishakh Padmakumar",
+    "Jason Phang",
+    "Jana Thompson",
+    "Phu Mon Htut",
+    "Samuel R. Bowman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2022.findings-acl.165",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.165/"
+}

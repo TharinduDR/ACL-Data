@@ -1,0 +1,25 @@
+{
+  "title": "HLDC: Hindi Legal Documents Corpus",
+  "authors": [
+    "Arnav Kapoor",
+    "Mudit Dhawan",
+    "Anmol Goel",
+    "T.H. Arjun",
+    "Akshala Bhatnagar",
+    "Vibhu Agrawal",
+    "Amul Agrawal",
+    "Arnab Bhattacharya",
+    "Ponnurangam Kumaraguru",
+    "Ashutosh Modi"
+  ],
+  "languages": [
+    "Hindi"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T18 Text Summarization",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2022.findings-acl.278",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.278/"
+}

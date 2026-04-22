@@ -1,0 +1,25 @@
+{
+  "title": "Listening to Affected Communities to Define Extreme Speech: Dataset and Experiments",
+  "authors": [
+    "Antonis Maronikolakis",
+    "Axel Wisiorek",
+    "Leah Nann",
+    "Haris Jabbar",
+    "Sahana Udupa",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "German",
+    "Hindi",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.findings-acl.87",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.87/"
+}

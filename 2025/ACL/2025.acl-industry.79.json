@@ -1,0 +1,27 @@
+{
+  "title": "MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder",
+  "authors": [
+    "Khai Le-Duc",
+    "Phuc Phan",
+    "Tan-Hanh Pham",
+    "Bach Phan Tat",
+    "Minh-Huong Ngo",
+    "Chris Ngo",
+    "Thanh Nguyen-Tang",
+    "Truong-Son Hy"
+  ],
+  "languages": [
+    "English",
+    "Vietnamese",
+    "French",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-industry.79",
+  "acl_url": "https://aclanthology.org/2025.acl-industry.79/"
+}

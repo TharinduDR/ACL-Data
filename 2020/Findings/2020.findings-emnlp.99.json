@@ -1,0 +1,20 @@
+{
+  "title": "Multi²OIE: Multilingual Open Information Extraction Based on Multi-Head Attention with BERT",
+  "authors": [
+    "Youngbin Ro",
+    "Yukyung Lee",
+    "Pilsung Kang"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.findings-emnlp.99",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.99/"
+}

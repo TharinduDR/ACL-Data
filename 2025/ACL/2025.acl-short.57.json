@@ -1,0 +1,23 @@
+{
+  "title": "Decoder-Only LLMs can be Masked Auto-Encoders",
+  "authors": [
+    "Dan Qiao",
+    "Yuan Gao",
+    "Zheming Yang",
+    "Di Yang",
+    "Ziheng Wu",
+    "Pengcheng Lu",
+    "Minghui Qiu",
+    "Juntao Li",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-short.57",
+  "acl_url": "https://aclanthology.org/2025.acl-short.57/"
+}

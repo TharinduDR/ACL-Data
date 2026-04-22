@@ -1,0 +1,23 @@
+{
+  "title": "WikiLingua: A New Benchmark Dataset for Cross-Lingual Abstractive Summarization",
+  "authors": [
+    "Faisal Ladha",
+    "Esin Durmus",
+    "Claire Cardie",
+    "Kathleen McKeown"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Russian",
+    "Vietnamese",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.360",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.360/"
+}

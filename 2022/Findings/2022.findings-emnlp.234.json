@@ -1,0 +1,25 @@
+{
+  "title": "DialogUSR: Complex Dialogue Utterance Splitting and Reformulation for Multiple Intent Detection",
+  "authors": [
+    "Haoran Meng",
+    "Xin Zheng",
+    "Tianyu Liu",
+    "Zizhen Wang",
+    "He Feng",
+    "Binghuai Lin",
+    "Xuemin Zhao",
+    "Yunbo Cao",
+    "Zhifang Sui"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.234",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.234/"
+}

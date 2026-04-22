@@ -1,0 +1,23 @@
+{
+  "title": "TableLoRA: Low-rank Adaptation on Table Structure Understanding for Large Language Models",
+  "authors": [
+    "Xinyi He",
+    "Yihao Liu",
+    "Mengyu Zhou",
+    "Yeye He",
+    "Haoyu Dong",
+    "Shi Han",
+    "Zejian Yuan",
+    "Dongmei Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1090",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1090/"
+}

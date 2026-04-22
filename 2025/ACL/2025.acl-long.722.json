@@ -1,0 +1,21 @@
+{
+  "title": "Towards Objective Fine-tuning: How LLMs' Prior Knowledge Causes Potential Poor Calibration?",
+  "authors": [
+    "Ziming Wang",
+    "Zeyu Shi",
+    "Haoyi Zhou",
+    "Shiqi Gao",
+    "Qingyun Sun",
+    "Jianxin Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.722",
+  "acl_url": "https://aclanthology.org/2025.acl-long.722/"
+}

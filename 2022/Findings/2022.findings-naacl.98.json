@@ -1,0 +1,24 @@
+{
+  "title": "BanglaBERT: Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla",
+  "authors": [
+    "Abhik Bhattacharjee",
+    "Tahmid Hasan",
+    "Wasi Uddin Ahmad",
+    "Kazi Samin",
+    "Md Saiful Islam",
+    "Anindya Iqbal",
+    "M. Sohel Rahman",
+    "Rifat Shahriyar"
+  ],
+  "languages": [
+    "Bangla",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.findings-naacl.98",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.98/"
+}

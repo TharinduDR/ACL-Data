@@ -1,0 +1,24 @@
+{
+  "title": "The interplay between language similarity and script on a novel multi-layer Algerian dialect corpus",
+  "authors": [
+    "Samia Touileb",
+    "Jeremy Barnes"
+  ],
+  "languages": [
+    "Arabic",
+    "French",
+    "English",
+    "Persian",
+    "Urdu",
+    "Hebrew",
+    "Maltese",
+    "Modern Standard Arabic"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.findings-acl.324",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.324/"
+}

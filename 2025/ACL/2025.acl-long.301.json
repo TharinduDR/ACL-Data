@@ -1,0 +1,22 @@
+{
+  "title": "HOH: A Dynamic Benchmark for Evaluating the Impact of Outdated Information on Retrieval-Augmented Generation",
+  "authors": [
+    "Jie Ouyang",
+    "Tingyue Pan",
+    "Mingyue Cheng",
+    "Ruiran Yan",
+    "Yucong Luo",
+    "Jiaying Lin",
+    "Qi Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.301",
+  "acl_url": "https://aclanthology.org/2025.acl-long.301/"
+}

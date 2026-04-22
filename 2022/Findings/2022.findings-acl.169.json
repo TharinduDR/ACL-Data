@@ -1,0 +1,19 @@
+{
+  "title": "TABI: Type-Aware Bi-Encoders for Open-Domain Entity Retrieval",
+  "authors": [
+    "Megan Leszczynski",
+    "Daniel Y. Fu",
+    "Mayee F. Chen",
+    "Christopher Ré"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.findings-acl.169",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.169/"
+}

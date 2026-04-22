@@ -1,0 +1,24 @@
+{
+  "title": "HacRED: A Large-Scale Relation Extraction Dataset Toward Hard Cases in Practical Applications",
+  "authors": [
+    "Qiao Cheng",
+    "Juntao Liu",
+    "Xiaoye Qu",
+    "Jin Zhao",
+    "Jiaqing Liang",
+    "Zhefeng Wang",
+    "Baoxing Huai",
+    "Nicholas Jing Yuan",
+    "Yanghua Xiao"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-acl.249",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.249/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Leveraging Only the Category Name for Aspect Detection through Prompt-based Constrained Clustering",
+  "authors": [
+    "Yazheng Li",
+    "Pengyun Wang",
+    "Yasheng Wang",
+    "Yong Dai",
+    "Yadao Wang",
+    "Lujia Pan",
+    "Zenglin Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.findings-emnlp.97",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.97/"
+}

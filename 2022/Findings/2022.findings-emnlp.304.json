@@ -1,0 +1,31 @@
+{
+  "title": "The Effects of Corpus Choice and Morphosyntax on Multilingual Space Induction",
+  "authors": [
+    "Vinit Ravishankar",
+    "Joakim Nivre"
+  ],
+  "languages": [
+    "Arabic",
+    "Czech",
+    "Danish",
+    "German",
+    "English",
+    "Spanish",
+    "Finnish",
+    "French",
+    "Hebrew",
+    "Italian",
+    "Dutch",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.304",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.304/"
+}

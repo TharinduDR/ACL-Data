@@ -1,0 +1,21 @@
+{
+  "title": "Lexicon-Based Graph Convolutional Network for Chinese Word Segmentation",
+  "authors": [
+    "Kaiyu Huang",
+    "Hao Yu",
+    "Junpeng Liu",
+    "Wei Liu",
+    "Jingxiang Cao",
+    "Degen Huang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-emnlp.248",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.248/"
+}

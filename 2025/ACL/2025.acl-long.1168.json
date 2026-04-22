@@ -1,0 +1,50 @@
+{
+  "title": "MEXMA: Token-level objectives improve sentence representations",
+  "authors": [
+    "João Maria Janeiro",
+    "Benjamin Piwowarski",
+    "Patrick Gallinari",
+    "Loïc Barrault"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "German",
+    "Russian",
+    "Polish",
+    "Danish",
+    "Norwegian",
+    "Portuguese",
+    "Spanish",
+    "Italian",
+    "Catalan",
+    "Dutch",
+    "Finnish",
+    "Hungarian",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Malay",
+    "Malayalam",
+    "Persian",
+    "Romanian",
+    "Sanskrit",
+    "Sinhala",
+    "Slovenian",
+    "Swedish",
+    "Thai",
+    "Turkish",
+    "Uyghur",
+    "Vietnamese",
+    "Xhosa",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.acl-long.1168",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1168/"
+}

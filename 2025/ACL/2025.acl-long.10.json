@@ -1,0 +1,27 @@
+{
+  "title": "CLEME2.0: Towards Interpretable Evaluation by Disentangling Edits for Grammatical Error Correction",
+  "authors": [
+    "Jingheng Ye",
+    "Zishan Xu",
+    "Yinghui Li",
+    "Linlin Song",
+    "Qingyu Zhou",
+    "Hai-Tao Zheng",
+    "Ying Shen",
+    "Wenbao Jiang",
+    "Hong-Gee Kim",
+    "Ruitong Liu",
+    "Xin Su",
+    "Zifei Shan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.10",
+  "acl_url": "https://aclanthology.org/2025.acl-long.10/"
+}

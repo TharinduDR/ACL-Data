@@ -1,0 +1,18 @@
+{
+  "title": "BioLORD: Learning Ontological Representations from Definitions for Biomedical Concepts and their Textual Descriptions",
+  "authors": [
+    "François Remy",
+    "Kris Demuynck",
+    "Thomas Demeester"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.findings-emnlp.104",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.104/"
+}

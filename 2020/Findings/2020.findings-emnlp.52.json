@@ -1,0 +1,19 @@
+{
+  "title": "Sentiment Analysis with Weighted Graph Convolutional Networks",
+  "authors": [
+    "Fanyu Meng",
+    "Junlan Feng",
+    "Danping Yin",
+    "Si Chen",
+    "Min Hu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.52",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.52/"
+}

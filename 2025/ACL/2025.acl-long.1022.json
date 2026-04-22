@@ -1,0 +1,28 @@
+{
+  "title": "AUTALIC: A Dataset for Anti-AUTistic Ableist Language In Context",
+  "authors": [
+    "Naba Rizvi",
+    "Harper Strickland",
+    "Daniel Gitelman",
+    "Tristan Cooper",
+    "Alexis Morales-Flores",
+    "Michael Golden",
+    "Aekta Kallepalli",
+    "Akshat Alurkar",
+    "Haaset Owens",
+    "Saleha Ahmedi",
+    "Isha Khirwadkar",
+    "Imani Munyaka",
+    "Nedjma Ousidhoum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1022",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1022/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Learning to Model and Ignore Dataset Bias with Mixed Capacity Ensembles",
+  "authors": [
+    "Christopher Clark",
+    "Mark Yatskar",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2020.findings-emnlp.272",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.272/"
+}

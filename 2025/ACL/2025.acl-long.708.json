@@ -1,0 +1,49 @@
+{
+  "title": "From Selection to Generation: A Survey of LLM-based Active Learning",
+  "authors": [
+    "Yu Xia",
+    "Subhojyoti Mukherjee",
+    "Zhouhang Xie",
+    "Junda Wu",
+    "Xintong Li",
+    "Ryan Aponte",
+    "Han Jia Lyu",
+    "Joe Barrow",
+    "Hongjie Chen",
+    "Franck Dernoncourt",
+    "Branislav Kveton",
+    "Tong Yu",
+    "Ruiyi Zhang",
+    "Jiuxiang Gu",
+    "Nesreen K. Ahmed",
+    "Yu Wang",
+    "Xiang Chen",
+    "Hanieh Deilamsalehy",
+    "Sungchul Kim",
+    "Zhengmian Hu",
+    "Yue Zhao",
+    "Nedim Lipka",
+    "Seunghyun Yoon",
+    "Ting-Hao 'Kenneth' Huang",
+    "Zichao Wang",
+    "Puneet Mathur",
+    "Soumyabrata Pal",
+    "Koyel Mukherjee",
+    "Zhehao Zhang",
+    "Namyoung Park",
+    "Thien Huu Nguyen",
+    "Jiebo Luo",
+    "Ryan A. Rossi",
+    "Julian McAuley"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.acl-long.708",
+  "acl_url": "https://aclanthology.org/2025.acl-long.708/"
+}

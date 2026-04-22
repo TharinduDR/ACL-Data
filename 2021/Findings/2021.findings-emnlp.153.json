@@ -1,0 +1,30 @@
+{
+  "title": "Semantic Alignment with Calibrated Similarity for Multilingual Sentence Embedding",
+  "authors": [
+    "Jiyeon Ham",
+    "Eun-Sol Kim"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Dutch",
+    "Spanish",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Russian",
+    "Korean",
+    "Thai",
+    "Turkish",
+    "Chinese",
+    "Persian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2021.findings-emnlp.153",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.153/"
+}

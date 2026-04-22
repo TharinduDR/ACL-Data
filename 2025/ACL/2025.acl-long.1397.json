@@ -1,0 +1,21 @@
+{
+  "title": "SHuBERT: Self-Supervised Sign Language Representation Learning via Multi-Stream Cluster Prediction",
+  "authors": [
+    "Shester Gueuwou",
+    "Xiaodan Du",
+    "Greg Shakhnarovich",
+    "Karen Livescu",
+    "Alexander H. Liu"
+  ],
+  "languages": [
+    "American Sign Language",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.acl-long.1397",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1397/"
+}

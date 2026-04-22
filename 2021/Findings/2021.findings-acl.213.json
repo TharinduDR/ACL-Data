@@ -1,0 +1,24 @@
+{
+  "title": "CONDA: a CONTextual Dual-Annotated dataset for in-game toxicity understanding and detection",
+  "authors": [
+    "Henry Weld",
+    "Guanghao Huang",
+    "Jean Lee",
+    "Tongshu Zhang",
+    "Kunze Wang",
+    "Xinghong Guo",
+    "Siqu Long",
+    "Josiah Poon",
+    "Soyeon Caren Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T15 Lexicon and Semantics",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2021.findings-acl.213",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.213/"
+}

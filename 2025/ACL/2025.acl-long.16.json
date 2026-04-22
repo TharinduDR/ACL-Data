@@ -1,0 +1,21 @@
+{
+  "title": "ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision",
+  "authors": [
+    "Dosung Lee",
+    "Wonjun Oh",
+    "Boyoung Kim",
+    "Minyoung Kim",
+    "JoonSuk Park",
+    "Paul Hongsuck Seo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.acl-long.16",
+  "acl_url": "https://aclanthology.org/2025.acl-long.16/"
+}

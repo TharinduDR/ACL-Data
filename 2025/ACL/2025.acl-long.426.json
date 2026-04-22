@@ -1,0 +1,24 @@
+{
+  "title": "LocAgent: Graph-Guided LLM Agents for Code Localization",
+  "authors": [
+    "Zhaoling Chen",
+    "Xiangru Tang",
+    "Gangda Deng",
+    "Fang Wu",
+    "Jialong Wu",
+    "Zhiwei Jiang",
+    "Viktor Prasanna",
+    "Arman Cohan",
+    "Xingyao Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.426",
+  "acl_url": "https://aclanthology.org/2025.acl-long.426/"
+}

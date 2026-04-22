@@ -1,0 +1,39 @@
+{
+  "title": "Multilingual Arbitration: Optimizing Data Pools to Accelerate Multilingual Progress",
+  "authors": [
+    "Ayomide Odumakinde",
+    "Daniel D'souza",
+    "Pat Verga",
+    "Beyza Ermis",
+    "Sara Hooker"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Turkish",
+    "Ukrainian",
+    "Dutch",
+    "Czech",
+    "Russian",
+    "Polish",
+    "Persian",
+    "Hebrew",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Romanian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.939",
+  "acl_url": "https://aclanthology.org/2025.acl-long.939/"
+}

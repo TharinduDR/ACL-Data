@@ -1,0 +1,20 @@
+{
+  "title": "Improving Scheduled Sampling with Elastic Weight Consolidation for Neural Machine Translation",
+  "authors": [
+    "Michalis Korakakis",
+    "Andreas Vlachos"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Vietnamese",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.findings-emnlp.536",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.536/"
+}

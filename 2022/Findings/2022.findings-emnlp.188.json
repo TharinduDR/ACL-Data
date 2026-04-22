@@ -1,0 +1,18 @@
+{
+  "title": "Inferring Implicit Relations in Complex Questions with Language Models",
+  "authors": [
+    "Uri Katz",
+    "Mor Geva",
+    "Jonathan Berant"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.findings-emnlp.188",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.188/"
+}

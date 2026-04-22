@@ -1,0 +1,18 @@
+{
+  "title": "MedicalSum: A Guided Clinical Abstractive Summarization Model for Generating Medical Reports from Patient-Doctor Conversations",
+  "authors": [
+    "George Michalopoulos",
+    "Kyle Williams",
+    "Gagandeep Singh",
+    "Thomas Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2022.findings-emnlp.349",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.349/"
+}

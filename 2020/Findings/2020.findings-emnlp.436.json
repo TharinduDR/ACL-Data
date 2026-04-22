@@ -1,0 +1,21 @@
+{
+  "title": "Tensorized Embedding Layers",
+  "authors": [
+    "Oleksii Hrincchuk",
+    "Valentin Khrulkov",
+    "Leyla Mirvakhahova",
+    "Elena Orlova",
+    "Ivan Oseledets"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T20 Sentiment Analysis"
+  ],
+  "paper_id": "2020.findings-emnlp.436",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.436/"
+}

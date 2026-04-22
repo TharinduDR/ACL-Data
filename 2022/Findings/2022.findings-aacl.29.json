@@ -1,0 +1,19 @@
+{
+  "title": "Memformer: A Memory-Augmented Transformer for Sequence Modeling",
+  "authors": [
+    "Qingyang Wu",
+    "Zhenzhong Lan",
+    "Kun Qian",
+    "Jing Gu",
+    "Alborz Geramifard",
+    "Zhou Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.findings-aacl.29",
+  "acl_url": "https://aclanthology.org/2022.findings-aacl.29/"
+}

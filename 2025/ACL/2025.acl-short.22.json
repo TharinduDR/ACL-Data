@@ -1,0 +1,22 @@
+{
+  "title": "Combining Domain and Alignment Vectors Provides Better Knowledge-Safety Trade-offs in LLMs",
+  "authors": [
+    "Megh Thakkar",
+    "Quentin Fournier",
+    "Matthew Riemer",
+    "Pin-Yu Chen",
+    "Amal Zouaq",
+    "Payel Das",
+    "Sarath Chandar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.acl-short.22",
+  "acl_url": "https://aclanthology.org/2025.acl-short.22/"
+}

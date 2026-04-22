@@ -1,0 +1,21 @@
+{
+  "title": "RecoBERT: A Catalog Language Model for Text-Based Recommendations",
+  "authors": [
+    "Itzik Malkiel",
+    "Oren Barkan",
+    "Avi Caciularu",
+    "Noam Razin",
+    "Ori Katz",
+    "Noam Koenigstein"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.154",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.154/"
+}

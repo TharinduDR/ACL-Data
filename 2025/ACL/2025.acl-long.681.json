@@ -1,0 +1,26 @@
+{
+  "title": "SIFT-50M: A Large-Scale Multilingual Dataset for Speech Instruction Fine-Tuning",
+  "authors": [
+    "Prabhat Pandey",
+    "Rupak Vignesh Swaminathan",
+    "K V Vijay Girish",
+    "Arunasish Sen",
+    "Jian Xie",
+    "Grant P. Strimel",
+    "Andreas Schwarz"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.681",
+  "acl_url": "https://aclanthology.org/2025.acl-long.681/"
+}

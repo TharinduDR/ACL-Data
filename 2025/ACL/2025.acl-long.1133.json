@@ -1,0 +1,23 @@
+{
+  "title": "Tracing and Dissecting How LLMs Recall Factual Knowledge for Real World Questions",
+  "authors": [
+    "Yiqun Wang",
+    "Chaoqun Wan",
+    "Sile Hu",
+    "Yonggang Zhang",
+    "Xiang Tian",
+    "Yaowu Chen",
+    "Xu Shen",
+    "Jieping Ye"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.1133",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1133/"
+}

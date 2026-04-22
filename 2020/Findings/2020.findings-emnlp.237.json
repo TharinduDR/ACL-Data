@@ -1,0 +1,20 @@
+{
+  "title": "Fast End-to-end Coreference Resolution for Korean",
+  "authors": [
+    "Cheoneum Park",
+    "Jamin Shin",
+    "Sungjoon Park",
+    "Joonho Lim",
+    "Changki Lee"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.237",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.237/"
+}

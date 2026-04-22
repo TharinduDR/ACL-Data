@@ -1,0 +1,21 @@
+{
+  "title": "GIFT-SW: Gaussian noise Injected Fine-Tuning of Salient Weights for LLMs",
+  "authors": [
+    "Maxim Zhelnin",
+    "Viktor Moskvoretskii",
+    "Egor Shvetsov",
+    "Egor Venediktov",
+    "Maria Krylova",
+    "Aleksandr Zuev",
+    "Evgeny Burnaev"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.324",
+  "acl_url": "https://aclanthology.org/2025.acl-long.324/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "MAGMA – Multimodal Augmentation of Generative Models through Adapter-based Finetuning",
+  "authors": [
+    "Constantin Eichenberg",
+    "Sidney Black",
+    "Samuel Weinbach",
+    "Letitia Parcalabescu",
+    "Anette Frank"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2022.findings-emnlp.179",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.179/"
+}

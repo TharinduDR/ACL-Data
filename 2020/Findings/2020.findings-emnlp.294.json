@@ -1,0 +1,27 @@
+{
+  "title": "Graph-to-Graph Transformer for Transition-based Dependency Parsing",
+  "authors": [
+    "Alireza Mohammadshahi",
+    "James Henderson"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Basque",
+    "Chinese",
+    "Finnish",
+    "Hebrew",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Swedish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.294",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.294/"
+}

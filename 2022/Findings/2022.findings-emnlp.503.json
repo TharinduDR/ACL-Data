@@ -1,0 +1,20 @@
+{
+  "title": "Table-To-Text generation and pre-training with TABT5",
+  "authors": [
+    "Ewa Andrejczuk",
+    "Julian Martin Eisenschlos",
+    "Francesco Piccinno",
+    "Syrine Krichene",
+    "Yasemin Altun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.findings-emnlp.503",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.503/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "A Deep Decomposable Model for Disentangling Syntax and Semantics in Sentence Representation",
+  "authors": [
+    "Dingcheng Li",
+    "Hongliang Fei",
+    "Shaogang Ren",
+    "Ping Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-emnlp.364",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.364/"
+}

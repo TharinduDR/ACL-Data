@@ -1,0 +1,29 @@
+{
+  "title": "INVESTORBENCH: A Benchmark for Financial Decision-Making Tasks with LLM-based Agents",
+  "authors": [
+    "Haohang Li",
+    "Yupeng Cao",
+    "Yangyang Yu",
+    "Shashidhar Reddy Javaji",
+    "Zhiyang Deng",
+    "Yueru He",
+    "Yuechen Jiang",
+    "Zining Zhu",
+    "Koduvayur Subbalakshmi",
+    "Jimin Huang",
+    "Lingfei Qian",
+    "Xueqing Peng",
+    "Qianqian Xie",
+    "Jordan W. Suchow"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-long.126",
+  "acl_url": "https://aclanthology.org/2025.acl-long.126/"
+}

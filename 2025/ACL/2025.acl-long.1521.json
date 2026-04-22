@@ -1,0 +1,25 @@
+{
+  "title": "TACL: A Scalable and Efficient Retrieval-Based Method for Industrial Product Attribute Value Identification",
+  "authors": [
+    "Yindu Su",
+    "Huike Zou",
+    "Lin Sun",
+    "Ting Zhang",
+    "Haiyang Yang",
+    "Liyu Chen",
+    "David Lo",
+    "Qingheng Zhang",
+    "Shuguang Han",
+    "Jufeng Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.acl-long.1521",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1521/"
+}

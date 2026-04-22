@@ -1,0 +1,23 @@
+{
+  "title": "ETF: An Entity Tracing Framework for Hallucination Detection in Code Summaries",
+  "authors": [
+    "Kishan Maharaj",
+    "Vitobha Munigala",
+    "Srikanth Tamilselvam",
+    "Prince Kumar",
+    "Sayandeep Sen",
+    "Palanivel Kodeswaran",
+    "Abhijit Mishra",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T28 AI-Generated Text Detection and Provenance",
+    "T18 Text Summarization",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.acl-long.1480",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1480/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Continual Mixed-Language Pre-Training for Extremely Low-Resource Neural Machine Translation",
+  "authors": [
+    "Zihan Liu",
+    "Genta Indra Winata",
+    "Pascale Fung"
+  ],
+  "languages": [
+    "English",
+    "Indonesian",
+    "Ukrainian",
+    "Bengali",
+    "Afrikaans",
+    "Tamil",
+    "Thai",
+    "Kazakh",
+    "Gujarati",
+    "Bulgarian",
+    "Macedonian",
+    "Slovak",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2021.findings-acl.239",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.239/"
+}

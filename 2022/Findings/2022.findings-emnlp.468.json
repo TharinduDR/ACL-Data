@@ -1,0 +1,23 @@
+{
+  "title": "VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding",
+  "authors": [
+    "Dou Hu",
+    "Xiaolong Hou",
+    "Xiyang Du",
+    "Mengyuan Zhou",
+    "Lianxin Jiang",
+    "Yang Mo",
+    "Xiaofeng Shi"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.468",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.468/"
+}

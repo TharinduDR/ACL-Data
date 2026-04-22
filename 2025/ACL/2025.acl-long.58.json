@@ -1,0 +1,25 @@
+{
+  "title": "ObfusLM: Privacy-preserving Language Model Service against Embedding Inversion Attacks",
+  "authors": [
+    "Yu Lin",
+    "Ruining Yang",
+    "Yunlong Mao",
+    "Qizhi Zhang",
+    "Jue Hong",
+    "Quanwei Cai",
+    "Ye Wu",
+    "Huiqi Liu",
+    "Zhiyu Chen",
+    "Bing Duan",
+    "Sheng Zhong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.acl-long.58",
+  "acl_url": "https://aclanthology.org/2025.acl-long.58/"
+}

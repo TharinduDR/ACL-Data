@@ -1,0 +1,22 @@
+{
+  "title": "XRICL: Cross-lingual Retrieval-Augmented In-Context Learning for Cross-lingual Text-to-SQL Semantic Parsing",
+  "authors": [
+    "Peng Shi",
+    "Rui Zhang",
+    "He Bai",
+    "Jimmy Lin"
+  ],
+  "languages": [
+    "Chinese",
+    "Vietnamese",
+    "Persian",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.findings-emnlp.384",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.384/"
+}

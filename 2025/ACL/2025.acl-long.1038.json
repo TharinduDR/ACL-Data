@@ -1,0 +1,22 @@
+{
+  "title": "The Invisible Hand: Unveiling Provider Bias in Large Language Models for Code Generation",
+  "authors": [
+    "Xiaoyu Zhang",
+    "Juan Zhai",
+    "Shiqing Ma",
+    "Qingshuang Bao",
+    "Weipeng Jiang",
+    "Qian Wang",
+    "Chao Shen",
+    "Yang Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.acl-long.1038",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1038/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Bridging Pre-trained Language Models and Hand-crafted Features for Unsupervised POS Tagging",
+  "authors": [
+    "Houquan Zhou",
+    "Yang Li",
+    "Zhenghua Li",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-acl.259",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.259/"
+}

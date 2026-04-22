@@ -1,0 +1,23 @@
+{
+  "title": "Adverse Event Extraction from Discharge Summaries: A New Dataset, Annotation Scheme, and Initial Findings",
+  "authors": [
+    "Imane Guellil",
+    "Salomé Andres",
+    "Atul Anand",
+    "Bruce Guthrie",
+    "Huayu Zhang",
+    "Abul Hasan",
+    "Honghan Wu",
+    "Beatrice Alex"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1386",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1386/"
+}

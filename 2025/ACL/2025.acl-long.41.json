@@ -1,0 +1,22 @@
+{
+  "title": "LACA: Improving Cross-lingual Aspect-Based Sentiment Analysis with LLM Data Augmentation",
+  "authors": [
+    "Jakub Šmíd",
+    "Pavel Přibáň",
+    "Pavel Král"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Dutch",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.acl-long.41",
+  "acl_url": "https://aclanthology.org/2025.acl-long.41/"
+}

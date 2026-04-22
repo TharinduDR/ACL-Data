@@ -1,0 +1,22 @@
+{
+  "title": "AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration",
+  "authors": [
+    "Zhexiong Wang",
+    "Yutong Wang",
+    "Xuebo Liu",
+    "Liang Ding",
+    "Miao Zhang",
+    "Jie Liu",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.1170",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1170/"
+}

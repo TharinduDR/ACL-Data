@@ -1,0 +1,19 @@
+{
+  "title": "Geo-BERT Pre-training Model for Query Rewriting in POI Search",
+  "authors": [
+    "Xiao Liu",
+    "Juan Hu",
+    "Qi Shen",
+    "Huan Chen"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T13 Knowledge discovery/representation",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.findings-emnlp.190",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.190/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Spatial Dependency Parsing for Semi-Structured Document Information Extraction",
+  "authors": [
+    "Wonseok Hwang",
+    "Jinyeong Yim",
+    "Seunghyun Park",
+    "Sohee Yang",
+    "Minjoon Seo"
+  ],
+  "languages": [
+    "English",
+    "Indonesian",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-acl.28",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.28/"
+}

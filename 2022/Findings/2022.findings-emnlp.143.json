@@ -1,0 +1,20 @@
+{
+  "title": "How sensitive are translation systems to extra contexts? Mitigating gender bias in Neural Machine Translation models through relevant contexts",
+  "authors": [
+    "Shanya Sharma",
+    "Manan Dey",
+    "Koustuv Sinha"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.findings-emnlp.143",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.143/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "NICE: Neural Image Commenting with Empathy",
+  "authors": [
+    "Kezhen Chen",
+    "Qiuyuan Huang",
+    "Daniel McDuff",
+    "Xiang Gao",
+    "Hamid Palangi",
+    "Jianfeng Wang",
+    "Kenneth Forbus",
+    "Jianfeng Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2021.findings-emnlp.380",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.380/"
+}

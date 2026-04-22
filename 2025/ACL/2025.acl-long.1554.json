@@ -1,0 +1,22 @@
+{
+  "title": "A Multi-Agent Framework for Mitigating Dialect Biases in Privacy Policy Question-Answering Systems",
+  "authors": [
+    "Dorde Klisura",
+    "Astrid R Bernaga Torres",
+    "Anna Karen Gárate-Escamilla",
+    "Rajesh Roshan Biswal",
+    "Ke Yang",
+    "Hilal Pataci",
+    "Anthony Rios"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.acl-long.1554",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1554/"
+}

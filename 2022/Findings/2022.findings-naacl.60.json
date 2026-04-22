@@ -1,0 +1,25 @@
+{
+  "title": "MultiNERD: A Multilingual, Multi-Genre and Fine-Grained Dataset for Named Entity Recognition (and Disambiguation)",
+  "authors": [
+    "Simone Tedeschi",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-naacl.60",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.60/"
+}

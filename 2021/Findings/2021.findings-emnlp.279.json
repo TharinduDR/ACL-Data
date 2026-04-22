@@ -1,0 +1,33 @@
+{
+  "title": "Translate & Fill: Improving Zero-Shot Multilingual Semantic Parsing with Synthetic Data",
+  "authors": [
+    "Massimo Nicosia",
+    "Zhongdi Qu",
+    "Yasemin Altun"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Hindi",
+    "Thai",
+    "Chinese",
+    "Portuguese",
+    "Turkish",
+    "Japanese",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2021.findings-emnlp.279",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.279/"
+}

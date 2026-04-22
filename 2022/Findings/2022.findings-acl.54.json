@@ -1,0 +1,19 @@
+{
+  "title": "Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding",
+  "authors": [
+    "Shuxian Zou",
+    "Shaonan Wang",
+    "Jiajun Zhang",
+    "Chengqing Zong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.findings-acl.54",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.54/"
+}

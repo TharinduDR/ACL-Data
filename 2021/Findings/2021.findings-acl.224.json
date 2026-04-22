@@ -1,0 +1,20 @@
+{
+  "title": "AdaST: Dynamically Adapting Encoder States in the Decoder for End-to-End Speech-to-Text Translation",
+  "authors": [
+    "Wuwei Huang",
+    "Dexin Wang",
+    "Deyi Xiong"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2021.findings-acl.224",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.224/"
+}

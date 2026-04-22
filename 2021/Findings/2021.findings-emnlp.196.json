@@ -1,0 +1,19 @@
+{
+  "title": "MIRTT: Learning Multimodal Interaction Representations from Trilinear Transformers for Visual Question Answering",
+  "authors": [
+    "Junjie Wang",
+    "Yatai Ji",
+    "Jiaqi Sun",
+    "Yujiu Yang",
+    "Tetsuya Sakai"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2021.findings-emnlp.196",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.196/"
+}

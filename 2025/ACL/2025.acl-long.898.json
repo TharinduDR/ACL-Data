@@ -1,0 +1,23 @@
+{
+  "title": "Acquisition and Application of Novel Knowledge in Large Language Models",
+  "authors": [
+    "Ziyu Shang",
+    "Jianghan Liu",
+    "Zhizhao Luo",
+    "Peng Wang",
+    "Wenjun Ke",
+    "Jiajun Liu",
+    "Zijie Xu",
+    "Guozheng Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.898",
+  "acl_url": "https://aclanthology.org/2025.acl-long.898/"
+}

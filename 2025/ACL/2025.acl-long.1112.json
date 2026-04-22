@@ -1,0 +1,39 @@
+{
+  "title": "TUMLU: A Unified and Native Language Understanding Benchmark for Turkic Languages",
+  "authors": [
+    "Jafar Isbarov",
+    "Arofat Akhundjanova",
+    "Mammad Hajili",
+    "Kavsar Huseynova",
+    "Dmitry Gaynullin",
+    "Anar Rzayev",
+    "Osman Tursun",
+    "Aizirek Turdubaeva",
+    "Ishat Saetov",
+    "Rinat Kharisov",
+    "Saule Belginova",
+    "Ariana Kenbayeva",
+    "Amina Alisheva",
+    "Abdullatif Köksal",
+    "Samir Rustamov",
+    "Duygu Ataman"
+  ],
+  "languages": [
+    "Azerbaijani",
+    "Crimean Tatar",
+    "Karakalpak",
+    "Kazakh",
+    "Kyrgyz",
+    "Tatar",
+    "Turkish",
+    "Uyghur",
+    "Uzbek"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.acl-long.1112",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1112/"
+}

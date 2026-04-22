@@ -1,0 +1,23 @@
+{
+  "title": "CodeExp: Explanatory Code Document Generation",
+  "authors": [
+    "Haotian Cui",
+    "Chenglong Wang",
+    "Junjie Huang",
+    "Jeevana Priya Inala",
+    "Todd Mytkowicz",
+    "Bo Wang",
+    "Jianfeng Gao",
+    "Nan Duan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.174",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.174/"
+}

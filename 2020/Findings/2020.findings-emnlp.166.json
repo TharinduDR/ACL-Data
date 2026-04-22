@@ -1,0 +1,19 @@
+{
+  "title": "Constrained Decoding for Computationally Efficient Named Entity Recognition Taggers",
+  "authors": [
+    "Brian Lester",
+    "Daniel Pressel",
+    "Amy Hemmeter",
+    "Sagnik Ray Choudhury",
+    "Srinivas Bangalore"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.166",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.166/"
+}

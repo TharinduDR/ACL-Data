@@ -1,0 +1,27 @@
+{
+  "title": "Doc-React: Multi-page Heterogeneous Document Question-answering",
+  "authors": [
+    "Junda Wu",
+    "Yu Xia",
+    "Tong Yu",
+    "Xiang Chen",
+    "Sai Sree Harsha",
+    "Akash V. Maharaj",
+    "Ruiyi Zhang",
+    "Victor Bursztyn",
+    "Sungchul Kim",
+    "Ryan Rossi",
+    "Julian McAuley",
+    "Yunyao Li",
+    "Ritwik Sinha"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.acl-short.6",
+  "acl_url": "https://aclanthology.org/2025.acl-short.6/"
+}

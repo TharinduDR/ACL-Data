@@ -1,0 +1,22 @@
+{
+  "title": "Prompt Candidates, then Distill: A Teacher-Student Framework for LLM-driven Data Annotation",
+  "authors": [
+    "Mingxuan Xia",
+    "Haobo Wang",
+    "Yixuan Li",
+    "Zewei Yu",
+    "Jindong Wang",
+    "Junbo Zhao",
+    "Runze Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.139",
+  "acl_url": "https://aclanthology.org/2025.acl-long.139/"
+}

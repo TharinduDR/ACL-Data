@@ -1,0 +1,23 @@
+{
+  "title": "C³KG: A Chinese Commonsense Conversation Knowledge Graph",
+  "authors": [
+    "Dawei Li",
+    "Yanran Li",
+    "Jiayi Zhang",
+    "Ke Li",
+    "Chen Wei",
+    "Jianwei Cui",
+    "Bin Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2022.findings-acl.107",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.107/"
+}

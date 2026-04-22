@@ -1,0 +1,23 @@
+{
+  "title": "Knowledge-augmented Self-training of A Question Rewriter for Conversational Knowledge Base Question Answering",
+  "authors": [
+    "Xirui Ke",
+    "Jing Zhang",
+    "Xin Lv",
+    "Yiqi Xu",
+    "Shulin Cao",
+    "Cuiping Li",
+    "Hong Chen",
+    "Juanzi Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2022.findings-emnlp.133",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.133/"
+}

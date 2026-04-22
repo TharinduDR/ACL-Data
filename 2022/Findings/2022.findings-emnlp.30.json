@@ -1,0 +1,47 @@
+{
+  "title": "CLLE: A Benchmark for Continual Language Learning Evaluation in Multilingual Machine Translation",
+  "authors": [
+    "Han Zhang",
+    "Sheng Zhang",
+    "Yang Xiang",
+    "Bin Liang",
+    "Jinsong Su",
+    "Zhongjian Miao",
+    "Hui Wang",
+    "Ruifeng Xu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Dutch",
+    "German",
+    "Swedish",
+    "French",
+    "Portuguese",
+    "Spanish",
+    "Japanese",
+    "Korean",
+    "Vietnamese",
+    "Arabic",
+    "Persian",
+    "Hebrew",
+    "Finnish",
+    "Hungarian",
+    "Lithuanian",
+    "Polish",
+    "Russian",
+    "Czech",
+    "Hindi",
+    "Tamil",
+    "Indonesian",
+    "Swahili",
+    "Turkish",
+    "Greek"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.30",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.30/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "ED2LM: Encoder-Decoder to Language Model for Faster Document Re-ranking Inference",
+  "authors": [
+    "Kai Hui",
+    "Honglei Zhuang",
+    "Tao Chen",
+    "Zhen Qin",
+    "Jing Lu",
+    "Dara Bahri",
+    "Ji Ma",
+    "Jai Gupta",
+    "Cicero Nogueira dos Santos",
+    "Yi Tay",
+    "Donald Metzler"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2022.findings-acl.295",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.295/"
+}

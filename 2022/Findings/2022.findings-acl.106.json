@@ -1,0 +1,21 @@
+{
+  "title": "Coloring the Blank Slate: Pre-training Imparts a Hierarchical Inductive Bias to Sequence-to-sequence Models",
+  "authors": [
+    "Aaron Mueller",
+    "Robert Frank",
+    "Tal Linzen",
+    "Luheng Wang",
+    "Sebastian Schuster"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2022.findings-acl.106",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.106/"
+}

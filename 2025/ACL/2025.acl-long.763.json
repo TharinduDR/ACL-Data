@@ -1,0 +1,32 @@
+{
+  "title": "M²RC-EVAL: Massively Multilingual Repository-level Code Completion Evaluation",
+  "authors": [
+    "Jiaheng Liu",
+    "Ken Deng",
+    "Congnan Liu",
+    "Jian Yang",
+    "Shukai Liu",
+    "He Zhu",
+    "Peng Zhao",
+    "Linzhen Chai",
+    "Yanan Wu",
+    "Ke Jin",
+    "Ge Zhang",
+    "Zekun Wang",
+    "Guoan Zhang",
+    "Yingshui Tan",
+    "Bangyu Xiang",
+    "Zhaoxiang Zhang",
+    "Wenbo Su",
+    "Bo Zheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.763",
+  "acl_url": "https://aclanthology.org/2025.acl-long.763/"
+}

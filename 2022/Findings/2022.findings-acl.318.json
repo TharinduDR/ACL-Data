@@ -1,0 +1,23 @@
+{
+  "title": "GCPCG: A General Framework for Controllable Paraphrase Generation",
+  "authors": [
+    "Kexin Yang",
+    "Dayiheng Liu",
+    "Wenqiang Lei",
+    "Baosong Yang",
+    "Haibo Zhang",
+    "Xue Zhao",
+    "Wenqing Yao",
+    "Boxing Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.findings-acl.318",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.318/"
+}

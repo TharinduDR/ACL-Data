@@ -1,0 +1,20 @@
+{
+  "title": "MatRank: Text Re-ranking by Latent Preference Matrix",
+  "authors": [
+    "Jinwen Luo",
+    "Jiuding Yang",
+    "Weidong Guo",
+    "Chenglin Li",
+    "Di Niu",
+    "Yu Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.findings-emnlp.146",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.146/"
+}

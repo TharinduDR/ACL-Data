@@ -1,0 +1,22 @@
+{
+  "title": "SYNET: Synonym Expansion using Transitivity",
+  "authors": [
+    "Jiale Yu",
+    "Yongliang Shen",
+    "Xinyin Ma",
+    "Chenghao Jia",
+    "Chen Chen",
+    "Weiming Lu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.findings-emnlp.177",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.177/"
+}

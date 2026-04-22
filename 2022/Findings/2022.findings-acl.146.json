@@ -1,0 +1,21 @@
+{
+  "title": "Sentence-T5 (ST5): Scalable Sentence Encoders from Pre-trained Text-to-Text Models",
+  "authors": [
+    "Jianmo Ni",
+    "Gustavo Hernández Ábrego",
+    "Noah Constant",
+    "Ji Ma",
+    "Keith B. Hall",
+    "Daniel Cer",
+    "Yinfei Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-acl.146",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.146/"
+}

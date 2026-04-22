@@ -1,0 +1,22 @@
+{
+  "title": "MoQAE: Mixed-Precision Quantization for Long-Context LLM Inference via Mixture of Quantization-Aware Experts",
+  "authors": [
+    "Wei Tao",
+    "Haocheng Lu",
+    "Xiaoyang Qu",
+    "Bin Zhang",
+    "Kai Lu",
+    "Jiguang Wan",
+    "Jianzong Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-long.531",
+  "acl_url": "https://aclanthology.org/2025.acl-long.531/"
+}

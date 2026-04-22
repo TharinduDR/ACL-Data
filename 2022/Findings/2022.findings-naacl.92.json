@@ -1,0 +1,28 @@
+{
+  "title": "Retrieval-Augmented Multilingual Keyphrase Generation with Retriever-Generator Iterative Training",
+  "authors": [
+    "Yifan Gao",
+    "Qingyu Yin",
+    "Zheng Li",
+    "Rui Meng",
+    "Tong Zhao",
+    "Bing Yin",
+    "Irwin King",
+    "Michael R. Lyu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.findings-naacl.92",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.92/"
+}

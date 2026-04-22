@@ -1,0 +1,21 @@
+{
+  "title": "Subword-Delimited Downsampling for Better Character-Level Translation",
+  "authors": [
+    "Lukas Edman",
+    "Antonio Toral",
+    "Gertjan van Noord"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Turkish",
+    "Xhosa",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.findings-emnlp.69",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.69/"
+}

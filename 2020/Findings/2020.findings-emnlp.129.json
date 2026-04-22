@@ -1,0 +1,20 @@
+{
+  "title": "exBERT: Extending Pre-trained Models with Domain-specific Vocabulary Under Constrained Training Resources",
+  "authors": [
+    "Wen Tai",
+    "H. T. Kung",
+    "Xin Dong",
+    "Marcus Comiter",
+    "Chang-Fu Kuo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2020.findings-emnlp.129",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.129/"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Cross-Lingual Pitfalls: Automatic Probing Cross-Lingual Weakness of Multilingual Large Language Models",
+  "authors": [
+    "Zixiang Xu",
+    "Yanbo Wang",
+    "Yue Huang",
+    "Xiuying Chen",
+    "Jieyu Zhao",
+    "Meng Jiang",
+    "Xiangliang Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Korean",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Arabic",
+    "Bengali",
+    "Hindi",
+    "Hebrew",
+    "Swahili",
+    "Ukrainian",
+    "Yoruba",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.404",
+  "acl_url": "https://aclanthology.org/2025.acl-long.404/"
+}

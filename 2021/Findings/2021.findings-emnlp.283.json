@@ -1,0 +1,21 @@
+{
+  "title": "Transformer over Pre-trained Transformer for Neural Text Segmentation with Enhanced Topic Coherence",
+  "authors": [
+    "Kelvin Lo",
+    "Yuan Jin",
+    "Weicong Tan",
+    "Ming Liu",
+    "Lan Du",
+    "Wray Buntine"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.findings-emnlp.283",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.283/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "CRUXEVAL-X: A Benchmark for Multilingual Code Reasoning, Understanding and Execution",
+  "authors": [
+    "Ruiyang Xu",
+    "Jialun Cao",
+    "Yaojie Lu",
+    "Ming Wen",
+    "Hongyu Lin",
+    "Xianpei Han",
+    "Ben He",
+    "Shing-Chi Cheung",
+    "Le Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1158",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1158/"
+}

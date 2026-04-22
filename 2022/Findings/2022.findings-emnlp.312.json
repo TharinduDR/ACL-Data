@@ -1,0 +1,22 @@
+{
+  "title": "ZeroPrompt: Scaling Prompt-Based Pretraining to 1,000 Tasks Improves Zero-shot Generalization",
+  "authors": [
+    "Hanwei Xu",
+    "Yujun Chen",
+    "Yulun Du",
+    "Nan Shao",
+    "Yanggang Wang",
+    "Haiyu Li",
+    "Zhilin Yang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14",
+    "T20",
+    "T18"
+  ],
+  "paper_id": "2022.findings-emnlp.312",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.312/"
+}

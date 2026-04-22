@@ -1,0 +1,22 @@
+{
+  "title": "Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance LLM Reasoning",
+  "authors": [
+    "Junqi Gao",
+    "Xiang Zou",
+    "Ying Ai",
+    "Dong Li",
+    "Yichen Niu",
+    "Biqing Qi",
+    "Jianxing Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.1202",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1202/"
+}

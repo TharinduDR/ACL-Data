@@ -1,0 +1,19 @@
+{
+  "title": "RobBERT: a Dutch RoBERTa-based Language Model",
+  "authors": [
+    "Pieter Delobelle",
+    "Thomas Winters",
+    "Bettina Berendt"
+  ],
+  "languages": [
+    "Dutch",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.findings-emnlp.292",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.292/"
+}

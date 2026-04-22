@@ -1,0 +1,23 @@
+{
+  "title": "ClusterAttn: KV Cache Compression under Intrinsic Attention Clustering",
+  "authors": [
+    "Minwei Zhang",
+    "Haifeng Sun",
+    "Jingyu Wang",
+    "Shaolong Li",
+    "Wanyi Ning",
+    "Qi Qi",
+    "Zirui Zhuang",
+    "Jianxin Liao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-long.703",
+  "acl_url": "https://aclanthology.org/2025.acl-long.703/"
+}

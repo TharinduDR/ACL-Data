@@ -1,0 +1,22 @@
+{
+  "title": "CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning",
+  "authors": [
+    "Bill Yuchen Lin",
+    "Wangchunshu Zhou",
+    "Ming Shen",
+    "Pei Zhou",
+    "Chandra Bhagavatula",
+    "Yejin Choi",
+    "Xiang Ren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2020.findings-emnlp.165",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.165/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Vocabulary Adaptation for Domain Adaptation in Neural Machine Translation",
+  "authors": [
+    "Shoetsu Sato",
+    "Jin Sakuma",
+    "Naoki Yoshinaga",
+    "Masashi Toyoda",
+    "Masaru Kitsuregawa"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.findings-emnlp.381",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.381/"
+}

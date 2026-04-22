@@ -1,0 +1,45 @@
+{
+  "title": "Evaluating Word Embeddings with Categorical Modularity",
+  "authors": [
+    "Silvia Casacuberta",
+    "Karina Halevy",
+    "Damián E. Blasi"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Catalan",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Estonian",
+    "Finnish",
+    "French",
+    "Greek",
+    "Hebrew",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Macedonian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Slovak",
+    "Slovenian",
+    "Spanish",
+    "Swedish",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2021.findings-acl.174",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.174/"
+}

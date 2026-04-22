@@ -1,0 +1,23 @@
+{
+  "title": "BPE vs. Morphological Segmentation: A Case Study on Machine Translation of Four Polysynthetic Languages",
+  "authors": [
+    "Manuel Mager",
+    "Arturo Oncevay",
+    "Elisabeth Mager",
+    "Katharina Kann",
+    "Ngoc Thang Vu"
+  ],
+  "languages": [
+    "Spanish",
+    "Nahuatl",
+    "Raramuri",
+    "Shipibo-Konibo",
+    "Wixarika"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-acl.78",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.78/"
+}

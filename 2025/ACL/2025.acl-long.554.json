@@ -1,0 +1,24 @@
+{
+  "title": "Large Language and Protein Assistant for Protein-Protein Interactions Prediction",
+  "authors": [
+    "Peng Zhou",
+    "Pengsen Ma",
+    "Jianmin Wang",
+    "Xibao Cai",
+    "Haitao Huang",
+    "Wei Liu",
+    "Longyue Wang",
+    "Lai Hou Tim",
+    "Xiangxiang Zeng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.acl-long.554",
+  "acl_url": "https://aclanthology.org/2025.acl-long.554/"
+}

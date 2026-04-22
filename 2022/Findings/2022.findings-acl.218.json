@@ -1,0 +1,33 @@
+{
+  "title": "Breaking Down Multilingual Machine Translation",
+  "authors": [
+    "Ting-Rui Chiang",
+    "Yi-Pei Chen",
+    "Yi-Ting Yeh",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "Azerbaijani",
+    "Belarusian",
+    "Galician",
+    "Slovak",
+    "Arabic",
+    "German",
+    "Hebrew",
+    "Italian",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Swedish",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.findings-acl.218",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.218/"
+}

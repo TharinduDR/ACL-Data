@@ -1,0 +1,21 @@
+{
+  "title": "TARGA: Targeted Synthetic Data Generation for Practical Reasoning over Structured Data",
+  "authors": [
+    "Xiang Huang",
+    "Jiayu Shen",
+    "Shanshan Huang",
+    "Sitao Cheng",
+    "Xiaxia Wang",
+    "Yuzhong Qu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.137",
+  "acl_url": "https://aclanthology.org/2025.acl-long.137/"
+}

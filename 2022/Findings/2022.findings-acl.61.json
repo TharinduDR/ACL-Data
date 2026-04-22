@@ -1,0 +1,22 @@
+{
+  "title": "Read before Generate! Faithful Long Form Question Answering with Machine Reading",
+  "authors": [
+    "Dan Su",
+    "Xiaoguang Li",
+    "Jindi Zhang",
+    "Lifeng Shang",
+    "Xin Jiang",
+    "Qun Liu",
+    "Pascale Fung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-acl.61",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.61/"
+}

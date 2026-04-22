@@ -1,0 +1,20 @@
+{
+  "title": "HyKnow: End-to-End Task-Oriented Dialog Modeling with Hybrid Knowledge Management",
+  "authors": [
+    "Silin Gao",
+    "Ryuichi Takanobu",
+    "Wei Peng",
+    "Qun Liu",
+    "Minlie Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.findings-acl.139",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.139/"
+}

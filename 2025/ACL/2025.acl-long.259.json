@@ -1,0 +1,20 @@
+{
+  "title": "Mitigating Selection Bias with Node Pruning and Auxiliary Options",
+  "authors": [
+    "Hyeong Kyu Choi",
+    "Weijie Xu",
+    "Chi Xue",
+    "Stephanie Eckman",
+    "Chandan K. Reddy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.259",
+  "acl_url": "https://aclanthology.org/2025.acl-long.259/"
+}

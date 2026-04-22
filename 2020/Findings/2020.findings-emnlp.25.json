@@ -1,0 +1,21 @@
+{
+  "title": "Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models",
+  "authors": [
+    "Zhiyuan Zhang",
+    "Xiaoqian Liu",
+    "Yi Zhang",
+    "Qi Su",
+    "Xu Sun",
+    "Bin He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.findings-emnlp.25",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.25/"
+}

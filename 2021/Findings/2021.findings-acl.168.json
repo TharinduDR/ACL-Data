@@ -1,0 +1,18 @@
+{
+  "title": "End-to-End Self-Debiasing Framework for Robust NLU Training",
+  "authors": [
+    "Abbas Ghaddar",
+    "Philippe Langlais",
+    "Mehdi Rezagholizadeh",
+    "Ahmad Rashid"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.findings-acl.168",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.168/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Mitigating Data Poisoning in Text Classification with Differential Privacy",
+  "authors": [
+    "Chang Xu",
+    "Jun Wang",
+    "Francisco Guzmán",
+    "Benjamin I. P. Rubinstein",
+    "Trevor Cohn"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.findings-emnlp.369",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.369/"
+}

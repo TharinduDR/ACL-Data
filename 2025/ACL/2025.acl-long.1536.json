@@ -1,0 +1,38 @@
+{
+  "title": "Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers",
+  "authors": [
+    "Clément Dumas",
+    "Chris Wendler",
+    "Veniamin Veselovsky",
+    "Giovanni Monea",
+    "Robert West"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Italian",
+    "Korean",
+    "Russian",
+    "Spanish",
+    "Portuguese",
+    "Japanese",
+    "Estonian",
+    "Finnish",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.acl-long.1536",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1536/"
+}

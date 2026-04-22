@@ -1,0 +1,26 @@
+{
+  "title": "Multilingual Encoder Knows more than You Realize: Shared Weights Pretraining for Extremely Low-Resource Languages",
+  "authors": [
+    "Zeli Su",
+    "Ziyin Zhang",
+    "Guixian Xu",
+    "Jianing Liu",
+    "XU Han",
+    "Ting Zhang",
+    "Yushuang Dong"
+  ],
+  "languages": [
+    "Chinese",
+    "Tibetan",
+    "Uyghur",
+    "Kazakh",
+    "Mongolian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2025.acl-long.893",
+  "acl_url": "https://aclanthology.org/2025.acl-long.893/"
+}

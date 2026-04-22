@@ -1,0 +1,22 @@
+{
+  "title": "Detecting Harmful Memes and Their Targets",
+  "authors": [
+    "Shraman Pramanik",
+    "Dimitar Dimitrov",
+    "Rituparna Mukherjee",
+    "Shivam Sharma",
+    "Md. Shad Akhtar",
+    "Preslav Nakov",
+    "Tanmoy Chakraborty"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.findings-acl.246",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.246/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "An Analysis of Euclidean vs. Graph-Based Framing for Bilingual Lexicon Induction from Word Embedding Spaces",
+  "authors": [
+    "Kelly Marchisio",
+    "Youngser Park",
+    "Ali Saad-Eldin",
+    "Anton Alyakin",
+    "Kevin Duh",
+    "Carey Priebe",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.findings-emnlp.64",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.64/"
+}

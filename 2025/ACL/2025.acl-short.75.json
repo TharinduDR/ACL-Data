@@ -1,0 +1,20 @@
+{
+  "title": "Inconsistent Tokenizations Cause Language Models to be Perplexed by Japanese Grammar",
+  "authors": [
+    "Andrew Gambardella",
+    "Takeshi Kojima",
+    "Yusuke Iwasawa",
+    "Yutaka Matsuo"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.acl-short.75",
+  "acl_url": "https://aclanthology.org/2025.acl-short.75/"
+}

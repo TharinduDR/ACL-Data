@@ -1,0 +1,33 @@
+{
+  "title": "Lexicon-Enhanced Self-Supervised Training for Multilingual Dense Retrieval",
+  "authors": [
+    "Houxing Ren",
+    "Linjun Shou",
+    "Jian Pei",
+    "Ning Wu",
+    "Ming Gong",
+    "Daxin Jiang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Arabic",
+    "Bengali",
+    "Finnish",
+    "Hindi",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Tamil",
+    "Thai"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.findings-emnlp.31",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.31/"
+}

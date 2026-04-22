@@ -1,0 +1,25 @@
+{
+  "title": "Crab: A Novel Configurable Role-Playing LLM with Assessing Benchmark",
+  "authors": [
+    "Kai He",
+    "Yucheng Huang",
+    "Wenqing Wang",
+    "Delong Ran",
+    "Dongming Sheng",
+    "Junxuan Huang",
+    "Qika Lin",
+    "Jiaxing Xu",
+    "Wenqiang Liu",
+    "Mengling Feng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.731",
+  "acl_url": "https://aclanthology.org/2025.acl-long.731/"
+}

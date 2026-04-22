@@ -1,0 +1,22 @@
+{
+  "title": "End-to-End Speech Translation for Code Switched Speech",
+  "authors": [
+    "Orion Weller",
+    "Matthias Sperber",
+    "Telmo Pires",
+    "Hendra Setiawan",
+    "Christian Gollan",
+    "Dominic Telaar",
+    "Matthias Paulik"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.findings-acl.113",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.113/"
+}

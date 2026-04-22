@@ -1,0 +1,19 @@
+{
+  "title": "The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents",
+  "authors": [
+    "Feiran Jia",
+    "Tong Wu",
+    "Xin Qin",
+    "Anna Squicciarini"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-long.1435",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1435/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "AntiLeakBench: Preventing Data Contamination by Automatically Constructing Benchmarks with Updated Real-World Knowledge",
+  "authors": [
+    "Xiaobao Wu",
+    "Liangming Pan",
+    "Yuxi Xie",
+    "Ruiwen Zhou",
+    "Shuai Zhao",
+    "Yubo Ma",
+    "Mingze Du",
+    "Rui Mao",
+    "Anh Tuan Luu",
+    "William Yang Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.acl-long.901",
+  "acl_url": "https://aclanthology.org/2025.acl-long.901/"
+}

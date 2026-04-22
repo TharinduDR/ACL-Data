@@ -1,0 +1,21 @@
+{
+  "title": "Improving the Adversarial Robustness of NLP Models by Information Bottleneck",
+  "authors": [
+    "Cenyuan Zhang",
+    "Xiang Zhou",
+    "Yixin Wan",
+    "Xiaoqing Zheng",
+    "Kai-Wei Chang",
+    "Cho-Jui Hsieh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.findings-acl.284",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.284/"
+}

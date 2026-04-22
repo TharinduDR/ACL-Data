@@ -1,0 +1,25 @@
+{
+  "title": "MEMERAG: A Multilingual End-to-End Meta-Evaluation Benchmark for Retrieval Augmented Generation",
+  "authors": [
+    "María Andrea Cruz Blandón",
+    "Jayasimha Talur",
+    "Bruno Charron",
+    "Dong Liu",
+    "Saab Mansour",
+    "Marcello Federico"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.1101",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1101/"
+}

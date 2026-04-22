@@ -1,0 +1,32 @@
+{
+  "title": "ECOMSCRIPTBENCH: A Multi-task Benchmark for E-commerce Script Planning via Step-wise Intention-Driven Product Association",
+  "authors": [
+    "Weiqi Wang",
+    "Limeng Cui",
+    "Xin Liu",
+    "Sreyashi Nag",
+    "Wenju Xu",
+    "Chen Luo",
+    "Sheikh Muhammad Sarwar",
+    "Yang Li",
+    "Hansu Gu",
+    "Hui Liu",
+    "Changlong Yu",
+    "Jiaxin Bai",
+    "Yifan Gao",
+    "Haiyang Zhang",
+    "Qi He",
+    "Shuiwang Ji",
+    "Yangqiu Song"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.acl-long.1",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1/"
+}

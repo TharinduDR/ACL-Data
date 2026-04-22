@@ -1,0 +1,21 @@
+{
+  "title": "Improving the Factual Correctness of Radiology Report Generation with Semantic Rewards",
+  "authors": [
+    "Jean-Benoit Delbrouck",
+    "Pierre Chambon",
+    "Christian Bluethgen",
+    "Emily Tsai",
+    "Omar Almusu",
+    "Curtis P. Langlotz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.findings-emnlp.319",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.319/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Subword Mapping and Anchoring across Languages",
+  "authors": [
+    "Giorgos Vernikos",
+    "Andrei Popescu-Belis"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Greek",
+    "Russian",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.findings-emnlp.224",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.224/"
+}

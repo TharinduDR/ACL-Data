@@ -1,0 +1,21 @@
+{
+  "title": "RoCoFT: Efficient Finetuning of Large Language Models with Row-Column Updates",
+  "authors": [
+    "Md Kowsher",
+    "Tara Esmaeilbeig",
+    "Chun-Nam Yu",
+    "Chen Chen",
+    "Mojtaba Soltanalian",
+    "Nilofar Yousefi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-long.1293",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1293/"
+}

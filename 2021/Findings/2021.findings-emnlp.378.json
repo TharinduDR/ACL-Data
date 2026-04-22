@@ -1,0 +1,18 @@
+{
+  "title": "Improving Text Auto-Completion with Next Phrase Prediction",
+  "authors": [
+    "Dong-Ho Lee",
+    "Zhiqiang Hu",
+    "Roy Ka-Wei Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-emnlp.378",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.378/"
+}

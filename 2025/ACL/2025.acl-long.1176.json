@@ -1,0 +1,22 @@
+{
+  "title": "HalluLens: LLM Hallucination Benchmark",
+  "authors": [
+    "Yejin Bang",
+    "Ziwei Ji",
+    "Alan Schelten",
+    "Anthony Hartshorn",
+    "Tara Fowler",
+    "Cheng Zhang",
+    "Nicola Cancedda",
+    "Pascale Fung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.1176",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1176/"
+}

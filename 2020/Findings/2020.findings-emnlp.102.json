@@ -1,0 +1,23 @@
+{
+  "title": "High-order Semantic Role Labeling",
+  "authors": [
+    "Zuchao Li",
+    "Hai Zhao",
+    "Rui Wang",
+    "Kevin Parnow"
+  ],
+  "languages": [
+    "Chinese",
+    "Catalan",
+    "Czech",
+    "German",
+    "English",
+    "Japanese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.102",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.102/"
+}

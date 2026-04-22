@@ -1,0 +1,21 @@
+{
+  "title": "Advancing SMOE for Continuous Domain Adaptation of MLLMs: Adaptive Router and Domain-Specific Loss",
+  "authors": [
+    "Liang Zhang",
+    "Ziyao Lu",
+    "Fandong Meng",
+    "Hui Li",
+    "Jie Zhou",
+    "Jinsong Su"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.1290",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1290/"
+}

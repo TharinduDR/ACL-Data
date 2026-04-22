@@ -1,0 +1,25 @@
+{
+  "title": "DAPEV2: Process Attention Score as Feature Map for Length Extrapolation",
+  "authors": [
+    "Chuanyang Zheng",
+    "Yihang Gao",
+    "Han Shi",
+    "Jing Xiong",
+    "Jiankai Sun",
+    "Jingyao Li",
+    "Minbin Huang",
+    "Xiaozhe Ren",
+    "Michael NG",
+    "Xin Jiang",
+    "Zhenguo Li",
+    "Yu Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.522",
+  "acl_url": "https://aclanthology.org/2025.acl-long.522/"
+}

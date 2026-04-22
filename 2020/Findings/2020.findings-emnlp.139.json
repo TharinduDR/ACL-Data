@@ -1,0 +1,26 @@
+{
+  "title": "CodeBERT: A Pre-Trained Model for Programming and Natural Languages",
+  "authors": [
+    "Zhangyin Feng",
+    "Daya Guo",
+    "Duyu Tang",
+    "Nan Duan",
+    "Xiaocheng Feng",
+    "Ming Gong",
+    "Linjun Shou",
+    "Bing Qin",
+    "Ting Liu",
+    "Daxin Jiang",
+    "Ming Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2020.findings-emnlp.139",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.139/"
+}

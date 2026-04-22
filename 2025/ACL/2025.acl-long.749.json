@@ -1,0 +1,25 @@
+{
+  "title": "PreP-OCR: A Complete Pipeline for Document Image Restoration and Enhanced OCR Accuracy",
+  "authors": [
+    "Shuhao Guan",
+    "Moole Lin",
+    "Cheng Xu",
+    "Xinyi Liu",
+    "Jinman Zhao",
+    "Jiexin Fan",
+    "Qi Xu",
+    "Derek Greene"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.acl-long.749",
+  "acl_url": "https://aclanthology.org/2025.acl-long.749/"
+}

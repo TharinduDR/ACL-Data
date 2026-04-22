@@ -1,0 +1,17 @@
+{
+  "title": "Persian Ezafe Recognition Using Transformers and Its Role in Part-Of-Speech Tagging",
+  "authors": [
+    "Ehsan Doostmohammadi",
+    "Minoo Nassajian",
+    "Adel Rahimi"
+  ],
+  "languages": [
+    "Persian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.86",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.86/"
+}

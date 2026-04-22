@@ -1,0 +1,19 @@
+{
+  "title": "Controlling Bias Exposure for Fair Interpretable Predictions",
+  "authors": [
+    "Zexue He",
+    "Yu Wang",
+    "Julian McAuley",
+    "Bodhisattwa Prasad Majumder"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.findings-emnlp.431",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.431/"
+}

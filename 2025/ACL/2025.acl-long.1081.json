@@ -1,0 +1,21 @@
+{
+  "title": "Flipping Knowledge Distillation: Leveraging Small Models' Expertise to Enhance LLMs in Text Matching",
+  "authors": [
+    "Mingzhe Li",
+    "Jing Xiang",
+    "Qishen Zhang",
+    "Kaiyang Wan",
+    "Xiuying Chen"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1081",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1081/"
+}

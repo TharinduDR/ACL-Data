@@ -1,0 +1,33 @@
+{
+  "title": "Beyond Distillation: Task-level Mixture-of-Experts for Efficient Inference",
+  "authors": [
+    "Sneha Kudugunta",
+    "Yanping Huang",
+    "Ankur Bapna",
+    "Maxim Krikun",
+    "Dmitry Lepikhin",
+    "Thang Luong",
+    "Orhan Firat"
+  ],
+  "languages": [
+    "Chinese",
+    "French",
+    "Russian",
+    "Spanish",
+    "Finnish",
+    "German",
+    "Latvian",
+    "Romanian",
+    "Hindi",
+    "Kazakh",
+    "Turkish",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-emnlp.304",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.304/"
+}

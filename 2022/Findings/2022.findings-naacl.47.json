@@ -1,0 +1,25 @@
+{
+  "title": "CoCoA-MT: A Dataset and Benchmark for Contrastive Controlled MT with Application to Formality",
+  "authors": [
+    "Maria Nadejde",
+    "Anna Currey",
+    "Benjamin Hsu",
+    "Xing Niu",
+    "Marcello Federico",
+    "Georgiana Dinu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Hindi",
+    "Italian",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-naacl.47",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.47/"
+}

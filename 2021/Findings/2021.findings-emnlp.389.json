@@ -1,0 +1,20 @@
+{
+  "title": "Self-Training using Rules of Grammar for Few-Shot NLU",
+  "authors": [
+    "Joonghyuk Hahn",
+    "Hyunjoon Cheon",
+    "Kyuyeol Han",
+    "Cheongjae Lee",
+    "Junseok Kim",
+    "Yo-Sub Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-emnlp.389",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.389/"
+}

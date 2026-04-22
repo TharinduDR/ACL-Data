@@ -1,0 +1,33 @@
+{
+  "title": "Ai2 Scholar QA: Organized Literature Synthesis with Attribution",
+  "authors": [
+    "Amanpreet Singh",
+    "Joseph Chee Chang",
+    "Chloe Anastasiades",
+    "Dany Haddad",
+    "Aakanksha Naik",
+    "Amber Tanaka",
+    "Angele Zamarron",
+    "Cecile Nguyen",
+    "Jena D. Hwang",
+    "Jason Dunkleberger",
+    "Matt Latzke",
+    "Smita Rao",
+    "Jaron Lochner",
+    "Rob Evans",
+    "Rodney Kinney",
+    "Daniel S. Weld",
+    "Doug Downey",
+    "Sergey Feldman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-demo.49",
+  "acl_url": "https://aclanthology.org/2025.acl-demo.49/"
+}

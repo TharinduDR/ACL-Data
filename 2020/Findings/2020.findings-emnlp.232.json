@@ -1,0 +1,21 @@
+{
+  "title": "Blockwise Self-Attention for Long Document Understanding",
+  "authors": [
+    "Jiezhong Qiu",
+    "Hao Ma",
+    "Omer Levy",
+    "Wen-tau Yih",
+    "Sinong Wang",
+    "Jie Tang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.232",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.232/"
+}

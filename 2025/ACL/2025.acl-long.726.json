@@ -1,0 +1,26 @@
+{
+  "title": "Two Intermediate Translations Are Better Than One: Fine-tuning LLMs for Document-level Translation Refinement",
+  "authors": [
+    "Yichen Dong",
+    "Xinglin Lyu",
+    "Junhui Li",
+    "Daimeng Wei",
+    "Min Zhang",
+    "Shimin Tao",
+    "Hao Yang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Russian",
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.726",
+  "acl_url": "https://aclanthology.org/2025.acl-long.726/"
+}

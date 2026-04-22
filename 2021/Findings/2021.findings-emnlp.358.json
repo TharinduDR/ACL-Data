@@ -1,0 +1,22 @@
+{
+  "title": "Non-Parametric Unsupervised Domain Adaptation for Neural Machine Translation",
+  "authors": [
+    "Xin Zheng",
+    "Zhirui Zhang",
+    "Shujian Huang",
+    "Boxing Chen",
+    "Jun Xie",
+    "Weihua Luo",
+    "Jiajun Chen"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.findings-emnlp.358",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.358/"
+}

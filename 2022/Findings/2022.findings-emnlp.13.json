@@ -1,0 +1,19 @@
+{
+  "title": "GRAPE: Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering",
+  "authors": [
+    "Mingxuan Ju",
+    "Wenbao Yu",
+    "Tong Zhao",
+    "Chuxu Zhang",
+    "Yanfang Ye"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.findings-emnlp.13",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.13/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "MWP-BERT: Numeracy-Augmented Pre-training for Math Word Problem Solving",
+  "authors": [
+    "Zhenwen Liang",
+    "Jipeng Zhang",
+    "Lei Wang",
+    "Wei Qin",
+    "Yunshi Lan",
+    "Jie Shao",
+    "Xiangliang Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2022.findings-naacl.74",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.74/"
+}

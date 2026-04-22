@@ -1,0 +1,21 @@
+{
+  "title": "A Few-Shot Semantic Parser for Wizard-of-Oz Dialogues with the Precise ThingTalk Representation",
+  "authors": [
+    "Giovanni Campagna",
+    "Sina J. Semnani",
+    "Ryan Kearns",
+    "Lucas Jun Koba Sato",
+    "Silei Xu",
+    "Monica S. Lam"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-acl.317",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.317/"
+}

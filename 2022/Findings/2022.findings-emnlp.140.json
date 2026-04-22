@@ -1,0 +1,20 @@
+{
+  "title": "Not Just Plain Text! Fuel Document-Level Relation Extraction with Explicit Syntax Refinement and Subsentence Modeling",
+  "authors": [
+    "Zhichao Duan",
+    "Xiuxing Li",
+    "Zhenyu Li",
+    "Zhuo Wang",
+    "Jianyong Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-emnlp.140",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.140/"
+}

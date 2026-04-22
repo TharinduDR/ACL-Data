@@ -1,0 +1,22 @@
+{
+  "title": "Revisiting Uncertainty Quantification Evaluation in Language Models: Spurious Interactions with Response Length Bias Results",
+  "authors": [
+    "Andrea Santilli",
+    "Adam Goliński",
+    "Michael Kirchhof",
+    "Federico Danieli",
+    "Arno Blaas",
+    "Miao Xiong",
+    "Luca Zappella",
+    "Sinead Williamson"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-short.60",
+  "acl_url": "https://aclanthology.org/2025.acl-short.60/"
+}

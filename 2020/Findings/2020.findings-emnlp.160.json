@@ -1,0 +1,21 @@
+{
+  "title": "An Empirical Exploration of Local Ordering Pre-training for Structured Prediction",
+  "authors": [
+    "Zhizong Zhang",
+    "Xiang Kong",
+    "Lori Levin",
+    "Eduard Hovy"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Czech",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.160",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.160/"
+}

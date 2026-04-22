@@ -1,0 +1,41 @@
+{
+  "title": "Extending Multilingual BERT to Low-Resource Languages",
+  "authors": [
+    "Zihan Wang",
+    "Karthikeyan K",
+    "Stephen Mayhew",
+    "Dan Roth"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Chinese",
+    "Persian",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Tamil",
+    "Tagalog",
+    "Thai",
+    "Turkish",
+    "Uyghur",
+    "Zulu",
+    "Hindi",
+    "Indonesian",
+    "Hungarian",
+    "Akan",
+    "Amharic",
+    "Somali",
+    "Wolof",
+    "Tigrinya",
+    "Oromo",
+    "Kinyarwanda",
+    "Sinhala"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.findings-emnlp.240",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.240/"
+}

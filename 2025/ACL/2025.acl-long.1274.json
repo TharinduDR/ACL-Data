@@ -1,0 +1,24 @@
+{
+  "title": "DeAL: Decoding-time Alignment for Large Language Models",
+  "authors": [
+    "James Y. Huang",
+    "Sailik Sengupta",
+    "Daniele Bonadiman",
+    "Yi-An Lai",
+    "Arshit Gupta",
+    "Nikolaos Pappas",
+    "Saab Mansour",
+    "Katrin Kirchhoff",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.acl-long.1274",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1274/"
+}

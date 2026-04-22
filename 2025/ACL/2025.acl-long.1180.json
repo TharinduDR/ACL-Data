@@ -1,0 +1,17 @@
+{
+  "title": "GRaMPa: Subword Regularisation by Skewing Uniform Segmentation Distributions with an Efficient Path-counting Markov Model",
+  "authors": [
+    "Thomas Bauwens",
+    "David Kaczér",
+    "Miryam de Lhoneux"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.acl-long.1180",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1180/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Decoupled Dialogue Modeling and Semantic Parsing for Multi-Turn Text-to-SQL",
+  "authors": [
+    "Zhi Chen",
+    "Lu Chen",
+    "Hanqi Li",
+    "Ruisheng Cao",
+    "Da Ma",
+    "Mengyue Wu",
+    "Kai Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing",
+    "T19 Text Simplification"
+  ],
+  "paper_id": "2021.findings-acl.270",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.270/"
+}

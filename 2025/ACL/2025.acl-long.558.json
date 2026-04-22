@@ -1,0 +1,29 @@
+{
+  "title": "TC-RAG: Turing-Complete RAG's Case study on Medical LLM Systems",
+  "authors": [
+    "Xinke Jiang",
+    "Yue Fang",
+    "Rihong Qiu",
+    "Haoyu Zhang",
+    "Yongxin Xu",
+    "Hao Chen",
+    "Wentao Zhang",
+    "Ruizhe Zhang",
+    "Yuchen Fang",
+    "Xinyu Ma",
+    "Xu Chu",
+    "Junfeng Zhao",
+    "Yasha Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.acl-long.558",
+  "acl_url": "https://aclanthology.org/2025.acl-long.558/"
+}

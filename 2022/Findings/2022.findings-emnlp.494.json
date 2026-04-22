@@ -1,0 +1,19 @@
+{
+  "title": "Subword Segmental Language Modelling for Nguni Languages",
+  "authors": [
+    "Francois Meyer",
+    "Jan Buys"
+  ],
+  "languages": [
+    "Xhosa",
+    "Zulu",
+    "Ndebele",
+    "Siswati"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-emnlp.494",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.494/"
+}

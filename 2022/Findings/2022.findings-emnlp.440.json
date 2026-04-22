@@ -1,0 +1,18 @@
+{
+  "title": "WordTies: Measuring Word Associations in Language Models via Constrained Sampling",
+  "authors": [
+    "Peiran Yao",
+    "Tobias Renwick",
+    "Denilson Barbosa"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.findings-emnlp.440",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.440/"
+}

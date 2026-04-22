@@ -1,0 +1,38 @@
+{
+  "title": "Making LLMs Better Many-to-Many Speech-to-Text Translators with Curriculum Learning",
+  "authors": [
+    "Yexing Du",
+    "Youcheng Pan",
+    "Ziyang Ma",
+    "Bo Yang",
+    "Yifan Yang",
+    "Keqi Deng",
+    "Xie Chen",
+    "Yang Xiang",
+    "Ming Liu",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Dutch",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Vietnamese",
+    "Cantonese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.acl-long.610",
+  "acl_url": "https://aclanthology.org/2025.acl-long.610/"
+}

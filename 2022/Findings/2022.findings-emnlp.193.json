@@ -1,0 +1,21 @@
+{
+  "title": "In-Context Learning for Few-Shot Dialogue State Tracking",
+  "authors": [
+    "Yushi Hu",
+    "Chia-Hsuan Lee",
+    "Tianbao Xie",
+    "Tao Yu",
+    "Noah A. Smith",
+    "Mari Ostendorf"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.findings-emnlp.193",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.193/"
+}

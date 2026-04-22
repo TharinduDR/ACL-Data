@@ -1,0 +1,20 @@
+{
+  "title": "Foiling Training-Time Attacks on Neural Machine Translation Systems",
+  "authors": [
+    "Jun Wang",
+    "Xuanli He",
+    "Benjamin I. P. Rubinstein",
+    "Trevor Cohn"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Czech"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.findings-emnlp.435",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.435/"
+}

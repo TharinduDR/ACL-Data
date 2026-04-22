@@ -1,0 +1,19 @@
+{
+  "title": "From Disjoint Sets to Parallel Data to Train Seq2Seq Models for Sentiment Transfer",
+  "authors": [
+    "Paulo Cavalin",
+    "Marisa Vasconcelos",
+    "Marcelo Grave",
+    "Claudio Pinhanez",
+    "Victor Henrique Alves Ribeiro"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.findings-emnlp.61",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.61/"
+}

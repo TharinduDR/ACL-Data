@@ -1,0 +1,23 @@
+{
+  "title": "ChemActor: Enhancing Automated Extraction of Chemical Synthesis Actions with LLM-Generated Data",
+  "authors": [
+    "Yu Zhang",
+    "Ruijie Yu",
+    "Jidong Tian",
+    "Feng Zhu",
+    "Jiapeng Liu",
+    "Xiaokang Yang",
+    "Yaohui Jin",
+    "Yanyan Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1183",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1183/"
+}

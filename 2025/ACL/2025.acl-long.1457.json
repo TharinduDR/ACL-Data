@@ -1,0 +1,34 @@
+{
+  "title": "DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers",
+  "authors": [
+    "Xueguang Ma",
+    "Xi Victoria Lin",
+    "Barlas Oguz",
+    "Jimmy Lin",
+    "Wen-tau Yih",
+    "Xilun Chen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Spanish",
+    "Portuguese",
+    "Arabic",
+    "Bengali",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.acl-long.1457",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1457/"
+}

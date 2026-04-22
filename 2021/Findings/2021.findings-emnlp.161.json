@@ -1,0 +1,27 @@
+{
+  "title": "Span Pointer Networks for Non-Autoregressive Task-Oriented Semantic Parsing",
+  "authors": [
+    "Akshat Shrivastava",
+    "Pierce Chuang",
+    "Arun Babu",
+    "Shrey Desai",
+    "Abhinav Arora",
+    "Alexander Zotov",
+    "Ahmed Aly"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Hindi",
+    "Thai"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.findings-emnlp.161",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.161/"
+}

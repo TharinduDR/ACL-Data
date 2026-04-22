@@ -1,0 +1,34 @@
+{
+  "title": "Data Augmentation and Learned Layer Aggregation for Improved Multilingual Language Understanding in Dialogue",
+  "authors": [
+    "Evgeniia Razumovskaia",
+    "Ivan Vulić",
+    "Anna Korhonen"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Kazakh",
+    "Dutch",
+    "Portuguese",
+    "Serbian",
+    "Turkish",
+    "Chinese",
+    "Thai",
+    "Arabic",
+    "Danish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2022.findings-acl.160",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.160/"
+}

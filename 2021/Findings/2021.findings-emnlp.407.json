@@ -1,0 +1,20 @@
+{
+  "title": "Speculative Sampling in Variational Autoencoders for Dialogue Response Generation",
+  "authors": [
+    "Shoetsu Sato",
+    "Naoki Yoshinaga",
+    "Masashi Toyoda",
+    "Masaru Kitsuregawa"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-emnlp.407",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.407/"
+}

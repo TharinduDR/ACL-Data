@@ -1,0 +1,46 @@
+{
+  "title": "La Leaderboard: A Large Language Model Leaderboard for Spanish Varieties and Languages of Spain and Latin America",
+  "authors": [
+    "María Grandury",
+    "Javier Aula-Blasco",
+    "Júlia Falcão",
+    "Clémentine Fourrier",
+    "Miguel González",
+    "Gonzalo Martínez",
+    "Gonzalo Santamaría",
+    "Rodrigo Agerri",
+    "Nuria Aldama",
+    "Luis Chiruzzo",
+    "Javier Conde",
+    "Helena Gómez",
+    "Marta Guerrero",
+    "Guido Ivetta",
+    "Natalia López",
+    "Flor Miriam Plaza-del-Arco",
+    "María Teresa Martín-Valdivia",
+    "Helena Montoro",
+    "Carmen Muñoz",
+    "Pedro Reviriego",
+    "Leire Rosado",
+    "Alejandro Vaca",
+    "María Estrella Valleccillo-Rodríguez",
+    "Jorge Vallego",
+    "Irine Zubiaga"
+  ],
+  "languages": [
+    "Spanish",
+    "Catalan",
+    "Basque",
+    "Galician"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.acl-long.1561",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1561/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Weakly Supervised Contrastive Learning for Chest X-Ray Report Generation",
+  "authors": [
+    "An Yan",
+    "Zexue He",
+    "Xing Lu",
+    "Jiang Du",
+    "Eric Chang",
+    "Amilcare Gentili",
+    "Julian McAuley",
+    "Chun-Nan Hsu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2021.findings-emnlp.336",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.336/"
+}

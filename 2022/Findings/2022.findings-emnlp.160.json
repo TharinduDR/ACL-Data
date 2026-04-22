@@ -1,0 +1,20 @@
+{
+  "title": "SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters",
+  "authors": [
+    "Shwai He",
+    "Liang Ding",
+    "Daize Dong",
+    "Miao Zhang",
+    "Dacheng Tao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T20 Sentiment Analysis"
+  ],
+  "paper_id": "2022.findings-emnlp.160",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.160/"
+}

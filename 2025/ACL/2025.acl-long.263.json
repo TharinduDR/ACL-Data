@@ -1,0 +1,21 @@
+{
+  "title": "L-CiteEval: A Suite for Evaluating Fidelity of Long-context Models",
+  "authors": [
+    "Zecheng Tang",
+    "Keyan Zhou",
+    "Juntao Li",
+    "Baibei Ji",
+    "Jianye Hou",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.acl-long.263",
+  "acl_url": "https://aclanthology.org/2025.acl-long.263/"
+}

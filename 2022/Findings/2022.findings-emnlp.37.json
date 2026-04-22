@@ -1,0 +1,24 @@
+{
+  "title": "Towards Unified Prompt Tuning for Few-shot Text Classification",
+  "authors": [
+    "Jianing Wang",
+    "Chengyu Wang",
+    "Fuli Luo",
+    "Chuanqi Tan",
+    "Minghui Qiu",
+    "Fei Yang",
+    "Qiuhui Shi",
+    "Songfang Huang",
+    "Ming Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, ontologies, etc.)"
+  ],
+  "paper_id": "2022.findings-emnlp.37",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.37/"
+}

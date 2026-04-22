@@ -1,0 +1,28 @@
+{
+  "title": "Learning Auxiliary Tasks Improves Reference-Free Hallucination Detection in Open-Domain Long-Form Generation",
+  "authors": [
+    "Chengwei Qin",
+    "Wenxuan Zhou",
+    "Karthik Abinav Sankararaman",
+    "Nanshu Wang",
+    "Tengyu Xu",
+    "Alexander Radovic",
+    "Eryk Heleniumski",
+    "Arya Talebzadeh",
+    "Aditya Tayade",
+    "Sinong Wang",
+    "Shafiq Joty",
+    "Han Fang",
+    "Hao Ma"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.acl-short.93",
+  "acl_url": "https://aclanthology.org/2025.acl-short.93/"
+}

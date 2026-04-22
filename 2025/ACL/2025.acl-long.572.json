@@ -1,0 +1,22 @@
+{
+  "title": "PaSa: An LLM Agent for Comprehensive Academic Paper Search",
+  "authors": [
+    "Yichen He",
+    "Guanhua Huang",
+    "Peiyuan Feng",
+    "Yuan Lin",
+    "Yuchen Zhang",
+    "Hang Li",
+    "Weinan E"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.572",
+  "acl_url": "https://aclanthology.org/2025.acl-long.572/"
+}

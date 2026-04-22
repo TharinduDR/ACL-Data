@@ -1,0 +1,20 @@
+{
+  "title": "ECLM: Entity Level Language Model for Spoken Language Understanding with Chain of Intent",
+  "authors": [
+    "Shangjian Yin",
+    "Peijie Huang",
+    "Jiatian Chen",
+    "Haojing Huang",
+    "Yuhong Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.acl-long.1061",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1061/"
+}

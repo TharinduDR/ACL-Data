@@ -1,0 +1,21 @@
+{
+  "title": "Activating Distributed Visual Region within LLMs for Efficient and Effective Vision-Language Training and Inference",
+  "authors": [
+    "Siyuan Wang",
+    "Dianyi Wang",
+    "Chengxing Zhou",
+    "Zejun Li",
+    "Zhihao Fan",
+    "Xuanjing Huang",
+    "Zhongyu Wei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.1484",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1484/"
+}

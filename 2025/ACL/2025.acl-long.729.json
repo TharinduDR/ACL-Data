@@ -1,0 +1,26 @@
+{
+  "title": "GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking",
+  "authors": [
+    "Yingjian Chen",
+    "Haoran Liu",
+    "Yinhong Liu",
+    "Jinxiang Xie",
+    "Rui Yang",
+    "Han Yuan",
+    "Yanran Fu",
+    "Peng Yuan Zhou",
+    "Qingyu Chen",
+    "James Caverlee",
+    "Irene Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-long.729",
+  "acl_url": "https://aclanthology.org/2025.acl-long.729/"
+}

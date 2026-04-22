@@ -1,0 +1,30 @@
+{
+  "title": "Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention",
+  "authors": [
+    "Jingyang Yuan",
+    "Huazuo Gao",
+    "Damai Dai",
+    "Junyu Luo",
+    "Liang Zhao",
+    "Zhengyan Zhang",
+    "Zhenda Xie",
+    "Y. X. Wei",
+    "Lean Wang",
+    "Zhiping Xiao",
+    "Yuqing Wang",
+    "Chong Ruan",
+    "Ming Zhang",
+    "Wenfeng Liang",
+    "Wangding Zeng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-long.1126",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1126/"
+}

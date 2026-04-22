@@ -1,0 +1,19 @@
+{
+  "title": "TransLIST: A Transformer-Based Linguistically Informed Sanskrit Tokenizer",
+  "authors": [
+    "Jivnesh Sandhan",
+    "Rathin Singha",
+    "Narein Rao",
+    "Suvendu Samanta",
+    "Laxmidhar Behera",
+    "Pawan Goyal"
+  ],
+  "languages": [
+    "Sanskrit"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-emnlp.513",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.513/"
+}

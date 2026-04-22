@@ -1,0 +1,20 @@
+{
+  "title": "Lacuna Reconstruction: Self-Supervised Pre-Training for Low-Resource Historical Document Transcription",
+  "authors": [
+    "Nikolai Vogler",
+    "Jonathan Parkes Allen",
+    "Matthew Thomas Miller",
+    "Taylor Berg-Kirkpatrick"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2022.findings-naacl.15",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.15/"
+}

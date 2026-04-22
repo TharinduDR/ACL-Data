@@ -1,0 +1,24 @@
+{
+  "title": "Different Speech Translation Models Encode and Translate Speaker Gender Differently",
+  "authors": [
+    "Dennis Fucci",
+    "Marco Gaido",
+    "Matteo Negri",
+    "Luisa Bentivogli",
+    "André F. T. Martins",
+    "Giuseppe Attanasio"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.acl-short.78",
+  "acl_url": "https://aclanthology.org/2025.acl-short.78/"
+}

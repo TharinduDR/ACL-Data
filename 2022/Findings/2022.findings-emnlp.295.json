@@ -1,0 +1,20 @@
+{
+  "title": "CAT-probing: A Metric-based Approach to Interpret How Pre-trained Models for Programming Language Attend Code Structure",
+  "authors": [
+    "Nuo Chen",
+    "Qiushi Sun",
+    "Renyu Zhu",
+    "Xiang Li",
+    "Xuesong Lu",
+    "Ming Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2022.findings-emnlp.295",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.295/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Genetic Instruct: Scaling up Synthetic Generation of Coding Instructions for Large Language Models",
+  "authors": [
+    "Somshubra Majumdar",
+    "Vahid Noroozi",
+    "Mehr zad Samadi",
+    "Sean Naren thiran",
+    "Aleksander Ficek",
+    "Wasi Uddin Ahmad",
+    "Jocelyn Huang",
+    "Jagadeesh Balam",
+    "Boris Ginsburg"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-industry.16",
+  "acl_url": "https://aclanthology.org/2025.acl-industry.16/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "DiPair: Fast and Accurate Distillation for Trillion-Scale Text Matching and Pair Modeling",
+  "authors": [
+    "Jiecao Chen",
+    "Liu Yang",
+    "Karthik Raman",
+    "Michael Bendersky",
+    "Jung-Jung Yeh",
+    "Yun Zhou",
+    "Marc Najork",
+    "Danyang Cai",
+    "Ehsan Emadzadeh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2020.findings-emnlp.264",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.264/"
+}

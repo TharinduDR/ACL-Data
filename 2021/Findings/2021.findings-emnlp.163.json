@@ -1,0 +1,22 @@
+{
+  "title": "Translation as Cross-Domain Knowledge: Attention Augmentation for Unsupervised Cross-Domain Segmenting and Labeling Tasks",
+  "authors": [
+    "Ruixuan Luo",
+    "Yi Zhang",
+    "Sishuo Chen",
+    "Xu Sun"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-emnlp.163",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.163/"
+}

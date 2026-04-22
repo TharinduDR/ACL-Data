@@ -1,0 +1,22 @@
+{
+  "title": "Towards Omni-RAG: Comprehensive Retrieval-Augmented Generation for Large Language Models in Medical Applications",
+  "authors": [
+    "Zhe Chen",
+    "Yusheng Liao",
+    "Shuyang Jiang",
+    "Pingjie Wang",
+    "Yiqiu Guo",
+    "Yanfeng Wang",
+    "Yu Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.acl-long.742",
+  "acl_url": "https://aclanthology.org/2025.acl-long.742/"
+}

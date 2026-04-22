@@ -1,0 +1,42 @@
+{
+  "title": "CaLMQA: Exploring culturally specific long-form question answering across 23 languages",
+  "authors": [
+    "Shane Arora",
+    "Marzena Karpinska",
+    "Hung-Ting Chen",
+    "Ipsita Bhattacharjee",
+    "Mohit Iyyer",
+    "Eunsol Choi"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "German",
+    "Hebrew",
+    "Hindi",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Spanish",
+    "Afar",
+    "Balochi",
+    "Faroese",
+    "Fijian",
+    "Hiligaynon",
+    "Kirundi",
+    "Papiamento",
+    "Pashto",
+    "Samoa",
+    "Tongan",
+    "Tswana",
+    "Wolof"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2025.acl-long.578",
+  "acl_url": "https://aclanthology.org/2025.acl-long.578/"
+}

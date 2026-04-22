@@ -1,0 +1,26 @@
+{
+  "title": "Beyond Counting Datasets: A Survey of Multilingual Dataset Construction and Necessary Resources",
+  "authors": [
+    "Xinyan Velocity Yu",
+    "Akari Asai",
+    "Trina Chatterjee",
+    "Junjie Hu",
+    "Eunsol Choi"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "French",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.findings-emnlp.273",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.273/"
+}

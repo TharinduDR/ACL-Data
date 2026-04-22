@@ -1,0 +1,20 @@
+{
+  "title": "SGIC: A Self-Guided Iterative Calibration Framework for RAG",
+  "authors": [
+    "Guanhua Chen",
+    "Yutong Yao",
+    "Lidia S. Chao",
+    "Xuebo Liu",
+    "Derek F. Wong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.1376",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1376/"
+}

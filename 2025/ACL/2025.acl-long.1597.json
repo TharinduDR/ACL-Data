@@ -1,0 +1,24 @@
+{
+  "title": "Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs",
+  "authors": [
+    "Tao Ji",
+    "Bin Guo",
+    "Yuanbin Wu",
+    "Qipeng Guo",
+    "Lixing Shen",
+    "Zhan Chen",
+    "Xipeng Qiu",
+    "Qi Zhang",
+    "Tao Gui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.1597",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1597/"
+}

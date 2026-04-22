@@ -1,0 +1,24 @@
+{
+  "title": "Learning to Generate Structured Output with Schema Reinforcement Learning",
+  "authors": [
+    "Yaxi Lu",
+    "Haolun Li",
+    "Xin Cong",
+    "Zhong Zhang",
+    "Yesai Wu",
+    "Yankai Lin",
+    "Zhiyuan Liu",
+    "Fangming Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.243",
+  "acl_url": "https://aclanthology.org/2025.acl-long.243/"
+}

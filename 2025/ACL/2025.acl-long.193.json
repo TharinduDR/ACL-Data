@@ -1,0 +1,23 @@
+{
+  "title": "Do Large Language Models Have an English \"Accent\"? Evaluating and Improving the Naturalness of Multilingual LLMs",
+  "authors": [
+    "Yanzhu Guo",
+    "Simone Conia",
+    "Zelin Zhou",
+    "Min Li",
+    "Saloni Potdar",
+    "Henry Xiao"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.193",
+  "acl_url": "https://aclanthology.org/2025.acl-long.193/"
+}

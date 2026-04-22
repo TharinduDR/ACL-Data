@@ -1,0 +1,34 @@
+{
+  "title": "NameTag 3: A Tool and a Service for Multilingual/Multitagset NER",
+  "authors": [
+    "Jana Straková",
+    "Milan Straka"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "English",
+    "Norwegian Bokmål",
+    "Norwegian Nynorsk",
+    "Portuguese",
+    "Russian",
+    "Serbian",
+    "Slovak",
+    "Swedish",
+    "Tagalog",
+    "Ukrainian",
+    "Maghrebi Arabic",
+    "Dutch",
+    "German"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.acl-demo.4",
+  "acl_url": "https://aclanthology.org/2025.acl-demo.4/"
+}

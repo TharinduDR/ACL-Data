@@ -1,0 +1,19 @@
+{
+  "title": "Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models",
+  "authors": [
+    "Zhiyuan Zhang",
+    "Lingjuan Lyu",
+    "Xingjun Ma",
+    "Chenguang Wang",
+    "Xu Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.findings-emnlp.26",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.26/"
+}

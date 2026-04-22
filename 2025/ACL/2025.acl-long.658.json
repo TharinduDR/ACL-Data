@@ -1,0 +1,22 @@
+{
+  "title": "Unleashing LLM Reasoning Capability via Scalable Question Synthesis from Scratch",
+  "authors": [
+    "Yuyang Ding",
+    "Xinyu Shi",
+    "Xiaobo Liang",
+    "Juntao Li",
+    "Zhaopeng Tu",
+    "Qiaoming Zhu",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.658",
+  "acl_url": "https://aclanthology.org/2025.acl-long.658/"
+}

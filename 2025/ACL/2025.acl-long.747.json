@@ -1,0 +1,24 @@
+{
+  "title": "EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning",
+  "authors": [
+    "Xiaoqian Liu",
+    "Ke Wang",
+    "Yongbin Li",
+    "Yuchuan Wu",
+    "Wentao Ma",
+    "Aobo Kong",
+    "Fei Huang",
+    "Jianbin Jiao",
+    "Junge Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.747",
+  "acl_url": "https://aclanthology.org/2025.acl-long.747/"
+}

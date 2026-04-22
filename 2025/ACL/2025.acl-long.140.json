@@ -1,0 +1,27 @@
+{
+  "title": "A Survey of Post-Training Scaling in Large Language Models",
+  "authors": [
+    "Hanyu Lai",
+    "Xiao Liu",
+    "Junjie Gao",
+    "Jiale Cheng",
+    "Zehan Qi",
+    "Yifan Xu",
+    "Shuntian Yao",
+    "Dan Zhang",
+    "Jinhua Du",
+    "Zhenyu Hou",
+    "Xin Lv",
+    "Minlie Huang",
+    "Yuxiao Dong",
+    "Jie Tang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.acl-long.140",
+  "acl_url": "https://aclanthology.org/2025.acl-long.140/"
+}

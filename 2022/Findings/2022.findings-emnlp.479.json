@@ -1,0 +1,20 @@
+{
+  "title": "Early Guessing for Dialect Identification",
+  "authors": [
+    "Vani Kanjirangat",
+    "Tanja Samardzic",
+    "Fabio Rinaldi",
+    "Ljiljana Dolamic"
+  ],
+  "languages": [
+    "German",
+    "Indo-Aryan",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.479",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.479/"
+}

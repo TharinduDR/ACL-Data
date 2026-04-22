@@ -1,0 +1,21 @@
+{
+  "title": "LlamaDuo: LLMOps Pipeline for Seamless Migration from Service LLMs to Small-Scale Local LLMs",
+  "authors": [
+    "Chansung Park",
+    "Juyong Jiang",
+    "Fan Wang",
+    "Sayak Paul",
+    "Jing Tang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-long.1592",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1592/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "MixQG: Neural Question Generation with Mixed Answer Types",
+  "authors": [
+    "Lidiya Murakhovs'ka",
+    "Chien-Sheng Wu",
+    "Philippe Laban",
+    "Tong Niu",
+    "Wenhao Liu",
+    "Caiming Xiong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-naacl.111",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.111/"
+}

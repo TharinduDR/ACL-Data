@@ -1,0 +1,21 @@
+{
+  "title": "CDLM: Cross-Document Language Modeling",
+  "authors": [
+    "Avi Caciularu",
+    "Arman Cohan",
+    "Iz Beltagy",
+    "Matthew E. Peters",
+    "Arie Cattan",
+    "Ido Dagan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.findings-emnlp.225",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.225/"
+}

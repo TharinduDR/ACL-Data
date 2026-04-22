@@ -1,0 +1,26 @@
+{
+  "title": "One for All: Update Parameterized Knowledge Across Multiple Models with Once Edit",
+  "authors": [
+    "Weitao Ma",
+    "Xiyuan Du",
+    "Xiaocheng Feng",
+    "Lei Huang",
+    "Yichong Huang",
+    "Huiyi Zhang",
+    "Xiaoliang Yang",
+    "Baohang Li",
+    "Xiachong Feng",
+    "Ting Liu",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.780",
+  "acl_url": "https://aclanthology.org/2025.acl-long.780/"
+}

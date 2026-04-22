@@ -1,0 +1,24 @@
+{
+  "title": "ExpertPLM: Pre-training Expert Representation for Expert Finding",
+  "authors": [
+    "Qiyao Peng",
+    "Hongtao Liu",
+    "Qing Yang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Biology",
+    "Es",
+    "Electronics",
+    "Gis",
+    "CodeReview"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.findings-emnlp.74",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.74/"
+}

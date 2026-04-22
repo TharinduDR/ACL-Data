@@ -1,0 +1,24 @@
+{
+  "title": "Praetor: A Fine-Grained Generative LLM Evaluator with Instance-Level Customizable Evaluation Criteria",
+  "authors": [
+    "Yongqi Leng",
+    "Renren Jin",
+    "Yue Chen",
+    "Zhuowen Han",
+    "Ling Shi",
+    "Jianxiang Peng",
+    "Lei Yang",
+    "Juesi Xiao",
+    "Deyi Xiong"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.acl-long.513",
+  "acl_url": "https://aclanthology.org/2025.acl-long.513/"
+}

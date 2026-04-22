@@ -1,0 +1,20 @@
+{
+  "title": "Graph-to-Tree Neural Networks for Learning Structured Input-Output Translation with Applications to Semantic Parsing and Math Word Problem",
+  "authors": [
+    "Shucheng Li",
+    "Lingfei Wu",
+    "Shiwei Feng",
+    "Fengyuan Xu",
+    "Fangli Xu",
+    "Sheng Zhong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2020.findings-emnlp.255",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.255/"
+}

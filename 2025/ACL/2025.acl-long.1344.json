@@ -1,0 +1,19 @@
+{
+  "title": "PRISM: A Framework for Producing Interpretable Political Bias Embeddings with Political-Aware Cross-Encoder",
+  "authors": [
+    "Yiqun Sun",
+    "Qiang Huang",
+    "Anthony K. H. Tung",
+    "Jun Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.acl-long.1344",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1344/"
+}

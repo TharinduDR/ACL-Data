@@ -1,0 +1,29 @@
+{
+  "title": "TULUN: Transparent and Adaptable Low-resource Machine Translation",
+  "authors": [
+    "Raphaël Merx",
+    "Hanna Suominen",
+    "Lois Hong",
+    "Nick Thieberger",
+    "Trevor Cohn",
+    "Ekaterina Vylomova"
+  ],
+  "languages": [
+    "English",
+    "Tetun",
+    "Bislama",
+    "Tok Pisin",
+    "Dzongkha",
+    "Quechua",
+    "Rundi",
+    "Lingala",
+    "Assamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-demo.13",
+  "acl_url": "https://aclanthology.org/2025.acl-demo.13/"
+}

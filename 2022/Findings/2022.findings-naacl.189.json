@@ -1,0 +1,30 @@
+{
+  "title": "Latent Group Dropout for Multilingual and Multidomain Machine Translation",
+  "authors": [
+    "MinhQuang Pham",
+    "Josep Crego",
+    "François Yvon"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Bosnian",
+    "Bulgarian",
+    "Czech",
+    "Galician",
+    "Hindi",
+    "Korean",
+    "Macedonian",
+    "Marathi",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Slovak",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.findings-naacl.189",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.189/"
+}

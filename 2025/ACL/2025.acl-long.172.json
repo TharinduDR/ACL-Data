@@ -1,0 +1,25 @@
+{
+  "title": "SR-LLM: Rethinking the Structured Representation in Large Language Model",
+  "authors": [
+    "Jiahuan Zhang",
+    "Tianheng Wang",
+    "Hanqing Wu",
+    "Ziyi Huang",
+    "Yulong Wu",
+    "Dongbai Chen",
+    "Lin Feng Song",
+    "Yue Zhang",
+    "Guozheng Rao",
+    "Kaicheng Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.172",
+  "acl_url": "https://aclanthology.org/2025.acl-long.172/"
+}

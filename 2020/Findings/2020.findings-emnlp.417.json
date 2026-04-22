@@ -1,0 +1,18 @@
+{
+  "title": "MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering",
+  "authors": [
+    "Aisha Urooj Khan",
+    "Amir Mazaheri",
+    "Niels Da Vitoria Lobo",
+    "Mubarak Shah"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2020.findings-emnlp.417",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.417/"
+}

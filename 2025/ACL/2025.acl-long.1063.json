@@ -1,0 +1,21 @@
+{
+  "title": "Knowledge Image Matters: Improving Knowledge-Based Visual Reasoning with Multi-Image Large Language Models",
+  "authors": [
+    "Guanghui Ye",
+    "Huan Zhao",
+    "Zhixue Zhao",
+    "Yang Liu",
+    "Xupeng Zha",
+    "Zhihua Jiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.acl-long.1063",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1063/"
+}

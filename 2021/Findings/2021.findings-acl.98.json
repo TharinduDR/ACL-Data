@@ -1,0 +1,19 @@
+{
+  "title": "Out of Order: How Important Is The Sequential Order of Words in a Sentence in Natural Language Understanding Tasks?",
+  "authors": [
+    "Thang M. Pham",
+    "Trung Bui",
+    "Long Mai",
+    "Anh Nguyen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.findings-acl.98",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.98/"
+}

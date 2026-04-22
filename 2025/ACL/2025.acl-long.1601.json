@@ -1,0 +1,28 @@
+{
+  "title": "AfroCS-xs: Creating a Compact, High-Quality, Human-Validated Code-Switched Dataset for African Languages",
+  "authors": [
+    "Kayode Olaleye",
+    "Arturo Oncevay",
+    "Mathieu Sibue",
+    "Nombuyiselo Zondi",
+    "Michelle Terblanche",
+    "Sibongile Mapikitla",
+    "Richard Lastrucci",
+    "Charese H. Smiley",
+    "Vukosi Marivate"
+  ],
+  "languages": [
+    "English",
+    "Afrikaans",
+    "Zulu",
+    "Sesotho",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1601",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1601/"
+}

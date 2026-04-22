@@ -1,0 +1,25 @@
+{
+  "title": "RedApt: An Adaptor for Wav2Vec 2 Encoding Faster and Smaller Speech Translation without Quality Compromise",
+  "authors": [
+    "Jinming Zhao",
+    "Hao Yang",
+    "Gholamreza Haffari",
+    "Ehsan Shareghi"
+  ],
+  "languages": [
+    "German",
+    "Romanian",
+    "Spanish",
+    "French",
+    "Dutch",
+    "Portuguese",
+    "Russian",
+    "Italian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.findings-emnlp.142",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.142/"
+}

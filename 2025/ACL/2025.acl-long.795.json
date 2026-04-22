@@ -1,0 +1,22 @@
+{
+  "title": "Enhancing Cross-Lingual Transfer through Reversible Transliteration: A Huffman-Based Approach for Low-Resource Languages",
+  "authors": [
+    "Wenhao Zhuang",
+    "Yuan Sun",
+    "Xiaobing Zhao"
+  ],
+  "languages": [
+    "Chinese",
+    "Tibetan",
+    "Mongolian",
+    "Uyghur",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.795",
+  "acl_url": "https://aclanthology.org/2025.acl-long.795/"
+}

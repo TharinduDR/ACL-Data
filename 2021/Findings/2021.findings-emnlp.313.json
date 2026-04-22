@@ -1,0 +1,22 @@
+{
+  "title": "Leveraging Pretrained Models for Automatic Summarization of Doctor-Patient Conversations",
+  "authors": [
+    "Longxiang Zhang",
+    "Renato Negrinho",
+    "Arindam Ghosh",
+    "Vasudevan Jagannathan",
+    "Hamid Reza Hassanzadeh",
+    "Thomas Schaafl",
+    "Matthew R. Gormley"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-emnlp.313",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.313/"
+}

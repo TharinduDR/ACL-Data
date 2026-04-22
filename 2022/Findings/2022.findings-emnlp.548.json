@@ -1,0 +1,21 @@
+{
+  "title": "Human-in-the-Loop Hate Speech Classification in a Multilingual Context",
+  "authors": [
+    "Ana Kotarcic",
+    "Dominik Hangartner",
+    "Fabrizio Gilardi",
+    "Selina Kurer",
+    "Karsten Donnay"
+  ],
+  "languages": [
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.findings-emnlp.548",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.548/"
+}

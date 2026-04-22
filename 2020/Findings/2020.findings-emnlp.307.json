@@ -1,0 +1,17 @@
+{
+  "title": "BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA",
+  "authors": [
+    "Nora Kassner",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.findings-emnlp.307",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.307/"
+}

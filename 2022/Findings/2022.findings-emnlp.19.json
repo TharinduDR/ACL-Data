@@ -1,0 +1,23 @@
+{
+  "title": "Salient Phrase Aware Dense Retrieval: Can a Dense Retriever Imitate a Sparse One?",
+  "authors": [
+    "Xilun Chen",
+    "Kushal Lakhotia",
+    "Barlas Oüguz",
+    "Anchit Gupta",
+    "Patrick Lewis",
+    "Stan Peshterliev",
+    "Yashar Mehdad",
+    "Sonal Gupta",
+    "Wen-tau Yih"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2022.findings-emnlp.19",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.19/"
+}

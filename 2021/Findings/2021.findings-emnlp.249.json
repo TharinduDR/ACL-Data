@@ -1,0 +1,21 @@
+{
+  "title": "KFCNet: Knowledge Filtering and Contrastive Learning Network for Generative Commonsense Reasoning",
+  "authors": [
+    "Haonan Li",
+    "Yeyun Gong",
+    "Jian Jiao",
+    "Ruofei Zhang",
+    "Timothy Baldwin",
+    "Nan Duan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2021.findings-emnlp.249",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.249/"
+}

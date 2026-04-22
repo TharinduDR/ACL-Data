@@ -1,0 +1,23 @@
+{
+  "title": "PAIR: Leveraging Passage-Centric Similarity Relation for Improving Dense Passage Retrieval",
+  "authors": [
+    "Ruiyang Ren",
+    "Shangwen Lv",
+    "Yingqi Qu",
+    "Jing Liu",
+    "Wayne Xin Zhao",
+    "Qiaqiao She",
+    "Hua Wu",
+    "Haifeng Wang",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2021.findings-acl.191",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.191/"
+}

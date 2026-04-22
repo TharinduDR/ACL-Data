@@ -1,0 +1,19 @@
+{
+  "title": "Improving Event Duration Prediction via Time-aware Pre-training",
+  "authors": [
+    "Zonglin Yang",
+    "Xinya Du",
+    "Alexander Rush",
+    "Claire Cardie"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2020.findings-emnlp.302",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.302/"
+}

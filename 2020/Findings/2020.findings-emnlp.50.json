@@ -1,0 +1,18 @@
+{
+  "title": "ZEST: Zero-shot Learning from Text Descriptions using Textual Similarity and Visual Summarization",
+  "authors": [
+    "Tzuf Paz-Argaman",
+    "Yuval Atzmon",
+    "Gal Chechik",
+    "Reut Tsarfaty"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2020.findings-emnlp.50",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.50/"
+}

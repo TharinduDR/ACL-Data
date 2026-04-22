@@ -1,0 +1,20 @@
+{
+  "title": "PoeLM: A Meter- and Rhyme-Controllable Language Model for Unsupervised Poetry Generation",
+  "authors": [
+    "Aitor Ormazabal",
+    "Mikel Artetxe",
+    "Manex Agirrezabal",
+    "Aitor Soroa",
+    "Eneko Agirre"
+  ],
+  "languages": [
+    "Spanish",
+    "Basque"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.268",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.268/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "MUKAYESE: Turkish NLP Strikes Back",
+  "authors": [
+    "Ali Safaya",
+    "Emirhan Kurtuluş",
+    "Arda Gökteğan",
+    "Deniz Yuret"
+  ],
+  "languages": [
+    "Turkish",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T29 NLP for education",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.findings-acl.69",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.69/"
+}

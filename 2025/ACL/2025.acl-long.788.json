@@ -1,0 +1,22 @@
+{
+  "title": "EvolveBench: A Comprehensive Benchmark for Assessing Temporal Awareness in LLMs on Evolving Knowledge",
+  "authors": [
+    "Zhiyuan Zhu",
+    "Yusheng Liao",
+    "Zhe Chen",
+    "Yuhao Wang",
+    "Yunfeng Guan",
+    "Yanfeng Wang",
+    "Yu Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.acl-long.788",
+  "acl_url": "https://aclanthology.org/2025.acl-long.788/"
+}

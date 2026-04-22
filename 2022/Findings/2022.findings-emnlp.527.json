@@ -1,0 +1,20 @@
+{
+  "title": "Reason first, then respond: Modular Generation for Knowledge-infused Dialogue",
+  "authors": [
+    "Leonard Adolphs",
+    "Kurt Shuster",
+    "Jack Urbanek",
+    "Arthur Szlam",
+    "Jason Weston"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.findings-emnlp.527",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.527/"
+}

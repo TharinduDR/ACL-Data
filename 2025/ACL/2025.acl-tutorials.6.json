@@ -1,0 +1,20 @@
+{
+  "title": "NLP for Counterspeech against Hate and Misinformation (CSHAM)",
+  "authors": [
+    "Daniel Russo",
+    "Helena Bonaldi",
+    "Yi-Ling Chung",
+    "Gavin Abercrombie",
+    "Marco Guerini",
+    "Cathy Buerger",
+    "Simone Fontana"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.acl-tutorials.6",
+  "acl_url": "https://aclanthology.org/2025.acl-tutorials.6/"
+}

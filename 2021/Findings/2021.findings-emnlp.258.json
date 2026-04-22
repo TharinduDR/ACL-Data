@@ -1,0 +1,20 @@
+{
+  "title": "Eliminating Sentiment Bias for Aspect-Level Sentiment Classification with Unsupervised Opinion Extraction",
+  "authors": [
+    "Bo Wang",
+    "Tao Shen",
+    "Guodong Long",
+    "Tianyi Zhou",
+    "Yi Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.findings-emnlp.258",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.258/"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Multi-stage Distillation Framework for Cross-Lingual Semantic Similarity Matching",
+  "authors": [
+    "Kunbo Ding",
+    "Weijie Liu",
+    "Yuejian Fang",
+    "Zhe Zhao",
+    "Qi Ju",
+    "Xuefeng Yang",
+    "Rong Tian",
+    "Tao Zhu",
+    "Haoyan Liu",
+    "Han Guo",
+    "Xingyu Bai",
+    "Weiquan Mao",
+    "Yudong Li",
+    "Weigang Guo",
+    "Taiqiang Wu",
+    "Ningyuan Sun"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Spanish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-naacl.167",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.167/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Graph-Structured Trajectory Extraction from Travelogues",
+  "authors": [
+    "Aitaro Yamamoto",
+    "Hiroyuki Otomo",
+    "Hiroki Ouchi",
+    "Shohei Higashiyama",
+    "Hiroki Teranishi",
+    "Hiroyuki Shindo",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.690",
+  "acl_url": "https://aclanthology.org/2025.acl-long.690/"
+}

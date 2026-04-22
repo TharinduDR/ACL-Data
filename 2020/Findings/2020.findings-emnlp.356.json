@@ -1,0 +1,28 @@
+{
+  "title": "More Embeddings, Better Sequence Labelers?",
+  "authors": [
+    "Xinyu Wang",
+    "Yong Jiang",
+    "Nguyen Bach",
+    "Tao Wang",
+    "Zhongqiang Huang",
+    "Fei Huang",
+    "Kewei Tu"
+  ],
+  "languages": [
+    "Arabic",
+    "Czech",
+    "German",
+    "English",
+    "Spanish",
+    "French",
+    "Dutch",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.356",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.356/"
+}

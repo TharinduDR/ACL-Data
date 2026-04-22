@@ -1,0 +1,19 @@
+{
+  "title": "SciXGen: A Scientific Paper Dataset for Context-Aware Text Generation",
+  "authors": [
+    "Hong Chen",
+    "Hiroya Takamura",
+    "Hideki Nakayama"
+  ],
+  "languages": [
+    "Turkish",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2021.findings-emnlp.128",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.128/"
+}

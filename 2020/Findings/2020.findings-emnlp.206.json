@@ -1,0 +1,26 @@
+{
+  "title": "A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning",
+  "authors": [
+    "Deepak Gupta",
+    "Asif Ekbal",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Malayalam",
+    "Tamil",
+    "Telugu",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2020.findings-emnlp.206",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.206/"
+}

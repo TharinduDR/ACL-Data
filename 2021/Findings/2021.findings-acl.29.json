@@ -1,0 +1,20 @@
+{
+  "title": "Reader-Guided Passage Reranking for Open-Domain Question Answering",
+  "authors": [
+    "Yuning Mao",
+    "Pengcheng He",
+    "Xiaodong Liu",
+    "Yelong Shen",
+    "Jianfeng Gao",
+    "Jiawei Han",
+    "Weizhu Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2021.findings-acl.29",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.29/"
+}

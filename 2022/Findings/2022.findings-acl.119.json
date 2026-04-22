@@ -1,0 +1,22 @@
+{
+  "title": "Learning from Missing Relations: Contrastive Learning with Commonsense Knowledge Graphs for Commonsense Inference",
+  "authors": [
+    "Yong-Ho Jung",
+    "Jun-Hyung Park",
+    "Joon-Young Choi",
+    "Mingyu Lee",
+    "Junho Kim",
+    "Kang-Min Kim",
+    "SangKeun Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2022.findings-acl.119",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.119/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "CANarEx: Contextually Aware Narrative Extraction for Semantically Rich Text-as-data Applications",
+  "authors": [
+    "Nandini Anantharama",
+    "Simon D. Angus",
+    "Lachlan O'Neill"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.findings-emnlp.260",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.260/"
+}

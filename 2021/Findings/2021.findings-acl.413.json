@@ -1,0 +1,34 @@
+{
+  "title": "XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages",
+  "authors": [
+    "Tahmid Hasan",
+    "Abhik Bhattacharjee",
+    "Md Saiful Islam",
+    "Kazi Samin",
+    "Yuan-Fang Li",
+    "Yong-Bin Kang",
+    "M. Sohel Rahman",
+    "Rifat Shahriyar"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Hindi",
+    "Spanish",
+    "French",
+    "Arabic",
+    "Bengali",
+    "Russian",
+    "Portuguese",
+    "Indonesian",
+    "Amharic",
+    "Azerbaijani",
+    "Japanese",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.findings-acl.413",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.413/"
+}

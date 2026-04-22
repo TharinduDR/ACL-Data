@@ -1,0 +1,37 @@
+{
+  "title": "ENTITYCS: Improving Zero-Shot Cross-lingual Transfer with Entity-Centric Code Switching",
+  "authors": [
+    "Chenxi Whitehouse",
+    "Fenia Christopoulou",
+    "Ignacio Iacobacci"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "French",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Uyghur",
+    "Vietnamese",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.findings-emnlp.499",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.499/"
+}

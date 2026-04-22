@@ -1,0 +1,27 @@
+{
+  "title": "A Modular Approach for Clinical SLMs Driven by Synthetic Data with Pre-Instruction Tuning, Model Merging, and Clinical-Tasks Alignment",
+  "authors": [
+    "Jean-Philippe Corbeil",
+    "Amin Dada",
+    "Jean-Michel Attendu",
+    "Asma Ben Abacha",
+    "Alessandro Sordoni",
+    "Lucas Caccia",
+    "François Beaulieu",
+    "Thomas Lin",
+    "Jens Kleesiek",
+    "Paul Vozila"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T18 Text Summarization",
+    "T11 Information Extraction",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-long.950",
+  "acl_url": "https://aclanthology.org/2025.acl-long.950/"
+}

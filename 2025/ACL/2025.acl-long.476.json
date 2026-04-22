@@ -1,0 +1,20 @@
+{
+  "title": "Agents Under Siege: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks",
+  "authors": [
+    "Rana Muhammad Shahroz Khan",
+    "Zhen Tan",
+    "Sukwon Yun",
+    "Charles Fleming",
+    "Tianlong Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.acl-long.476",
+  "acl_url": "https://aclanthology.org/2025.acl-long.476/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "ZmBART: An Unsupervised Cross-lingual Transfer Framework for Language Generation",
+  "authors": [
+    "Kaushal Kumar Maurya",
+    "Maunendra Sankar Desarkar",
+    "Yoshinobu Kano",
+    "Kumari Deepshikha"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.findings-acl.248",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.248/"
+}

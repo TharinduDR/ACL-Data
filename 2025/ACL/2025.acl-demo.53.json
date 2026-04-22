@@ -1,0 +1,23 @@
+{
+  "title": "TRANSLATIONCORRECT: A Unified Framework for Machine Translation Post-Editing with Predictive Error Assistance",
+  "authors": [
+    "Syed Mekael Wasti",
+    "Shou-Yi Hung",
+    "Christopher Collins",
+    "En-Shiun Annie Lee"
+  ],
+  "languages": [
+    "Chinese",
+    "Cantonese",
+    "Bengali",
+    "French",
+    "Japanese",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.acl-demo.53",
+  "acl_url": "https://aclanthology.org/2025.acl-demo.53/"
+}

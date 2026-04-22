@@ -1,0 +1,34 @@
+{
+  "title": "Diversity and Uncertainty in Moderation are the Key to Data Selection for Multilingual Few-shot Transfer",
+  "authors": [
+    "Shanu Kumar",
+    "Sandipan Dandapat",
+    "Monojit Choudhury"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bulgarian",
+    "German",
+    "Spanish",
+    "Estonian",
+    "French",
+    "Hebrew",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.findings-naacl.78",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.78/"
+}

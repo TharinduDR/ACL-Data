@@ -1,0 +1,28 @@
+{
+  "title": "PKU-SAFERLHF: Towards Multi-Level Safety Alignment for LLMs with Human Preference",
+  "authors": [
+    "Jiaming Ji",
+    "Donghai Hong",
+    "Borong Zhang",
+    "Boyuan Chen",
+    "Juntao Dai",
+    "Boren Zheng",
+    "Tianyi Qiu",
+    "Jiayi Zhou",
+    "Kaile Wang",
+    "Boxuan Li",
+    "Sirui Han",
+    "Yike Guo",
+    "Yaodong Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1544",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1544/"
+}

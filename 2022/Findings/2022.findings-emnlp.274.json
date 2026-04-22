@@ -1,0 +1,30 @@
+{
+  "title": "ERNIE-Layout: Layout Knowledge Enhanced Pre-training for Visually-rich Document Understanding",
+  "authors": [
+    "Qiming Peng",
+    "Yinxu Pan",
+    "Wenjin Wang",
+    "Bin Luo",
+    "Zhenyu Zhang",
+    "Zhengjie Huang",
+    "Teng Hu",
+    "Weichong Yin",
+    "Yongfeng Chen",
+    "Yin Zhang",
+    "Shikun Feng",
+    "Yu Sun",
+    "Hao Tian",
+    "Hua Wu",
+    "Haifeng Wang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2022.findings-emnlp.274",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.274/"
+}

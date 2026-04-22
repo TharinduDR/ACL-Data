@@ -1,0 +1,23 @@
+{
+  "title": "Enhancing Retrieval-Augmented Generation via Evidence Tree Search",
+  "authors": [
+    "Hao Sun",
+    "Hengyi Cai",
+    "Yuchen Li",
+    "Xuanbo Fan",
+    "Xiaochi Wei",
+    "Shuaiqiang Wang",
+    "Yan Zhang",
+    "Dawei Yin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.acl-long.1175",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1175/"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Chinese SimpleQA: A Chinese Factuality Evaluation for Large Language Models",
+  "authors": [
+    "Yancheng He",
+    "Shilong Li",
+    "Jiaheng Liu",
+    "Yingshui Tan",
+    "Weixun Wang",
+    "Hui Huang",
+    "Xingyuan Bu",
+    "Hangyu Guo",
+    "Chengwei Hu",
+    "Boren Zheng",
+    "Zhuoran Lin",
+    "Xuepeng Liu",
+    "Dekai Sun",
+    "Shirong Lin",
+    "Zhicheng Zheng",
+    "Xiaoyong Zhu",
+    "Wenbo Su",
+    "Bo Zheng"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.acl-long.941",
+  "acl_url": "https://aclanthology.org/2025.acl-long.941/"
+}

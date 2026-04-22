@@ -1,0 +1,22 @@
+{
+  "title": "FPT: Improving Prompt Tuning Efficiency via Progressive Training",
+  "authors": [
+    "Yufei Huang",
+    "Yujia Qin",
+    "Huadong Wang",
+    "Yichun Yin",
+    "Maosong Sun",
+    "Zhiyuan Liu",
+    "Qun Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2022.findings-emnlp.511",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.511/"
+}

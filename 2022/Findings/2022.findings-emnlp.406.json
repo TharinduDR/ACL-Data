@@ -1,0 +1,17 @@
+{
+  "title": "Language Model Detoxification in Dialogue with Contextualized Stance Control",
+  "authors": [
+    "Jing Qian",
+    "Xifeng Yan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.findings-emnlp.406",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.406/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Towards Robust Visual Question Answering: Making the Most of Biased Samples via Contrastive Learning",
+  "authors": [
+    "Qingyi Si",
+    "Yuanxin Liu",
+    "Fandong Meng",
+    "Zheng Lin",
+    "Peng Fu",
+    "Yanan Cao",
+    "Weiping Wang",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.findings-emnlp.495",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.495/"
+}

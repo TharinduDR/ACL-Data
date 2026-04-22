@@ -1,0 +1,20 @@
+{
+  "title": "MuGER²: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering",
+  "authors": [
+    "Yingyao Wang",
+    "Junwei Bao",
+    "Chaoqun Duan",
+    "Youzheng Wu",
+    "Xiaodong He",
+    "Tiejun Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.findings-emnlp.498",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.498/"
+}

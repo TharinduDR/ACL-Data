@@ -1,0 +1,20 @@
+{
+  "title": "MIMICause: Representation and automatic extraction of causal relation types from clinical notes",
+  "authors": [
+    "Vivek Khetan",
+    "Md Imbesat Hassan Rizvi",
+    "Jessica Huber",
+    "Paige Bartusiak",
+    "Bogdan Sacaleanu",
+    "Andrew Fano"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.findings-acl.63",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.63/"
+}

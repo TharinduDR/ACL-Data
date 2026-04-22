@@ -1,0 +1,41 @@
+{
+  "title": "Rethinking Full Finetuning from Pretraining Checkpoints in Active Learning for African Languages",
+  "authors": [
+    "Bonaventure F. P. Dossou",
+    "Inès Arous",
+    "Jackie Chi Kit Cheung"
+  ],
+  "languages": [
+    "Amharic",
+    "Hausa",
+    "Igbo",
+    "Lingala",
+    "Luganda",
+    "Oromo",
+    "Kirundi",
+    "Shona",
+    "Somali",
+    "Swahili",
+    "Tigrinya",
+    "Xhosa",
+    "Yoruba",
+    "Afrikaans",
+    "Bemba",
+    "Ewe",
+    "Fon",
+    "Luba-Kasai",
+    "Luo",
+    "Northern Sotho",
+    "Nyanja",
+    "Soto",
+    "Tsonga",
+    "Twi",
+    "Wolof"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-srw.5",
+  "acl_url": "https://aclanthology.org/2025.acl-srw.5/"
+}

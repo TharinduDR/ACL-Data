@@ -1,0 +1,19 @@
+{
+  "title": "VoxEval: Benchmarking the Knowledge Understanding Capabilities of End-to-End Spoken Language Models",
+  "authors": [
+    "Wenqian Cui",
+    "Xiaoqi Jiao",
+    "Ziqiao Meng",
+    "Irwin King"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.acl-long.818",
+  "acl_url": "https://aclanthology.org/2025.acl-long.818/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "EVI: Multilingual Spoken Dialogue Tasks and Dataset for Knowledge-Based Enrolment, Verification, and Identification",
+  "authors": [
+    "Georgios P. Spithourakis",
+    "Ivan Vulić",
+    "Michał Lis",
+    "Iñigo Casanueva",
+    "Paweł Budzianowski"
+  ],
+  "languages": [
+    "English",
+    "Polish",
+    "French"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-naacl.124",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.124/"
+}

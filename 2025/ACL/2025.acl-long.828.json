@@ -1,0 +1,29 @@
+{
+  "title": "On Synthesizing Data for Context Attribution in Question Answering",
+  "authors": [
+    "Gorjan Radevski",
+    "Kiril Gashteovski",
+    "Shahbaz Syed",
+    "Christopher Malon",
+    "Sebastien Nicolas",
+    "Chia-Chien Hung",
+    "Timo Szytler",
+    "Verena Heußer",
+    "Wiem Ben Rim",
+    "Masafumi Enomoto",
+    "Kunihiro Takeoka",
+    "Masafumi Oyamada",
+    "Goran Glava·",
+    "Carolin Lawrence"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-long.828",
+  "acl_url": "https://aclanthology.org/2025.acl-long.828/"
+}

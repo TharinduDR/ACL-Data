@@ -1,0 +1,17 @@
+{
+  "title": "Hyperdecoders: Instance-specific decoders for multi-task NLP",
+  "authors": [
+    "Hamish Ivison",
+    "Matthew E. Peters"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.findings-emnlp.124",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.124/"
+}

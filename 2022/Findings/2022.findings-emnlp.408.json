@@ -1,0 +1,22 @@
+{
+  "title": "A Two-Stage Approach towards Generalization in Knowledge Base Question Answering",
+  "authors": [
+    "Srinivas Ravishankar",
+    "June Thai",
+    "Ibrahim Abdelaziz",
+    "Nandana Mihindukulasooriya",
+    "Tahira Naseem",
+    "Pavan Kapanipathi",
+    "Gaetano Rossiello",
+    "Achille Fokoue"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.findings-emnlp.408",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.408/"
+}

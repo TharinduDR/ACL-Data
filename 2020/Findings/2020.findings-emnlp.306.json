@@ -1,0 +1,19 @@
+{
+  "title": "A Dual-Attention Network for Joint Named Entity Recognition and Sentence Classification of Adverse Drug Events",
+  "authors": [
+    "Susmitha Wunnava",
+    "Xiao Qin",
+    "Tabassum Kakar",
+    "Xiangnan Kong",
+    "Elke A. Rundensteiner"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.findings-emnlp.306",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.306/"
+}

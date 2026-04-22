@@ -1,0 +1,20 @@
+{
+  "title": "Modeling Context With Linear Attention for Scalable Document-Level Translation",
+  "authors": [
+    "Zhaofeng Wu",
+    "Hao Peng",
+    "Nikolaos Pappas",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.515",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.515/"
+}

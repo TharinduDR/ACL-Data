@@ -1,0 +1,19 @@
+{
+  "title": "TellMeWhy: A Dataset for Answering Why-Questions in Narratives",
+  "authors": [
+    "Yash Kumar Lal",
+    "Nathanael Chambers",
+    "Raymond Mooney",
+    "Niranjan Balasubramanian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2021.findings-acl.53",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.53/"
+}

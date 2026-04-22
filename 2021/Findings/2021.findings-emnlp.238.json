@@ -1,0 +1,19 @@
+{
+  "title": "Open-Domain Contextual Link Prediction and its Complementarity with Entailment Graphs",
+  "authors": [
+    "Mohammad Javad Hosseini",
+    "Shay B. Cohen",
+    "Mark Johnson",
+    "Mark Steedman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.findings-emnlp.238",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.238/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "MLMLM: Link Prediction with Mean Likelihood Masked Language Model",
+  "authors": [
+    "Louis Clouatre",
+    "Philippe Trempe",
+    "Amal Zouaq",
+    "Sarath Chandar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-acl.378",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.378/"
+}

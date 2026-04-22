@@ -1,0 +1,25 @@
+{
+  "title": "Pre³: Enabling Deterministic Pushdown Automata for Faster Structured LLM Generation",
+  "authors": [
+    "Junyi Chen",
+    "Shihao Bai",
+    "Zaijun Wang",
+    "Siyu Wu",
+    "Chuheng Du",
+    "Hailong Yang",
+    "Ruihao Gong",
+    "Shengzhong Liu",
+    "Fan Wu",
+    "Guihai Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.acl-long.551",
+  "acl_url": "https://aclanthology.org/2025.acl-long.551/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Token-level Sequence Labeling for Spoken Language Understanding using Compositional End-to-End Models",
+  "authors": [
+    "Siddhant Arora",
+    "Siddharth Dalmia",
+    "Brian Yan",
+    "Florian Metze",
+    "Alan W. Black",
+    "Shinji Watanabe"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.findings-emnlp.396",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.396/"
+}

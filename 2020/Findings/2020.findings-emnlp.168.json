@@ -1,0 +1,20 @@
+{
+  "title": "TED: A Pretrained Unsupervised Summarization Model with Theme Modeling and Denoising",
+  "authors": [
+    "Ziyi Yang",
+    "Chenguang Zhu",
+    "Robert Gmyr",
+    "Michael Zeng",
+    "Xuedong Huang",
+    "Eric Darve"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2020.findings-emnlp.168",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.168/"
+}

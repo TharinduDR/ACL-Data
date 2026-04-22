@@ -1,0 +1,18 @@
+{
+  "title": "Single Model Ensemble for Subword Regularized Models in Low-Resource Machine Translation",
+  "authors": [
+    "Sho Takase",
+    "Tatsuya Hiraoka",
+    "Naoaki Okazaki"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.findings-acl.199",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.199/"
+}

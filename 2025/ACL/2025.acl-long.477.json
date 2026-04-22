@@ -1,0 +1,23 @@
+{
+  "title": "Semantic-Eval: A Semantic Comprehension Evaluation Framework for Large Language Models Generation without Training",
+  "authors": [
+    "Shusheng Li",
+    "Jiale Li",
+    "Yifei Qu",
+    "Xinwei Shi",
+    "Yanliang Guo",
+    "Ziyi He",
+    "Yubo Wang",
+    "Wenjun Tan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.acl-long.477",
+  "acl_url": "https://aclanthology.org/2025.acl-long.477/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Simple but Challenging: Natural Language Inference Models Fail on Simple Sentences",
+  "authors": [
+    "Cheng Luo",
+    "Wei Liu",
+    "Jieyu Lin",
+    "Jiajie Zou",
+    "Ming Xiang",
+    "Nai Ding"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2022.findings-emnlp.252",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.252/"
+}

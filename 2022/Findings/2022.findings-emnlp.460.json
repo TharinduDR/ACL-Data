@@ -1,0 +1,27 @@
+{
+  "title": "Robust Question Answering against Distribution Shifts with Test-Time Adaptation: An Empirical Study",
+  "authors": [
+    "Hai Ye",
+    "Yuyang Ding",
+    "Juntao Li",
+    "Hwee Tou Ng"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "German",
+    "French",
+    "Russian",
+    "Arabic",
+    "Vietnamese",
+    "Thai",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.460",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.460/"
+}

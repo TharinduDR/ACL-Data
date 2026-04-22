@@ -1,0 +1,23 @@
+{
+  "title": "SD-QA: Spoken Dialectal Question Answering for the Real World",
+  "authors": [
+    "Fahim Faisal",
+    "Sharlina Keshava",
+    "Md Mahfuz ibn Alam",
+    "Antonios Anastasopoulos"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bengali",
+    "Kiswahili",
+    "Korean"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-emnlp.281",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.281/"
+}

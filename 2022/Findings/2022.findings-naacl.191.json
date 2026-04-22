@@ -1,0 +1,23 @@
+{
+  "title": "TaCL: Improving BERT Pre-training with Token-aware Contrastive Learning",
+  "authors": [
+    "Yixuan Su",
+    "Fangyu Liu",
+    "Zaiqiao Meng",
+    "Tian Lan",
+    "Lei Shu",
+    "Ehsan Shareghi",
+    "Nigel Collier"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2022.findings-naacl.191",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.191/"
+}

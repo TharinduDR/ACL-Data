@@ -1,0 +1,20 @@
+{
+  "title": "Ethical-Advice Taker: Do Language Models Understand Natural Language Interventions?",
+  "authors": [
+    "Jieyu Zhao",
+    "Daniel Khashabi",
+    "Tushar Khot",
+    "Ashish Sabharwal",
+    "Kai-Wei Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2021.findings-acl.364",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.364/"
+}

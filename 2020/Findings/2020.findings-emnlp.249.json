@@ -1,0 +1,22 @@
+{
+  "title": "Cross-Lingual Training of Neural Models for Document Ranking",
+  "authors": [
+    "Peng Shi",
+    "He Bai",
+    "Jimmy Lin"
+  ],
+  "languages": [
+    "Chinese",
+    "Arabic",
+    "French",
+    "Hindi",
+    "Bengali",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.findings-emnlp.249",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.249/"
+}

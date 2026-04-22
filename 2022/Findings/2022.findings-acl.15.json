@@ -1,0 +1,22 @@
+{
+  "title": "Sememe Prediction for BabelNet Synsets using Multilingual and Multimodal Information",
+  "authors": [
+    "Fanchao Qi",
+    "Chuancheng Lv",
+    "Zhiyuan Liu",
+    "Xiaojun Meng",
+    "Maosong Sun",
+    "Hai-Tao Zheng"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2022.findings-acl.15",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.15/"
+}

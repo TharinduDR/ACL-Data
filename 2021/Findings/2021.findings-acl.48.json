@@ -1,0 +1,21 @@
+{
+  "title": "KGPool: Dynamic Knowledge Graph Context Selection for Relation Extraction",
+  "authors": [
+    "Abhishek Nadgeri",
+    "Anson Bastos",
+    "Kuldeep Singh",
+    "Isaiah Onando Mulang",
+    "Johannes Hoffart",
+    "Saeedeh Shekarpour",
+    "Vijay Saraswat"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.findings-acl.48",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.48/"
+}

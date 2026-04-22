@@ -1,0 +1,29 @@
+{
+  "title": "HATEDAY: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter",
+  "authors": [
+    "Manuel Tonneau",
+    "Diyi Liu",
+    "Niyati Malhotra",
+    "Scott A. Hale",
+    "Samuel P. Fraiberger",
+    "Victor Orozco-Olvera",
+    "Paul Röttger"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French",
+    "German",
+    "Indonesian",
+    "Portuguese",
+    "Spanish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.115",
+  "acl_url": "https://aclanthology.org/2025.acl-long.115/"
+}

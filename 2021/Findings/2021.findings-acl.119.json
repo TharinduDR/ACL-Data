@@ -1,0 +1,23 @@
+{
+  "title": "LICHEE: Improving Language Model Pre-training with Multi-grained Tokenization",
+  "authors": [
+    "Weidong Guo",
+    "Mingjun Zhao",
+    "Lusheng Zhang",
+    "Di Niu",
+    "Jinwen Luo",
+    "Zhenhua Liu",
+    "Zhenyang Li",
+    "Jianbo Tang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-acl.119",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.119/"
+}

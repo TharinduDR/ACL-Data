@@ -1,0 +1,33 @@
+{
+  "title": "GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement",
+  "authors": [
+    "Yifan Yang",
+    "Zheshu Song",
+    "Jianheng Zhuo",
+    "Mingyu Cui",
+    "Jinpeng Li",
+    "Bo Yang",
+    "Yexing Du",
+    "Ziyang Ma",
+    "Xunying Liu",
+    "Ziyuan Wang",
+    "Ke Li",
+    "Shuai Fan",
+    "Kai Yu",
+    "Wei-Qiang Zhang",
+    "Guoguo Chen",
+    "Xie Chen"
+  ],
+  "languages": [
+    "Thai",
+    "Indonesian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.135",
+  "acl_url": "https://aclanthology.org/2025.acl-long.135/"
+}

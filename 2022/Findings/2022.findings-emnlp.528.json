@@ -1,0 +1,22 @@
+{
+  "title": "Adapting Multilingual Models for Code-Mixed Translation",
+  "authors": [
+    "Aditya Vavre",
+    "Abhirut Gupta",
+    "Sunita Sarawagi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Marathi",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.findings-emnlp.528",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.528/"
+}

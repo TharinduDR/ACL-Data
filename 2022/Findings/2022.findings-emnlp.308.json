@@ -1,0 +1,39 @@
+{
+  "title": "Multilingual Multimodal Learning with Machine Translated Text",
+  "authors": [
+    "Chen Qiu",
+    "Dan Oneață",
+    "Emanuele Bugliarello",
+    "Stella Frank",
+    "Desmond Elliott"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bengali",
+    "Bulgarian",
+    "Danish",
+    "Estonian",
+    "German",
+    "Greek",
+    "French",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Mandarin Chinese",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Tamil",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.308",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.308/"
+}

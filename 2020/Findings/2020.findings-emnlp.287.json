@@ -1,0 +1,27 @@
+{
+  "title": "KoBE: Knowledge-Based Machine Translation Evaluation",
+  "authors": [
+    "Zorik Gekhman",
+    "Roei Aharoni",
+    "Genady Beryozkin",
+    "Markus Freitag",
+    "Wolfgang Macherey"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Finnish",
+    "Gujarati",
+    "Kazakh",
+    "Lithuanian",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.287",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.287/"
+}

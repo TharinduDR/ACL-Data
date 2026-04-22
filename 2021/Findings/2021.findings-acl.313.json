@@ -1,0 +1,22 @@
+{
+  "title": "How to Split: the Effect of Word Segmentation on Gender Bias in Speech Translation",
+  "authors": [
+    "Marco Gaido",
+    "Beatrice Savoldi",
+    "Luisa Bentivogli",
+    "Matteo Negri",
+    "Marco Turchi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-acl.313",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.313/"
+}

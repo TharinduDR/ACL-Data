@@ -1,0 +1,20 @@
+{
+  "title": "ASDOT: Any-Shot Data-to-Text Generation with Pretrained Language Models",
+  "authors": [
+    "Jiannan Xiang",
+    "Zhengzhong Liu",
+    "Yucheng Zhou",
+    "Eric P. Xing",
+    "Zhiting Hu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2022.findings-emnlp.136",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.136/"
+}

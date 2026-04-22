@@ -1,0 +1,20 @@
+{
+  "title": "An Instance Level Approach for Shallow Semantic Parsing in Scientific Procedural Text",
+  "authors": [
+    "Daivik Swarup",
+    "Ahsaas Bajaj",
+    "Sheshera Mysore",
+    "Tim O'Gorman",
+    "Rajarshi Das",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.findings-emnlp.270",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.270/"
+}

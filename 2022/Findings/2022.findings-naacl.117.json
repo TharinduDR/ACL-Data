@@ -1,0 +1,22 @@
+{
+  "title": "Hierarchical Transformers Are More Efficient Language Models",
+  "authors": [
+    "Piotr Nawrot",
+    "Szymon Tworkowski",
+    "Michał Tyrolski",
+    "Łukasz Kaiser",
+    "Yuhuai Wu",
+    "Christian Szegedy",
+    "Henryk Michalewski"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.findings-naacl.117",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.117/"
+}

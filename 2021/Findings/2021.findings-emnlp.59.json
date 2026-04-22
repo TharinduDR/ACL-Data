@@ -1,0 +1,17 @@
+{
+  "title": "TSDAE: Using Transformer-based Sequential Denoising Auto-Encoder for Unsupervised Sentence Embedding Learning",
+  "authors": [
+    "Kexin Wang",
+    "Nils Reimers",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-emnlp.59",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.59/"
+}

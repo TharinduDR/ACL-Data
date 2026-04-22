@@ -1,0 +1,25 @@
+{
+  "title": "Token-wise Curriculum Learning for Neural Machine Translation",
+  "authors": [
+    "Chen Liang",
+    "Haoming Jiang",
+    "Xiaodong Liu",
+    "Pengcheng He",
+    "Weizhu Chen",
+    "Jianfeng Gao",
+    "Tuo Zhao"
+  ],
+  "languages": [
+    "English",
+    "Vietnamese",
+    "German",
+    "French",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.findings-emnlp.310",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.310/"
+}

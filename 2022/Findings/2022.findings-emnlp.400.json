@@ -1,0 +1,21 @@
+{
+  "title": "CrisisLTLSum: A Benchmark for Local Crisis Event Timeline Extraction and Summarization",
+  "authors": [
+    "Hossein Rajaby Faghihi",
+    "Bashar Alhafni",
+    "Ke Zhang",
+    "Shihao Ran",
+    "Joel Tetreault",
+    "Alejandro Jaimes"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.findings-emnlp.400",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.400/"
+}

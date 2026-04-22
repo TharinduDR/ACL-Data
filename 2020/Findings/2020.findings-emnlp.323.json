@@ -1,0 +1,36 @@
+{
+  "title": "Cross-Lingual Text Classification with Minimal Resources by Transferring a Sparse Teacher",
+  "authors": [
+    "Giannis Karamanolakis",
+    "Daniel Hsu",
+    "Luis Gravano"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Russian",
+    "Chinese",
+    "Japanese",
+    "Arabic",
+    "Bulgarian",
+    "Persian",
+    "Croatian",
+    "Hungarian",
+    "Polish",
+    "Portuguese",
+    "Slovak",
+    "Slovenian",
+    "Swedish",
+    "Uyghur",
+    "Sinhalese"
+  ],
+  "research_areas": [
+    "T16",
+    "T20"
+  ],
+  "paper_id": "2020.findings-emnlp.323",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.323/"
+}

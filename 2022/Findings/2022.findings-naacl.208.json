@@ -1,0 +1,27 @@
+{
+  "title": "ID10M: Idiom Identification in 10 Languages",
+  "authors": [
+    "Simone Tedeschi",
+    "Federico Martelli",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "Chinese",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Polish",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-naacl.208",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.208/"
+}

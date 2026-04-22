@@ -1,0 +1,32 @@
+{
+  "title": "A Web Scale Entity Extraction System",
+  "authors": [
+    "Xuanting Cai",
+    "Quanbin Ma",
+    "Pan Li",
+    "Jianyu Liu",
+    "Qi Zeng",
+    "Zhengkan Yang",
+    "Pushkar Tripathi"
+  ],
+  "languages": [
+    "Arabic",
+    "Danish",
+    "German",
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Russian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2021.findings-emnlp.7",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.7/"
+}

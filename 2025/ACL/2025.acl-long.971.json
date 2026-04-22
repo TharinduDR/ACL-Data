@@ -1,0 +1,24 @@
+{
+  "title": "Text-to-ES Bench: A Comprehensive Benchmark for Converting Natural Language to Elasticsearch Query",
+  "authors": [
+    "Dongge Xue",
+    "Zhili Pu",
+    "Zentao Xia",
+    "Hongli Sun",
+    "Ruihui Hou",
+    "Guangya Yu",
+    "Yupian Lin",
+    "Yongqi Fan",
+    "Jingping Liu",
+    "Tong Ruan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.971",
+  "acl_url": "https://aclanthology.org/2025.acl-long.971/"
+}

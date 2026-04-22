@@ -1,0 +1,19 @@
+{
+  "title": "TaDA: Training-free recipe for Decoding with Adaptive KV Cache Compression and Mean-centering",
+  "authors": [
+    "Vinay Joshi",
+    "Pratik Prabhanjan Brahma",
+    "Zicheng Liu",
+    "Emad Barsoum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-industry.101",
+  "acl_url": "https://aclanthology.org/2025.acl-industry.101/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Don't Reinvent the Wheel: Efficient Instruction-Following Text Embedding based on Guided Space Transformation",
+  "authors": [
+    "Yingchaojie Feng",
+    "Yiqun Sun",
+    "Yandong Sun",
+    "Minfeng Zhu",
+    "Qiang Huang",
+    "Anthony K. H. Tung",
+    "Wei Chen"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.acl-long.1196",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1196/"
+}

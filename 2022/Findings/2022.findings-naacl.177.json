@@ -1,0 +1,25 @@
+{
+  "title": "Analytical Reasoning of Text",
+  "authors": [
+    "Wanjun Zhong",
+    "Si yuan Wang",
+    "Duyu Tang",
+    "Zenan Xu",
+    "Daya Guo",
+    "Yining Chen",
+    "Jiahai Wang",
+    "Jian Yin",
+    "Ming Zhou",
+    "Nan Duan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2022.findings-naacl.177",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.177/"
+}

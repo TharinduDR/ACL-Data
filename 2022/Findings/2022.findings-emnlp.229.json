@@ -1,0 +1,21 @@
+{
+  "title": "QaDialMoE: Question-answering Dialogue based Fact Verification with Mixture of Experts",
+  "authors": [
+    "Longzheng Wang",
+    "Peng Zhang",
+    "Xiaoyu Sean Lu",
+    "Lei Zhang",
+    "Chaoyang Yan",
+    "Chuang Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.229",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.229/"
+}

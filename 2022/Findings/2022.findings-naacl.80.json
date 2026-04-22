@@ -1,0 +1,23 @@
+{
+  "title": "CODE-MVP: Learning to Represent Source Code from Multiple Views with Contrastive Pre-Training",
+  "authors": [
+    "Xin Wang",
+    "Yasheng Wang",
+    "Yao Wan",
+    "Jiawei Wang",
+    "Pingyi Zhou",
+    "Li Li",
+    "Hao Wu",
+    "Jin Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.findings-naacl.80",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.80/"
+}

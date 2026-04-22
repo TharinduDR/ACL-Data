@@ -1,0 +1,23 @@
+{
+  "title": "Improving Code-Switching Dependency Parsing with Semi-Supervised Auxiliary Tasks",
+  "authors": [
+    "Şaziye Betül Özteş",
+    "Arzucan Özgür",
+    "Tunga Gungor",
+    "Özlem Çetinoğlu"
+  ],
+  "languages": [
+    "Turkish",
+    "German",
+    "Hindi",
+    "English",
+    "Frisian",
+    "Russian",
+    "Komi"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-naacl.87",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.87/"
+}

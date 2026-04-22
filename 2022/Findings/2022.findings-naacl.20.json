@@ -1,0 +1,24 @@
+{
+  "title": "Zero-shot Cross-lingual Conversational Semantic Role Labeling",
+  "authors": [
+    "Han Wu",
+    "Haochen Tan",
+    "Kun Xu",
+    "Shuqi Liu",
+    "Lianwei Wu",
+    "Linqi Song"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2022.findings-naacl.20",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.20/"
+}

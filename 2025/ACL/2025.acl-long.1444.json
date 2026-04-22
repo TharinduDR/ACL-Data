@@ -1,0 +1,29 @@
+{
+  "title": "Retrofitting Large Language Models with Dynamic Tokenization",
+  "authors": [
+    "Darius Feher",
+    "Ivan Vulić",
+    "Benjamin Minixhofer"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bulgarian",
+    "German",
+    "Greek",
+    "Spanish",
+    "Hindi",
+    "Russian",
+    "Swahili",
+    "Turkish",
+    "Urdu",
+    "Vietnamese",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1444",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1444/"
+}

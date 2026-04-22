@@ -1,0 +1,21 @@
+{
+  "title": "StrucText-Eval: Evaluating Large Language Model's Reasoning Ability in Structure-Rich Text",
+  "authors": [
+    "Zhouhong Gu",
+    "Haoning Ye",
+    "Xingzhou Chen",
+    "Zeyang Zhou",
+    "Hongwei Feng",
+    "Yanghua Xiao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.11",
+  "acl_url": "https://aclanthology.org/2025.acl-long.11/"
+}

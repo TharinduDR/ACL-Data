@@ -1,0 +1,25 @@
+{
+  "title": "Steering into New Embedding Spaces: Analyzing Cross-Lingual Alignment Induced by Model Interventions in Multilingual Language Models",
+  "authors": [
+    "Anirudh Sundar",
+    "Sinead Williamson",
+    "Katherine Metcalf",
+    "Barry-John Theobald",
+    "Skyler Seto",
+    "Masha Fedzechkina"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.acl-long.118",
+  "acl_url": "https://aclanthology.org/2025.acl-long.118/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Logical Fallacy Detection",
+  "authors": [
+    "Zhijing Jin",
+    "Abhinav Lalwani",
+    "Tejas Vaidhya",
+    "Xiaoyu Shen",
+    "Yiwen Ding",
+    "Zhiheng Lyu",
+    "Mrinmaya Sachan",
+    "Rada Mihalcea",
+    "Bernhard Schölkopf"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T09 Inference and Reasoning",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.findings-emnlp.532",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.532/"
+}

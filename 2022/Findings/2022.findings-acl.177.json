@@ -1,0 +1,20 @@
+{
+  "title": "ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning",
+  "authors": [
+    "Ahmed Masry",
+    "Do Xuan Long",
+    "Jia Qing Tan",
+    "Shafiq Joty",
+    "Enamul Hoque"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-acl.177",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.177/"
+}

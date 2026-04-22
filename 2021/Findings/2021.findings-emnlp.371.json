@@ -1,0 +1,26 @@
+{
+  "title": "Character-based PCFG Induction for Modeling the Syntactic Acquisition of Morphologically Rich Languages",
+  "authors": [
+    "Lifeng Jin",
+    "Byung-Doh Oh",
+    "William Schuler"
+  ],
+  "languages": [
+    "English",
+    "Korean",
+    "Chinese",
+    "German",
+    "Arabic",
+    "French",
+    "Hebrew",
+    "Japanese",
+    "Polish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2021.findings-emnlp.371",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.371/"
+}

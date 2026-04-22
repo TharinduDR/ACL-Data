@@ -1,0 +1,23 @@
+{
+  "title": "Micro-Act: Mitigate Knowledge Conflict in Question Answering via Actionable Self-Reasoning",
+  "authors": [
+    "Nan Huo",
+    "Jinyang Li",
+    "Bowen Qin",
+    "Ge Qu",
+    "Xiaolong Li",
+    "Xiaodong Li",
+    "Chenhao Ma",
+    "Reynold Cheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.909",
+  "acl_url": "https://aclanthology.org/2025.acl-long.909/"
+}

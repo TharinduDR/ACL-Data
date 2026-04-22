@@ -1,0 +1,22 @@
+{
+  "title": "Dialogue-RAG: Enhancing Retrieval for LLMs via Node-Linking Utterance Rewriting",
+  "authors": [
+    "Qiwei Li",
+    "Teng Xiao",
+    "Zuchao Li",
+    "Ping Wang",
+    "Mengjia Shen",
+    "Hai Zhao"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.acl-long.1191",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1191/"
+}

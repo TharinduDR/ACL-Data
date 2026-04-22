@@ -1,0 +1,21 @@
+{
+  "title": "Are Optimal Algorithms Still Optimal? Rethinking Sorting in LLM-Based Pairwise Ranking with Batching and Caching",
+  "authors": [
+    "Juan Wisznia",
+    "Cecilia Bolaños",
+    "Juan Tollo",
+    "Giovanni Marraffini",
+    "Agustín Gianolini",
+    "Noe Hsueh",
+    "Luciano Del Corro"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-short.83",
+  "acl_url": "https://aclanthology.org/2025.acl-short.83/"
+}

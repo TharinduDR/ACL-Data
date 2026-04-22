@@ -1,0 +1,33 @@
+{
+  "title": "Stretching Sentence-pair NLI Models to Reason over Long Documents and Clusters",
+  "authors": [
+    "Tal Schuster",
+    "Sihao Chen",
+    "Senaka Buthpitiya",
+    "Alex Fabrikant",
+    "Donald Metzler"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "Italian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Cantonese",
+    "Swedish",
+    "Polish",
+    "German",
+    "Indonesian",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T16 Machine Translation and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.findings-emnlp.28",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.28/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Scene Graph Modification Based on Natural Language Commands",
+  "authors": [
+    "Xuanli He",
+    "Quan Hung Tran",
+    "Gholamreza Haffari",
+    "Walter Chang",
+    "Trung Bui",
+    "Zhe Lin",
+    "Franck Dernoncourt",
+    "Nhan Dam"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.findings-emnlp.87",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.87/"
+}

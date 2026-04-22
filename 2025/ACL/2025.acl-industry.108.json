@@ -1,0 +1,25 @@
+{
+  "title": "EXPLAIN: Enhancing Retrieval-Augmented Generation with Entity Summary",
+  "authors": [
+    "Yaozhen Liang",
+    "Xiao Liu",
+    "Jiajun Yu",
+    "Zhouhua Fang",
+    "Qunsheng Zou",
+    "Linghan Zheng",
+    "Yong Li",
+    "Zhiwei Liu",
+    "Haishuai Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.acl-industry.108",
+  "acl_url": "https://aclanthology.org/2025.acl-industry.108/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Distilling the Knowledge of Large-scale Generative Models into Retrieval Models for Efficient Open-domain Conversation",
+  "authors": [
+    "Beomsu Kim",
+    "Seokjun Seo",
+    "Seungju Han",
+    "Enkhbayar Erdenee",
+    "Buru Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-emnlp.286",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.286/"
+}

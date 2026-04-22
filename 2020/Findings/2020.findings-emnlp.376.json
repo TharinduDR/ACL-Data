@@ -1,0 +1,21 @@
+{
+  "title": "Multichannel Generative Language Model: Learning All Possible Factorizations Within and Across Channels",
+  "authors": [
+    "Harris Chan",
+    "Jamie Kiros",
+    "William Chan"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Czech",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.376",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.376/"
+}

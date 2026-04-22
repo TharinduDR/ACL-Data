@@ -1,0 +1,22 @@
+{
+  "title": "SAM Decoding: Speculative Decoding via Suffix Automaton",
+  "authors": [
+    "Yuxuan Hu",
+    "Ke Wang",
+    "Xiaokang Zhang",
+    "Fanjin Zhang",
+    "Cuiping Li",
+    "Hong Chen",
+    "Jing Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.acl-long.595",
+  "acl_url": "https://aclanthology.org/2025.acl-long.595/"
+}

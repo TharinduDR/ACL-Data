@@ -1,0 +1,36 @@
+{
+  "title": "LLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks",
+  "authors": [
+    "Anna Bavaresco",
+    "Raffaella Bernardi",
+    "Leonardo Bertolazzi",
+    "Desmond Elliott",
+    "Raquel Fernández",
+    "Albert Gatt",
+    "Esam Ghaleb",
+    "Mario Giulianelli",
+    "Michael Hanna",
+    "Alexander Koller",
+    "André F. T. Martins",
+    "Philipp Mondorf",
+    "Vera Neplenbroek",
+    "Sandro Pezzelle",
+    "Barbara Plank",
+    "David Schlangen",
+    "Alessandro Suglia",
+    "Aditya K Surikuchi",
+    "Ece Takmaz",
+    "Alberto Testoni"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.acl-short.20",
+  "acl_url": "https://aclanthology.org/2025.acl-short.20/"
+}

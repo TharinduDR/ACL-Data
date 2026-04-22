@@ -1,0 +1,27 @@
+{
+  "title": "LLaSE-G1: Incentivizing Generalization Capability for LLaMA-based Speech Enhancement",
+  "authors": [
+    "Boyi Kang",
+    "Xinfa Zhu",
+    "Zihan Zhang",
+    "Zhen Ye",
+    "Mingshuai Liu",
+    "Ziqian Wang",
+    "Yike Zhu",
+    "Guobin Ma",
+    "Jun Chen",
+    "Longshuai Xiao",
+    "Chao Weng",
+    "Wei Xue",
+    "Lei Xie"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.acl-long.651",
+  "acl_url": "https://aclanthology.org/2025.acl-long.651/"
+}

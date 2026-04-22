@@ -1,0 +1,20 @@
+{
+  "title": "TrimLLM: Progressive Layer Dropping for Domain-Specific LLMs",
+  "authors": [
+    "Lanxiang Hu",
+    "Tajana Rosing",
+    "Hao Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T26 Clinical/biomedical NLP",
+    "T25 Legal NLP",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.acl-long.33",
+  "acl_url": "https://aclanthology.org/2025.acl-long.33/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Morphological Processing of Low-Resource Languages: Where We Are and What's Next",
+  "authors": [
+    "Adam Wiemerslage",
+    "Miikka Silfverberg",
+    "Changbing Yang",
+    "Arya D. McCarthy",
+    "Garrett Nicolai",
+    "Eliana Colunga",
+    "Katharina Kann"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Swedish",
+    "German",
+    "Greek",
+    "Icelandic",
+    "Russian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-acl.80",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.80/"
+}

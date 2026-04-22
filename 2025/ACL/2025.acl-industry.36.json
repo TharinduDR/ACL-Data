@@ -1,0 +1,22 @@
+{
+  "title": "RedactOR: An LLM-Powered Framework for Automatic Clinical Data De-Identification",
+  "authors": [
+    "Praphul Singh",
+    "Charlotte Dzialo",
+    "Jangwon Kim",
+    "Sumana Srivatsa",
+    "Irfan Bulu",
+    "Sri Gadde",
+    "Krishnaram Kenthapadi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.acl-industry.36",
+  "acl_url": "https://aclanthology.org/2025.acl-industry.36/"
+}

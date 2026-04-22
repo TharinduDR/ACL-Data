@@ -1,0 +1,21 @@
+{
+  "title": "AUGVIC: Exploiting BiText Vicinity for Low-Resource NMT",
+  "authors": [
+    "Tasnim Mohiuddin",
+    "M Saiful Bari",
+    "Shafiq Joty"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Tamil",
+    "Nepalese",
+    "Sinhala"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.findings-acl.267",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.267/"
+}

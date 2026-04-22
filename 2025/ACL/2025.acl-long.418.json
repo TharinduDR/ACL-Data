@@ -1,0 +1,29 @@
+{
+  "title": "RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework",
+  "authors": [
+    "Kunlun Zhu",
+    "Yifan Luo",
+    "Dingling Xu",
+    "Yukun Yan",
+    "Zhenghao Liu",
+    "Shi Yu",
+    "Ruobing Wang",
+    "Shuo Wang",
+    "Yishan Li",
+    "Nan Zhang",
+    "Xu Han",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.acl-long.418",
+  "acl_url": "https://aclanthology.org/2025.acl-long.418/"
+}

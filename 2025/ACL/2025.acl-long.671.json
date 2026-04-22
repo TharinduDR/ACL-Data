@@ -1,0 +1,20 @@
+{
+  "title": "STUN: Structured-Then-Unstructured Pruning for Scalable MoE Pruning",
+  "authors": [
+    "Jaeseong Lee",
+    "Seung-won Hwang",
+    "Aurick Qiao",
+    "Daniel Campos",
+    "Zhewei Yao",
+    "Yuxiong He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.671",
+  "acl_url": "https://aclanthology.org/2025.acl-long.671/"
+}

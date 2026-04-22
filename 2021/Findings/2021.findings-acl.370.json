@@ -1,0 +1,23 @@
+{
+  "title": "VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding",
+  "authors": [
+    "Hu Xu",
+    "Gargi Ghosh",
+    "Po-Yao Huang",
+    "Prahal Arora",
+    "Masoumeh Aminzadeh",
+    "Christoph Feichtenhofer",
+    "Florian Metze",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.findings-acl.370",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.370/"
+}

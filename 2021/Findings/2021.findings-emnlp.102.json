@@ -1,0 +1,26 @@
+{
+  "title": "Learning and Evaluating a Differentially Private Pre-trained Language Model",
+  "authors": [
+    "Shlomo Hoory",
+    "Amir Feder",
+    "Avichai Tendler",
+    "Alon Cohen",
+    "Sofia Erell",
+    "Itay Laish",
+    "Hootan Nakhost",
+    "Uri Stemmer",
+    "Ayelet Benjamini",
+    "Avinatan Hassidim",
+    "Yossi Matias"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2021.findings-emnlp.102",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.102/"
+}

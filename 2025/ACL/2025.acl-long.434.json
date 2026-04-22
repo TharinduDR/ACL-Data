@@ -1,0 +1,26 @@
+{
+  "title": "Warmup Generations: A Task-Agnostic Approach for Guiding Sequence-to-Sequence Learning with Unsupervised Initial State Generation",
+  "authors": [
+    "Senyu Li",
+    "Zipeng Sun",
+    "Jiayi Wang",
+    "Xue Liu",
+    "Pontus Stenetorp",
+    "Siva Reddy",
+    "David Ifeoluwa Adelani"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.acl-long.434",
+  "acl_url": "https://aclanthology.org/2025.acl-long.434/"
+}

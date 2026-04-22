@@ -1,0 +1,21 @@
+{
+  "title": "Extending LLM Context Window with Adaptive Grouped Positional Encoding: A Training-Free Method",
+  "authors": [
+    "Xinhao Xu",
+    "Jiaxin Li",
+    "Hui Chen",
+    "Zijia Lin",
+    "Jungong Han",
+    "Guiguang Ding"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-long.28",
+  "acl_url": "https://aclanthology.org/2025.acl-long.28/"
+}

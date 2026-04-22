@@ -1,0 +1,22 @@
+{
+  "title": "We will Reduce Taxes: Identifying Election Pledges with Language Models",
+  "authors": [
+    "Tommaso Fornaciari",
+    "Dirk Hovy",
+    "Elin Naurin",
+    "Julia Runeson",
+    "Robert Thomson",
+    "Pankaj Adhikari"
+  ],
+  "languages": [
+    "Swedish",
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.findings-acl.301",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.301/"
+}

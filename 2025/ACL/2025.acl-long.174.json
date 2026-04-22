@@ -1,0 +1,22 @@
+{
+  "title": "Contrastive Prompting Enhances Sentence Embeddings in LLMs through Inference-Time Steering",
+  "authors": [
+    "Zifeng Cheng",
+    "Zhonghui Wang",
+    "Yuchen Fu",
+    "Zhiwei Jiang",
+    "Yafeng Yin",
+    "Cong Wang",
+    "Qing Gu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.174",
+  "acl_url": "https://aclanthology.org/2025.acl-long.174/"
+}

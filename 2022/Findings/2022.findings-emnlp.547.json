@@ -1,0 +1,22 @@
+{
+  "title": "Grounded Keys-to-Text Generation: Towards Factual Open-Ended Generation",
+  "authors": [
+    "Faeze Brahman",
+    "Baolin Peng",
+    "Michel Galley",
+    "Sudha Rao",
+    "Bill Dolan",
+    "Snigdha Chaturvedi",
+    "Jianfeng Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2022.findings-emnlp.547",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.547/"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Efficient Test Time Adapter Ensembling for Low-resource Language Varieties",
+  "authors": [
+    "Xinyi Wang",
+    "Yulia Tsvetkov",
+    "Sebastian Ruder",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Marathi",
+    "Bengali",
+    "Tamil",
+    "Bhojpuri",
+    "Icelandic",
+    "Faroese",
+    "Norwegian",
+    "Danish",
+    "Russian",
+    "Bulgarian",
+    "Ukrainian",
+    "Belorussian"
+  ],
+  "research_areas": [
+    "T11",
+    "T21"
+  ],
+  "paper_id": "2021.findings-emnlp.63",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.63/"
+}

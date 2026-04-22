@@ -1,0 +1,23 @@
+{
+  "title": "Dict-BERT: Enhancing Language Model Pre-training with Dictionary",
+  "authors": [
+    "Wenbao Yu",
+    "Chenguang Zhu",
+    "Yuwei Fang",
+    "Donghan Yu",
+    "Shuohang Wang",
+    "Yichong Xu",
+    "Michael Zeng",
+    "Meng Jiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2022.findings-acl.150",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.150/"
+}

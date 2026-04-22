@@ -1,0 +1,30 @@
+{
+  "title": "A Study in Improving BLEU Reference Coverage with Diverse Automatic Paraphrasing",
+  "authors": [
+    "Rachel Bawden",
+    "Biao Zhang",
+    "Lisa Yankovskaya",
+    "Andre Tättar",
+    "Matt Post"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Russian",
+    "Portuguese",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.82",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.82/"
+}

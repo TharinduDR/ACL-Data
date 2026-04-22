@@ -1,0 +1,18 @@
+{
+  "title": "Visuo-Linguistic Question Answering (VLQA) Challenge",
+  "authors": [
+    "Shailaja Keyur Sampat",
+    "Yezhou Yang",
+    "Chitta Baral"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.findings-emnlp.413",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.413/"
+}

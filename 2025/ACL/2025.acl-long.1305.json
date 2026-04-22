@@ -1,0 +1,26 @@
+{
+  "title": "StitchLLM: Serving LLMs, One Block at a Time",
+  "authors": [
+    "Bodun Hu",
+    "Shuozhe Li",
+    "Saurabh Agarwal",
+    "Myungjin Lee",
+    "Akshay Jajoo",
+    "Jiamin Li",
+    "Le Xu",
+    "Geon-Woo Kim",
+    "Donghyun Kim",
+    "Hong Xu",
+    "Amy Zhang",
+    "Aditya Akella"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-long.1305",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1305/"
+}

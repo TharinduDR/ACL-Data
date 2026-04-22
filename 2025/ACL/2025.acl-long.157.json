@@ -1,0 +1,20 @@
+{
+  "title": "A-TASC: Asian TED-Based Automatic Subtitling Corpus",
+  "authors": [
+    "Yuhan Zhou",
+    "Naoki Yoshinaga"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.157",
+  "acl_url": "https://aclanthology.org/2025.acl-long.157/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "HyKGE: A Hypothesis Knowledge Graph Enhanced RAG Framework for Accurate and Reliable Medical LLMs Responses",
+  "authors": [
+    "Xinke Jiang",
+    "Ruizhe Zhang",
+    "Yongxin Xu",
+    "Rihong Qiu",
+    "Yue Fang",
+    "Zhiyuan Wang",
+    "Jinyi Tang",
+    "Hongxin Ding",
+    "Xu Chu",
+    "Junfeng Zhao",
+    "Yasha Wang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-long.580",
+  "acl_url": "https://aclanthology.org/2025.acl-long.580/"
+}

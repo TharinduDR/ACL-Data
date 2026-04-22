@@ -1,0 +1,24 @@
+{
+  "title": "A Multilingual Multiway Evaluation Data Set for Structured Document Translation of Asian Languages",
+  "authors": [
+    "Bianka Buschbeck",
+    "Raj Dabre",
+    "Miriam Exel",
+    "Matthias Huck",
+    "Patrick Huy",
+    "Raphael Rubino",
+    "Hideki Tanaka"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Korean",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-aacl.23",
+  "acl_url": "https://aclanthology.org/2022.findings-aacl.23/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Combining (Second-Order) Graph-Based and Headed-Span-Based Projective Dependency Parsing",
+  "authors": [
+    "Songlin Yang",
+    "Kewei Tu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Dutch",
+    "Norwegian",
+    "Romanian",
+    "Russian",
+    "Spanish",
+    "Catalan",
+    "Czech"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.findings-acl.112",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.112/"
+}

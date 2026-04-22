@@ -1,0 +1,25 @@
+{
+  "title": "Rethinking Document-level Neural Machine Translation",
+  "authors": [
+    "Zewei Sun",
+    "Mingxuan Wang",
+    "Hao Zhou",
+    "Chengqi Zhao",
+    "Shujian Huang",
+    "Jiajun Chen",
+    "Lei Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-acl.279",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.279/"
+}

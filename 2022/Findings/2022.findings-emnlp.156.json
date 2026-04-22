@@ -1,0 +1,19 @@
+{
+  "title": "EdiT5: Semi-Autoregressive Text Editing with T5 Warm-Start",
+  "authors": [
+    "Jonathan Mallinson",
+    "Jakub Adamek",
+    "Eric Malmi",
+    "Aliaksei Severyn"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T29 NLP for education",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2022.findings-emnlp.156",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.156/"
+}

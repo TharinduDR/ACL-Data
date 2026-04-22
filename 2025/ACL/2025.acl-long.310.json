@@ -1,0 +1,23 @@
+{
+  "title": "What Is That Talk About? A Video-to-Text Summarization Dataset for Scientific Presentations",
+  "authors": [
+    "Dongqi Liu",
+    "Chenxi Whitehouse",
+    "Xi Yu",
+    "Louis Mahon",
+    "Rohit Saxena",
+    "Zheng Zhao",
+    "Yifu Qiu",
+    "Mirella Lapata",
+    "Vera Demberg"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.acl-long.310",
+  "acl_url": "https://aclanthology.org/2025.acl-long.310/"
+}

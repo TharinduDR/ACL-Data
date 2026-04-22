@@ -1,0 +1,22 @@
+{
+  "title": "Zero-shot Entity Linking with Less Data",
+  "authors": [
+    "G P Shrivatsa Bhargav",
+    "Dinesh Khandelwal",
+    "Saswati Dana",
+    "Dinesh Garg",
+    "Pavan Kapanipathi",
+    "Salim Roukos",
+    "Alexander Gray",
+    "L Venkata Subramaniam"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2022.findings-naacl.127",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.127/"
+}

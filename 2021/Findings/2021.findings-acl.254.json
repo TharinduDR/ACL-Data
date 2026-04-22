@@ -1,0 +1,36 @@
+{
+  "title": "MERGEDISTILL: Merging Pre-trained Language Models using Distillation",
+  "authors": [
+    "Simran Khanuja",
+    "Melvin Johnson",
+    "Partha Talukdar"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Spanish",
+    "Arabic",
+    "Chinese",
+    "Finnish",
+    "Turkish",
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Nepali",
+    "Punjabi",
+    "Tamil",
+    "Telugu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.findings-acl.254",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.254/"
+}

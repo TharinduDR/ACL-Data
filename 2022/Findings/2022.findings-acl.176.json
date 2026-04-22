@@ -1,0 +1,20 @@
+{
+  "title": "Your fairness may vary: Pretrained language model fairness in toxic text classification",
+  "authors": [
+    "Ioana Baldini",
+    "Dennis Wei",
+    "Karthikeyan Natesan Ramamurthy",
+    "Mikhail Yurochkin",
+    "Moninder Singh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-acl.176",
+  "acl_url": "https://aclanthology.org/2022.findings-acl.176/"
+}

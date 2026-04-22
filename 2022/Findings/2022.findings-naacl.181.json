@@ -1,0 +1,19 @@
+{
+  "title": "Context-Aware Language Modeling for Goal-Oriented Dialogue Systems",
+  "authors": [
+    "Charlie Snell",
+    "Mengjiao Yang",
+    "Justin Fu",
+    "Yi Su",
+    "Sergey Levine"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.findings-naacl.181",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.181/"
+}

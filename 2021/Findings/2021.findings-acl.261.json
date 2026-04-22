@@ -1,0 +1,22 @@
+{
+  "title": "Exploring Unsupervised Pretraining Objectives for Machine Translation",
+  "authors": [
+    "Christos Baziotis",
+    "Ivan Titov",
+    "Alexandra Birch",
+    "Barry Haddow"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Nepali",
+    "Sinhala"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.findings-acl.261",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.261/"
+}

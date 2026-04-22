@@ -1,0 +1,24 @@
+{
+  "title": "BanglaRQA: A Benchmark Dataset for Under-resourced Bangla Language Reading Comprehension-based Question Answering with Diverse Question-Answer Types",
+  "authors": [
+    "Syed Mohammed Sartaj Ekram",
+    "Adham Arik Rahman",
+    "Md. Sajid Altaf",
+    "Mohammed Saidul Islam",
+    "Mehrab Mustafy Rahman",
+    "Md Mezbaur Rahman",
+    "Md Azam Hossain",
+    "Abu Raihan Mostofa Kamal"
+  ],
+  "languages": [
+    "Bangla",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.findings-emnlp.186",
+  "acl_url": "https://aclanthology.org/2022.findings-emnlp.186/"
+}

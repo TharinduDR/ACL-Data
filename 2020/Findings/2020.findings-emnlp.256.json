@@ -1,0 +1,18 @@
+{
+  "title": "Target Conditioning for One-to-Many Generation",
+  "authors": [
+    "Marie-Anne Lachaux",
+    "Armand Joulin",
+    "Guillaume Lample"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.findings-emnlp.256",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.256/"
+}

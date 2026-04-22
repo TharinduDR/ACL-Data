@@ -1,0 +1,23 @@
+{
+  "title": "ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training",
+  "authors": [
+    "Weizhen Qi",
+    "Yu Yan",
+    "Yeyun Gong",
+    "Dayiheng Liu",
+    "Nan Duan",
+    "Jiusheng Chen",
+    "Ruofei Zhang",
+    "Ming Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2020.findings-emnlp.217",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.217/"
+}

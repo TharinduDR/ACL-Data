@@ -1,0 +1,22 @@
+{
+  "title": "Answering Complex Geographic Questions by Adaptive Reasoning with Visual Context and External Commonsense Knowledge",
+  "authors": [
+    "Fan Li",
+    "Jianxing Yu",
+    "Jielong Tang",
+    "Wenqing Chen",
+    "Hanjiang Lai",
+    "Yanghui Rao",
+    "Jian Yin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.acl-long.1239",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1239/"
+}

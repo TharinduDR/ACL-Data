@@ -1,0 +1,31 @@
+{
+  "title": "CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal Hallucinations Detection in Large Language Models",
+  "authors": [
+    "Yongheng Zhang",
+    "Xu Liu",
+    "Ruoxi Zhou",
+    "Qiguang Chen",
+    "Hao Fei",
+    "Wenpeng Lu",
+    "Libo Qin"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Croatian",
+    "Welsh",
+    "Swahili",
+    "Czech",
+    "Dutch",
+    "French",
+    "Spanish",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1485",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1485/"
+}

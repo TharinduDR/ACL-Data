@@ -1,0 +1,20 @@
+{
+  "title": "When Retriever-Reader Meets Scenario-Based Multiple-Choice Questions",
+  "authors": [
+    "Zixian Huang",
+    "Ao Wu",
+    "Yulin Shen",
+    "Gong Cheng",
+    "Yuzhong Qu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.findings-emnlp.84",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.84/"
+}

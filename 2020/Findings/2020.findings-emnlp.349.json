@@ -1,0 +1,22 @@
+{
+  "title": "Fluent and Low-latency Simultaneous Speech-to-Speech Translation with Self-adaptive Training",
+  "authors": [
+    "Renjie Zheng",
+    "Mingbo Ma",
+    "Baigong Zheng",
+    "Kaibo Liu",
+    "Jiahong Yuan",
+    "Kenneth Church",
+    "Liang Huang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.findings-emnlp.349",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.349/"
+}

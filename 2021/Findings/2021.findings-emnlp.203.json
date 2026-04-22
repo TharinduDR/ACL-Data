@@ -1,0 +1,20 @@
+{
+  "title": "Refining BERT Embeddings for Document Hashing via Mutual Information Maximization",
+  "authors": [
+    "Zijing Ou",
+    "Qinliang Su",
+    "Jianxing Yu",
+    "Ruihui Zhao",
+    "Yefeng Zheng",
+    "Bang Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2021.findings-emnlp.203",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.203/"
+}

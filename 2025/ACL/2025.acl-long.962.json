@@ -1,0 +1,19 @@
+{
+  "title": "GRACE: A Granular Benchmark for Evaluating Model Calibration Against Human Calibration",
+  "authors": [
+    "Yoo Yeon Sung",
+    "Eve Fleisig",
+    "Yu Hou",
+    "Ishan Upadhyay",
+    "Jordan Boyd-Graber"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.962",
+  "acl_url": "https://aclanthology.org/2025.acl-long.962/"
+}

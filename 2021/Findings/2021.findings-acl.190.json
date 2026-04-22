@@ -1,0 +1,22 @@
+{
+  "title": "Improving Event Causality Identification via Self-Supervised Representation Learning on External Causal Statement",
+  "authors": [
+    "Xinyu Zuo",
+    "Pengfei Cao",
+    "Yubo Chen",
+    "Kang Liu",
+    "Jun Zhao",
+    "Weihua Peng",
+    "Yuguang Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-acl.190",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.190/"
+}

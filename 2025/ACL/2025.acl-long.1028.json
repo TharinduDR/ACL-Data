@@ -1,0 +1,20 @@
+{
+  "title": "Language Model Fine-Tuning on Scaled Survey Data for Predicting Distributions of Public Opinions",
+  "authors": [
+    "Joseph Suh",
+    "Erfan Jahanparast",
+    "Suhong Moon",
+    "Minwoo Kang",
+    "Serina Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.acl-long.1028",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1028/"
+}

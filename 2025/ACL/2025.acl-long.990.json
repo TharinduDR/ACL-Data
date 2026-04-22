@@ -1,0 +1,24 @@
+{
+  "title": "AutoMixAlign: Adaptive Data Mixing for Multi-Task Preference Optimization in LLMs",
+  "authors": [
+    "Nicholas E. Corrado",
+    "Julian Katz-Samuels",
+    "Adithya Devraj",
+    "Hyokun Yun",
+    "Chao Zhang",
+    "Yi Xu",
+    "Yi Pan",
+    "Bing Yin",
+    "Trishul Chilimbi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.acl-long.990",
+  "acl_url": "https://aclanthology.org/2025.acl-long.990/"
+}

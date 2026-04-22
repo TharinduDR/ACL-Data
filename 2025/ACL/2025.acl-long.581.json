@@ -1,0 +1,26 @@
+{
+  "title": "LongRecipe: Recipe for Efficient Long Context Generalization in Large Language Models",
+  "authors": [
+    "Zhiyuan Hu",
+    "Yuliang Liu",
+    "Jinman Zhao",
+    "Suyuchen Wang",
+    "Yan Wang",
+    "Wei Shen",
+    "Qing Gu",
+    "Anh Tuan Luu",
+    "See-Kiong Ng",
+    "Zhiwei Jiang",
+    "Bryan Hooi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.acl-long.581",
+  "acl_url": "https://aclanthology.org/2025.acl-long.581/"
+}

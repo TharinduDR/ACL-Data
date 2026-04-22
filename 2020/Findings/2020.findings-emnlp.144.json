@@ -1,0 +1,22 @@
+{
+  "title": "Data-to-Text Generation with Style Imitation",
+  "authors": [
+    "Shuai Lin",
+    "Wentao Wang",
+    "Zichao Yang",
+    "Xiaodan Liang",
+    "Frank F. Xu",
+    "Eric P. Xing",
+    "Zhiting Hu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2020.findings-emnlp.144",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.144/"
+}

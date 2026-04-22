@@ -1,0 +1,20 @@
+{
+  "title": "Benchmarking Robustness of Machine Reading Comprehension Models",
+  "authors": [
+    "Chenglei Si",
+    "Ziqing Yang",
+    "Yiming Cui",
+    "Wentao Ma",
+    "Ting Liu",
+    "Shijin Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-acl.56",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.56/"
+}

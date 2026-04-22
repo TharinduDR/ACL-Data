@@ -1,0 +1,25 @@
+{
+  "title": "FastCorrect 2: Fast Error Correction on Multiple Candidates for Automatic Speech Recognition",
+  "authors": [
+    "Yichong Leng",
+    "Xu Tan",
+    "Rui Wang",
+    "Linchen Zhu",
+    "Jin Xu",
+    "Wenjie Liu",
+    "Linquan Liu",
+    "Xiang-Yang Li",
+    "Tao Qin",
+    "Edward Lin",
+    "Tie-Yan Liu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2021.findings-emnlp.367",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.367/"
+}

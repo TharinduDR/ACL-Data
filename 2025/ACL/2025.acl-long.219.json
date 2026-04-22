@@ -1,0 +1,31 @@
+{
+  "title": "Can LLMs Simulate L2-English Dialogue? An Information-Theoretic Analysis of L1-Dependent Biases",
+  "authors": [
+    "Rena Gao",
+    "Xuetong Wu",
+    "Tatsuki Kuribayashi",
+    "Mingrui Ye",
+    "Siya Qi",
+    "Carsten Roever",
+    "Yuanxing Liu",
+    "Zheng Yuan",
+    "Jey Han Lau"
+  ],
+  "languages": [
+    "Chinese",
+    "Cantonese",
+    "Japanese",
+    "Korean",
+    "Malay",
+    "Mandarin",
+    "Thai",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.acl-long.219",
+  "acl_url": "https://aclanthology.org/2025.acl-long.219/"
+}

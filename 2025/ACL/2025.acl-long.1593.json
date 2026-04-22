@@ -1,0 +1,20 @@
+{
+  "title": "AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment",
+  "authors": [
+    "Anastasiia Ivanova",
+    "Eva Bakaeva",
+    "Zoya Volovikova",
+    "Alexey K. Kovalev",
+    "Aleksandr I. Panov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.1593",
+  "acl_url": "https://aclanthology.org/2025.acl-long.1593/"
+}

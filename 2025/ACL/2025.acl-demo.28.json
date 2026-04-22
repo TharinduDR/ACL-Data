@@ -1,0 +1,23 @@
+{
+  "title": "LCDS: A Logic-Controlled Discharge Summary Generation System Supporting Source Attribution and Expert Review",
+  "authors": [
+    "Cheng Yuan",
+    "Xinkai Rui",
+    "Yongqi Fan",
+    "Yawei Fan",
+    "Boyang Zhong",
+    "Jiacheng Wang",
+    "Weiyang Zhang",
+    "Tong Ruan"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.acl-demo.28",
+  "acl_url": "https://aclanthology.org/2025.acl-demo.28/"
+}

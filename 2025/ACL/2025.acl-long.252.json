@@ -1,0 +1,26 @@
+{
+  "title": "Crowd Comparative Reasoning: Unlocking Comprehensive Evaluations for LLM-as-a-Judge",
+  "authors": [
+    "Qiyuan Zhang",
+    "Yufei Wang",
+    "Yuxin Jiang",
+    "Liangyou Li",
+    "Chuhan Wu",
+    "Yasheng Wang",
+    "Xin Jiang",
+    "Lifeng Shang",
+    "Ruiming Tang",
+    "Fuyuan Lyu",
+    "Chen Ma"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-long.252",
+  "acl_url": "https://aclanthology.org/2025.acl-long.252/"
+}

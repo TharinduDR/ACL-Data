@@ -1,0 +1,20 @@
+{
+  "title": "Dialogue in the Wild: Learning from a Deployed Role-Playing Game with Humans and Bots",
+  "authors": [
+    "Kurt Shuster",
+    "Jack Urbanek",
+    "Emily Dinan",
+    "Arthur Szlam",
+    "Jason Weston"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-acl.54",
+  "acl_url": "https://aclanthology.org/2021.findings-acl.54/"
+}

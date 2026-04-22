@@ -1,0 +1,22 @@
+{
+  "title": "WhiteningBERT: An Easy Unsupervised Sentence Embedding Approach",
+  "authors": [
+    "Junjie Huang",
+    "Duyu Tang",
+    "Wanjun Zhong",
+    "Shuai Lu",
+    "Linjun Shou",
+    "Ming Gong",
+    "Daxin Jiang",
+    "Nan Duan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.findings-emnlp.23",
+  "acl_url": "https://aclanthology.org/2021.findings-emnlp.23/"
+}

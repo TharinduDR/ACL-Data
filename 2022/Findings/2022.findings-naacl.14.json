@@ -1,0 +1,21 @@
+{
+  "title": "SemAttack: Natural Textual Attacks via Different Semantic Spaces",
+  "authors": [
+    "Boxin Wang",
+    "Chejian Xu",
+    "Xiangyu Liu",
+    "Yu Cheng",
+    "Bo Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.findings-naacl.14",
+  "acl_url": "https://aclanthology.org/2022.findings-naacl.14/"
+}

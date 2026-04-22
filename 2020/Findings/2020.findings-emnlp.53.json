@@ -1,0 +1,42 @@
+{
+  "title": "PBoS: Probabilistic Bag-of-Subwords for Generalizing Word Embedding",
+  "authors": [
+    "Zhao Jinman",
+    "Shawn Zhong",
+    "Xiaomin Zhang",
+    "Yingyu Liang"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Basque",
+    "Bulgarian",
+    "Chinese",
+    "Czech",
+    "Danish",
+    "English",
+    "Greek",
+    "Hebrew",
+    "Hindi",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Kazakh",
+    "Latvian",
+    "Persian",
+    "Romanian",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Tamil",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.findings-emnlp.53",
+  "acl_url": "https://aclanthology.org/2020.findings-emnlp.53/"
+}
