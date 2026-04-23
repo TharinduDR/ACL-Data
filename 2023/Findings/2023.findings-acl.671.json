@@ -1,0 +1,22 @@
+{
+  "title": "Knowing-how & Knowing-that: A New Task for Machine Reading Comprehension of User Manuals",
+  "authors": [
+    "Hongru Liang",
+    "Jia Liu",
+    "Weihong Du",
+    "dingnan jin",
+    "Wenqiang Lei",
+    "Zujie Wen",
+    "Jiancheng Lv"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-acl.671",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.671/"
+}

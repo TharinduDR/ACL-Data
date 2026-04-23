@@ -1,0 +1,23 @@
+{
+  "title": "Large Language Models with Controllable Working Memory",
+  "authors": [
+    "Daliang Li",
+    "Ankit Singh Rawat",
+    "Manzil Zaheer",
+    "Xin Wang",
+    "Michal Lukasik",
+    "Andreas Veit",
+    "Felix Yu",
+    "Sanjiv Kumar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.112",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.112/"
+}

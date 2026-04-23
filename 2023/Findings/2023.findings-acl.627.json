@@ -1,0 +1,24 @@
+{
+  "title": "INTapt: Information-Theoretic Adversarial Prompt Tuning for Enhanced Non-Native Speech Recognition",
+  "authors": [
+    "Eunseop Yoon",
+    "Hee Suk Yoon",
+    "John Harvill",
+    "Mark Hasegawa-Johnson",
+    "Chang D. Yoo"
+  ],
+  "languages": [
+    "Chinese",
+    "Hindi",
+    "Vietnamese",
+    "Korean",
+    "Spanish",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2023.findings-acl.627",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.627/"
+}

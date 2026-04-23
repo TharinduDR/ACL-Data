@@ -1,0 +1,28 @@
+{
+  "title": "Steering Large Language Models for Machine Translation with Finetuning and In-Context Learning",
+  "authors": [
+    "Duarte M. Alves",
+    "Nuno M. Guerreiro",
+    "João Alves",
+    "José Pombal",
+    "Ricardo Rei",
+    "José G. C. de Souza",
+    "Pierre Colombo",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Dutch",
+    "Portuguese",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.findings-emnlp.744",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.744/"
+}

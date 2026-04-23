@@ -1,0 +1,48 @@
+{
+  "title": "Not All Languages Are Created Equal in LLMs: Improving Multilingual Capability by Cross-Lingual-Thought Prompting",
+  "authors": [
+    "Haoyang Huang",
+    "Tianyi Tang",
+    "Dongdong Zhang",
+    "Wayne Xin Zhao",
+    "Ting Song",
+    "Yan Xia",
+    "Furu Wei"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Russian",
+    "French",
+    "Spanish",
+    "Japanese",
+    "Italian",
+    "Vietnamese",
+    "Turkish",
+    "Indonesian",
+    "Swahili",
+    "Arabic",
+    "Korean",
+    "Greek",
+    "Thai",
+    "Bulgarian",
+    "Hindi",
+    "Estonian",
+    "Bengali",
+    "Tamil",
+    "Galician",
+    "Urdu",
+    "Telugu",
+    "Javanese",
+    "Haitian Creole",
+    "Southern Quechua"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-emnlp.826",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.826/"
+}

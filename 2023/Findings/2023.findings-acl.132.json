@@ -1,0 +1,36 @@
+{
+  "title": "Nonparametric Masked Language Modeling",
+  "authors": [
+    "Sewon Min",
+    "Weijia Shi",
+    "Mike Lewis",
+    "Xilun Chen",
+    "Wen-tau Yih",
+    "Hannaneh Hajishirzi",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Greek",
+    "Hebrew",
+    "Russian",
+    "Japanese",
+    "Hindi",
+    "Korean",
+    "Polish",
+    "Turkish",
+    "Czech",
+    "Tamil",
+    "Mongolian",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.findings-acl.132",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.132/"
+}

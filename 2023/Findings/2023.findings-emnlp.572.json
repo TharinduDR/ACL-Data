@@ -1,0 +1,18 @@
+{
+  "title": "SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token",
+  "authors": [
+    "Ikhyun Cho",
+    "Yoonhwa Jung",
+    "Julia Hockenmaier"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14",
+    "T20",
+    "T21"
+  ],
+  "paper_id": "2023.findings-emnlp.572",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.572/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Dataset Bias Mitigation in Multiple-Choice Visual Question Answering and Beyond",
+  "authors": [
+    "Zhecan Wang",
+    "Long Chen",
+    "Haoxuan You",
+    "Keyang Xu",
+    "Yicheng He",
+    "Wenhao Li",
+    "Noel Codella",
+    "Kai-Wei Chang",
+    "Shih-Fu Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.findings-emnlp.576",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.576/"
+}

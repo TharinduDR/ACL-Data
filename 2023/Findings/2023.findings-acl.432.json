@@ -1,0 +1,20 @@
+{
+  "title": "Digging out Discrimination Information from Generated Samples for Robust Visual Question Answering",
+  "authors": [
+    "Zhiquan Wen",
+    "Yaowei Wang",
+    "Mingkui Tan",
+    "Qingyao Wu",
+    "Qi Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.findings-acl.432",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.432/"
+}

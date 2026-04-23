@@ -1,0 +1,22 @@
+{
+  "title": "Text Classification via Large Language Models",
+  "authors": [
+    "Xiaofei Sun",
+    "Xiaoya Li",
+    "Jiwei Li",
+    "Fei Wu",
+    "Shangwei Guo",
+    "Tianwei Zhang",
+    "Guoyin Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-emnlp.603",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.603/"
+}

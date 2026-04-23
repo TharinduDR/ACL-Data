@@ -1,0 +1,20 @@
+{
+  "title": "Watermarking LLMs with Weight Quantization",
+  "authors": [
+    "Linyang Li",
+    "Botian Jiang",
+    "Pengyu Wang",
+    "Ke Ren",
+    "Hang Yan",
+    "Xipeng Qiu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.220",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.220/"
+}

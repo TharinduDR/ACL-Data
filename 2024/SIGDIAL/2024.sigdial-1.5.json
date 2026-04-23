@@ -1,0 +1,22 @@
+{
+  "title": "ReALM: Reference Resolution As Language Modeling",
+  "authors": [
+    "Joel Ruben Antony Moniz",
+    "Soundarya Krishnan",
+    "Melis Ozyildirim",
+    "Prathamesh Saraf",
+    "Halim Cagri Ates",
+    "Yuan Zhang",
+    "Hong Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.sigdial-1.5",
+  "acl_url": "https://aclanthology.org/2024.sigdial-1.5/"
+}

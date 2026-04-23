@@ -1,0 +1,19 @@
+{
+  "title": "Class-Adaptive Self-Training for Relation Extraction with Incompletely Annotated Training Data",
+  "authors": [
+    "Qingyu Tan",
+    "Lu Xu",
+    "Lidong Bing",
+    "Hwee Tou Ng"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-acl.549",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.549/"
+}

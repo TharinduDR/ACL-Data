@@ -1,0 +1,18 @@
+{
+  "title": "HL Dataset: Visually-grounded Description of Scenes, Actions and Rationales",
+  "authors": [
+    "Michele Cafagna",
+    "Kees van Deemter",
+    "Albert Gatt"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.inlg-main.21",
+  "acl_url": "https://aclanthology.org/2023.inlg-main.21/"
+}

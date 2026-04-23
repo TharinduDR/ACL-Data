@@ -1,0 +1,26 @@
+{
+  "title": "The 2024 GEM Shared Task on Multilingual Data-to-Text Generation and Summarization: Overview and Preliminary Results",
+  "authors": [
+    "Simon Mille",
+    "João Sedoc",
+    "Yixin Liu",
+    "Elizabeth Clark",
+    "Agnes Axelsson",
+    "Miruna Cliniciu",
+    "Yufang Hou",
+    "Saad Mahamood",
+    "Ishmael Obonyo",
+    "Lining Zhang"
+  ],
+  "languages": [
+    "English",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.inlg-genchal.2",
+  "acl_url": "https://aclanthology.org/2024.inlg-genchal.2/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Approximating CKY with Transformers",
+  "authors": [
+    "Ghazal Khalighinejad",
+    "Ollie Liu",
+    "Sam Wiseman"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Korean"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-emnlp.934",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.934/"
+}

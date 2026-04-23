@@ -1,0 +1,23 @@
+{
+  "title": "In What Languages are Generative Language Models the Most Formal? Analyzing Formality Distribution across Languages",
+  "authors": [
+    "Asim Ersoy",
+    "Gerson Vizcarra",
+    "Tasmiah Tahsin Mayeesha",
+    "Benjamin Muller"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.175",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.175/"
+}

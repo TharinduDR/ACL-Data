@@ -1,0 +1,19 @@
+{
+  "title": "LOGIC-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning",
+  "authors": [
+    "Liangming Pan",
+    "Alon Albalak",
+    "Xinyi Wang",
+    "William Yang Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.findings-emnlp.248",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.248/"
+}

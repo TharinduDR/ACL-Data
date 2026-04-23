@@ -1,0 +1,21 @@
+{
+  "title": "RQUGE: Reference-Free Metric for Evaluating Question Generation by Answering the Question",
+  "authors": [
+    "Alireza Mohammadshahi",
+    "Thomas Scialom",
+    "Majid Yazdani",
+    "Pouya Yanki",
+    "Angela Fan",
+    "James Henderson",
+    "Marzieh Saeidi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.428",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.428/"
+}

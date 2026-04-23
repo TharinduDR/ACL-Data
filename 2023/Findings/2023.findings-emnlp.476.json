@@ -1,0 +1,23 @@
+{
+  "title": "Probing LLMs for Joint Encoding of Linguistic Categories",
+  "authors": [
+    "Giulio Starace",
+    "Konstantinos Papakostas",
+    "Rochelle Choenni",
+    "Apostolos Panagiotopoulos",
+    "Matteo Rosati",
+    "Alina Leidinger",
+    "Ekaterina Shutova"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Greek"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-emnlp.476",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.476/"
+}

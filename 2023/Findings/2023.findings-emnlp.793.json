@@ -1,0 +1,30 @@
+{
+  "title": "Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning",
+  "authors": [
+    "Zhuolin Yang",
+    "Wei Ping",
+    "Zihan Liu",
+    "Vijay Korthikanti",
+    "Weili Nie",
+    "De-An Huang",
+    "Linxi Fan",
+    "Zhiding Yu",
+    "Shiyi Lan",
+    "Bo Li",
+    "Mohammad Shoeybi",
+    "Ming-Yu Liu",
+    "Yuke Zhu",
+    "Bryan Catanzaro",
+    "Chaowei Xiao",
+    "Anima Anandkumar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.793",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.793/"
+}

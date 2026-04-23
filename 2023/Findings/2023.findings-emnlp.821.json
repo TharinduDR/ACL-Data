@@ -1,0 +1,19 @@
+{
+  "title": "BLM-s/IE: A structured dataset of English spray-load verb alternations for testing generalization in LLMs",
+  "authors": [
+    "Giuseppe Samo",
+    "Vivi Nastase",
+    "Chunyang Jiang",
+    "Paola Merlo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.821",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.821/"
+}

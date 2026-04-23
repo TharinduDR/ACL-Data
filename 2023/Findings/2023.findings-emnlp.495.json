@@ -1,0 +1,22 @@
+{
+  "title": "Improving Seq2Seq Grammatical Error Correction via Decoding Interventions",
+  "authors": [
+    "Houquan Zhou",
+    "Yumeng Liu",
+    "Zhenghua Li",
+    "Min Zhang",
+    "Bo Zhang",
+    "Chen Li",
+    "Ji Zhang",
+    "Fei Huang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.findings-emnlp.495",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.495/"
+}

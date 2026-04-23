@@ -1,0 +1,26 @@
+{
+  "title": "FORK: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models",
+  "authors": [
+    "Shramay Palta",
+    "Rachel Rudinger"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Cantonese",
+    "Japanese",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-acl.631",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.631/"
+}

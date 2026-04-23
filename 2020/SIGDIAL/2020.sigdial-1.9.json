@@ -1,0 +1,20 @@
+{
+  "title": "Commonsense Evidence Generation and Injection in Reading Comprehension",
+  "authors": [
+    "Ye Liu",
+    "Tao Yang",
+    "Zeyu You",
+    "Wei Fan",
+    "Philip S. Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.sigdial-1.9",
+  "acl_url": "https://aclanthology.org/2020.sigdial-1.9/"
+}

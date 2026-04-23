@@ -1,0 +1,28 @@
+{
+  "title": "SEGAUGMENT: Maximizing the Utility of Speech Translation Data with Segmentation-based Augmentations",
+  "authors": [
+    "Ioannis Tsiamas",
+    "José A. R. Fonollosa",
+    "Marta R. Costa-jussà"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Esperanto",
+    "Catalan"
+  ],
+  "research_areas": [
+    "T14",
+    "T16",
+    "T24"
+  ],
+  "paper_id": "2023.findings-emnlp.574",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.574/"
+}

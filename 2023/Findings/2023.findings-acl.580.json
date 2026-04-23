@@ -1,0 +1,25 @@
+{
+  "title": "AutoMoE: Heterogeneous Mixture-of-Experts with Adaptive Computation for Efficient Neural Machine Translation",
+  "authors": [
+    "Ganesh Jawahar",
+    "Subhabrata Mukherjee",
+    "Xiaodong Liu",
+    "Young Jin Kim",
+    "Muhammad Abdul-Mageed",
+    "Laks V.S. Lakshmanan",
+    "Ahmed Hassan Awadallah",
+    "Sebastien Bubeck",
+    "Jianfeng Gao"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-acl.580",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.580/"
+}

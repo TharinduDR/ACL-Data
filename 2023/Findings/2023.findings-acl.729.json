@@ -1,0 +1,19 @@
+{
+  "title": "Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting",
+  "authors": [
+    "Chen Chen",
+    "Yufei Wang",
+    "Aixin Sun",
+    "Bing Li",
+    "Kwok-Yan Lam"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-acl.729",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.729/"
+}

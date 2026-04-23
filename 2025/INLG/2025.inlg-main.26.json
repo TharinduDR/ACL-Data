@@ -1,0 +1,19 @@
+{
+  "title": "Fine-Tuning, Prompting and RAG for Knowledge Graph-to-Russian Text Generation. How do these Methods generalise to Out-of-Distribution Data?",
+  "authors": [
+    "Anna Nikiforovskaya",
+    "William Soto-Martinez",
+    "Evan Chapple",
+    "Claire Gardent"
+  ],
+  "languages": [
+    "Russian"
+  ],
+  "research_areas": [
+    "T13",
+    "T14",
+    "T16"
+  ],
+  "paper_id": "2025.inlg-main.26",
+  "acl_url": "https://aclanthology.org/2025.inlg-main.26/"
+}

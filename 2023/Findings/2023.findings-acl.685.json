@@ -1,0 +1,19 @@
+{
+  "title": "CaPE: Contrastive Parameter Ensembling for Reducing Hallucination in Abstractive Summarization",
+  "authors": [
+    "Prafulla Kumar Choubey",
+    "Alexander R. Fabbri",
+    "Jesse Vig",
+    "Chien-Sheng Wu",
+    "Wenhao Liu",
+    "Nazneen Rajani"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.findings-acl.685",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.685/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "CASSI: Contextual and Semantic Structure-based Interpolation Augmentation for Low-Resource NER",
+  "authors": [
+    "Tanmay Surana",
+    "Ho Thi Nga",
+    "Kyaw Zin Tun",
+    "Eng Siong Chng"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.findings-emnlp.651",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.651/"
+}

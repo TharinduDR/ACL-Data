@@ -1,0 +1,28 @@
+{
+  "title": "Global Structure Knowledge-Guided Relation Extraction Method for Visually-Rich Document",
+  "authors": [
+    "Xiangnan Chen",
+    "Qian Xiao",
+    "Juncheng Li",
+    "Duo Dong",
+    "Jun Lin",
+    "Xiaozhong Liu",
+    "Siliang Tang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "Spanish",
+    "French",
+    "Italian",
+    "German",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.findings-emnlp.107",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.107/"
+}

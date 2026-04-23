@@ -1,0 +1,20 @@
+{
+  "title": "kNN-CM: A Non-parametric Inference-Phase Adaptation of Parametric Text Classifiers",
+  "authors": [
+    "Rishabh Bhardwaj",
+    "Yingting Li",
+    "Navonil Majumder",
+    "Bo Cheng",
+    "Soujanya Poria"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T20 Opinion & Argument Mining, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.findings-emnlp.903",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.903/"
+}

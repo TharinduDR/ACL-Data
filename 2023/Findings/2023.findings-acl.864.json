@@ -1,0 +1,20 @@
+{
+  "title": "Wasserstein-Fisher-Rao Embedding: Logical Query Embeddings with Local Comparison and Global Transport",
+  "authors": [
+    "Zihao Wang",
+    "Weizhi Fei",
+    "Hang Yin",
+    "Yangqiu Song",
+    "Ginny Y. Wong",
+    "Simon See"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-acl.864",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.864/"
+}

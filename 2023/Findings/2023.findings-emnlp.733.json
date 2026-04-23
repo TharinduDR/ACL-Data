@@ -1,0 +1,21 @@
+{
+  "title": "Toward Human Readable Prompt Tuning: Kubrick's The Shining is a good movie, and a good prompt too?",
+  "authors": [
+    "Weijia Shi",
+    "Xiaochuang Han",
+    "Hila Gonen",
+    "Ari Holtzman",
+    "Yulia Tsvetkov",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-emnlp.733",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.733/"
+}

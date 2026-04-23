@@ -1,0 +1,19 @@
+{
+  "title": "AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese",
+  "authors": [
+    "Abhijnan Nath",
+    "Sheikh Mannan",
+    "Nikhil Krishnaswamy"
+  ],
+  "languages": [
+    "Assamese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.findings-acl.739",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.739/"
+}

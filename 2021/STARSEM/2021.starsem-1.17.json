@@ -1,0 +1,19 @@
+{
+  "title": "Multilingual Neural Semantic Parsing for Low-Resourced Languages",
+  "authors": [
+    "Menglin Xia",
+    "Emilio Monti"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.starsem-1.17",
+  "acl_url": "https://aclanthology.org/2021.starsem-1.17/"
+}

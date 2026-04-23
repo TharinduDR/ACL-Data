@@ -1,0 +1,21 @@
+{
+  "title": "MTCUE: Learning Zero-Shot Control of Extra-Textual Attributes by Leveraging Unstructured Context in Neural Machine Translation",
+  "authors": [
+    "Sebastian Vincent",
+    "Robert Flynn",
+    "Carolina Scarton"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Polish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.521",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.521/"
+}

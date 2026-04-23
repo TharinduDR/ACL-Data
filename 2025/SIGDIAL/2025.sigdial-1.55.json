@@ -1,0 +1,47 @@
+{
+  "title": "Open-Source Large Language Models as Multilingual Crowdworkers: Synthesizing Open-Domain Dialogues in Several Languages With No Examples in Targets and No Machine Translation",
+  "authors": [
+    "Ahmed Njifenjou",
+    "Virgile Sucal",
+    "Bassam Jabaian",
+    "Fabrice Lefèvre"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Italian",
+    "Dutch",
+    "German",
+    "Chinese",
+    "Japanese",
+    "Russian",
+    "Turkish",
+    "Arabic",
+    "Persian",
+    "Vietnamese",
+    "Indonesian",
+    "Korean",
+    "Swedish",
+    "Hungarian",
+    "Greek",
+    "Ukrainian",
+    "Danish",
+    "Finnish",
+    "Croatian",
+    "Thai",
+    "Hindi",
+    "Bengali",
+    "Afrikaans",
+    "Swahili",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T03",
+    "T14",
+    "T08"
+  ],
+  "paper_id": "2025.sigdial-1.55",
+  "acl_url": "https://aclanthology.org/2025.sigdial-1.55/"
+}

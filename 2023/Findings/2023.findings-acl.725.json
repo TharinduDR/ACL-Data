@@ -1,0 +1,23 @@
+{
+  "title": "HyperPELT: Unified Parameter-Efficient Language Model Tuning for Both Language and Vision-and-Language Tasks",
+  "authors": [
+    "Zhengkun Zhang",
+    "Wenya Guo",
+    "Xiaojun Meng",
+    "Yasheng Wang",
+    "Yadao Wang",
+    "Xin Jiang",
+    "Qun Liu",
+    "Zhenglu Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.725",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.725/"
+}

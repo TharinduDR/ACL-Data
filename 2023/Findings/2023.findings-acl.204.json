@@ -1,0 +1,20 @@
+{
+  "title": "WYWEB: A NLP Evaluation Benchmark For Classical Chinese",
+  "authors": [
+    "Bo Zhou",
+    "Qianglong Chen",
+    "Tianyu Wang",
+    "Xiaomi Zhong",
+    "Yin Zhang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.findings-acl.204",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.204/"
+}

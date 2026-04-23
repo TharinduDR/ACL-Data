@@ -1,0 +1,24 @@
+{
+  "title": "Multilingual Multi-Figurative Language Detection",
+  "authors": [
+    "Huiyuan Lai",
+    "Antonio Toral",
+    "Malvina Nissim"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Spanish",
+    "Italian",
+    "Persian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2023.findings-acl.589",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.589/"
+}

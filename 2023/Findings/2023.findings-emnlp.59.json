@@ -1,0 +1,24 @@
+{
+  "title": "DELUCIONQA: Detecting Hallucinations in Domain-specific Question Answering",
+  "authors": [
+    "Mobashir Sadat",
+    "Zhengyu Zhou",
+    "Lukas Lange",
+    "Jun Araki",
+    "Arsalan Gundroo",
+    "Bingqing Wang",
+    "Rakesh R Menon",
+    "Md Rizwan Parvez",
+    "Zhe Feng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2023.findings-emnlp.59",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.59/"
+}

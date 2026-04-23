@@ -1,0 +1,22 @@
+{
+  "title": "LightFormer: Light-weight Transformer Using SVD-based Weight Transfer and Parameter Sharing",
+  "authors": [
+    "Xiuqing Lu",
+    "Peng Zhang",
+    "Sunzhu Li",
+    "Guobing Gan",
+    "Yueheng Sun"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.findings-acl.656",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.656/"
+}

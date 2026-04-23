@@ -1,0 +1,17 @@
+{
+  "title": "HierarchicalContrast: A Coarse-to-Fine Contrastive Learning Framework for Cross-Domain Zero-Shot Slot Filling",
+  "authors": [
+    "Junwen Zhang",
+    "Yin Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-emnlp.965",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.965/"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "SELECTNOISE: Unsupervised Noise Injection to Enable Zero-Shot Machine Translation for Extremely Low-resource Languages",
+  "authors": [
+    "Maharaj Brahma",
+    "Kaushal Kumar Maurya",
+    "Maunendra Sankar Desarkar"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bhojpuri",
+    "Chhattisgarhi",
+    "Kashmiri",
+    "Magahi",
+    "Maithili",
+    "Nepali",
+    "Sanskrit",
+    "Asturian",
+    "Catalan",
+    "Galician",
+    "Occitan",
+    "Bodo",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.109",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.109/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SAC³: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency",
+  "authors": [
+    "Jiaxin Zhang",
+    "Zhuohang Li",
+    "Kamalika Das",
+    "Bradley Malin",
+    "Sricharan Kumar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-emnlp.1032",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.1032/"
+}

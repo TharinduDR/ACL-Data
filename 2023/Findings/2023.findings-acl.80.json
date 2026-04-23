@@ -1,0 +1,20 @@
+{
+  "title": "BANGLABOOK: A Large-scale Bangla Dataset for Sentiment Analysis from Book Reviews",
+  "authors": [
+    "Mohsinul Kabir",
+    "Obayed Bin Mahfuz",
+    "Syed Rifat Raiyan",
+    "Hasan Mahmud",
+    "Md Kamrul Hasan"
+  ],
+  "languages": [
+    "Bangla"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2023.findings-acl.80",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.80/"
+}

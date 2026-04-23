@@ -1,0 +1,20 @@
+{
+  "title": "SGP-TOD: Building Task Bots Effortlessly via Schema-Guided LLM Prompting",
+  "authors": [
+    "Xiaoying Zhang",
+    "Baolin Peng",
+    "Kun Li",
+    "Jingyan Zhou",
+    "Helen Meng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.891",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.891/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "DSP: Discriminative Soft Prompts for Zero-Shot Entity and Relation Extraction",
+  "authors": [
+    "Bo Lv",
+    "Xin Liu",
+    "Shaojie Dai",
+    "Nayu Liu",
+    "Fan Yang",
+    "Ping Luo",
+    "Yue Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-acl.339",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.339/"
+}

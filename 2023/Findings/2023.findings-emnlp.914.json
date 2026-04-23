@@ -1,0 +1,21 @@
+{
+  "title": "DepNeCTI: Dependency-based Nested Compound Type Identification for Sanskrit",
+  "authors": [
+    "Jivnesh Sandhan",
+    "Yaswanth Narsupalli",
+    "Sreevatsa Muppirala",
+    "Sriram Krishnan",
+    "Pavankumar Satuluri",
+    "Amba Kulkarni",
+    "Pawan Goyal"
+  ],
+  "languages": [
+    "Sanskrit"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-emnlp.914",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.914/"
+}

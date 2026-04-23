@@ -1,0 +1,22 @@
+{
+  "title": "SQLPrompt: In-Context Text-to-SQL with Minimal Labeled Data",
+  "authors": [
+    "Ruoxi Sun",
+    "Sercan Ö. Arik",
+    "Rajarishi Sinha",
+    "Hootan Nakhost",
+    "Hanjun Dai",
+    "Pengcheng Yin",
+    "Tomas Pfister"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.findings-emnlp.39",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.39/"
+}

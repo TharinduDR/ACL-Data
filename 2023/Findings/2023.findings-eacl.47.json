@@ -1,0 +1,20 @@
+{
+  "title": "Active Learning for Multilingual Semantic Parser",
+  "authors": [
+    "Zhuang Li",
+    "Gholamreza Haffari"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Thai",
+    "Greek"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.findings-eacl.47",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.47/"
+}

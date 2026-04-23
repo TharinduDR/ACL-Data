@@ -1,0 +1,23 @@
+{
+  "title": "Prompt-Guided Turn-Taking Prediction",
+  "authors": [
+    "Koji Inoue",
+    "Mikey Elmers",
+    "Yahui Fu",
+    "Zi Haur Pang",
+    "Divesh Lala",
+    "Keiko Ochi",
+    "Tatsuya Kawahara"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.sigdial-1.9",
+  "acl_url": "https://aclanthology.org/2025.sigdial-1.9/"
+}

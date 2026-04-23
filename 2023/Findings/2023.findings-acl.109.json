@@ -1,0 +1,21 @@
+{
+  "title": "Cross-lingual AMR Aligner: Paying Attention to Cross-Attention",
+  "authors": [
+    "Abelardo Carlos Martínez Lorenzo",
+    "Pere-Lluís Huguet Cabot",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-acl.109",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.109/"
+}

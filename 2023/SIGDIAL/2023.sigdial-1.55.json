@@ -1,0 +1,27 @@
+{
+  "title": "FurChat: An Embodied Conversational Agent using LLMs, Combining Open and Closed-Domain Dialogue with Facial Expressions",
+  "authors": [
+    "Neeraj Cherakara",
+    "Finny Varghese",
+    "Sheena Shabana",
+    "Nivan Nelson",
+    "Abhiram Karukayil",
+    "Rohith Kulothungan",
+    "Mohammed Afil Farhan",
+    "Birthe Nessel",
+    "Meriam Moujahid",
+    "Tanvi Dinkar",
+    "Verena Rieser",
+    "Oliver Lemon"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.sigdial-1.55",
+  "acl_url": "https://aclanthology.org/2023.sigdial-1.55/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "ViDeBERTa: A powerful pre-trained language model for Vietnamese",
+  "authors": [
+    "Cong Dao Tran",
+    "Nhut Huy Pham",
+    "Anh Nguyen",
+    "Truong Son Hy",
+    "Tu Vu"
+  ],
+  "languages": [
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.findings-eacl.79",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.79/"
+}

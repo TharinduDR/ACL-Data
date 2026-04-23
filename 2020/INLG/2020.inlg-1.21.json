@@ -1,0 +1,21 @@
+{
+  "title": "Market Comment Generation from Data with Noisy Alignments",
+  "authors": [
+    "Yumi Hamazono",
+    "Yui Uehara",
+    "Hiroshi Noji",
+    "Yusuke Miyao",
+    "Hiroya Takamura",
+    "Ichiro Kobayashi"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.inlg-1.21",
+  "acl_url": "https://aclanthology.org/2020.inlg-1.21/"
+}

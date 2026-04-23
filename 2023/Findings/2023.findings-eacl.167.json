@@ -1,0 +1,23 @@
+{
+  "title": "Performance and Risk Trade-offs for Multi-word Text Prediction at Scale",
+  "authors": [
+    "Aniket Vashishtha",
+    "S Sai Krishna Prasad",
+    "Payal Bajaj",
+    "Vishrav Chaudhary",
+    "Kate Cook",
+    "Sandipan Dandapat",
+    "Sunayana Sitaram",
+    "Monojit Choudhury"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-eacl.167",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.167/"
+}

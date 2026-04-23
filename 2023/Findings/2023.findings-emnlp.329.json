@@ -1,0 +1,19 @@
+{
+  "title": "Bayesian Multi-Task Transfer Learning for Soft Prompt Tuning",
+  "authors": [
+    "Haeju Lee",
+    "Minchan Jeong",
+    "Se-Young Yun",
+    "Kee-Eung Kim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.findings-emnlp.329",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.329/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Generative Zero-Shot Prompt Learning for Cross-Domain Slot Filling with Inverse Prompting",
+  "authors": [
+    "Xuefeng Li",
+    "Liwen Wang",
+    "Guanting Dong",
+    "Keqing He",
+    "Jinzheng Zhao",
+    "Hao Lei",
+    "Jiachi Liu",
+    "Weiran Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-acl.52",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.52/"
+}

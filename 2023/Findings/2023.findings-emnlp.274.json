@@ -1,0 +1,21 @@
+{
+  "title": "Using LLM for Improving Key Event Discovery: Temporal-Guided News Stream Clustering with Event Summaries",
+  "authors": [
+    "Nishanth Nakshatri",
+    "Siyi Liu",
+    "Sihao Chen",
+    "Daniel J. Hopkins",
+    "Dan Roth",
+    "Dan Goldwasser"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.274",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.274/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Learn Your Tokens: Word-Pooled Tokenization for Language Modeling",
+  "authors": [
+    "Avijit Thawani",
+    "Saurabh Ghanekar",
+    "Xiaoyuan Zhu",
+    "Jay Pujara"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-emnlp.662",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.662/"
+}

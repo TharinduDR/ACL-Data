@@ -1,0 +1,22 @@
+{
+  "title": "Bi-Drop: Enhancing Fine-tuning Generalization via Synchronous sub-net Estimation and Optimization",
+  "authors": [
+    "Shoujie Tong",
+    "Heming Xia",
+    "Damai Dai",
+    "Runxin Xu",
+    "Tianyu Liu",
+    "Binghuai Lin",
+    "Yunbo Cao",
+    "Zhifang Sui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.346",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.346/"
+}

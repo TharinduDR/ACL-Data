@@ -1,0 +1,27 @@
+{
+  "title": "Towards Zero-Shot Multilingual Synthetic Question and Answer Generation for Cross-Lingual Reading Comprehension",
+  "authors": [
+    "Siamak Shakeri",
+    "Noah Constant",
+    "Mihir Sanjay Kale",
+    "Linting Xue"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "German",
+    "Hindi",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.inlg-1.4",
+  "acl_url": "https://aclanthology.org/2021.inlg-1.4/"
+}

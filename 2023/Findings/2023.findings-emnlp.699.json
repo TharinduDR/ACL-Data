@@ -1,0 +1,23 @@
+{
+  "title": "Improving Low-resource Question Answering by Augmenting Question Information",
+  "authors": [
+    "Andong Chen",
+    "Yuan Sun",
+    "Xiaobing Zhao",
+    "Rosella P. Galindo Esparza",
+    "Kehai Chen",
+    "Yang Xiang",
+    "Tiejun Zhao",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.699",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.699/"
+}

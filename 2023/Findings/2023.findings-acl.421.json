@@ -1,0 +1,21 @@
+{
+  "title": "Residual Prompt Tuning: Improving Prompt Tuning with Residual Reparameterization",
+  "authors": [
+    "Anastasia Razdaibiedina",
+    "Yuning Mao",
+    "Madian Khabsa",
+    "Mike Lewis",
+    "Rui Hou",
+    "Jimmy Ba",
+    "Amjad Almahairi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.421",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.421/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Universal Domain Adaptation for Robust Handling of Distributional Shifts in NLP",
+  "authors": [
+    "Hyuhng Joon Kim",
+    "Hyunsoo Cho",
+    "Sang-Woo Lee",
+    "Junyeob Kim",
+    "Choonghyun Park",
+    "Sang-goo Lee",
+    "Kang Min Yoo",
+    "Taeuk Kim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.findings-emnlp.392",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.392/"
+}

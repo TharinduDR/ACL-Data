@@ -1,0 +1,22 @@
+{
+  "title": "NERvous About My Health: Constructing a Bengali Medical Named Entity Recognition Dataset",
+  "authors": [
+    "Alvi Aveen Khan",
+    "Fida Kamal",
+    "Nuzhat Nower",
+    "Tasnim Ahmed",
+    "Sabbir Ahmed",
+    "Tareque Mohmud Chowdhury"
+  ],
+  "languages": [
+    "Bengali",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.383",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.383/"
+}

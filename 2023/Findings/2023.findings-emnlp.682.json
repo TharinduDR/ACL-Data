@@ -1,0 +1,29 @@
+{
+  "title": "CCEval: A Representative Evaluation Benchmark for the Chinese-centric Multilingual Machine Translation",
+  "authors": [
+    "Lianzhang Lou",
+    "Xi Yin",
+    "Yutao Xie",
+    "Yang Xiang"
+  ],
+  "languages": [
+    "Chinese",
+    "Mongolian",
+    "Lao",
+    "Portuguese",
+    "Polish",
+    "Czech",
+    "Turkish",
+    "Italian",
+    "Russian",
+    "Arabic",
+    "Greek",
+    "Croatian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.682",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.682/"
+}

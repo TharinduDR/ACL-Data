@@ -1,0 +1,21 @@
+{
+  "title": "DiffuDetox: A Mixed Diffusion Model for Text Detoxification",
+  "authors": [
+    "Griffin Floto",
+    "Mohammad Mahdi Abdollah Pour",
+    "Parsa Farinneya",
+    "Zhenwei Tang",
+    "Ali Pesaranghader",
+    "Manasa Bharadwaj",
+    "Scott Sanner"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-acl.478",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.478/"
+}

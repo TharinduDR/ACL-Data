@@ -1,0 +1,19 @@
+{
+  "title": "The Role of Output Vocabulary in T2T LMs for SPARQL Semantic Parsing",
+  "authors": [
+    "Debayan Banerjee",
+    "Pranav Ajit Nair",
+    "Ricardo Usbeck",
+    "Chris Biemann"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-acl.774",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.774/"
+}

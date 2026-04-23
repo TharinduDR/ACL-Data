@@ -1,0 +1,19 @@
+{
+  "title": "Evaluating Dependencies in Fact Editing for Language Models: Specificity and Implication Awareness",
+  "authors": [
+    "Zichao Li",
+    "Ines Arous",
+    "Siva Reddy",
+    "Jackie C.K. Cheung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-emnlp.511",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.511/"
+}

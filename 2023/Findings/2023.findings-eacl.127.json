@@ -1,0 +1,21 @@
+{
+  "title": "Machine Translation between Spoken Languages and Signed Languages Represented in SignWriting",
+  "authors": [
+    "Zifan Jiang",
+    "Amit Moryossef",
+    "Mathias Müller",
+    "Sarah Ebling"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.findings-eacl.127",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.127/"
+}

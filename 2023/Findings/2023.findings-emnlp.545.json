@@ -1,0 +1,41 @@
+{
+  "title": "Isotropic Representation Can Improve Zero-Shot Cross-Lingual Transfer on Multilingual Language Models",
+  "authors": [
+    "Yixin Ji",
+    "Jikai Wang",
+    "Juntao Li",
+    "Hai Ye",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Japanese",
+    "Korean",
+    "Chinese",
+    "Arabic",
+    "Russian",
+    "Thai",
+    "Turkish",
+    "Urdu",
+    "Vietnamese",
+    "Hindi",
+    "Swahili",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-emnlp.545",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.545/"
+}

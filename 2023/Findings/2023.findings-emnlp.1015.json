@@ -1,0 +1,31 @@
+{
+  "title": "T-Projection: High Quality Annotation Projection for Sequence Labeling Tasks",
+  "authors": [
+    "Iker García-Ferrero",
+    "Rodrigo Agerri",
+    "German Rigau"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Italian",
+    "Russian",
+    "Portuguese",
+    "Swahili",
+    "Zulu",
+    "Xhosa",
+    "Igbo",
+    "Chichewa",
+    "Kiswahili",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.findings-emnlp.1015",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.1015/"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Interpreting Indirect Answers to Yes-No Questions in Multiple Languages",
+  "authors": [
+    "Zijie Wang",
+    "Md Mosharaf Hossain",
+    "Shivam Mathur",
+    "Terry Cruz Melo",
+    "Kadir Bulut Ozler",
+    "Keun Hee Park",
+    "Jacob Quintero",
+    "Mohammad Hossein Rezaei",
+    "Shreya Nupur Shakya",
+    "Md Nayem Uddin",
+    "Eduardo Blanco"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Korean",
+    "Chinese",
+    "Turkish",
+    "Spanish",
+    "Nepali",
+    "Persian"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.146",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.146/"
+}

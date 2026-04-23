@@ -1,0 +1,23 @@
+{
+  "title": "Exploring the Relationship between Alignment and Cross-lingual Transfer in Multilingual Transformers",
+  "authors": [
+    "Félix Gaschi",
+    "Patricio Cerda",
+    "Parisa Rastin",
+    "Yannick Toussaint"
+  ],
+  "languages": [
+    "Arabic",
+    "Spanish",
+    "French",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-acl.189",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.189/"
+}

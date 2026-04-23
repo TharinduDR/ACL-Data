@@ -1,0 +1,51 @@
+{
+  "title": "A Joint Matrix Factorization Analysis of Multilingual Representations",
+  "authors": [
+    "Zheng Zhao",
+    "Yftah Ziser",
+    "Bonnie Webber",
+    "Shay B. Cohen"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Catalan",
+    "Chinese",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "Galician",
+    "German",
+    "Greek",
+    "Hebrew",
+    "Hindi",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Slovak",
+    "Slovenian",
+    "Spanish",
+    "Swedish",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-emnlp.851",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.851/"
+}

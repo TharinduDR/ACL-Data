@@ -1,0 +1,21 @@
+{
+  "title": "A Frustratingly Easy Plug-and-Play Detection-and-Reasoning Module for Chinese Spelling Check",
+  "authors": [
+    "Haojing Huang",
+    "Jingheng Ye",
+    "Qingyu Zhou",
+    "Yinghui Li",
+    "Yangning Li",
+    "Feng Zhou",
+    "Hai-Tao Zheng"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-emnlp.771",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.771/"
+}

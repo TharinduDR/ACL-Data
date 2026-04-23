@@ -1,0 +1,26 @@
+{
+  "title": "Understanding Translationese in Cross-Lingual Summarization",
+  "authors": [
+    "Jiaan Wang",
+    "Fandong Meng",
+    "Yunlong Liang",
+    "Tingyi Zhang",
+    "Jiarong Xu",
+    "Zhixu Li",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Russian",
+    "Czech",
+    "French"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2023.findings-emnlp.250",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.250/"
+}

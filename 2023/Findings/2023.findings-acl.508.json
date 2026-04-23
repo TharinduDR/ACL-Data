@@ -1,0 +1,19 @@
+{
+  "title": "Prosody-TTS: Improving Prosody with Masked Autoencoder and Conditional Diffusion Model For Expressive Text-to-Speech",
+  "authors": [
+    "Rongjie Huang",
+    "Chunlei Zhang",
+    "Yi Ren",
+    "Zhou Zhao",
+    "Dong Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2023.findings-acl.508",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.508/"
+}

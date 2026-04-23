@@ -1,0 +1,23 @@
+{
+  "title": "Using In-Context Learning to Improve Dialogue Safety",
+  "authors": [
+    "Nicholas Meade",
+    "Spandana Gella",
+    "Devamanyu Hazarika",
+    "Prakhar Gupta",
+    "Di Jin",
+    "Siva Reddy",
+    "Yang Liu",
+    "Dilek Hakkani-Tür"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.796",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.796/"
+}

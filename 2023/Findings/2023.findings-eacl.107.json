@@ -1,0 +1,26 @@
+{
+  "title": "Language Model Decoding as Likelihood–Utility Alignment",
+  "authors": [
+    "Martin Josifoski",
+    "Maxime Peyrard",
+    "Frano Rajic",
+    "Jiheng Wei",
+    "Debjit Paul",
+    "Valentin Hartmann",
+    "Barun Patra",
+    "Vishrav Chaudhary",
+    "Emre Kiciman",
+    "Boi Faltings",
+    "Robert West"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2023.findings-eacl.107",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.107/"
+}

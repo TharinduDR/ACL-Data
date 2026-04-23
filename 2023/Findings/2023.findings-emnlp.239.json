@@ -1,0 +1,22 @@
+{
+  "title": "Watermarking PLMs on Classification Tasks by Combining Contrastive Learning with Weight Perturbation",
+  "authors": [
+    "Chenxi Gu",
+    "Xiaoqing Zheng",
+    "Jianhan Xu",
+    "Muling Wu",
+    "Cenyuan Zhang",
+    "Chengsong Huang",
+    "Hua Cai",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2023.findings-emnlp.239",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.239/"
+}

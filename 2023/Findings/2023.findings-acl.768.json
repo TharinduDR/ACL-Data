@@ -1,0 +1,19 @@
+{
+  "title": "Expand, Rerank, and Retrieve: Query Reranking for Open-Domain Question Answering",
+  "authors": [
+    "Yung-Sung Chuang",
+    "Wei Fang",
+    "Shang-Wen Li",
+    "Wen-tau Yih",
+    "James Glass"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.findings-acl.768",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.768/"
+}

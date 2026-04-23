@@ -1,0 +1,24 @@
+{
+  "title": "Scaling Laws vs Model Architectures: How Does Inductive Bias Influence Scaling?",
+  "authors": [
+    "Yi Tay",
+    "Mostafa Dehghani",
+    "Samira Abnar",
+    "Hyung Won Chung",
+    "William Fedus",
+    "Jinfeng Rao",
+    "Sharan Narang",
+    "Vinh Q. Tran",
+    "Dani Yogatama",
+    "Donald Metzler"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.825",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.825/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Exploring Enhanced Code-Switched Noising for Pretraining in Neural Machine Translation",
+  "authors": [
+    "Vivek Iyer",
+    "Arturo Oncevay",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Italian",
+    "German",
+    "Russian",
+    "Estonian",
+    "Finnish",
+    "Hungarian",
+    "Hindi",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.findings-eacl.72",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.72/"
+}

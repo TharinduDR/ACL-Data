@@ -1,0 +1,19 @@
+{
+  "title": "A Unified Knowledge Graph Augmentation Service for Boosting Domain-specific NLP Tasks",
+  "authors": [
+    "Ruiqing Ding",
+    "Xiao Han",
+    "Leye Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2023.findings-acl.24",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.24/"
+}

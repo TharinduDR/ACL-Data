@@ -1,0 +1,31 @@
+{
+  "title": "Speech-to-Speech Translation for a Real-world Unwritten Language",
+  "authors": [
+    "Peng-Jen Chen",
+    "Kevin Tran",
+    "Yilin Yang",
+    "Jingfei Du",
+    "Justine Kao",
+    "Yu-An Chung",
+    "Paden Tomasello",
+    "Paul-Ambroise Duquenne",
+    "Holger Schwenk",
+    "Hongyu Gong",
+    "Hirofumi Inaguma",
+    "Sravya Popuri",
+    "Changhan Wang",
+    "Juan Pino",
+    "Wei-Ning Hsu",
+    "Ann Lee"
+  ],
+  "languages": [
+    "English",
+    "Hokkien"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.findings-acl.307",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.307/"
+}

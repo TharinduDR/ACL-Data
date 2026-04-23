@@ -1,0 +1,21 @@
+{
+  "title": "MCC-KD: Multi-CoT Consistent Knowledge Distillation",
+  "authors": [
+    "Hongzhan Chen",
+    "Siyue Wu",
+    "Xiaojun Quan",
+    "Rui Wang",
+    "Ming Yan",
+    "Ji Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-emnlp.454",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.454/"
+}

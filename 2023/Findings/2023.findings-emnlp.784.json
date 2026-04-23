@@ -1,0 +1,18 @@
+{
+  "title": "Context Quality Matters in Training Fusion-in-Decoder for Extractive Open-Domain Question Answering",
+  "authors": [
+    "Kosuke Akimoto",
+    "Kunihiro Takeoka",
+    "Masafumi Oyamada"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-emnlp.784",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.784/"
+}

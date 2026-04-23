@@ -1,0 +1,22 @@
+{
+  "title": "Type Enhanced BERT for Correcting NER Errors",
+  "authors": [
+    "Kuai Li",
+    "Chen Chen",
+    "Tao Yang",
+    "Tianming Du",
+    "Peijie Yu",
+    "Dong Du",
+    "Feng Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.findings-acl.445",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.445/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "ViLPAct: A Benchmark for Compositional Generalization on Multimodal Human Activities",
+  "authors": [
+    "Terry Yue Zhuo",
+    "Yaqing Liao",
+    "Yuecheng Lei",
+    "Lizhen Qu",
+    "Gerard de Melo",
+    "Xiaojun Chang",
+    "Yazhou Ren",
+    "Zenglin Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.findings-eacl.164",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.164/"
+}

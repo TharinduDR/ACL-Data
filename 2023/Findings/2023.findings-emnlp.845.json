@@ -1,0 +1,26 @@
+{
+  "title": "Cultural Compass: Predicting Transfer Learning Success in Offensive Language Detection with Cultural Features",
+  "authors": [
+    "Li Zhou",
+    "Antonia Karamolegkou",
+    "Wenyu Chen",
+    "Daniel Hershchovich"
+  ],
+  "languages": [
+    "Chinese",
+    "Spanish",
+    "German",
+    "Hindi",
+    "Korean",
+    "English",
+    "Polish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T15 Lexicon and Semantics",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.findings-emnlp.845",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.845/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Retrieval-Augmented Parsing for Complex Graphs by Exploiting Structure and Uncertainty",
+  "authors": [
+    "Zi Lin",
+    "Quan Yuan",
+    "Panupong Pasupat",
+    "Jeremiah Liu",
+    "Jingbo Shang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.419",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.419/"
+}

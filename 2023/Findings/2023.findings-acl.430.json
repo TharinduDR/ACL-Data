@@ -1,0 +1,21 @@
+{
+  "title": "TransFormer: Slow-Fast Transformer for Machine Translation",
+  "authors": [
+    "Bei Li",
+    "Yi Jing",
+    "Xu Tan",
+    "Zhen Xing",
+    "Tong Xiao",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.findings-acl.430",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.430/"
+}

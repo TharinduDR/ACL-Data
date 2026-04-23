@@ -1,0 +1,21 @@
+{
+  "title": "Multilingual Sequence-to-Sequence Models for Hebrew NLP",
+  "authors": [
+    "Matan Eyal",
+    "Hila Noga",
+    "Roee Aharoni",
+    "Idan Szpektor",
+    "Reut Tsarfaty"
+  ],
+  "languages": [
+    "Hebrew",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.findings-acl.487",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.487/"
+}

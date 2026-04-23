@@ -1,0 +1,20 @@
+{
+  "title": "Membership Inference Attacks against Language Models via Neighbourhood Comparison",
+  "authors": [
+    "Justus Mattern",
+    "Fatemehsadat Mireshghallah",
+    "Zhijing Jin",
+    "Bernhard Schölkopf",
+    "Mrinmaya Sachan",
+    "Taylor Berg-Kirkpatrick"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2023.findings-acl.719",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.719/"
+}

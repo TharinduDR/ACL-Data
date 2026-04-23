@@ -1,0 +1,19 @@
+{
+  "title": "KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models",
+  "authors": [
+    "Jiho Kim",
+    "Yeonsu Kwon",
+    "Yohan Jo",
+    "Edward Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.findings-emnlp.631",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.631/"
+}

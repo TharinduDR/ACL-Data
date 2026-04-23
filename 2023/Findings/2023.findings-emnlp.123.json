@@ -1,0 +1,21 @@
+{
+  "title": "Towards Mitigating Hallucination in Large Language Models via Self-Reflection",
+  "authors": [
+    "Ziwei Ji",
+    "Tiezeng Yu",
+    "Yan Xu",
+    "Nayeon Lee",
+    "Etsuko Ishii",
+    "Pascale Fung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.123",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.123/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Automated Few-shot Classification with Instruction-Finetuned Language Models",
+  "authors": [
+    "Rami Aly",
+    "Xingjian Shi",
+    "Kaixiang Lin",
+    "Aston Zhang",
+    "Andrew Gordon Wilson"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2023.findings-emnlp.158",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.158/"
+}

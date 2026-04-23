@@ -1,0 +1,26 @@
+{
+  "title": "RC³: Regularized Contrastive Cross-lingual Cross-modal Pre-training",
+  "authors": [
+    "Chulun Zhou",
+    "Yunlong Liang",
+    "Fandong Meng",
+    "Jinan Xu",
+    "Jinsong Su",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Indonesian",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.findings-acl.746",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.746/"
+}

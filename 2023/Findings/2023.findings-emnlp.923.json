@@ -1,0 +1,21 @@
+{
+  "title": "Dialect-to-Standard Normalization: A Large-Scale Multilingual Evaluation",
+  "authors": [
+    "Olli Kuparinen",
+    "Aleksandra Miletic",
+    "Yves Scherrer"
+  ],
+  "languages": [
+    "Finnish",
+    "Norwegian",
+    "Swiss German",
+    "Slovene"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.923",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.923/"
+}

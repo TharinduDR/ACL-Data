@@ -1,0 +1,28 @@
+{
+  "title": "Identifying Emotional and Polar Concepts via Synset Translation",
+  "authors": [
+    "Logan Woudstra",
+    "Moyo Dawodu",
+    "Frances Igwe",
+    "Senyu Li",
+    "Ning Shi",
+    "Bradley Hauer",
+    "Grzegorz Kondrak"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Indonesian",
+    "Russian",
+    "Slovenian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.starsem-1.12",
+  "acl_url": "https://aclanthology.org/2024.starsem-1.12/"
+}

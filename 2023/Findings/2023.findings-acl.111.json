@@ -1,0 +1,24 @@
+{
+  "title": "Logical Transformers: Infusing Logical Structures into Pre-Trained Language Models",
+  "authors": [
+    "Borui Wang",
+    "Qiuyuan Huang",
+    "Budhaditya Deb",
+    "Aaron Halfaker",
+    "Liqun Shao",
+    "Daniel McDuff",
+    "Ahmed Hassan Awadallah",
+    "Dragomir Radev",
+    "Jianfeng Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.findings-acl.111",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.111/"
+}

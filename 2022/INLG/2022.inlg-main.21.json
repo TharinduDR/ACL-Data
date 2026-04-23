@@ -1,0 +1,20 @@
+{
+  "title": "LAFT: Cross-lingual Transfer for Text Generation by Language-Agnostic Finetuning",
+  "authors": [
+    "Xianze Wu",
+    "Zaixiang Zheng",
+    "Hao Zhou",
+    "Yong Yu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.inlg-main.21",
+  "acl_url": "https://aclanthology.org/2022.inlg-main.21/"
+}

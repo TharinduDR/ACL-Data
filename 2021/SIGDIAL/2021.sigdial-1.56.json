@@ -1,0 +1,19 @@
+{
+  "title": "Mitigating Topic Bias when Detecting Decisions in Dialogue",
+  "authors": [
+    "Vanja Mladen Karan",
+    "Prashant Khare",
+    "Patrick Healey",
+    "Matthew Purver"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.sigdial-1.56",
+  "acl_url": "https://aclanthology.org/2021.sigdial-1.56/"
+}

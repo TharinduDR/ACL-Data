@@ -1,0 +1,27 @@
+{
+  "title": "Intent Identification and Entity Extraction for Healthcare Queries in Indic Languages",
+  "authors": [
+    "Ankan Mullick",
+    "Ishani Mondal",
+    "Sourjyadip Ray",
+    "R Raghav",
+    "G Sai Chaitanya",
+    "Pawan Goyal"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Tamil",
+    "Telugu",
+    "Gujarati",
+    "Marathi"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.findings-eacl.140",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.140/"
+}

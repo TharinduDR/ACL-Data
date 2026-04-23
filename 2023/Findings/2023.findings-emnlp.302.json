@@ -1,0 +1,27 @@
+{
+  "title": "That was the last straw, we need more: Are Translation Systems Sensitive to Disambiguating Context?",
+  "authors": [
+    "Jaechan Lee",
+    "Alisa Liu",
+    "Orevaoghene Ahia",
+    "Hila Gonen",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "Chinese",
+    "Korean",
+    "Hebrew",
+    "Yoruba",
+    "Spanish",
+    "Hindi",
+    "German",
+    "Hungarian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.302",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.302/"
+}

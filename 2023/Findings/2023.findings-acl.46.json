@@ -1,0 +1,21 @@
+{
+  "title": "The Web Can Be Your Oyster for Improving Language Models",
+  "authors": [
+    "Junyi Li",
+    "Tianyi Tang",
+    "Wayne Xin Zhao",
+    "Jingyuan Wang",
+    "Jian-Yun Nie",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.findings-acl.46",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.46/"
+}

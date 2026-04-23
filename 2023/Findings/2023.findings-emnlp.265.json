@@ -1,0 +1,24 @@
+{
+  "title": "InstructExcel: A Benchmark for Natural Language Instruction in Excel",
+  "authors": [
+    "Justin Payan",
+    "Swaroop Mishra",
+    "Mukul Singh",
+    "Carina Negreanu",
+    "Christian Poelitz",
+    "Chitta Baral",
+    "Subhro Roy",
+    "Rasika Chakravarthy",
+    "Benjamin Van Durme",
+    "Elnaz Nouri"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.265",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.265/"
+}

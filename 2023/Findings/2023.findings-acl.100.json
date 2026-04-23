@@ -1,0 +1,19 @@
+{
+  "title": "2 * n is better than n^2: Decomposing Event Coreference Resolution into Two Tractable Problems",
+  "authors": [
+    "Shafiuddin Rehan Ahmed",
+    "Abhijnan Nath",
+    "James H. Martin",
+    "Nikhil Krishnaswamy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-acl.100",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.100/"
+}

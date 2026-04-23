@@ -1,0 +1,20 @@
+{
+  "title": "Relation-Aware Question Answering for Heterogeneous Knowledge Graphs",
+  "authors": [
+    "Haowei Du",
+    "Quzhe Huang",
+    "Chen Li",
+    "Chen Zhang",
+    "Yang Li",
+    "Dongyan Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.findings-emnlp.906",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.906/"
+}

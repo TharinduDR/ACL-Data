@@ -1,0 +1,17 @@
+{
+  "title": "TreePiece: Faster Semantic Parsing via Tree Tokenization",
+  "authors": [
+    "Sid Wang",
+    "Akshat Shrivastava",
+    "Aleksandr Livshits"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-emnlp.740",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.740/"
+}

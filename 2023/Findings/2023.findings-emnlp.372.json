@@ -1,0 +1,22 @@
+{
+  "title": "MATHDIAL: A Dialogue Tutoring Dataset with Rich Pedagogical Properties Grounded in Math Reasoning Problems",
+  "authors": [
+    "Jakub Macina",
+    "Nico Daheim",
+    "Sankalan Pal Chowdhury",
+    "Tanmay Sinha",
+    "Manu Kapur",
+    "Iryna Gurevych",
+    "Mrinmaya Sachan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.findings-emnlp.372",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.372/"
+}

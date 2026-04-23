@@ -1,0 +1,20 @@
+{
+  "title": "GECTurk: Grammatical Error Correction and Detection Dataset for Turkish",
+  "authors": [
+    "Atakan Kara",
+    "Farrin Marouf Safian",
+    "Andrew Bond",
+    "Gözde Gül Şahin"
+  ],
+  "languages": [
+    "Turkish",
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-ijcnlp.26",
+  "acl_url": "https://aclanthology.org/2023.findings-ijcnlp.26/"
+}

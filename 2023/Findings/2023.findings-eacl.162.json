@@ -1,0 +1,19 @@
+{
+  "title": "Prompting for explanations improves Adversarial NLI. Is this true? {Yes} it is {true} because {it weakens superficial cues}",
+  "authors": [
+    "Pride Kavumba",
+    "Ana Brassard",
+    "Benjamin Heinzerling",
+    "Kentaro Inui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.findings-eacl.162",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.162/"
+}

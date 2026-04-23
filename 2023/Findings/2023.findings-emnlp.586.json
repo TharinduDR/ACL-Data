@@ -1,0 +1,22 @@
+{
+  "title": "EARA: Improving Biomedical Semantic Textual Similarity with Entity-Aligned Attention and Retrieval Augmentation",
+  "authors": [
+    "Ying Xiong",
+    "Xin Yang",
+    "Linjing Liu",
+    "Ka-Chun Wong",
+    "Qingcai Chen",
+    "Yang Xiang",
+    "Buzhou Tang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2023.findings-emnlp.586",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.586/"
+}

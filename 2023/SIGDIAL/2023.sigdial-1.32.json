@@ -1,0 +1,20 @@
+{
+  "title": "Controllable Generation of Dialogue Acts for Dialogue Systems via Few-Shot Response Generation and Ranking",
+  "authors": [
+    "Angela Ramirez",
+    "Kartik Aggarwal",
+    "Juraj Juraska",
+    "Utkarsh Garg",
+    "Marilyn A. Walker"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.sigdial-1.32",
+  "acl_url": "https://aclanthology.org/2023.sigdial-1.32/"
+}

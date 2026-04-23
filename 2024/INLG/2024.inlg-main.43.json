@@ -1,0 +1,22 @@
+{
+  "title": "Towards Effective Long Conversation Generation with Dynamic Topic Tracking and Recommendation",
+  "authors": [
+    "Trevor Ashby",
+    "Adithya Kulkarni",
+    "Jingyuan Qi",
+    "Minqian Liu",
+    "Eunah Cho",
+    "Vaibhav Kumar",
+    "Lifu Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.inlg-main.43",
+  "acl_url": "https://aclanthology.org/2024.inlg-main.43/"
+}

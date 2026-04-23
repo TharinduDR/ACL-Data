@@ -1,0 +1,37 @@
+{
+  "title": "IndiSocialFT: Multilingual Word Representation for Indian languages in code-mixed environment",
+  "authors": [
+    "Saurabh Kumar",
+    "Sanasam Ranbir Singh",
+    "Sukumar Nandi"
+  ],
+  "languages": [
+    "Assamese",
+    "Bengali",
+    "Manipuri",
+    "Urdu",
+    "Tamil",
+    "English",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Oriya",
+    "Punjabi",
+    "Sanskrit",
+    "Bhojpuri",
+    "Nepali",
+    "Maithili",
+    "Angika",
+    "Sindhi",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.findings-emnlp.252",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.252/"
+}

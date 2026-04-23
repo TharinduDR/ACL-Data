@@ -1,0 +1,19 @@
+{
+  "title": "Quick Back-Translation for Unsupervised Machine Translation",
+  "authors": [
+    "Benjamin Brimacombe",
+    "Jiawei Zhou"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2023.findings-emnlp.571",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.571/"
+}

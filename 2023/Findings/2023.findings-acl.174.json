@@ -1,0 +1,39 @@
+{
+  "title": "X-RiSAWOZ: High-Quality End-to-End Multilingual Dialogue Datasets and Few-shot Agents",
+  "authors": [
+    "Mehrad Moradshahi",
+    "Tianhao Shen",
+    "Kalika Bali",
+    "Monojit Choudhury",
+    "Gaël de Chalendar",
+    "Anmol Goel",
+    "Sungkyun Kim",
+    "Prashant Kodali",
+    "Ponnurangam Kumaraguru",
+    "Nasredine Semmar",
+    "Sina J. Semmani",
+    "Jiwoon Seo",
+    "Vivek Seshadri",
+    "Manish Shrivastava",
+    "Michael Sun",
+    "Aditya Yadavalli",
+    "Chaobin You",
+    "Deyi Xiong",
+    "Monica S. Lam"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "Hindi",
+    "Korean",
+    "English-Hindi"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.174",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.174/"
+}

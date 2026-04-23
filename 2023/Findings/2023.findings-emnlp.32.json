@@ -1,0 +1,20 @@
+{
+  "title": "PAXQA: Generating Cross-lingual Question Answering Examples at Training Scale",
+  "authors": [
+    "Bryan Li",
+    "Chris Callison-Burch"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Russian"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.32",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.32/"
+}

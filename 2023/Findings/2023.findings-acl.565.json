@@ -1,0 +1,20 @@
+{
+  "title": "PROPSEGMENT: A Large-Scale Corpus for Proposition-Level Segmentation and Entailment Recognition",
+  "authors": [
+    "Sihao Chen",
+    "Senaka Buthpitiya",
+    "Alex Fabrikant",
+    "Dan Roth",
+    "Tal Schuster"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.findings-acl.565",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.565/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering",
+  "authors": [
+    "Inderjeet Nair",
+    "Shwetha Somasundaram",
+    "Apoorv Saxena",
+    "Koustava Goswami"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.findings-emnlp.972",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.972/"
+}

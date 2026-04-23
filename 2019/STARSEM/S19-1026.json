@@ -1,0 +1,27 @@
+{
+  "title": "Probing What Different NLP Tasks Teach Machines about Function Word Comprehension",
+  "authors": [
+    "Najoung Kim",
+    "Roma Patel",
+    "Adam Poliak",
+    "Alex Wang",
+    "Patrick Xia",
+    "R. Thomas McCoy",
+    "Ian Tenney",
+    "Alexis Ross",
+    "Tal Linzen",
+    "Benjamin Van Durme",
+    "Samuel R. Bowman",
+    "Ellie Pavlick"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S19-1026",
+  "acl_url": "https://aclanthology.org/S19-1026/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "A Table-to-Text Framework with Heterogeneous Multidominance Attention and Self-Evaluated Multi-Pass Deliberation",
+  "authors": [
+    "Xi Chen",
+    "Xinjiang Lu",
+    "Haoran Xin",
+    "Wenjun Peng",
+    "Haoyang Duan",
+    "Feihu Jiang",
+    "Jingbo Zhou",
+    "Hui Xiong"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.findings-emnlp.44",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.44/"
+}

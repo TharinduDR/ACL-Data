@@ -1,0 +1,18 @@
+{
+  "title": "Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model",
+  "authors": [
+    "Parishad BehnamGhader",
+    "Santiago Miret",
+    "Siva Reddy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.1036",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.1036/"
+}

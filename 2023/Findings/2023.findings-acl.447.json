@@ -1,0 +1,33 @@
+{
+  "title": "DUB: Discrete Unit Back-translation for Speech Translation",
+  "authors": [
+    "Dong Zhang",
+    "Rong Ye",
+    "Tom Ko",
+    "Mingxuan Wang",
+    "Yaqian Zhou"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Arabic",
+    "Swedish",
+    "Japanese",
+    "Indonesian",
+    "Welsh",
+    "Catalan",
+    "Italian",
+    "Russian",
+    "Chinese",
+    "Slovenian",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.findings-acl.447",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.447/"
+}

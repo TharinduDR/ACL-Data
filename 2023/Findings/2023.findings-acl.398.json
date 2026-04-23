@@ -1,0 +1,23 @@
+{
+  "title": "FACTUAL: A Benchmark for Faithful and Consistent Textual Scene Graph Parsing",
+  "authors": [
+    "Zhuang Li",
+    "Yuyang Chai",
+    "Terry Yue Zhuo",
+    "Lizhen Qu",
+    "Gholamreza Haffari",
+    "Fei Li",
+    "Donghong Ji",
+    "Quan Hung Tran"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.398",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.398/"
+}

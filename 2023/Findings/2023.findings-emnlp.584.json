@@ -1,0 +1,23 @@
+{
+  "title": "Parameter Efficient Multi-task Fine-tuning by Learning to Transfer Token-wise Prompts",
+  "authors": [
+    "Muling Wu",
+    "Wenhao Liu",
+    "Jianhan Xu",
+    "Changze Lv",
+    "ZiXuan Ling",
+    "Tianlong Li",
+    "LongTao Huang",
+    "XiaoQing Zheng",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.584",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.584/"
+}

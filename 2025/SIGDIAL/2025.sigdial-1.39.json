@@ -1,0 +1,19 @@
+{
+  "title": "Exploring the Limits of Model Compression in LLMs: A Knowledge Distillation Study on QA Tasks",
+  "authors": [
+    "Joyeeta Datta",
+    "Niclas Doll",
+    "Qusai Ramadan",
+    "Zeyd Boukhers"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.sigdial-1.39",
+  "acl_url": "https://aclanthology.org/2025.sigdial-1.39/"
+}

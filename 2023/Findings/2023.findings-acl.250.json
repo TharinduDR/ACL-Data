@@ -1,0 +1,25 @@
+{
+  "title": "Emergent Modularity in Pre-trained Transformers",
+  "authors": [
+    "Zhengyan Zhang",
+    "Zhiyuan Zeng",
+    "Yankai Lin",
+    "Chaojun Xiao",
+    "Xiaozhi Wang",
+    "Xu Han",
+    "Zhiyuan Liu",
+    "Ruobing Xie",
+    "Maosong Sun",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.findings-acl.250",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.250/"
+}

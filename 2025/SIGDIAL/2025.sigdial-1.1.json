@@ -1,0 +1,27 @@
+{
+  "title": "Investigating Co-Constructive Behavior of Large Language Models in Explanation Dialogues",
+  "authors": [
+    "Leandra Fichtel",
+    "Maximilian Spliethöver",
+    "Eyke Hülmermeier",
+    "Patricia Jimenez",
+    "Nils Klawait",
+    "Stefan Kopp",
+    "Axel-Cyrille Ngonga Ngomo",
+    "Amelie Robrecht",
+    "Ingrid Scharlau",
+    "Lutz Terfloth",
+    "Anna-Lisa Vollmer",
+    "Henning Wachsmuth"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.sigdial-1.1",
+  "acl_url": "https://aclanthology.org/2025.sigdial-1.1/"
+}

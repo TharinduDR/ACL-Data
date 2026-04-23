@@ -1,0 +1,23 @@
+{
+  "title": "Second Language Acquisition of Neural Language Models",
+  "authors": [
+    "Miya Oba",
+    "Tatsuki Kuribayashi",
+    "Hiroki Ouchi",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2023.findings-acl.856",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.856/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "ALLIES: Prompting Large Language Model with Beam Search",
+  "authors": [
+    "Hao Sun",
+    "Xiao Liu",
+    "Yeyun Gong",
+    "Yan Zhang",
+    "Daxin Jiang",
+    "Linjun Yang",
+    "Nan Duan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-emnlp.247",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.247/"
+}

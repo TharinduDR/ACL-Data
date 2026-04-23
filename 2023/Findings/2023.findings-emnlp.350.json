@@ -1,0 +1,19 @@
+{
+  "title": "COEDIT: Text Editing by Task-Specific Instruction Tuning",
+  "authors": [
+    "Vipul Raheja",
+    "Dhruv Kumar",
+    "Ryan Koo",
+    "Dongyeop Kang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T29 NLP for education",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2023.findings-emnlp.350",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.350/"
+}

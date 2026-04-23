@@ -1,0 +1,19 @@
+{
+  "title": "Rapformer: Conditional Rap Lyrics Generation with Denoising Autoencoders",
+  "authors": [
+    "Nikola I. Nikolov",
+    "Eric Malmi",
+    "Curtis G. Northcutt",
+    "Loreto Parisi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2020.inlg-1.42",
+  "acl_url": "https://aclanthology.org/2020.inlg-1.42/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Weakly-supervised Deep Cognate Detection Framework for Low-Resourced Languages Using Morphological Knowledge of Closely-Related Languages",
+  "authors": [
+    "Koustava Goswami",
+    "Priya Rani",
+    "Theodorus Fransen",
+    "John P. McCrae"
+  ],
+  "languages": [
+    "Hindi",
+    "Marathi",
+    "Punjabi",
+    "Bengali",
+    "Tamil",
+    "Assamese",
+    "Irish",
+    "Manx",
+    "Scottish Gaelic",
+    "Zulu",
+    "Xhosa",
+    "Swati"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-emnlp.38",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.38/"
+}

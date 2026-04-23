@@ -1,0 +1,20 @@
+{
+  "title": "Query2Triple: Unified Query Encoding for Answering Diverse Complex Queries over Knowledge Graphs",
+  "authors": [
+    "Yao Xu",
+    "Shizhu He",
+    "Cunguang Wang",
+    "Li Cai",
+    "Kang Liu",
+    "Jun Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.findings-emnlp.761",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.761/"
+}

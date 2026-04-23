@@ -1,0 +1,27 @@
+{
+  "title": "BanLemma: A Word Formation Dependent Rule and Dictionary Based Bangla Lemmatizer",
+  "authors": [
+    "Sadia Afrin",
+    "Md. Shahad Mahmud Chowdhury",
+    "Md. Ekramul Islam",
+    "Faisal Ahamed Khan",
+    "Labib Imam Chowdhury",
+    "MD. Motahar Mahtab",
+    "Nazifa Nuha Chowdhury",
+    "Massud Forkan",
+    "Neelima Kundu",
+    "Hakim Arif",
+    "Mohammad Mamun Or Rashid",
+    "Mohammad Ruhul Amin",
+    "Nabeel Mohammed"
+  ],
+  "languages": [
+    "Bangla"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-emnlp.240",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.240/"
+}

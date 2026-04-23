@@ -1,0 +1,21 @@
+{
+  "title": "Length-Adaptive Distillation: Customizing Small Language Model for Dynamic Token Pruning",
+  "authors": [
+    "Chang Liu",
+    "Chongyang Tao",
+    "Jianxin Liang",
+    "Jiazhan Feng",
+    "Tao Shen",
+    "Quzhe Huang",
+    "Dongyan Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.294",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.294/"
+}

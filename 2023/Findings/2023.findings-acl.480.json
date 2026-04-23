@@ -1,0 +1,23 @@
+{
+  "title": "Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers",
+  "authors": [
+    "Wanjun Zhong",
+    "Tingting Ma",
+    "Jiahai Wang",
+    "Jian Yin",
+    "Tiejun Zhao",
+    "Chin-Yew Lin",
+    "Nan Duan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering",
+    "T11 Information Extraction",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2023.findings-acl.480",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.480/"
+}

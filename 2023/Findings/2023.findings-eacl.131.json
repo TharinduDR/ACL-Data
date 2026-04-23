@@ -1,0 +1,39 @@
+{
+  "title": "Evaluating the Diversity, Equity and Inclusion of NLP Technology: A Case Study for Indian Languages",
+  "authors": [
+    "Simran Khanuja",
+    "Sebastian Ruder",
+    "Partha Talukdar"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Gujarati",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Oriya",
+    "Punjabi",
+    "Tamil",
+    "Telugu",
+    "Sanskrit",
+    "Sindhi",
+    "Urdu",
+    "Assamese",
+    "Bodo",
+    "Dogri",
+    "Kashmiri",
+    "Konkani",
+    "Maithili",
+    "Manipuri",
+    "Nepali"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-eacl.131",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.131/"
+}

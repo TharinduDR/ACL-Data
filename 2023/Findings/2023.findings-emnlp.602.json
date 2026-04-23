@@ -1,0 +1,19 @@
+{
+  "title": "Pre-trained Speech Processing Models Contain Human-Like Biases that Propagate to Speech Emotion Recognition",
+  "authors": [
+    "Isaac Slaughter",
+    "Craig Greenberg",
+    "Reva Schwartz",
+    "Aylin Caliskan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.findings-emnlp.602",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.602/"
+}

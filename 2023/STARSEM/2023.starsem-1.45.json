@@ -1,0 +1,20 @@
+{
+  "title": "Can Sequence-to-Sequence Transformers Naturally Understand Sequential Instructions?",
+  "authors": [
+    "Xiang Zhou",
+    "Aditya Gupta",
+    "Shyam Upadhyay",
+    "Mohit Bansal",
+    "Manaal Faruqui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.starsem-1.45",
+  "acl_url": "https://aclanthology.org/2023.starsem-1.45/"
+}

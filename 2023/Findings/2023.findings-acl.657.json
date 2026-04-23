@@ -1,0 +1,20 @@
+{
+  "title": "Multi-hop Evidence Retrieval for Cross-document Relation Extraction",
+  "authors": [
+    "Keming Lu",
+    "I-Hung Hsu",
+    "Wenxuan Zhou",
+    "Mingyu Derek Ma",
+    "Muhao Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-acl.657",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.657/"
+}

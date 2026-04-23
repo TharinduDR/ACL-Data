@@ -1,0 +1,23 @@
+{
+  "title": "DemoNSF: A Multi-task Demonstration-based Generative Framework for Noisy Slot Filling Task",
+  "authors": [
+    "Guanting Dong",
+    "Tingfeng Hui",
+    "Zhuoma GongQue",
+    "Jinxu Zhao",
+    "Daichi Guo",
+    "Gang Zhao",
+    "Keqing He",
+    "Weiran Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2023.findings-emnlp.705",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.705/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Multi-armed bandits for resource efficient, online optimization of language model pre-training: the use case of dynamic masking",
+  "authors": [
+    "Iñigo Urteaga",
+    "Moulay-Zaïdane Draïdia",
+    "Tomer Lancewicki",
+    "Shahram Khadivi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2023.findings-acl.675",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.675/"
+}

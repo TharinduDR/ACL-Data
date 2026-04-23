@@ -1,0 +1,20 @@
+{
+  "title": "SDOH-NLI: a Dataset for Inferring Social Determinants of Health from Clinical Notes",
+  "authors": [
+    "Adam D. Lelkes",
+    "Eric Loreaux",
+    "Tal Schuster",
+    "Ming-Jun Chen",
+    "Alvin Rajkomar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2023.findings-emnlp.317",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.317/"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Multimodal Automated Fact-Checking: A Survey",
+  "authors": [
+    "Mubashara Akhtar",
+    "Michael Schlichtkrull",
+    "Zhijiang Guo",
+    "Oana Cocarascu",
+    "Elena Simperl",
+    "Andreas Vlachos"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Portuguese",
+    "Korean",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-emnlp.361",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.361/"
+}

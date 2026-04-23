@@ -1,0 +1,22 @@
+{
+  "title": "Deep Affix Features Improve Neural Named Entity Recognizers",
+  "authors": [
+    "Vikas Yadav",
+    "Rebecca Sharp",
+    "Steven Bethard"
+  ],
+  "languages": [
+    "Spanish",
+    "Dutch",
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "S18-2021",
+  "acl_url": "https://aclanthology.org/S18-2021/"
+}

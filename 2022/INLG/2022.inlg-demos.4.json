@@ -1,0 +1,27 @@
+{
+  "title": "THEaiTRobot: An Interactive Tool for Generating Theatre Play Scripts",
+  "authors": [
+    "Rudolf Rosa",
+    "Patrícia Schmidтовá",
+    "Alisa Zakhtarenko",
+    "Ondřej Dušek",
+    "Tomáš Musil",
+    "David Mareček",
+    "Saad Obaid",
+    "Marie Nováková",
+    "Klára Vosecká",
+    "Daniel Hrbek",
+    "David Košťák"
+  ],
+  "languages": [
+    "English",
+    "Czech"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2022.inlg-demos.4",
+  "acl_url": "https://aclanthology.org/2022.inlg-demos.4/"
+}

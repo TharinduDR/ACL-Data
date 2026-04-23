@@ -1,0 +1,22 @@
+{
+  "title": "Dialogue Ontology Relation Extraction via Constrained Chain-of-Thought Decoding",
+  "authors": [
+    "Renato Vukovic",
+    "David Arps",
+    "Carel van Niekerk",
+    "Benjamin Matthias Ruppik",
+    "Hsien-Chin Lin",
+    "Michael Heck",
+    "Milica Gašić"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.sigdial-1.33",
+  "acl_url": "https://aclanthology.org/2024.sigdial-1.33/"
+}

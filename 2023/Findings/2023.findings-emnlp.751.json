@@ -1,0 +1,25 @@
+{
+  "title": "KBioXLM: A Knowledge-anchored Biomedical Multilingual Pretrained Language Model",
+  "authors": [
+    "Lei Geng",
+    "Xu Yan",
+    "Ziqiang Cao",
+    "Juntao Li",
+    "Wenjie Li",
+    "Sujian Li",
+    "Xinjie Zhou",
+    "Yang Yang",
+    "Jun Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2023.findings-emnlp.751",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.751/"
+}

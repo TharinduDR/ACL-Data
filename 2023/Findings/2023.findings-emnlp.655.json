@@ -1,0 +1,21 @@
+{
+  "title": "TCRA-LLM: Token Compression Retrieval Augmented Large Language Model for Inference Cost Reduction",
+  "authors": [
+    "Junyi Liu",
+    "Liangzhi Li",
+    "Tong Xiang",
+    "Bowen Wang",
+    "Yiming Qian"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2023.findings-emnlp.655",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.655/"
+}

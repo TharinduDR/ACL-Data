@@ -1,0 +1,22 @@
+{
+  "title": "ReactIE: Enhancing Chemical Reaction Extraction with Weak Supervision",
+  "authors": [
+    "Ming Zhong",
+    "Siru Ouyang",
+    "Minhao Jiang",
+    "Vivian Hu",
+    "Yizhu Jiao",
+    "Xuan Wang",
+    "Jiawei Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.findings-acl.767",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.767/"
+}

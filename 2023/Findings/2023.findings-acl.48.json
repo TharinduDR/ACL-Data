@@ -1,0 +1,52 @@
+{
+  "title": "Overcoming Catastrophic Forgetting in Massively Multilingual Continual Learning",
+  "authors": [
+    "Genta Indra Winata",
+    "Lingjue Xie",
+    "Karthik Radhakrishnan",
+    "Shijie Wu",
+    "Xisen Jin",
+    "Pengxiang Cheng",
+    "Mayank Kulkarni",
+    "Daniel PreoŢiuc-Pietro"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bengali",
+    "Bulgarian",
+    "Catalan",
+    "Czech",
+    "Danish",
+    "German",
+    "Greek",
+    "Spanish",
+    "Persian",
+    "Finnish",
+    "French",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Malay",
+    "Mandarin Chinese",
+    "Portuguese",
+    "Russian",
+    "Slovak",
+    "Swahili",
+    "Tamil",
+    "Thai",
+    "Turkish",
+    "Uyghur",
+    "Vietnamese",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.findings-acl.48",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.48/"
+}

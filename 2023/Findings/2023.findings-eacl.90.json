@@ -1,0 +1,22 @@
+{
+  "title": "Reassessing Evaluation Practices in Visual Question Answering: A Case Study on Out-of-Distribution Generalization",
+  "authors": [
+    "Aishwarya Agrawal",
+    "Ivana Kajić",
+    "Emanuele Bugliarello",
+    "Elnaz Davoodi",
+    "Anita Gergely",
+    "Phil Blunsom",
+    "Aida Nematzadeh"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-eacl.90",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.90/"
+}

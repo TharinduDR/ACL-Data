@@ -1,0 +1,21 @@
+{
+  "title": "Localize, Retrieve and Fuse: A Generalized Framework for Free-Form Question Answering over Tables",
+  "authors": [
+    "Wenting Zhao",
+    "Ye Liu",
+    "Yao Wan",
+    "Yibo Wang",
+    "Zhongfen Deng",
+    "Philip S. Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-ijcnlp.1",
+  "acl_url": "https://aclanthology.org/2023.findings-ijcnlp.1/"
+}

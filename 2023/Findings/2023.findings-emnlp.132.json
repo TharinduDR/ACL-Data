@@ -1,0 +1,45 @@
+{
+  "title": "mmT5: Modular Multilingual Pre-Training Solves Source Language Hallucinations",
+  "authors": [
+    "Jonas Pfeiffer",
+    "Francesco Piccinno",
+    "Massimo Nicosia",
+    "Xinyi Wang",
+    "Machel Reid",
+    "Sebastian Ruder"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "Japanese",
+    "Chinese",
+    "Korean",
+    "Portuguese",
+    "Punjabi",
+    "Russian",
+    "Serbian",
+    "Sinhala",
+    "Somali",
+    "Spanish",
+    "Swahili",
+    "Tamil",
+    "Telugu",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Urdu",
+    "Uyghur",
+    "Vietnamese",
+    "Welsh",
+    "Yoruba",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.findings-emnlp.132",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.132/"
+}

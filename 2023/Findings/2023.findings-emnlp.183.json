@@ -1,0 +1,19 @@
+{
+  "title": "Efficient Long-Range Transformers: You Need to Attend More, but Not Necessarily at Every Layer",
+  "authors": [
+    "Qingru Zhang",
+    "Dhananjay Ram",
+    "Cole Hawkins",
+    "Sheng Zha",
+    "Tuo Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.findings-emnlp.183",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.183/"
+}

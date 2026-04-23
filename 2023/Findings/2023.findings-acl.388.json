@@ -1,0 +1,22 @@
+{
+  "title": "Uni-Encoder: A Fast and Accurate Response Selection Paradigm for Generation-Based Dialogue Systems",
+  "authors": [
+    "Chiyu Song",
+    "Hongliang He",
+    "Haofei Yu",
+    "Pengfei Fang",
+    "Leyang Cui",
+    "Zhenzhong Lan"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.388",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.388/"
+}

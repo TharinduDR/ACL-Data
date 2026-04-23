@@ -1,0 +1,27 @@
+{
+  "title": "Parameter-Efficient Finetuning for Robust Continual Multilingual Learning",
+  "authors": [
+    "Kartikeya Badola",
+    "Shachi Dave",
+    "Partha Talukdar"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Chinese",
+    "Tamil",
+    "Japanese",
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-acl.619",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.619/"
+}

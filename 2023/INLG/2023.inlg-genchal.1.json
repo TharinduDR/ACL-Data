@@ -1,0 +1,23 @@
+{
+  "title": "LOWRECORP: the Low-Resource NLG Corpus Building Challenge",
+  "authors": [
+    "Khyathi Raghavi Chandu",
+    "David Howcroft",
+    "Dimitra Gkatzia",
+    "Yi-Ling Chung",
+    "Yufang Hou",
+    "Chris Emezie",
+    "Pawan Rajpoot",
+    "Tosin Adewumi"
+  ],
+  "languages": [
+    "Gaelic"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T18 Text Summarization",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2023.inlg-genchal.1",
+  "acl_url": "https://aclanthology.org/2023.inlg-genchal.1/"
+}

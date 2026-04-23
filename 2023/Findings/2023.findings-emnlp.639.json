@@ -1,0 +1,20 @@
+{
+  "title": "Estimating Large Language Model Capabilities without Labeled Test Data",
+  "authors": [
+    "Harvey Yiyun Fu",
+    "Qinyuan Ye",
+    "Albert Xu",
+    "Xiang Ren",
+    "Robin Jia"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-emnlp.639",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.639/"
+}

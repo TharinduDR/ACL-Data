@@ -1,0 +1,17 @@
+{
+  "title": "SimpleNLG-TI: Adapting SimpleNLG to Tibetan",
+  "authors": [
+    "Zewang Kuanzhuo",
+    "Lin Li",
+    "Weina Zhao"
+  ],
+  "languages": [
+    "Tibetan",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.inlg-1.12",
+  "acl_url": "https://aclanthology.org/2020.inlg-1.12/"
+}

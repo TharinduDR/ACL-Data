@@ -1,0 +1,20 @@
+{
+  "title": "Generalizing Few-Shot Named Entity Recognizers to Unseen Domains with Type-Related Features",
+  "authors": [
+    "Zihan Wang",
+    "Ziqi Zhao",
+    "Zhumin Chen",
+    "Pengjie Ren",
+    "Maarten de Rijke",
+    "Zhaochun Ren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.147",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.147/"
+}

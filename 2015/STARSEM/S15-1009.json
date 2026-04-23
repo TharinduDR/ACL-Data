@@ -1,0 +1,33 @@
+{
+  "title": "A New Dataset and Evaluation for Belief/Factuality",
+  "authors": [
+    "Vinodkumar Prabhakaran",
+    "Tomas By",
+    "Julia Hirschberg",
+    "Owen Rambow",
+    "Samira Shaikh",
+    "Tomek Strzalkowski",
+    "Jennifer Tracey",
+    "Michael Arrigo",
+    "Rupayan Basu",
+    "Micah Clark",
+    "Adam Dalton",
+    "Mona Diab",
+    "Louise Guthrie",
+    "Anna Prokofieva",
+    "Stephanie Strassel",
+    "Gregory Werner",
+    "Janyce Wiebe",
+    "Yorick Wilks"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S15-1009",
+  "acl_url": "https://aclanthology.org/S15-1009/"
+}

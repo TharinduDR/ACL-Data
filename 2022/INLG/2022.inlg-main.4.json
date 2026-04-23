@@ -1,0 +1,20 @@
+{
+  "title": "Arabic Image Captioning using Pre-training of Deep Bidirectional Transformers",
+  "authors": [
+    "Jonathan Emami",
+    "Pierre Nugues",
+    "Ashraf Elnagar",
+    "Imad Afyouni"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.inlg-main.4",
+  "acl_url": "https://aclanthology.org/2022.inlg-main.4/"
+}

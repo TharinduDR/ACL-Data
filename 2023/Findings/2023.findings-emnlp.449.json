@@ -1,0 +1,20 @@
+{
+  "title": "Comparing Prompt-Based and Standard Fine-Tuning for Urdu Text Classification",
+  "authors": [
+    "Faizad Ullah",
+    "Ubaid Azam",
+    "Ali Faheem",
+    "Faisal Kamiran",
+    "Asim Karim"
+  ],
+  "languages": [
+    "Urdu",
+    "Roman Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.findings-emnlp.449",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.449/"
+}

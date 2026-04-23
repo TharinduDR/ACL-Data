@@ -1,0 +1,26 @@
+{
+  "title": "Defining a New NLP Playground",
+  "authors": [
+    "Sha Li",
+    "Chi Han",
+    "Pengfei Yu",
+    "Carl Edwards",
+    "Manling Li",
+    "Xingyao Wang",
+    "Yi R. Fung",
+    "Charles Yu",
+    "Joel R. Tetreault",
+    "Eduard H. Hovy",
+    "Heng Ji"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.findings-emnlp.799",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.799/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "TransGEC: Improving Grammatical Error Correction with Translationese",
+  "authors": [
+    "Tao Fang",
+    "Xuebo Liu",
+    "Derek F. Wong",
+    "Runzhe Zhan",
+    "Liang Ding",
+    "Lidia S. Chao",
+    "Dacheng Tao",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-acl.223",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.223/"
+}

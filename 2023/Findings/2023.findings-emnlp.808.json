@@ -1,0 +1,21 @@
+{
+  "title": "Towards Anytime Fine-tuning: Continually Pre-trained Language Models with Hypernetwork Prompts",
+  "authors": [
+    "Gangwei Jiang",
+    "Caigao Jiang",
+    "Siqiao Xue",
+    "James Y. Zhang",
+    "Jun Zhou",
+    "Defu Lian",
+    "Ying Wei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.808",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.808/"
+}

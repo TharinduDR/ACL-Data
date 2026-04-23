@@ -1,0 +1,24 @@
+{
+  "title": "Entropy-guided Vocabulary Augmentation of Multilingual Language Models for Low-resource Tasks",
+  "authors": [
+    "Arijit Nag",
+    "Bidisha Samanta",
+    "Animesh Mukherjee",
+    "Niloy Ganguly",
+    "Soumen Chakrabarti"
+  ],
+  "languages": [
+    "Hindi",
+    "Bengali",
+    "Gujarati",
+    "Malayalam",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.findings-acl.548",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.548/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Are the Best Multilingual Document Embeddings simply Based on Sentence Embeddings?",
+  "authors": [
+    "Sonal Sannigrahi",
+    "Josef van Genabith",
+    "Cristina España-Bonet"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Italian",
+    "Japanese",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.findings-eacl.174",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.174/"
+}

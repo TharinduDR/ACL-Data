@@ -1,0 +1,23 @@
+{
+  "title": "Tokenization Impacts Multilingual Language Modeling: Assessing Vocabulary Allocation and Overlap Across Languages",
+  "authors": [
+    "Tomasz Limisiewicz",
+    "Jiří Balhar",
+    "David Mareček"
+  ],
+  "languages": [
+    "Arabic",
+    "Turkish",
+    "Chinese",
+    "Greek",
+    "Spanish",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.findings-acl.350",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.350/"
+}

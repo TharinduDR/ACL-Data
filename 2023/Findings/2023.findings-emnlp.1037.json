@@ -1,0 +1,18 @@
+{
+  "title": "BERTwich: Extending BERT's Capabilities to Model Dialectal and Noisy Text",
+  "authors": [
+    "Aarohi Srivastava",
+    "David Chiang"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-emnlp.1037",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.1037/"
+}

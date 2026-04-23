@@ -1,0 +1,40 @@
+{
+  "title": "Automatic Pronunciation Assessment - A Review",
+  "authors": [
+    "Yassine El Kheir",
+    "Ahmed Ali",
+    "Shammur Absar Chowdhury"
+  ],
+  "languages": [
+    "English",
+    "Mandarin Chinese",
+    "Cantonese",
+    "Arabic",
+    "Spanish",
+    "French",
+    "Russian",
+    "Hindi",
+    "Korean",
+    "Vietnamese",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Swahili",
+    "Sesotho",
+    "Filipino",
+    "German",
+    "Portuguese",
+    "Japanese",
+    "Chinese",
+    "Malay"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.findings-emnlp.557",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.557/"
+}

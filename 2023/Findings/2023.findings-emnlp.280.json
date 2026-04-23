@@ -1,0 +1,20 @@
+{
+  "title": "FREDSum: A Dialogue Summarization Corpus for French Political Debates",
+  "authors": [
+    "Virgile Rennard",
+    "Guokan Shang",
+    "Damien Grari",
+    "Julie Hunter",
+    "Michalis Vazirgiannis"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2023.findings-emnlp.280",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.280/"
+}

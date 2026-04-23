@@ -1,0 +1,24 @@
+{
+  "title": "Follow the Wisdom of the Crowd: Effective Text Generation via Minimum Bayes Risk Decoding",
+  "authors": [
+    "Mirac Suzgun",
+    "Luke Melas-Kyriazi",
+    "Dan Jurafsky"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian",
+    "Turkish",
+    "Czech",
+    "Portuguese",
+    "IPA"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2023.findings-acl.262",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.262/"
+}

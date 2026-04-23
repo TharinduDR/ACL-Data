@@ -1,0 +1,23 @@
+{
+  "title": "MenatQA: A New Dataset for Testing the Temporal Comprehension and Reasoning Abilities of Large Language Models",
+  "authors": [
+    "Yifan Wei",
+    "Yisong Su",
+    "Huanhuan Ma",
+    "Xiaoyan Yu",
+    "Fangyu Lei",
+    "Yuanzhe Zhang",
+    "Jun Zhao",
+    "Kang Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.findings-emnlp.100",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.100/"
+}

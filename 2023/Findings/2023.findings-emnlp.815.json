@@ -1,0 +1,34 @@
+{
+  "title": "One For All & All For One: Bypassing Hyperparameter Tuning with Model Averaging For Cross-Lingual Transfer",
+  "authors": [
+    "Fabian David Schmidt",
+    "Ivan Vulić",
+    "Goran Glavaš"
+  ],
+  "languages": [
+    "English",
+    "Indonesian",
+    "Portuguese",
+    "Swahili",
+    "Chinese",
+    "French",
+    "German",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Malay",
+    "Persian",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.815",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.815/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Exploring the Use of Natural Language Descriptions of Intents for Large Language Models in Zero-shot Intent Classification",
+  "authors": [
+    "Taesuk Hong",
+    "Youbin Ahn",
+    "Dongkyu Lee",
+    "Joongbo Shin",
+    "Seungpil Won",
+    "Janghoon Han",
+    "Stanley Jungkyu Choi",
+    "Jungyun Seo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.sigdial-1.39",
+  "acl_url": "https://aclanthology.org/2024.sigdial-1.39/"
+}

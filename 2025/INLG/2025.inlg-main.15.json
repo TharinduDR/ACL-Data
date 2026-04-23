@@ -1,0 +1,22 @@
+{
+  "title": "Towards Trustworthy Lexical Simplification: Exploring Safety and Efficiency with Small LLMs",
+  "authors": [
+    "Akio Hayakawa",
+    "Stefan Bott",
+    "Horacio Saggion"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Catalan",
+    "German",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.inlg-main.15",
+  "acl_url": "https://aclanthology.org/2025.inlg-main.15/"
+}

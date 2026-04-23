@@ -1,0 +1,20 @@
+{
+  "title": "What BERT Sees: Cross-Modal Transfer for Visual Question Generation",
+  "authors": [
+    "Thomas Scialom",
+    "Patrick Bordes",
+    "Paul-Alexis Dray",
+    "Jacopo Staiano",
+    "Patrick Gallinari"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2020.inlg-1.39",
+  "acl_url": "https://aclanthology.org/2020.inlg-1.39/"
+}

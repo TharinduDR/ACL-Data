@@ -1,0 +1,18 @@
+{
+  "title": "Generating Labeled Data for Relation Extraction: A Meta Learning Approach with Joint GPT-2 Training",
+  "authors": [
+    "Amir Pouran Ben Veyseh",
+    "Franck Dernoncourt",
+    "Bonan Min",
+    "Thien Huu Nguyen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-acl.727",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.727/"
+}

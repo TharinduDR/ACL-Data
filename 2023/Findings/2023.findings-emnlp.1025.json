@@ -1,0 +1,20 @@
+{
+  "title": "PromptARA: Improving Deep Representation in Hybrid Automatic Readability Assessment with Prompt and Orthogonal Projection",
+  "authors": [
+    "Jinshan Zeng",
+    "Xianglong Yu",
+    "Xianchao Tong",
+    "Wenyan Xiao"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T29 NLP for education",
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.findings-emnlp.1025",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.1025/"
+}

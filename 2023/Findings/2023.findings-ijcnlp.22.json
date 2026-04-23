@@ -1,0 +1,21 @@
+{
+  "title": "My Boli: Code-mixed Marathi-English Corpora, Pretrained Language Models and Evaluation Benchmarks",
+  "authors": [
+    "Tanmay Chavan",
+    "Omkar Gokhale",
+    "Aditya Kane",
+    "Shantanu Patankar",
+    "Raviraj Joshi"
+  ],
+  "languages": [
+    "Marathi",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.findings-ijcnlp.22",
+  "acl_url": "https://aclanthology.org/2023.findings-ijcnlp.22/"
+}

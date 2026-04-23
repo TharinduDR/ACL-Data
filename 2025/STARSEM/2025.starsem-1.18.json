@@ -1,0 +1,21 @@
+{
+  "title": "Latent Traits and Cross-Task Transfer: Deconstructing Dataset Interactions in LLM Fine-tuning",
+  "authors": [
+    "Shambhavi Krishna",
+    "Atharva Naik",
+    "Chaitali Agarwal",
+    "Sudharshan Govindan",
+    "Haw-Shiuan Chang",
+    "Taesung Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.starsem-1.18",
+  "acl_url": "https://aclanthology.org/2025.starsem-1.18/"
+}

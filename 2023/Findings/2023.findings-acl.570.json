@@ -1,0 +1,22 @@
+{
+  "title": "Fourier Transformer: Fast Long Range Modeling by Removing Sequence Redundancy with FFT Operator",
+  "authors": [
+    "Ziwei He",
+    "Meng Yang",
+    "Minwei Feng",
+    "Jingcheng Yin",
+    "Xinbing Wang",
+    "Jingwen Leng",
+    "Zhouhan Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.findings-acl.570",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.570/"
+}

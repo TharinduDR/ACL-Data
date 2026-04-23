@@ -1,0 +1,29 @@
+{
+  "title": "Code-Switched Text Synthesis in Unseen Language Pairs",
+  "authors": [
+    "I-Hung Hsu",
+    "Avik Ray",
+    "Shubham Garg",
+    "Nanyun Peng",
+    "Jing Huang"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Chinese",
+    "German",
+    "Bengali",
+    "Spanish",
+    "French",
+    "Malayalam",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2023.findings-acl.318",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.318/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Style-Aware Radiology Report Generation with RadGraph and Few-Shot Prompting",
+  "authors": [
+    "Benjamin Yan",
+    "Ruochen Liu",
+    "David E. Kuo",
+    "Subathra Adithan",
+    "Eduardo Pontes Reis",
+    "Stephen Kwak",
+    "Vasantha Kumar Venugopal",
+    "Chloe P. O'Connell",
+    "Agustina Saenz",
+    "Pranav Rajpurkar",
+    "Michael Moor"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2023.findings-emnlp.977",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.977/"
+}

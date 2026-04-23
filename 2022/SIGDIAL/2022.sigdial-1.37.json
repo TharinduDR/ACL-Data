@@ -1,0 +1,36 @@
+{
+  "title": "Neural Generation Meets Real People: Building a Social, Informative Open-Domain Dialogue Agent",
+  "authors": [
+    "Ethan A. Chi",
+    "Ashwin Paranjape",
+    "Abigail See",
+    "Caleb Chiam",
+    "Trenton Chang",
+    "Kathleen Kenealy",
+    "Swee Kiat Lim",
+    "Amelia Hardy",
+    "Chetanya Rastogi",
+    "Haojun Li",
+    "Alexander Iyabor",
+    "Yutong He",
+    "Hari Sowrirajan",
+    "Peng Qi",
+    "Kaushik Ram Sadagopan",
+    "Nguyet Minh Phu",
+    "Dilara Soylu",
+    "Jillian Tang",
+    "Avanika Narayan",
+    "Giovanni Campagna",
+    "Christopher D. Manning"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.sigdial-1.37",
+  "acl_url": "https://aclanthology.org/2022.sigdial-1.37/"
+}

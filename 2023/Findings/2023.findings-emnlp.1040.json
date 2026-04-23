@@ -1,0 +1,18 @@
+{
+  "title": "Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing",
+  "authors": [
+    "Yanlin Feng",
+    "Adithya Pratapa",
+    "David Mortensen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-emnlp.1040",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.1040/"
+}

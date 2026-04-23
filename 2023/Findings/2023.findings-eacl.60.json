@@ -1,0 +1,22 @@
+{
+  "title": "Context Generation Improves Open Domain Question Answering",
+  "authors": [
+    "Dan Su",
+    "Mostofa Patwary",
+    "Shrimai Prabhumoye",
+    "Peng Xu",
+    "Ryan Prenger",
+    "Mohammad Shoeybi",
+    "Pascale Fung",
+    "Anima Anandkumar",
+    "Bryan Catanzano"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-eacl.60",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.60/"
+}

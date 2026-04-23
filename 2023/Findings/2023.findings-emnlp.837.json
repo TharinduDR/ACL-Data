@@ -1,0 +1,49 @@
+{
+  "title": "The Less the Merrier? Investigating Language Representation in Multilingual Models",
+  "authors": [
+    "Hellina Hailu Nigatu",
+    "Atnafu Lambebo Tonja",
+    "Jugal Kalita"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Amharic",
+    "Tigrinya",
+    "Arabic",
+    "Hindi",
+    "Persian",
+    "Assamese",
+    "Bengali",
+    "Gujarati",
+    "Zulu",
+    "Xhosa",
+    "Swahili",
+    "Shona",
+    "Somali",
+    "Catalan",
+    "Portuguese",
+    "German",
+    "Croatian",
+    "Hungarian",
+    "Italian",
+    "Dutch",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Slovenian",
+    "Serbian",
+    "Swedish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.837",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.837/"
+}

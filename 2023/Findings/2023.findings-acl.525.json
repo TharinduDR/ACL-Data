@@ -1,0 +1,31 @@
+{
+  "title": "Multi-lingual and Multi-cultural Figurative Language Understanding",
+  "authors": [
+    "Anubha Kabra",
+    "Emmy Liu",
+    "Simran Khanuja",
+    "Alham Fikri Aji",
+    "Genta Indra Winata",
+    "Samuel Cahyawijaya",
+    "Anuoluwapo Aremu",
+    "Perez Ogayo",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Indonesian",
+    "Javanese",
+    "Kannada",
+    "Sundanese",
+    "Swahili",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.525",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.525/"
+}

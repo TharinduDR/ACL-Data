@@ -1,0 +1,33 @@
+{
+  "title": "TRIP: Accelerating Document-level Multilingual Pre-training via Triangular Document-level Pretraining on Parallel Data Triplets",
+  "authors": [
+    "Hongyuan Lu",
+    "Haoyang Huang",
+    "Shuming Ma",
+    "Dongdong Zhang",
+    "Wai Lam",
+    "Zhaochuan Gao",
+    "Anthony Aue",
+    "Arul Menezes",
+    "Furu Wei"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Japanese",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.findings-emnlp.526",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.526/"
+}

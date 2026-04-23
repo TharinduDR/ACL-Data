@@ -1,0 +1,24 @@
+{
+  "title": "PR-MCS: Perturbation Robust Metric for MultiLingual Image Captioning",
+  "authors": [
+    "Yongil Kim",
+    "Yerin Hwang",
+    "Hyeongu Yun",
+    "Seunghyun Yoon",
+    "Trung Bui",
+    "Kyomin Jung"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.819",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.819/"
+}

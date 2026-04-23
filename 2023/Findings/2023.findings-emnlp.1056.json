@@ -1,0 +1,44 @@
+{
+  "title": "Unleashing the Multilingual Encoder Potential: Boosting Zero-Shot Performance via Probability Calibration",
+  "authors": [
+    "Ercong Nie",
+    "Helmut Schmid",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "Afrikaans",
+    "Corsican",
+    "Esperanto",
+    "Hawaiian",
+    "Hmong",
+    "Haitian Creole",
+    "Igbo",
+    "Javanese",
+    "Khmer",
+    "Maori",
+    "Mongolian",
+    "Maltese",
+    "Burmese",
+    "Chichewa",
+    "Odia",
+    "Samoan",
+    "Shona",
+    "Sesotho",
+    "Swahili",
+    "Tagalog",
+    "Telugu",
+    "Tamil",
+    "Uighur",
+    "Urdu",
+    "Uzbek",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.findings-emnlp.1056",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.1056/"
+}

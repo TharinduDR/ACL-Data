@@ -1,0 +1,17 @@
+{
+  "title": "Improving word mover's distance by leveraging self-attention matrix",
+  "authors": [
+    "Hiroaki Yamagiwa",
+    "Sho Yokoi",
+    "Hidetoshi Shimodaira"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.746",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.746/"
+}

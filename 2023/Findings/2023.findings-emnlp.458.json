@@ -1,0 +1,21 @@
+{
+  "title": "KÉPLET: Knowledge-Enhanced Pretrained Language Model with Topic Entity Awareness",
+  "authors": [
+    "Yichuan Li",
+    "Jialong Han",
+    "Kyumin Lee",
+    "Chengyuan Ma",
+    "Benjamin Yao",
+    "Derek Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.findings-emnlp.458",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.458/"
+}

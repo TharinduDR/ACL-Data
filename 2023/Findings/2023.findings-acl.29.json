@@ -1,0 +1,36 @@
+{
+  "title": "A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets",
+  "authors": [
+    "Md Tahmid Rahman Laskar",
+    "M Saiful Bari",
+    "Mizanur Rahman",
+    "Md Amran Hossen Bhuiyan",
+    "Shafiq Joty",
+    "Jimmy Xiangji Huang"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Swahili",
+    "Bengali",
+    "Thai",
+    "Japanese",
+    "Chinese",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T27 Code generation and programming languages",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T01 Bias, Guardrails, filters",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2023.findings-acl.29",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.29/"
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Key Challenges in Multimodal Task-Oriented Dialogue Systems: Insights from a Large Competition-Based Dataset",
+  "authors": [
+    "Shiki Sato",
+    "Shinji Iwata",
+    "Asahi Hentona",
+    "Yuta Sasaki",
+    "Takato Yamazaki",
+    "Shoji Moriya",
+    "Masaya Ohagi",
+    "Hirofumi Kikuchi",
+    "Jie Yang",
+    "Zhiyang Qi",
+    "Takashi Kodama",
+    "Akinobu Lee",
+    "Masato Komuro",
+    "Hiroyuki Nishikawa",
+    "Ryosaku Makino",
+    "Takashi Minato",
+    "Kurima Sakai",
+    "Tomo Funayama",
+    "Kotaro Funakoshi",
+    "Mayumi Usami",
+    "Michimasa Inaba",
+    "Tetsuro Takahashi",
+    "Ryuichiro Higashinaka"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.sigdial-1.36",
+  "acl_url": "https://aclanthology.org/2025.sigdial-1.36/"
+}

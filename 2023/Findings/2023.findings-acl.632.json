@@ -1,0 +1,21 @@
+{
+  "title": "FedPETuning: When Federated Learning Meets the Parameter-Efficient Tuning Methods of Pre-trained Language Models",
+  "authors": [
+    "Zhuo Zhang",
+    "Yuanhang Yang",
+    "Yong Dai",
+    "Qifan Wang",
+    "Yue Yu",
+    "Lizhen Qu",
+    "Zenglin Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.632",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.632/"
+}

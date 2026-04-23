@@ -1,0 +1,23 @@
+{
+  "title": "The Dangers of trusting Stochastic Parrots: Faithfulness and Trust in Open-domain Conversational Question Answering",
+  "authors": [
+    "Sabrina Chiesurin",
+    "Dimitris Dimakopoulos",
+    "Marco Antonio Sobrevilla Cabezudo",
+    "Arash Eshghi",
+    "Ioannis Papaioannou",
+    "Verena Rieser",
+    "Ioannis Konstas",
+    "Alana AI"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.60",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.60/"
+}

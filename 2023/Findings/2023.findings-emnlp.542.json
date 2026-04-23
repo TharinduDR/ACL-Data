@@ -1,0 +1,27 @@
+{
+  "title": "Knowledge-Selective Pretraining for Attribute Value Extraction",
+  "authors": [
+    "Hui Liu",
+    "Qingyu Yin",
+    "Zhengyang Wang",
+    "Chenwei Zhang",
+    "Haoming Jiang",
+    "Yifan Gao",
+    "Zheng Li",
+    "Xian Li",
+    "Chao Zhang",
+    "Bing Yin",
+    "William Yang Wang",
+    "Xiaodan Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-emnlp.542",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.542/"
+}

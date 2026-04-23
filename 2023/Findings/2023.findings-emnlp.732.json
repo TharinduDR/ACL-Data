@@ -1,0 +1,19 @@
+{
+  "title": "Incorporating Syntactic Knowledge into Pre-trained Language Model using Optimization for Overcoming Catastrophic Forgetting",
+  "authors": [
+    "Ran Iwamoto",
+    "Issei Yoshida",
+    "Hiroshi Kanayama",
+    "Takuya Ohko",
+    "Masayasu Muraoka"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-emnlp.732",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.732/"
+}

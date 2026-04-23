@@ -1,0 +1,25 @@
+{
+  "title": "ECOLA: Enhancing Temporal Knowledge Embeddings with Contextualized Language Representations",
+  "authors": [
+    "Zhen Han",
+    "Ruotong Liao",
+    "Jindong Gu",
+    "Yao Zhang",
+    "Zifeng Ding",
+    "Yujia Gu",
+    "Heinz Koeppel",
+    "Hinrich Schütze",
+    "Volker Tresp"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-acl.335",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.335/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "XLS-R fine-tuning on noisy word boundaries for unsupervised speech segmentation into words",
+  "authors": [
+    "Robin Algayres",
+    "Pablo Diego-Simon",
+    "Benoit Sagot",
+    "Emmanuel Dupoux"
+  ],
+  "languages": [
+    "Chinese",
+    "French",
+    "English",
+    "German",
+    "Wolof"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2023.findings-emnlp.810",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.810/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Roll Up Your Sleeves: Working with a Collaborative and Engaging Task-Oriented Dialogue System",
+  "authors": [
+    "Lingbo Mo",
+    "Shijie Chen",
+    "Ziru Chen",
+    "Xiang Deng",
+    "Ashley Lewis",
+    "Sunit Singh",
+    "Samuel Stevens",
+    "Chang-You Tai",
+    "Zhen Wang",
+    "Xiang Yue",
+    "Tianshu Zhang",
+    "Yu Su",
+    "Huan Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.sigdial-1.19",
+  "acl_url": "https://aclanthology.org/2023.sigdial-1.19/"
+}

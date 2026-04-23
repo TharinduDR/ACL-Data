@@ -1,0 +1,28 @@
+{
+  "title": "Evaluating a Joint Training Approach for Learning Cross-lingual Embeddings with Sub-word Information without Parallel Corpora on Lower-resource Languages",
+  "authors": [
+    "Ali Hakimi Parizi",
+    "Paul Cook"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Albanian",
+    "Azerbaijani",
+    "Bengali",
+    "Bosnian",
+    "Croatian",
+    "Estonian",
+    "Greek",
+    "Hebrew",
+    "Hindi",
+    "Hungarian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.starsem-1.29",
+  "acl_url": "https://aclanthology.org/2021.starsem-1.29/"
+}

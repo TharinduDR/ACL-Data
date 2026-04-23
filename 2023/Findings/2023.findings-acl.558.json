@@ -1,0 +1,19 @@
+{
+  "title": "MVP: Multi-task Supervised Pre-training for Natural Language Generation",
+  "authors": [
+    "Tianyi Tang",
+    "Junyi Li",
+    "Wayne Xin Zhao",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T19 Text Simplification"
+  ],
+  "paper_id": "2023.findings-acl.558",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.558/"
+}

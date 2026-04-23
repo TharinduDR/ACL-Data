@@ -1,0 +1,23 @@
+{
+  "title": "Enhancing Text-to-SQL Capabilities of Large Language Models: A Study on Prompt Design Strategies",
+  "authors": [
+    "Linyong Nan",
+    "Yilun Zhao",
+    "Weijin Zou",
+    "Narutatsu Ri",
+    "Jaesung Tae",
+    "Ellen Zhang",
+    "Arman Cohan",
+    "Dragomir Radev"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.findings-emnlp.996",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.996/"
+}

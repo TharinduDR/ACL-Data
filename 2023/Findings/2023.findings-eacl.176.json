@@ -1,0 +1,19 @@
+{
+  "title": "Better Pre-Training by Reducing Representation Confusion",
+  "authors": [
+    "Haojie Zhang",
+    "Mingfei Liang",
+    "Ruobing Xie",
+    "Zhenlong Sun",
+    "Bo Zhang",
+    "Leyu Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-eacl.176",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.176/"
+}

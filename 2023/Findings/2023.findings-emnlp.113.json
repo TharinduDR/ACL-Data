@@ -1,0 +1,21 @@
+{
+  "title": "Simple Hardware-Efficient PCFGs with Independent Left and Right Productions",
+  "authors": [
+    "Wei Liu",
+    "Songlin Yang",
+    "Yoon Kim",
+    "Kewei Tu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-emnlp.113",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.113/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "COMPLEQA: Benchmarking the Impacts of Knowledge Graph Completion Methods on Question Answering",
+  "authors": [
+    "Donghan Yu",
+    "Yu Gu",
+    "Chenyan Xiong",
+    "Yiming Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.849",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.849/"
+}

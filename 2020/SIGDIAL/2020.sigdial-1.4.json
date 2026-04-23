@@ -1,0 +1,22 @@
+{
+  "title": "TripPy: A Triple Copy Strategy for Value Independent Neural Dialog State Tracking",
+  "authors": [
+    "Michael Heck",
+    "Carel van Niekerk",
+    "Nurul Lubis",
+    "Christian Geishauser",
+    "Hsien-Chin Lin",
+    "Marco Moresi",
+    "Milica Gašić"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.sigdial-1.4",
+  "acl_url": "https://aclanthology.org/2020.sigdial-1.4/"
+}

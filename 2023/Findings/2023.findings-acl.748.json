@@ -1,0 +1,21 @@
+{
+  "title": "REGEN: Zero-Shot Text Classification via Training Data Generation with Progressive Dense Retrieval",
+  "authors": [
+    "Yue Yu",
+    "Yuchen Zhuang",
+    "Rongzhi Zhang",
+    "Yu Meng",
+    "Jiaming Shen",
+    "Chao Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.findings-acl.748",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.748/"
+}

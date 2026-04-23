@@ -1,0 +1,24 @@
+{
+  "title": "Preventing Generation of Verbatim Memorization in Language Models Gives a False Sense of Privacy",
+  "authors": [
+    "Daphne Ippolito",
+    "Florian Tramèr",
+    "Milad Nasr",
+    "Chiyuan Zhang",
+    "Matthew Jagielski",
+    "Katherine Lee",
+    "Christopher A. Choquette-Choo",
+    "Nicholas Carlini"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2023.inlg-main.3",
+  "acl_url": "https://aclanthology.org/2023.inlg-main.3/"
+}

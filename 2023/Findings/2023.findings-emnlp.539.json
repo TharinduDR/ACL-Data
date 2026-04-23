@@ -1,0 +1,20 @@
+{
+  "title": "Measuring bias in Instruction-Following models with P-AT",
+  "authors": [
+    "Dario Onorati",
+    "Elena Sofia Ruzzetti",
+    "Davide Venditti",
+    "Leonardo Ranaldi",
+    "Fabio Massimo Zanzotto"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.539",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.539/"
+}

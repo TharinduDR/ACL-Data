@@ -1,0 +1,36 @@
+{
+  "title": "Augmenting Large Language Model Translators via Translation Memories",
+  "authors": [
+    "Yongyu Mu",
+    "Abudurexiti Reheman",
+    "Zhiquan Cao",
+    "Yuchun Fan",
+    "Bei Li",
+    "Yinqiao Li",
+    "Tong Xiao",
+    "Chunliang Zhang",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Czech",
+    "Romanian",
+    "Chinese",
+    "Persian",
+    "Swahili",
+    "Portuguese",
+    "Arabic",
+    "Korean",
+    "Japanese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-acl.653",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.653/"
+}

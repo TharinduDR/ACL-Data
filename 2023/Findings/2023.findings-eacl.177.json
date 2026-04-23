@@ -1,0 +1,19 @@
+{
+  "title": "MAFiD: Moving Average Equipped Fusion-in-Decoder for Question Answering over Tabular and Textual Data",
+  "authors": [
+    "Sung-Min Lee",
+    "Eunhwan Park",
+    "Daeryong Seo",
+    "Donghyeon Jeon",
+    "Inho Kang",
+    "Seung-Hoon Na"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-eacl.177",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.177/"
+}

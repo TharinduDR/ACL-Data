@@ -1,0 +1,20 @@
+{
+  "title": "MRRL: Modifying the Reference via Reinforcement Learning for Non-Autoregressive Joint Multiple Intent Detection and Slot Filling",
+  "authors": [
+    "Xuxin Cheng",
+    "Zhihong Zhu",
+    "Bowen Cao",
+    "Qichen Ye",
+    "YueXian Zou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.704",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.704/"
+}

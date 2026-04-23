@@ -1,0 +1,19 @@
+{
+  "title": "Debias NLU Datasets via Training-free Perturbations",
+  "authors": [
+    "Qi Guo",
+    "Yuanhang Tang",
+    "Yawen Ouyang",
+    "Zhen Wu",
+    "Xinyu Dai"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.726",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.726/"
+}

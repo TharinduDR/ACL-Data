@@ -1,0 +1,22 @@
+{
+  "title": "Structure-Aware Language Model Pretraining Improves Dense Retrieval on Structured Data",
+  "authors": [
+    "Xinze Li",
+    "Zhenghao Liu",
+    "Chenyan Xiong",
+    "Shi Yu",
+    "Yu Gu",
+    "Zhiyuan Liu",
+    "Ge Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.findings-acl.734",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.734/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "From Alignment to Entailment: A Unified Textual Entailment Framework for Entity Alignment",
+  "authors": [
+    "Yu Zhao",
+    "Yike Wu",
+    "Xiangrui Cai",
+    "Ying Zhang",
+    "Haiwei Zhang",
+    "Xiaojie Yuan"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.findings-acl.559",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.559/"
+}

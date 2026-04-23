@@ -1,0 +1,26 @@
+{
+  "title": "HaVQA: A Dataset for Visual Question Answering and Multimodal Research in Hausa Language",
+  "authors": [
+    "Shantipriya Parida",
+    "Idris Abdulmumin",
+    "Shamsuddeen Hassan Muhammad",
+    "Aneesh Bose",
+    "Guneet Singh Kohli",
+    "Ibrahim Said Ahmad",
+    "Ketan Kotwal",
+    "Sayan Deb Sarkar",
+    "Ondřej Bojar",
+    "Habeebah Adamu Kakudi"
+  ],
+  "languages": [
+    "English",
+    "Hausa"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.findings-acl.646",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.646/"
+}

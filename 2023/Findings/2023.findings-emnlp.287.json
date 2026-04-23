@@ -1,0 +1,20 @@
+{
+  "title": "Information Extraction from Legal Wills: How Well Does GPT-4 Do?",
+  "authors": [
+    "Alice Saebom Kwak",
+    "Cheonkam Jeong",
+    "Gaetano Vincent Forte",
+    "Derek E. Bambauer",
+    "Clayton T. Morrison",
+    "Mihai Surdeanu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2023.findings-emnlp.287",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.287/"
+}

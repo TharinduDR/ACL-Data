@@ -1,0 +1,40 @@
+{
+  "title": "Mini But Mighty: Efficient Multilingual Pretraining with Linguistically-Informed Data Selection",
+  "authors": [
+    "Tolulope Ogunremi",
+    "Dan Jurafsky",
+    "Christopher D. Manning"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "Hausa",
+    "Somali",
+    "Tigrinya",
+    "Bemba",
+    "Gahuza",
+    "isiXhosa",
+    "isiZulu",
+    "Kiswahili",
+    "Lingala",
+    "Luganda",
+    "Nande",
+    "Sepedi",
+    "Setswana",
+    "Xitsonga",
+    "Èdò",
+    "Fon",
+    "Igbo",
+    "Urhobo",
+    "Yorùbá",
+    "Nigerian Pidgin"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T20 Opinion & Argument Mining, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-eacl.93",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.93/"
+}

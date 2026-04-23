@@ -1,0 +1,22 @@
+{
+  "title": "Multi-step Jailbreaking Privacy Attacks on ChatGPT",
+  "authors": [
+    "Haoran Li",
+    "Dadi Guo",
+    "Wei Fan",
+    "Mingshi Xu",
+    "Jie Huang",
+    "Fanpu Meng",
+    "Yangqiu Song"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.findings-emnlp.272",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.272/"
+}

@@ -1,0 +1,42 @@
+{
+  "title": "A Multi-Modal Multilingual Benchmark for Document Image Classification",
+  "authors": [
+    "Yoshinari Fujinuma",
+    "Siddharth Varia",
+    "Nishant Sankaran",
+    "Bonan Min",
+    "Srikar Appalaraju",
+    "Yogarshi Vyas"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Dutch",
+    "Swedish",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Spanish",
+    "Romanian",
+    "Polish",
+    "Czech",
+    "Hungarian",
+    "Finnish",
+    "Slovak",
+    "Lithuanian",
+    "Croatian",
+    "Slovene",
+    "Estonian",
+    "Latvian",
+    "Maltese",
+    "Chinese",
+    "Japanese",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.958",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.958/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Code-Switching with Word Senses for Pretraining in Neural Machine Translation",
+  "authors": [
+    "Vivek Iyer",
+    "Edoardo Barba",
+    "Alexandra Birch",
+    "Jeff Z. Pan",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Hindi",
+    "Persian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.findings-emnlp.859",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.859/"
+}

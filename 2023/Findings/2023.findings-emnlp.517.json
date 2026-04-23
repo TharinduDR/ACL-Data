@@ -1,0 +1,23 @@
+{
+  "title": "Text2Tree: Aligning Text Representation to the Label Tree Hierarchy for Imbalanced Medical Classification",
+  "authors": [
+    "Jiahuan Yan",
+    "Haojun Gao",
+    "Kai Zhang",
+    "Weize Liu",
+    "Danny Chen",
+    "Jian Wu",
+    "Jintai Chen"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2023.findings-emnlp.517",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.517/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Enhancing Cross-lingual Transfer via Phonemic Transcription Integration",
+  "authors": [
+    "Hoang H. Nguyen",
+    "Chenwei Zhang",
+    "Tao Zhang",
+    "Eugene Rohrbaugh",
+    "Philip S. Yu"
+  ],
+  "languages": [
+    "Chinese",
+    "Vietnamese",
+    "Japanese",
+    "Korean"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2023.findings-acl.583",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.583/"
+}

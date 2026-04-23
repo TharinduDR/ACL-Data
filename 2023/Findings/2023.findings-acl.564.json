@@ -1,0 +1,27 @@
+{
+  "title": "In-context Examples Selection for Machine Translation",
+  "authors": [
+    "Sweta Agrawal",
+    "Chunting Zhou",
+    "Mike Lewis",
+    "Luke Zettlemoyer",
+    "Marjan Ghazvininejad"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Medical",
+    "Law",
+    "IT",
+    "Koran"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2023.findings-acl.564",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.564/"
+}

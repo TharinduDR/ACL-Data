@@ -1,0 +1,32 @@
+{
+  "title": "Good Meta-tasks Make A Better Cross-lingual Meta-transfer Learning for Low-resource Languages",
+  "authors": [
+    "Linjuan Wu",
+    "Zongyi Guo",
+    "Baoliang Cui",
+    "Haihong Tang",
+    "Weiming Lu"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Bengali",
+    "Chinese",
+    "Finnish",
+    "Indonesian",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Telugu",
+    "Thai",
+    "Turkish",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T11",
+    "T14",
+    "T21"
+  ],
+  "paper_id": "2023.findings-emnlp.498",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.498/"
+}

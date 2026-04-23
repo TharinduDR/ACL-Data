@@ -1,0 +1,42 @@
+{
+  "title": "AIWolfDial 2023: Summary of Natural Language Division of 5th International AIWolf Contest",
+  "authors": [
+    "Yoshinobu Kano",
+    "Neo Watanabe",
+    "Kaito Kagaminuma",
+    "Claus Aranha",
+    "Jaewon Lee",
+    "Benedek Hauer",
+    "Hisaichi Shibata",
+    "Soichiro Miki",
+    "Yuta Nakamura",
+    "Takuya Okubo",
+    "Soga Shigemura",
+    "Rei Ito",
+    "Kazuki Takashima",
+    "Tomoki Fukuda",
+    "Masahiro Wakutani",
+    "Tomoya Hatanaka",
+    "Mami Uchida",
+    "Mikio Abe",
+    "Akihiro Mikami",
+    "Takashi Otsuki",
+    "Zhiyang Qi",
+    "Michimasa Inaba",
+    "Kei Harada",
+    "Daisuke Katagami",
+    "Hirotaka Osawa",
+    "Fujio Toriumi"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.inlg-genchal.13",
+  "acl_url": "https://aclanthology.org/2023.inlg-genchal.13/"
+}

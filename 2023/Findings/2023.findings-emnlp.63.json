@@ -1,0 +1,23 @@
+{
+  "title": "MixTEA: Semi-supervised Entity Alignment with Mixture Teaching",
+  "authors": [
+    "Feng Xie",
+    "Xin Song",
+    "Xiang Zeng",
+    "Xuechen Zhao",
+    "Lei Tian",
+    "Bin Zhou",
+    "Yusong Tan"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.findings-emnlp.63",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.63/"
+}

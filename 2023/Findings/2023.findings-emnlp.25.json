@@ -1,0 +1,18 @@
+{
+  "title": "Bidirectional Masked Self-attention and N-gram Span Attention for Constituency Parsing",
+  "authors": [
+    "Soohyeong Kim",
+    "Whanhee Cho",
+    "Minji Kim",
+    "Yong Suk Choi"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-emnlp.25",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.25/"
+}

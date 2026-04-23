@@ -1,0 +1,26 @@
+{
+  "title": "Crosslingual Transfer Learning for Low-Resource Languages Based on Multilingual Colexification Graphs",
+  "authors": [
+    "Yihong Liu",
+    "Haotian Ye",
+    "Leonie Weissweiler",
+    "Renhao Pei",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Russian",
+    "Chinese",
+    "Apinayé",
+    "Mündü",
+    "Salt-Yui"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.findings-emnlp.562",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.562/"
+}

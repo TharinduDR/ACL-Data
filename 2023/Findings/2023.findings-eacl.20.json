@@ -1,0 +1,21 @@
+{
+  "title": "MCoNaLa: A Benchmark for Code Generation from Multiple Natural Languages",
+  "authors": [
+    "Zhiruo Wang",
+    "Grace Cuenca",
+    "Shuyan Zhou",
+    "Frank F. Xu",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "Spanish",
+    "Japanese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-eacl.20",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.20/"
+}

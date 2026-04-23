@@ -1,0 +1,24 @@
+{
+  "title": "On the Role of Parallel Data in Cross-lingual Transfer Learning",
+  "authors": [
+    "Machel Reid",
+    "Mikel Artetxe"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Hindi",
+    "French",
+    "Swahili",
+    "Russian",
+    "Thai",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2023.findings-acl.372",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.372/"
+}

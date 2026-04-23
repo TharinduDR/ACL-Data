@@ -1,0 +1,21 @@
+{
+  "title": "Critic-Guided Decoding for Controlled Text Generation",
+  "authors": [
+    "Minbeom Kim",
+    "Hwanhee Lee",
+    "Kang Min Yoo",
+    "Joonseuk Park",
+    "Hwaran Lee",
+    "Kyomin Jung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.findings-acl.281",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.281/"
+}

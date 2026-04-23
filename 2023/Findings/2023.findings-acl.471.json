@@ -1,0 +1,21 @@
+{
+  "title": "Interpreting Sentiment Composition with Latent Semantic Tree",
+  "authors": [
+    "Zhongtao Jiang",
+    "Yuanzhe Zhang",
+    "Cao Liu",
+    "Jiansong Chen",
+    "Jun Zhao",
+    "Kang Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-acl.471",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.471/"
+}

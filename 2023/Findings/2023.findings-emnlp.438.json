@@ -1,0 +1,23 @@
+{
+  "title": "Toward Joint Language Modeling for Speech Units and Text",
+  "authors": [
+    "Ju-Chieh Chou",
+    "Chung-Ming Chien",
+    "Wei-Ning Hsu",
+    "Karen Livescu",
+    "Arun Babu",
+    "Alexis Conneau",
+    "Alexei Baevski",
+    "Michael Auli"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2023.findings-emnlp.438",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.438/"
+}

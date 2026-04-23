@@ -1,0 +1,33 @@
+{
+  "title": "INFOSYNC: Information Synchronization across Multilingual Semi-structured Tables",
+  "authors": [
+    "Siddharth Khincha",
+    "Chelsi Jain",
+    "Vivek Gupta",
+    "Tushar Kataria",
+    "Shuo Zhang"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Arabic",
+    "Chinese",
+    "Hindi",
+    "Korean",
+    "Russian",
+    "Turkish",
+    "Afrikaans",
+    "Dutch",
+    "Cebuano",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.findings-acl.159",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.159/"
+}

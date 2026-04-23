@@ -1,0 +1,41 @@
+{
+  "title": "Sharing, Teaching and Aligning: Knowledgeable Transfer Learning for Cross-Lingual Machine Reading Comprehension",
+  "authors": [
+    "Tingfeng Cao",
+    "Chengyu Wang",
+    "Chuanqi Tan",
+    "Jun Huang",
+    "Jinhui Zhu"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Spanish",
+    "Hindi",
+    "Vietnamese",
+    "Chinese",
+    "Bengali",
+    "Finnish",
+    "Indonesian",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Telugu",
+    "Thai",
+    "Turkish",
+    "Russian",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T10",
+    "T16"
+  ],
+  "paper_id": "2023.findings-emnlp.33",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.33/"
+}

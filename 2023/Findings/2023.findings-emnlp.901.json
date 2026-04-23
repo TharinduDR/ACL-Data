@@ -1,0 +1,21 @@
+{
+  "title": "Beyond Testers' Biases: Guiding Model Testing with Knowledge Bases using LLMs",
+  "authors": [
+    "Chenyang Yang",
+    "Rishabh Rustogi",
+    "Rachel Brower-Sinning",
+    "Grace A. Lewis",
+    "Christian Kästner",
+    "Tongshuang Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.findings-emnlp.901",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.901/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Code Execution with Pre-trained Language Models",
+  "authors": [
+    "Chenxiao Liu",
+    "Shuai Lu",
+    "Weizhu Chen",
+    "Daxin Jiang",
+    "Alexey Svyatkovskiy",
+    "Shengyu Fu",
+    "Neel Sundaresan",
+    "Nan Duan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.308",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.308/"
+}

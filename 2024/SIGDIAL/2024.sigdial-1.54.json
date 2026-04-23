@@ -1,0 +1,22 @@
+{
+  "title": "MemeIntent: Benchmarking Intent Description Generation for Memes",
+  "authors": [
+    "Jeongsik Park",
+    "Khoi P. N. Nguyen",
+    "Terrence Li",
+    "Suyesh Shrestha",
+    "Megan Kim Vu",
+    "Jerry Yining Wang",
+    "Vincent Ng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.sigdial-1.54",
+  "acl_url": "https://aclanthology.org/2024.sigdial-1.54/"
+}

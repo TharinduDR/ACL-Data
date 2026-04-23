@@ -1,0 +1,21 @@
+{
+  "title": "ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models",
+  "authors": [
+    "Zhipeng Chen",
+    "Kun Zhou",
+    "Beichen Zhang",
+    "Zheng Gong",
+    "Wayne Xin Zhao",
+    "Ji-Rong Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2023.findings-emnlp.985",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.985/"
+}

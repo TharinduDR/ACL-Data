@@ -1,0 +1,21 @@
+{
+  "title": "Are Layout-Infused Language Models Robust to Layout Distribution Shifts? A Case Study with Scientific Documents",
+  "authors": [
+    "Catherine Chen",
+    "Zejiang Shen",
+    "Dan Klein",
+    "Gabriel Stanovsky",
+    "Doug Downey",
+    "Kyle Lo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.844",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.844/"
+}

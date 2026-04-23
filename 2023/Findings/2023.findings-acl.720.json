@@ -1,0 +1,19 @@
+{
+  "title": "CFL: Causally Fair Language Models Through Token-level Attribute Controlled Generation",
+  "authors": [
+    "Rahul Madhavan",
+    "Rishabh Garg",
+    "Kahini Wadhawan",
+    "Sameep Mehta"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.findings-acl.720",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.720/"
+}

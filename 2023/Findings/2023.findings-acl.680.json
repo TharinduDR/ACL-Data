@@ -1,0 +1,23 @@
+{
+  "title": "Coherent or Not? Stressing a Neural Language Model for Discourse Coherence in Multiple Languages",
+  "authors": [
+    "Dominique Brunato",
+    "Felice Dell'Orletta",
+    "Irene Dini",
+    "Andrea Amelio Ravelli"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T05 Discourse and Pragmatics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.680",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.680/"
+}

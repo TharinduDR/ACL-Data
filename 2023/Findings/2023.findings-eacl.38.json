@@ -1,0 +1,40 @@
+{
+  "title": "Language-Aware Multilingual Machine Translation with Self-Supervised Learning",
+  "authors": [
+    "Haoran Xu",
+    "Jean Maillard",
+    "Vedanuj Goswami"
+  ],
+  "languages": [
+    "English",
+    "Nigerian Fulfulde",
+    "Kimbundu",
+    "Ganda",
+    "Chewa",
+    "Swahili",
+    "Umbundu",
+    "Wolof",
+    "Zulu",
+    "Northern Sotho",
+    "Rundi",
+    "Swati",
+    "Indonesian",
+    "Malay",
+    "Tagalog",
+    "Bokmål (Norwegian)",
+    "Icelandic",
+    "Faroese",
+    "Slovene",
+    "Luxembourgish",
+    "Limburgish",
+    "Catalan",
+    "Galician",
+    "Friulian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-eacl.38",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.38/"
+}

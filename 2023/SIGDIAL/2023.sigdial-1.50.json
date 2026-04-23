@@ -1,0 +1,23 @@
+{
+  "title": "Investigating the Representation of Open Domain Dialogue Context for Transformer Models",
+  "authors": [
+    "Vishakh Padmakumar",
+    "Behnam Hedayatnia",
+    "Di Jin",
+    "Patrick Lange",
+    "Seokhwan Kim",
+    "Nanyun Peng",
+    "Yang Liu",
+    "Dilek Hakkani-Tur"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T18 Text Summarization",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.sigdial-1.50",
+  "acl_url": "https://aclanthology.org/2023.sigdial-1.50/"
+}

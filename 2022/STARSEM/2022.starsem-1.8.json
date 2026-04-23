@@ -1,0 +1,22 @@
+{
+  "title": "Multilingual Extraction and Categorization of Lexical Collocations with Graph-aware Transformers",
+  "authors": [
+    "Luis Espinosa-Anke",
+    "Alexander Shvets",
+    "Alireza Mohammadsahi",
+    "James Henderson",
+    "Leo Wanner"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.starsem-1.8",
+  "acl_url": "https://aclanthology.org/2022.starsem-1.8/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Fine-Tuning GPT-3 for Synthetic Danish News Generation",
+  "authors": [
+    "Mina Almasi",
+    "Anton Drasbæk Schiønning"
+  ],
+  "languages": [
+    "Danish",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2023.inlg-main.4",
+  "acl_url": "https://aclanthology.org/2023.inlg-main.4/"
+}

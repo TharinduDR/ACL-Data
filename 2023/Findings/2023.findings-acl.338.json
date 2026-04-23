@@ -1,0 +1,31 @@
+{
+  "title": "Mini-Model Adaptation: Efficiently Extending Pretrained Models to New Languages via Aligned Shallow Training",
+  "authors": [
+    "Kelly Marchisio",
+    "Patrick Lewis",
+    "Yihong Chen",
+    "Mikel Artetxe"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "German",
+    "English",
+    "Hindi",
+    "Spanish",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Urdu",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2023.findings-acl.338",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.338/"
+}

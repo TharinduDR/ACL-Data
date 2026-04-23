@@ -1,0 +1,21 @@
+{
+  "title": "Leveraging Synthetic Targets for Machine Translation",
+  "authors": [
+    "Sarthak Mittal",
+    "Oleksii Hrinchuk",
+    "Oleksii Kuchaiev"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-acl.597",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.597/"
+}

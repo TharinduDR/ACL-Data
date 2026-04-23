@@ -1,0 +1,26 @@
+{
+  "title": "Exploring Anisotropy and Outliers in Multilingual Language Models for Cross-Lingual Semantic Sentence Similarity",
+  "authors": [
+    "Katharina Hämmel",
+    "Alina Fastowski",
+    "Jindřich Libovický",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "German",
+    "English",
+    "Spanish",
+    "Swahili",
+    "Turkish",
+    "Sundanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.findings-acl.439",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.439/"
+}

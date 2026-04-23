@@ -1,0 +1,19 @@
+{
+  "title": "Kanbun-LM: Reading and Translating Classical Chinese in Japanese Methods by Language Models",
+  "authors": [
+    "Hao Wang",
+    "Hirofumi Shimizu",
+    "Daisuke Kawahara"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.545",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.545/"
+}

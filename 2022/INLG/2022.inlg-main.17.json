@@ -1,0 +1,29 @@
+{
+  "title": "Zero-shot Cross-Linguistic Learning of Event Semantics",
+  "authors": [
+    "Malihe Alikhani",
+    "Thomas Kober",
+    "Bashar Alhafni",
+    "Yue Chen",
+    "Mert Inan",
+    "Elizabeth Nielsen",
+    "Shahab Raji",
+    "Mark Steedman",
+    "Matthew Stone"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Persian",
+    "German",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.inlg-main.17",
+  "acl_url": "https://aclanthology.org/2022.inlg-main.17/"
+}

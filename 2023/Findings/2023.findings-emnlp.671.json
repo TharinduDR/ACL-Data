@@ -1,0 +1,28 @@
+{
+  "title": "Investigating Multilingual Coreference Resolution by Universal Annotations",
+  "authors": [
+    "Haixia Chai",
+    "Michael Strube"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Hungarian",
+    "Lithuanian",
+    "Polish",
+    "Czech",
+    "French",
+    "Russian",
+    "Turkish",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2023.findings-emnlp.671",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.671/"
+}

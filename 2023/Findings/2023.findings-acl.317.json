@@ -1,0 +1,20 @@
+{
+  "title": "COCKATIEL: CContinuous Concept ranKed ATtribution with Interpretable ELEments for explaining neural net classifiers on NLP tasks",
+  "authors": [
+    "Fanny Jourdan",
+    "Agustin Picard",
+    "Thomas Fel",
+    "Laurent Risser",
+    "Jean-Michel Loubes",
+    "Nicholas Asher"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.findings-acl.317",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.317/"
+}

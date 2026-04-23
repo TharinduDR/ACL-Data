@@ -1,0 +1,29 @@
+{
+  "title": "On the Impact of Cross-Domain Data on German Language Models",
+  "authors": [
+    "Amin Dada",
+    "Aokun Chen",
+    "Cheng Peng",
+    "Kaleb E Smith",
+    "Ahmad Idrissi-Yaghir",
+    "Constantin Marc Seibold",
+    "Jianning Li",
+    "Lars Heiliger",
+    "Christoph M. Friedrich",
+    "Daniel Truhn",
+    "Jan Egger",
+    "Jiang Bian",
+    "Jens Kleesiek",
+    "Yonghui Wu"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2023.findings-emnlp.922",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.922/"
+}

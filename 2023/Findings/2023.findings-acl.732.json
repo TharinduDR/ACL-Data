@@ -1,0 +1,22 @@
+{
+  "title": "FiDO: Fusion-in-Decoder optimized for stronger performance and faster inference",
+  "authors": [
+    "Michiel de Jong",
+    "Yury Zemlyanskiy",
+    "Joshua Ainslie",
+    "Nicholas FitzGerald",
+    "Sumit Sanghai",
+    "Fei Sha",
+    "William W. Cohen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.findings-acl.732",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.732/"
+}

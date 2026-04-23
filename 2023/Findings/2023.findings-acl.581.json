@@ -1,0 +1,30 @@
+{
+  "title": "Language Agnostic Multilingual Information Retrieval with Contrastive Learning",
+  "authors": [
+    "Xiyang Hu",
+    "Xinchi Chen",
+    "Peng Qi",
+    "Deguang Kong",
+    "Kunlun Liu",
+    "William Yang Wang",
+    "Zhiheng Huang"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "English",
+    "Finnish",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Telugu",
+    "Thai"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.findings-acl.581",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.581/"
+}

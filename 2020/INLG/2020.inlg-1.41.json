@@ -1,0 +1,19 @@
+{
+  "title": "Transformer based Natural Language Generation for Question-Answering",
+  "authors": [
+    "Imen Akermi",
+    "Johannes Heinecke",
+    "Frédéric Herledan"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.inlg-1.41",
+  "acl_url": "https://aclanthology.org/2020.inlg-1.41/"
+}

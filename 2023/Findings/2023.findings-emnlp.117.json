@@ -1,0 +1,31 @@
+{
+  "title": "Self-Supervised Rule Learning to Link Text Segments to Relational Elements of Structured Knowledge",
+  "authors": [
+    "Shajith Ikbal",
+    "Udit Sharma",
+    "Hima Karanam",
+    "Sumit Neelam",
+    "Ronny Luss",
+    "Dheeraj Sreedhar",
+    "Pavan Kapanipathi",
+    "Naweed Khan",
+    "Kyle Erwin",
+    "Ndivhuwo Makondo",
+    "Ibrahim Abdelaziz",
+    "Achille Fokoue",
+    "Alexander Gray",
+    "Maxwell Crouse",
+    "Subhajit Chaudhury",
+    "Chitra K Subramanian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-emnlp.117",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.117/"
+}

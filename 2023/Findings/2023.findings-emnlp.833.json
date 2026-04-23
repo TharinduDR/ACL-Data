@@ -1,0 +1,18 @@
+{
+  "title": "Large Language Models Are Better Adversaries: Exploring Generative Clean-Label Backdoor Attacks Against Text Classifiers",
+  "authors": [
+    "Wencong You",
+    "Zayd Hammoudeh",
+    "Daniel Lowd"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2023.findings-emnlp.833",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.833/"
+}

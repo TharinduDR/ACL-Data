@@ -1,0 +1,19 @@
+{
+  "title": "The SelectGen Challenge: Finding the Best Training Samples for Few-Shot Neural Text Generation",
+  "authors": [
+    "Ernie Chang",
+    "Xiaoyu Shen",
+    "Alex Marin",
+    "Vera Demberg"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.inlg-1.36",
+  "acl_url": "https://aclanthology.org/2021.inlg-1.36/"
+}

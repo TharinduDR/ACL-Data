@@ -1,0 +1,28 @@
+{
+  "title": "Generate then Select: Open-ended Visual Question Answering Guided by World Knowledge",
+  "authors": [
+    "Xingyu Fu",
+    "Sheng Zhang",
+    "Gukyeong Kwon",
+    "Pramuditha Perera",
+    "Henghui Zhu",
+    "Yuhao Zhang",
+    "Alexander Hanbo Li",
+    "William Wang",
+    "Zhiguo Wang",
+    "Vittorio Castelli",
+    "Patrick Ng",
+    "Dan Roth",
+    "Bing Xiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.findings-acl.147",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.147/"
+}

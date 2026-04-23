@@ -1,0 +1,20 @@
+{
+  "title": "Constructing Code-mixed Universal Dependency Forest for Unbiased Cross-lingual Relation Extraction",
+  "authors": [
+    "Hao Fei",
+    "Meishan Zhang",
+    "Min Zhang",
+    "Tat-Seng Chua"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-acl.599",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.599/"
+}

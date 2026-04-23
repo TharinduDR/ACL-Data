@@ -1,0 +1,20 @@
+{
+  "title": "Improving Conversational Recommendation Systems via Bias Analysis and Language-Model-Enhanced Data Augmentation",
+  "authors": [
+    "Xi Wang",
+    "Hossein A. Rahmani",
+    "Jiqun Liu",
+    "Emine Yilmaz"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.233",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.233/"
+}

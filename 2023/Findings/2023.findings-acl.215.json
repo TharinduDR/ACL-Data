@@ -1,0 +1,33 @@
+{
+  "title": "Vārta: A Large-Scale Headline-Generation Dataset for Indic Languages",
+  "authors": [
+    "Rahul Aralikatte",
+    "Ziling Cheng",
+    "Sumanth Doddapaneni",
+    "Jackie Chi Kit Cheung"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Nepali",
+    "Oriya",
+    "Punjabi",
+    "Tamil",
+    "Telugu",
+    "Urdu",
+    "Assamese",
+    "Bhojpuri"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2023.findings-acl.215",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.215/"
+}

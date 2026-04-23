@@ -1,0 +1,21 @@
+{
+  "title": "Revisiting Intermediate Layer Distillation for Compressing Language Models: An Overfitting Perspective",
+  "authors": [
+    "Jongwoo Ko",
+    "Seungjoon Park",
+    "Minchan Jeong",
+    "Sukjin Hong",
+    "Euijai Ahn",
+    "Du-Seong Chang",
+    "Se-Young Yun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-eacl.12",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.12/"
+}

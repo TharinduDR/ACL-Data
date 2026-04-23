@@ -1,0 +1,33 @@
+{
+  "title": "Towards Being Parameter-Efficient: A Stratified Sparsely Activated Transformer with Dynamic Capacity",
+  "authors": [
+    "Haoran Xu",
+    "Maha Elbayad",
+    "Kenton Murray",
+    "Jean Maillard",
+    "Vedanuj Goswami"
+  ],
+  "languages": [
+    "English",
+    "Northern Sotho",
+    "Rundi",
+    "Swati",
+    "Indonesian",
+    "Malay",
+    "Tagalog",
+    "Bokmål (Norwegian)",
+    "Icelandic",
+    "Faroese",
+    "Slovene",
+    "Luxembourgish",
+    "Limburgish",
+    "Catalan",
+    "Galician",
+    "Friulian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.findings-emnlp.856",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.856/"
+}

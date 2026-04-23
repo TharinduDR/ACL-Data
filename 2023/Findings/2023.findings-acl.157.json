@@ -1,0 +1,20 @@
+{
+  "title": "Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias",
+  "authors": [
+    "Zhiyuan Zhang",
+    "Deli Chen",
+    "Hao Zhou",
+    "Fandong Meng",
+    "Jie Zhou",
+    "Xu Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-acl.157",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.157/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "DCU-ADAPT-modPB at the GEM'24 Data-to-Text Generation Task: Model Hybridisation for Pipeline Data-to-Text Natural Language Generation",
+  "authors": [
+    "Chinonso Cynthia Osuji",
+    "Rudali Huidrom",
+    "Kolawole John Adebayo",
+    "Thiago Castro Ferreira",
+    "Brian Davis"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Hindi",
+    "Korean",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.inlg-genchal.7",
+  "acl_url": "https://aclanthology.org/2024.inlg-genchal.7/"
+}

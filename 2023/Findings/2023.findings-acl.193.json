@@ -1,0 +1,33 @@
+{
+  "title": "Boosting Zero-shot Cross-lingual Retrieval by Training on Artificially Code-Switched Data",
+  "authors": [
+    "Robert Litschko",
+    "Ekaterina Artemova",
+    "Barbara Plank"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Arabic",
+    "Italian",
+    "Dutch",
+    "French",
+    "Indonesian",
+    "Portuguese",
+    "Spanish",
+    "Chinese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.findings-acl.193",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.193/"
+}

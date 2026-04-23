@@ -1,0 +1,22 @@
+{
+  "title": "Tokenization with Factorized Subword Encoding",
+  "authors": [
+    "David Samuel",
+    "Lilja Øvrelid"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Czech",
+    "English",
+    "Norwegian",
+    "Scottish Gaelic",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-acl.890",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.890/"
+}

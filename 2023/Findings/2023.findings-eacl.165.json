@@ -1,0 +1,19 @@
+{
+  "title": "Grammatical Error Correction through Round-Trip Machine Translation",
+  "authors": [
+    "Yova Kementchedjhieva",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "German",
+    "Russian",
+    "Spanish",
+    "Czech",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T29"
+  ],
+  "paper_id": "2023.findings-eacl.165",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.165/"
+}

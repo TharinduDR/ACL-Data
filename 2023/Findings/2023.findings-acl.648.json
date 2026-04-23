@@ -1,0 +1,18 @@
+{
+  "title": "StructSP: Efficient Fine-tuning of Task-Oriented Dialog System by Using Structure-aware Boosting and Grammar Constraints",
+  "authors": [
+    "Dinh-Truong Do",
+    "Minh-Phuong Nguyen",
+    "Le-Minh Nguyen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2023.findings-acl.648",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.648/"
+}

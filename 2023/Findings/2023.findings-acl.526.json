@@ -1,0 +1,19 @@
+{
+  "title": "Open-WikiTable: Dataset for Open Domain Question Answering with Complex Reasoning over Table",
+  "authors": [
+    "Sunjun Kweon",
+    "Yeonsu Kwon",
+    "Seonhee Cho",
+    "Yohan Jo",
+    "Edward Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-acl.526",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.526/"
+}

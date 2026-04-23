@@ -1,0 +1,18 @@
+{
+  "title": "DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text",
+  "authors": [
+    "Shuaiyi Li",
+    "Yang Deng",
+    "Wai Lam"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.findings-emnlp.428",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.428/"
+}

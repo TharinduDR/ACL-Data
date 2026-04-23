@@ -1,0 +1,21 @@
+{
+  "title": "Sources of Hallucination by Large Language Models on Inference Tasks",
+  "authors": [
+    "Nick McKenna",
+    "Tianyi Li",
+    "Liang Cheng",
+    "Mohammad Javad Hosseini",
+    "Mark Johnson",
+    "Mark Steedman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.findings-emnlp.182",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.182/"
+}

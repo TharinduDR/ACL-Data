@@ -1,0 +1,22 @@
+{
+  "title": "Evaluating LLMs' Ability to Understand Numerical Time Series for Text Generation",
+  "authors": [
+    "Mizuki Arai",
+    "Tatsuya Ishigaki",
+    "Masayuki Kawarada",
+    "Yusuke Miyao",
+    "Hiroya Takamura",
+    "Ichiro Kobayashi"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T19 Text Summarization"
+  ],
+  "paper_id": "2025.inlg-main.16",
+  "acl_url": "https://aclanthology.org/2025.inlg-main.16/"
+}

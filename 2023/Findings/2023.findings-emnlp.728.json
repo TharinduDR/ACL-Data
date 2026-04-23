@@ -1,0 +1,24 @@
+{
+  "title": "Robustness of Named Entity Replacements for In-Context Learning",
+  "authors": [
+    "Saeed Goodarzi",
+    "Nikhil Kagita",
+    "Dennis Minn",
+    "Shufan Wang",
+    "Roberto Dessi",
+    "Shubham Toshniwal",
+    "Adina Williams",
+    "Jack Lanchantin",
+    "Koustuv Sinha"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-emnlp.728",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.728/"
+}

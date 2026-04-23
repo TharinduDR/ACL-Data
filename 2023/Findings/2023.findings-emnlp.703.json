@@ -1,0 +1,17 @@
+{
+  "title": "Investigating the Effect of Pre-finetuning BERT Models on NLI Involving Presuppositions",
+  "authors": [
+    "Jad Kabbara",
+    "Jackie Chi Kit Cheung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T05 Discourse and Pragmatics",
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.findings-emnlp.703",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.703/"
+}

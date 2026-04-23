@@ -1,0 +1,20 @@
+{
+  "title": "Dual Debiassing: Remove Stereotypes and Keep Factual Gender for Fair Language Modeling and Translation",
+  "authors": [
+    "Tomasz Limisiewicz",
+    "David Mareček",
+    "Tomáš Musil"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.inlg-main.10",
+  "acl_url": "https://aclanthology.org/2025.inlg-main.10/"
+}

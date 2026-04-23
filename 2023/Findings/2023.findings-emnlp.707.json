@@ -1,0 +1,25 @@
+{
+  "title": "Always the Best Fit: Adaptive Domain Gap Filling from Causal Perspective for Few-Shot Relation Extraction",
+  "authors": [
+    "Ge Bai",
+    "Chenji Lu",
+    "Jiaxiang Geng",
+    "Shilong Li",
+    "Yidong Shi",
+    "Xiyan Liu",
+    "Ying Liu",
+    "Zhang Zhang",
+    "Ruifang Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.findings-emnlp.707",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.707/"
+}

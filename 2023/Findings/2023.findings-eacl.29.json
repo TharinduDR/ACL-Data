@@ -1,0 +1,20 @@
+{
+  "title": "LED: A Dataset for Life Event Extraction from Dialogs",
+  "authors": [
+    "Yi-Pei Chen",
+    "An-Zi Yen",
+    "Hen-Hsen Huang",
+    "Hideki Nakayama",
+    "Hsin-Hsi Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2023.findings-eacl.29",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.29/"
+}

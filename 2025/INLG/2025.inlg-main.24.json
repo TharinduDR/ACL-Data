@@ -1,0 +1,22 @@
+{
+  "title": "German4All – A Dataset and Model for Readability-Controlled Paraphrasing in German",
+  "authors": [
+    "Miriam Anschütz",
+    "Thanh Mai Pham",
+    "Eslam Nasrallah",
+    "Maximilian Müller",
+    "Cristian-George Craciun",
+    "Georg Groh"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.inlg-main.24",
+  "acl_url": "https://aclanthology.org/2025.inlg-main.24/"
+}

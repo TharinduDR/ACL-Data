@@ -1,0 +1,20 @@
+{
+  "title": "Multi-Lingual Implicit Discourse Relation Recognition with Multi-Label Hierarchical Learning",
+  "authors": [
+    "Nelson Filipe Costa",
+    "Leila Kosseim"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Czech"
+  ],
+  "research_areas": [
+    "T05 Discourse and Pragmatics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.sigdial-1.4",
+  "acl_url": "https://aclanthology.org/2025.sigdial-1.4/"
+}

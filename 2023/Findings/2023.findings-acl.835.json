@@ -1,0 +1,22 @@
+{
+  "title": "Distinguish Before Answer: Generating Contrastive Explanation as Knowledge for Commonsense Question Answering",
+  "authors": [
+    "Qianglong Chen",
+    "Guohai Xu",
+    "Ming Yan",
+    "Ji Zhang",
+    "Fei Huang",
+    "Luo Si",
+    "Yin Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.findings-acl.835",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.835/"
+}

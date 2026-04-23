@@ -1,0 +1,23 @@
+{
+  "title": "Selective-LAMA: Selective Prediction for Confidence-Aware Evaluation of Language Models",
+  "authors": [
+    "Hiyori Yoshikawa",
+    "Naoaki Okazaki"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Cantonese",
+    "Arabic",
+    "Russian",
+    "Latin"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.findings-eacl.150",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.150/"
+}

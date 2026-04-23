@@ -1,0 +1,22 @@
+{
+  "title": "Towards Multilingual Interlinear Morphological Glossing",
+  "authors": [
+    "Shu Okabe",
+    "François Yvon"
+  ],
+  "languages": [
+    "English",
+    "Tsez",
+    "Gitksan",
+    "Lezgi",
+    "Natugu",
+    "Uspanteko"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.findings-emnlp.396",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.396/"
+}

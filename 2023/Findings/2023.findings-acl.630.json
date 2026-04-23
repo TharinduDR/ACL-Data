@@ -1,0 +1,20 @@
+{
+  "title": "NaSGEC: a Multi-Domain Chinese Grammatical Error Correction Dataset from Native Speaker Texts",
+  "authors": [
+    "Yue Zhang",
+    "Bo Zhang",
+    "Haochen Jiang",
+    "Zhenghua Li",
+    "Chen Li",
+    "Fei Huang",
+    "Min Zhang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.findings-acl.630",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.630/"
+}

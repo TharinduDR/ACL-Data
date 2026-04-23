@@ -1,0 +1,21 @@
+{
+  "title": "Explain-then-Translate: An Analysis on Improving Program Translation with Self-generated Explanations",
+  "authors": [
+    "Zilu Tang",
+    "Mayank Agarwal",
+    "Alex Shypula",
+    "Bailin Wang",
+    "Derry Wijaya",
+    "Jie Chen",
+    "Yoon Kim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-emnlp.119",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.119/"
+}

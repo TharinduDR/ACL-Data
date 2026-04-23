@@ -1,0 +1,21 @@
+{
+  "title": "Measuring and Mitigating Constraint Violations of In-Context Learning for Utterance-to-API Semantic Parsing",
+  "authors": [
+    "Shufan Wang",
+    "Sébastien Jean",
+    "Sailik Sengupta",
+    "James Gung",
+    "Nikolaos Pappas",
+    "Yi Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2023.findings-emnlp.478",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.478/"
+}

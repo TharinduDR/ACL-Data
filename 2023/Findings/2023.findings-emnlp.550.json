@@ -1,0 +1,19 @@
+{
+  "title": "Few-shot Unified Question Answering: Tuning Models or Prompts?",
+  "authors": [
+    "Srijan Bansal",
+    "Semih Yavuz",
+    "Bo Pang",
+    "Meghana Bhat",
+    "Yingbo Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.550",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.550/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "DATScore: Evaluating Translation with Data Augmented Translations",
+  "authors": [
+    "Moussa Kamal Eddine",
+    "Guokan Shang",
+    "Michalis Vazirgiannis"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Finnish",
+    "Latvian",
+    "Russian",
+    "Turkish",
+    "Chinese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.findings-eacl.69",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.69/"
+}

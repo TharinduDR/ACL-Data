@@ -1,0 +1,18 @@
+{
+  "title": "Claim-Dissector: An Interpretable Fact-Checking System with Joint Re-ranking and Veracity Prediction",
+  "authors": [
+    "Martin Fajcik",
+    "Petr Motlcek",
+    "Pavel Smrz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-acl.647",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.647/"
+}

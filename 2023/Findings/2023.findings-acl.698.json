@@ -1,0 +1,19 @@
+{
+  "title": "Improving Classroom Dialogue Act Recognition from Limited Labeled Data with Self-Supervised Contrastive Learning Classifiers",
+  "authors": [
+    "Vikram Kumar",
+    "Jonathan Rowe",
+    "Bradford Mott",
+    "Snigdha Chaturvedi",
+    "James Lester"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.findings-acl.698",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.698/"
+}

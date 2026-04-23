@@ -1,0 +1,19 @@
+{
+  "title": "Revisit Few-shot Intent Classification with PLMs: Direct Fine-tuning vs. Continual Pre-training",
+  "authors": [
+    "Haode Zhang",
+    "Haowen Liang",
+    "Liming Zhan",
+    "Albert Y.S. Lam",
+    "Xiao-Ming Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2023.findings-acl.706",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.706/"
+}

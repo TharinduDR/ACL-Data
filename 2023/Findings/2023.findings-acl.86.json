@@ -1,0 +1,32 @@
+{
+  "title": "Importance of Synthesizing High-quality Data for Text-to-SQL Parsing",
+  "authors": [
+    "Yiqun Hu",
+    "Yiyun Zhao",
+    "Jiarong Jiang",
+    "Wuwei Lan",
+    "Henry Zhu",
+    "Anuj Chauhan",
+    "Alexander Li",
+    "Lin Pan",
+    "Jun Wang",
+    "Chung-Wei Hang",
+    "Sheng Zhang",
+    "Jiang Guo",
+    "Marvin Dong",
+    "Joe Lilien",
+    "Patrick Ng",
+    "Zhiguo Wang",
+    "Vittorio Castelli",
+    "Bing Xiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-acl.86",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.86/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "A Multi-dimensional Evaluation of Tokenizer-free Multilingual Pretrained Models",
+  "authors": [
+    "Jimin Sun",
+    "Patrick Fernandes",
+    "Xinyi Wang",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Russian",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.findings-eacl.128",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.128/"
+}

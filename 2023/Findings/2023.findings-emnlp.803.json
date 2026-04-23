@@ -1,0 +1,18 @@
+{
+  "title": "Noisy Self-Training with Synthetic Queries for Dense Retrieval",
+  "authors": [
+    "Fan Jiang",
+    "Tom Drummond",
+    "Trevor Cohn"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-emnlp.803",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.803/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Classifying Semantic Clause Types: Modeling Context and Genre Characteristics with Recurrent Neural Networks and Attention",
+  "authors": [
+    "Maria Becker",
+    "Michael Staniek",
+    "Vivi Nastase",
+    "Alexis Palmer",
+    "Anette Frank"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "S17-1027",
+  "acl_url": "https://aclanthology.org/S17-1027/"
+}

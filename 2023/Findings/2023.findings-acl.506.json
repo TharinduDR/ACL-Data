@@ -1,0 +1,20 @@
+{
+  "title": "CoMix: Guide Transformers to Code-Mix using POS structure and Phonetics",
+  "authors": [
+    "Gaurav Arora",
+    "Srujana Merugu",
+    "Vivek Sembium"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2023.findings-acl.506",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.506/"
+}

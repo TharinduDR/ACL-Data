@@ -1,0 +1,20 @@
+{
+  "title": "A Causal View of Entity Bias in (Large) Language Models",
+  "authors": [
+    "Fei Wang",
+    "Wenjie Mo",
+    "Yiwei Wang",
+    "Wenxuan Zhou",
+    "Muhao Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.1013",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.1013/"
+}

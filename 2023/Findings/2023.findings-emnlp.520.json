@@ -1,0 +1,20 @@
+{
+  "title": "Swap and Predict – Predicting the Semantic Changes in Words across Corpora by Context Swapping",
+  "authors": [
+    "Taichi Aida",
+    "Danushka Bollegala"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Swedish",
+    "Latin"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.520",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.520/"
+}

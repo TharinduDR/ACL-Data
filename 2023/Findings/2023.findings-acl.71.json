@@ -1,0 +1,25 @@
+{
+  "title": "One Embedder, Any Task: Instruction-Finetuned Text Embeddings",
+  "authors": [
+    "Hongjin Su",
+    "Weijia Shi",
+    "Jungo Kasai",
+    "Yizhong Wang",
+    "Yushi Hu",
+    "Mari Ostendorf",
+    "Wen-tau Yih",
+    "Noah A. Smith",
+    "Luke Zettlemoyer",
+    "Tao Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.findings-acl.71",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.71/"
+}

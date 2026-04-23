@@ -1,0 +1,23 @@
+{
+  "title": "RobustQA: Benchmarking the Robustness of Domain Adaptation for Open-Domain Question Answering",
+  "authors": [
+    "Rujun Han",
+    "Peng Qi",
+    "Yuhao Zhang",
+    "Lan Liu",
+    "Juliette Burger",
+    "William Yang Wang",
+    "Zhiheng Huang",
+    "Bing Xiang",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-acl.263",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.263/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Toxicity in Multilingual Machine Translation at Scale",
+  "authors": [
+    "Marta R. Costa-jussà",
+    "Eric Smith",
+    "Christophe Ropers",
+    "Daniel Licht",
+    "Jean Maillard",
+    "Javier Ferrando",
+    "Carlos Escolano"
+  ],
+  "languages": [
+    "Catalan",
+    "Chinese",
+    "French",
+    "Spanish",
+    "Western Persian",
+    "Kinyarwanda",
+    "Basque"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-emnlp.642",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.642/"
+}

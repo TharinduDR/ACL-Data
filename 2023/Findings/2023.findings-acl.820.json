@@ -1,0 +1,22 @@
+{
+  "title": "Selecting Better Samples from Pre-trained LLMs: A Case Study on Question Generation",
+  "authors": [
+    "Xingdi Yuan",
+    "Tong Wang",
+    "Yen-Hsiang Wang",
+    "Emery Fine",
+    "Rania Abdelghani",
+    "Hélène Sauzéon",
+    "Pierre-Yves Oudeyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.820",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.820/"
+}

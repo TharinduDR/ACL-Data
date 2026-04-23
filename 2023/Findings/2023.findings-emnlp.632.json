@@ -1,0 +1,27 @@
+{
+  "title": "Breaking the Language Barrier: Improving Cross-Lingual Reasoning with Structured Self-Attention",
+  "authors": [
+    "Negar Foroutan",
+    "Mohammadreza Banaei",
+    "Karl Aberer",
+    "Antoine Bosselut"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Persian",
+    "Chinese",
+    "Russian",
+    "Spanish",
+    "Arabic",
+    "Italian"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2023.findings-emnlp.632",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.632/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Defending against Insertion-based Textual Backdoor Attacks via Attribution",
+  "authors": [
+    "Jiazhao Li",
+    "Zhuofeng Wu",
+    "Wei Ping",
+    "Chaowei Xiao",
+    "V.G. Vinod Vydiswaran"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.findings-acl.561",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.561/"
+}

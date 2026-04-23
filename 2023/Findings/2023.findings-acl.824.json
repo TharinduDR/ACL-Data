@@ -1,0 +1,26 @@
+{
+  "title": "Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them",
+  "authors": [
+    "Mirac Suzgun",
+    "Nathan Scales",
+    "Nathanael Schärli",
+    "Sebastian Gehrmann",
+    "Yi Tay",
+    "Hyung Won Chung",
+    "Aakanksha Chowdhery",
+    "Quoc V. Le",
+    "Ed H. Chi",
+    "Denny Zhou",
+    "Jason Wei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.findings-acl.824",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.824/"
+}

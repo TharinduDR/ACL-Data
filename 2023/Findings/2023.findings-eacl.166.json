@@ -1,0 +1,20 @@
+{
+  "title": "Does Masked Language Model Pre-training with Artificial Data Improve Low-resource Neural Machine Translation?",
+  "authors": [
+    "Hiroto Tamura",
+    "Tosho Hirasawa",
+    "Hwichan Kim",
+    "Mamoru Komachi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Irish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2023.findings-eacl.166",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.166/"
+}

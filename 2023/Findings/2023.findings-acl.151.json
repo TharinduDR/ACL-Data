@@ -1,0 +1,19 @@
+{
+  "title": "Open-World Factually Consistent Question Generation",
+  "authors": [
+    "Himanshu Maheshwari",
+    "Sumit Shekhar",
+    "Apoorv Saxena",
+    "Niyati Chhaya"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-acl.151",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.151/"
+}

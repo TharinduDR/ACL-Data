@@ -1,0 +1,22 @@
+{
+  "title": "The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation",
+  "authors": [
+    "Dung Nguyen Manh",
+    "Nam Le Hai",
+    "Anh T. V. Dau",
+    "Anh Minh Nguyen",
+    "Khanh Nghiêm",
+    "Jin Guo",
+    "Nghi D. Q. Bui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.316",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.316/"
+}

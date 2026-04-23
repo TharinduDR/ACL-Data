@@ -1,0 +1,21 @@
+{
+  "title": "Structure-Discourse Hierarchical Graph for Conditional Question Answering on Long Documents",
+  "authors": [
+    "Haowei Du",
+    "Yansong Feng",
+    "Chen Li",
+    "Yang Li",
+    "Yunshi Lan",
+    "Dongyan Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T05 Discourse and Pragmatics",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.findings-acl.391",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.391/"
+}

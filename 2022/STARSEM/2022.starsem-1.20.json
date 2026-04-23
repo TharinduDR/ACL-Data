@@ -1,0 +1,19 @@
+{
+  "title": "How Does Data Corruption Affect Natural Language Understanding Models? A Study on GLUE Datasets",
+  "authors": [
+    "Aarne Talman",
+    "Marianna Apidianaki",
+    "Stergios Chatzikyriakidis",
+    "Jörg Tiedemann"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.starsem-1.20",
+  "acl_url": "https://aclanthology.org/2022.starsem-1.20/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "BIGVIDEO: A Large-scale Video Subtitle Translation Dataset for Multimodal Machine Translation",
+  "authors": [
+    "Liyan Kang",
+    "Luyang Huang",
+    "Ningxin Peng",
+    "Peihao Zhu",
+    "Zewei Sun",
+    "Shanbo Cheng",
+    "Mingxuan Wang",
+    "Degen Huang",
+    "Jinsong Su"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.findings-acl.535",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.535/"
+}

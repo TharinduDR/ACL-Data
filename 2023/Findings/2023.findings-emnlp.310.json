@@ -1,0 +1,20 @@
+{
+  "title": "ZARA: Improving Few-Shot Self-Rationalization for Small Language Models",
+  "authors": [
+    "Wei-Lin Chen",
+    "An-Zi Yen",
+    "Cheng-Kuang Wu",
+    "Hen-Hsen Huang",
+    "Hsin-Hsi Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.310",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.310/"
+}

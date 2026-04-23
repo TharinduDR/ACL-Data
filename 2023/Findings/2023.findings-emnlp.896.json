@@ -1,0 +1,25 @@
+{
+  "title": "BioDEX: Large-Scale Biomedical Adverse Drug Event Extraction for Real-World Pharmacovigilance",
+  "authors": [
+    "Karel D'Oosterlinck",
+    "François Remy",
+    "Johannes Deleu",
+    "Thomas Demeester",
+    "Chris Develder",
+    "Klim Zaporojets",
+    "Aneiss Ghodsi",
+    "Simon Ellershaw",
+    "Jack Collins",
+    "Christopher Potts"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2023.findings-emnlp.896",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.896/"
+}

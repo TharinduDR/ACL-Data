@@ -1,0 +1,20 @@
+{
+  "title": "PCMid: Multi-Intent Detection through Supervised Prototypical Contrastive Learning",
+  "authors": [
+    "Yurun Song",
+    "Junchen Zhao",
+    "Ian G. Harris",
+    "Spencer B. Koehler",
+    "Amir Abdullah"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.findings-emnlp.636",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.636/"
+}

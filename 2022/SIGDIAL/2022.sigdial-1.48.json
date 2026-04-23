@@ -1,0 +1,19 @@
+{
+  "title": "Generating Discourse Connectives with Pre-trained Language Models: Conditioning on Discourse Relations Helps Reconstruct the PDTB",
+  "authors": [
+    "Symon Jory Stevens-Guille",
+    "Aleksandre Maskharashvili",
+    "Xintong Li",
+    "Michael White"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T05 Discourse and Pragmatics",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2022.sigdial-1.48",
+  "acl_url": "https://aclanthology.org/2022.sigdial-1.48/"
+}

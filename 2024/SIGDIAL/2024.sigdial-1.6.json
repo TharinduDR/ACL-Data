@@ -1,0 +1,23 @@
+{
+  "title": "Dialog Flow Induction for Constrainable LLM-Based Chatbots",
+  "authors": [
+    "Stuti Agrawal",
+    "Pranav Pillai",
+    "Nishi Uppuluri",
+    "Revanth Gangi Reddy",
+    "Zoey Li",
+    "Gokhan Tur",
+    "Dilek Hakkani-Tur",
+    "Heng Ji"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.sigdial-1.6",
+  "acl_url": "https://aclanthology.org/2024.sigdial-1.6/"
+}

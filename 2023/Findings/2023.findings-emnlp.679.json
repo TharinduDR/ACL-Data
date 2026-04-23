@@ -1,0 +1,32 @@
+{
+  "title": "Demystifying Prompts in Language Models via Perplexity Estimation",
+  "authors": [
+    "Hila Gonen",
+    "Srini Iyer",
+    "Terra Blevins",
+    "Noah A. Smith",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Dutch",
+    "Swedish",
+    "Turkish",
+    "Ukrainian",
+    "Polish",
+    "Russian",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.findings-emnlp.679",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.679/"
+}

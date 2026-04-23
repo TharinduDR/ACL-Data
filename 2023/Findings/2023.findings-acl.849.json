@@ -1,0 +1,27 @@
+{
+  "title": "DiaASQ: A Benchmark of Conversational Aspect-based Sentiment Quadruple Analysis",
+  "authors": [
+    "Bobo Li",
+    "Hao Fei",
+    "Fei Li",
+    "Yuhan Wu",
+    "Jinsong Zhang",
+    "Shengqiong Wu",
+    "Jingye Li",
+    "Yijiang Liu",
+    "Lizi Liao",
+    "Tat-Seng Chua",
+    "Donghong Ji"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.849",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.849/"
+}

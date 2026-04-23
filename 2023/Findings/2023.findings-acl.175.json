@@ -1,0 +1,22 @@
+{
+  "title": "Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation",
+  "authors": [
+    "Francois Meyer",
+    "Jan Buys"
+  ],
+  "languages": [
+    "English",
+    "Xhosa",
+    "Zulu",
+    "Finnish",
+    "Swati",
+    "Tswana",
+    "Afrikaans"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-acl.175",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.175/"
+}

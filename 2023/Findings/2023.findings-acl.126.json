@@ -1,0 +1,21 @@
+{
+  "title": "Rethinking the Word-level Quality Estimation for Machine Translation from Human Judgement",
+  "authors": [
+    "Zhen Yang",
+    "Fandong Meng",
+    "Yuanmeng Yan",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.126",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.126/"
+}

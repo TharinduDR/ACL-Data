@@ -1,0 +1,23 @@
+{
+  "title": "Improving Classifier Robustness through Active Generation of Pairwise Counterfactuals",
+  "authors": [
+    "Ananth Balashankar",
+    "Xuezhi Wang",
+    "Yao Qin",
+    "Ben Packer",
+    "Nithum Thain",
+    "Jilin Chen",
+    "Ed H. Chi",
+    "Alex Beutel"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.findings-emnlp.10",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.10/"
+}

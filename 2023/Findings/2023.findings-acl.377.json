@@ -1,0 +1,21 @@
+{
+  "title": "VCSUM: A Versatile Chinese Meeting Summarization Dataset",
+  "authors": [
+    "Han Wu",
+    "Mingjie Zhan",
+    "Haochen Tan",
+    "Zhaohui Hou",
+    "Ding Liang",
+    "Linqi Song"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2023.findings-acl.377",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.377/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Adapting Pretrained Text-to-Text Models for Long Text Sequences",
+  "authors": [
+    "Wenhan Xiong",
+    "Anchit Gupta",
+    "Shubham Toshniwal",
+    "Yashar Mehdad",
+    "Wen-tau Yih"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.findings-emnlp.370",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.370/"
+}

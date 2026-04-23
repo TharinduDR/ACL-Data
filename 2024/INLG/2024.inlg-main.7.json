@@ -1,0 +1,28 @@
+{
+  "title": "Generating from AMRs into High and Low-Resource Languages using Phylogenetic Knowledge and Hierarchical QLoRA Training (HQL)",
+  "authors": [
+    "William Soto Martinez",
+    "Yannick Parmentier",
+    "Claire Gardent"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Dutch",
+    "Spanish",
+    "Italian",
+    "French",
+    "Limburgish",
+    "Asturian",
+    "Sicilian",
+    "Haitian Creole",
+    "Tok Pisin"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2024.inlg-main.7",
+  "acl_url": "https://aclanthology.org/2024.inlg-main.7/"
+}

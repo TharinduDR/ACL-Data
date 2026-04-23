@@ -1,0 +1,20 @@
+{
+  "title": "Semantic Decomposition of Question and SQL for Text-to-SQL Parsing",
+  "authors": [
+    "Ben Eyal",
+    "Amir Bachar",
+    "Ophir Haroche",
+    "Moran Mahabi",
+    "Michael Elhadad"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-emnlp.910",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.910/"
+}

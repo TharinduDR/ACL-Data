@@ -1,0 +1,21 @@
+{
+  "title": "Transferring General Multimodal Pretrained Models to Text Recognition",
+  "authors": [
+    "Junyang Lin",
+    "Xuancheng Ren",
+    "Yichang Zhang",
+    "Gao Liu",
+    "Peng Wang",
+    "An Yang",
+    "Chang Zhou"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-acl.37",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.37/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Enhancing Self-Attention via Knowledge Fusion: Deriving Sentiment Lexical Attention from Semantic-Polarity Scores",
+  "authors": [
+    "Dongjun Jang",
+    "Jinwoong Kim",
+    "Hyopil Shin"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.starsem-1.27",
+  "acl_url": "https://aclanthology.org/2024.starsem-1.27/"
+}

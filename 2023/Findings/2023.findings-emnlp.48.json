@@ -1,0 +1,24 @@
+{
+  "title": "ReFSQL: A Retrieval-Augmentation Framework for Text-to-SQL Generation",
+  "authors": [
+    "Kun Zhang",
+    "Xiexiong Lin",
+    "Yuanzhuo Wang",
+    "Xin Zhang",
+    "Fei Sun",
+    "Jianhe Cen",
+    "Xuhui Jiang",
+    "Hexiang Tan",
+    "Huawei Shen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.48",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.48/"
+}

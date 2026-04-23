@@ -1,0 +1,22 @@
+{
+  "title": "ACROSS: An Alignment-based Framework for Low-Resource Many-to-One Cross-Lingual Summarization",
+  "authors": [
+    "Peiyao Li",
+    "Zhengkun Zhang",
+    "Jun Wang",
+    "Liang Li",
+    "Adam Jatowt",
+    "Zhenglu Yang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.findings-acl.154",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.154/"
+}

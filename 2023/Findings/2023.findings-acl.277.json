@@ -1,0 +1,20 @@
+{
+  "title": "Prompted LLMs as Chatbot Modules for Long Open-domain Conversation",
+  "authors": [
+    "Gibbeum Lee",
+    "Volker Hartmann",
+    "Jongho Park",
+    "Dimitris Papailiopoulos",
+    "Kangwook Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.277",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.277/"
+}

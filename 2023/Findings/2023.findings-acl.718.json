@@ -1,0 +1,17 @@
+{
+  "title": "A Simple, Yet Effective Approach to Finding Biases in Code Generation",
+  "authors": [
+    "Spyridon Mouselinos",
+    "Mateusz Malinowski",
+    "Henryk Michalewski"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2023.findings-acl.718",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.718/"
+}

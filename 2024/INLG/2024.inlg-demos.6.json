@@ -1,0 +1,25 @@
+{
+  "title": "Filling Gaps in Wikipedia: Leveraging Data-to-Text Generation to Improve Encyclopedic Coverage of Underrepresented Groups",
+  "authors": [
+    "Simon Mille",
+    "Massimiliano Pronesti",
+    "Craig Thomson",
+    "Michela Lorandi",
+    "Sophie Fitzpatrick",
+    "Rudali Huidrom",
+    "Mohammed Sabry",
+    "Amy O'Riordan",
+    "Anya Belz"
+  ],
+  "languages": [
+    "Irish",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T13 Knowledge discovery/representation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.inlg-demos.6",
+  "acl_url": "https://aclanthology.org/2024.inlg-demos.6/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "DTAFA: Decoupled Training Architecture for Efficient FAQ Retrieval",
+  "authors": [
+    "Haytham Assem",
+    "Sourav Dutta",
+    "Edward Burgin"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Arabic",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Japanese",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.sigdial-1.44",
+  "acl_url": "https://aclanthology.org/2021.sigdial-1.44/"
+}

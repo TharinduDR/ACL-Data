@@ -1,0 +1,18 @@
+{
+  "title": "Towards a Unified Model for Generating Answers and Explanations in Visual Question Answering",
+  "authors": [
+    "Chenxi Whitehouse",
+    "Tillman Weyde",
+    "Pranava Madhyastha"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.findings-eacl.126",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.126/"
+}

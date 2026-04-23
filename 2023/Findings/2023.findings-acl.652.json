@@ -1,0 +1,19 @@
+{
+  "title": "KNSE: A Knowledge-aware Natural Language Inference Framework for Dialogue Symptom Status Recognition",
+  "authors": [
+    "Wei Chen",
+    "Shiqi Wei",
+    "Zhongyu Wei",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2023.findings-acl.652",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.652/"
+}

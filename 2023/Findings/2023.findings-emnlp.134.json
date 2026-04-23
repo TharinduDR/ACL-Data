@@ -1,0 +1,31 @@
+{
+  "title": "MultiCoNER v2: a Large Multilingual dataset for Fine-grained and Noisy Named Entity Recognition",
+  "authors": [
+    "Besnik Fetahu",
+    "Zhiyu Chen",
+    "Sudipta Kar",
+    "Oleg Rokhlenko",
+    "Shervin Malmasi"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Persian",
+    "German",
+    "Spanish",
+    "Swedish",
+    "Hindi",
+    "Italian",
+    "Portuguese",
+    "Ukrainian",
+    "Bangla",
+    "French"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.findings-emnlp.134",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.134/"
+}

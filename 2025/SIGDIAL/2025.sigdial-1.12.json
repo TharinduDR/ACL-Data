@@ -1,0 +1,38 @@
+{
+  "title": "Analyzing Dialogue System Behavior in a Specific Situation Requiring Interpersonal Consideration",
+  "authors": [
+    "Tetsuro Takahashi",
+    "Hirofumi Kikuchi",
+    "Jie Yang",
+    "Hiroyuki Nishikawa",
+    "Masato Komuro",
+    "Ryosaku Makino",
+    "Shiki Sato",
+    "Yuta Sasaki",
+    "Shinji Iwata",
+    "Asahi Hentona",
+    "Takato Yamazaki",
+    "Shoji Moriya",
+    "Masaya Ohagi",
+    "Zhiyang Qi",
+    "Takashi Kodama",
+    "Akinobu Lee",
+    "Takashi Minato",
+    "Kurima Sakai",
+    "Tomo Funayama",
+    "Kotaro Funakoshi",
+    "Mayumi Usami",
+    "Michimasa Inaba",
+    "Ryuichiro Higashinaka"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.sigdial-1.12",
+  "acl_url": "https://aclanthology.org/2025.sigdial-1.12/"
+}

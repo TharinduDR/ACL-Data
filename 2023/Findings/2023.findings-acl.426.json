@@ -1,0 +1,25 @@
+{
+  "title": "\"Low-Resource\" Text Classification: A Parameter-Free Classification Method with Compressors",
+  "authors": [
+    "Zhiying Jiang",
+    "Matthew Y.R. Yang",
+    "Mikhail Tsirlin",
+    "Raphael Tang",
+    "Yiqin Dai",
+    "Jimmy Lin"
+  ],
+  "languages": [
+    "English",
+    "Kinyarwanda",
+    "Kirundi",
+    "Filipino",
+    "Swahili",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.426",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.426/"
+}

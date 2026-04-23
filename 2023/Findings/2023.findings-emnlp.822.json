@@ -1,0 +1,20 @@
+{
+  "title": "Efficiently Enhancing Zero-Shot Performance of Instruction Following Model via Retrieval of Soft Prompt",
+  "authors": [
+    "Seonghyeon Ye",
+    "Joel Jang",
+    "Doyoung Kim",
+    "Yongrae Jo",
+    "Minjoon Seo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.findings-emnlp.822",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.822/"
+}

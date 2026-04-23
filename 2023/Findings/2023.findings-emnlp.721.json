@@ -1,0 +1,29 @@
+{
+  "title": "A Structure-Aware Generative Adversarial Network for Bilingual Lexicon Induction",
+  "authors": [
+    "Bocheng Han",
+    "Qian Tao",
+    "Lusi Li",
+    "Zhihao Xiong"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "German",
+    "Russian",
+    "Chinese",
+    "Hungarian",
+    "Danish",
+    "Finnish",
+    "Hebrew",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.findings-emnlp.721",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.721/"
+}

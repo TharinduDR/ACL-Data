@@ -1,0 +1,21 @@
+{
+  "title": "With Prejudice to None: A Few-Shot, Multilingual Transfer Learning Approach to Detect Social Bias in Low Resource Languages",
+  "authors": [
+    "Nihar Ranjan Sahoo",
+    "Niteesh Mallela",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Italian",
+    "Korean"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.findings-acl.842",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.842/"
+}

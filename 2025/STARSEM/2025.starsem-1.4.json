@@ -1,0 +1,20 @@
+{
+  "title": "From Complex Word Identification to Substitution: Instruction-Tuned Language Models for Lexical Simplification",
+  "authors": [
+    "Tonghui Han",
+    "Xinru Zhang",
+    "Yaxin Bi",
+    "Maurice Mulvenna",
+    "Dongqiang Yang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.starsem-1.4",
+  "acl_url": "https://aclanthology.org/2025.starsem-1.4/"
+}

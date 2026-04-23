@@ -1,0 +1,20 @@
+{
+  "title": "MURMUR: Modular Multi-Step Reasoning for Semi-Structured Data-to-Text Generation",
+  "authors": [
+    "Swarnadeep Saha",
+    "Xinyan Velocity Yu",
+    "Mohit Bansal",
+    "Ramakanth Pasunuru",
+    "Asli Celikyilmaz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-acl.704",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.704/"
+}

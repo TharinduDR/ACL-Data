@@ -1,0 +1,16 @@
+{
+  "title": "Verb Conjugation in Transformers Is Determined by Linear Encodings of Subject Number",
+  "authors": [
+    "Sophie Hao",
+    "Tal Linzen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-emnlp.300",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.300/"
+}

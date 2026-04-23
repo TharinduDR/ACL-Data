@@ -1,0 +1,23 @@
+{
+  "title": "SoulChat: Improving LLMs' Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations",
+  "authors": [
+    "Yirong Chen",
+    "Xiaofen Xing",
+    "Jingkai Lin",
+    "Huimin Zheng",
+    "Zhenyu Wang",
+    "Qi Liu",
+    "Xiangmin Xu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.83",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.83/"
+}

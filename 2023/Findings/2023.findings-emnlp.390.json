@@ -1,0 +1,20 @@
+{
+  "title": "Co²PT: Mitigating Bias in Pre-trained Language Models through Counterfactual Contrastive Prompt Tuning",
+  "authors": [
+    "Xiangjue Dong",
+    "Ziwei Zhu",
+    "Zhuoer Wang",
+    "Maria Teleki",
+    "James Caverlee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.390",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.390/"
+}

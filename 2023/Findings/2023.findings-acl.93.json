@@ -1,0 +1,26 @@
+{
+  "title": "Efficient Out-of-Domain Detection for Sequence to Sequence Models",
+  "authors": [
+    "Artem Vazhentsev",
+    "Akim Tsvigun",
+    "Roman Vashurin",
+    "Sergey Petrakov",
+    "Daniil Vasilev",
+    "Maxim Panov",
+    "Alexander Panchenko",
+    "Artem Shelmanov"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-acl.93",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.93/"
+}

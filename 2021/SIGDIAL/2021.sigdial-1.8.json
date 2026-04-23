@@ -1,0 +1,27 @@
+{
+  "title": "Getting to Production with Few-shot Natural Language Generation Models",
+  "authors": [
+    "Peyman Heidari",
+    "Arash Einolghozati",
+    "Shashank Jain",
+    "Soumya Batra",
+    "Lee Callender",
+    "Ankit Arun",
+    "Shawn Mei",
+    "Sonal Gupta",
+    "Pinar Donmez",
+    "Vikas Bhardwaj",
+    "Anuj Kumar",
+    "Michael White"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.sigdial-1.8",
+  "acl_url": "https://aclanthology.org/2021.sigdial-1.8/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Consistency is Key: On Data-Efficient Modality Transfer in Speech Translation",
+  "authors": [
+    "Hojin Lee",
+    "Changmin Lee",
+    "Seung-won Hwang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.findings-emnlp.905",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.905/"
+}

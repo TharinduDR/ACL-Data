@@ -1,0 +1,26 @@
+{
+  "title": "CKDST: Comprehensively and Effectively Distill Knowledge from Machine Translation to End-to-End Speech Translation",
+  "authors": [
+    "Yikun Lei",
+    "Zhengshan Xue",
+    "Haoran Sun",
+    "Xiaohu Zhao",
+    "Shaolin Zhu",
+    "Xiaodong Lin",
+    "Deyi Xiong"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.findings-acl.195",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.195/"
+}

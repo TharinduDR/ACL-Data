@@ -1,0 +1,25 @@
+{
+  "title": "Joint Training for Learning Cross-lingual Embeddings with Sub-word Information without Parallel Corpora",
+  "authors": [
+    "Ali Hakimi Parizi",
+    "Paul Cook"
+  ],
+  "languages": [
+    "Chinese",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2020.starsem-1.5",
+  "acl_url": "https://aclanthology.org/2020.starsem-1.5/"
+}

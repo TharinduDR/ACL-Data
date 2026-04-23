@@ -1,0 +1,22 @@
+{
+  "title": "A Customized Text Sanitization Mechanism with Differential Privacy",
+  "authors": [
+    "Huimin Chen",
+    "Fengran Mo",
+    "Yanbao Wang",
+    "Cen Chen",
+    "Jian-Yun Nie",
+    "Chengyu Wang",
+    "Jamie Cui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.findings-acl.355",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.355/"
+}

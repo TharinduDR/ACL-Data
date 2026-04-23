@@ -1,0 +1,17 @@
+{
+  "title": "JBLiMP: Japanese Benchmark of Linguistic Minimal Pairs",
+  "authors": [
+    "Taiga Someya",
+    "Yohei Oseki"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-eacl.117",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.117/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "nikss at HinglishEval: Language-agnostic BERT-based Contextual Embeddings with Catboost for Quality Evaluation of the Low-Resource Synthetically Generated Code-Mixed Hinglish Text",
+  "authors": [
+    "Nikhil Singh"
+  ],
+  "languages": [
+    "Hinglish",
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.inlg-genchal.5",
+  "acl_url": "https://aclanthology.org/2022.inlg-genchal.5/"
+}

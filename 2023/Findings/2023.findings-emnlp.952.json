@@ -1,0 +1,20 @@
+{
+  "title": "K-HATERS: A Hate Speech Detection Corpus in Korean with Target-Specific Ratings",
+  "authors": [
+    "Chaewon Park",
+    "Soohwan Kim",
+    "Kyubyong Park",
+    "Kunwoo Park"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-emnlp.952",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.952/"
+}

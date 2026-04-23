@@ -1,0 +1,33 @@
+{
+  "title": "C-XNLI: Croatian Extension of XNLI Dataset",
+  "authors": [
+    "Leo Obadić",
+    "Andrej Jertec",
+    "Marko Rajnović",
+    "Branimir Dropuljić"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "German",
+    "Greek",
+    "English",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Urdu",
+    "Vietnamese",
+    "Chinese",
+    "Croatian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.142",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.142/"
+}

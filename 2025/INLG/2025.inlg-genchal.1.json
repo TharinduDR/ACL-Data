@@ -1,0 +1,22 @@
+{
+  "title": "The 2024 GEM Shared Task on Multilingual Data-to-Text Generation: English and Spanish Qualitative Evaluation Results",
+  "authors": [
+    "João Sedoc",
+    "Simon Mille",
+    "Miruna Cliniciu",
+    "Yixin Liu",
+    "Kaustubh Dhole",
+    "Saad Mahamood"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.inlg-genchal.1",
+  "acl_url": "https://aclanthology.org/2025.inlg-genchal.1/"
+}

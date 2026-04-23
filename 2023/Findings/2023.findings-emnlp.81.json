@@ -1,0 +1,22 @@
+{
+  "title": "In-Context Demonstration Selection with Cross Entropy Difference",
+  "authors": [
+    "Dan Iter",
+    "Reid Pryzant",
+    "Ruochen Xu",
+    "Shuohang Wang",
+    "Yang Liu",
+    "Yichong Xu",
+    "Chenguang Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.81",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.81/"
+}

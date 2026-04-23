@@ -1,0 +1,32 @@
+{
+  "title": "MISMATCH: Fine-grained Evaluation of Machine-generated Text with Mismatch Error Types",
+  "authors": [
+    "Keerthiram Murugesan",
+    "Sarathkrishna Swaminathan",
+    "Soham Dan",
+    "Subhajit Chaudhury",
+    "Chulaka Gunasekara",
+    "Maxwell Crouse",
+    "Diwakar Mahajan",
+    "Ibrahim Abdelaziz",
+    "Achille Fokoue",
+    "Pavan Kapanipathi",
+    "Salim Roukos",
+    "Alexander Gray"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Russian",
+    "Turkish",
+    "Cantonese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-acl.274",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.274/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Attack Prompt Generation for Red Teaming and Defending Large Language Models",
+  "authors": [
+    "Boyi Deng",
+    "Wenjie Wang",
+    "Fuli Feng",
+    "Yang Deng",
+    "Qifan Wang",
+    "Xiangnan He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.143",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.143/"
+}

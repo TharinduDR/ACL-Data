@@ -1,0 +1,34 @@
+{
+  "title": "Communication Efficient Federated Learning for Multilingual Neural Machine Translation with Adapter",
+  "authors": [
+    "Yi Liu",
+    "Xiaohan Bi",
+    "Lei Li",
+    "Sishuo Chen",
+    "Wen Kai Yang",
+    "Xu Sun"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Arabic",
+    "Hebrew",
+    "Finnish",
+    "Estonian",
+    "Russian",
+    "Slovene",
+    "German",
+    "Dutch",
+    "French",
+    "Italian",
+    "Spanish",
+    "Polish",
+    "Lithuanian",
+    "Latvian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.findings-acl.327",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.327/"
+}

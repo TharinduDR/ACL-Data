@@ -1,0 +1,19 @@
+{
+  "title": "Unified Language Representation for Question Answering over Text, Tables, and Images",
+  "authors": [
+    "Bowen Yu",
+    "Cheng Fu",
+    "Haiyang Yu",
+    "Fei Huang",
+    "Yongbin Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.findings-acl.292",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.292/"
+}

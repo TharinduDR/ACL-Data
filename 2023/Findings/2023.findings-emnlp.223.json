@@ -1,0 +1,25 @@
+{
+  "title": "ROAST: Robustifying Language Models via Adversarial Perturbation with Selective Training",
+  "authors": [
+    "Jaehyung Kim",
+    "Yuning Mao",
+    "Rui Hou",
+    "Hanchao Yu",
+    "Davis Liang",
+    "Pascale Fung",
+    "Qifan Wang",
+    "Fuli Feng",
+    "Lifu Huang",
+    "Madian Khabsa"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.223",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.223/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Noisy Pair Corrector for Dense Retrieval",
+  "authors": [
+    "Hang Zhang",
+    "Yeyun Gong",
+    "Xingwei He",
+    "Dayiheng Liu",
+    "Daya Guo",
+    "Jiancheng Lv",
+    "Jian Guo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2023.findings-emnlp.765",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.765/"
+}

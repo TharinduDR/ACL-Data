@@ -1,0 +1,24 @@
+{
+  "title": "Predicting Human Translation Difficulty Using Automatic Word Alignment",
+  "authors": [
+    "Zheng Wei Lim",
+    "Trevor Cohn",
+    "Charles Kemp",
+    "Ekaterina Vylomova"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Japanese",
+    "Malay",
+    "Dutch",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16",
+    "T22"
+  ],
+  "paper_id": "2023.findings-acl.736",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.736/"
+}

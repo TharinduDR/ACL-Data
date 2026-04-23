@@ -1,0 +1,25 @@
+{
+  "title": "The Cross-lingual Conversation Summarization Challenge",
+  "authors": [
+    "Yulong Chen",
+    "Ming Zhong",
+    "Xuefeng Bai",
+    "Naihao Deng",
+    "Jing Li",
+    "Xianchao Zhu",
+    "Yue Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.inlg-genchal.2",
+  "acl_url": "https://aclanthology.org/2022.inlg-genchal.2/"
+}

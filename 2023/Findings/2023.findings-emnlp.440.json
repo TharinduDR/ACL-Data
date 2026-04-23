@@ -1,0 +1,18 @@
+{
+  "title": "Mitigating Biases in Hate Speech Detection from A Causal Perspective",
+  "authors": [
+    "Zhehao Zhang",
+    "Jiaao Chen",
+    "Diyi Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.440",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.440/"
+}

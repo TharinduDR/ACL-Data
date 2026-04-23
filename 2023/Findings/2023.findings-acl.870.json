@@ -1,0 +1,19 @@
+{
+  "title": "SkillQG: Learning to Generate Question for Reading Comprehension Assessment",
+  "authors": [
+    "Xiaoqiang Wang",
+    "Bang Liu",
+    "Siliang Tang",
+    "Lingfei Wu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.findings-acl.870",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.870/"
+}

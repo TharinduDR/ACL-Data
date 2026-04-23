@@ -1,0 +1,19 @@
+{
+  "title": "SHARCS: Efficient Transformers through Routing with Dynamic Width Sub-networks",
+  "authors": [
+    "Mohammadreza Salehi",
+    "Sachin Mehta",
+    "Aditya Kusupati",
+    "Ali Farhadi",
+    "Hannaneh Hajishirzi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.findings-emnlp.706",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.706/"
+}

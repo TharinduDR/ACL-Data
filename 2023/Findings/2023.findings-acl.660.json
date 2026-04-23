@@ -1,0 +1,25 @@
+{
+  "title": "DEPLOT: One-shot visual language reasoning by plot-to-table translation",
+  "authors": [
+    "Fangyu Liu",
+    "Julian Martin Eisenschlos",
+    "Francesco Piccinno",
+    "Syrine Krichene",
+    "Chenxi Pang",
+    "Kenton Lee",
+    "Mandar Joshi",
+    "Wenhu Chen",
+    "Nigel Collier",
+    "Yasemin Altun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.findings-acl.660",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.660/"
+}

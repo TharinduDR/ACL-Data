@@ -1,0 +1,21 @@
+{
+  "title": "DISCO: A Large Scale Human Annotated Corpus for Disfluency Correction in Indo-European Languages",
+  "authors": [
+    "Vineet Bhat",
+    "Preethi Jyothi",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.findings-emnlp.855",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.855/"
+}

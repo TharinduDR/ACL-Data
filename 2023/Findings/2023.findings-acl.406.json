@@ -1,0 +1,21 @@
+{
+  "title": "ML-LMCL: Mutual Learning and Large-Margin Contrastive Learning for Improving ASR Robustness in Spoken Language Understanding",
+  "authors": [
+    "Xuxin Cheng",
+    "Bowen Cao",
+    "Qichen Ye",
+    "Zhihong Zhu",
+    "Hongxiang Li",
+    "Yuexian Zou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.406",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.406/"
+}

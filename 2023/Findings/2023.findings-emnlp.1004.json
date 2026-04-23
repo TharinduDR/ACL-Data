@@ -1,0 +1,20 @@
+{
+  "title": "In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Model",
+  "authors": [
+    "Yanzhi Tian",
+    "Xiang Li",
+    "Zeming Liu",
+    "Yuhang Guo",
+    "Bin Wang"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.findings-emnlp.1004",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.1004/"
+}

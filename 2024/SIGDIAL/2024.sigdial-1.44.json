@@ -1,0 +1,22 @@
+{
+  "title": "ECoh: Turn-level Coherence Evaluation for Multilingual Dialogues",
+  "authors": [
+    "John Mendonça",
+    "Isabel Trancoso",
+    "Alon Lavie"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.sigdial-1.44",
+  "acl_url": "https://aclanthology.org/2024.sigdial-1.44/"
+}

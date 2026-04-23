@@ -1,0 +1,27 @@
+{
+  "title": "Efficient Multilingual Language Model Compression through Vocabulary Trimming",
+  "authors": [
+    "Asahi Ushio",
+    "Yi Zhou",
+    "Jose Camacho-Collados"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Arabic",
+    "Portuguese",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.981",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.981/"
+}

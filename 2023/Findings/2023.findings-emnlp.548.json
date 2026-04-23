@@ -1,0 +1,20 @@
+{
+  "title": "GSAP-NER: A Novel Task, Corpus, and Baseline for Scholarly Entity Extraction Focused on Machine Learning Models and Datasets",
+  "authors": [
+    "Wolfgang Otto",
+    "Matthäus Zloch",
+    "Lu Gan",
+    "Saurav Karmakar",
+    "Stefan Dietze"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.findings-emnlp.548",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.548/"
+}

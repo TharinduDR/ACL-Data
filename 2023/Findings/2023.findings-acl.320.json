@@ -1,0 +1,18 @@
+{
+  "title": "Data-Efficient French Language Modeling with CAMEMBERTA",
+  "authors": [
+    "Wissam Antoun",
+    "Benoît Sagot",
+    "Djamé Seddah"
+  ],
+  "languages": [
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.findings-acl.320",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.320/"
+}

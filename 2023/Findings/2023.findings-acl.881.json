@@ -1,0 +1,17 @@
+{
+  "title": "Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence",
+  "authors": [
+    "Haoran Li",
+    "Mingshi Xu",
+    "Yangqiu Song"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.findings-acl.881",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.881/"
+}

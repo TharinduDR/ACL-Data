@@ -1,0 +1,19 @@
+{
+  "title": "Medical Text Simplification: Optimizing for Readability with Unlikelihood Training and Reranked Beam Search Decoding",
+  "authors": [
+    "Lorenzo Flores",
+    "Heyuan Huang",
+    "Kejian Shi",
+    "Sophie Chheang",
+    "Arman Cohan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2023.findings-emnlp.322",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.322/"
+}

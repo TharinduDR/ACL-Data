@@ -1,0 +1,21 @@
+{
+  "title": "In-context Learning for Few-shot Multimodal Named Entity Recognition",
+  "authors": [
+    "Chenran Cai",
+    "Qianlong Wang",
+    "Bin Liang",
+    "Bing Qin",
+    "Min Yang",
+    "Kam-Fai Wong",
+    "Ruifeng Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.findings-emnlp.196",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.196/"
+}

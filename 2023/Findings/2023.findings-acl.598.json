@@ -1,0 +1,30 @@
+{
+  "title": "Recipes for Sequential Pre-training of Multilingual Encoder and Seq2Seq Models",
+  "authors": [
+    "Saleh Soltan",
+    "Andy Rosenbaum",
+    "Tobias Falke",
+    "Qin Lu",
+    "Anna Rumshisky",
+    "Wael Hamza"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Japanese",
+    "Portuguese",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.findings-acl.598",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.598/"
+}

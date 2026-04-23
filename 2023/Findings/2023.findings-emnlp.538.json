@@ -1,0 +1,33 @@
+{
+  "title": "Romanization-based Large-scale Adaptation of Multilingual Language Models",
+  "authors": [
+    "Sukannya Purkayastha",
+    "Sebastian Ruder",
+    "Jonas Pfeiffer",
+    "Iryna Gurevych",
+    "Ivan Vulić"
+  ],
+  "languages": [
+    "Bhojpuri",
+    "Buryat",
+    "Erzya",
+    "Meadow Mari",
+    "Min Dong",
+    "Mingrelian",
+    "Sindhi",
+    "Sorani Kurdish",
+    "Uyghur",
+    "Amharic",
+    "Divehi",
+    "Khmer",
+    "Sinhala",
+    "Tibetan"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.538",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.538/"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "PMIndiaSum: Multilingual and Cross-lingual Headline Summarization for Languages in India",
+  "authors": [
+    "Ashok Urlana",
+    "Pinzhen Chen",
+    "Zheng Zhao",
+    "Shay B. Cohen",
+    "Manish Shrivastava",
+    "Barry Haddow"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Telugu",
+    "Assamese",
+    "Bengali",
+    "Gujarati",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Odia",
+    "Punjabi",
+    "Urdu",
+    "Manipuri"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.777",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.777/"
+}

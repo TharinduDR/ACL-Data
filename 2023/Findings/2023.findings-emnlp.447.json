@@ -1,0 +1,20 @@
+{
+  "title": "Retrieval-Augmented Few-shot Text Classification",
+  "authors": [
+    "Guoxin Yu",
+    "Lemao Liu",
+    "Haiyun Jiang",
+    "Shuming Shi",
+    "Xiang Ao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.findings-emnlp.447",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.447/"
+}

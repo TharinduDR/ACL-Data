@@ -1,0 +1,22 @@
+{
+  "title": "PreCogIIITH at HinglishEval: Leveraging Code-Mixing Metrics & Language Model Embeddings To Estimate Code-Mix Quality",
+  "authors": [
+    "Prashant Kodali",
+    "Tanmay Sachan",
+    "Akshay Goindani",
+    "Anmol Goel",
+    "Naman Ahuja",
+    "Manish Shrivastava",
+    "Ponnurangam Kumaraguru"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.inlg-genchal.4",
+  "acl_url": "https://aclanthology.org/2022.inlg-genchal.4/"
+}

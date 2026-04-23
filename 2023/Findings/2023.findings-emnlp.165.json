@@ -1,0 +1,23 @@
+{
+  "title": "RefGPT: Dialogue Generation of GPT, by GPT, and for GPT",
+  "authors": [
+    "Dongjie Yang",
+    "Ruifeng Yuan",
+    "Yuantaofan",
+    "Yifei Yang",
+    "Zili Wang",
+    "Shusen Wang",
+    "Hai Zhao"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2023.findings-emnlp.165",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.165/"
+}

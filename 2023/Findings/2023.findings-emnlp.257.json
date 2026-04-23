@@ -1,0 +1,22 @@
+{
+  "title": "Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation",
+  "authors": [
+    "Heming Xia",
+    "Tao Ge",
+    "Peiyi Wang",
+    "Si-Qing Chen",
+    "Furu Wei",
+    "Zhifang Sui"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.findings-emnlp.257",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.257/"
+}

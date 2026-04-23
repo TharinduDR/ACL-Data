@@ -1,0 +1,20 @@
+{
+  "title": "ZeroSCROLLS: A Zero-Shot Benchmark for Long Text Understanding",
+  "authors": [
+    "Uri Shaham",
+    "Maor Ivgi",
+    "Avia Efrat",
+    "Jonathan Berant",
+    "Omer Levy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.findings-emnlp.536",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.536/"
+}

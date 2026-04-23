@@ -1,0 +1,23 @@
+{
+  "title": "Towards Zero-shot Learning for End-to-end Cross-modal Translation Models",
+  "authors": [
+    "Jichen Yang",
+    "Kai Fan",
+    "Minpeng Liao",
+    "Boxing Chen",
+    "Zhongqiang Huang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.findings-emnlp.871",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.871/"
+}

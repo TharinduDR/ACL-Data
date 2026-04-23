@@ -1,0 +1,28 @@
+{
+  "title": "Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints",
+  "authors": [
+    "Ran Song",
+    "Shizhu He",
+    "Shengxiang Gao",
+    "Li Cai",
+    "Kang Liu",
+    "Zhengtao Yu",
+    "Jun Zhao"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.findings-acl.488",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.488/"
+}

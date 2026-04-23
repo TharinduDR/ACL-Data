@@ -1,0 +1,23 @@
+{
+  "title": "An Exploratory Study on Model Compression for Text-to-SQL",
+  "authors": [
+    "Shuo Sun",
+    "Yuze Gao",
+    "Yuchen Zhang",
+    "Jian Su",
+    "Bin Chen",
+    "Yingzhan Lin",
+    "Shuqi Sun"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.740",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.740/"
+}

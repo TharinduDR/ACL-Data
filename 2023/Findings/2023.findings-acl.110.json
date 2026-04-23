@@ -1,0 +1,22 @@
+{
+  "title": "Zero-Shot Text Classification via Self-Supervised Tuning",
+  "authors": [
+    "Chaoqun Liu",
+    "Wenxuan Zhang",
+    "Guizhen Chen",
+    "Xiaobao Wu",
+    "Anh Tuan Luu",
+    "Chip Hong Chang",
+    "Lidong Bing"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.110",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.110/"
+}

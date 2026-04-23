@@ -1,0 +1,22 @@
+{
+  "title": "NASH: A Simple Unified Framework of Structured Pruning for Accelerating Encoder-Decoder Language Models",
+  "authors": [
+    "Jongwoo Ko",
+    "Seungjoon Park",
+    "Yujin Kim",
+    "Sumyeong Ahn",
+    "Du-Seong Chang",
+    "Euijai Ahn",
+    "Se-Young Yun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.findings-emnlp.404",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.404/"
+}

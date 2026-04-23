@@ -1,0 +1,20 @@
+{
+  "title": "InheritSumm: A General, Versatile and Compact Summarizer by Distilling from GPT",
+  "authors": [
+    "Yichong Xu",
+    "Ruochen Xu",
+    "Dan Iter",
+    "Yang Liu",
+    "Shuohang Wang",
+    "Chenguang Zhu",
+    "Michael Zeng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.findings-emnlp.927",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.927/"
+}

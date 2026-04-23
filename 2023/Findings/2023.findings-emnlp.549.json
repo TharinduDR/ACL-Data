@@ -1,0 +1,22 @@
+{
+  "title": "Open Domain Multi-document Summarization: A Comprehensive Study of Model Brittleness under Retrieval",
+  "authors": [
+    "John Giorgi",
+    "Luca Soldaini",
+    "Bo Wang",
+    "Gary Bader",
+    "Kyle Lo",
+    "Lucy Lu Wang",
+    "Arman Cohan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.549",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.549/"
+}

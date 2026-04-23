@@ -1,0 +1,37 @@
+{
+  "title": "Why Does Zero-Shot Cross-Lingual Generation Fail? An Explanation and a Solution",
+  "authors": [
+    "Tianjian Li",
+    "Kenton Murray"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Korean",
+    "Spanish",
+    "Portuguese",
+    "Indonesian",
+    "Thai",
+    "Vietnamese",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Russian",
+    "Arabic",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.findings-acl.789",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.789/"
+}

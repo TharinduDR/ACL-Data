@@ -1,0 +1,20 @@
+{
+  "title": "Decouple knowledge from parameters for plug-and-play language modeling",
+  "authors": [
+    "Xin Cheng",
+    "Yankai Lin",
+    "Xiuying Chen",
+    "Dongyan Zhao",
+    "Rui Yan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.findings-acl.901",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.901/"
+}

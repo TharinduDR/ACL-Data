@@ -1,0 +1,21 @@
+{
+  "title": "Hypothetical Training for Robust Machine Reading Comprehension of Tabular Context",
+  "authors": [
+    "Moxin Li",
+    "Wenjie Wang",
+    "Fuli Feng",
+    "Hanwang Zhang",
+    "Qifan Wang",
+    "Tat-Seng Chua"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2023.findings-acl.79",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.79/"
+}

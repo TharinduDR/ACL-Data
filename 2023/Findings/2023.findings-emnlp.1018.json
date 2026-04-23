@@ -1,0 +1,21 @@
+{
+  "title": "Dialect Transfer for Swiss German Speech Translation",
+  "authors": [
+    "Claudio Paonessa",
+    "Yanick Schraner",
+    "Jan Deriu",
+    "Manuela H\"urlimann",
+    "Manfred Vogel",
+    "Mark Cieliebak"
+  ],
+  "languages": [
+    "Swiss German",
+    "Standard German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.findings-emnlp.1018",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.1018/"
+}

@@ -1,0 +1,53 @@
+{
+  "title": "LR-Sum: Summarization for Less-Resourced Languages",
+  "authors": [
+    "Chester Palen-Michel",
+    "Constantine Lignos"
+  ],
+  "languages": [
+    "English",
+    "Albanian",
+    "Amharic",
+    "Armenian",
+    "Azerbaijani",
+    "Bangla",
+    "Bosnian",
+    "Burmese",
+    "Dari Persian",
+    "French",
+    "Georgian",
+    "Haitian Creole",
+    "Hausa",
+    "Indonesian",
+    "Khmer",
+    "Kinyarwanda",
+    "Korean",
+    "Kurdish",
+    "Lao",
+    "Macedonian",
+    "Mandarin Chinese",
+    "Northern Ndebele",
+    "Pashto",
+    "Persian Farsi",
+    "Portuguese",
+    "Russian",
+    "Serbian",
+    "Shona",
+    "Somali",
+    "Spanish",
+    "Swahili",
+    "Thai",
+    "Tibetan",
+    "Tigrinya",
+    "Turkish",
+    "Ukrainian",
+    "Urdu",
+    "Uzbek",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.findings-acl.427",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.427/"
+}

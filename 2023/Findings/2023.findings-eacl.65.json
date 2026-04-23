@@ -1,0 +1,22 @@
+{
+  "title": "A Neural CRF-based Hierarchical Approach for Linear Text Segmentation",
+  "authors": [
+    "Inderjeet Nair",
+    "Aparna Garimella",
+    "Balaji Vasan Srinivasan",
+    "Natwar Modani",
+    "Niyati Chhaya",
+    "Srikhrisha Karanam",
+    "Sumit Shekhar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-eacl.65",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.65/"
+}

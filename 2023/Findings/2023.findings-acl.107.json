@@ -1,0 +1,24 @@
+{
+  "title": "Extract and Attend: Improving Entity Translation in Neural Machine Translation",
+  "authors": [
+    "Zixin Zeng",
+    "Rui Wang",
+    "Yichong Leng",
+    "Junliang Guo",
+    "Xu Tan",
+    "Tao Qin",
+    "Tie-yan Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.findings-acl.107",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.107/"
+}

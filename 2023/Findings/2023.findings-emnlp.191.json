@@ -1,0 +1,22 @@
+{
+  "title": "LogiCoT: Logical Chain-of-Thought Instruction Tuning",
+  "authors": [
+    "Hanmeng Liu",
+    "Zhiyang Teng",
+    "Leyang Cui",
+    "Chaoli Zhang",
+    "Qiji Zhou",
+    "Yue Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.findings-emnlp.191",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.191/"
+}

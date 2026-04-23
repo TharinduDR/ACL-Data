@@ -1,0 +1,22 @@
+{
+  "title": "Pre-Trained Language-Meaning Models for Multilingual Parsing and Generation",
+  "authors": [
+    "Chunliu Wang",
+    "Huiyuan Lai",
+    "Malvina Nissim",
+    "Johan Bos"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.findings-acl.345",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.345/"
+}

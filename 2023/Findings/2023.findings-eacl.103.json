@@ -1,0 +1,20 @@
+{
+  "title": "Investigating anatomical bias in clinical machine learning algorithms",
+  "authors": [
+    "Jannik Skyttegaard Pedersen",
+    "Martin Sundahl Laursen",
+    "Pernille Just Vinholt",
+    "Anne Bryde Alnor",
+    "Thiusius Rajeeth Savarimuthu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T26 Clinical/biomedical NLP",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.findings-eacl.103",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.103/"
+}

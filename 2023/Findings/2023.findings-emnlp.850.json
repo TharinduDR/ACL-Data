@@ -1,0 +1,20 @@
+{
+  "title": "Improving Multi-Criteria Chinese Word Segmentation through Learning Sentence Representation",
+  "authors": [
+    "Chun-Yi Lin",
+    "Ying-Jia Lin",
+    "Yi-Ting Li",
+    "Chia-Jen Yeh",
+    "Ching-Wen Yang",
+    "Hung-Yu Kao"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-emnlp.850",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.850/"
+}

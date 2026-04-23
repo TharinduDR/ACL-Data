@@ -1,0 +1,24 @@
+{
+  "title": "CTQScorer: Combining Multiple Features for In-context Example Selection for Machine Translation",
+  "authors": [
+    "Aswanth Kumar",
+    "Ratish Puduppully",
+    "Raj Dabre",
+    "Anoop Kunchukuttan"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "French",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.519",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.519/"
+}

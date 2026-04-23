@@ -1,0 +1,22 @@
+{
+  "title": "GNN-SL: Sequence Labeling Based on Nearest Examples via GNN",
+  "authors": [
+    "Shuhe Wang",
+    "Yuxian Meng",
+    "Rongbin Ouyang",
+    "Jiwei Li",
+    "Tianwei Zhang",
+    "Lingjuan Lyu",
+    "Guoyin Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.findings-acl.803",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.803/"
+}

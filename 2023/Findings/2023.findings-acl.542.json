@@ -1,0 +1,19 @@
+{
+  "title": "DiMS: Distilling Multiple Steps of Iterative Non-Autoregressive Transformers for Machine Translation",
+  "authors": [
+    "Sajad Norouzi",
+    "Rasa Hosseinzadeh",
+    "Felipe Pérez",
+    "Maksims Volkovs"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.findings-acl.542",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.542/"
+}

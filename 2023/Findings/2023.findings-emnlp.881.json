@@ -1,0 +1,23 @@
+{
+  "title": "DIFFERENCE-MASKING: Choosing What to Mask in Continued Pretraining",
+  "authors": [
+    "Alex Wilf",
+    "Syeda Nahida Akter",
+    "Leena Mathur",
+    "Paul Pu Liang",
+    "Sheryl Mathew",
+    "Mengrou Shou",
+    "Eric Nyberg",
+    "Louis-Philippe Morency"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2023.findings-emnlp.881",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.881/"
+}

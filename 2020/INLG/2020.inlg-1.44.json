@@ -1,0 +1,21 @@
+{
+  "title": "ReviewRobot: Explainable Paper Review Generation based on Knowledge Synthesis",
+  "authors": [
+    "Qingyun Wang",
+    "Qi Zeng",
+    "Lifu Huang",
+    "Kevin Knight",
+    "Heng Ji",
+    "Nazneen Fatema Rajani"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2020.inlg-1.44",
+  "acl_url": "https://aclanthology.org/2020.inlg-1.44/"
+}

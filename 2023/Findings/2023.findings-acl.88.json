@@ -1,0 +1,36 @@
+{
+  "title": "Enhancing Cross-lingual Natural Language Inference by Soft Prompting with Multilingual Verbalizer",
+  "authors": [
+    "Shuang Li",
+    "Xuming Hu",
+    "Aiwei Liu",
+    "Yawen Yang",
+    "Fukun Ma",
+    "Philip S. Yu",
+    "Lijie Wen"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Greek",
+    "Bulgarian",
+    "Russian",
+    "Turkish",
+    "Arabic",
+    "Vietnamese",
+    "Thai",
+    "Chinese",
+    "Hindi",
+    "Swahili",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.findings-acl.88",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.88/"
+}

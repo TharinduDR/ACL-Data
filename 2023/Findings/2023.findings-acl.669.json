@@ -1,0 +1,19 @@
+{
+  "title": "How does the task complexity of masked pretraining objectives affect downstream performance?",
+  "authors": [
+    "Atsuki Yamaguchi",
+    "Hiroaki Ozaki",
+    "Terufumi Morishita",
+    "Gaku Morio",
+    "Yasuhiro Sogawa"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.669",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.669/"
+}

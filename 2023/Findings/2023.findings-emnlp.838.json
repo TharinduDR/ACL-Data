@@ -1,0 +1,24 @@
+{
+  "title": "SUPER-TWEET-EVAL: A Challenging, Unified and Heterogeneous Benchmark for Social Media NLP Research",
+  "authors": [
+    "Dimosthenis Antypas",
+    "Asahi Ushio",
+    "Francesco Barbieri",
+    "Leonardo Neves",
+    "Kiamehr Rezaee",
+    "Luis Espinosa-Anke",
+    "Jiaxin Pei",
+    "Jose Camacho-Collados"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-emnlp.838",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.838/"
+}

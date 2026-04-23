@@ -1,0 +1,25 @@
+{
+  "title": "IndIE: A Multilingual Open Information Extraction Tool For Indic Languages",
+  "authors": [
+    "Ritwik Mishra",
+    "Simranjeet Singh",
+    "Rajiv Ratn Shah",
+    "Ponnurangam Kumaraguru",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "Hindi",
+    "English",
+    "Urdu",
+    "Nepali",
+    "Gujarati",
+    "Bengali"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.findings-ijcnlp.28",
+  "acl_url": "https://aclanthology.org/2023.findings-ijcnlp.28/"
+}

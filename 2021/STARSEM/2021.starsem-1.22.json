@@ -1,0 +1,37 @@
+{
+  "title": "Inducing Language-Agnostic Multilingual Representations",
+  "authors": [
+    "Wei Zhao",
+    "Steffen Eger",
+    "Johannes Bjerva",
+    "Isabelle Augenstein"
+  ],
+  "languages": [
+    "English",
+    "Tagalog",
+    "Javanese",
+    "Bengali",
+    "Marathi",
+    "Estonian",
+    "Hindi",
+    "Urdu",
+    "Finnish",
+    "Hungarian",
+    "Afrikaans",
+    "Malay",
+    "Spanish",
+    "French",
+    "Italian",
+    "Indonesian",
+    "Dutch",
+    "Portuguese",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.starsem-1.22",
+  "acl_url": "https://aclanthology.org/2021.starsem-1.22/"
+}

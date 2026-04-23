@@ -1,0 +1,20 @@
+{
+  "title": "AUGESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation",
+  "authors": [
+    "Chujie Zheng",
+    "Sahand Sabour",
+    "Jiaxin Wen",
+    "Zheng Zhang",
+    "Minlie Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2023.findings-acl.99",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.99/"
+}

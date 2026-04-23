@@ -1,0 +1,20 @@
+{
+  "title": "Learning Interpretable Style Embeddings via Prompting LLMs",
+  "authors": [
+    "Ajay Patel",
+    "Delip Rao",
+    "Ansh Kothary",
+    "Kathleen McKeown",
+    "Chris Callison-Burch"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2023.findings-emnlp.1020",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.1020/"
+}

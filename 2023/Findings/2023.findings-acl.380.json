@@ -1,0 +1,23 @@
+{
+  "title": "Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks",
+  "authors": [
+    "Sugyeong Eo",
+    "Hyeonseok Moon",
+    "Jinsung Kim",
+    "Yuna Hur",
+    "Jeongwook Kim",
+    "Sangeun Lee",
+    "Changwoo Chun",
+    "Sungsoo Park",
+    "Heuiseok Lim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.findings-acl.380",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.380/"
+}

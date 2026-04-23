@@ -1,0 +1,18 @@
+{
+  "title": "Guiding LLM to Fool Itself: Automatically Manipulating Machine Reading Comprehension Shortcut Triggers",
+  "authors": [
+    "Mosh Levy",
+    "Shauli Ravfogel",
+    "Yoav Goldberg"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2023.findings-emnlp.569",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.569/"
+}

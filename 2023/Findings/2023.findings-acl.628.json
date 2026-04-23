@@ -1,0 +1,24 @@
+{
+  "title": "Local Temperature Beam Search: Avoid Neural Text DeGeneration via Enhanced Calibration",
+  "authors": [
+    "Dongkyu Lee",
+    "Gyeonghun Kim",
+    "Janghoon Han",
+    "Taesuk Hong",
+    "Yi-Reun Kim",
+    "Stanley Jungkyu Choi",
+    "Nevin L. Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.findings-acl.628",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.628/"
+}

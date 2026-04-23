@@ -1,0 +1,28 @@
+{
+  "title": "Beyond Layout Embedding: Layout Attention with Gaussian Biases for Structured Document Understanding",
+  "authors": [
+    "Xi Zhu",
+    "Xue Han",
+    "Shuyuan Peng",
+    "Shuo Lei",
+    "Chao Deng",
+    "Junlan Feng"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "Spanish",
+    "French",
+    "Italian",
+    "German",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2023.findings-emnlp.521",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.521/"
+}

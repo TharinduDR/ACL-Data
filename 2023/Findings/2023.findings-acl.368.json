@@ -1,0 +1,18 @@
+{
+  "title": "Commonsense Knowledge Transfer for Pre-trained Language Models",
+  "authors": [
+    "Wangchunshu Zhou",
+    "Ronan Le Bras",
+    "Yejin Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2023.findings-acl.368",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.368/"
+}

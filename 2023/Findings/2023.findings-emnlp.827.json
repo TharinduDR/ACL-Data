@@ -1,0 +1,18 @@
+{
+  "title": "DetectLLM: Leveraging Log-Rank Information for Zero-Shot Detection of Machine-Generated Text",
+  "authors": [
+    "Jinyan Su",
+    "Terry Yue Zhuo",
+    "Di Wang",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2023.findings-emnlp.827",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.827/"
+}

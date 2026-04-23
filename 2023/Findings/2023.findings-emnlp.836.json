@@ -1,0 +1,21 @@
+{
+  "title": "Ensemble-Instruct: Generating Instruction-Tuning Data with a Heterogeneous Mixture of LMs",
+  "authors": [
+    "Young-Suk Lee",
+    "Md Arafat Sultan",
+    "Yousef El-Kurdi",
+    "Tahira Naseem",
+    "Asim Munawar",
+    "Radu Florian",
+    "Salim Roukos",
+    "Ramón Fernandez Astudillo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.836",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.836/"
+}

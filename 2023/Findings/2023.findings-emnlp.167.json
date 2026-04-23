@@ -1,0 +1,24 @@
+{
+  "title": "Large Language Models are Better Reasoners with Self-Verification",
+  "authors": [
+    "Yixuan Weng",
+    "Minjun Zhu",
+    "Fei Xia",
+    "Bin Li",
+    "Shizhu He",
+    "Shengping Liu",
+    "Bin Sun",
+    "Kang Liu",
+    "Jun Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.167",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.167/"
+}

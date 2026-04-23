@@ -1,0 +1,33 @@
+{
+  "title": "Cross-Lingual Knowledge Distillation for Answer Sentence Selection in Low-Resource Languages",
+  "authors": [
+    "Shivanshu Gupta",
+    "Yoshitomo Matsubara",
+    "Ankit Chadha",
+    "Alessandro Moschitti"
+  ],
+  "languages": [
+    "Arabic",
+    "Dutch",
+    "French",
+    "German",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Portuguese",
+    "Spanish",
+    "Bengali",
+    "Finnish",
+    "Indonesian",
+    "Korean",
+    "Russian",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-acl.885",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.885/"
+}

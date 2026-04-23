@@ -1,0 +1,24 @@
+{
+  "title": "CR-COPEC: Causal Rationale of Corporate Performance Changes to Learn from Financial Reports",
+  "authors": [
+    "Ye Eun Chun",
+    "Sunjae Kwon",
+    "Kyungwhan Sohn",
+    "Nakwon Sung",
+    "Junyoup Lee",
+    "Byungki Seo",
+    "Kevin Compher",
+    "Seung-won Hwang",
+    "Jaesik Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-emnlp.26",
+  "acl_url": "https://aclanthology.org/2023.findings-emnlp.26/"
+}

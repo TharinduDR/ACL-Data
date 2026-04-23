@@ -1,0 +1,19 @@
+{
+  "title": "Few Shot Rationale Generation using Self-Training with Dual Teachers",
+  "authors": [
+    "Aditya Srikanth Veerubhotla",
+    "Lahari Poddar",
+    "Jun Yin",
+    "György Szarvas",
+    "Sharanya Eswaran"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.findings-acl.297",
+  "acl_url": "https://aclanthology.org/2023.findings-acl.297/"
+}

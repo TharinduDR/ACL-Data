@@ -1,0 +1,18 @@
+{
+  "title": "DCU-NLG-Small at the GEM'24 Data-to-Text Task: Rule-based generation and post-processing with T5-Base",
+  "authors": [
+    "Simon Mille",
+    "Mohammed Sabry",
+    "Anya Belz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.inlg-genchal.9",
+  "acl_url": "https://aclanthology.org/2024.inlg-genchal.9/"
+}

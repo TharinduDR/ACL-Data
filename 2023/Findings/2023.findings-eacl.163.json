@@ -1,0 +1,21 @@
+{
+  "title": "JobXMLC: EXtreme Multi-Label Classification of Job Skills with Graph Neural Networks",
+  "authors": [
+    "Nidhi Goyal",
+    "Jushaan Singh Kalra",
+    "Charu Sharma",
+    "Raghava Mutharaju",
+    "Niharika Sachdeva",
+    "Ponnurangam Kumaraguru"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.findings-eacl.163",
+  "acl_url": "https://aclanthology.org/2023.findings-eacl.163/"
+}
