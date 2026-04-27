@@ -1,0 +1,21 @@
+{
+  "title": "AustroTox: A Dataset for Target-Based Austrian German Offensive Language Detection",
+  "authors": [
+    "Pia Pachinger",
+    "Janis Goldzycher",
+    "Anna Maria Planitzer",
+    "Wojciech Kusa",
+    "Allan Hanbury",
+    "Julia Neidhardt"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.findings-acl.713",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.713/"
+}

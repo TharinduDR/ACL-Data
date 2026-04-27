@@ -1,0 +1,25 @@
+{
+  "title": "JEEM: Vision-Language Understanding in Four Arabic Dialects",
+  "authors": [
+    "Karima Kadaoui",
+    "Hanin Atwany",
+    "Hamdan Al-Al",
+    "Abdelrahman Mohamed",
+    "Ali Mekky",
+    "Sergei Tilga",
+    "Natalia Fedorova",
+    "Ekaterina Artemova",
+    "Hanan Aldarmaki",
+    "Yova Kementchedjhieva"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2026.findings-eacl.18",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.18/"
+}

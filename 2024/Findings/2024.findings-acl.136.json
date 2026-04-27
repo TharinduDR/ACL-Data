@@ -1,0 +1,32 @@
+{
+  "title": "Multilingual Instruction Tuning With Just a Pinch of Multilinguality",
+  "authors": [
+    "Uri Shaham",
+    "Jonathan Herzig",
+    "Roee Aharoni",
+    "Idan Szpektor",
+    "Reut Tsarfaty",
+    "Matan Eyal"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Czech",
+    "English",
+    "Estonian",
+    "Finnish",
+    "Hebrew",
+    "Hindi",
+    "Italian",
+    "Russian",
+    "Spanish",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.136",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.136/"
+}

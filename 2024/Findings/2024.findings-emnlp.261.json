@@ -1,0 +1,20 @@
+{
+  "title": "RoQLlama: A Lightweight Romanian Adapted Language Model",
+  "authors": [
+    "George-Andrei Dima",
+    "Andrei-Marius Avram",
+    "Cristian-George Crăciun",
+    "Dumitru-Clementin Cercel"
+  ],
+  "languages": [
+    "Romanian",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-emnlp.261",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.261/"
+}

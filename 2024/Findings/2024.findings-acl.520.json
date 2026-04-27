@@ -1,0 +1,24 @@
+{
+  "title": "Error Analysis Prompting Enables Human-Like Translation Evaluation in Large Language Models",
+  "authors": [
+    "Qingyu Lu",
+    "Baopu Qiu",
+    "Liang Ding",
+    "Kanjian Zhang",
+    "Tom Kocmi",
+    "Dacheng Tao"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.findings-acl.520",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.520/"
+}

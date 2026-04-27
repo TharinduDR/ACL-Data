@@ -1,0 +1,18 @@
+{
+  "title": "LoRA-PAR: A Flexible Dual-System LoRA Partitioning Approach to Efficient LLM Fine-Tuning",
+  "authors": [
+    "Yining Huang",
+    "Bin Li",
+    "Keke Tang",
+    "Meilian Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-emnlp.738",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.738/"
+}

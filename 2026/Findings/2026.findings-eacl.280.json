@@ -1,0 +1,25 @@
+{
+  "title": "LogToP: Logic Tree-of-Program with Table Instruction-tuned LLMs for Controlled Logical Table-to-Text Generation",
+  "authors": [
+    "Yupian Lin",
+    "Guangya Yu",
+    "Cheng Yuan",
+    "Huan Du",
+    "Hui Luo",
+    "Yuang Bian",
+    "Jingping Liu",
+    "Zhidong He",
+    "Wen Du",
+    "Tong Ruan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2026.findings-eacl.280",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.280/"
+}

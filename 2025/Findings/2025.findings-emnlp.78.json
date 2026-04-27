@@ -1,0 +1,22 @@
+{
+  "title": "Training Language Models to Critique With Multi-agent Feedback",
+  "authors": [
+    "Tian Lan",
+    "Wenwei Zhang",
+    "Chengqi Lyu",
+    "Shuaibin Li",
+    "Chen Xu",
+    "Heyan Huang",
+    "Dahua Lin",
+    "Xian-Ling Mao",
+    "Kai Chen"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.findings-emnlp.78",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.78/"
+}

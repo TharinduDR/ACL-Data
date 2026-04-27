@@ -1,0 +1,24 @@
+{
+  "title": "Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategic Conversation",
+  "authors": [
+    "Zijie Liu",
+    "Xinyu Zhao",
+    "Jie Peng",
+    "Jinhao Duan",
+    "Zhuangdi Zhu",
+    "Qingyu Chen",
+    "Kaidi Xu",
+    "Xia Hu",
+    "Tianlong Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2026.findings-eacl.149",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.149/"
+}

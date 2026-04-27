@@ -1,0 +1,24 @@
+{
+  "title": "Self-Supervised Prompt Optimization",
+  "authors": [
+    "Jinyu Xiang",
+    "Jiayi Zhang",
+    "Zhaoyang Yu",
+    "Xinbing Liang",
+    "Fengwei Teng",
+    "Jinhao Tu",
+    "Fashen Ren",
+    "Xiangru Tang",
+    "Sirui Hong",
+    "Chenglin Wu",
+    "Yuyu Luo"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-emnlp.479",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.479/"
+}

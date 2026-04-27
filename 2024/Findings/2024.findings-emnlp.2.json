@@ -1,0 +1,39 @@
+{
+  "title": "Transferability of Syntax-Aware Graph Neural Networks in Zero-Shot Cross-Lingual Semantic Role Labeling",
+  "authors": [
+    "Rachel Sidney Devianti",
+    "Yusuke Miyao"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Finnish",
+    "Italian",
+    "Spanish",
+    "French",
+    "German",
+    "Portuguese",
+    "Czech",
+    "Greek",
+    "Korean",
+    "Romanian",
+    "Hindi",
+    "Marathi",
+    "Tamil",
+    "Hungarian",
+    "Dutch",
+    "Polish",
+    "Telugu",
+    "Indonesian",
+    "Japanese",
+    "Russian",
+    "Ukrainian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T11",
+    "T21"
+  ],
+  "paper_id": "2024.findings-emnlp.2",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.2/"
+}

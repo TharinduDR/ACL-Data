@@ -1,0 +1,25 @@
+{
+  "title": "CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering",
+  "authors": [
+    "Yumeng Wang",
+    "Zhiyuan Fan",
+    "Qingyun Wang",
+    "Yi R. (May) Fung",
+    "Heng Ji"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Italian",
+    "German",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T10",
+    "T14",
+    "T13"
+  ],
+  "paper_id": "2025.findings-naacl.152",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.152/"
+}

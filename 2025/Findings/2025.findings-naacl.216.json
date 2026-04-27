@@ -1,0 +1,24 @@
+{
+  "title": "Lossless Acceleration of Large Language Models with Hierarchical Drafting based on Temporal Locality in Speculative Decoding",
+  "authors": [
+    "Sukmin Cho",
+    "Sangjin Choi",
+    "Taeho Hwang",
+    "Jeongyeon Seo",
+    "Soyeong Jeong",
+    "Huije Lee",
+    "Hoyun Song",
+    "Jong C. Park",
+    "Youngjin Kwon"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.findings-naacl.216",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.216/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "R-Judge: Benchmarking Safety Risk Awareness for LLM Agents",
+  "authors": [
+    "Tongxin Yuan",
+    "Zhiwei He",
+    "Lingzhong Dong",
+    "Yiming Wang",
+    "Ruijie Zhao",
+    "Tian Xia",
+    "Lizhen Xu",
+    "Binglin Zhou",
+    "Fangqi Li",
+    "Zhuosheng Zhang",
+    "Rui Wang",
+    "Gongshen Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.findings-emnlp.79",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.79/"
+}

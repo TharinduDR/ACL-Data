@@ -1,0 +1,29 @@
+{
+  "title": "BLADE: Benchmarking Language Model Agents for Data-Driven Science",
+  "authors": [
+    "Ken Gu",
+    "Ruoxi Shang",
+    "Ruien Jiang",
+    "Keying Kuang",
+    "Richard-John Lin",
+    "Donghe Lyu",
+    "Yue Mao",
+    "Youran Pan",
+    "Teng Wu",
+    "Jiaqian Yu",
+    "Yikun Zhang",
+    "Tianmai M. Zhang",
+    "Lanyi Zhu",
+    "Mike A. Merrill",
+    "Jeffrey Heer",
+    "Tim Althoff"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.findings-emnlp.815",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.815/"
+}

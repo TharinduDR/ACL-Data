@@ -1,0 +1,23 @@
+{
+  "title": "End-to-End Optimization for Multimodal Retrieval-Augmented Generation via Reward Backpropagation",
+  "authors": [
+    "Zhiyuan Fan",
+    "Longfei Yun",
+    "Ming Yan",
+    "Yumeng Wang",
+    "Dadi Guo",
+    "Brian Mak",
+    "James Kwok",
+    "Yi R. (May) Fung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.findings-emnlp.24",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.24/"
+}

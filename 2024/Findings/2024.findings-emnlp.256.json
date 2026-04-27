@@ -1,0 +1,24 @@
+{
+  "title": "OEE-CFC: A Dataset for Open Event Extraction from Chinese Financial Commentary",
+  "authors": [
+    "Qizhi Wan",
+    "Changxuan Wan",
+    "Rong Hu",
+    "Dexi Liu",
+    "Wenwu Xu",
+    "Kang Xu",
+    "Meihua Zou",
+    "Tao Liu",
+    "Jie Yang",
+    "Zhenwei Xiong"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.findings-emnlp.256",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.256/"
+}

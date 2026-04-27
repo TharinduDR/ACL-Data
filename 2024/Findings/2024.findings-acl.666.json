@@ -1,0 +1,23 @@
+{
+  "title": "KorNAT: LLM Alignment Benchmark for Korean Social Values and Common Knowledge",
+  "authors": [
+    "Jiyoung Lee",
+    "Minwoo Kim",
+    "Seungho Kim",
+    "Junghwan Kim",
+    "Seunghyun Won",
+    "Hwaran Lee",
+    "Edward Choi"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.findings-acl.666",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.666/"
+}

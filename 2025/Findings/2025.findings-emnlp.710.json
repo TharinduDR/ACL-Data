@@ -1,0 +1,23 @@
+{
+  "title": "ROSE: A Reward-Oriented Data Selection Framework for LLM Task-Specific Instruction Tuning",
+  "authors": [
+    "Yang Wu",
+    "Huayi Zhang",
+    "Yizheng Jiao",
+    "Lin Ma",
+    "Xiaozhong Liu",
+    "Jinhong Yu",
+    "Dongyu Zhang",
+    "Dezhi Yu",
+    "Wei Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2025.findings-emnlp.710",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.710/"
+}

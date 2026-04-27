@@ -1,0 +1,25 @@
+{
+  "title": "Token Alignment via Character Matching for Subword Completion",
+  "authors": [
+    "Ben Athiwaratkun",
+    "Shiqi Wang",
+    "Mingyue Shang",
+    "Yuchen Tian",
+    "Zijian Wang",
+    "Sujan Kumar Gonugondla",
+    "Sanjay Krishna Gouda",
+    "Rob Kwiatowski",
+    "Ramesh Nallapati",
+    "Parminder Bhatia",
+    "Bing Xiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.findings-acl.929",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.929/"
+}

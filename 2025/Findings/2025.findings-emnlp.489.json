@@ -1,0 +1,24 @@
+{
+  "title": "KoLEG: On-the-Fly Korean Legal Knowledge Editing with Continuous Retrieval",
+  "authors": [
+    "Jaehyung Seo",
+    "Dahyun Jung",
+    "Jaewook Lee",
+    "Yongchan Chun",
+    "Dongjun Kim",
+    "Hwijung Ryu",
+    "Donghoon Shin",
+    "Heuiseok Lim"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.findings-emnlp.489",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.489/"
+}

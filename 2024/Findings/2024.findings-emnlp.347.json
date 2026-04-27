@@ -1,0 +1,23 @@
+{
+  "title": "Llama SLayer 8B: Shallow Layers Hold the Key to Knowledge Injection",
+  "authors": [
+    "Tianxiang Chen",
+    "Zhentao Tan",
+    "Tao Gong",
+    "Yue Wu",
+    "Qi Chu",
+    "Bin Liu",
+    "Jieping Ye",
+    "Nenghai Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T13 Knowledge discovery/representation",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.findings-emnlp.347",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.347/"
+}

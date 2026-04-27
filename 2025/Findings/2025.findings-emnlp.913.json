@@ -1,0 +1,26 @@
+{
+  "title": "EnDive: A Cross-Dialect Benchmark for Fairness and Performance in Large Language Models",
+  "authors": [
+    "Abhay Gupta",
+    "Jacob Cheung",
+    "Philip Meng",
+    "Shayan Sayyed",
+    "Austen Liao",
+    "Kevin Zhu",
+    "Sean O'Brien"
+  ],
+  "languages": [
+    "English",
+    "African American Vernacular English",
+    "Indian English",
+    "Jamaican English",
+    "Colloquial Singaporean English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.findings-emnlp.913",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.913/"
+}

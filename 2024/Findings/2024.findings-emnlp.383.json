@@ -1,0 +1,23 @@
+{
+  "title": "Cross-lingual Contextualized Phrase Retrieval",
+  "authors": [
+    "Huayang Li",
+    "Deng Cai",
+    "Zhi Qu",
+    "Qu Cui",
+    "Hidetaka Kamigaito",
+    "Lemao Liu",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.findings-emnlp.383",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.383/"
+}

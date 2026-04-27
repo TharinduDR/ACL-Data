@@ -1,0 +1,23 @@
+{
+  "title": "DOLFIN - Document-Level Financial test set for Machine Translation",
+  "authors": [
+    "Mariam Nakhle",
+    "Marco Dinarelli",
+    "Raheel Qader",
+    "Emmanuelle Esperança-Rodier",
+    "Hervé Blanchon"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.307",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.307/"
+}

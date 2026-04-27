@@ -1,0 +1,19 @@
+{
+  "title": "MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search",
+  "authors": [
+    "Yunhai Hu",
+    "Yilun Zhao",
+    "Chen Zhao",
+    "Arman Cohan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2025.findings-emnlp.672",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.672/"
+}

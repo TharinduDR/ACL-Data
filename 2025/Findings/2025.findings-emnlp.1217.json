@@ -1,0 +1,28 @@
+{
+  "title": "TopXGen: Topic-Diverse Parallel Data Generation for Low-Resource Machine Translation",
+  "authors": [
+    "Armel Zebaze",
+    "Benoît Sagot",
+    "Rachel Bawden"
+  ],
+  "languages": [
+    "English",
+    "Basque",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Nepali",
+    "Somali",
+    "Sundanese",
+    "Swahili",
+    "Urdu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2025.findings-emnlp.1217",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1217/"
+}

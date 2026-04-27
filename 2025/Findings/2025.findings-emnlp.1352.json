@@ -1,0 +1,18 @@
+{
+  "title": "Mitigating Hallucination in Large Vision-Language Models through Aligning Attention Distribution to Information Flow",
+  "authors": [
+    "Jianfei Zhao",
+    "Feng Zhang",
+    "Xin Sun",
+    "Chong Feng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-emnlp.1352",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1352/"
+}

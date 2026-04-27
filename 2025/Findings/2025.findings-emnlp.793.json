@@ -1,0 +1,20 @@
+{
+  "title": "QUARTZ: QA-based Unsupervised Abstractive Refinement for Task-oriented Dialogue Summarization",
+  "authors": [
+    "Mohamed Imed Eddine Ghebriout",
+    "Gaël Guibon",
+    "Ivan Lerner",
+    "Emmanuel Vincent"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.findings-emnlp.793",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.793/"
+}

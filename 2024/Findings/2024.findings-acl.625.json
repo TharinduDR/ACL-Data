@@ -1,0 +1,21 @@
+{
+  "title": "Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning",
+  "authors": [
+    "Xiaohu Du",
+    "Ming Wen",
+    "Jiahao Zhu",
+    "Zifan Xie",
+    "Bin Ji",
+    "Huijun Liu",
+    "Xuanhua Shi",
+    "Hai Jin"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.findings-acl.625",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.625/"
+}

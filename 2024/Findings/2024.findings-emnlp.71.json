@@ -1,0 +1,25 @@
+{
+  "title": "SeRTS: Self-Rewarding Tree Search for Biomedical Retrieval-Augmented Generation",
+  "authors": [
+    "Minda Hu",
+    "Licheng Zong",
+    "Hongru Wang",
+    "Jingyan Zhou",
+    "Jingjing Li",
+    "Yichen Gao",
+    "Kam-Fai Wong",
+    "Yu Li",
+    "Irwin King"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.findings-emnlp.71",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.71/"
+}

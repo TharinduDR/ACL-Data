@@ -1,0 +1,21 @@
+{
+  "title": "When Inverse Data Outperforms: Exploring the Pitfalls of Mixed Data in Multi-Stage Fine-Tuning",
+  "authors": [
+    "Mengyi Deng",
+    "Xin Li",
+    "Tingyu Zhu",
+    "Zhicheng Yang",
+    "Zhijiang Guo",
+    "Wei Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-emnlp.346",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.346/"
+}

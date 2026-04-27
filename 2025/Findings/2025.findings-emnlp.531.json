@@ -1,0 +1,23 @@
+{
+  "title": "DeCoRe: Decoding by Contrasting Retrieval Heads to Mitigate Hallucinations",
+  "authors": [
+    "Aryo Pradipta Gema",
+    "Chen Jin",
+    "Ahmed Abdulaal",
+    "Tom Diethe",
+    "Philip Teare",
+    "Beatrice Alex",
+    "Pasquale Minervini",
+    "Amrutha Saseendran"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-emnlp.531",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.531/"
+}

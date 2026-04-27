@@ -9,12 +9,13 @@
     "Mani Srivastava"
   ],
   "languages": [
-    "English"
+    "English",
+    "Chinese"
   ],
   "research_areas": [
+    "T14 Language Modeling",
     "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
-    "T12 Interpretability/explainability of language models and language and speech processing tools",
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+    "T09 Inference and Reasoning"
   ],
   "paper_id": "2025.findings-acl.1033",
   "acl_url": "https://aclanthology.org/2025.findings-acl.1033/"

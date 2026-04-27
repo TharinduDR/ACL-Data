@@ -1,0 +1,28 @@
+{
+  "title": "Beyond a Single Extractor: Re-thinking HTML-to-Text Extraction for LLM Pretraining",
+  "authors": [
+    "Jeffrey Li",
+    "Josh Gardner",
+    "Doug Kang",
+    "Fangping Shi",
+    "Karanjeet Singh",
+    "Chun-Liang Li",
+    "Herumb Shandilya",
+    "David Hall",
+    "Oncel Tuzel",
+    "Percy Liang",
+    "Ludwig Schmidt",
+    "Hadi Pour Ansari",
+    "Fartash Faghri"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.findings-eacl.307",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.307/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation",
+  "authors": [
+    "Jiahao Cheng",
+    "Tiancheng Su",
+    "Jia Yuan",
+    "Guoxiu He",
+    "Jiawei Liu",
+    "Xinqi Tao",
+    "Jingwen Xie",
+    "Huaxia Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-emnlp.67",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.67/"
+}

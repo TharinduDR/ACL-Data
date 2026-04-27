@@ -1,0 +1,24 @@
+{
+  "title": "HIRAG: Hierarchical-Thought Instruction-Tuning Retrieval-Augmented Generation",
+  "authors": [
+    "Yihan Jiao",
+    "Zhehao Tan",
+    "Dan Yang",
+    "Duolin Sun",
+    "Jie Feng",
+    "Yue Shen",
+    "Jian Wang",
+    "Peng Wei"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.findings-emnlp.274",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.274/"
+}

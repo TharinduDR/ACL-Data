@@ -1,0 +1,20 @@
+{
+  "title": "Teaching LLMs to Plan, Not Just Solve: Plan Learning Boosts LLMs Generalization in Reasoning Tasks",
+  "authors": [
+    "Tianlong Wang",
+    "Junzhe Chen",
+    "Weibin Liao",
+    "Xueting Han",
+    "Jing Bai"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-emnlp.453",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.453/"
+}

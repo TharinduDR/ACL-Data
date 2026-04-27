@@ -1,0 +1,17 @@
+{
+  "title": "Where do LLMs currently stand on biomedical NER in both clean and noisy settings?",
+  "authors": [
+    "Christophe Ye",
+    "Cassie S. Mitchell"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.findings-eacl.51",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.51/"
+}

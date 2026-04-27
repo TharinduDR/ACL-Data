@@ -1,0 +1,25 @@
+{
+  "title": "RACQC: Advanced Retrieval-Augmented Generation for Chinese Query Correction",
+  "authors": [
+    "Jinbo Su",
+    "Lingzhe Gao",
+    "Wei Li",
+    "Shihao Liu",
+    "Haojie Lei",
+    "Xinyi Wang",
+    "Yuanzhao Guo",
+    "Ke Wang",
+    "Daiting Shi",
+    "Dawei Yin"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T29",
+    "T14",
+    "T08"
+  ],
+  "paper_id": "2025.findings-emnlp.36",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.36/"
+}

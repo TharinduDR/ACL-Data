@@ -1,0 +1,19 @@
+{
+  "title": "EU DisinfoTest: a Benchmark for Evaluating Language Models' Ability to Detect Disinformation Narratives",
+  "authors": [
+    "Witold Sosnowski",
+    "Arkadiusz Modzelewski",
+    "Kinga Skorupska",
+    "Jahna Otterbacher",
+    "Adam Wierzbicki"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.findings-emnlp.862",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.862/"
+}

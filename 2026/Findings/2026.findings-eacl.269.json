@@ -1,0 +1,23 @@
+{
+  "title": "FLUKE: A Linguistically-Driven and Task-Agnostic Framework for Robustness Evaluation",
+  "authors": [
+    "Yulia Otmakhova",
+    "Hung Thinh Truong",
+    "Rahmad Mahendra",
+    "Zenan Zhai",
+    "Rongxin Zhu",
+    "Daniel Beck",
+    "Jey Han Lau"
+  ],
+  "languages": [
+    "English",
+    "Singlish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2026.findings-eacl.269",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.269/"
+}

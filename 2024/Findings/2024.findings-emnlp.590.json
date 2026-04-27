@@ -1,0 +1,21 @@
+{
+  "title": "C-ICL: Contrastive In-context Learning for Information Extraction",
+  "authors": [
+    "Ying Mo",
+    "Jiahao Liu",
+    "Jian Yang",
+    "Qifan Wang",
+    "Shun Zhang",
+    "Jingang Wang",
+    "Zhoujun Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-emnlp.590",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.590/"
+}

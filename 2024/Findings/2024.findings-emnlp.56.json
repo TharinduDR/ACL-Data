@@ -1,0 +1,22 @@
+{
+  "title": "Negating Negatives: Alignment with Human Negative Samples via Distributional Dispreference Optimization",
+  "authors": [
+    "Shitong Duan",
+    "Xiaoyuan Yi",
+    "Peng Zhang",
+    "Yan Liu",
+    "Zheng Liu",
+    "Tun Lu",
+    "Xing Xie",
+    "Ning Gu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-emnlp.56",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.56/"
+}

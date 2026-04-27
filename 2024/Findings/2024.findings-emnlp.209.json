@@ -1,0 +1,22 @@
+{
+  "title": "InfuserKI: Enhancing Large Language Models with Knowledge Graphs via Infuser-Guided Knowledge Integration",
+  "authors": [
+    "Fali Wang",
+    "Runxue Bao",
+    "Suhang Wang",
+    "Wenchao Yu",
+    "Yanchi Liu",
+    "Wei Cheng",
+    "Haifeng Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-emnlp.209",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.209/"
+}

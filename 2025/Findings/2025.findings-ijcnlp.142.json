@@ -1,0 +1,24 @@
+{
+  "title": "Regional-TinyStories: A Small Language Model Framework for Evaluating Language Learning, Tokenizers, and Datasets",
+  "authors": [
+    "Nirvan Patil",
+    "Malhar Inamdar",
+    "Agnivo Gosai",
+    "Guruprasad Pathak",
+    "Anish Joshi",
+    "Anish Jishirao",
+    "Raj Dandekar",
+    "Sreedath Panat"
+  ],
+  "languages": [
+    "Hindi",
+    "Marathi",
+    "Bangla"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-ijcnlp.142",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.142/"
+}

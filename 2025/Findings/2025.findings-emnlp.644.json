@@ -1,0 +1,27 @@
+{
+  "title": "Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge",
+  "authors": [
+    "Yan-Lun Chen",
+    "Yi-Ru Wei",
+    "Chia-Yi Hsu",
+    "Chia-Mu Yu",
+    "Chun-Ying Huang",
+    "Ying-Dar Lin",
+    "Yu-Sung Wu",
+    "Wei-Bin Lee"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "German",
+    "Russian",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.644",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.644/"
+}

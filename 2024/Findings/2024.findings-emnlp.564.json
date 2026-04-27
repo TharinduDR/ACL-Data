@@ -1,0 +1,25 @@
+{
+  "title": "Machine Translation Hallucination Detection for Low and High Resource Languages using Large Language Models",
+  "authors": [
+    "Kenza Benkirane",
+    "Laura Gongas",
+    "Shahar Pelles",
+    "Naomi Fuchs",
+    "Joshua Darmon",
+    "Pontus Stenetorp",
+    "David Ifeoluwa Adelani",
+    "Eduardo Sánchez"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Arabic",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.564",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.564/"
+}

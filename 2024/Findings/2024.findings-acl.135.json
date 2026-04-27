@@ -1,0 +1,24 @@
+{
+  "title": "Length-aware Byte Pair Encoding for Mitigating Over-segmentation in Korean Machine Translation",
+  "authors": [
+    "Jungseob Lee",
+    "Hyeonseok Moon",
+    "Seungjun Lee",
+    "Chanjun Park",
+    "Sugyeong Eo",
+    "Hyunwoong Ko",
+    "Jaehyung Seo",
+    "Seungyoon Lee",
+    "Heuiseok Lim"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.findings-acl.135",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.135/"
+}

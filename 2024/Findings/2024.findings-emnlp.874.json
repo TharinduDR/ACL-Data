@@ -1,0 +1,21 @@
+{
+  "title": "CED: Comparing Embedding Differences for Detecting Out-of-Distribution and Hallucinated Text",
+  "authors": [
+    "Hakyung Lee",
+    "Keon-Hee Park",
+    "Hoyoon Byun",
+    "Jeyoon Yeom",
+    "Jihee Kim",
+    "Gyeong-Moon Park",
+    "Kyungwoo Song"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.findings-emnlp.874",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.874/"
+}

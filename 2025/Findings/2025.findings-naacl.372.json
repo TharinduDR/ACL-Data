@@ -1,0 +1,22 @@
+{
+  "title": "Beyond the Mode: Sequence-Level Distillation of Multilingual Translation Models for Low-Resource Language Pairs",
+  "authors": [
+    "Aarón Galiano-Jiménez",
+    "Juan Antonio Pérez-Ortiz",
+    "Felipe Sánchez-Martínez",
+    "Víctor M. Sánchez-Cartagena"
+  ],
+  "languages": [
+    "English",
+    "Swahili",
+    "Igbo",
+    "Bambara"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.findings-naacl.372",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.372/"
+}

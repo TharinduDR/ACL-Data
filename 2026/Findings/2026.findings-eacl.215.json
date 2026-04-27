@@ -1,0 +1,18 @@
+{
+  "title": "A Scalable Framework for Automated NER Annotation Correction in Low-Resource Languages",
+  "authors": [
+    "Toqeer Ehsan",
+    "Thamar Solorio"
+  ],
+  "languages": [
+    "Urdu",
+    "Shahmukhi",
+    "Sindhi"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.findings-eacl.215",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.215/"
+}

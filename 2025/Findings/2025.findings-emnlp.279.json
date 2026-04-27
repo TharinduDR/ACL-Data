@@ -1,0 +1,23 @@
+{
+  "title": "MaGiX: A Multi-Granular Adaptive Graph Intelligence Framework for Enhancing Cross-Lingual RAG",
+  "authors": [
+    "Nguyen Manh Hieu",
+    "Vu Lam Anh",
+    "Hung Pham Van",
+    "Nam Le Hai",
+    "Diep Thi-Ngoc Nguyen",
+    "Linh Ngo Van",
+    "Thien Huu Nguyen"
+  ],
+  "languages": [
+    "English",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.findings-emnlp.279",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.279/"
+}

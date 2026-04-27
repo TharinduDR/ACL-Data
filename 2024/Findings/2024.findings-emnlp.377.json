@@ -1,0 +1,21 @@
+{
+  "title": "LumberChunker: Long-Form Narrative Document Segmentation",
+  "authors": [
+    "André V. Duarte",
+    "João Marques",
+    "Miguel Graça",
+    "Miguel Freire",
+    "Lei Li",
+    "Arlindo L. Oliveira"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.findings-emnlp.377",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.377/"
+}

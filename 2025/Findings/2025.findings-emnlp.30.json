@@ -1,0 +1,21 @@
+{
+  "title": "Toolscaler: Scalable Generative Tool Calling via Structure-Aware Semantic Tokenization",
+  "authors": [
+    "Yunyue Su",
+    "Jingshuai Zhang",
+    "Bowen Fang",
+    "Wen Ye",
+    "Jinghao Zhang",
+    "Bowen Song",
+    "Weiqiang Wang",
+    "Qiang Liu",
+    "Liang Wang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-emnlp.30",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.30/"
+}

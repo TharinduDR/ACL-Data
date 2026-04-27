@@ -1,0 +1,28 @@
+{
+  "title": "Improving Multilingual Neural Machine Translation by Utilizing Semantic and Linguistic Features",
+  "authors": [
+    "Mengyu Bu",
+    "Shuhao Gu",
+    "Yang Feng"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Dutch",
+    "Romanian",
+    "Italian",
+    "Arabic",
+    "Chinese",
+    "Czech",
+    "Kazakh",
+    "Turkish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.620",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.620/"
+}

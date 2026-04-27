@@ -1,0 +1,23 @@
+{
+  "title": "GUARD: Glocal Uncertainty-Aware Robust Decoding for Effective and Efficient Open-Ended Text Generation",
+  "authors": [
+    "Yuanhao Ding",
+    "Esteban Garces Arias",
+    "Meimingwei Li",
+    "Julian Rodemann",
+    "Matthias Aßenmacher",
+    "Danlu Chen",
+    "Gaojuan Fan",
+    "Christian Heumann",
+    "Chongsheng Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-emnlp.380",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.380/"
+}

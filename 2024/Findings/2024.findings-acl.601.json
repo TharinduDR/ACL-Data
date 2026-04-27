@@ -1,0 +1,24 @@
+{
+  "title": "MELD-ST: An Emotion-aware Speech Translation Dataset",
+  "authors": [
+    "Sirou Chen",
+    "Sakiko Yahata",
+    "Shuichiro Shimizu",
+    "Zhengdong Yang",
+    "Yihang Li",
+    "Chenhui Chu",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.findings-acl.601",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.601/"
+}

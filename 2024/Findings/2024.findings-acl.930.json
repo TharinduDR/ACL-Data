@@ -1,0 +1,46 @@
+{
+  "title": "Rethinking Efficient Multilingual Text Summarization Meta-Evaluation",
+  "authors": [
+    "Rilyn R. Han",
+    "Jiawen Chen",
+    "Yixin Liu",
+    "Arman Cohan"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Bengali",
+    "Czech",
+    "German",
+    "Greek",
+    "Spanish",
+    "Persian",
+    "Finnish",
+    "French",
+    "Irish",
+    "Hebrew",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Lithuanian",
+    "Dutch",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Swedish",
+    "Tamil",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Yiddish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.930",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.930/"
+}

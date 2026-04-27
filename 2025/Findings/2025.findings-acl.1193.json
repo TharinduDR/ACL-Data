@@ -5,13 +5,10 @@
     "Justin Wang",
     "Francois Charton"
   ],
-  "languages": [
-    "English"
-  ],
+  "languages": [],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T27 Code generation and programming languages",
-    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
   ],
   "paper_id": "2025.findings-acl.1193",
   "acl_url": "https://aclanthology.org/2025.findings-acl.1193/"

@@ -1,0 +1,19 @@
+{
+  "title": "CURE: Controlled Unlearning for Robust Embeddings — Mitigating Conceptual Shortcuts in Pre-Trained Language Models",
+  "authors": [
+    "Aysenur Kocak",
+    "Shuo Yang",
+    "Bardh Prenkaj",
+    "Gjergji Kasneci"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.findings-emnlp.771",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.771/"
+}

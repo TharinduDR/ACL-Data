@@ -1,0 +1,21 @@
+{
+  "title": "AcrosticSleuth: Probabilistic Identification and Ranking of Acrostics in Multilingual Corpora",
+  "authors": [
+    "Aleksandr Fedchin",
+    "Isabel Cooperman",
+    "Pramit Chaudhuri",
+    "Joseph P. Dexter"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.414",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.414/"
+}

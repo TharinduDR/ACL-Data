@@ -1,0 +1,22 @@
+{
+  "title": "Pruning Weights but Not Truth: Safeguarding Truthfulness While Pruning LLMs",
+  "authors": [
+    "Yao Fu",
+    "Runchao Li",
+    "Xianxuan Long",
+    "Haotian Yu",
+    "Xiaotian Han",
+    "Yu Yin",
+    "Pan Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-emnlp.1130",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1130/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Tables as Texts or Images: Evaluating the Table Reasoning Ability of LLMs and MLLMs",
+  "authors": [
+    "Naihao Deng",
+    "Zhenjie Sun",
+    "Ruiqi He",
+    "Aman Sikka",
+    "Yulong Chen",
+    "Lin Ma",
+    "Yue Zhang",
+    "Rada Mihalcea"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.findings-acl.23",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.23/"
+}

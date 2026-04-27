@@ -1,0 +1,22 @@
+{
+  "title": "Selective \"Selective Prediction\": Reducing Unnecessary Abstention in Vision-Language Reasoning",
+  "authors": [
+    "Tejas Srinivasan",
+    "Jack Hessel",
+    "Tanmay Gupta",
+    "Bill Yuchen Lin",
+    "Yejin Choi",
+    "Jesse Thomason",
+    "Khyathi Raghavi Chandu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.findings-acl.767",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.767/"
+}

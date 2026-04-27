@@ -10,12 +10,12 @@
     "Wei Yang"
   ],
   "languages": [
-    "English"
+    "English",
+    "Chinese"
   ],
   "research_areas": [
-    "T23 Social Media Processing",
-    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
-    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+    "T04",
+    "T23"
   ],
   "paper_id": "2025.findings-acl.468",
   "acl_url": "https://aclanthology.org/2025.findings-acl.468/"

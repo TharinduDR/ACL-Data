@@ -1,0 +1,18 @@
+{
+  "title": "DP-MLM: Differentially Private Text Rewriting Using Masked Language Models",
+  "authors": [
+    "Stephen Meisenbacher",
+    "Maulik Chevli",
+    "Juraj Vladika",
+    "Florian Matthes"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2024.findings-acl.554",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.554/"
+}

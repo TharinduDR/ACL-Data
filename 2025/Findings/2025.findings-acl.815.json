@@ -9,13 +9,11 @@
     "Junyu Gao",
     "Xuelong Li"
   ],
-  "languages": [
-    "English"
-  ],
+  "languages": [],
   "research_areas": [
-    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
-    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
-    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],
   "paper_id": "2025.findings-acl.815",
   "acl_url": "https://aclanthology.org/2025.findings-acl.815/"

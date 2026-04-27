@@ -1,0 +1,25 @@
+{
+  "title": "Role Prompting Guided Domain Adaptation with General Capability Preserve for Large Language Models",
+  "authors": [
+    "Rui Wang",
+    "Fei Mi",
+    "Yi Chen",
+    "Boyang Xue",
+    "Hongru Wang",
+    "Qi Zhu",
+    "Kam-Fai Wong",
+    "Ruifeng Xu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.findings-naacl.145",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.145/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Completely Modular Fine-tuning for Dynamic Language Adaptation",
+  "authors": [
+    "Zhe Cao",
+    "Yusuke Oda",
+    "Qianying Liu",
+    "Akiko Aizawa",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Portuguese",
+    "Acehnese",
+    "Tamasheq",
+    "Moroccan Tamazight",
+    "Minangkabau"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2026.findings-eacl.252",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.252/"
+}

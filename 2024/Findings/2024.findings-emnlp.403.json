@@ -1,0 +1,20 @@
+{
+  "title": "Learning from Imperfect Data: Towards Efficient Knowledge Distillation of Autoregressive Language Models for Text-to-SQL",
+  "authors": [
+    "Qihuang Zhong",
+    "Kunfeng Chen",
+    "Liang Ding",
+    "Juhua Liu",
+    "Bo Du",
+    "Dacheng Tao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.findings-emnlp.403",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.403/"
+}

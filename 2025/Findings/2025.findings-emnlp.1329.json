@@ -1,0 +1,22 @@
+{
+  "title": "Improving Preference Alignment of LLM using Inference-Free Self-Refinement",
+  "authors": [
+    "Fukun Ma",
+    "Kaibin Tian",
+    "Jieting Xue",
+    "Xiaoyi Wang",
+    "Ye Ma",
+    "Quan Chen",
+    "Peng Jiang",
+    "Lijie Wen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.1329",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1329/"
+}

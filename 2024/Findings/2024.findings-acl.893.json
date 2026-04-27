@@ -1,0 +1,27 @@
+{
+  "title": "From One to Many: Expanding the Scope of Toxicity Mitigation in Language Models",
+  "authors": [
+    "Luiza Pozzobon",
+    "Patrick Lewis",
+    "Sara Hooker",
+    "Beyza Ermis"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "French",
+    "Portuguese",
+    "Spanish",
+    "Russian",
+    "Arabic",
+    "Hindi",
+    "Korean"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.findings-acl.893",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.893/"
+}

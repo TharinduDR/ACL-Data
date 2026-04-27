@@ -1,0 +1,25 @@
+{
+  "title": "How Well Do LLMs Handle Cantonese? Benchmarking Cantonese Capabilities of Large Language Models",
+  "authors": [
+    "Jiyue Jiang",
+    "Pengan Chen",
+    "Liheng Chen",
+    "Sheng Wang",
+    "Qinghang Bao",
+    "Lingpeng Kong",
+    "Yu Li",
+    "Chuan Wu"
+  ],
+  "languages": [
+    "Cantonese",
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.findings-naacl.253",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.253/"
+}

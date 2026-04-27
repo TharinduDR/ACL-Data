@@ -1,0 +1,22 @@
+{
+  "title": "VQA-Augmented Machine Translation with Cross-Modal Contrastive Learning",
+  "authors": [
+    "Zhihui Zhang",
+    "Shiliang Sun",
+    "Jing Zhao",
+    "Tengfei Song",
+    "Hao Yang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16",
+    "T17"
+  ],
+  "paper_id": "2025.findings-emnlp.536",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.536/"
+}

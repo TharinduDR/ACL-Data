@@ -1,0 +1,20 @@
+{
+  "title": "TextMineX: Data, Evaluation Framework and Ontology-guided LLM Pipeline for Humanitarian Mine Action",
+  "authors": [
+    "Chenyue Zhou",
+    "Gürkan Solmaz",
+    "Flavio Cirillo",
+    "Kiril Gashteovski",
+    "Jonathan Fürst"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.findings-eacl.130",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.130/"
+}

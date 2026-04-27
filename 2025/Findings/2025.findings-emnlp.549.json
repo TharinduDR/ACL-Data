@@ -1,0 +1,23 @@
+{
+  "title": "LongWeave: A Long-Form Generation Benchmark Bridging Real-World Relevance and Verifiability",
+  "authors": [
+    "Zikai Xiao",
+    "Fei Huang",
+    "Jianhong Tu",
+    "Jianhui Wei",
+    "Wen Ma",
+    "Yuxuan Zhou",
+    "Jian Wu",
+    "Bowen Yu",
+    "Zuozhu Liu",
+    "Junyang Lin"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-emnlp.549",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.549/"
+}

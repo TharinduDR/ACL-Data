@@ -1,0 +1,30 @@
+{
+  "title": "X-Instruction: Aligning Language Model in Low-resource Languages with Self-curated Cross-lingual Instructions",
+  "authors": [
+    "Chong Li",
+    "Wen Yang",
+    "Jiajun Zhang",
+    "Jinliang Lu",
+    "Shaonan Wang",
+    "Chengqing Zong"
+  ],
+  "languages": [
+    "English",
+    "Urdu",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Vietnamese",
+    "Bengali",
+    "Hindi",
+    "Chinese",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.30",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.30/"
+}

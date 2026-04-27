@@ -1,0 +1,28 @@
+{
+  "title": "RMTBench: Benchmarking LLMs Through Multi-Turn User-Centric Role-Playing",
+  "authors": [
+    "Hao Xiang",
+    "Tianyi Tang",
+    "Yang Su",
+    "Bowen Yu",
+    "An Yang",
+    "Fei Huang",
+    "Yichang Zhang",
+    "Yaojie Lu",
+    "Hongyu Lin",
+    "Xianpei Han",
+    "Jingren Zhou",
+    "Junyang Lin",
+    "Le Sun"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.730",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.730/"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Multilingual Generative Retrieval via Cross-lingual Semantic Compression",
+  "authors": [
+    "Yuxin Huang",
+    "Simeng Wu",
+    "Ran Song",
+    "Yan Xiang",
+    "Yantuan Xian",
+    "Shengxiang Gao",
+    "Zhengtao Yu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Japanese",
+    "Chinese",
+    "Arabic",
+    "Hindi",
+    "Macedonian",
+    "Swedish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.findings-emnlp.575",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.575/"
+}

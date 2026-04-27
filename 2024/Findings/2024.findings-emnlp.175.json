@@ -1,0 +1,24 @@
+{
+  "title": "mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding",
+  "authors": [
+    "Anwen Hu",
+    "Haiyang Xu",
+    "Jiabo Ye",
+    "Ming Yan",
+    "Liang Zhang",
+    "Bo Zhang",
+    "Chen Li",
+    "Ji Zhang",
+    "Qin Jin",
+    "Fei Huang",
+    "Jingren Zhou"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.findings-emnlp.175",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.175/"
+}

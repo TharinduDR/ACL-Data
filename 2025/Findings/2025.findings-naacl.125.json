@@ -1,0 +1,38 @@
+{
+  "title": "SciAssess: Benchmarking LLM Proficiency in Scientific Literature Analysis",
+  "authors": [
+    "Hengxing Cai",
+    "Xiaochen Cai",
+    "Junhan Chang",
+    "Sihang Li",
+    "Lin Yao",
+    "Changxin Wang",
+    "Zhifeng Gao",
+    "Hongshuai Wang",
+    "Yongge Li",
+    "Mujie Lin",
+    "Shuwen Yang",
+    "Jianjun Wang",
+    "Mingjun Xu",
+    "Jin Huang",
+    "Xi Fang",
+    "Jiaxi Zhuang",
+    "Yuqi Yin",
+    "Yaqi Li",
+    "Changhong Chen",
+    "Zheng Cheng",
+    "Zifeng Zhao",
+    "Linfeng Zhang",
+    "Guolin Ke"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.findings-naacl.125",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.125/"
+}

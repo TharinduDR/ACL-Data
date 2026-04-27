@@ -1,0 +1,36 @@
+{
+  "title": "XL-DUReL: Finetuning Sentence Transformers for Ordinal Word-in-Context Classification",
+  "authors": [
+    "Sachin Yadav",
+    "Dominik Schlechtweg"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Arabic",
+    "French",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Turkish",
+    "Uyghur",
+    "Bengali",
+    "Urdu",
+    "Finnish",
+    "Basque",
+    "Georgian",
+    "Kazakh"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-ijcnlp.19",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.19/"
+}

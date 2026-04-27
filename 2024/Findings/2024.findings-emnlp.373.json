@@ -1,0 +1,19 @@
+{
+  "title": "Llamipa: An Incremental Discourse Parser",
+  "authors": [
+    "Kate Thompson",
+    "Akshay Chaturvedi",
+    "Julie Hunter",
+    "Nicholas Asher"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T05 Discourse and Pragmatics"
+  ],
+  "paper_id": "2024.findings-emnlp.373",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.373/"
+}

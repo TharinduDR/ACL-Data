@@ -1,0 +1,27 @@
+{
+  "title": "Dialectal Toxicity Detection: Evaluating LLM-as-a-Judge Consistency Across Language Varieties",
+  "authors": [
+    "Fahim Faisal",
+    "Md Mushfiqur Rahman",
+    "Antonios Anastasopoulos"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bengali",
+    "Chinese",
+    "Finnish",
+    "Kurdish",
+    "Norwegian",
+    "Latvian",
+    "Sotho",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.findings-emnlp.664",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.664/"
+}

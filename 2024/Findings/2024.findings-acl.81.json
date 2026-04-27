@@ -1,0 +1,19 @@
+{
+  "title": "Teacher-Student Training for Debiasing: General Permutation Debiasing for Large Language Models",
+  "authors": [
+    "Adian Liusie",
+    "Yassir Fathullah",
+    "Mark J. F. Gales"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-acl.81",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.81/"
+}

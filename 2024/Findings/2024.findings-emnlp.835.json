@@ -1,0 +1,20 @@
+{
+  "title": "Retrieving Contextual Information for Long-Form Question Answering using Weak Supervision",
+  "authors": [
+    "Philipp Christmann",
+    "Svitlana Vakulenko",
+    "Ionut Teodor Sorodoc",
+    "Bill Byrne",
+    "Adrià de Gispert"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.findings-emnlp.835",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.835/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Counter Turing Test (CT²): Investigating AI-Generated Text Detection for Hindi - Ranking LLMs based on Hindi AI Detectability Index (ADIhi)",
+  "authors": [
+    "Ishan Kavathekar",
+    "Anku Rani",
+    "Ashmit Chamoli",
+    "Ponnurangam Kumaraguru",
+    "Amit Sheth",
+    "Amitava Das"
+  ],
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.282",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.282/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Adaptive Contrastive Decoding in Retrieval-Augmented Generation for Handling Noisy Contexts",
+  "authors": [
+    "Youna Kim",
+    "Hyuhng Joon Kim",
+    "Cheonbok Park",
+    "Choonghyun Park",
+    "Hyeonsoo Cho",
+    "Junyeb Kim",
+    "Kang Min Yoo",
+    "Sang-goo Lee",
+    "Taeuk Kim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.findings-emnlp.136",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.136/"
+}

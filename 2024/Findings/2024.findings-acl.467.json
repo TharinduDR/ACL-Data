@@ -1,0 +1,22 @@
+{
+  "title": "Mitigating Boundary Ambiguity and Inherent Bias for Text Classification in the Era of Large Language Models",
+  "authors": [
+    "Zhenyi Lu",
+    "Jie Tian",
+    "Wei Wei",
+    "Xiaoye Qu",
+    "Yu Cheng",
+    "Wenfeng Xie",
+    "Dangyang Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.findings-acl.467",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.467/"
+}

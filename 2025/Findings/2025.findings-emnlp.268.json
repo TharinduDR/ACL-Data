@@ -1,0 +1,25 @@
+{
+  "title": "Krikri: Advancing Open Large Language Models for Greek",
+  "authors": [
+    "Dimitris Roussis",
+    "Leon Voukoutis",
+    "Georgios Paraskevopoulos",
+    "Sokratis Sofianopoulos",
+    "Prokopis Prokopidis",
+    "Vassilis Papavasileiou",
+    "Athanasios Katsamanis",
+    "Stelios Piperidis",
+    "Vassilis Katsouros"
+  ],
+  "languages": [
+    "Greek",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-emnlp.268",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.268/"
+}

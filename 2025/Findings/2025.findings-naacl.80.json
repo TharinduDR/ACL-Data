@@ -1,0 +1,22 @@
+{
+  "title": "Learning to Explore and Select for Coverage-Conditioned Retrieval-Augmented Generation",
+  "authors": [
+    "Takyoung Kim",
+    "Kyungjae Lee",
+    "Young Rok Jang",
+    "Ji Yong Cho",
+    "Gangwoo Kim",
+    "Minseok Cho",
+    "Moontae Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.80",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.80/"
+}

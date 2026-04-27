@@ -1,0 +1,22 @@
+{
+  "title": "Bias in the Ear of the Listener: Assessing Sensitivity in Audio Language Models Across Linguistic, Demographic, and Positional Variations",
+  "authors": [
+    "Sheng-Lun Wei",
+    "Yu-Ling Liao",
+    "Yen-Hua Chang",
+    "Hen-Hsen Huang",
+    "Hsin-Hsi Chen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Korean"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2026.findings-eacl.80",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.80/"
+}

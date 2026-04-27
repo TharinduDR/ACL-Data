@@ -1,0 +1,19 @@
+{
+  "title": "VE-KD: Vocabulary-Expansion Knowledge-Distillation for Training Smaller Domain-Specific Language Models",
+  "authors": [
+    "Pengju Gao",
+    "Tomohiro Yamasaki",
+    "Kazunori Imoto"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.findings-emnlp.884",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.884/"
+}

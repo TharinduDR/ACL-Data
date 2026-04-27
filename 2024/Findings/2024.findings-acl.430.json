@@ -1,0 +1,26 @@
+{
+  "title": "Debiasing In-Context Learning by Instructing LLMs: How to Follow Demonstrations",
+  "authors": [
+    "Lvxe Li",
+    "Jiaqi Chen",
+    "Xinyu Lu",
+    "Yaojie Lu",
+    "Hongyu Lin",
+    "Shuheng Zhou",
+    "Huijia Zhu",
+    "Weiqiang Wang",
+    "Zhongyi Liu",
+    "Xianpei Han",
+    "Le Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.430",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.430/"
+}

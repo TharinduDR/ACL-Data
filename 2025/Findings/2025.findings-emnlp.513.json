@@ -1,0 +1,24 @@
+{
+  "title": "DIVSCENE: Towards Open-Vocabulary Object Navigation with Large Vision Language Models in Diverse Scenes",
+  "authors": [
+    "Zhaowei Wang",
+    "Hongming Zhang",
+    "Tianqing Fang",
+    "Ye Tian",
+    "Yue Yang",
+    "Kaixin Ma",
+    "Xiaoman Pan",
+    "Yangqiu Song",
+    "Dong Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.513",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.513/"
+}

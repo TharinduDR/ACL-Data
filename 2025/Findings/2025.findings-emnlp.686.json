@@ -1,0 +1,20 @@
+{
+  "title": "MultiPL-MoE: Multi-Programming-Lingual Extension of Large Language Models through Hybrid Mixture-of-Experts",
+  "authors": [
+    "Qing Wang",
+    "Xue Han",
+    "Jiahui Wang",
+    "Lehao Xing",
+    "Qian Hu",
+    "Lianlian Zhang",
+    "Chao Deng",
+    "Junlan Feng"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-emnlp.686",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.686/"
+}

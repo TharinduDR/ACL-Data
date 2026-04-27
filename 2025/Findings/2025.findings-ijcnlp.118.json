@@ -1,0 +1,25 @@
+{
+  "title": "INDICSENT_EVAL: How Effectively do Multilingual Transformer Models encode Linguistic Properties for Indic Languages?",
+  "authors": [
+    "Akhilesh Aravapalli",
+    "Mounika Marreddy",
+    "Radhika Mamidi",
+    "Manish Gupta",
+    "Subba Reddy Oota"
+  ],
+  "languages": [
+    "Hindi",
+    "Marathi",
+    "Urdu",
+    "Telugu",
+    "Kannada",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-ijcnlp.118",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.118/"
+}

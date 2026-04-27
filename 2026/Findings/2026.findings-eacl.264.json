@@ -1,0 +1,23 @@
+{
+  "title": "CLICKER: Cross-Lingual Knowledge Editing via In-Context Learning with Adaptive Stepwise Reasoning",
+  "authors": [
+    "Zehui Jiang",
+    "Xin Zhao",
+    "Yuta Kumadaki",
+    "Naoki Yoshinaga"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T13 Knowledge discovery/representation",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2026.findings-eacl.264",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.264/"
+}

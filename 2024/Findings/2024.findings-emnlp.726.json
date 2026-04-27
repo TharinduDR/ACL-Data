@@ -1,0 +1,25 @@
+{
+  "title": "Language Models are Surprisingly Fragile to Drug Names in Biomedical Benchmarks",
+  "authors": [
+    "Jack Gallifant",
+    "Shan Chen",
+    "Pedro Moreira",
+    "Nikolaj Munch",
+    "Mingye Gao",
+    "Jackson Pond",
+    "Hugo Aerts",
+    "Leo Anthony Celi",
+    "Thomas Hartvigsen",
+    "Danielle S. Bitterman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.findings-emnlp.726",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.726/"
+}

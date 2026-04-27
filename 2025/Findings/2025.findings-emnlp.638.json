@@ -1,0 +1,25 @@
+{
+  "title": "LongTableBench: Benchmarking Long-Context Table Reasoning across Real-World Formats and Domains",
+  "authors": [
+    "Liyao Li",
+    "Jiaming Tian",
+    "Hao Chen",
+    "Wentao Ye",
+    "Chao Ye",
+    "Haobo Wang",
+    "Ningtao Wang",
+    "Xing Fu",
+    "Gang Chen",
+    "Junbo Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.findings-emnlp.638",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.638/"
+}

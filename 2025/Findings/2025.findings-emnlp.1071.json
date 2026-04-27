@@ -1,0 +1,32 @@
+{
+  "title": "From TOWER to SPIRE: Adding the Speech Modality to a Translation-Specialist LLM",
+  "authors": [
+    "Kshitij Ambilduke",
+    "Ben Peters",
+    "Sonal Sannigrahi",
+    "Anil Keshwani",
+    "Tsz Kin Lam",
+    "Bruno Martins",
+    "André F.T. Martins",
+    "Marcely Zanon Boito"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Dutch",
+    "French",
+    "German",
+    "Italian",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2025.findings-emnlp.1071",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1071/"
+}

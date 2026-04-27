@@ -3,15 +3,13 @@
   "authors": [
     "Injae Na",
     "Keonwoong Noh",
-    "Woo-hwan Jung"
+    "Woohwan Jung"
   ],
-  "languages": [
-    "English"
-  ],
+  "languages": [],
   "research_areas": [
     "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
     "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
-    "T27 Code generation and programming languages"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
   ],
   "paper_id": "2025.findings-acl.873",
   "acl_url": "https://aclanthology.org/2025.findings-acl.873/"

@@ -1,0 +1,20 @@
+{
+  "title": "Zero-shot Graph Reasoning via Retrieval Augmented Framework with LLMs",
+  "authors": [
+    "Hanqing Li",
+    "Kiran Sheena Jyothi",
+    "Henry Liang",
+    "Sharika Mahadevan",
+    "Diego Klabjan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-emnlp.924",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.924/"
+}

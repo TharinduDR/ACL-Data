@@ -1,0 +1,22 @@
+{
+  "title": "GARuD: Guided Alignment of Representations using Distillation for Ultra-Low-Resource Languages",
+  "authors": [
+    "Debarchan Basu",
+    "Shashwat Bharadwaj",
+    "Vaibhav Sharma",
+    "Pooja Singh",
+    "Sandeep Kumar"
+  ],
+  "languages": [
+    "Bhili",
+    "Hindi",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.findings-ijcnlp.117",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.117/"
+}

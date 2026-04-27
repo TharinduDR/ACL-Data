@@ -1,0 +1,30 @@
+{
+  "title": "When Models Reason in Your Language: Controlling Thinking Language Comes at the Cost of Accuracy",
+  "authors": [
+    "Jirui Qi",
+    "Shan Chen",
+    "Zidi Xiong",
+    "Raquel Fernández",
+    "Danielle S. Bitterman",
+    "Arianna Bisazza"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Russian",
+    "Japanese",
+    "Thai",
+    "Swahili",
+    "Bengali",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.1103",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1103/"
+}

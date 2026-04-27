@@ -1,0 +1,22 @@
+{
+  "title": "VideoLLM Knows When to Speak: Enhancing Time-Sensitive Video Comprehension with Video-Text Duet Interaction Format",
+  "authors": [
+    "Yueqian Wang",
+    "Xiaojun Meng",
+    "Yuxuan Wang",
+    "Jianxin Liang",
+    "Jiansheng Wei",
+    "Huishuai Zhang",
+    "Dongyan Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.336",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.336/"
+}

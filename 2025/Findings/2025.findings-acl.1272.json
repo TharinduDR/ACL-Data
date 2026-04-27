@@ -1,7 +1,7 @@
 {
   "title": "ClusComp: A Simple Paradigm for Model Compression and Efficient Finetuning",
   "authors": [
-    "Bao-hao Liao",
+    "BaoHao Liao",
     "Christian Herold",
     "Seyyed Hadi Hashemi",
     "Stefan Vasilev",
@@ -12,7 +12,7 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T14 Language Modeling",
     "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],
   "paper_id": "2025.findings-acl.1272",

@@ -1,0 +1,20 @@
+{
+  "title": "Examining Multilingual Embedding Models Cross-Lingually Through LLM-Generated Adversarial Examples",
+  "authors": [
+    "Andrianos Michail",
+    "Simon Clematide",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.findings-emnlp.115",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.115/"
+}

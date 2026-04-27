@@ -1,0 +1,21 @@
+{
+  "title": "Simple Factuality Probes Detect Hallucinations in Long-Form Natural Language Generation",
+  "authors": [
+    "Jiatong Han",
+    "Neil Band",
+    "Muhammed Razzak",
+    "Jannik Kossen",
+    "Tim G. J. Rudner",
+    "Yarin Gal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-emnlp.880",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.880/"
+}

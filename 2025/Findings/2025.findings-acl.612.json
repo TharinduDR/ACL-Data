@@ -12,12 +12,13 @@
     "Junbo Zhao"
   ],
   "languages": [
-    "English"
+    "English",
+    "Chinese",
+    "Code"
   ],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T27 Code generation and programming languages",
-    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
   ],
   "paper_id": "2025.findings-acl.612",
   "acl_url": "https://aclanthology.org/2025.findings-acl.612/"

@@ -1,0 +1,29 @@
+{
+  "title": "CM-Align: Consistency-based Multilingual Alignment for Large Language Models",
+  "authors": [
+    "Xue Zhang",
+    "Yunlong Liang",
+    "Fandong Meng",
+    "Songming Zhang",
+    "Yufeng Chen",
+    "Jinan Xu",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "French",
+    "Russian",
+    "Bengali",
+    "German",
+    "Thai",
+    "Swahili",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-emnlp.1401",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1401/"
+}

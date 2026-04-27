@@ -1,0 +1,21 @@
+{
+  "title": "Can we teach language models to gloss endangered languages?",
+  "authors": [
+    "Michael Ginn",
+    "Mans Hulden",
+    "Alexis Palmer"
+  ],
+  "languages": [
+    "Gitskan",
+    "Lezgi",
+    "Natugu",
+    "Uspanteko"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.findings-emnlp.337",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.337/"
+}

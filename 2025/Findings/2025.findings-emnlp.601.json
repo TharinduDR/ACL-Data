@@ -1,0 +1,23 @@
+{
+  "title": "LongTail-Swap: benchmarking language models' abilities on rare words.",
+  "authors": [
+    "Robin Algayres",
+    "Charles-Éric Saint-James",
+    "Mahi Luthra",
+    "Jiayi Shen",
+    "Dongyan Lin",
+    "Youssef Benchekroun",
+    "Rashel Moritz",
+    "Juan Pino",
+    "Emmanuel Dupoux"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.601",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.601/"
+}

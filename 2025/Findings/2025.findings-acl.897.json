@@ -6,14 +6,11 @@
     "Katie Winkle",
     "Meriem Beloucif"
   ],
-  "languages": [
-    "English",
-    "German"
-  ],
+  "languages": [],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T14 Language Modeling",
     "T18 Text Summarization",
-    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+    "T23 Social Media Processing"
   ],
   "paper_id": "2025.findings-acl.897",
   "acl_url": "https://aclanthology.org/2025.findings-acl.897/"

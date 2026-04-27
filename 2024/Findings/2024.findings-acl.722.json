@@ -1,0 +1,28 @@
+{
+  "title": "Prefix Text as a Yarn: Eliciting Non-English Alignment in Foundation Language Model",
+  "authors": [
+    "Runzhe Zhan",
+    "Xinyi Yang",
+    "Derek F. Wong",
+    "Lidia S. Chao",
+    "Yue Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "Ukrainian",
+    "Portuguese",
+    "Spanish",
+    "French",
+    "German",
+    "Italian",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.findings-acl.722",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.722/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "M-QALM: A Benchmark to Assess Clinical Reading Comprehension and Knowledge Recall in Large Language Models via Question Answering",
+  "authors": [
+    "Anand Subramanian",
+    "Viktor Schlegel",
+    "Abhinav Ramesh Kashyap",
+    "Thanh-Tung Nguyen",
+    "Vijay Prakash Dwivedi",
+    "Stefan Winkler"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.findings-acl.238",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.238/"
+}

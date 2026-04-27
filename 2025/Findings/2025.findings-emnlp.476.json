@@ -1,0 +1,23 @@
+{
+  "title": "NAP²: A Benchmark for Naturalness and Privacy-Preserving Text Rewriting by Learning from Human",
+  "authors": [
+    "Shuo Huang",
+    "William MacLean",
+    "Xiaoxi Kang",
+    "Qiongkai Xu",
+    "Zhuang Li",
+    "Xingliang Yuan",
+    "Gholamreza Haffari",
+    "Lizhen Qu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.findings-emnlp.476",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.476/"
+}

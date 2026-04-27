@@ -1,0 +1,21 @@
+{
+  "title": "LoRAPrune: Structured Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning",
+  "authors": [
+    "Mingyang Zhang",
+    "Hao Chen",
+    "Chunhua Shen",
+    "Zhen Yang",
+    "Linlin Ou",
+    "Xinyi Yu",
+    "Bohan Zhuang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.findings-acl.178",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.178/"
+}

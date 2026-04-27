@@ -1,0 +1,18 @@
+{
+  "title": "MRFD: Multi-Region Fusion Decoding with Self-Consistency for Mitigating Hallucinations in LVLMs",
+  "authors": [
+    "Haonan Ge",
+    "Yiwei Wang",
+    "Ming-Hsuan Yang",
+    "Yujun Cai"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-emnlp.858",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.858/"
+}

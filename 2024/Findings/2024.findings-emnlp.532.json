@@ -1,0 +1,22 @@
+{
+  "title": "Inference-Time Decontamination: Reusing Leaked Benchmarks for Large Language Model Evaluation",
+  "authors": [
+    "Qin Zhu",
+    "Qinyuan Cheng",
+    "Runyu Peng",
+    "Xiaonan Li",
+    "Tengxiao Liu",
+    "Ru Peng",
+    "Xipeng Qiu",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-emnlp.532",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.532/"
+}

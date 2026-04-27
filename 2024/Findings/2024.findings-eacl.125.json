@@ -1,0 +1,30 @@
+{
+  "title": "CODET: A Benchmark for Contrastive Dialectal Evaluation of Machine Translation",
+  "authors": [
+    "Md Mahfuz Ibn Alam",
+    "Sina Ahmadi",
+    "Antonios Anastasopoulos"
+  ],
+  "languages": [
+    "Italian",
+    "Swiss German",
+    "Basque",
+    "Arabic",
+    "Bengali",
+    "Central Kurdish",
+    "Persian",
+    "Malay",
+    "Indonesian",
+    "Swahili",
+    "Tigrinya",
+    "Occitan",
+    "Aranese",
+    "Griko"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-eacl.125",
+  "acl_url": "https://aclanthology.org/2024.findings-eacl.125/"
+}

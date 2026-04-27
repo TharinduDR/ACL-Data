@@ -1,0 +1,24 @@
+{
+  "title": "DASHBOARDQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards",
+  "authors": [
+    "Aaryaman Kartha",
+    "Ahmed Masry",
+    "Mohammed Saidul Islam",
+    "Thinh Lang",
+    "Shadikur Rahman",
+    "Ridwan Mahbub",
+    "Mizanur Rahman",
+    "Mahir Ahmed",
+    "Md Rizwan Parvez",
+    "Enamul Hoque",
+    "Shafiq Joty"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2026.findings-eacl.177",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.177/"
+}

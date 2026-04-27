@@ -1,0 +1,25 @@
+{
+  "title": "CEAMC: Corpus and Empirical Study of Argument Analysis in Education via LLMs",
+  "authors": [
+    "Yupei Ren",
+    "Hongyi Wu",
+    "Zhaoguang Long",
+    "Shangqing Zhao",
+    "Xinyi Zhou",
+    "Zheqin Yin",
+    "Xinlin Zhuang",
+    "Xiaopeng Bai",
+    "Man Lan"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.findings-emnlp.408",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.408/"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "SOTERIA: Language-Specific Functional Parameter Steering for Multilingual Safety Alignment",
+  "authors": [
+    "Somnath Banerjee",
+    "Sayan Layek",
+    "Pratyush Chatterjee",
+    "Animesh Mukherjee",
+    "Rima Hazra"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "French",
+    "Spanish",
+    "Arabic",
+    "Thai",
+    "Bulgarian",
+    "Hindi",
+    "Tamil",
+    "Bengali",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.findings-emnlp.497",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.497/"
+}

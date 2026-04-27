@@ -1,0 +1,19 @@
+{
+  "title": "JuriFindIT: an Italian legal retrieval dataset",
+  "authors": [
+    "Niko Dalla Noce",
+    "Davide Colla",
+    "Sina Farhang Doust",
+    "Lorenzo De Mattei",
+    "Davide Bacciu"
+  ],
+  "languages": [
+    "Italian"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2026.findings-eacl.221",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.221/"
+}

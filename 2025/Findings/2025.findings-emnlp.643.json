@@ -1,0 +1,22 @@
+{
+  "title": "Curr-ReFT: Overcoming Training Bottlenecks in Small-scale Vision-Language Models via Curriculum Reinforcement Finetuning",
+  "authors": [
+    "Huilin Deng",
+    "Ding Zou",
+    "Xinghao Zhao",
+    "Rui Ma",
+    "Yanming Guo",
+    "Yang Cao",
+    "Yu Kang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-emnlp.643",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.643/"
+}

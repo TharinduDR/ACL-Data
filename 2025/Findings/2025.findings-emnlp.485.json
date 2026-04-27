@@ -1,0 +1,27 @@
+{
+  "title": "Tool Zero: Training Tool-Augmented LLMs via Pure RL from Scratch",
+  "authors": [
+    "Yirong Zeng",
+    "Xiao Ding",
+    "Yutai Hou",
+    "Yuxian Wang",
+    "Li Du",
+    "Juyi Dai",
+    "Qiyang Ding",
+    "Duyu Tang",
+    "Dandan Tu",
+    "Weiwen Liu",
+    "Bing Qin",
+    "Ting Liu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-emnlp.485",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.485/"
+}

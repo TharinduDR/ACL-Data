@@ -1,0 +1,23 @@
+{
+  "title": "EZ-VC: Easy Zero-shot Any-to-Any Voice Conversion",
+  "authors": [
+    "Advait Joglekar",
+    "Divyanshu Singh",
+    "Rooshil Rohit Bhatia",
+    "Srinivasan Umesh"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Hindi",
+    "Tamil",
+    "Telugu",
+    "Kannada"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.findings-emnlp.1077",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1077/"
+}

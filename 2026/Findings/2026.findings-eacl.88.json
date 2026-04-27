@@ -1,0 +1,18 @@
+{
+  "title": "RB-LoRA: Rank-Balanced Aggregation for Low-Rank Adaptation with Federated Fine-Tuning",
+  "authors": [
+    "Si-hyeon Ha",
+    "Yongjeong Oh",
+    "Yo-Seb Jeon"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.findings-eacl.88",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.88/"
+}

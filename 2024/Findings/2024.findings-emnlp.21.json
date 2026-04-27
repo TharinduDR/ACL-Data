@@ -1,0 +1,26 @@
+{
+  "title": "GREEN: Generative Radiology Report Evaluation and Error Notation",
+  "authors": [
+    "Sophie Ostmeier",
+    "Justin Xu",
+    "Zhihong Chen",
+    "Maya Varma",
+    "Louis Blankemeier",
+    "Christian Bluethgen",
+    "Arne Edward Michalson",
+    "Michael Moseley",
+    "Curtis Langlotz",
+    "Akshay S Chaudhari",
+    "Jean-Benoit Delbrouck"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.findings-emnlp.21",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.21/"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "LiteLMGuard: Seamless and Lightweight On-Device Guardrails for Small Language Models against Quantization Vulnerabilities",
+  "authors": [
+    "Kalyan Nakka",
+    "Jimmy Dani",
+    "Ausmit Mondal",
+    "Nitesh Saxena"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2025.findings-ijcnlp.12",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.12/"
+}

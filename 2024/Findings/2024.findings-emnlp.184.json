@@ -1,0 +1,23 @@
+{
+  "title": "JobFair: A Framework for Benchmarking Gender Hiring Bias in Large Language Models",
+  "authors": [
+    "Ze Wang",
+    "Zekun Wu",
+    "Xin Guan",
+    "Michael Thaler",
+    "Adriano Koshiyama",
+    "Qinyang Lu",
+    "Sachin Beepath",
+    "Ediz Ertekin Jr.",
+    "Maria Perez-Ortiz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.184",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.184/"
+}

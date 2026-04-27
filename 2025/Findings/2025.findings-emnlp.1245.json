@@ -1,0 +1,20 @@
+{
+  "title": "Beyond Contrastive Learning: Synthetic Data Enables List-wise Training with Multiple Levels of Relevance",
+  "authors": [
+    "Reza Esfandiarpour",
+    "George Zerveas",
+    "Ruochen Zhang",
+    "Macton Mgonzo",
+    "Carsten Eickhoff",
+    "Stephen H. Bach"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.findings-emnlp.1245",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1245/"
+}

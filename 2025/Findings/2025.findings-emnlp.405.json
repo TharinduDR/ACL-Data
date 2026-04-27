@@ -1,0 +1,19 @@
+{
+  "title": "ChronoBias: A Benchmark for Evaluating Time-conditional Group Bias in the Time-sensitive Knowledge of Large Language Models",
+  "authors": [
+    "Kyungmin Kim",
+    "Youngbin Choi",
+    "Hyoungun Kim",
+    "Dongwoo Kim",
+    "Sangdon Park"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-emnlp.405",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.405/"
+}

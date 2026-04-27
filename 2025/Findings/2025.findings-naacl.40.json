@@ -1,0 +1,19 @@
+{
+  "title": "DiaSynth: Synthetic Dialogue Generation Framework for Low Resource Dialogue Applications",
+  "authors": [
+    "Sathya Krishnan Suresh",
+    "Wu Mengjun",
+    "Tushar Pranav",
+    "Eng Siong Chng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-naacl.40",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.40/"
+}

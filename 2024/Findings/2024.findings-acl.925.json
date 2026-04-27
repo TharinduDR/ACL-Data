@@ -1,0 +1,29 @@
+{
+  "title": "Hire a Linguist!: Learning Endangered Languages in LLMs with In-Context Linguistic Descriptions",
+  "authors": [
+    "Kexun Zhang",
+    "Yee Man Choi",
+    "Zhenqiao Song",
+    "Taiqi He",
+    "William Yang Wang",
+    "Lei Li"
+  ],
+  "languages": [
+    "Chinese",
+    "Manchu",
+    "Gitksan",
+    "Arapaho",
+    "Bribri",
+    "Wolof",
+    "Natugu",
+    "Uspanteko",
+    "Tsez"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.findings-acl.925",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.925/"
+}

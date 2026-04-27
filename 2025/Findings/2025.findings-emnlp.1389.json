@@ -1,0 +1,21 @@
+{
+  "title": "SparsePO: Controlling Preference Alignment of LLMs via Sparse Token Masks",
+  "authors": [
+    "Fenia Christopoulou",
+    "Ronald Cardenas",
+    "Gerasimos Lampouras",
+    "Haitham Bou-Ammar",
+    "Jun Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-emnlp.1389",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1389/"
+}

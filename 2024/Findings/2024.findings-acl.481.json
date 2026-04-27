@@ -1,0 +1,23 @@
+{
+  "title": "Deterministic Reversible Data Augmentation for Neural Machine Translation",
+  "authors": [
+    "Jiashu Yao",
+    "Heyan Huang",
+    "Zeming Liu",
+    "Yuhang Guo"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese",
+    "Spanish",
+    "Slovak"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.481",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.481/"
+}

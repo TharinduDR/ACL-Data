@@ -1,0 +1,21 @@
+{
+  "title": "GenPilot: A Multi-Agent System for Test-Time Prompt Optimization in Image Generation",
+  "authors": [
+    "Wen Ye",
+    "Zhaocheng Liu",
+    "Yuwei Gui",
+    "Tingyu Yuan",
+    "Yunyue Su",
+    "Bowen Fang",
+    "Chaoyang Zhao",
+    "Qiang Liu",
+    "Liang Wang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.49",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.49/"
+}

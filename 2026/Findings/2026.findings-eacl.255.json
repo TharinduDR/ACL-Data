@@ -1,0 +1,20 @@
+{
+  "title": "ConRAS: Contrastive In-context Learning Framework for Retrieval-Augmented Summarization",
+  "authors": [
+    "Juseon-Do",
+    "Sungwoo Han",
+    "Jingun Kwon",
+    "Hidetaka Kamigaito",
+    "Manabu Okumura"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.findings-eacl.255",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.255/"
+}

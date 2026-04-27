@@ -1,0 +1,23 @@
+{
+  "title": "ClaimGen-CN: A Large-scale Chinese Dataset for Legal Claim Generation",
+  "authors": [
+    "Siying Zhou",
+    "Yiquan Wu",
+    "Hui Chen",
+    "Xueyu Hu",
+    "Kun Kuang",
+    "Adam Jatowt",
+    "Chunyan Zheng",
+    "Fei Wu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.658",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.658/"
+}

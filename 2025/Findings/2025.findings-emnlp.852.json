@@ -1,0 +1,48 @@
+{
+  "title": "Large Language Models for Multilingual Previously Fact-Checked Claim Detection",
+  "authors": [
+    "Ivan Vykoval",
+    "Matúš Pikuliak",
+    "Simon Ostermann",
+    "Tatiana Anikina",
+    "Michal Gregor",
+    "Marián Šimko"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Portuguese",
+    "Spanish",
+    "Chinese",
+    "Arabic",
+    "Bulgarian",
+    "Czech",
+    "Dutch",
+    "Finnish",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Korean",
+    "Malay",
+    "Polish",
+    "Russian",
+    "Slovak",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.findings-emnlp.852",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.852/"
+}

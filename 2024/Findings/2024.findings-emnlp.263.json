@@ -1,0 +1,27 @@
+{
+  "title": "WavLLM: Towards Robust and Adaptive Speech Large Language Model",
+  "authors": [
+    "Shujie Hu",
+    "Long Zhou",
+    "Shujie Liu",
+    "Sanyuan Chen",
+    "Lingwei Meng",
+    "Hongkun Hao",
+    "Jing Pan",
+    "Xunying Liu",
+    "Jinyu Li",
+    "Sunit Sivasankaran",
+    "Linquan Liu",
+    "Furu Wei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2024.findings-emnlp.263",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.263/"
+}

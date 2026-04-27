@@ -1,0 +1,22 @@
+{
+  "title": "RouterEval: A Comprehensive Benchmark for Routing LLMs to Explore Model-level Scaling Up in LLMs",
+  "authors": [
+    "Zhongzhan Huang",
+    "Guoming Ling",
+    "Yupei Lin",
+    "Yandong Chen",
+    "Shanshan Zhong",
+    "Hefeng Wu",
+    "Liang Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-emnlp.208",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.208/"
+}

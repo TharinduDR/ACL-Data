@@ -8,11 +8,20 @@
     "Guy Boudoukh"
   ],
   "languages": [
-    "English"
+    "English",
+    "Chinese",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
   ],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T27 Code generation and programming languages"
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T18 Text Summarization"
   ],
   "paper_id": "2025.findings-acl.1156",
   "acl_url": "https://aclanthology.org/2025.findings-acl.1156/"

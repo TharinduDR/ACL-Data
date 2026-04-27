@@ -1,0 +1,25 @@
+{
+  "title": "AutoEvolve: Automatically Evolving Queries for Applicable and Scalable Retrieval-Augmented Generation Benchmarking",
+  "authors": [
+    "Dingchu Zhang",
+    "Xiaowen Zhang",
+    "Yue Fei",
+    "Renjun Hu",
+    "Xiaowen Yang",
+    "Zhi Zhou",
+    "Baixuan Li",
+    "Yufeng Li",
+    "Xing Shi",
+    "Wei Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.findings-emnlp.403",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.403/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Calibrating LLMs with Preference Optimization on Thought Trees for Generating Rationale in Science Question Scoring",
+  "authors": [
+    "Jiazhen Li",
+    "Hainiu Xu",
+    "Zhaoyue Sun",
+    "Yuxiang Zhou",
+    "David West",
+    "Cesare Aloisi",
+    "Yulan He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.findings-emnlp.313",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.313/"
+}

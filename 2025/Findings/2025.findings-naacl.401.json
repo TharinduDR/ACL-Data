@@ -1,0 +1,23 @@
+{
+  "title": "An Annotated Dataset of Errors in Premodern Greek and Baselines for Detecting Them",
+  "authors": [
+    "Creston Brooks",
+    "Johannes Haubold",
+    "Charlie Cowen-Breen",
+    "Jay White",
+    "Desmond DeVaul",
+    "Frederick Riemenschneider",
+    "Karthik Narasimhan",
+    "Barbara Graziosi"
+  ],
+  "languages": [
+    "Greek"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.findings-naacl.401",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.401/"
+}

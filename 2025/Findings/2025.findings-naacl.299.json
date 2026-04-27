@@ -1,0 +1,23 @@
+{
+  "title": "ResoFilter: Fine-grained Synthetic Data Filtering for Large Language Models through Data-Parameter Resonance Analysis",
+  "authors": [
+    "Zeao Tu",
+    "Xiangdi Meng",
+    "Yu He",
+    "Zihan Yao",
+    "Tianyu Qi",
+    "Jun Liu",
+    "Ming Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-naacl.299",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.299/"
+}

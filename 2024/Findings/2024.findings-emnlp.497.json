@@ -1,0 +1,18 @@
+{
+  "title": "Enable Fast Sampling for Seq2Seq Text Diffusion",
+  "authors": [
+    "Pan Liu",
+    "Xiaohua Tian",
+    "Zhouhan Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T19 Text Simplification"
+  ],
+  "paper_id": "2024.findings-emnlp.497",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.497/"
+}

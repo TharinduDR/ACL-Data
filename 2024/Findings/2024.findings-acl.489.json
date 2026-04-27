@@ -1,0 +1,23 @@
+{
+  "title": "BASS: Batched Attention-optimized Speculative Sampling",
+  "authors": [
+    "Haifeng Qian",
+    "Sujan Kumar Gonugondla",
+    "Sungsoo Ha",
+    "Mingyue Shang",
+    "Sanjay Krishna Gouda",
+    "Ramesh Nallapati",
+    "Sudipta Sengupta",
+    "Xiaofei Ma",
+    "Anoop Deoras"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.findings-acl.489",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.489/"
+}

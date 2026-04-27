@@ -1,0 +1,20 @@
+{
+  "title": "SchemaGraphSQL: Efficient Schema Linking with Pathfinding Graph Algorithms for Text-to-SQL on Large-Scale Databases",
+  "authors": [
+    "AmirHossein Safdarian",
+    "Milad Mohammadi",
+    "Ehsan Jahanbakhsh",
+    "Mona Shahamat Naderi",
+    "Heshaam Faili"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2026.findings-eacl.134",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.134/"
+}

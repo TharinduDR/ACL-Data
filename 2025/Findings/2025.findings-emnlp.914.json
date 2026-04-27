@@ -1,0 +1,20 @@
+{
+  "title": "FAEDKV: Infinite-Window Fourier Transform for Unbiased KV Cache Compression",
+  "authors": [
+    "Runchao Li",
+    "Yao Fu",
+    "Mu Sheng",
+    "Xianxuan Long",
+    "Haotian Yu",
+    "Pan Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-emnlp.914",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.914/"
+}

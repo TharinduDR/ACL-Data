@@ -1,0 +1,25 @@
+{
+  "title": "Optimizing LLMs for Italian: Reducing Token Fertility and Enhancing Efficiency Through Vocabulary Adaptation",
+  "authors": [
+    "Luca Moroni",
+    "Giovanni Puccetti",
+    "Pere-Lluis Huguet Cabot",
+    "Andrei Stefan Bejgu",
+    "Edoardo Barba",
+    "Alessio Miaschi",
+    "Felice Dell'Orletta",
+    "Andrea Esuli",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.371",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.371/"
+}

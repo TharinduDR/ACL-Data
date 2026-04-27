@@ -1,0 +1,26 @@
+{
+  "title": "Multilingual Fine-Grained News Headline Hallucination Detection",
+  "authors": [
+    "Jiaming Shen",
+    "Tianqi Liu",
+    "Jialu Liu",
+    "Zhen Qin",
+    "Jay Pavagadhi",
+    "Simon Baumgartner",
+    "Michael Bendersky"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.461",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.461/"
+}

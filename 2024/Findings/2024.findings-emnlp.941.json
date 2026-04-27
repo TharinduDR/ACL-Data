@@ -1,0 +1,21 @@
+{
+  "title": "Gazelle: An Instruction Dataset for Arabic Writing Assistance",
+  "authors": [
+    "Samar M. Magdy",
+    "Fakhreddin Alwajih",
+    "Sang Yun Kwon",
+    "Reem Abdel-Salam",
+    "Muhammad Abdul-Mageed"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T29",
+    "T14",
+    "T12"
+  ],
+  "paper_id": "2024.findings-emnlp.941",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.941/"
+}

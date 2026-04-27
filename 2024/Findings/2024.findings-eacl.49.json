@@ -1,0 +1,27 @@
+{
+  "title": "Unsupervised Multilingual Dense Retrieval via Generative Pseudo Labeling",
+  "authors": [
+    "Chao-Wei Huang",
+    "Chen-An Li",
+    "Tsung-Yuan Hsu",
+    "Chen-Yu Hsu",
+    "Yun-Nung Chen"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Arabic",
+    "Bengali",
+    "Finnish",
+    "Korean",
+    "Russian",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.findings-eacl.49",
+  "acl_url": "https://aclanthology.org/2024.findings-eacl.49/"
+}

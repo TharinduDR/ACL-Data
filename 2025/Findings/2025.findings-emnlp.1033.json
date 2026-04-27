@@ -1,0 +1,22 @@
+{
+  "title": "Do BERT-Like Bidirectional Models Still Perform Better on Text Classification in the Era of LLMs?",
+  "authors": [
+    "Junyan Zhang",
+    "Yiming Huang",
+    "Shuliang Liu",
+    "Yubo Gao",
+    "Xuming Hu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.findings-emnlp.1033",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1033/"
+}

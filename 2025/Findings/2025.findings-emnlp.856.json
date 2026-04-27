@@ -1,0 +1,23 @@
+{
+  "title": "Residualized Similarity for Faithfully Explainable Authorship Verification",
+  "authors": [
+    "Peter Zeng",
+    "Pegah Alipoormolabashi",
+    "Jihu Mun",
+    "Gourab Dey",
+    "Nikita Soni",
+    "Niranjan Balasubramanian",
+    "Owen Rambow",
+    "H. Andrew Schwartz"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.findings-emnlp.856",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.856/"
+}

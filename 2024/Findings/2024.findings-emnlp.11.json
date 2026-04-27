@@ -1,0 +1,26 @@
+{
+  "title": "DetectBench: Can Large Language Model Detect and Piece Together Implicit Evidence?",
+  "authors": [
+    "Zhouhong Gu",
+    "Lin Zhang",
+    "Xiaoxuan Zhu",
+    "Jiangjie Chen",
+    "Wen Hao Huang",
+    "Yikai Zhang",
+    "Shusen Wang",
+    "Zheyu Ye",
+    "Yan Gao",
+    "Yanghua Xiao",
+    "Hongwei Feng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.findings-emnlp.11",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.11/"
+}

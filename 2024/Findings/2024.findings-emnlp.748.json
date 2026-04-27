@@ -1,0 +1,22 @@
+{
+  "title": "LoRASC: Expressive and Generalizable Low-rank Adaptation for Large Models via Slow Cascaded Learning",
+  "authors": [
+    "Siwei Li",
+    "Yifan Yang",
+    "Yifei Shen",
+    "Fangyun Wei",
+    "Zongqing Lu",
+    "Lili Qiu",
+    "Yuqing Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.748",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.748/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression",
+  "authors": [
+    "Zhuoshi Pan",
+    "Qianhui Wu",
+    "Huiqiang Jiang",
+    "Menglin Xia",
+    "Xufang Luo",
+    "Jue Zhang",
+    "Qingwei Lin",
+    "Victor Rühle",
+    "Yuqing Yang",
+    "Chin-Yew Lin",
+    "H. Vicky Zhao",
+    "Lili Qiu",
+    "Dongmei Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.57",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.57/"
+}

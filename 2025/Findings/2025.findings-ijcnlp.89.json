@@ -1,0 +1,28 @@
+{
+  "title": "D-Neg: Syntax-Aware Graph Reasoning for Negation Detection",
+  "authors": [
+    "Leon Hammerla",
+    "Andy Lücking",
+    "Carolin Reinert",
+    "Alexander Mehler"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Chinese",
+    "Russian",
+    "Hindi",
+    "Arabic",
+    "Portuguese",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.findings-ijcnlp.89",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.89/"
+}

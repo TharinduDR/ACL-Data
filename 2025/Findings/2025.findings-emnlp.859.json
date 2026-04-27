@@ -1,0 +1,22 @@
+{
+  "title": "SIMBA UQ: Similarity-Based Aggregation for Uncertainty Quantification in Large Language Models",
+  "authors": [
+    "Debarun Bhattacharjya",
+    "Balaji Ganesan",
+    "Junkyu Lee",
+    "Radu Marinescu",
+    "Katsiaryna Mirylenka",
+    "Michael Glass",
+    "Xiao Shou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-emnlp.859",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.859/"
+}

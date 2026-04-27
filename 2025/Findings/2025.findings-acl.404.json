@@ -19,19 +19,19 @@
   ],
   "languages": [
     "Arabic",
-    "German",
-    "French",
-    "Italian",
-    "Japanese",
     "Korean",
-    "Russian",
+    "Japanese",
     "Thai",
-    "Vietnamese"
+    "Vietnamese",
+    "Russian",
+    "French",
+    "German",
+    "Italian"
   ],
   "research_areas": [
     "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
-    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
-    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],
   "paper_id": "2025.findings-acl.404",
   "acl_url": "https://aclanthology.org/2025.findings-acl.404/"

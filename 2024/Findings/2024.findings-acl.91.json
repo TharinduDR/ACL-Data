@@ -1,0 +1,19 @@
+{
+  "title": "CRITICBENCH: Benchmarking LLMs for Critique-Correct Reasoning",
+  "authors": [
+    "Zicheng Lin",
+    "Zhibin Gou",
+    "Tian Liang",
+    "Ruilin Luo",
+    "Haowei Liu",
+    "Yujiu Yang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.findings-acl.91",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.91/"
+}

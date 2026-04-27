@@ -1,0 +1,21 @@
+{
+  "title": "MMSciBench: Benchmarking Language Models on Chinese Multimodal Scientific Problems",
+  "authors": [
+    "Xinwu Ye",
+    "Chengfan Li",
+    "Siming Chen",
+    "Wei Wei",
+    "Xiangru Tang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-acl.755",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.755/"
+}

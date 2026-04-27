@@ -1,0 +1,32 @@
+{
+  "title": "MTQ-Eval: Multilingual Text Quality Evaluation for Language Models",
+  "authors": [
+    "Rhitabrat Pokharel",
+    "Ameeta Agrawal"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Swedish",
+    "Japanese",
+    "Russian",
+    "Chinese",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-ijcnlp.79",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.79/"
+}

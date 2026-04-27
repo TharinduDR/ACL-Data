@@ -1,0 +1,21 @@
+{
+  "title": "LLM-QAT: Data-Free Quantization Aware Training for Large Language Models",
+  "authors": [
+    "Zechun Liu",
+    "Barlas Oguz",
+    "Changsheng Zhao",
+    "Ernie Chang",
+    "Pierre Stock",
+    "Yashar Mehdad",
+    "Yangyang Shi",
+    "Raghuraman Krishnamoorthi",
+    "Vikas Chandra"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.26",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.26/"
+}

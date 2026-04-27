@@ -1,0 +1,21 @@
+{
+  "title": "High-quality Data-to-Text Generation for Severely Under-Resourced Languages with Out-of-the-box Large Language Models",
+  "authors": [
+    "Michela Lorandi",
+    "Anya Belz"
+  ],
+  "languages": [
+    "Irish",
+    "Welsh",
+    "Maltese",
+    "Breton",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-eacl.98",
+  "acl_url": "https://aclanthology.org/2024.findings-eacl.98/"
+}

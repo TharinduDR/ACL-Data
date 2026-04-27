@@ -1,0 +1,27 @@
+{
+  "title": "XL-Suite: Cross-Lingual Synthetic Training and Evaluation Data for Open-Ended Generation",
+  "authors": [
+    "Vivek Iyer",
+    "Pinzhen Chen",
+    "Ricardo Rei",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Portuguese",
+    "Hungarian",
+    "Lithuanian",
+    "Irish",
+    "Maltese",
+    "Chinese",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.550",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.550/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "SoFA: Shielded On-the-fly Alignment via Priority Rule Following",
+  "authors": [
+    "Xinyu Lu",
+    "Bowen Yu",
+    "Yaojie Lu",
+    "Hongyu Lin",
+    "Haiyang Yu",
+    "Le Sun",
+    "Xianpei Han",
+    "Yongbin Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.424",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.424/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "DebugBench: Evaluating Debugging Capability of Large Language Models",
+  "authors": [
+    "Runchu Tian",
+    "Yining Ye",
+    "Yujia Qin",
+    "Xin Cong",
+    "Yankai Lin",
+    "Yin Xu Pan",
+    "Yesai Wu",
+    "Haotian Hui",
+    "Weichuan Liu",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.247",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.247/"
+}

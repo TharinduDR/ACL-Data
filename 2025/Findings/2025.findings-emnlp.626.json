@@ -1,0 +1,38 @@
+{
+  "title": "When Models Lie, We Learn: Multilingual Span-Level Hallucination Detection with PsiloQA",
+  "authors": [
+    "Elisei Rykov",
+    "Kseniia Petrushina",
+    "Maksim Savkin",
+    "Valerii Olisov",
+    "Artem Vazhentsev",
+    "Kseniia Titova",
+    "Alexander Panchenko",
+    "Vasily Konovalov",
+    "Julia Belikova"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Hindi",
+    "Persian",
+    "Spanish",
+    "Swedish",
+    "Czech",
+    "Finnish",
+    "Catalan",
+    "Arabic",
+    "Portuguese",
+    "Italian",
+    "Euskara"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-emnlp.626",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.626/"
+}

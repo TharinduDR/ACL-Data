@@ -1,0 +1,32 @@
+{
+  "title": "Locally Measuring Cross-lingual Lexical Alignment: A Domain and Word Level Perspective",
+  "authors": [
+    "Taelin Karidi",
+    "Eitan Grossman",
+    "Omri Abend"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Dutch",
+    "Spanish",
+    "Polish",
+    "Finnish",
+    "Estonian",
+    "Turkish",
+    "Chinese",
+    "Korean",
+    "Japanese",
+    "Hebrew",
+    "Hindi",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.932",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.932/"
+}

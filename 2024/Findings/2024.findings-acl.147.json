@@ -1,0 +1,53 @@
+{
+  "title": "SemRel2024: A Collection of Semantic Textual Relatedness Datasets for 13 Languages",
+  "authors": [
+    "Nedjma Ousidhoum",
+    "Shamsuddeen Hassan Muhammad",
+    "Mohamed Abdalla",
+    "Idris Abdulmumin",
+    "Ibrahim Said Ahmad",
+    "Sanchit Ahuja",
+    "Alham Fikri Aji",
+    "Vladimir Araujo",
+    "Abinew Ali Ayele",
+    "Pavan Baswani",
+    "Meriem Beloucif",
+    "Chris Biemann",
+    "Sofia Bourhim",
+    "Christine De Kock",
+    "Genet Shanko Dekebo",
+    "Oumaima Hourrane",
+    "Gopichand Kanumolu",
+    "Lokesh Madasu",
+    "Samuel Rutunda",
+    "Manish Shrivastava",
+    "Thamar Solorio",
+    "Nirmal Surange",
+    "Hailegnaw Getaneh Tilaye",
+    "Krishnapriya Vishnubhotla",
+    "Genta Winata",
+    "Seid Muhie Yimam",
+    "Saif M. Mohammad"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Amharic",
+    "Arabic",
+    "Algerian Arabic",
+    "Moroccan Arabic",
+    "English",
+    "Spanish",
+    "Hindi",
+    "Indonesian",
+    "Kinyarwanda",
+    "Marathi",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.147",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.147/"
+}

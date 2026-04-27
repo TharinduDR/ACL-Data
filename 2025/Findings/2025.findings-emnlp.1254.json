@@ -1,0 +1,53 @@
+{
+  "title": "Pearl: A Multimodal Culturally-Aware Arabic Instruction Dataset",
+  "authors": [
+    "Fakhraddin Alwajih",
+    "Samar M. Magdy",
+    "Abdellah El Mekki",
+    "Omer Nacar",
+    "Youssef Nafea",
+    "Saffa Taher Abdelfadil",
+    "Abdulfattah Mohammed Yahya",
+    "Hamzah Luqman",
+    "Nada Almarwani",
+    "Samah Alouf",
+    "Baraah Qawasmeh",
+    "Houdaifa Atou",
+    "Serry Sibae",
+    "Hamzah A. Alsayadi",
+    "Walid Al-Dhabyani",
+    "Maged S. Al-shaibani",
+    "Aya El Aatar",
+    "Nour Qandos",
+    "Rahaf Alhamouri",
+    "Samah Ahmad",
+    "Mohammed Anwar Al-Ghrawi",
+    "Aminetou Yacoub",
+    "Ruwa AbuHweidi",
+    "Vatimetou Mohamed Lemin",
+    "Reem Abdel-Salam",
+    "Ahlam Bashiti",
+    "Aisha Alansari",
+    "Ahmed Ashraf",
+    "Nora Alturayef",
+    "Alcides Alcoba Inciarte",
+    "Adel Ammar",
+    "Abdelrahim A. Elmadany",
+    "Mohamedou Cheikh Tourad",
+    "Ismail Berrada",
+    "Mustafa Jarrar",
+    "Shady Shehata",
+    "Muhammad Abdul-Mageed"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-emnlp.1254",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1254/"
+}

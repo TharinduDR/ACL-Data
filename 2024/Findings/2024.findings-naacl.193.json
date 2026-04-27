@@ -1,0 +1,23 @@
+{
+  "title": "Exploring Automated Distractor Generation for Math Multiple-choice Questions via Large Language Models",
+  "authors": [
+    "Wanyong Feng",
+    "Jaewook Lee",
+    "Hunter McNichols",
+    "Alexander Scarlatos",
+    "Digory Smith",
+    "Simon Woodhead",
+    "Nancy Otero Ornelas",
+    "Andrew Lan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-naacl.193",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.193/"
+}

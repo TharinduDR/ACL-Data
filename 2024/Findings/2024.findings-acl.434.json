@@ -1,0 +1,24 @@
+{
+  "title": "PartialFormer: Modeling Part Instead of Whole for Machine Translation",
+  "authors": [
+    "Tong Zheng",
+    "Bei Li",
+    "Huiwen Bao",
+    "Jiale Wang",
+    "Weiqiao Shan",
+    "Tong Xiao",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-acl.434",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.434/"
+}

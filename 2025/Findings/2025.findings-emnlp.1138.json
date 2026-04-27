@@ -1,0 +1,20 @@
+{
+  "title": "LAWCAT: Efficient Distillation from Quadratic to Linear Attention with Convolution across Tokens for Long Context Modeling",
+  "authors": [
+    "Zeyu Liu",
+    "Souvik Kundu",
+    "Lianghao Jiang",
+    "Anni Li",
+    "Srikanth Ronanki",
+    "Sravan Bodapati",
+    "Gourav Datta",
+    "Peter A. Beerel"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.1138",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1138/"
+}

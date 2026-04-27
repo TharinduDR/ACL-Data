@@ -1,0 +1,20 @@
+{
+  "title": "TurnBench-MS: A Benchmark for Evaluating Multi-Turn, Multi-Step Reasoning in Large Language Models",
+  "authors": [
+    "Yiran Zhang",
+    "Mo Wang",
+    "Xiaoyang Li",
+    "Kaixuan Ren",
+    "Chencheng Zhu",
+    "Usman Naseem"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-emnlp.1084",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1084/"
+}

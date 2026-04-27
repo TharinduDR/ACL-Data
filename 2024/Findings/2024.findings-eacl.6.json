@@ -1,0 +1,25 @@
+{
+  "title": "ParrotTTS: Text-to-speech synthesis exploiting disentangled self-supervised representations",
+  "authors": [
+    "Neil Shah",
+    "Saiteja Kosgi",
+    "Vishal Tambrahalli",
+    "Neha Sahipjohn",
+    "Anil Kumar Nelakanti",
+    "Vineet Gandhi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Hindi",
+    "Marathi",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2024.findings-eacl.6",
+  "acl_url": "https://aclanthology.org/2024.findings-eacl.6/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "RevPRAG: Revealing Poisoning Attacks in Retrieval-Augmented Generation through LLM Activation Analysis",
+  "authors": [
+    "Xue Tan",
+    "Hao Luan",
+    "Mingyu Luo",
+    "Xiaoyan Sun",
+    "Ping Chen",
+    "Jun Dai"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10",
+    "T12",
+    "T28"
+  ],
+  "paper_id": "2025.findings-emnlp.698",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.698/"
+}

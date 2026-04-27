@@ -1,0 +1,24 @@
+{
+  "title": "CORAL: Benchmarking Multi-turn Conversational Retrieval-Augmented Generation",
+  "authors": [
+    "Yiruo Cheng",
+    "Kelong Mao",
+    "Ziliang Zhao",
+    "Guanting Dong",
+    "Hongjin Qian",
+    "Yongkang Wu",
+    "Tetsuya Sakai",
+    "Ji-Rong Wen",
+    "Zhicheng Dou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-naacl.72",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.72/"
+}

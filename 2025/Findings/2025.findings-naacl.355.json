@@ -1,0 +1,18 @@
+{
+  "title": "Weight-based Analysis of Detokenization in Language Models: Understanding the First Stage of Inference Without Inference",
+  "authors": [
+    "Go Kamoda",
+    "Benjamin Heinzerling",
+    "Tatsuro Inaba",
+    "Keito Kudo",
+    "Keisuke Sakaguchi",
+    "Kentaro Inui"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-naacl.355",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.355/"
+}

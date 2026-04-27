@@ -1,0 +1,25 @@
+{
+  "title": "Multilingual Knowledge Graph Completion via Efficient Multilingual Knowledge Sharing",
+  "authors": [
+    "Cunli Mao",
+    "Xiaofei Gao",
+    "Ran Song",
+    "Shizhu He",
+    "Shengxiang Gao",
+    "Kang Liu",
+    "Zhengtiao Yu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.577",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.577/"
+}

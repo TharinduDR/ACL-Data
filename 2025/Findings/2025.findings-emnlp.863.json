@@ -1,0 +1,21 @@
+{
+  "title": "Parsing the Switch: LLM-Based UD Annotation for Complex Code-Switched and Low-Resource Languages",
+  "authors": [
+    "Olga Kellert",
+    "Nemika Tyagi",
+    "Muhammad Imran",
+    "Nelvin Licona-Guevara",
+    "Carlos Gómez-Rodríguez"
+  ],
+  "languages": [
+    "Spanish",
+    "English",
+    "Guaraní"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.findings-emnlp.863",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.863/"
+}

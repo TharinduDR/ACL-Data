@@ -1,0 +1,25 @@
+{
+  "title": "UGIF-DATASet: A New Dataset for Cross-lingual, Cross-modal Sequential actions on the UI",
+  "authors": [
+    "Sagar Gubbi Venkatesh",
+    "Partha Talukdar",
+    "Srin Narayanan"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Kannada",
+    "Marathi",
+    "Gujarati",
+    "Bengali",
+    "Swahili",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-naacl.89",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.89/"
+}

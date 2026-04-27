@@ -1,0 +1,19 @@
+{
+  "title": "ROSE Doesn't Do That: Boosting the Safety of Instruction-Tuned Large Language Models with Reverse Prompt Contrastive Decoding",
+  "authors": [
+    "Qihuang Zhong",
+    "Liang Ding",
+    "Juhua Liu",
+    "Bo Du",
+    "Dacheng Tao"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.814",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.814/"
+}

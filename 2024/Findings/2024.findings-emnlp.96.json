@@ -1,0 +1,34 @@
+{
+  "title": "Exploring Multilingual Concepts of Human Values in Large Language Models: Is Value Alignment Consistent, Transferable and Controllable across Languages?",
+  "authors": [
+    "Shaoyang Xu",
+    "Weilong Dong",
+    "Zishan Guo",
+    "Xinwei Wu",
+    "Deyi Xiong"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "Spanish",
+    "Portuguese",
+    "Indonesian",
+    "Vietnamese",
+    "Japanese",
+    "Korean",
+    "Hungarian",
+    "Finnish",
+    "Tamil",
+    "Telugu",
+    "Chichewa",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.96",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.96/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "mCSQA: Multilingual Commonsense Reasoning Dataset with Unified Creation Strategy by Language Models and Humans",
+  "authors": [
+    "Yusuke Sakai",
+    "Hidetaka Kamigaito",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Chinese",
+    "German",
+    "Portuguese",
+    "Dutch",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.findings-acl.844",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.844/"
+}

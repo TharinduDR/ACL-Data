@@ -1,0 +1,21 @@
+{
+  "title": "DisComp: A Two-Stage Prompt Optimization Framework Combining Task-Agnostic and Task-Aware Compression",
+  "authors": [
+    "Quancai Liu",
+    "Haihui Fan",
+    "Jinchao Zhang",
+    "Xiangfang Li",
+    "Chuanrong Li",
+    "Bo Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.findings-naacl.58",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.58/"
+}

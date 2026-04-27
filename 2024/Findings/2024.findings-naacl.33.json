@@ -1,0 +1,24 @@
+{
+  "title": "Narrowing the Gap between Zero- and Few-shot Machine Translation by Matching Styles",
+  "authors": [
+    "Weiting Tan",
+    "Haoran Xu",
+    "Lingfeng Shen",
+    "Shuyue Stella Li",
+    "Kenton Murray",
+    "Philipp Koehn",
+    "Benjamin Van Durme",
+    "Yunmo Chen"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-naacl.33",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.33/"
+}

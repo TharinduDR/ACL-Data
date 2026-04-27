@@ -1,0 +1,26 @@
+{
+  "title": "Low-Resource Machine Translation through the Lens of Personalized Federated Learning",
+  "authors": [
+    "Viktor Moskvoretskii",
+    "Nazarii Tupitsa",
+    "Chris Biemann",
+    "Samuel Horváth",
+    "Eduard Gorbunov",
+    "Irina Nikishina"
+  ],
+  "languages": [
+    "Indonesian",
+    "Japanese",
+    "Malay",
+    "Tagalog",
+    "Tamil",
+    "Sami",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16",
+    "T12"
+  ],
+  "paper_id": "2024.findings-emnlp.514",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.514/"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "emotion2vec: Self-Supervised Pre-Training for Speech Emotion Representation",
+  "authors": [
+    "Ziyang Ma",
+    "Zhisheng Zheng",
+    "Jiaxin Ye",
+    "Jinchao Li",
+    "Zhifu Gao",
+    "Shiliang Zhang",
+    "Xie Chen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Italian",
+    "Persian",
+    "Urdu",
+    "Russian",
+    "Bengali",
+    "Greek"
+  ],
+  "research_areas": [
+    "T14",
+    "T24",
+    "T20"
+  ],
+  "paper_id": "2024.findings-acl.931",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.931/"
+}

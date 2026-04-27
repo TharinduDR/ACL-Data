@@ -1,0 +1,22 @@
+{
+  "title": "An Empirical Study on Cross-lingual Vocabulary Adaptation for Efficient Language Model Inference",
+  "authors": [
+    "Atsuki Yamaguchi",
+    "Aline Villavicencio",
+    "Nikolaos Aletas"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese",
+    "Arabic",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.findings-emnlp.396",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.396/"
+}

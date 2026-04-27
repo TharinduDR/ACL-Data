@@ -1,0 +1,24 @@
+{
+  "title": "MoE-I²: Compressing Mixture of Experts Models through Inter-Expert Pruning and Intra-Expert Low-Rank Decomposition",
+  "authors": [
+    "Cheng Yang",
+    "Yang Sui",
+    "Jinqi Xiao",
+    "Lingyi Huang",
+    "Yu Gong",
+    "Yuanlin Duan",
+    "Wenqi Jia",
+    "Miao Yin",
+    "Yu Cheng",
+    "Bo Yuan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.findings-emnlp.612",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.612/"
+}

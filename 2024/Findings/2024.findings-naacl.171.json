@@ -1,0 +1,22 @@
+{
+  "title": "LatticeGen: Hiding Generated Text in a Lattice for Privacy-Aware Large Language Model Generation on Cloud",
+  "authors": [
+    "Mengke Zhang",
+    "Tianxing He",
+    "Tianle Wang",
+    "Lu Mi",
+    "Fatemehsadat Mireshghallah",
+    "Binyi Chen",
+    "Hao Wang",
+    "Yulia Tsvetkov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.findings-naacl.171",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.171/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Defeating Cerberus: Privacy-Leakage Mitigation in Vision Language Models",
+  "authors": [
+    "Boyang Zhang",
+    "Istemi Ekin Akkus",
+    "Ruichuan Chen",
+    "Alice Dethise",
+    "Klaus Satzke",
+    "Ivica Rimac",
+    "Yang Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2026.findings-eacl.154",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.154/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "LLM-TOPLA: Efficient LLM Ensemble by Maximising Diversity",
+  "authors": [
+    "Selim Furkan Tekin",
+    "Fatih Ilhan",
+    "Tiansheng Huang",
+    "Sihao Hu",
+    "Ling Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.findings-emnlp.698",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.698/"
+}

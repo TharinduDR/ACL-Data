@@ -1,0 +1,25 @@
+{
+  "title": "Mixture-of-Supernets: Improving Weight-Sharing Supernet Training with Architecture-Routed Mixture-of-Experts",
+  "authors": [
+    "Ganesh Jawahar",
+    "Haichuan Yang",
+    "Yunyang Xiong",
+    "Zechun Liu",
+    "Dilin Wang",
+    "Fei Sun",
+    "Meng Li",
+    "Muhammad Abdul-Mageed",
+    "Raghuraman Krishnamoorthi",
+    "Vikas Chandra"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-acl.621",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.621/"
+}

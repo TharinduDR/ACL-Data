@@ -1,0 +1,43 @@
+{
+  "title": "MultiCW: A Large-Scale Balanced Benchmark Dataset for Training Robust Check-Worthiness Detection Models",
+  "authors": [
+    "Martin Hyben",
+    "Sebastian Kula",
+    "Jan Cegin",
+    "Jakub Simko",
+    "Ivan Srba",
+    "Robert Moro"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Bengali",
+    "Czech",
+    "German",
+    "English",
+    "French",
+    "Hindi",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Slovak",
+    "Turkish",
+    "Ukrainian",
+    "Chinese",
+    "Indonesian",
+    "Italian",
+    "Malay",
+    "Dutch",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.findings-eacl.194",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.194/"
+}

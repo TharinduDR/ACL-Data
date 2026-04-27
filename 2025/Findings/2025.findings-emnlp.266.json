@@ -1,0 +1,20 @@
+{
+  "title": "Forewarned is Forearmed: Pre-Synthesizing Jailbreak-like Instructions to Enhance LLM Safety Guardrail to Potential Attacks",
+  "authors": [
+    "Sheng Liu",
+    "Qiang Sheng",
+    "Danding Wang",
+    "Yang Li",
+    "Guang Yang",
+    "Juan Cao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.266",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.266/"
+}

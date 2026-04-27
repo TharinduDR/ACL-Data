@@ -1,0 +1,21 @@
+{
+  "title": "GeoEval: Benchmark for Evaluating LLMs and Multi-Modal Models on Geometry Problem-Solving",
+  "authors": [
+    "Jiaxin Zhang",
+    "Zhong-Zhi Li",
+    "Ming-Liang Zhang",
+    "Fei Yin",
+    "Cheng-Lin Liu",
+    "Yashar Moshfeghi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.findings-acl.73",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.73/"
+}

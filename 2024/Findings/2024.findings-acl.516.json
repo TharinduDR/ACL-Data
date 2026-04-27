@@ -1,0 +1,24 @@
+{
+  "title": "DB-LLM: Accurate Dual-Binarization for Efficient LLMs",
+  "authors": [
+    "Hong Chen",
+    "Chengtao Lv",
+    "Liang Ding",
+    "Haotong Qin",
+    "Xiabin Zhou",
+    "Yifu Ding",
+    "Xuebo Liu",
+    "Min Zhang",
+    "Jinyang Guo",
+    "Xianglong Liu",
+    "Dacheng Tao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.516",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.516/"
+}

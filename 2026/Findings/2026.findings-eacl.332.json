@@ -1,0 +1,32 @@
+{
+  "title": "SRCMIX: Mixing of Related Source Languages Benefits Extremely Low-resource Machine Translation",
+  "authors": [
+    "Sanjeev Kumar",
+    "Preethi Jyothi",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English",
+    "Angika",
+    "Hindi",
+    "Bhojpuri",
+    "Magahi",
+    "Nigerian Fulfulde",
+    "Nuer",
+    "Bambara",
+    "Tamasheq",
+    "Friulian",
+    "Ligurian",
+    "Limburgish",
+    "Sardinian",
+    "Dari",
+    "Kashmiri",
+    "Southern Pashto"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.findings-eacl.332",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.332/"
+}

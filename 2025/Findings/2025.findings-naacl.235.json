@@ -1,0 +1,20 @@
+{
+  "title": "Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding",
+  "authors": [
+    "Kyungmin Min",
+    "Minbeom Kim",
+    "Kang-il Lee",
+    "Dongryeol Lee",
+    "Kyomin Jung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-naacl.235",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.235/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Towards Robust Few-Shot Relation Classification: Incorporating Relation Description with Agreement",
+  "authors": [
+    "Mengting Hu",
+    "Hang Gao",
+    "Jianfeng Wu",
+    "Ming Jiang",
+    "Yalan Xie",
+    "Zhunheng Wang",
+    "Rui Ying",
+    "Xiaoyi Liu",
+    "Ruixuan Xu",
+    "Renhong Cheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.442",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.442/"
+}

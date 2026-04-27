@@ -1,0 +1,22 @@
+{
+  "title": "Rethinking Data Selection at Scale: Random Selection is Almost All You Need",
+  "authors": [
+    "Tingyu Xia",
+    "Bowen Yu",
+    "Kai Dang",
+    "An Yang",
+    "Yuan Wu",
+    "Yuan Tian",
+    "Yi Chang",
+    "Junyang Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.146",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.146/"
+}

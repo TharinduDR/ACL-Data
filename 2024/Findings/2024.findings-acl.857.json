@@ -1,0 +1,20 @@
+{
+  "title": "Part-of-speech Tagging for Extremely Low-resource Indian Languages",
+  "authors": [
+    "Sanjeev Kumar",
+    "Preethi Jyothi",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "Hindi",
+    "Angika",
+    "Magahi",
+    "Bhojpuri"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.findings-acl.857",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.857/"
+}

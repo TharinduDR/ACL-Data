@@ -1,0 +1,23 @@
+{
+  "title": "RusCode: Russian Cultural Code Benchmark for Text-to-Image Generation",
+  "authors": [
+    "Viacheslav Vasilev",
+    "Julia Agafonova",
+    "Nikolai Gerasimenko",
+    "Alexander Kapitanov",
+    "Polina Mikhailova",
+    "Evelina Mironova",
+    "Denis Dimitrov"
+  ],
+  "languages": [
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2025.findings-naacl.425",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.425/"
+}

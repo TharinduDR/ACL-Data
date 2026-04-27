@@ -1,0 +1,21 @@
+{
+  "title": "Evaluating Mathematical Reasoning of Large Language Models: A Focus on Error Identification and Correction",
+  "authors": [
+    "Xiaoyuan Li",
+    "Wenjie Wang",
+    "Moxin Li",
+    "Junrong Guo",
+    "Yang Zhang",
+    "Fuli Feng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.findings-acl.673",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.673/"
+}

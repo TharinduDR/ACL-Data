@@ -1,0 +1,20 @@
+{
+  "title": "Few-shot clinical entity recognition in English, French and Spanish: masked language models outperform generative model prompting",
+  "authors": [
+    "Marco Naguib",
+    "Xavier Tannier",
+    "Aurélie Névélol"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-emnlp.400",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.400/"
+}

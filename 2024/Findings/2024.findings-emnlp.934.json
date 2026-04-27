@@ -1,0 +1,27 @@
+{
+  "title": "Grounding Partially-Defined Events in Multimodal Data",
+  "authors": [
+    "Kate Sanders",
+    "Reno Kriz",
+    "David Etter",
+    "Hannah Recknor",
+    "Alexander Martin",
+    "Cameron Carpenter",
+    "Jingyang Lin",
+    "Benjamin Van Durme"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "Korean",
+    "Russian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.934",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.934/"
+}

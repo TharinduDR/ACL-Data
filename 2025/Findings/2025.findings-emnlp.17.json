@@ -1,0 +1,23 @@
+{
+  "title": "On Domain-Adaptive Post-Training for Multimodal Large Language Models",
+  "authors": [
+    "Daixuan Cheng",
+    "Shaohan Huang",
+    "Ziyu Zhu",
+    "Xintong Zhang",
+    "Wayne Xin Zhao",
+    "Zhongzhi Luan",
+    "Bo Dai",
+    "Zhenliang Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.17",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.17/"
+}

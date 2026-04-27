@@ -1,0 +1,22 @@
+{
+  "title": "Automatic Pair Construction for Contrastive Post-training",
+  "authors": [
+    "Canwen Xu",
+    "Corby Rosset",
+    "Ethan C. Chau",
+    "Luciano Del Corro",
+    "Shweti Mahajan",
+    "Julian McAuley",
+    "Jennifer Neville",
+    "Ahmed Hassan Awadallah",
+    "Nikhil Rao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-naacl.11",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.11/"
+}

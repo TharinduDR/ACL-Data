@@ -1,0 +1,19 @@
+{
+  "title": "HALLUCANA: Fixing LLM Hallucination with A Canary Lookahead",
+  "authors": [
+    "Tianyi Li",
+    "Erenay Dayanik",
+    "Shubhi Tyagi",
+    "Andrea Pierleoni"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-naacl.12",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.12/"
+}

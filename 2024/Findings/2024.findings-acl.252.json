@@ -1,0 +1,29 @@
+{
+  "title": "E²-LLM: Efficient and Extreme Length Extension of Large Language Models",
+  "authors": [
+    "Jiaheng Liu",
+    "Zhiqi Bai",
+    "Yuanxing Zhang",
+    "Chenchen Zhang",
+    "Yu Zhang",
+    "Ge Zhang",
+    "Jiakai Wang",
+    "Haoran Que",
+    "Yukang Chen",
+    "Wenbo Su",
+    "Tiezhen Ge",
+    "Jie Fu",
+    "Wenhu Chen",
+    "Bo Zheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.findings-acl.252",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.252/"
+}

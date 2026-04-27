@@ -1,0 +1,24 @@
+{
+  "title": "Low-Rank Adaptation for Multilingual Summarization: An Empirical Study",
+  "authors": [
+    "Chenxi Whitehouse",
+    "Fantine Huot",
+    "Jasmijn Bastings",
+    "Mostafa Dehghani",
+    "Chu-Cheng Lin",
+    "Mirella Lapata"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Czech"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2024.findings-naacl.77",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.77/"
+}

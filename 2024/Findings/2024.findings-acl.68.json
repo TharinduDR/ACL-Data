@@ -1,0 +1,22 @@
+{
+  "title": "BEnQA: A Question Answering Benchmark for Bengali and English",
+  "authors": [
+    "Sheikh Shafayat",
+    "H M Quamran Hasan",
+    "Minhajur Rahman Chowdhury Mahim",
+    "Rifki Afina Putri",
+    "James Thorne",
+    "Alice Oh"
+  ],
+  "languages": [
+    "English",
+    "Bengali"
+  ],
+  "research_areas": [
+    "T10",
+    "T08",
+    "T16"
+  ],
+  "paper_id": "2024.findings-acl.68",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.68/"
+}

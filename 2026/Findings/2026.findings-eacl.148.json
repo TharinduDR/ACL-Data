@@ -1,0 +1,31 @@
+{
+  "title": "Better as Generators Than Classifiers: Leveraging LLMs and Synthetic Data for Low-Resource Multilingual Classification",
+  "authors": [
+    "Branislav Pecher",
+    "Jan Cegin",
+    "Robert Belanec",
+    "Ivan Srba",
+    "Jakub Simko",
+    "Maria Bielikova"
+  ],
+  "languages": [
+    "Azerbaijani",
+    "Romanian",
+    "Slovenian",
+    "Telugu",
+    "Welsh",
+    "Hebrew",
+    "Indonesian",
+    "Swahili",
+    "Thai",
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2026.findings-eacl.148",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.148/"
+}

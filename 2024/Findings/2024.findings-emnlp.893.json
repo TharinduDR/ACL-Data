@@ -1,0 +1,23 @@
+{
+  "title": "LAMBDA: Large Language Model-Based Data Augmentation for Multi-Modal Machine Translation",
+  "authors": [
+    "Yusong Wang",
+    "Dongyuan Li",
+    "Jialun Shen",
+    "Yicheng Xu",
+    "Mingkun Xu",
+    "Kotaro Funakoshi",
+    "Manabu Okumura"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.findings-emnlp.893",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.893/"
+}

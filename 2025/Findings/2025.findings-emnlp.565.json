@@ -1,0 +1,25 @@
+{
+  "title": "Select to Know: An Internal-External Knowledge Self-Selection Framework for Domain-Specific Question Answering",
+  "authors": [
+    "Bolei He",
+    "Xinran He",
+    "Run Shao",
+    "Shanfu Shu",
+    "Xianwei Xue",
+    "Mingquan Cheng",
+    "Haifeng Li",
+    "Zhen-Hua Ling"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-emnlp.565",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.565/"
+}

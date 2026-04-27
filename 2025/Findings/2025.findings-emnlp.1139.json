@@ -1,0 +1,20 @@
+{
+  "title": "Analyzing Dialectical Biases in LLMs for Knowledge and Reasoning Benchmarks",
+  "authors": [
+    "Eileen Pan",
+    "Anna Seo Gyeong Choi",
+    "Maartje ter Hoeve",
+    "Skyler Seto",
+    "Allison Koenecke"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.findings-emnlp.1139",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1139/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "LexC-Gen: Generating Data for Extremely Low-Resource Languages with Large Language Models and Bilingual Lexicons",
+  "authors": [
+    "Zheng-Xin Yong",
+    "Cristina Menghini",
+    "Stephen H. Bach"
+  ],
+  "languages": [
+    "Indonesian",
+    "English",
+    "Swahili",
+    "Bambara",
+    "Ewe",
+    "Fijian",
+    "Grenadian",
+    "Lingala",
+    "Lusoga",
+    "Sango",
+    "Tsonga",
+    "Tumbuka",
+    "Twi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.findings-emnlp.818",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.818/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "TABDSR: Decompose, Sanitize, and Reason for Complex Numerical Reasoning in Tabular Data",
+  "authors": [
+    "Changjiang Jiang",
+    "Fengchang Yu",
+    "Haibua Chen",
+    "Wei Lu",
+    "Jin Zeng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-emnlp.169",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.169/"
+}

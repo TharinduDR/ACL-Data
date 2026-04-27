@@ -1,0 +1,37 @@
+{
+  "title": "BenchMAX: A Comprehensive Multilingual Evaluation Suite for Large Language Models",
+  "authors": [
+    "Xu Huang",
+    "Wen Hao Zhu",
+    "Han Xu Hu",
+    "Conghui He",
+    "Lei Li",
+    "Shujian Huang",
+    "Fei Yuan"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "French",
+    "German",
+    "Russian",
+    "Bengali",
+    "Japanese",
+    "Thai",
+    "Swahili",
+    "Arabic",
+    "Korean",
+    "Serbian",
+    "Czech",
+    "Hungarian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-emnlp.909",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.909/"
+}

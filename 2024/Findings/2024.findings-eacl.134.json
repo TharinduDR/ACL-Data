@@ -1,0 +1,19 @@
+{
+  "title": "When do Generative Query and Document Expansions Fail? A Comprehensive Study Across Methods, Retrievers, and Datasets",
+  "authors": [
+    "Orion Weller",
+    "Kyle Lo",
+    "David Wadden",
+    "Dawn Lawrie",
+    "Benjamin Van Durme",
+    "Arman Cohan",
+    "Luca Soldaini"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-eacl.134",
+  "acl_url": "https://aclanthology.org/2024.findings-eacl.134/"
+}

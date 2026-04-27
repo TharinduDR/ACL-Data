@@ -1,0 +1,21 @@
+{
+  "title": "DocEE-zh: A Fine-grained Benchmark for Chinese Document-level Event Extraction",
+  "authors": [
+    "Minghui Liu",
+    "Meihan Tong",
+    "Yangda Peng",
+    "Lei Hou",
+    "Juanzi Li",
+    "Bin Xu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.35",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.35/"
+}

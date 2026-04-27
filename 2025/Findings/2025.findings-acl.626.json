@@ -1,0 +1,25 @@
+{
+  "title": "Towards Adapting Open-Source Large Language Models for Expert-Level Clinical Note Generation",
+  "authors": [
+    "Hanyin Wang",
+    "Chufan Gao",
+    "Bolun Liu",
+    "Qiping Xu",
+    "Guleid Hussein",
+    "Mohamad El Labban",
+    "Kingsley Iheasirim",
+    "Hariprasad Korsapati",
+    "Chuck Outcalt",
+    "Jimeng Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.findings-acl.626",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.626/"
+}

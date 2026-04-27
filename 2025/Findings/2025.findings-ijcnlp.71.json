@@ -1,0 +1,18 @@
+{
+  "title": "BioMistral-Clinical: A Scalable Approach to Clinical LLMs via Incremental Learning and RAG",
+  "authors": [
+    "Ziwei Chen",
+    "Bernhard Bermeitinger",
+    "Christina Niklaus"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.findings-ijcnlp.71",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.71/"
+}

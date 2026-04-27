@@ -1,0 +1,25 @@
+{
+  "title": "VaseVQA: Multimodal Agent and Benchmark for Ancient Greek Pottery",
+  "authors": [
+    "Jinchao Ge",
+    "Tengfei Cheng",
+    "Biao Wu",
+    "Zeyu Zhang",
+    "Shiya Huang",
+    "Judith Bishop",
+    "Gillian Shepherd",
+    "Meng Fang",
+    "Ling Chen",
+    "Yang Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.findings-eacl.60",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.60/"
+}

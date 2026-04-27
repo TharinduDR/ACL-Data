@@ -9,14 +9,14 @@
   ],
   "languages": [
     "English",
-    "German",
     "Chinese",
-    "Thai"
+    "Korean",
+    "German"
   ],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T14 Language Modeling",
     "T18 Text Summarization",
-    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+    "T20 Opinion & Argument Mining, Sentiment Analysis"
   ],
   "paper_id": "2025.findings-acl.1201",
   "acl_url": "https://aclanthology.org/2025.findings-acl.1201/"

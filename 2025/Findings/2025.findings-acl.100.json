@@ -6,13 +6,10 @@
     "Wei Xu",
     "Tianxing He"
   ],
-  "languages": [
-    "English"
-  ],
+  "languages": [],
   "research_areas": [
     "T01 Bias, Guardrails, filters",
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
   ],
   "paper_id": "2025.findings-acl.100",
   "acl_url": "https://aclanthology.org/2025.findings-acl.100/"

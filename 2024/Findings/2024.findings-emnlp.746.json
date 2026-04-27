@@ -1,0 +1,26 @@
+{
+  "title": "GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models",
+  "authors": [
+    "Shilong Li",
+    "Yancheng He",
+    "Hangyu Guo",
+    "Xingyuan Bu",
+    "Ge Bai",
+    "Jie Liu",
+    "Jiaheng Liu",
+    "Xingwei Qu",
+    "Yangguang Li",
+    "Wanli Ouyang",
+    "Wenbo Su",
+    "Bo Zheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.findings-emnlp.746",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.746/"
+}

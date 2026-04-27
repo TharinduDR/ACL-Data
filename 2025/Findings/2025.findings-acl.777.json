@@ -8,12 +8,9 @@
     "Xiaoqing Zheng",
     "Xuanjing Huang"
   ],
-  "languages": [
-    "English",
-    "French"
-  ],
+  "languages": [],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T14 Language Modeling",
     "T18 Text Summarization"
   ],
   "paper_id": "2025.findings-acl.777",

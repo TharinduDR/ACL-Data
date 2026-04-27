@@ -1,0 +1,29 @@
+{
+  "title": "Cyclical Contrastive Learning Based on Geodesic for Zero-shot Cross-lingual Spoken Language Understanding",
+  "authors": [
+    "Xuxin Cheng",
+    "Zhihong Zhu",
+    "Bang Yang",
+    "Xianwei Zhuang",
+    "Hongxiang Li",
+    "Yuexian Zou"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Turkish",
+    "Spanish",
+    "German",
+    "French",
+    "Chinese",
+    "Japanese",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2024.findings-acl.106",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.106/"
+}

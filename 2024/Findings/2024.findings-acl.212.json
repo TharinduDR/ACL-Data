@@ -1,0 +1,22 @@
+{
+  "title": "Chain-of-Verification Reduces Hallucination in Large Language Models",
+  "authors": [
+    "Shehzaad Dhuliawala",
+    "Mojtaba Komeili",
+    "Jing Xu",
+    "Roberta Raileanu",
+    "Xian Li",
+    "Asli Celikyilmaz",
+    "Jason Weston"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.212",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.212/"
+}

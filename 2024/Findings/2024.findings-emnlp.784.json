@@ -1,0 +1,34 @@
+{
+  "title": "Preference Tuning For Toxicity Mitigation Generalizes Across Languages",
+  "authors": [
+    "Xiaochen Li",
+    "Zheng-Xin Yong",
+    "Stephen H. Bach"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Korean",
+    "Russian",
+    "Indonesian",
+    "Hindi",
+    "Czech",
+    "Spanish",
+    "Portuguese",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Thai",
+    "Vietnamese",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.findings-emnlp.784",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.784/"
+}

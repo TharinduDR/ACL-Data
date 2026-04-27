@@ -1,0 +1,20 @@
+{
+  "title": "HARE: an entity and relation centric evaluation framework for histopathology reports",
+  "authors": [
+    "Yunsoo Kim",
+    "Michal W. S. Ong",
+    "Alex Shavick",
+    "Honghan Wu",
+    "Adam P. Levine"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.490",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.490/"
+}

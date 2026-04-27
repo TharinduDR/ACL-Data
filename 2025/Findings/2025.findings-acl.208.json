@@ -9,12 +9,25 @@
     "Ge Yu"
   ],
   "languages": [
-    "English"
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Dutch",
+    "Swedish",
+    "Danish",
+    "Norwegian",
+    "Finnish",
+    "Icelandic",
+    "Faroese",
+    "Hungarian"
   ],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T14 Language Modeling",
     "T18 Text Summarization",
-    "T09 Inference and Reasoning"
+    "T10 Question Answering"
   ],
   "paper_id": "2025.findings-acl.208",
   "acl_url": "https://aclanthology.org/2025.findings-acl.208/"

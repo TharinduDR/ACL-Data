@@ -1,0 +1,22 @@
+{
+  "title": "Train a Unified Multimodal Data Quality Classifier with Synthetic Data",
+  "authors": [
+    "Weizhi Wang",
+    "Rongmei Lin",
+    "Shiyang Li",
+    "Colin Lockard",
+    "Ritesh Sarkhel",
+    "Sanket Lokegaonkar",
+    "Jingbo Shang",
+    "Xifeng Yan",
+    "Nasser Zalmout",
+    "Xian Li"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.findings-emnlp.104",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.104/"
+}

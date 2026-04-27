@@ -1,0 +1,27 @@
+{
+  "title": "MARS-Bench: A Multi-turn Athletic Real-world Scenario Benchmark for Dialogue Evaluation",
+  "authors": [
+    "Chenghao Yang",
+    "Yinbo Luo",
+    "Zhoufutu Wen",
+    "Qi Chu",
+    "Tao Gong",
+    "Longxiang Liu",
+    "Kaiyuan Zhang",
+    "Jianpeng Jiao",
+    "Ge Zhang",
+    "Wenhao Huang",
+    "Nenghai Yu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-emnlp.314",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.314/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "PDF-to-Tree: Parsing PDF Text Blocks into a Tree",
+  "authors": [
+    "Yue Zhang",
+    "Zhihao Zhang",
+    "Wenbin Lai",
+    "Chong Zhang",
+    "Tao Gui",
+    "Qi Zhang",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.findings-emnlp.628",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.628/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "METAL: Towards Multilingual Meta-Evaluation",
+  "authors": [
+    "Rishav Hada",
+    "Varun Gumma",
+    "Mohamed Ahmed",
+    "Kalika Bali",
+    "Sunayana Sitaram"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "Hindi",
+    "Arabic",
+    "Bengali",
+    "Russian",
+    "Turkish",
+    "Japanese",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-naacl.148",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.148/"
+}

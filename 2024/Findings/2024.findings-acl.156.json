@@ -1,0 +1,41 @@
+{
+  "title": "The Language Barrier: Dissecting Safety Challenges of LLMs in Multilingual Contexts",
+  "authors": [
+    "Lingfeng Shen",
+    "Weiting Tan",
+    "Sihao Chen",
+    "Yunmo Chen",
+    "Jingyu Zhang",
+    "Haoran Xu",
+    "Boyuan Zheng",
+    "Philipp Koehn",
+    "Daniel Khashabi"
+  ],
+  "languages": [
+    "Chinese",
+    "Russian",
+    "Spanish",
+    "Portuguese",
+    "French",
+    "German",
+    "Italian",
+    "Dutch",
+    "Turkish",
+    "Hausa",
+    "Armenian",
+    "Igbo",
+    "Javanese",
+    "Kamba",
+    "Halh",
+    "Luo",
+    "Maori",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.findings-acl.156",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.156/"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Linear Cross-Linguual Mapping of Sentence Embeddings",
+  "authors": [
+    "Oleg Vasilyev",
+    "Fumika Isono",
+    "John Bohannon"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Russian",
+    "Berber",
+    "Esperanto",
+    "Japanese",
+    "Arabic",
+    "Chinese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.486",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.486/"
+}

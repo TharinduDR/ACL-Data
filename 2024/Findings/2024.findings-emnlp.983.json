@@ -1,0 +1,22 @@
+{
+  "title": "PositionID: LLMs can Control Lengths, Copy and Paste with Explicit Positional Awareness",
+  "authors": [
+    "Zekun Wang",
+    "Feiyu Duan",
+    "Yibo Zhang",
+    "Wangchunshu Zhou",
+    "Ke Xu",
+    "Wenhao Huang",
+    "Jie Fu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.findings-emnlp.983",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.983/"
+}

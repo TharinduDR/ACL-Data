@@ -1,0 +1,21 @@
+{
+  "title": "DEFT: Distribution-guided Efficient Fine-Tuning for Human Alignment",
+  "authors": [
+    "Liang Zhu",
+    "Feiteng Fang",
+    "Yuelin Bai",
+    "Longze Chen",
+    "Zhixiang Zhang",
+    "Minghuan Tan",
+    "Min Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-emnlp.898",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.898/"
+}

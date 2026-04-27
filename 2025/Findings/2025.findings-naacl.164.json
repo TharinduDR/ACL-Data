@@ -1,0 +1,23 @@
+{
+  "title": "Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large Language Models in Code Generation from Scientific Plots",
+  "authors": [
+    "Chengyue Wu",
+    "Zhixuan Liang",
+    "Yixiao Ge",
+    "Qiushan Guo",
+    "Zeyu Lu",
+    "Jiahao Wang",
+    "Ying Shan",
+    "Ping Luo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.164",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.164/"
+}

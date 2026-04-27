@@ -1,0 +1,37 @@
+{
+  "title": "OpenHuEval: Evaluating Large Language Model on Hungarian Specifics",
+  "authors": [
+    "Haote Yang",
+    "Xingjian Wei",
+    "Jiang Wu",
+    "Noémi Ligeti-Nagy",
+    "Jiaxing Sun",
+    "Yinfan Wang",
+    "Zijian Győző Yang",
+    "Junyuan Gao",
+    "Jingchao Wang",
+    "Bowen Jiang",
+    "Shasha Wang",
+    "Nanjun Yu",
+    "Zihao Zhang",
+    "Shixin Hong",
+    "Hongwei Liu",
+    "Wei Li",
+    "Songyang Zhang",
+    "Dahua Lin",
+    "Lijun Wu",
+    "Gábor Prószéky",
+    "Conghui He"
+  ],
+  "languages": [
+    "Hungarian",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.390",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.390/"
+}

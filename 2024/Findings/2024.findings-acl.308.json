@@ -1,0 +1,30 @@
+{
+  "title": "Translation Deserves Better: Analyzing Translation Artifacts in Cross-lingual Visual Question Answering",
+  "authors": [
+    "ChaeHun Park",
+    "Koanho Lee",
+    "Hyesu Lim",
+    "Jaeseok Kim",
+    "Junmo Park",
+    "Yu-Jung Heo",
+    "Du-Seong Chang",
+    "Jaegul Choo"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "German",
+    "Indonesian",
+    "Korean",
+    "Chinese",
+    "Portuguese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T10",
+    "T16",
+    "T17"
+  ],
+  "paper_id": "2024.findings-acl.308",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.308/"
+}

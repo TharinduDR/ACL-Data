@@ -1,0 +1,19 @@
+{
+  "title": "Attention Tracker: Detecting Prompt Injection Attacks in LLMs",
+  "authors": [
+    "Kuo-Han Hung",
+    "Ching-Yun Ko",
+    "Ambrish Rawat",
+    "I-Hsin Chung",
+    "Winston H. Hsu",
+    "Pin-Yu Chen"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.123",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.123/"
+}

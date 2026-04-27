@@ -1,0 +1,23 @@
+{
+  "title": "Revisiting Pruning vs Quantization for Small Language Models",
+  "authors": [
+    "Zihan Zhou",
+    "Simon Kurz",
+    "Zhixue Zhao"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Hindi",
+    "Chinese",
+    "Thai",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.645",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.645/"
+}

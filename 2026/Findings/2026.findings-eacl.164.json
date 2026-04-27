@@ -1,0 +1,24 @@
+{
+  "title": "Imbalanced Gradients in RL Post-Training of Multi-Task LLMs",
+  "authors": [
+    "Runzhe Wu",
+    "Ankur Samanta",
+    "Ayush Jain",
+    "Scott Fujimoto",
+    "Jeongyeol Kwon",
+    "Ben Kretzu",
+    "Youliang Yu",
+    "Kaveh Hassani",
+    "Boris Vidolov",
+    "Yonathan Efroni"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2026.findings-eacl.164",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.164/"
+}

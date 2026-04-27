@@ -1,0 +1,20 @@
+{
+  "title": "Probing-RAG: Self-Probing to Guide Language Models in Selective Document Retrieval",
+  "authors": [
+    "Ingeol Baek",
+    "Hwan Chang",
+    "Byeongjeong Kim",
+    "Jimin Lee",
+    "Hwanhee Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-naacl.181",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.181/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Cards Against Contamination: TCG-Bench for Difficulty-Scalable Multilingual LLM Reasoning",
+  "authors": [
+    "Sultan Alrashed",
+    "Jianghui Wang",
+    "Francesco Orabona"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2026.findings-eacl.353",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.353/"
+}

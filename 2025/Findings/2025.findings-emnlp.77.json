@@ -1,0 +1,22 @@
+{
+  "title": "Identifying Rare Languages in Common Crawl Data is a Needles-in-a-Haystack Problem",
+  "authors": [
+    "Rasul Dent",
+    "Pedro Ortiz Suarez",
+    "Thibault Cléricé",
+    "Benoît Sagot"
+  ],
+  "languages": [
+    "French",
+    "English",
+    "Haitian",
+    "Mauritian",
+    "Antillean"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.findings-emnlp.77",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.77/"
+}

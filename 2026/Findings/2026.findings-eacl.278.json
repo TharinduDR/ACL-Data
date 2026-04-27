@@ -1,0 +1,24 @@
+{
+  "title": "Leveraging Digitized Newspapers to Collect Summarization Data in Low-Resource Languages",
+  "authors": [
+    "Noam Dahan",
+    "Omer Kidron",
+    "Gabriel Stanovsky"
+  ],
+  "languages": [
+    "Norwegian",
+    "Icelandic",
+    "Estonian",
+    "Greek",
+    "Hebrew",
+    "Italian",
+    "Polish"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.findings-eacl.278",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.278/"
+}

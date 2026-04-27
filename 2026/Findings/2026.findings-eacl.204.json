@@ -1,0 +1,39 @@
+{
+  "title": "Science Across Languages: Assessing LLM Multilingual Translation of Scientific Papers",
+  "authors": [
+    "Hannah Calzi Kleidermacher",
+    "James Zou"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Hindi",
+    "Chinese",
+    "Swedish",
+    "German",
+    "Malay",
+    "Russian",
+    "Italian",
+    "Dutch",
+    "Vietnamese",
+    "Korean",
+    "French",
+    "Hebrew",
+    "Turkish",
+    "Bengali",
+    "Marathi",
+    "Arabic",
+    "Persian",
+    "Urdu",
+    "Tamil",
+    "Japanese",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2026.findings-eacl.204",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.204/"
+}

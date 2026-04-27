@@ -1,0 +1,25 @@
+{
+  "title": "ASD-iLLM: An Intervention Large Language Model for Autistic Children based on Real Clinical Dialogue Intervention Dataset",
+  "authors": [
+    "Shuzhong Lai",
+    "Chenxi Li",
+    "Junhong Lai",
+    "Yucun Zhong",
+    "Chenyu Yan",
+    "Xiang Li",
+    "Haifeng Li",
+    "Gang Pan",
+    "Lin Yao",
+    "Yueming Wang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.427",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.427/"
+}

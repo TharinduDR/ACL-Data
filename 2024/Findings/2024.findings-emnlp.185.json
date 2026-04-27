@@ -1,0 +1,22 @@
+{
+  "title": "Contrastive Token Learning with Similarity Decay for Repetition Suppression in Machine Translation",
+  "authors": [
+    "Huangyu Dai",
+    "Ben Chen",
+    "Kaidi Chen",
+    "Ying Han",
+    "Zihan Liang",
+    "Wen Jiang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-emnlp.185",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.185/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "ConceptMath: A Bilingual Concept-wise Benchmark for Measuring Mathematical Reasoning of Large Language Models",
+  "authors": [
+    "Yanan Wu",
+    "Jie Liu",
+    "Xingyuan Bu",
+    "Jiaheng Liu",
+    "Zhanhui Zhou",
+    "Yuanxing Zhang",
+    "Chenchen Zhang",
+    "Zhiqi Bai",
+    "Haibin Chen",
+    "Tiezeng Ge",
+    "Wanli Ouyang",
+    "Wenbo Su",
+    "Bo Zheng"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2024.findings-acl.407",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.407/"
+}

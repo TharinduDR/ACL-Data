@@ -1,0 +1,37 @@
+{
+  "title": "Why do LLaVA Vision-Language Models Reply to Images in English?",
+  "authors": [
+    "Musashi Hinck",
+    "Carolin Holtermann",
+    "Matthew Lyle Olson",
+    "Florian Schneider",
+    "Sungduk Yu",
+    "Anahita Bhiwandiwalla",
+    "Anne Lauscher",
+    "Shaoyen Tseng",
+    "Vasudev Lal"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Hindi",
+    "Japanese",
+    "Spanish",
+    "Thai",
+    "Arabic",
+    "Bengali",
+    "Hebrew",
+    "French",
+    "Romanian",
+    "Russian",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.findings-emnlp.783",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.783/"
+}

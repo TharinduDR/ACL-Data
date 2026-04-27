@@ -1,0 +1,20 @@
+{
+  "title": "ULTRA: Unleash LLMs' Potential for Event Argument Extraction through Hierarchical Modeling and Pair-wise Self-Refinement",
+  "authors": [
+    "Xinliang Frederick Zhang",
+    "Carter Blum",
+    "Temma Choji",
+    "Shalin Shah",
+    "Alakananda Vempala"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.487",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.487/"
+}

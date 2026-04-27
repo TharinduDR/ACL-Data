@@ -1,0 +1,28 @@
+{
+  "title": "On the Evaluation of Speech Foundation Models for Spoken Language Understanding",
+  "authors": [
+    "Siddhant Arora",
+    "Ankita Pasad",
+    "Chung-Ming Chien",
+    "Jionghao Han",
+    "Roshan Sharma",
+    "Jee-weon Jung",
+    "Hira Dhamyal",
+    "William Chen",
+    "Suwon Shon",
+    "Hung-yi Lee",
+    "Karen Livescu",
+    "Shinji Watanabe"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.findings-acl.709",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.709/"
+}

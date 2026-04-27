@@ -1,0 +1,19 @@
+{
+  "title": "Active Learning for Abstractive Text Summarization via LLM-Determined Curriculum and Certainty Gain Maximization",
+  "authors": [
+    "Dongyuan Li",
+    "Ying Zhang",
+    "Zhen Wang",
+    "Shiyn Tan",
+    "Satoshi Kosugi",
+    "Manabu Okumura"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-emnlp.523",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.523/"
+}

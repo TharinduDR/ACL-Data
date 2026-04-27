@@ -1,0 +1,21 @@
+{
+  "title": "CoViPAL: Layer-wise Contextualized Visual Token Pruning for Large Vision-Language Models",
+  "authors": [
+    "Zicong Tang",
+    "Ziyang Ma",
+    "Suqing Wang",
+    "Zuchao Li",
+    "Lefei Zhang",
+    "Hai Zhao",
+    "Yun Li",
+    "Qianren Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.findings-emnlp.1127",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1127/"
+}

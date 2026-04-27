@@ -1,0 +1,23 @@
+{
+  "title": "DAFNet: Dynamic Auxiliary Fusion for Sequential Model Editing in Large Language Models",
+  "authors": [
+    "Taolin Zhang",
+    "Qizhou Chen",
+    "Dongyang Li",
+    "Chengyu Wang",
+    "Xiaofeng He",
+    "Longtao Huang",
+    "Hui Xue",
+    "Jun Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T13 Knowledge discovery/representation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.92",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.92/"
+}

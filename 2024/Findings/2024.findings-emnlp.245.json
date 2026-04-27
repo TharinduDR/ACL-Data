@@ -1,0 +1,20 @@
+{
+  "title": "A Robust Dual-debiasing VQA Model based on Counterfactual Causal Effect",
+  "authors": [
+    "Lingyun Song",
+    "Chengkun Yang",
+    "Xuanyu Li",
+    "Xuequn Shang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering",
+    "T17 Multimodality, Cross-modality",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2024.findings-emnlp.245",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.245/"
+}

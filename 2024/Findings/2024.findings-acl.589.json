@@ -1,0 +1,23 @@
+{
+  "title": "Recovering document annotations for sentence-level bitext",
+  "authors": [
+    "Rachel Wicks",
+    "Matt Post",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Italian",
+    "Polish",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.findings-acl.589",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.589/"
+}

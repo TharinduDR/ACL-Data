@@ -1,0 +1,24 @@
+{
+  "title": "SG-FSM: A Self-Guiding Zero-Shot Prompting Paradigm for Multi-Hop Question Answering Based on Finite State Machine",
+  "authors": [
+    "Xiaochen Wang",
+    "Junqing He",
+    "Liang Chen",
+    "Reza Haf",
+    "Zhe Yang",
+    "Yiru Wang",
+    "Xiangdi Meng",
+    "Kunhao Pan",
+    "Jiaxing Zhang",
+    "Zhifang Sui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-naacl.335",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.335/"
+}

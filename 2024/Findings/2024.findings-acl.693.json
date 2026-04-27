@@ -1,0 +1,25 @@
+{
+  "title": "Instruction Position Matters in Sequence Generation with Large Language Models",
+  "authors": [
+    "Yijin Liu",
+    "Xianfeng Zeng",
+    "Chenze Shao",
+    "Fandong Meng",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "French",
+    "Japanese",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-acl.693",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.693/"
+}

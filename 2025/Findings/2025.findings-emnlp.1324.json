@@ -1,0 +1,23 @@
+{
+  "title": "Exploring Context Strategies in LLMs for Discourse-Aware Machine Translation",
+  "authors": [
+    "Ritvik Choudhary",
+    "Rem Hida",
+    "Masaki Hamada",
+    "Hayato Futami",
+    "Toshiyuki Sekiya"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T05 Discourse and Pragmatics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.1324",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1324/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Multi-Modal Retrieval For Large Language Model Based Speech Recognition",
+  "authors": [
+    "Jari Kolehmainen",
+    "Aditya Gourav",
+    "Prashanth Gurunath Shivakumar",
+    "Yile Gu",
+    "Ankur Gandhe",
+    "Ariya Rastrow",
+    "Grant Strimel",
+    "Ivan Bulyko"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2024.findings-acl.262",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.262/"
+}

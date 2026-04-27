@@ -1,0 +1,23 @@
+{
+  "title": "CLongEval: A Chinese Benchmark for Evaluating Long-Context Large Language Models",
+  "authors": [
+    "Zexuan Qiu",
+    "Jingjing Li",
+    "Shijue Huang",
+    "Xiaoqi Jiao",
+    "Wanjun Zhong",
+    "Irwin King"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering",
+    "T11 Information Extraction",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-emnlp.230",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.230/"
+}

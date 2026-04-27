@@ -1,0 +1,21 @@
+{
+  "title": "Making Every Step Effective: Jailbreaking Large Vision-Language Models Through Hierarchical KV Equalization",
+  "authors": [
+    "Shuyang Hao",
+    "Yiwei Wang",
+    "Bryan Hooi",
+    "Jun Liu",
+    "Muhao Chen",
+    "Zi Huang",
+    "Yujun Cai"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.findings-emnlp.618",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.618/"
+}

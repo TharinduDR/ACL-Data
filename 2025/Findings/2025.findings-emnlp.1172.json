@@ -1,0 +1,21 @@
+{
+  "title": "LangProBe: a Language Programs Benchmark",
+  "authors": [
+    "Shangyin Tan",
+    "Lakshya A Agrawal",
+    "Arnav Singhvi",
+    "Liheng Lai",
+    "Michael J. Ryan",
+    "Dan Klein",
+    "Omar Khattab",
+    "Koushik Sen",
+    "Matei Zaharia"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.1172",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1172/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "CMoralEval: A Moral Evaluation Benchmark for Chinese Large Language Models",
+  "authors": [
+    "Linhao Yu",
+    "Yongqi Leng",
+    "Yufei Huang",
+    "Shang Wu",
+    "Haixin Liu",
+    "Xinmeng Ji",
+    "Jiahui Zhao",
+    "Jinwang Song",
+    "Tingting Cui",
+    "Xiaoqing Cheng",
+    "Tao Liu",
+    "Deyi Xiong"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2024.findings-acl.703",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.703/"
+}

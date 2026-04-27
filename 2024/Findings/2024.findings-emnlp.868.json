@@ -1,0 +1,21 @@
+{
+  "title": "Does Context Help Mitigate Gender Bias in Neural Machine Translation?",
+  "authors": [
+    "Harritxu Gete",
+    "Thierry Etchegoyhen"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Basque",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.868",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.868/"
+}

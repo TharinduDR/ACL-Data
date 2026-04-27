@@ -1,0 +1,23 @@
+{
+  "title": "PRDetect: Perturbation-Robust LLM-generated Text Detection Based on Syntax Tree",
+  "authors": [
+    "Xiang Li",
+    "Zhiyi Yin",
+    "Hexiang Tan",
+    "Shaoling Jing",
+    "Du Su",
+    "Yi Cheng",
+    "Huawei Shen",
+    "Fei Sun"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.findings-naacl.464",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.464/"
+}

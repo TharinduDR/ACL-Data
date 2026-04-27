@@ -1,0 +1,27 @@
+{
+  "title": "Self-Specialization: Uncovering Latent Expertise within Large Language Models",
+  "authors": [
+    "Junmo Kang",
+    "Hongyin Luo",
+    "Yada Zhu",
+    "Jacob Hansen",
+    "James Glass",
+    "David Cox",
+    "Alan Ritter",
+    "Rogerio Feris",
+    "Leonid Karlinsky"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T11 Information Extraction",
+    "T18 Text Summarization",
+    "T20 Sentiment Analysis",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.findings-acl.157",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.157/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "MULTI TAT: Benchmarking Multilingual Table-and-Text Question Answering",
+  "authors": [
+    "Xuanliang Zhang",
+    "Dingzirui Wang",
+    "Keyan Xu",
+    "Qingfu Zhu",
+    "Wanxiang Che"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Bengali",
+    "French",
+    "German",
+    "Japanese",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Telugu",
+    "Thai"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.findings-emnlp.33",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.33/"
+}

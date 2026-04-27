@@ -1,0 +1,20 @@
+{
+  "title": "H-LegalKI: A Hierarchical Legal Knowledge Integration Framework for Legal Community Question Answering",
+  "authors": [
+    "Yue Jiang",
+    "Ziyu Guan",
+    "Jie Zhao",
+    "Wei Zhao",
+    "Jiaqi Yang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2024.findings-emnlp.856",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.856/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "XMAD-Bench: Cross-Domain Multilingual Audio Deepfake Benchmark",
+  "authors": [
+    "Ioan-Paul Ciobanu",
+    "Andrei-Iulian Hiji",
+    "Nicolae-Catalin Ristea",
+    "Paul Irofti",
+    "Cristian Rusu",
+    "Radu Tudor Ionescu"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "German",
+    "Chinese",
+    "Romanian",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T28",
+    "T24",
+    "T08"
+  ],
+  "paper_id": "2026.findings-eacl.162",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.162/"
+}

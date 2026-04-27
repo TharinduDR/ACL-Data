@@ -1,0 +1,26 @@
+{
+  "title": "Skeleton-Guided-Translation: A Benchmarking Framework for Code Repository Translation with Fine-Grained Quality Evaluation",
+  "authors": [
+    "Xing Zhang",
+    "Jiaheng Wen",
+    "Fangkai Yang",
+    "Yu Kang",
+    "Pu Zhao",
+    "Junhao Wang",
+    "Maoquan Wang",
+    "Yufan Huang",
+    "Shengyu Fu",
+    "Elsie Nallipogu",
+    "Qingwei Lin",
+    "Yingnong Dang",
+    "Saravan Rajmohan",
+    "Dongmei Zhang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.986",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.986/"
+}

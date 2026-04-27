@@ -1,0 +1,25 @@
+{
+  "title": "GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors",
+  "authors": [
+    "Xinrong Chen",
+    "Hengyuan Zhang",
+    "Yingmin Qiu",
+    "Xiao Liang",
+    "Ziyue Li",
+    "Guanyu Wang",
+    "Weiping Li",
+    "Tong Mo",
+    "Hayden Kwok-Hay So",
+    "Ngai Wong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-emnlp.399",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.399/"
+}

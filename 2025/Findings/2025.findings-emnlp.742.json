@@ -1,0 +1,22 @@
+{
+  "title": "Evaluating Test-Time Scaling LLMs for Legal Reasoning: OpenAI o1, DeepSeek-R1, and Beyond",
+  "authors": [
+    "Yinghao Hu",
+    "Yaoyao Yu",
+    "Leilei Gan",
+    "Bin Wei",
+    "Kun Kuang",
+    "Fei Wu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.findings-emnlp.742",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.742/"
+}

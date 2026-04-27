@@ -1,0 +1,26 @@
+{
+  "title": "Unsupervised Parsing by Searching for Frequent Word Sequences among Sentences with Equivalent Predicate-Argument Structures",
+  "authors": [
+    "Junjie Chen",
+    "Xiangheng He",
+    "Danushka Bollegala",
+    "Yusuke Miyao"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "French",
+    "Hungarian",
+    "Swedish",
+    "Polish",
+    "Basque",
+    "Hebrew",
+    "Korean"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.findings-acl.225",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.225/"
+}

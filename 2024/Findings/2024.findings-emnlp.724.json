@@ -1,0 +1,18 @@
+{
+  "title": "Fast Matrix Multiplications for Lookup Table-Quantized LLMs",
+  "authors": [
+    "Han Guo",
+    "William Brandon",
+    "Radostin Cholakov",
+    "Jonathan Ragan-Kelley",
+    "Eric P. Xing",
+    "Yoon Kim"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14",
+    "T09"
+  ],
+  "paper_id": "2024.findings-emnlp.724",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.724/"
+}

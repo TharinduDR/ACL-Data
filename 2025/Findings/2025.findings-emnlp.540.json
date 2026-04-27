@@ -1,0 +1,23 @@
+{
+  "title": "MisinfoBench: A Multi-Dimensional Benchmark for Evaluating LLMs' Resilience to Misinformation",
+  "authors": [
+    "Ye Yang",
+    "Donghe Li",
+    "Zuchen Li",
+    "Fengyuan Li",
+    "Jingyi Liu",
+    "Li Sun",
+    "Qingyu Yang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2025.findings-emnlp.540",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.540/"
+}

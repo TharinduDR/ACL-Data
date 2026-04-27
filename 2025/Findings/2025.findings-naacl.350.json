@@ -1,0 +1,33 @@
+{
+  "title": "ProverbEval: Exploring LLM Evaluation Challenges for Low-resource Language Understanding",
+  "authors": [
+    "Israel Abebe Azime",
+    "Atnafu Lambebo Tonja",
+    "Tadesse Destaw Belay",
+    "Yonas Chanie",
+    "Bontu Fufa Balcha",
+    "Negasi Haile Abadi",
+    "Henok Biadglign Ademtew",
+    "Mulubrhan Abebe Nerea",
+    "Debela Desalegn Yadeta",
+    "Derartu Dagne Geremew",
+    "Assefa Atsbha tesfau",
+    "Philipp Slusallek",
+    "Thamar Solorio",
+    "Dietrich Klakow"
+  ],
+  "languages": [
+    "Amharic",
+    "Afaan Oromo",
+    "Tigrinya",
+    "Ge'ez",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.findings-naacl.350",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.350/"
+}

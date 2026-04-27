@@ -1,0 +1,18 @@
+{
+  "title": "Do Diacritics Matter? Evaluating the Impact of Arabic Diacritics on Tokenization and LLM Benchmarks",
+  "authors": [
+    "Go Inoue",
+    "Bashar Alhafni",
+    "Nizar Habash",
+    "Timothy Baldwin"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.findings-eacl.22",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.22/"
+}

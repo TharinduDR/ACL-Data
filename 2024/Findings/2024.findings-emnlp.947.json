@@ -1,0 +1,19 @@
+{
+  "title": "Gloss2Text: Sign Language Gloss translation using LLMs and Semantically Aware Label Smoothing",
+  "authors": [
+    "Pooya Fayyazsanavi",
+    "Antonios Anastasopoulos",
+    "Jana Košecká"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16",
+    "T17",
+    "T14"
+  ],
+  "paper_id": "2024.findings-emnlp.947",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.947/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Reinforcement Learning for Aligning Large Language Models Agents with Interactive Environments: Quantifying and Mitigating Prompt Overfitting",
+  "authors": [
+    "Mohamed Salim Aissi",
+    "Clement Romac",
+    "Thomas Carta",
+    "Sylvain Lamprier",
+    "Pierre-Yves Oudeyer",
+    "Olivier Sigaud",
+    "Laure Soulier",
+    "Nicolas Thome"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-naacl.390",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.390/"
+}

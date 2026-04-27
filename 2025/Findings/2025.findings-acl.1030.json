@@ -9,13 +9,11 @@
     "Zorik Gekhman",
     "Gal Yona"
   ],
-  "languages": [
-    "English"
-  ],
+  "languages": [],
   "research_areas": [
-    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T09 Inference and Reasoning"
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T10 Question Answering"
   ],
   "paper_id": "2025.findings-acl.1030",
   "acl_url": "https://aclanthology.org/2025.findings-acl.1030/"

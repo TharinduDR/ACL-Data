@@ -1,0 +1,18 @@
+{
+  "title": "Investigating Acceleration of LLaMA Inference by Enabling Intermediate Layer Decoding via Instruction Tuning with 'LITE'",
+  "authors": [
+    "Neeraj Varshney",
+    "Agneet Chatterjee",
+    "Mihir Parmar",
+    "Chitta Baral"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.findings-naacl.232",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.232/"
+}

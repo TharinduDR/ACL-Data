@@ -1,0 +1,23 @@
+{
+  "title": "Multi-Stage Balanced Distillation: Addressing Long-Tail Challenges in Sequence-Level Knowledge Distillation",
+  "authors": [
+    "Yuhang Zhou",
+    "Jing Zhu",
+    "Paiheng Xu",
+    "Xiaoyu Liu",
+    "Xiyao Wang",
+    "Danai Koutra",
+    "Wei Ai",
+    "Furong Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.findings-emnlp.190",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.190/"
+}

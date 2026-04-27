@@ -1,0 +1,21 @@
+{
+  "title": "Hardware-Aware Parallel Prompt Decoding for Memory-Efficient Acceleration of LLM Inference",
+  "authors": [
+    "Hao (Mark) Chen",
+    "Wayne Luk",
+    "Ka Fai Cedric Yiu",
+    "Rui Li",
+    "Konstantin Mishchenko",
+    "Stylianos I. Venieris",
+    "Hongxiang Fan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-emnlp.120",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.120/"
+}

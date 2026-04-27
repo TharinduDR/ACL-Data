@@ -1,0 +1,49 @@
+{
+  "title": "MAPLE: Multilingual Evaluation of Parameter Efficient Finetuning of Large Language Models",
+  "authors": [
+    "Divyanshu Aggarwal",
+    "Ashutosh Sathe",
+    "Ishaan Watts",
+    "Sunayana Sitaram"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Thai",
+    "Vietnamese",
+    "Afrikaans",
+    "Bengali",
+    "Chinese-Simplified",
+    "Dutch",
+    "Hindi",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Marathi",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Tamil",
+    "Telugu",
+    "Thai",
+    "Urdu",
+    "Vietnamese",
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.findings-acl.881",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.881/"
+}

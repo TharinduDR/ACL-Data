@@ -1,0 +1,22 @@
+{
+  "title": "SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation",
+  "authors": [
+    "Nobuhiro Ueda",
+    "Yuyang Dong",
+    "Krisztian Boros",
+    "Daiki Ito",
+    "Takuya Sera",
+    "Masafumi Oyamada"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2026.findings-eacl.82",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.82/"
+}

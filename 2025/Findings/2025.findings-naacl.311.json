@@ -1,0 +1,20 @@
+{
+  "title": "Chain-of-Rank: Enhancing Large Language Models for Domain-Specific RAG in Edge Device",
+  "authors": [
+    "Juntae Lee",
+    "Jihwan Bang",
+    "Seunghan Yang",
+    "Kyuhong Shim",
+    "Simyung Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-naacl.311",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.311/"
+}

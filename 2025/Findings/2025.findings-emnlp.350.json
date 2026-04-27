@@ -1,0 +1,25 @@
+{
+  "title": "MedCOD: Enhancing English-to-Spanish Medical Translation of Large Language Models Using Enriched Chain-of-Dictionary Framework",
+  "authors": [
+    "Md Shahidul Salim",
+    "Lian Fu",
+    "Arav Adikesh Ramakrishnan",
+    "Zonghai Yao",
+    "Hong Yu"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Portuguese",
+    "French",
+    "German",
+    "Italian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-emnlp.350",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.350/"
+}

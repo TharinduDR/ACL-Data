@@ -1,0 +1,20 @@
+{
+  "title": "Characterizing Positional Bias in Large Language Models: A Multi-Model Evaluation of Prompt Order Effects",
+  "authors": [
+    "Patrick Schilcher",
+    "Dominik Karasin",
+    "Michael Schöpf",
+    "Maisam Saleh",
+    "Antonela Tommasel",
+    "Markus Schedl"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.1124",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1124/"
+}

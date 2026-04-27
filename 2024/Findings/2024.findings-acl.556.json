@@ -1,0 +1,23 @@
+{
+  "title": "EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification",
+  "authors": [
+    "Huanhuan Ma",
+    "Weizhi Xu",
+    "Yifan Wei",
+    "Liuji Chen",
+    "Liang Wang",
+    "Qiang Liu",
+    "Shu Wu",
+    "Liang Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.findings-acl.556",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.556/"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Spoken Document Retrieval for an Unwritten Language: A Case Study on Gormati",
+  "authors": [
+    "Sanjay Booshanam",
+    "Kelly Chen",
+    "Ondrej Klejch",
+    "Thomas Reitmaier",
+    "Dani Kalarikalayil Raju",
+    "Electra Wallington",
+    "Nina Markl",
+    "Jennifer Pearson",
+    "Matt Jones",
+    "Simon Robinson",
+    "Peter Bell"
+  ],
+  "languages": [
+    "Gormati",
+    "Gujarati",
+    "Hindi",
+    "Marathi",
+    "Odia",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.findings-emnlp.1224",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1224/"
+}

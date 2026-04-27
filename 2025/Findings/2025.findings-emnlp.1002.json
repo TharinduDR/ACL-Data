@@ -1,0 +1,20 @@
+{
+  "title": "GLITTER: A Multi-Sentence, Multi-Reference Benchmark for Gender-Fair German Machine Translation",
+  "authors": [
+    "A Pranav",
+    "Janiča Hackenbuchner",
+    "Giuseppe Attanasio",
+    "Manuel Lardelli",
+    "Anne Lauscher"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.findings-emnlp.1002",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1002/"
+}

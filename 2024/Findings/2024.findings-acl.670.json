@@ -1,0 +1,35 @@
+{
+  "title": "Improving Low-Resource Machine Translation for Formosan Languages Using Bilingual Lexical Resources",
+  "authors": [
+    "Francis Zheng",
+    "Edison Marrese-Taylor",
+    "Yutaka Matsuo"
+  ],
+  "languages": [
+    "Chinese",
+    "Amis",
+    "Atayal",
+    "Bunun",
+    "Kanakanavu",
+    "Kavalan",
+    "Paiwan",
+    "Puyuma",
+    "Rukai",
+    "Saaroa",
+    "Saisiyat",
+    "Sakizaya",
+    "Seediq",
+    "Thao",
+    "Truku",
+    "Tsou",
+    "Yami",
+    "Spanish",
+    "Nahuatl"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.findings-acl.670",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.670/"
+}

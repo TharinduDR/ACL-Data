@@ -1,0 +1,30 @@
+{
+  "title": "Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks",
+  "authors": [
+    "Samuele Poppi",
+    "Zheng-Xin Yong",
+    "Yifei He",
+    "Bobbie Chern",
+    "Han Zhao",
+    "Aobo Yang",
+    "Jianfeng Chi"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Chinese",
+    "English",
+    "French",
+    "Hindi",
+    "Italian",
+    "Russian",
+    "Tagalog"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-naacl.126",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.126/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "PagedEviction: Structured Block-wise KV Cache Pruning for Efficient Large Language Model Inference",
+  "authors": [
+    "Krishna Teja Chitty-Venkata",
+    "Jie Ye",
+    "Siddhisanket Raskar",
+    "Xian-He Sun",
+    "Anthony Kouglas",
+    "Murali Emani",
+    "Venkatram Vishwanath",
+    "Bogdan Nicolae"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.findings-eacl.168",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.168/"
+}

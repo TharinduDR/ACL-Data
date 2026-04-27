@@ -1,0 +1,19 @@
+{
+  "title": "Token-Wise Kernels (TWiKers) for Vicinity-Aware Attention in Transformers",
+  "authors": [
+    "Kuangdai Leng",
+    "Jia Bi",
+    "Jaehoon Cha",
+    "Samuel Pinilla"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2026.findings-eacl.306",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.306/"
+}

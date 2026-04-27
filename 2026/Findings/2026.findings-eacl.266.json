@@ -1,0 +1,27 @@
+{
+  "title": "Multilingual Self-Taught Faithfulness Evaluators",
+  "authors": [
+    "Carlo Alfano",
+    "Aymen Al Marjani",
+    "Zeno Jonke",
+    "Amin Mantrach",
+    "Saab Mansour",
+    "Marcello Federico"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Hindi",
+    "Spanish",
+    "Arabic",
+    "Italian"
+  ],
+  "research_areas": [
+    "T18",
+    "T08",
+    "T14"
+  ],
+  "paper_id": "2026.findings-eacl.266",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.266/"
+}

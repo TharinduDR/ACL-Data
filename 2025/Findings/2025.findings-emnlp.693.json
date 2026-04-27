@@ -1,0 +1,19 @@
+{
+  "title": "DPF-CM: A Data Processing Framework with Privacy-Preserving Vector Databases for Chinese Medical LLMs Training and Deployment",
+  "authors": [
+    "Wei Huang",
+    "Anda Cheng",
+    "Zhao Zhang",
+    "Yinggui Wang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.findings-emnlp.693",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.693/"
+}

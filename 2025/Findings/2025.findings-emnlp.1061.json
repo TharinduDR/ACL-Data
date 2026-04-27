@@ -1,0 +1,51 @@
+{
+  "title": "MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language",
+  "authors": [
+    "Seyoung Song",
+    "Seogyeong Jeong",
+    "Eunsu Kim",
+    "Jiho Jin",
+    "Dongkwan Kim",
+    "Jamin Shin",
+    "Alice Oh"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Portuguese",
+    "Spanish",
+    "Bengali",
+    "Greek",
+    "Hebrew",
+    "Indonesian",
+    "Korean",
+    "Lithuanian",
+    "Malay",
+    "Romanian",
+    "Thai",
+    "Ukrainian",
+    "Amharic",
+    "Hausa",
+    "Igbo",
+    "Kyrgyz",
+    "Nepali",
+    "Sinhala",
+    "Somali",
+    "Swahili",
+    "Telugu",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.findings-emnlp.1061",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1061/"
+}

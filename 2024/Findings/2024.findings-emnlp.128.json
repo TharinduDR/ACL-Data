@@ -1,0 +1,25 @@
+{
+  "title": "Improving Multilingual Instruction Finetuning via Linguistically Natural and Diverse Datasets",
+  "authors": [
+    "Sathish Reddy Indurthi",
+    "Wenxuan Zhou",
+    "Shamil Chollampatt",
+    "Ravi Agrawal",
+    "Kaiqiang Song",
+    "Lingxiao Zhao",
+    "Chenguang Zhu"
+  ],
+  "languages": [
+    "Telugu",
+    "Hindi",
+    "Japanese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2024.findings-emnlp.128",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.128/"
+}

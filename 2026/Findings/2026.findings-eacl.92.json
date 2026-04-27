@@ -1,0 +1,22 @@
+{
+  "title": "Breaking the Illusion of Reasoning in Polish LLMs: Quality over Quantity of Thought",
+  "authors": [
+    "Dzmitry Pihulski",
+    "Mikołaj Langner",
+    "Jan Eliasz",
+    "Przemysław Kazienko",
+    "Jan Kocoń",
+    "Teddy Ferdinan"
+  ],
+  "languages": [
+    "Polish",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2026.findings-eacl.92",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.92/"
+}

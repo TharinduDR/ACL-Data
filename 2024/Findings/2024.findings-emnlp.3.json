@@ -1,0 +1,24 @@
+{
+  "title": "Should Cross-Lingual AMR Parsing go Meta? An Empirical Assessment of Meta-Learning and Joint Learning AMR Parsing",
+  "authors": [
+    "Jeongwoo Kang",
+    "Maximin Coavoux",
+    "Cédric Lopez",
+    "Didier Schwab"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "Persian",
+    "Croatian",
+    "Korean"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2024.findings-emnlp.3",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.3/"
+}

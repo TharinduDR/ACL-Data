@@ -1,0 +1,20 @@
+{
+  "title": "MorphNLI: A Stepwise Approach to Natural Language Inference Using Text Morphing",
+  "authors": [
+    "Vlad-Andrei Negru",
+    "Robert Vacareanu",
+    "Camelia Lemnaru",
+    "Mihai Surdeanu",
+    "Rodica Potolea"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-naacl.385",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.385/"
+}

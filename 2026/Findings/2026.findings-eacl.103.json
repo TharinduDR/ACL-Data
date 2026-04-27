@@ -1,0 +1,19 @@
+{
+  "title": "Detection of Adversarial Prompts with Model Predictive Entropy",
+  "authors": [
+    "Franziska Rubenbauer",
+    "Sebastian Steindl",
+    "Patrick Levi",
+    "Daniel Loebenberger",
+    "Ulrich Schäfer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.findings-eacl.103",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.103/"
+}

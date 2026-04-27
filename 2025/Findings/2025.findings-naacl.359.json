@@ -1,0 +1,25 @@
+{
+  "title": "ARISE: Iterative Rule Induction and Synthetic Data Generation for Text Classification",
+  "authors": [
+    "Yaswanth M",
+    "Vaibhav Singh",
+    "Ayush Maheshwari",
+    "Amrith Krishna",
+    "Ganesh Ramakrishnan"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Hindi",
+    "Japanese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.findings-naacl.359",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.359/"
+}

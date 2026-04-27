@@ -1,0 +1,23 @@
+{
+  "title": "ScholarBench: A Bilingual Benchmark for Abstraction, Comprehension, and Reasoning Evaluation in Academic Contexts",
+  "authors": [
+    "Dongwon Noh",
+    "Donghyeok Koh",
+    "Junghun Yuk",
+    "Gyuwan Kim",
+    "Jaeyong Lee",
+    "KyungTae Lim",
+    "Cheoneum Park"
+  ],
+  "languages": [
+    "English",
+    "Korean"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-emnlp.465",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.465/"
+}

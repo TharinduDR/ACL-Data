@@ -1,0 +1,19 @@
+{
+  "title": "Document-level Causal Relation Extraction with Knowledge-guided Binary Question Answering",
+  "authors": [
+    "Zimu Wang",
+    "Lei Xia",
+    "Wei Wang",
+    "Xinya Du"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.findings-emnlp.986",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.986/"
+}

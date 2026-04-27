@@ -1,0 +1,28 @@
+{
+  "title": "CultureSynth: A Hierarchical Taxonomy-Guided and Retrieval-Augmented Framework for Cultural Question-Answer Synthesis",
+  "authors": [
+    "Xinyu Zhang",
+    "Pei Zhang",
+    "Shuang Luo",
+    "Jialong Tang",
+    "Yu Wan",
+    "Baosong Yang",
+    "Fei Huang"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "French",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2025.findings-emnlp.552",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.552/"
+}

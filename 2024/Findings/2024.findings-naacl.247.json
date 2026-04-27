@@ -1,0 +1,39 @@
+{
+  "title": "Tokenizer Choice For LLM Training: Negligible or Crucial?",
+  "authors": [
+    "Mehdi Ali",
+    "Michael Fromm",
+    "Klaudia Thellmann",
+    "Richard Rutmann",
+    "Max Lübbing",
+    "Johannes Leveling",
+    "Katrin Klug",
+    "Jan Ebert",
+    "Niclas Doll",
+    "Jasper Schulze Buschhoff",
+    "Charvi Jain",
+    "Alexander Arno Weber",
+    "Lena Jurkschat",
+    "Hammam Abdelwahab",
+    "Chelsea John",
+    "Pedro Ortiz Suarez",
+    "Malte Ostendorff",
+    "Samuel Weinbach",
+    "Rafet Sifa",
+    "Stefan Kesselheim",
+    "Nicolas Flores-Herr"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-naacl.247",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.247/"
+}

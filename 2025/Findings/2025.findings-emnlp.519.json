@@ -1,0 +1,29 @@
+{
+  "title": "Demystifying Multilingual Reasoning in Process Reward Modeling",
+  "authors": [
+    "Weixuan Wang",
+    "Minghao Wu",
+    "Barry Haddow",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Russian",
+    "Swahili",
+    "Chinese",
+    "Bengali",
+    "Japanese",
+    "Thai",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2025.findings-emnlp.519",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.519/"
+}

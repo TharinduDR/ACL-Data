@@ -1,0 +1,20 @@
+{
+  "title": "Proxy Barrier: A Hidden Repeater Layer Defense Against System Prompt Leakage and Jailbreaking",
+  "authors": [
+    "Pedro S. F. B. Ribeiro",
+    "Iago A. Brito",
+    "Fernanda B. Färber",
+    "Julia S. Dollis",
+    "Rafael T. Sousa",
+    "Arlindo R. Galvão Filho"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.528",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.528/"
+}

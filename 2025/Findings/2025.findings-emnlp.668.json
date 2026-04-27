@@ -1,0 +1,26 @@
+{
+  "title": "Speculative Decoding for Multi-Sample Inference",
+  "authors": [
+    "Yiwei Li",
+    "Jiayi Shi",
+    "Shaoxiong Feng",
+    "Peiwen Yuan",
+    "Xinglin Wang",
+    "Yueqi Zhang",
+    "Ji Zhang",
+    "Chuyi Tan",
+    "Boyuan Pan",
+    "Yao Hu",
+    "Kan Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-emnlp.668",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.668/"
+}

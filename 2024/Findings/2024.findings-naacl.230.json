@@ -1,0 +1,19 @@
+{
+  "title": "FIRE: A Dataset for Financial Relation Extraction",
+  "authors": [
+    "Hassan Hamad",
+    "Abhinav Thakur",
+    "Sujith Pulikodan",
+    "Nijil Kolleri",
+    "Keith M. Chugg"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.findings-naacl.230",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.230/"
+}

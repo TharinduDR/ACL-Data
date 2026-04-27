@@ -1,0 +1,21 @@
+{
+  "title": "FrameEOL: Semantic Frame Induction using Causal Language Models",
+  "authors": [
+    "Chihiro Yano",
+    "Kosuke Yamada",
+    "Hayato Tsukagoshi",
+    "Ryohei Sasano",
+    "Koichi Takeda"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.623",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.623/"
+}

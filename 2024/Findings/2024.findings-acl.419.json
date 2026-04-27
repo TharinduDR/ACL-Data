@@ -1,0 +1,23 @@
+{
+  "title": "LEIA: Facilitating Cross-lingual Knowledge Transfer in Language Models with Entity-based Data Augmentation",
+  "authors": [
+    "Ikuya Yamada",
+    "Ryokan Ri"
+  ],
+  "languages": [
+    "Arabic",
+    "Spanish",
+    "Hindi",
+    "Japanese",
+    "Russian",
+    "Swahili",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2024.findings-acl.419",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.419/"
+}

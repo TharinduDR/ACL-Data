@@ -6,12 +6,11 @@
     "Jingun Kwon",
     "Eun-Sun Cho"
   ],
-  "languages": [
-    "English"
-  ],
+  "languages": [],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T27 Code generation and programming languages"
+    "T14",
+    "T15",
+    "T27"
   ],
   "paper_id": "2025.findings-acl.1127",
   "acl_url": "https://aclanthology.org/2025.findings-acl.1127/"

@@ -1,0 +1,18 @@
+{
+  "title": "Evaluating Fairness in Large Vision-Language Models Across Diverse Demographic Attributes and Prompts",
+  "authors": [
+    "Xuyang Wu",
+    "Yuan Wang",
+    "Hsin-Tai Wu",
+    "Zhiqiang Tao",
+    "Yi Fang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.1251",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1251/"
+}

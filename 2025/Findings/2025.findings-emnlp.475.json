@@ -1,0 +1,22 @@
+{
+  "title": "CLEAR: A Framework Enabling Large Language Models to Discern Confusing Legal Paragraphs",
+  "authors": [
+    "Qi Xu",
+    "Qian Liu",
+    "Hang Yu",
+    "Hao Fei",
+    "Shuhao Guan",
+    "Xiao Wei"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-emnlp.475",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.475/"
+}

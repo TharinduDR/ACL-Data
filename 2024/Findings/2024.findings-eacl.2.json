@@ -1,0 +1,25 @@
+{
+  "title": "GPTs Are Multilingual Annotators for Sequence Generation Tasks",
+  "authors": [
+    "Juhwan Choi",
+    "Eunju Lee",
+    "Kyohoon Jin",
+    "Youngbin Kim"
+  ],
+  "languages": [
+    "English",
+    "Latvian",
+    "Estonian",
+    "Finnish",
+    "French",
+    "Portuguese",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.findings-eacl.2",
+  "acl_url": "https://aclanthology.org/2024.findings-eacl.2/"
+}

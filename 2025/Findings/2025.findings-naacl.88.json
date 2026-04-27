@@ -1,0 +1,26 @@
+{
+  "title": "MAiDE-up: Multilingual Deception Detection of AI-generated Hotel Reviews",
+  "authors": [
+    "Oana Ignat",
+    "Xiaomeng Xu",
+    "Rada Mihalcea"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Korean",
+    "Romanian",
+    "Russian",
+    "Spanish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T28",
+    "T14"
+  ],
+  "paper_id": "2025.findings-naacl.88",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.88/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "MedOdyssey: A Medical Domain Benchmark for Long Context Evaluation Up to 200K Tokens",
+  "authors": [
+    "Yongqi Fan",
+    "Hongli Sun",
+    "Kui Xue",
+    "Xiaofan Zhang",
+    "Shaoting Zhang",
+    "Tong Ruan"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-naacl.3",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.3/"
+}

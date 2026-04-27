@@ -1,0 +1,21 @@
+{
+  "title": "Inference Scaling for Bridging Retrieval and Augmented Generation",
+  "authors": [
+    "Youngwon Lee",
+    "Seung-won Hwang",
+    "Daniel Campos",
+    "Filip Graliński",
+    "Zhewei Yao",
+    "Yuxiong He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-naacl.409",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.409/"
+}

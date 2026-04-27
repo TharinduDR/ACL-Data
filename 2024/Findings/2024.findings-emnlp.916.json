@@ -1,0 +1,22 @@
+{
+  "title": "To Ask LLMs about English Grammaticality, Prompt Them in a Different Language",
+  "authors": [
+    "Shabnam Behzad",
+    "Amir Zeldes",
+    "Nathan Schneider"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Korean",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T29",
+    "T14",
+    "T10"
+  ],
+  "paper_id": "2024.findings-emnlp.916",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.916/"
+}

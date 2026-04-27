@@ -1,0 +1,18 @@
+{
+  "title": "MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning",
+  "authors": [
+    "Jingfan Zhang",
+    "Yi Zhao",
+    "Dan Chen",
+    "Xing Tian",
+    "Huanran Zheng",
+    "Wei Zhu"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.findings-emnlp.994",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.994/"
+}

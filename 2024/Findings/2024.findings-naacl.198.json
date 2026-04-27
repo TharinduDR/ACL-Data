@@ -1,0 +1,23 @@
+{
+  "title": "COMMIT: Code-Mixing English-Centric Large Language Model for Multilingual Instruction Tuning",
+  "authors": [
+    "Jaeseong Lee",
+    "Yeonjoon Jung",
+    "Seung-won Hwang"
+  ],
+  "languages": [
+    "English",
+    "Greek",
+    "Hindi",
+    "Thai",
+    "Bengali",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T10",
+    "T14",
+    "T16"
+  ],
+  "paper_id": "2024.findings-naacl.198",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.198/"
+}

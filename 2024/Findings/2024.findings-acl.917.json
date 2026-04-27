@@ -1,0 +1,21 @@
+{
+  "title": "Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation",
+  "authors": [
+    "Min-Jae Hwang",
+    "Ilia Kulikov",
+    "Benjamin Peloquin",
+    "Hongyu Gong",
+    "Peng-Jen Chen",
+    "Ann Lee"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.findings-acl.917",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.917/"
+}

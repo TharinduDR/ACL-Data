@@ -1,0 +1,26 @@
+{
+  "title": "Thank You, Stingray: Multilingual Large Language Models Can Not (Yet) Disambiguate Cross-Lingual Word Senses",
+  "authors": [
+    "Samuel Cahyawijaya",
+    "Ruochen Zhang",
+    "Holy Lovenia",
+    "Jan Christian Blaise Cruz",
+    "Elisa Gilbert",
+    "Hiroki Nomoto",
+    "Alham Fikri Aji"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Indonesian",
+    "Malay",
+    "Tagalog",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.178",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.178/"
+}

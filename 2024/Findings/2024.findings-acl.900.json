@@ -1,0 +1,20 @@
+{
+  "title": "DBQR-QA: A Question Answering Dataset on a Hybrid of Database Querying and Reasoning",
+  "authors": [
+    "Rungsiman Nararatwong",
+    "Chung-Chi Chen",
+    "Natthawut Kertkeidkachorn",
+    "Hiroya Takamura",
+    "Ryutaro Ichise"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.900",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.900/"
+}

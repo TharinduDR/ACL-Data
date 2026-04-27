@@ -1,0 +1,20 @@
+{
+  "title": "Open-DeBias: Toward Mitigating Open-Set Bias in Language Models",
+  "authors": [
+    "Arti Rani",
+    "Shweta Singh",
+    "Nihar Ranjan Sahoo",
+    "Gaurav Kumar Nayak"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.1364",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1364/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "NL2LOGIC: AST-Guided Translation of Natural Language into First-Order Logic with Large Language Models",
+  "authors": [
+    "Rizky Ramadhana Putra",
+    "Raihan Sultan Pasha Basuki",
+    "Yutong Cheng",
+    "Peng Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2026.findings-eacl.317",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.317/"
+}

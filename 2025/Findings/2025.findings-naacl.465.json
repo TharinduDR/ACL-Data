@@ -1,0 +1,19 @@
+{
+  "title": "Enabling Natural Zero-Shot Prompting on Encoder Models via Statement-Tuning",
+  "authors": [
+    "Ahmed Elshabrawy",
+    "Yongxin Huang",
+    "Iryna Gurevych",
+    "Alham Fikri Aji"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.465",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.465/"
+}

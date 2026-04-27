@@ -1,0 +1,25 @@
+{
+  "title": "TrendSim: Simulating Trending Topics in Social Media Under Poisoning Attacks with LLM-based Multi-agent System",
+  "authors": [
+    "Zeyu Zhang",
+    "Jianxun Lian",
+    "Chen Ma",
+    "Yaning Qu",
+    "Ye Luo",
+    "Lei Wang",
+    "Rui Li",
+    "Xu Chen",
+    "Yankai Lin",
+    "Le Wu",
+    "Xing Xie",
+    "Ji-Rong Wen"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-naacl.160",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.160/"
+}

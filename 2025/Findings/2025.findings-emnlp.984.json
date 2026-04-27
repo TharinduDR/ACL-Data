@@ -1,0 +1,22 @@
+{
+  "title": "No Free Lunch: Retrieval-Augmented Generation Undermines Fairness in LLMs, Even for Vigilant Users",
+  "authors": [
+    "Mengxuan Hu",
+    "Hongyi Wu",
+    "Ronghang Zhu",
+    "Zihan Guan",
+    "Dongliang Guo",
+    "Daiqing Qi",
+    "Sheng Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-emnlp.984",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.984/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "The Promises and Pitfalls of LLM Annotations in Dataset Labeling: a Case Study on Media Bias Detection",
+  "authors": [
+    "Tomáš Horych",
+    "Christoph Mandl",
+    "Terry Ruas",
+    "André Greiner-Petter",
+    "Bela Gipp",
+    "Akiko Aizawa",
+    "Timo Spinde"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.findings-naacl.75",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.75/"
+}

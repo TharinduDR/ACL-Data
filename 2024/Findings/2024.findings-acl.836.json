@@ -1,0 +1,30 @@
+{
+  "title": "Mitigating Data Scarcity in Semantic Parsing across Languages: the Multilingual Semantic Layer and its Dataset",
+  "authors": [
+    "Abelardo Carlos Martínez Lorenzo",
+    "Pere-Luís Huguet Cabot",
+    "Karim Ghonim",
+    "Lu Xu",
+    "Hee-Soo Choi",
+    "Alberte Fernández Castro",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish",
+    "Catalan",
+    "Korean",
+    "Chinese",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.findings-acl.836",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.836/"
+}

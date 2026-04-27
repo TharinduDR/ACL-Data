@@ -1,0 +1,19 @@
+{
+  "title": "Change Is the Only Constant: Dynamic LLM Slicing based on Layer Redundancy",
+  "authors": [
+    "Razvan-Gabriel Dumitru",
+    "Paul-Ioan Clotan",
+    "Vikas Yadav",
+    "Darius Peteleaza",
+    "Mihai Surdeanu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.579",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.579/"
+}

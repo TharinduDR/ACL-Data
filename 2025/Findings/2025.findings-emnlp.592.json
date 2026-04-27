@@ -1,0 +1,19 @@
+{
+  "title": "Breaking the Attention Trap in Code LLMs: A Rejection Sampling Approach to Enhance Code Execution Prediction",
+  "authors": [
+    "Xingcheng Ruan",
+    "Haoxiang Geng",
+    "Yunhui Xia",
+    "Bingran Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.592",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.592/"
+}

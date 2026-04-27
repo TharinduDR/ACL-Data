@@ -1,0 +1,27 @@
+{
+  "title": "InfiMM: Advancing Multimodal Understanding with an Open-Sourced Visual Language Model",
+  "authors": [
+    "Haogeng Liu",
+    "Quanzeng You",
+    "Yiqi Wang",
+    "Xiaotian Han",
+    "Bohan Zhai",
+    "Yongfei Liu",
+    "Wentao Chen",
+    "Yiren Jian",
+    "Yunzhe Tao",
+    "Jianbo Yuan",
+    "Ran He",
+    "Hongxia Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.findings-acl.27",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.27/"
+}

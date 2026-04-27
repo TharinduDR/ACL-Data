@@ -1,0 +1,40 @@
+{
+  "title": "Mark My Words: A Robust Multilingual Model for Punctuation in Text and Speech Transcripts",
+  "authors": [
+    "Sidharth Pulipaka",
+    "Ashwin Sankar",
+    "Raj Dabre"
+  ],
+  "languages": [
+    "English",
+    "Assamese",
+    "Bengali",
+    "Bodo",
+    "Dogri",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Kashmiri",
+    "Konkani",
+    "Maithili",
+    "Malayalam",
+    "Manipuri",
+    "Marathi",
+    "Nepali",
+    "Odia",
+    "Punjabi",
+    "Sanskrit",
+    "Santali",
+    "Sindhi",
+    "Tamil",
+    "Telugu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-ijcnlp.110",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.110/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Safety in Large Reasoning Models: A Survey",
+  "authors": [
+    "Cheng Wang",
+    "Yue Liu",
+    "Baolong Bi",
+    "Duzhen Zhang",
+    "Zhong-Zhi Li",
+    "Yingwei Ma",
+    "Yufei He",
+    "Shengju Yu",
+    "Xinfeng Li",
+    "Junfeng Fang",
+    "Jiaheng Zhang",
+    "Bryan Hooi"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-emnlp.185",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.185/"
+}

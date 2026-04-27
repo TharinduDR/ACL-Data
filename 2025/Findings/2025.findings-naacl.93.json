@@ -1,0 +1,19 @@
+{
+  "title": "BioEL: A Comprehensive Python Package for Biomedical Entity Linking",
+  "authors": [
+    "Prasanth Bathala",
+    "Christophe Ye",
+    "Batuhan Nursal",
+    "Shubham Lohiya",
+    "David Kartchner",
+    "Cassie S. Mitchell"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-naacl.93",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.93/"
+}

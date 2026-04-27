@@ -1,0 +1,42 @@
+{
+  "title": "Data-Centric AI in the Age of Large Language Models",
+  "authors": [
+    "Xinyi Xu",
+    "Zhaoxuan Wu",
+    "Rui Qiao",
+    "Arun Verma",
+    "Yao Shu",
+    "Jingtian Wang",
+    "Xinyuan Niu",
+    "Zhenfeng He",
+    "Jiangwei Chen",
+    "Zijian Zhou",
+    "Gregory Kang Ruey Lau",
+    "Hieu Dao",
+    "Lucas Agussurja",
+    "Rachael Hwee Ling Sim",
+    "Xiaoqiang Lin",
+    "Wenyang Hu",
+    "Zhongxiang Dai",
+    "Pang Wei Koh",
+    "Bryan Kian Hsiang Low"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.findings-emnlp.695",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.695/"
+}

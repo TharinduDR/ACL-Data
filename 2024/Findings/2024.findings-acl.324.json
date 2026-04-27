@@ -1,0 +1,21 @@
+{
+  "title": "Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL Generation",
+  "authors": [
+    "Ge Qu",
+    "Jinyang Li",
+    "Bowen Li",
+    "Bowen Qin",
+    "Chen Hao Ma",
+    "Reynold Cheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T27 Code generation and programming languages",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.findings-acl.324",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.324/"
+}

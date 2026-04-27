@@ -1,0 +1,19 @@
+{
+  "title": "Analyzing Context Contributions in LLM-based Machine Translation",
+  "authors": [
+    "Emmanouil Zaranis",
+    "Nuno M. Guerreiro",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.findings-emnlp.876",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.876/"
+}

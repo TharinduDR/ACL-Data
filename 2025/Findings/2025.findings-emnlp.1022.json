@@ -1,0 +1,18 @@
+{
+  "title": "UniRAG: A Unified RAG Framework for Knowledge-Intensive Queries with Decomposition, Break-Down Reasoning, and Iterative Rewriting",
+  "authors": [
+    "Gun Il Kim",
+    "Jong Wook Kim",
+    "Beakcheol Jang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10",
+    "T11",
+    "T09"
+  ],
+  "paper_id": "2025.findings-emnlp.1022",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1022/"
+}

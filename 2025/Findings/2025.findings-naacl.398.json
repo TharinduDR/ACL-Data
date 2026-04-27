@@ -1,0 +1,21 @@
+{
+  "title": "Women do not have heart attacks! Gender Biases in Automatically Generated Clinical Cases in French",
+  "authors": [
+    "Fanny Ducel",
+    "Nicolas Hiebel",
+    "Olivier Ferret",
+    "Karën Fort",
+    "Aurélie Névéol"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.findings-naacl.398",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.398/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "How Do Multilingual Language Models Remember Facts?",
+  "authors": [
+    "Constanza Fierro",
+    "Negar Foroutan",
+    "Desmond Elliott",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Vietnamese",
+    "Turkish",
+    "Russian",
+    "Ukrainian",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-acl.827",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.827/"
+}

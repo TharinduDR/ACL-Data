@@ -1,0 +1,32 @@
+{
+  "title": "Beneath the Surface of Consistency: Exploring Cross-lingual Knowledge Representation Sharing in LLMs",
+  "authors": [
+    "Maxim Ifergan",
+    "Leshem Choshen",
+    "Roee Aharoni",
+    "Idan Szpektor",
+    "Omri Abend"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Spanish",
+    "Russian",
+    "Ukrainian",
+    "Bulgarian",
+    "Hindi",
+    "Bengali",
+    "Chinese",
+    "Japanese",
+    "Hebrew",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T13",
+    "T14",
+    "T08"
+  ],
+  "paper_id": "2025.findings-naacl.475",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.475/"
+}

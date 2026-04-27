@@ -1,0 +1,31 @@
+{
+  "title": "LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation",
+  "authors": [
+    "Ming Zhang",
+    "Yujiong Shen",
+    "Zelin Li",
+    "Huayu Sha",
+    "Binze Hu",
+    "Yuhui Wang",
+    "Chenhao Huang",
+    "Shichun Liu",
+    "Jingqi Tong",
+    "Changhao Jiang",
+    "Mingxu Chai",
+    "Zhiheng Xi",
+    "Shihan Dou",
+    "Tao Gui",
+    "Qi Zhang",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-emnlp.263",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.263/"
+}

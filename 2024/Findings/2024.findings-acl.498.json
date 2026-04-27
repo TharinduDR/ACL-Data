@@ -1,0 +1,30 @@
+{
+  "title": "Question Translation Training for Better Multilingual Reasoning",
+  "authors": [
+    "Wenhao Zhu",
+    "Shujian Huang",
+    "Fei Yuan",
+    "Shuaijie She",
+    "Jiajun Chen",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Japanese",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Thai",
+    "Bengali"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.findings-acl.498",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.498/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Benchmarking Contextual and Paralinguistic Reasoning in Speech-LLMs: A Case Study with In-the-Wild Data",
+  "authors": [
+    "Qiongqiong Wang",
+    "Hardik B. Sailor",
+    "Tianchi Liu",
+    "Wenyu Zhang",
+    "Muhammad Huzaiyah",
+    "Nattadaporn Lertcheva",
+    "Shuo Sun",
+    "Nancy F. Chen",
+    "Jinyang Wu",
+    "AiTi Aw"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-emnlp.760",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.760/"
+}

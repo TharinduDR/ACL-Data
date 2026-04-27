@@ -1,0 +1,23 @@
+{
+  "title": "LlamaLens: Specialized Multilingual LLM for Analyzing News and Social Media Content",
+  "authors": [
+    "Mohamed Bayan Kmainsi",
+    "Ali Ezzat Shahroor",
+    "Maram Hasanain",
+    "Sahinur Rahman Laskar",
+    "Naemul Hassan",
+    "Firoj Alam"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.findings-naacl.313",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.313/"
+}

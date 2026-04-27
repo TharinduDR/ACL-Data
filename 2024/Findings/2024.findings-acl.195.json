@@ -1,0 +1,20 @@
+{
+  "title": "PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference",
+  "authors": [
+    "Dongjie Yang",
+    "Xiaodong Han",
+    "Yan Gao",
+    "Yao Hu",
+    "Shilin Zhang",
+    "Hai Zhao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14",
+    "T09"
+  ],
+  "paper_id": "2024.findings-acl.195",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.195/"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "AfroXLMR-Social: Adapting Pre-trained Language Models for African Languages Social Media Text",
+  "authors": [
+    "Tadesse Destaw Belay",
+    "Israel Abebe Azime",
+    "Ibrahim Said Ahmad",
+    "David Ifeoluwa Adelani",
+    "Idris Abdulmumin",
+    "Abinew Ali Ayele",
+    "Shamsuddeen Hassan Muhammad",
+    "Seid Muhie Yimam"
+  ],
+  "languages": [
+    "Amharic",
+    "Arabic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Oromo",
+    "Somali",
+    "Swahili",
+    "Tigrinya",
+    "Twi",
+    "Yoruba",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.findings-emnlp.842",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.842/"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Are Modern Neural ASR Architectures Robust for Polysynthetic Languages?",
+  "authors": [
+    "Éric Le Ferrand",
+    "Zoey Liu",
+    "Antti Arppe",
+    "Emily Prud’hommeaux"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Mandarin",
+    "French",
+    "Russian",
+    "Sanskrit",
+    "Turkish",
+    "Kanakanavu",
+    "Rukai",
+    "Hupa",
+    "Enenlhet",
+    "Kunwok",
+    "Plains Cree",
+    "St Lawrence Yupik",
+    "Namakura",
+    "East Uvean",
+    "Bambara"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.findings-emnlp.166",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.166/"
+}

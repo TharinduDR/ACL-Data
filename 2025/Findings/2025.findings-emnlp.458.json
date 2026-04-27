@@ -1,0 +1,21 @@
+{
+  "title": "The Illusion of Randomness: How LLMs Fail to Emulate Stochastic Decision-Making in Rock-Paper-Scissors Games?",
+  "authors": [
+    "Zihao Guo",
+    "Hongtao Lv",
+    "Chaoli Zhang",
+    "Yibowen Zhao",
+    "Yixin Zhang",
+    "Lizhen Cui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-emnlp.458",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.458/"
+}

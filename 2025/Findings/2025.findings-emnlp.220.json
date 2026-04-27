@@ -1,0 +1,20 @@
+{
+  "title": "ParetoRAG: Leveraging Sentence-Context Attention for Robust and Efficient Retrieval-Augmented Generation",
+  "authors": [
+    "Ruobing Yao",
+    "Yifei Zhang",
+    "Shuang Song",
+    "Yuhan Liu",
+    "Neng Gao",
+    "Chenyang Tu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-emnlp.220",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.220/"
+}

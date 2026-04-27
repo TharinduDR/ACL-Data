@@ -1,0 +1,23 @@
+{
+  "title": "DeepSieve: Information Sieving via LLM-as-a-Knowledge-Router",
+  "authors": [
+    "Minghao Guo",
+    "Qingcheng Zeng",
+    "Xujiang Zhao",
+    "Yanchi Liu",
+    "Wenchao Yu",
+    "Mengnan Du",
+    "Haifeng Chen",
+    "Wei Cheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2026.findings-eacl.160",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.160/"
+}

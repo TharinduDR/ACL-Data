@@ -1,0 +1,19 @@
+{
+  "title": "Preserving Pre-trained Representation Space: On Effectiveness of Prefix-tuning for Large Multi-modal Models",
+  "authors": [
+    "Donghoon Kim",
+    "Gusang Lee",
+    "Kyuhong Shim",
+    "Byonghyo Shim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.findings-emnlp.44",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.44/"
+}

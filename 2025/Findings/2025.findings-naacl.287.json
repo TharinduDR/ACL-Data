@@ -1,0 +1,26 @@
+{
+  "title": "Evaluation of Multilingual Image Captioning: How far can we get with CLIP models?",
+  "authors": [
+    "Gonçalo Gomes",
+    "Chrysoula Zerva",
+    "Bruno Martins"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Chinese",
+    "Portuguese",
+    "Italian",
+    "Russian",
+    "Dutch",
+    "Korean"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.287",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.287/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Can Federated Learning Safeguard Private Data in LLM Training? Vulnerabilities, Attacks, and Defense Evaluation",
+  "authors": [
+    "Wen Kai Guo",
+    "Xuefeng Liu",
+    "Haolin Wang",
+    "Jianwei Niu",
+    "Shaojie Tang",
+    "Jing Yuan"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.findings-emnlp.1303",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1303/"
+}

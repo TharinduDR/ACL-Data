@@ -1,0 +1,23 @@
+{
+  "title": "Contrastive Preference Learning for Neural Machine Translation",
+  "authors": [
+    "Jianfei He",
+    "Shichao Sun",
+    "Sen Peng",
+    "Jie Xu",
+    "Xiaohua Jia",
+    "Wenjie Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Cantonese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2024.findings-naacl.174",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.174/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "UniToolBench: A Benchmark for Tool-Augmented LLMs in Cross-Domain, Universal Task Automation",
+  "authors": [
+    "Xiaojie Guo",
+    "Yang Zhang",
+    "Bing Zhang",
+    "Ryo Kawahara",
+    "Mikio Takeuchi",
+    "Yada Zhu"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2026.findings-eacl.248",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.248/"
+}

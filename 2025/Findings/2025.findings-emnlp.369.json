@@ -1,0 +1,20 @@
+{
+  "title": "LM2Protein: A Structure-to-Token Protein Large Language Model",
+  "authors": [
+    "Chang Zhou",
+    "Yuheng Shan",
+    "Pengan Chen",
+    "Xiangyu Shi",
+    "Zikang Wang",
+    "Yanting Li",
+    "Jiyue Jiang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.findings-emnlp.369",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.369/"
+}

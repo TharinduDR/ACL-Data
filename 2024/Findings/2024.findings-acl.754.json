@@ -1,0 +1,21 @@
+{
+  "title": "HelloFresh: LLM Evaluations on Streams of Real-World Human Editorial Actions across X Community Notes and Wikipedia edits",
+  "authors": [
+    "Tim Franzmeyer",
+    "Aleksandar Shtedritski",
+    "Samuel Albanie",
+    "Philip Torr",
+    "João F. Henriques",
+    "Jakob N. Foerster"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T23 Social Media Processing",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.findings-acl.754",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.754/"
+}

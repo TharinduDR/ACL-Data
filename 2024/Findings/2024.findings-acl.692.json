@@ -1,0 +1,21 @@
+{
+  "title": "ADAM: Dense Retrieval Distillation with Adaptive Dark Examples",
+  "authors": [
+    "Chongyang Tao",
+    "Chang Liu",
+    "Tao Shen",
+    "Can Xu",
+    "Xiubo Geng",
+    "Binxing Jiao",
+    "Daxin Jiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.findings-acl.692",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.692/"
+}

@@ -7,15 +7,12 @@
     "Tung Nguyen",
     "Linh Van Ngo",
     "Sang Dinh",
-    "Thien Huu Nguyen"
+    "Thien Huy Nguyen"
   ],
-  "languages": [
-    "English"
-  ],
+  "languages": [],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T12 Interpretability/explainability of language models and language and speech processing tools",
-    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+    "T14",
+    "T12"
   ],
   "paper_id": "2025.findings-acl.715",
   "acl_url": "https://aclanthology.org/2025.findings-acl.715/"

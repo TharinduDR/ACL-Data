@@ -1,0 +1,20 @@
+{
+  "title": "Insights into LLM Long-Context Failures: When Transformers Know but Don't Tell",
+  "authors": [
+    "Muhan Gao",
+    "Taiming Lu",
+    "Kuai Yu",
+    "Adam Byerly",
+    "Daniel Khashabi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.findings-emnlp.447",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.447/"
+}

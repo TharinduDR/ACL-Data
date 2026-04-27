@@ -5,7 +5,7 @@
     "Wei He",
     "Zhiheng Xi",
     "Honglin Guo",
-    "Boyong Hong",
+    "Boyang Hong",
     "Jiazhen Zhang",
     "Nijun Li",
     "Tao Gui",
@@ -14,12 +14,12 @@
     "Xuanjing Huang"
   ],
   "languages": [
-    "Chinese"
+    "English"
   ],
   "research_areas": [
     "T09 Inference and Reasoning",
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+    "T14 Language Modeling",
+    "T29 NLP for education"
   ],
   "paper_id": "2025.findings-acl.747",
   "acl_url": "https://aclanthology.org/2025.findings-acl.747/"

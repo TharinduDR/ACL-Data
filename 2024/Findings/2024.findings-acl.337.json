@@ -1,0 +1,21 @@
+{
+  "title": "Benchmarking Large Language Models on CFLUE - A Chinese Financial Language Understanding Evaluation Dataset",
+  "authors": [
+    "Jie Zhu",
+    "Junhui Li",
+    "Yalong Wen",
+    "Lifan Guo"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-acl.337",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.337/"
+}

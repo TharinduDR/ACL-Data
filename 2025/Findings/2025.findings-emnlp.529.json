@@ -1,0 +1,19 @@
+{
+  "title": "AraSafe: Benchmarking Safety in Arabic LLMs",
+  "authors": [
+    "Hamdy Mubarak",
+    "Abubakr Mohamed",
+    "Majd Hawasly"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.529",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.529/"
+}

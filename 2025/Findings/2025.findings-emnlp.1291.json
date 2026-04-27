@@ -1,0 +1,20 @@
+{
+  "title": "The RAG Paradox: A Black-Box Attack Exploiting Unintentional Vulnerabilities in Retrieval-Augmented Generation Systems",
+  "authors": [
+    "Chanwoo Choi",
+    "Jinsoo Kim",
+    "Sukmin Cho",
+    "Soyeong Jeong",
+    "Buru Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.findings-emnlp.1291",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1291/"
+}

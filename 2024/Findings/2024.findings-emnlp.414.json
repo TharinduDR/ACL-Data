@@ -1,0 +1,23 @@
+{
+  "title": "LongForm: Effective Instruction Tuning with Reverse Instructions",
+  "authors": [
+    "Abdullatif Köksal",
+    "Timo Schick",
+    "Anna Korhonen",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.findings-emnlp.414",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.414/"
+}

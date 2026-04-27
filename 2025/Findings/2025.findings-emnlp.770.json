@@ -1,0 +1,25 @@
+{
+  "title": "ReCUT: Balancing Reasoning Length and Accuracy in LLMs via Stepwise Trails and Preference Optimization",
+  "authors": [
+    "Zhensheng Jin",
+    "Xinze Li",
+    "Yifan Ji",
+    "Chunyi Peng",
+    "Zhenghao Liu",
+    "Qi Shi",
+    "Yukun Yan",
+    "Shuo Wang",
+    "Furong Peng",
+    "Ge Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.findings-emnlp.770",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.770/"
+}

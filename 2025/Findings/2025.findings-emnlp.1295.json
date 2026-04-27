@@ -1,0 +1,27 @@
+{
+  "title": "FAStFACT: Faster, Stronger Long-Form Factuality Evaluations in LLMs",
+  "authors": [
+    "Yingjia Wan",
+    "Haochen Tan",
+    "Xiao Zhu",
+    "Xinyu Zhou",
+    "Zhiwei Li",
+    "Qingsong Lv",
+    "Changxuan Sun",
+    "Jiaqi Zeng",
+    "Yi Xu",
+    "Jianqiao Lu",
+    "YinHong Liu",
+    "Zhijiang Guo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.findings-emnlp.1295",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1295/"
+}

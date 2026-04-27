@@ -1,0 +1,20 @@
+{
+  "title": "Complexity-aware fine-tuning",
+  "authors": [
+    "Andrey Goncharov",
+    "Daniil Vyazhev",
+    "Petr Sychev",
+    "Edvard Khalafyan",
+    "Alexey Zaytsev"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.findings-eacl.34",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.34/"
+}

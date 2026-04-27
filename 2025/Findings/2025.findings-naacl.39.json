@@ -1,0 +1,22 @@
+{
+  "title": "Identifying and Mitigating Social Bias Knowledge in Language Models",
+  "authors": [
+    "Ruizhe Chen",
+    "Yichen Li",
+    "Jianfei Yang",
+    "Yang Feng",
+    "Joey Tianyi Zhou",
+    "Jian Wu",
+    "Zuozhu Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.39",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.39/"
+}

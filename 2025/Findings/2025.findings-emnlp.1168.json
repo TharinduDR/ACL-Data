@@ -1,0 +1,23 @@
+{
+  "title": "LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via a Hybrid Architecture",
+  "authors": [
+    "Xidong Wang",
+    "Dingjie Song",
+    "Shunian Chen",
+    "Junyin Chen",
+    "Zhenyang Cai",
+    "Chen Zhang",
+    "Lichao Sun",
+    "Benyou Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.1168",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1168/"
+}

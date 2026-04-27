@@ -1,0 +1,31 @@
+{
+  "title": "Multilingual Contrastive Decoding via Language-Agnostic Layers Skipping",
+  "authors": [
+    "Wenhao Zhu",
+    "Sizhe Liu",
+    "Shujian Huang",
+    "Shuaijie She",
+    "Chris Wendler",
+    "Jiajun Chen"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Russian",
+    "Chinese",
+    "Japanese",
+    "Thai",
+    "Tamil",
+    "Bengali",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.findings-emnlp.512",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.512/"
+}

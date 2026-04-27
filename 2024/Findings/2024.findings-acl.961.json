@@ -1,0 +1,25 @@
+{
+  "title": "ContextBLIP: Doubly Contextual Alignment for Contrastive Image Retrieval from Linguistically Complex Descriptions",
+  "authors": [
+    "Honglin Lin",
+    "Siyu Li",
+    "Guoshun Nan",
+    "Chaoyue Tang",
+    "Xueting Wang",
+    "Jingxin Xu",
+    "Yankai Rong",
+    "Zhili Zhou",
+    "Yutong Gao",
+    "Qimei Cui",
+    "Xiaofeng Tao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.findings-acl.961",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.961/"
+}

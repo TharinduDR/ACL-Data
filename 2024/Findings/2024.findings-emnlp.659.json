@@ -1,0 +1,36 @@
+{
+  "title": "Breaking the Script Barrier in Multilingual Pre-Trained Language Models with Transliteration-Based Post-Training Alignment",
+  "authors": [
+    "Orgest Xhelili",
+    "Yihong Liu",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Persian",
+    "Greek",
+    "Hebrew",
+    "Turkish",
+    "Maltese",
+    "Chinese",
+    "Korean",
+    "Thai",
+    "Lao",
+    "Burmese",
+    "Tibetan",
+    "Lahu",
+    "Myanmar",
+    "Wu Chinese",
+    "Yue Chinese",
+    "Classical Chinese",
+    "Mandarin Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.findings-emnlp.659",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.659/"
+}

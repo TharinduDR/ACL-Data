@@ -1,0 +1,42 @@
+{
+  "title": "Tomato, Tomahto, Tomate: Do Multilingual Language Models Understand Based on Subword-Level Semantic Concepts?",
+  "authors": [
+    "Crystina Zhang",
+    "Jing Lu",
+    "Vinh Q. Tran",
+    "Tal Schuster",
+    "Donald Metzler",
+    "Jimmy Lin"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "English",
+    "French",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Malay",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Vietnamese",
+    "Chinese",
+    "Swahili",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2025.findings-naacl.98",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.98/"
+}

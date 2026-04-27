@@ -1,0 +1,22 @@
+{
+  "title": "Isometric Neural Machine Translation using Phoneme Count Ratio Reward-based Reinforcement Learning",
+  "authors": [
+    "Shivam Ratnakant Mhaskar",
+    "Nirmesh J. Shah",
+    "Mohammadi Zaki",
+    "Ashishkumar P. Gudmalwar",
+    "Pankaj Wasnik",
+    "Rajiv Ratn Shah"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-naacl.250",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.250/"
+}

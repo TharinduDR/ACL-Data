@@ -1,0 +1,23 @@
+{
+  "title": "Learning to Instruct: Fine-Tuning a Task-Aware Instruction Optimizer for Black-Box LLMs",
+  "authors": [
+    "Yunzhe Qi",
+    "Jinjin Tian",
+    "Tianci Liu",
+    "Ruirui Li",
+    "Tianxin Wei",
+    "Hui Liu",
+    "Xianfeng Tang",
+    "Monica Cheng",
+    "Jingrui He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.407",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.407/"
+}

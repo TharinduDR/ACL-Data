@@ -1,0 +1,22 @@
+{
+  "title": "Leveraging Grammar Induction for Language Understanding and Generation",
+  "authors": [
+    "Jushi Kai",
+    "Shengyuan Hou",
+    "Yusheng Huang",
+    "Zhouhan Lin"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-emnlp.259",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.259/"
+}

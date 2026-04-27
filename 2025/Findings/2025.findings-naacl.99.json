@@ -1,0 +1,26 @@
+{
+  "title": "Open Domain Question Answering with Conflicting Contexts",
+  "authors": [
+    "Siyi Liu",
+    "Qiang Ning",
+    "Kishaloy Halder",
+    "Wei Xiao",
+    "Zheng Qi",
+    "Phu Mon Htut",
+    "Yi Zhang",
+    "Neha Anna John",
+    "Bonan Min",
+    "Yassine Benajiba",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.99",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.99/"
+}

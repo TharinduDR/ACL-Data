@@ -1,0 +1,28 @@
+{
+  "title": "DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature",
+  "authors": [
+    "Dawei Li",
+    "Shu Yang",
+    "Zhen Tan",
+    "Jae Young Baik",
+    "Sukwon Yun",
+    "Joseph Lee",
+    "Aaron Chacko",
+    "Bojian Hou",
+    "Duy Duong-Tran",
+    "Ying Ding",
+    "Huan Liu",
+    "Li Shen",
+    "Tianlong Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10",
+    "T11",
+    "T13"
+  ],
+  "paper_id": "2024.findings-emnlp.119",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.119/"
+}

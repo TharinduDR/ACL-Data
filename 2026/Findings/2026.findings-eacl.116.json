@@ -1,0 +1,24 @@
+{
+  "title": "Uncertainty Quantification for Evaluating Gender Bias in Machine Translation",
+  "authors": [
+    "Ieva Raminta Staliūnaitė",
+    "Julius Cheng",
+    "Andreas Vlachos"
+  ],
+  "languages": [
+    "Spanish",
+    "French",
+    "Ukrainian",
+    "Russian",
+    "Italian",
+    "German",
+    "Greek"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.findings-eacl.116",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.116/"
+}

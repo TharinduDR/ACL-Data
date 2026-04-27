@@ -1,0 +1,22 @@
+{
+  "title": "Improving Language Identification for Code-Switched Speech: The Pivotal Role of Accented English",
+  "authors": [
+    "Adyasha Patra",
+    "Dhiraj Kumar Sah",
+    "Preethi Jyothi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Arabic",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.findings-eacl.242",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.242/"
+}

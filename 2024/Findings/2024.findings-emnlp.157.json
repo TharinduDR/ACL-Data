@@ -1,0 +1,24 @@
+{
+  "title": "McCrolin: Multi-consistency Cross-lingual Training for Retrieval Question Answering",
+  "authors": [
+    "Peerat Limkonchotiwat",
+    "Wuttikorn Ponwitayarat",
+    "Lalita Lowphansirikul",
+    "Potsawee Manakul",
+    "Can Udomcharoenchaikit",
+    "Ekapol Chuangsuvanich",
+    "Sarana Nutanong"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Indonesian",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.findings-emnlp.157",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.157/"
+}

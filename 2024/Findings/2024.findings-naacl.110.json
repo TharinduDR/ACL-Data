@@ -1,0 +1,24 @@
+{
+  "title": "MICo: Preventative Detoxification of Large Language Models through Inhibition Control",
+  "authors": [
+    "Roy Siegelmann",
+    "Ninareh Mehrabi",
+    "Palash Goyal",
+    "Prasoon Goyal",
+    "Lisa Bauer",
+    "Jwala Dhamala",
+    "Aram Galstyan",
+    "Rahul Gupta",
+    "Reza Ghanadan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.findings-naacl.110",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.110/"
+}

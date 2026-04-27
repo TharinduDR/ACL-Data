@@ -1,0 +1,22 @@
+{
+  "title": "ChartAssistant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning",
+  "authors": [
+    "Fanqing Meng",
+    "Wenqi Shao",
+    "Quanfeng Lu",
+    "Peng Gao",
+    "Kaipeng Zhang",
+    "Yu Qiao",
+    "Ping Luo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-acl.463",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.463/"
+}

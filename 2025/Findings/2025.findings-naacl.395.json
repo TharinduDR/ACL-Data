@@ -1,0 +1,16 @@
+{
+  "title": "Adaptive Attacks Break Defenses Against Indirect Prompt Injection Attacks on LLM Agents",
+  "authors": [
+    "Qiusi Zhan",
+    "Richard Fang",
+    "Henil Shalin Panchal",
+    "Daniel Kang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-naacl.395",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.395/"
+}

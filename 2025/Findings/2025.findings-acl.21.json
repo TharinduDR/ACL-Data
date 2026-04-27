@@ -7,13 +7,12 @@
     "Ping Luo"
   ],
   "languages": [
-    "English",
-    "Chinese"
+    "English"
   ],
   "research_areas": [
-    "T12 Interpretability/explainability of language models and language and speech processing tools",
-    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
-    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+    "T10",
+    "T12",
+    "T21"
   ],
   "paper_id": "2025.findings-acl.21",
   "acl_url": "https://aclanthology.org/2025.findings-acl.21/"

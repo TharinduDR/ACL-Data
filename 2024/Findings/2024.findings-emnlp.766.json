@@ -1,0 +1,35 @@
+{
+  "title": "Turning English-centric LLMs Into Polyglots: How Much Multilinguality Is Needed?",
+  "authors": [
+    "Tannon Kew",
+    "Florian Schottmann",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Bulgarian",
+    "Icelandic",
+    "Spanish",
+    "Russian",
+    "French",
+    "Swedish",
+    "Chinese",
+    "Portuguese",
+    "Vietnamese",
+    "Korean",
+    "Finnish",
+    "Hungarian",
+    "Norwegian",
+    "Slovenian",
+    "Greek",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T19 Text Simplification",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2024.findings-emnlp.766",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.766/"
+}

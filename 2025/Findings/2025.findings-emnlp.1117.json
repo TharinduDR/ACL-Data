@@ -1,0 +1,27 @@
+{
+  "title": "A Generalizable Rhetorical Strategy Annotation Model Using LLM-based Debate Simulation and Labelling",
+  "authors": [
+    "Shiyu Ji",
+    "Farnoosh Hashemi",
+    "Joyce Chen",
+    "Juanwen Pan",
+    "Weicheng Ma",
+    "Hefan Zhang",
+    "Sophia Pan",
+    "Ming Cheng",
+    "Shubham Mohole",
+    "Saeed Hassanpour",
+    "Soroush Vosoughi",
+    "Michael Macy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.findings-emnlp.1117",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1117/"
+}

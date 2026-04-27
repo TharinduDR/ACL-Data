@@ -1,0 +1,22 @@
+{
+  "title": "RoD-TAL: A Benchmark for Answering Questions in Romanian Driving License Exams",
+  "authors": [
+    "Andrei Vlad Man",
+    "Răzvan-Alexandru Smădu",
+    "Cristian-George Craciun",
+    "Dumitru-Clementin Cercel",
+    "Florin Pop",
+    "Mihaela-Claudia Cercel"
+  ],
+  "languages": [
+    "Romanian",
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T10 Question Answering",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2026.findings-eacl.295",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.295/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "ISACL: Internal State Analyzer for Copyrighted Training Data Leakage",
+  "authors": [
+    "Guangwei Zhang",
+    "Qisheng Su",
+    "Jiateng Liu",
+    "Cheng Qian",
+    "Yanzhou Pan",
+    "Yanjie Fu",
+    "Denghui Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.findings-emnlp.571",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.571/"
+}

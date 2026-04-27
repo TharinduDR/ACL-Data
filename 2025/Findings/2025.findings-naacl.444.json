@@ -1,0 +1,25 @@
+{
+  "title": "UCL-Bench: A Chinese User-Centric Legal Benchmark for Large Language Models",
+  "authors": [
+    "Ruoli Gan",
+    "Duanyu Feng",
+    "Chen Zhang",
+    "Zhihang Lin",
+    "Haochen Jia",
+    "Hao Wang",
+    "Zhenyang Cai",
+    "Lei Cui",
+    "Qianqian Xie",
+    "Jimin Huang",
+    "Benyou Wang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.444",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.444/"
+}

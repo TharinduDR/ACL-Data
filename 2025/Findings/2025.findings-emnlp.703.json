@@ -1,0 +1,21 @@
+{
+  "title": "MARIO-0.5B: A Multi-Agent Lightweight Model for Real-Time Open Information Extraction in Low-Resource Settings",
+  "authors": [
+    "Donghai Zhang",
+    "Shuangtao Yang",
+    "Xiaozheng Dong",
+    "Wei Song",
+    "Bo Fu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.703",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.703/"
+}

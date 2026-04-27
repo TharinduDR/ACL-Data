@@ -1,0 +1,19 @@
+{
+  "title": "Private prediction for large-scale synthetic text generation",
+  "authors": [
+    "Kareem Amin",
+    "Alex Bie",
+    "Weiwei Kong",
+    "Alexey Kurakin",
+    "Natalia Ponomareva",
+    "Umar Syed",
+    "Andreas Terzis",
+    "Sergei Vassilvitskii"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-emnlp.425",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.425/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "FIRE: Fact-checking with Iterative Retrieval and Verification",
+  "authors": [
+    "Zhuohan Xie",
+    "Rui Xing",
+    "Yuxia Wang",
+    "Jiahui Geng",
+    "Hasan Iqbal",
+    "Dhruv Sahnan",
+    "Iryna Gurevych",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-naacl.158",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.158/"
+}

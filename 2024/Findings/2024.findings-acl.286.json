@@ -1,0 +1,33 @@
+{
+  "title": "Incorporating Syntax and Lexical Knowledge to Multilingual Sentiment Classification on Large Language Models",
+  "authors": [
+    "Hiroshi Kanayama",
+    "Yang Zhao",
+    "Ran Iwamoto",
+    "Takuya Ohko"
+  ],
+  "languages": [
+    "Arabic",
+    "Czech",
+    "German",
+    "English",
+    "Spanish",
+    "Finnish",
+    "French",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Thai",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.findings-acl.286",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.286/"
+}

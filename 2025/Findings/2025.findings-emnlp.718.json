@@ -1,0 +1,17 @@
+{
+  "title": "Mixture of LoRA Experts for Continual Information Extraction with LLMs",
+  "authors": [
+    "Zitao Wang",
+    "Xinyi Wang",
+    "Wei Hu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.718",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.718/"
+}

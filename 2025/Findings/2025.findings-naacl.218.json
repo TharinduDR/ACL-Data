@@ -1,0 +1,28 @@
+{
+  "title": "TEaR: Improving LLM-based Machine Translation with Systematic Self-Refinement",
+  "authors": [
+    "Zhaopeng Feng",
+    "Yan Zhang",
+    "Hao Li",
+    "Bei Wu",
+    "Jiayu Liao",
+    "Wenqiang Liu",
+    "Jun Lang",
+    "Yang Feng",
+    "Jian Wu",
+    "Zuozhu Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Russian",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.218",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.218/"
+}

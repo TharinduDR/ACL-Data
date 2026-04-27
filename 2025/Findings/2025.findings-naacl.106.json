@@ -1,0 +1,28 @@
+{
+  "title": "ProxyLM: Predicting Language Model Performance on Multilingual Tasks via Proxy Models",
+  "authors": [
+    "David Anugraha",
+    "Genta Indra Winata",
+    "Chenyue Li",
+    "Patrick Amadeus Irawan",
+    "En-Shiun Annie Lee"
+  ],
+  "languages": [
+    "English",
+    "Javanese",
+    "Indonesian",
+    "Chinese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2025.findings-naacl.106",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.106/"
+}

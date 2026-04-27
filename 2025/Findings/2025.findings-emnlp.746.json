@@ -1,0 +1,21 @@
+{
+  "title": "Mitigating Hallucinations in Large Vision-Language Models by Self-Injecting Hallucinations",
+  "authors": [
+    "Yifan Lu",
+    "Ziqi Zhang",
+    "Chunfeng Yuan",
+    "Jun Gao",
+    "Congxuan Zhang",
+    "Xiaojuan Qi",
+    "Bing Li",
+    "Weiming Hu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.findings-emnlp.746",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.746/"
+}

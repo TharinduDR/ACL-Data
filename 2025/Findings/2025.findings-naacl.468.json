@@ -1,0 +1,29 @@
+{
+  "title": "Are Language Models Agnostic to Linguistically Grounded Perturbations? A Case Study of Indic Languages",
+  "authors": [
+    "Poulami Ghosh",
+    "Raj Dabre",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "Hindi",
+    "Bengali",
+    "Gujarati",
+    "Punjabi",
+    "Oriya",
+    "Malayalam",
+    "Tamil",
+    "Telugu",
+    "Kannada",
+    "Marathi",
+    "Assamese",
+    "Sanskrit"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.468",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.468/"
+}

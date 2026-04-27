@@ -1,0 +1,21 @@
+{
+  "title": "Cross-Linguual Summarization with Pseudo-Label Regularization",
+  "authors": [
+    "Thang Le"
+  ],
+  "languages": [
+    "English",
+    "Vietnamese",
+    "Japanese",
+    "Chinese",
+    "Arabic",
+    "Korean",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-naacl.289",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.289/"
+}

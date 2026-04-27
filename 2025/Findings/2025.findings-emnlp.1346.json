@@ -1,0 +1,24 @@
+{
+  "title": "FLAMES: Improving LLM Math Reasoning via a Fine-Grained Analysis of the Data Synthesis Pipeline",
+  "authors": [
+    "Parker Seegmiller",
+    "Kartik Mehta",
+    "Soumya Saha",
+    "Chenyang Tao",
+    "Shereen Oraby",
+    "Arpit Gupta",
+    "Tagyoung Chung",
+    "Mohit Bansal",
+    "Nanyun Peng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.findings-emnlp.1346",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1346/"
+}

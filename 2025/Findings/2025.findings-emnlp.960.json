@@ -1,0 +1,18 @@
+{
+  "title": "Beneath the Facade: Probing Safety Vulnerabilities in LLMs via Auto-Generated Jailbreak Prompts",
+  "authors": [
+    "Heehyeon Kim",
+    "Kyeongryul Lee",
+    "Joyce Jiyong Whang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.960",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.960/"
+}

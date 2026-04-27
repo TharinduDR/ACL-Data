@@ -1,0 +1,27 @@
+{
+  "title": "ACEBench: A Comprehensive Evaluation of LLM Tool Usage",
+  "authors": [
+    "Chen Chen",
+    "Xinlong Hao",
+    "Weiwenn Liu",
+    "Xu Huang",
+    "Xingshan Zeng",
+    "Shuai Yu",
+    "Dexun Li",
+    "Yuefeng Huang",
+    "Xiangcheng Liu",
+    "Xinzhi Wang",
+    "Wu Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2025.findings-emnlp.697",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.697/"
+}

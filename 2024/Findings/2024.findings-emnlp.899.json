@@ -1,0 +1,16 @@
+{
+  "title": "Eigen Attention: Attention in Low-Rank Space for KV Cache Compression",
+  "authors": [
+    "Utkarsh Saxena",
+    "Gobinda Saha",
+    "Sakshi Choudhary",
+    "Kaushik Roy"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14",
+    "T09"
+  ],
+  "paper_id": "2024.findings-emnlp.899",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.899/"
+}

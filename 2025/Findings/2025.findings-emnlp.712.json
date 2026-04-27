@@ -1,0 +1,19 @@
+{
+  "title": "MarathiEmoExplain: A Dataset for Sentiment, Emotion, and Explanation in Low-Resource Marathi",
+  "authors": [
+    "Anuj Kumar",
+    "Mohammed Faisal Sayed",
+    "Satyadev Ahlawat",
+    "Yamuna Prasad"
+  ],
+  "languages": [
+    "Marathi",
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.findings-emnlp.712",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.712/"
+}

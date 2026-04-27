@@ -1,0 +1,22 @@
+{
+  "title": "SKA-Bench: A Fine-Grained Benchmark for Evaluating Structured Knowledge Understanding of LLMs",
+  "authors": [
+    "Zhiqiang Liu",
+    "Enpei Niu",
+    "Yin Hua",
+    "Mengshu Sun",
+    "Lei Liang",
+    "Huajun Chen",
+    "Wen Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.findings-emnlp.194",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.194/"
+}

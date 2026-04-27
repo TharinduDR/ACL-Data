@@ -1,0 +1,23 @@
+{
+  "title": "XC-CACHE: Cross-Attending to Cached Context for Efficient LLM Inference",
+  "authors": [
+    "João Monteiro",
+    "Étienne Marcotte",
+    "Pierre-André Noël",
+    "Valentina Zantedeschi",
+    "David Vázquez",
+    "Nicolas Chapados",
+    "Christopher Pal",
+    "Perouz Taslakian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.findings-emnlp.896",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.896/"
+}

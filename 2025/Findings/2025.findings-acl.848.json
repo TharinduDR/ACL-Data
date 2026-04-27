@@ -1,0 +1,33 @@
+{
+  "title": "TUBA: Cross-Lingual Transferability of Backdoor Attacks in LLMs with Instruction Tuning",
+  "authors": [
+    "Xuanli He",
+    "Jun Wang",
+    "Qiongkai Xu",
+    "Pasquale Minervini",
+    "Pontus Stenetorp",
+    "Benjamin I. P. Rubinstein",
+    "Trevor Cohn"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Spanish",
+    "French",
+    "Portuguese",
+    "Russian",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Thai",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-acl.848",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.848/"
+}

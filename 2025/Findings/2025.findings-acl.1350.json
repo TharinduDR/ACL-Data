@@ -11,7 +11,6 @@
     "Sadao Kurohashi"
   ],
   "languages": [
-    "English",
     "Chinese",
     "Japanese",
     "French",
@@ -20,7 +19,7 @@
   "research_areas": [
     "T12 Interpretability/explainability of language models and language and speech processing tools",
     "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
-    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
   ],
   "paper_id": "2025.findings-acl.1350",
   "acl_url": "https://aclanthology.org/2025.findings-acl.1350/"

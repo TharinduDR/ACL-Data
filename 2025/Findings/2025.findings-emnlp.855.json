@@ -1,0 +1,22 @@
+{
+  "title": "Profiling LLM's Copyright Infringement Risks under Adversarial Persuasive Prompting",
+  "authors": [
+    "Jikai Long",
+    "Ming Liu",
+    "Xiusi Chen",
+    "Jialiang Xu",
+    "Shenglan Li",
+    "Zhaozhou Xu",
+    "Denghui Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.findings-emnlp.855",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.855/"
+}

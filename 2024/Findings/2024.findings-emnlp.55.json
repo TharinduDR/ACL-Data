@@ -1,0 +1,20 @@
+{
+  "title": "Introducing Compiler Semantics into Large Language Models as Programming Language Translators: A Case Study of C to x86 Assembly",
+  "authors": [
+    "Shuoming Zhang",
+    "Jiacheng Zhao",
+    "Chunwei Xia",
+    "Zheng Wang",
+    "Yunji Chen",
+    "Huimin Cui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.findings-emnlp.55",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.55/"
+}

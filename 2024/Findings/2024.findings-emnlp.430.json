@@ -1,0 +1,21 @@
+{
+  "title": "MUSCLE: A Model Update Strategy for Compatible LLM Evolution",
+  "authors": [
+    "Jessica Echterhoff",
+    "Fartash Faghri",
+    "Raviteja Vemulapalli",
+    "Ting-Yao Hu",
+    "Chun-Liang Li",
+    "Oncel Tuzel",
+    "Hadi Pouransari"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-emnlp.430",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.430/"
+}

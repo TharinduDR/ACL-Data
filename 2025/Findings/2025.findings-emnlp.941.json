@@ -1,0 +1,23 @@
+{
+  "title": "Judging with Many Minds: Do More Perspectives Mean Less Prejudice? On Bias Amplification and Resistance in Multi-Agent Based LLM-as-Judge",
+  "authors": [
+    "Chiyu Ma",
+    "Enpei Zhang",
+    "Yilun Zhao",
+    "Wenjun Liu",
+    "Yaning Jia",
+    "Peijun Qing",
+    "Lin Shi",
+    "Arman Cohan",
+    "Yujun Yan",
+    "Soroush Vosoughi"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.941",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.941/"
+}

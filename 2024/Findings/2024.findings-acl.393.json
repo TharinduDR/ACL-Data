@@ -1,0 +1,19 @@
+{
+  "title": "A multi-level multi-label text classification dataset of 19th century Ottoman and Russian literary and critical texts",
+  "authors": [
+    "Gokcen Gokceoglu",
+    "Devrim Cavusoglu",
+    "Emre Akbas",
+    "Ozen Nergis Dolcerocca"
+  ],
+  "languages": [
+    "Ottoman Turkish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.393",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.393/"
+}

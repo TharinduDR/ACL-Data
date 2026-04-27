@@ -1,0 +1,33 @@
+{
+  "title": "DEFT-X: Denoised Sparse Fine-Tuning for Zero-Shot Cross-Lingual Transfer",
+  "authors": [
+    "Sona Elza Simon",
+    "Preethi Jyothi"
+  ],
+  "languages": [
+    "Indonesian",
+    "English",
+    "Acehnese",
+    "Balinese",
+    "Bajau",
+    "Madurese",
+    "Minangkabau",
+    "Aymara",
+    "Asháninka",
+    "Bribri",
+    "Guarani",
+    "Náhuatl",
+    "Otomí",
+    "Quechua",
+    "Rarámuri",
+    "Shipibo-Konibo",
+    "Wixarika"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.findings-emnlp.100",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.100/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Language Models Can Easily Learn to Reason from Demonstrations",
+  "authors": [
+    "Dacheng Li",
+    "Shiyi Cao",
+    "Tyler Griggs",
+    "Shu Liu",
+    "Xiangxi Mo",
+    "Eric Tang",
+    "Sumanth Hegde",
+    "Kourosh Hakhamaneshi",
+    "Shishir G. Patil",
+    "Matei Zaharia",
+    "Joseph E. Gonzalez",
+    "Ion Stoica"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-emnlp.866",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.866/"
+}

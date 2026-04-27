@@ -1,0 +1,20 @@
+{
+  "title": "MoCHA: Are Code Language Models Robust Against Multi-Turn Malicious Coding Prompts?",
+  "authors": [
+    "Muntasir Wahed",
+    "Xiaona Zhou",
+    "Kiet A. Nguyen",
+    "Tianjiao Yu",
+    "Nirav Diwan",
+    "Gang Wang",
+    "Dilek Hakkani-Tür",
+    "Ismini Lourentzou"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.1249",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1249/"
+}

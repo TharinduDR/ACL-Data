@@ -11,13 +11,15 @@
     "Arnab Bhattacharya"
   ],
   "languages": [
+    "English",
     "Sanskrit",
+    "Latin",
     "Ancient Greek"
   ],
   "research_areas": [
-    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
-    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
-    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+    "T10",
+    "T11",
+    "T16"
   ],
   "paper_id": "2025.findings-acl.141",
   "acl_url": "https://aclanthology.org/2025.findings-acl.141/"

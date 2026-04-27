@@ -1,0 +1,20 @@
+{
+  "title": "Fighting Randomness with Randomness: Mitigating Optimisation Instability of Fine-Tuning using Delayed Ensemble and Noisy Interpolation",
+  "authors": [
+    "Branislav Pecher",
+    "Jan Cegin",
+    "Robert Belanec",
+    "Jakub Simko",
+    "Ivan Srba",
+    "Maria Bielikova"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.644",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.644/"
+}

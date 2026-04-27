@@ -1,0 +1,22 @@
+{
+  "title": "CLIP-UP: A Simple and Efficient Mixture-of-Experts CLIP Training Recipe with Sparse Upcycling",
+  "authors": [
+    "Xinze Wang",
+    "Chen Chen",
+    "Yinfei Yang",
+    "Hong-You Chen",
+    "Bowen Zhang",
+    "Aditya Pal",
+    "Xiangxin Zhu",
+    "Xianzhi Du"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14",
+    "T17"
+  ],
+  "paper_id": "2025.findings-emnlp.1156",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1156/"
+}

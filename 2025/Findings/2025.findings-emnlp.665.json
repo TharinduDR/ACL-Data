@@ -1,0 +1,21 @@
+{
+  "title": "Mitigate One, Skew Another? Tackling Intersectional Biases in Text-to-Image Models",
+  "authors": [
+    "Pushkar Shukla",
+    "Aditya Chinchure",
+    "Emily Diana",
+    "Alexander Tolbert",
+    "Kartik Hosanagar",
+    "Vineeth N. Balasubramanian",
+    "Leonid Sigal",
+    "Matthew A. Turk"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.665",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.665/"
+}

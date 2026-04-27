@@ -1,0 +1,24 @@
+{
+  "title": "Domain-Aware k-Nearest-Neighbor Knowledge Distillation for Machine Translation",
+  "authors": [
+    "Zhexiong Wang",
+    "Shudong Liu",
+    "Xuebo Liu",
+    "Miao Zhang",
+    "Derek F. Wong",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Korean",
+    "Medical",
+    "Law"
+  ],
+  "research_areas": [
+    "T16",
+    "T14"
+  ],
+  "paper_id": "2024.findings-acl.563",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.563/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Zero-shot Cross-lingual NER via Mitigating Language Difference: An Entity-aligned Translation Perspective",
+  "authors": [
+    "Zhihao Zhang",
+    "Sophia Yat Mei Lee",
+    "Dong Zhang",
+    "Shoushan Li",
+    "Guodong Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "Arabic",
+    "Hindi",
+    "Korean",
+    "Japanese",
+    "Russian",
+    "Persian",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.244",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.244/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Critic-CoT: Boosting the Reasoning Abilities of Large Language Model via Chain-of-Thought Critic",
+  "authors": [
+    "Xin Zheng",
+    "Jie Lou",
+    "Boxi Cao",
+    "Xueru Wen",
+    "Yuqiu Ji",
+    "Hongyu Lin",
+    "Yaojie Lu",
+    "Xianpei Han",
+    "Debing Zhang",
+    "Le Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2025.findings-acl.89",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.89/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Empowering Cross-lingual Abilities of Instruction-tuned Large Language Models by Translation-following Demonstrations",
+  "authors": [
+    "Leonardo Ranaldi",
+    "Giulia Pucci",
+    "André Freitas"
+  ],
+  "languages": [
+    "Chinese",
+    "Arabic",
+    "Italian",
+    "Spanish",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.findings-acl.473",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.473/"
+}

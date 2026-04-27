@@ -9,12 +9,10 @@
     "Yang Liu",
     "Sen Su"
   ],
-  "languages": [
-    "English"
-  ],
+  "languages": [],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
   ],
   "paper_id": "2025.findings-acl.580",
   "acl_url": "https://aclanthology.org/2025.findings-acl.580/"

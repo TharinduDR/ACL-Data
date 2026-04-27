@@ -1,0 +1,20 @@
+{
+  "title": "A Lightweight Mixture-of-Experts Neural Machine Translation Model with Stage-wise Training Strategy",
+  "authors": [
+    "Fan Zhang",
+    "Mei Tu",
+    "Song Liu",
+    "Jinyao Yan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Thai"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.findings-naacl.154",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.154/"
+}

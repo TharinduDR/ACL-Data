@@ -5,18 +5,18 @@
     "Emre Can Acikgoz",
     "Hongru Wang",
     "Xiusi Chen",
+    "Avirup Sil",
     "Dilek Hakkani-Tür",
-    "Gokhan Tür",
-    "Heng Ji",
-    "Avirup Sil"
+    "Gokhan Tur",
+    "Heng Ji"
   ],
   "languages": [
     "English"
   ],
   "research_areas": [
     "T09 Inference and Reasoning",
-    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
-    "T12 Interpretability/explainability of language models and language and speech processing tools"
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
   ],
   "paper_id": "2025.findings-acl.239",
   "acl_url": "https://aclanthology.org/2025.findings-acl.239/"

@@ -1,0 +1,22 @@
+{
+  "title": "MAVEN-FACT: A Large-scale Event Factuality Detection Dataset",
+  "authors": [
+    "Chunyang Li",
+    "Hao Peng",
+    "Xiaozhi Wang",
+    "Yunja Qi",
+    "Lei Hou",
+    "Bin Xu",
+    "Juanzi Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.651",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.651/"
+}

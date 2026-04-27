@@ -1,0 +1,23 @@
+{
+  "title": "Sensitivity-LoRA: Low-Load Sensitivity-Based Fine-Tuning for Large Language Models",
+  "authors": [
+    "Hao Zhang",
+    "Bo Huang",
+    "Zhenjia Li",
+    "Xi Xiao",
+    "Huiyi Leong",
+    "Zumeng Zhang",
+    "Xinwei Long",
+    "Tianyang Wang",
+    "Hao Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-emnlp.709",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.709/"
+}

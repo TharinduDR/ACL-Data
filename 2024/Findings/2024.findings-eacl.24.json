@@ -1,0 +1,22 @@
+{
+  "title": "Improving Cross-Domain Low-Resource Text Generation through LLM Post-Editing: A Programmer-Interpreter Approach",
+  "authors": [
+    "Zhuang Li",
+    "Levon Haroutunian",
+    "Raj Tumuluri",
+    "Philip Cohen",
+    "Gholamreza Haffari"
+  ],
+  "languages": [
+    "Kashmiri",
+    "English",
+    "AMR"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-eacl.24",
+  "acl_url": "https://aclanthology.org/2024.findings-eacl.24/"
+}

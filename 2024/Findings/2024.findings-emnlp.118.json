@@ -1,0 +1,34 @@
+{
+  "title": "Conditional Language Policy: A General Framework for Steerable Multi-Objective Finetuning",
+  "authors": [
+    "Kaiwen Wang",
+    "Rahul Kidambi",
+    "Ryan Sullivan",
+    "Alekh Agarwal",
+    "Christoph Dann",
+    "Andrea Michi",
+    "Marco Gelmi",
+    "Yunxuan Li",
+    "Raghav Gupta",
+    "Avinava Dubey",
+    "Alexandre Ramé",
+    "Johan Ferret",
+    "Geoffrey Cideron",
+    "Le Hou",
+    "Hongkun Yu",
+    "Amr Ahmed",
+    "Aranyak Mehta",
+    "Léonard Hussonot",
+    "Olivier Bachem",
+    "Edouard Leurent"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-emnlp.118",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.118/"
+}

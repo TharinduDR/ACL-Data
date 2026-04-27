@@ -1,0 +1,31 @@
+{
+  "title": "Language-Informed Beam Search Decoding for Multilingual Machine Translation",
+  "authors": [
+    "Yilin Yang",
+    "Stefan Lee",
+    "Prasad Tadepalli"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Czech",
+    "Romanian",
+    "Italian",
+    "Portuguese",
+    "Turkish",
+    "Chinese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.932",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.932/"
+}

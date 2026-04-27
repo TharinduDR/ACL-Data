@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
-    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
-    "T09 Inference and Reasoning"
+    "T10",
+    "T13",
+    "T09"
   ],
   "paper_id": "2025.findings-acl.484",
   "acl_url": "https://aclanthology.org/2025.findings-acl.484/"

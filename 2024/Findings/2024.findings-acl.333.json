@@ -1,0 +1,19 @@
+{
+  "title": "Unveiling Selection Biases: Exploring Order and Token Sensitivity in Large Language Models",
+  "authors": [
+    "Sheng-Lun Wei",
+    "Cheng-Kuang Wu",
+    "Hen-Hsen Huang",
+    "Hsin-Hsi Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.333",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.333/"
+}

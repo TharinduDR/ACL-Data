@@ -1,0 +1,23 @@
+{
+  "title": "CLERC: A Dataset for U.S. Legal Case Retrieval and Retrieval-Augmented Analysis Generation",
+  "authors": [
+    "Abe Bohan Hou",
+    "Orion Weller",
+    "Guanghui Qin",
+    "Eugene Yang",
+    "Dawn Lawrie",
+    "Nils Holzenberger",
+    "Andrew Blair-Stanek",
+    "Benjamin Van Durme"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.findings-naacl.441",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.441/"
+}

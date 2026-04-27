@@ -1,0 +1,29 @@
+{
+  "title": "ArabicMMLU: Assessing Massive Multitask Language Understanding in Arabic",
+  "authors": [
+    "Fajri Koto",
+    "Haonan Li",
+    "Sara Shatnawi",
+    "Jad Doughman",
+    "Abdelrahman Boda Sadallah",
+    "Aisha Alraeesi",
+    "Khalid Almubarak",
+    "Zaid Alyafeai",
+    "Neha Sengupta",
+    "Shady Shehata",
+    "Nizar Habash",
+    "Preslav Nakov",
+    "Timothy Baldwin"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.findings-acl.334",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.334/"
+}

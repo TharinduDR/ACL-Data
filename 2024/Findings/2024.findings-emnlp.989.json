@@ -1,0 +1,23 @@
+{
+  "title": "BiMediX: Bilingual Medical Mixture of Experts LLM",
+  "authors": [
+    "Sara Pieri",
+    "Sahal Shaji Mullappilly",
+    "Fahad Shahbaz Khan",
+    "Rao Muhammad Anwer",
+    "Salman Khan",
+    "Timothy Baldwin",
+    "Hisham Cholakkal"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.findings-emnlp.989",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.989/"
+}

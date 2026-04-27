@@ -1,0 +1,24 @@
+{
+  "title": "CMMLU: Measuring Massive Multitask Language Understanding in Chinese",
+  "authors": [
+    "Haonan Li",
+    "Yixuan Zhang",
+    "Fajri Koto",
+    "Yifei Yang",
+    "Hai Zhao",
+    "Yeyun Gong",
+    "Nan Duan",
+    "Timothy Baldwin"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.findings-acl.671",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.671/"
+}

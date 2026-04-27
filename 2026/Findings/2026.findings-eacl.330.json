@@ -1,0 +1,20 @@
+{
+  "title": "Multi-Hall-SA: A Cross-lingual Benchmark for Multi-Type Hallucination Detection in Low-Resource South African Languages",
+  "authors": [
+    "Sello Ralethe",
+    "Jan Buys"
+  ],
+  "languages": [
+    "English",
+    "Zulu",
+    "Xhosa",
+    "Sepedi",
+    "Sesotho"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.findings-eacl.330",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.330/"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Breaking Language Barriers in Visual Language Models via Multilingual Textual Regularization",
+  "authors": [
+    "Iñigo Pikabea",
+    "Iñaki Lacunza",
+    "Oriol Pareras",
+    "Carlos Escolano",
+    "Aitor Gonzalez-Agirre",
+    "Javier Hernando",
+    "Marta Villegas"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Spanish",
+    "Dutch",
+    "French",
+    "Portuguese",
+    "Italian",
+    "Polish",
+    "Swedish",
+    "Irish",
+    "Lithuanian",
+    "Galician",
+    "Greek",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-ijcnlp.18",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.18/"
+}

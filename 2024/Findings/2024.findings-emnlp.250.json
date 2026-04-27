@@ -1,0 +1,25 @@
+{
+  "title": "M5 – A Diverse Benchmark to Assess the Performance of Large Multimodal Models Across Multilingual and Multicultural Vision-Language Tasks",
+  "authors": [
+    "Florian Schneider",
+    "Sunayana Sitaram"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "Berber",
+    "Bengali",
+    "German",
+    "Hindi",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.250",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.250/"
+}

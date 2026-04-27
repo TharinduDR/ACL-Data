@@ -1,0 +1,19 @@
+{
+  "title": "RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization",
+  "authors": [
+    "Xijie Huang",
+    "Zechun Liu",
+    "Shih-yang Liu",
+    "Kwang-Ting Cheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.444",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.444/"
+}

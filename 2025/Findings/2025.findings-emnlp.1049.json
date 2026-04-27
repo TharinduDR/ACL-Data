@@ -1,0 +1,27 @@
+{
+  "title": "ClueAnchor: Clue-Anchored Knowledge Reasoning Exploration and Optimization for Retrieval-Augmented Generation",
+  "authors": [
+    "Hao Chen",
+    "Yukun Yan",
+    "Sen Mei",
+    "Wanxiang Che",
+    "Zhenghao Liu",
+    "Qi Shi",
+    "Xinze Li",
+    "Yuchun Fan",
+    "Pengcheng Huang",
+    "Qiushi Xiong",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-emnlp.1049",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1049/"
+}

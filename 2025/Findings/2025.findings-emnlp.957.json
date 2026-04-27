@@ -1,0 +1,21 @@
+{
+  "title": "Distributed LLM Serving on Consumer-Grade GPUs by Reconciling Computation and Communication",
+  "authors": [
+    "Lewei Jin",
+    "Kui Zhang",
+    "Yongqi Chen",
+    "Yifan Zhuo",
+    "Renjie Li",
+    "Yi Gao",
+    "Bowei Yang",
+    "Zhengong Cai",
+    "Wei Dong"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14",
+    "T02"
+  ],
+  "paper_id": "2025.findings-emnlp.957",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.957/"
+}

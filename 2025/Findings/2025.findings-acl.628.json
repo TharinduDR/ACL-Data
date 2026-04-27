@@ -14,9 +14,9 @@
     "English"
   ],
   "research_areas": [
-    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
-    "T18 Text Summarization",
-    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+    "T10",
+    "T21",
+    "T09"
   ],
   "paper_id": "2025.findings-acl.628",
   "acl_url": "https://aclanthology.org/2025.findings-acl.628/"

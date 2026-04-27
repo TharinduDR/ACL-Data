@@ -1,0 +1,23 @@
+{
+  "title": "SampleMix: A Sample-wise Pre-training Data Mixing Strategy by Coordinating Data Quality and Diversity",
+  "authors": [
+    "Xiangyu Xi",
+    "Deyang Kong",
+    "Jian Yang",
+    "JiaWei Yang",
+    "Zhengyu Chen",
+    "Wei Wang",
+    "Jingang Wang",
+    "Xunliang Cai",
+    "Shikun Zhang",
+    "Wei Ye"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.741",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.741/"
+}

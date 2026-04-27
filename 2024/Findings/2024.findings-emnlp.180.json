@@ -1,0 +1,20 @@
+{
+  "title": "Double-Checker: Large Language Model as a Checker for Few-shot Named Entity Recognition",
+  "authors": [
+    "Wei Chen",
+    "Lili Zhao",
+    "Zhi Zheng",
+    "Tong Xu",
+    "Yang Wang",
+    "Enhong Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-emnlp.180",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.180/"
+}

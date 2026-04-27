@@ -1,0 +1,22 @@
+{
+  "title": "How Much Knowledge Can You Pack into a LoRA Adapter without Harming LLM?",
+  "authors": [
+    "Sergey Pletenev",
+    "Maria Marina",
+    "Daniil Moskovskiy",
+    "Vasily Kononov",
+    "Pavel Braslavski",
+    "Alexander Panchenko",
+    "Mikhail Salnikov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T13 Knowledge discovery/representation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.243",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.243/"
+}

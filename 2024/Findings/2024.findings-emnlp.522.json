@@ -1,0 +1,24 @@
+{
+  "title": "Datasets for Multilingual Answer Sentence Selection",
+  "authors": [
+    "Matteo Gabburo",
+    "Stefano Campese",
+    "Federico Agostini",
+    "Alessandro Moschitti"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2024.findings-emnlp.522",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.522/"
+}

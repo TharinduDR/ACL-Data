@@ -1,0 +1,22 @@
+{
+  "title": "Advancing Cross-Lingual Entity Alignment with Large Language Models: Tailored Sample Segmentation and Zero-Shot Prompts",
+  "authors": [
+    "Linyan Yang",
+    "Jingwei Cheng",
+    "Fu Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "Japanese",
+    "German"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.findings-emnlp.475",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.475/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Mitigating Catastrophic Forgetting in Language Transfer via Model Merging",
+  "authors": [
+    "Anton Alexandrov",
+    "Veselin Raychev",
+    "Mark Niklas Müller",
+    "Ce Zhang",
+    "Martin Vechev",
+    "Kristina Toutanova"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Bulgarian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.1000",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.1000/"
+}

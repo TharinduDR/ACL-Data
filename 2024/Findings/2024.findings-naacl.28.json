@@ -1,0 +1,23 @@
+{
+  "title": "Leveraging Contextual Information for Effective Entity Salience Detection",
+  "authors": [
+    "Rajarshi Bhowmik",
+    "Marco Ponza",
+    "Atharva Tendle",
+    "Anant Gupta",
+    "Rebecca Jiang",
+    "Xingyu Lu",
+    "Qian Zhao",
+    "Daniel Preotiuc-Pietro"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-naacl.28",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.28/"
+}

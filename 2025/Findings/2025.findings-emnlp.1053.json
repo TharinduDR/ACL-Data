@@ -1,0 +1,21 @@
+{
+  "title": "TransBERT: A Framework for Synthetic Translation in Domain-Specific Language Modeling",
+  "authors": [
+    "Julien Knafou",
+    "Luc Mottin",
+    "Anaïs Mottaz",
+    "Alexandre Flament",
+    "Patrick Ruch"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.findings-emnlp.1053",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1053/"
+}

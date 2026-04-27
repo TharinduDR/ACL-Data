@@ -1,0 +1,25 @@
+{
+  "title": "Rethinking LLM Uncertainty: A Multi-Agent Approach to Estimating Black-Box Model Uncertainty",
+  "authors": [
+    "Yu Feng",
+    "Phu Mon Htut",
+    "Zheng Qi",
+    "Wei Xiao",
+    "Manuel Mager",
+    "Nikolaos Pappas",
+    "Kishaloy Halder",
+    "Yang Li",
+    "Yassine Benajiba",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-emnlp.660",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.660/"
+}

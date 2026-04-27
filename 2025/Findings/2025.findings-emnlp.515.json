@@ -1,0 +1,23 @@
+{
+  "title": "FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference",
+  "authors": [
+    "Dongwei Wang",
+    "Zijie Liu",
+    "Song Wang",
+    "Yuxin Ren",
+    "Jianing Deng",
+    "Jingtong Hu",
+    "Tianlong Chen",
+    "Huanrui Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.findings-emnlp.515",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.515/"
+}

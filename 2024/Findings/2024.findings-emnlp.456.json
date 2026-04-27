@@ -1,0 +1,25 @@
+{
+  "title": "Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding",
+  "authors": [
+    "Derong Xu",
+    "Ziheng Zhang",
+    "Zhihong Zhu",
+    "Zhenxi Lin",
+    "Qidong Liu",
+    "Xian Wu",
+    "Tong Xu",
+    "Xiangyu Zhao",
+    "Yefeng Zheng",
+    "Enhong Chen"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.findings-emnlp.456",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.456/"
+}

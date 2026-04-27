@@ -1,0 +1,30 @@
+{
+  "title": "Leveraging High-Resource English Corpora for Cross-lingual Domain Adaptation in Low-Resource Japanese Medicine via Continued Pre-training",
+  "authors": [
+    "Kazuma Kobayashi",
+    "Zhen Wan",
+    "Fei Cheng",
+    "Yuma Tsuta",
+    "Xin Zhao",
+    "Junfeng Jiang",
+    "Jiahao Huang",
+    "Zhiyi Huang",
+    "Yusuke Oda",
+    "Rio Yokota",
+    "Yuki Arase",
+    "Daisuke Kawahara",
+    "Akiko Aizawa",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2025.findings-emnlp.615",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.615/"
+}

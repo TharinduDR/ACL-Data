@@ -1,0 +1,20 @@
+{
+  "title": "DiffZOO: A Purely Query-Based Black-Box Attack for Red-teaming Text-to-Image Generative Model via Zeroth Order Optimization",
+  "authors": [
+    "Pucheng Dang",
+    "Xing Hu",
+    "Dong Li",
+    "Rui Zhang",
+    "Qi Guo",
+    "Kaidi Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.findings-naacl.2",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.2/"
+}

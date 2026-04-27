@@ -1,0 +1,31 @@
+{
+  "title": "P-FOLIO: Evaluating and Improving Logical Reasoning with Abundant Human-Written Reasoning Chains",
+  "authors": [
+    "Simeng Han",
+    "Aaron Yu",
+    "Rui Shen",
+    "Zhenting Qi",
+    "Martin Riddell",
+    "Wenfei Zhou",
+    "Yujie Qiao",
+    "Yilun Zhao",
+    "Semih Yavuz",
+    "Ye Liu",
+    "Shafiq Joty",
+    "Yingbo Zhou",
+    "Caiming Xiong",
+    "Rex Ying",
+    "Arman Cohan",
+    "Dragomir Radev"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.findings-emnlp.966",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.966/"
+}

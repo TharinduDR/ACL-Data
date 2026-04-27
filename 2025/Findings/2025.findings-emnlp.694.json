@@ -1,0 +1,28 @@
+{
+  "title": "Graph-Reward-SQL: Execution-Free Reinforcement Learning for Text-to-SQL via Graph Matching and Stepwise Reward",
+  "authors": [
+    "Han Weng",
+    "Puzhen Wu",
+    "Longjie Cui",
+    "Yi Zhan",
+    "Boyi Liu",
+    "Yuanfeng Song",
+    "Dun Zeng",
+    "Yingxiang Yang",
+    "Qianru Zhang",
+    "Dong Huang",
+    "Xiaoming Yin",
+    "Yang Sun",
+    "Xing Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.694",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.694/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "FRESHLLMs: Refreshing Large Language Models with Search Engine Augmentation",
+  "authors": [
+    "Tu Vu",
+    "Mohit Iyyer",
+    "Xuezhi Wang",
+    "Noah Constant",
+    "Jerry Wei",
+    "Jason Wei",
+    "Chris Tar",
+    "Yun-Hsuan Sung",
+    "Denny Zhou",
+    "Quoc Le",
+    "Thang Luong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.813",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.813/"
+}

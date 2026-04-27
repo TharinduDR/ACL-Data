@@ -1,0 +1,21 @@
+{
+  "title": "The Mediomatix Corpus: Parallel Data for Romansh Language Varieties via Comparable Schoolbooks",
+  "authors": [
+    "Zachary Hopton",
+    "Jannis Vamvas",
+    "Andrin Büchler",
+    "Anna Rutkiewicz",
+    "Rico Cathomas",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "Romansh",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2026.findings-eacl.16",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.16/"
+}

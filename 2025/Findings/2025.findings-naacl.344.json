@@ -1,0 +1,20 @@
+{
+  "title": "M-IFEval: Multilingual Instruction-Following Evaluation",
+  "authors": [
+    "Antoine Dussolle",
+    "Andrea Cardeña Díaz",
+    "Shota Sato",
+    "Peter Devine"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Japanese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.344",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.344/"
+}

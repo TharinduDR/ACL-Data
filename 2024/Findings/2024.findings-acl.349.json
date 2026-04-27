@@ -1,0 +1,30 @@
+{
+  "title": "All Languages Matter: On the Multilingual Safety of LLMs",
+  "authors": [
+    "Wenxuan Wang",
+    "Zhaopeng Tu",
+    "Chang Chen",
+    "Youliang Yuan",
+    "Jen-tse Huang",
+    "Wenxiang Jiao",
+    "Michael R. Lyu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "French",
+    "Arabic",
+    "Hindi",
+    "Russian",
+    "Japanese",
+    "German",
+    "Bengali"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2024.findings-acl.349",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.349/"
+}

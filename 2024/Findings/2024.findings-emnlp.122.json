@@ -1,0 +1,21 @@
+{
+  "title": "Enhancing Polyglot Voices by Leveraging Cross-Lingual Fine-Tuning in Any-to-One Voice Conversion",
+  "authors": [
+    "Giuseppe Ruggiero",
+    "Matteo Testa",
+    "Jurgen Van de Walle",
+    "Luigi Di Caro"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2024.findings-emnlp.122",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.122/"
+}

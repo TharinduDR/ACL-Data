@@ -1,0 +1,22 @@
+{
+  "title": "CARVQ: Corrective Adaptor with Group Residual Vector Quantization for LLM Embedding Compression",
+  "authors": [
+    "Dayin Gou",
+    "Sanghyun Byun",
+    "Nilesh Malpeddi",
+    "Gabrielle De Micheli",
+    "Prathamesh Vaste",
+    "Bahattin Yildiz",
+    "Jacob Song",
+    "Woo Seong Chung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.1009",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1009/"
+}

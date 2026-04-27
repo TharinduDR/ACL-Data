@@ -1,0 +1,27 @@
+{
+  "title": "MedINST: Meta Dataset of Biomedical Instructions",
+  "authors": [
+    "Wenhan Han",
+    "Meng Fang",
+    "Zihan Zhang",
+    "Yu Yin",
+    "Zirui Song",
+    "Ling Chen",
+    "Mykola Pechenizkiy",
+    "Qingyu Chen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11",
+    "T14",
+    "T18",
+    "T26"
+  ],
+  "paper_id": "2024.findings-emnlp.482",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.482/"
+}

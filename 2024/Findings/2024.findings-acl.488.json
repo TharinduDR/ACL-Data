@@ -1,0 +1,27 @@
+{
+  "title": "LLMs Beyond English: Scaling the Multilingual Capability of LLMs with Cross-Lingual Feedback",
+  "authors": [
+    "Wen Lai",
+    "Mohsen Mesgar",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "French",
+    "German",
+    "Hindi",
+    "Armenian",
+    "Gujarati",
+    "Kannada",
+    "Malayalam",
+    "Marathi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.488",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.488/"
+}

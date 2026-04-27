@@ -1,0 +1,30 @@
+{
+  "title": "MAKIEVAL: A Multilingual Automatic WikiData-based Framework for Cultural Awareness Evaluation for LLMs",
+  "authors": [
+    "Raoyuan Zhao",
+    "Beiduo Chen",
+    "Barbara Plank",
+    "Michael A. Hedderich"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "German",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Chinese",
+    "Spanish",
+    "Thai",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.findings-emnlp.1256",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1256/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "M-Ped: Multi-Prompt Ensemble Decoding for Large Language Models",
+  "authors": [
+    "Jiaxin GUO",
+    "Daimeng Wei",
+    "Yuanchang Luo",
+    "Hengchao Shang",
+    "Zongyao Li",
+    "Jinlong Yang",
+    "Zhanglin Wu",
+    "Zhiqiang Rao",
+    "Shimi Tao",
+    "Hao Yang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "French",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T19 Text Simplification"
+  ],
+  "paper_id": "2025.findings-emnlp.906",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.906/"
+}

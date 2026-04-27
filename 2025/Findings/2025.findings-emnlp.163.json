@@ -1,0 +1,19 @@
+{
+  "title": "NeighXLM: Enhancing Cross-Lingual Transfer in Low-Resource Languages via Neighbor-Augmented Contrastive Pretraining",
+  "authors": [
+    "Sicheng Wang",
+    "Wenyi Wu",
+    "Zibo Zhang"
+  ],
+  "languages": [
+    "Swahili",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.findings-emnlp.163",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.163/"
+}

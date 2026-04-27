@@ -1,0 +1,22 @@
+{
+  "title": "MiLe Loss: a New Loss for Mitigating the Bias of Learning Difficulties in Generative Language Models",
+  "authors": [
+    "Zhenpeng Su",
+    "Xing Wu",
+    "Xue Bai",
+    "Zijia Lin",
+    "Hui Chen",
+    "Guiguang Ding",
+    "Wei Zhou",
+    "Songlin Hu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2024.findings-naacl.18",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.18/"
+}

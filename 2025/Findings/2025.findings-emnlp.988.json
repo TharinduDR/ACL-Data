@@ -1,0 +1,30 @@
+{
+  "title": "Lemma Dilemma: On Lemma Generation Without Domain- or Language-Specific Training Data",
+  "authors": [
+    "Olia Toporkov",
+    "Alan Akbik",
+    "Rodrigo Agerri"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Russian",
+    "Basque",
+    "Turkish",
+    "Czech",
+    "French",
+    "German",
+    "Italian",
+    "Finnish",
+    "Icelandic",
+    "Swedish",
+    "Polish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.findings-emnlp.988",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.988/"
+}

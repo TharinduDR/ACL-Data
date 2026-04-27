@@ -1,0 +1,23 @@
+{
+  "title": "MalayMMLU: A Multitask Benchmark for the Low-Resource Malay Language",
+  "authors": [
+    "Soon Chang Poh",
+    "Sze Jue Yang",
+    "Jeraelyn Ming Li Tan",
+    "Lawrence Leroy Tze Yao Chieng",
+    "Jia Xuan Tan",
+    "Zhenyu Yu",
+    "Chee Mun Foong",
+    "Chee Seng Chan"
+  ],
+  "languages": [
+    "Malay",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2024.findings-emnlp.36",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.36/"
+}

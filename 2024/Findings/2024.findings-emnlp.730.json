@@ -1,0 +1,42 @@
+{
+  "title": "Knowing When You Don't Know: A Multilingual Relevance Assessment Dataset for Robust Retrieval-Augmented Generation",
+  "authors": [
+    "Nandan Thakur",
+    "Luiz Bonifacio",
+    "Xinyu Zhang",
+    "Odunayo Ogundepo",
+    "Ehsan Kamalloo",
+    "David Alfonso-Hermelo",
+    "Xiaoguang Li",
+    "Qun Liu",
+    "Boxing Chen",
+    "Mehdi Rezagholizadeh",
+    "Jimmy Lin"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "German",
+    "English",
+    "Spanish",
+    "Persian",
+    "Finnish",
+    "French",
+    "Hindi",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Yoruba",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.findings-emnlp.730",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.730/"
+}

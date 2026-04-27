@@ -1,0 +1,25 @@
+{
+  "title": "DongbaMIE: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms",
+  "authors": [
+    "Xiaojun Bi",
+    "Shuo Li",
+    "Junyao Xing",
+    "Ziyue Wang",
+    "Fuwen Luo",
+    "Weizheng Qiao",
+    "Lu Han",
+    "Ziwei Sun",
+    "Peng Li",
+    "Yang Liu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.51",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.51/"
+}

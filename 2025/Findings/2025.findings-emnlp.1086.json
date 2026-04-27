@@ -1,0 +1,18 @@
+{
+  "title": "LASER: Stratified Selective Sampling for Instruction Tuning with Dedicated Scoring Strategy",
+  "authors": [
+    "Paramita Mirza",
+    "Lucas Weber",
+    "Fabian Küch"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.findings-emnlp.1086",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1086/"
+}

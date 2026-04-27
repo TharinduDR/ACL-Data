@@ -1,0 +1,21 @@
+{
+  "title": "LAVA: Layer-wise KV Cache Eviction with Dynamic Budget Allocation",
+  "authors": [
+    "Yiqun Shen",
+    "Song Yuan",
+    "Zhengze Zhang",
+    "Xiaoliang Wang",
+    "Daxin Jiang",
+    "Cam-Tu Nguyen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14",
+    "T09",
+    "T10"
+  ],
+  "paper_id": "2025.findings-emnlp.737",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.737/"
+}

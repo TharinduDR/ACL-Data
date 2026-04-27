@@ -1,0 +1,29 @@
+{
+  "title": "English as Defense Proxy: Mitigating Multilingual Jailbreak via Eliciting English Safety Knowledge",
+  "authors": [
+    "Zekai Zhang",
+    "Yiduo Guo",
+    "Jiuheng Lin",
+    "Shanghaoran Quan",
+    "Huishuai Zhang",
+    "Dongyan Zhao"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Zulu",
+    "Javanese",
+    "Swahili",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.findings-emnlp.62",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.62/"
+}

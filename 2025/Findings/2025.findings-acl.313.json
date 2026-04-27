@@ -10,12 +10,12 @@
     "Guanglai Gao"
   ],
   "languages": [
-    "Chinese"
+    "Chinese",
+    "English"
   ],
   "research_areas": [
     "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
-    "T01 Bias, Guardrails, filters",
-    "T12 Interpretability/explainability of language models and language and speech processing tools"
+    "T01 Bias, Guardrails, filters"
   ],
   "paper_id": "2025.findings-acl.313",
   "acl_url": "https://aclanthology.org/2025.findings-acl.313/"

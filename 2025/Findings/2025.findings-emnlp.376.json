@@ -1,0 +1,20 @@
+{
+  "title": "Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models",
+  "authors": [
+    "Junjie Xiong",
+    "Changjia Zhu",
+    "Shuhang Lin",
+    "Chong Zhang",
+    "Yongfeng Zhang",
+    "Yao Liu",
+    "Lingyao Li"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.findings-emnlp.376",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.376/"
+}

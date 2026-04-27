@@ -1,0 +1,20 @@
+{
+  "title": "Turn-PPO: Turn-Level Advantage Estimation with PPO for Improved Multi-Turn RL in Agentic LLMs",
+  "authors": [
+    "Junbo Li",
+    "Peng Zhou",
+    "Rui Meng",
+    "Meet P. Vadera",
+    "Lihong Li",
+    "Yang Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14",
+    "T09"
+  ],
+  "paper_id": "2026.findings-eacl.328",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.328/"
+}

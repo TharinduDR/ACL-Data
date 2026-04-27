@@ -1,0 +1,22 @@
+{
+  "title": "HiMATE: A Hierarchical Multi-Agent Framework for Machine Translation Evaluation",
+  "authors": [
+    "Shijie Zhang",
+    "Renhao Li",
+    "Songsheng Wang",
+    "Philipp Koehn",
+    "Min Yang",
+    "Derek F. Wong"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.593",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.593/"
+}

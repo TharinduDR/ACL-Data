@@ -1,0 +1,20 @@
+{
+  "title": "From Noise to Clarity: Filtering Real and LLM-Generated Samples for Enhanced Intent Detection",
+  "authors": [
+    "Junbao Huang",
+    "Weizhen Li",
+    "Peijie Huang",
+    "Yuhong Xu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2025.findings-emnlp.1186",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1186/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "FractalLLM: Lossless Self-Speculative Decoding with Layer Embedded Self-Compression",
+  "authors": [
+    "Juhyeong Kim",
+    "Sangyeon Yu",
+    "Gyuyeop Kim",
+    "Sangwoo Kang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-emnlp.1286",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1286/"
+}

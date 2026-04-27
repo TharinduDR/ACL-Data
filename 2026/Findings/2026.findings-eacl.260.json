@@ -1,0 +1,17 @@
+{
+  "title": "Enabling Autoregressive Models to Fill In Masked Tokens",
+  "authors": [
+    "Daniel Israel",
+    "Aditya Grover",
+    "Guy Van den Broeck"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2026.findings-eacl.260",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.260/"
+}

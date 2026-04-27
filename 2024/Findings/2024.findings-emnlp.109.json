@@ -1,0 +1,21 @@
+{
+  "title": "Layer-wise Importance Matters: Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models",
+  "authors": [
+    "Kai Yao",
+    "Penlei Gao",
+    "Lichun Li",
+    "Yuan Zhao",
+    "Xiaofeng Wang",
+    "Wei Wang",
+    "Jianke Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.findings-emnlp.109",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.109/"
+}

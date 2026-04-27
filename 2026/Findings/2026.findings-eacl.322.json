@@ -1,0 +1,21 @@
+{
+  "title": "Evaluating Multi-Hop Reasoning in Large Language Models: A Chemistry-Centric Benchmark",
+  "authors": [
+    "Mohammad Khodadad",
+    "Ali Shiraee Kasmaee",
+    "Mahdi Astaraki",
+    "Nicholas Sherck",
+    "Hamidreza Mahyar",
+    "Soheila Samiee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2026.findings-eacl.322",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.322/"
+}

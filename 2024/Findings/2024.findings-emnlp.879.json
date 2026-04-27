@@ -1,0 +1,22 @@
+{
+  "title": "Prospector: Improving LLM Agents with Self-Asking and Trajectory Ranking",
+  "authors": [
+    "Byoungjip Kim",
+    "Youngsoo Jang",
+    "Lajanugen Logeswaran",
+    "Geon-Hyeong Kim",
+    "Yu Jin Kim",
+    "Honglak Lee",
+    "Moontae Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2024.findings-emnlp.879",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.879/"
+}

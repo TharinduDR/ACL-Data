@@ -1,0 +1,25 @@
+{
+  "title": "R3-RAG: Learning Step-by-Step Reasoning and Retrieval for LLMs via Reinforcement Learning",
+  "authors": [
+    "Yuan Li",
+    "Qi Luo",
+    "Xiaonan Li",
+    "Bufan Li",
+    "Qinyuan Cheng",
+    "Bo Wang",
+    "Yining Zheng",
+    "Yuxin Wang",
+    "Zhangyue Yin",
+    "Xipeng Qiu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10",
+    "T14",
+    "T09"
+  ],
+  "paper_id": "2025.findings-emnlp.554",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.554/"
+}

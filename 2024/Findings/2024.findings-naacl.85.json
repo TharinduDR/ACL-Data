@@ -1,0 +1,19 @@
+{
+  "title": "ReEval: Automatic Hallucination Evaluation for Retrieval-Augmented Large Language Models via Transferable Adversarial Attacks",
+  "authors": [
+    "Xiaodong Yu",
+    "Hao Cheng",
+    "Xiaodong Liu",
+    "Dan Roth",
+    "Jianfeng Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.findings-naacl.85",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.85/"
+}

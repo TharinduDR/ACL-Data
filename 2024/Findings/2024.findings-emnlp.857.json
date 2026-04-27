@@ -1,0 +1,22 @@
+{
+  "title": "Identifying Factual Inconsistencies in Summaries: Grounding LLM Inference via Task Taxonomy",
+  "authors": [
+    "Liyan Xu",
+    "Zhenlin Su",
+    "Mo Yu",
+    "Jin Xu",
+    "Jinho D. Choi",
+    "Jie Zhou",
+    "Fei Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.findings-emnlp.857",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.857/"
+}

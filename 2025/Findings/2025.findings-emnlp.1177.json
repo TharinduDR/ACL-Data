@@ -1,0 +1,20 @@
+{
+  "title": "Data Augmentation for Maltese NLP using Transliterated and Machine Translated Arabic Data",
+  "authors": [
+    "Kurt Micallef",
+    "Nizar Habash",
+    "Claudia Borg"
+  ],
+  "languages": [
+    "Arabic",
+    "Maltese",
+    "English"
+  ],
+  "research_areas": [
+    "T11",
+    "T14",
+    "T20"
+  ],
+  "paper_id": "2025.findings-emnlp.1177",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1177/"
+}

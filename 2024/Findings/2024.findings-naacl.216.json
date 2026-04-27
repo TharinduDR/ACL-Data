@@ -1,0 +1,19 @@
+{
+  "title": "Anti-LM Decoding for Zero-shot In-context Machine Translation",
+  "authors": [
+    "Suzanna Sia",
+    "Alexandra DeLucia",
+    "Kevin Duh"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.findings-naacl.216",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.216/"
+}

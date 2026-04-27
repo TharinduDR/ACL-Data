@@ -1,0 +1,21 @@
+{
+  "title": "DF-RAG: Query-Aware Diversity for Retrieval-Augmented Generation",
+  "authors": [
+    "Saadat Hasan Khan",
+    "Spencer Hong",
+    "Jingyu Wu",
+    "Kevin Lybarger",
+    "Youbing Yin",
+    "Erin Babinsky",
+    "Daben Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2026.findings-eacl.150",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.150/"
+}

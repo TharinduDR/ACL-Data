@@ -1,0 +1,19 @@
+{
+  "title": "TRANSLLAMA: LLM-based Simultaneous Translation System",
+  "authors": [
+    "Roman Koshkin",
+    "Katsuhito Sudoh",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-emnlp.27",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.27/"
+}

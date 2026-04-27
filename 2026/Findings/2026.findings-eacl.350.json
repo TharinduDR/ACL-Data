@@ -1,0 +1,19 @@
+{
+  "title": "CrisiText: A dataset of warning messages for LLM training in emergency communication",
+  "authors": [
+    "G. Gonella",
+    "G. M. Campedelli",
+    "S. Menini",
+    "M. Guerini"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.findings-eacl.350",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.350/"
+}

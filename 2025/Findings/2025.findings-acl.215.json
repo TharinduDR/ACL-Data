@@ -9,12 +9,10 @@
     "Evgeny Kharlamov",
     "Steffen Staab"
   ],
-  "languages": [
-    "English"
-  ],
+  "languages": [],
   "research_areas": [
-    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
-    "T09 Inference and Reasoning"
+    "T13",
+    "T09"
   ],
   "paper_id": "2025.findings-acl.215",
   "acl_url": "https://aclanthology.org/2025.findings-acl.215/"

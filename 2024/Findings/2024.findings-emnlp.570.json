@@ -1,0 +1,22 @@
+{
+  "title": "MobileQuant: Mobile-friendly Quantization for On-device Language Models",
+  "authors": [
+    "Fuwen Tan",
+    "Royson Lee",
+    "Łukasz Dudziak",
+    "Shell Xu Hu",
+    "Sourav Bhattacharya",
+    "Timothy Hospedales",
+    "Georgios Tzimiropoulos",
+    "Brais Martinez"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.570",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.570/"
+}

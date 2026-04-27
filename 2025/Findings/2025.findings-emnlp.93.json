@@ -1,0 +1,23 @@
+{
+  "title": "CCL-XCoT: An Efficient Cross-Lingual Knowledge Transfer Method for Mitigating Hallucination Generation",
+  "authors": [
+    "Weihua Zheng",
+    "Roy Ka-Wei Lee",
+    "Zhengyuan Liu",
+    "Kui Wu",
+    "AiTi Aw",
+    "Bowei Zou"
+  ],
+  "languages": [
+    "Chinese",
+    "Malay",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-emnlp.93",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.93/"
+}

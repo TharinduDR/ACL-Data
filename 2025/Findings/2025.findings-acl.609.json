@@ -12,13 +12,13 @@
     "German",
     "French",
     "English",
-    "Luxembourgish",
+    "Turkish",
     "Arabic",
-    "Turkish"
+    "Luxembourgish"
   ],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
     "T06 Information Retrieval and Cross-lingual Retrieval"
   ],
   "paper_id": "2025.findings-acl.609",

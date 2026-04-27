@@ -1,0 +1,24 @@
+{
+  "title": "Unlocking Parameter-Efficient Fine-Tuning for Low-Resource Language Translation",
+  "authors": [
+    "Tong Su",
+    "Xin Peng",
+    "Sarubi Thillainathan",
+    "David Guzmán",
+    "Surangika Ranathunga",
+    "En-Shiun Annie Lee"
+  ],
+  "languages": [
+    "Sinhala",
+    "Tamil",
+    "Hindi",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-naacl.263",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.263/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Factcheck-Bench: Fine-Grained Evaluation Benchmark for Automatic Fact-Checkers",
+  "authors": [
+    "Yuxia Wang",
+    "Revanth Gangi Reddy",
+    "Zain Muhammad Mujahid",
+    "Arnav Arora",
+    "Aleksandr Rubashevskii",
+    "Jiahui Geng",
+    "Osama Mohammed Afzal",
+    "Liangming Pan",
+    "Nadav Borenstein",
+    "Aditya Pillai",
+    "Isabelle Augenstein",
+    "Iryna Gurevych",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.830",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.830/"
+}

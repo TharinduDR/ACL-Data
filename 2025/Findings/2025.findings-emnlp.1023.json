@@ -1,0 +1,23 @@
+{
+  "title": "One Shot Dominance: Knowledge Poisoning Attack on Retrieval-Augmented Generation Systems",
+  "authors": [
+    "Zhiyuan Chang",
+    "Mingyang Li",
+    "Xiaojun Jia",
+    "Junjie Wang",
+    "Yuekai Huang",
+    "Ziyou Jiang",
+    "Yang Liu",
+    "Qing Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.1023",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1023/"
+}

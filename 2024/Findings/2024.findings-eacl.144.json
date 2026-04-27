@@ -1,0 +1,22 @@
+{
+  "title": "Fine-tuning CLIP Text Encoders with Two-step Paraphrasing",
+  "authors": [
+    "Hyunjae Kim",
+    "Seunghyun Yoon",
+    "Trung Bui",
+    "Handong Zhao",
+    "Quan Tran",
+    "Franck Dernoncourt",
+    "Jaewoo Kang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.findings-eacl.144",
+  "acl_url": "https://aclanthology.org/2024.findings-eacl.144/"
+}

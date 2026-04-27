@@ -1,0 +1,21 @@
+{
+  "title": "MGCL: Multi-Granularity Clue Learning for Emotion-Cause Pair Extraction via Cross-Grained Knowledge Distillation",
+  "authors": [
+    "Yang Yu",
+    "Xin Lin",
+    "Changqun Li",
+    "Shizhou Huang",
+    "Liang He"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.findings-emnlp.105",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.105/"
+}

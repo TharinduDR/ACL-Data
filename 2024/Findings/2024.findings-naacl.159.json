@@ -1,0 +1,20 @@
+{
+  "title": "Why So Gullible? Enhancing the Robustness of Retrieval-Augmented Models against Counterfactual Noise",
+  "authors": [
+    "Giwon Hong",
+    "Jeonghwan Kim",
+    "Junmo Kang",
+    "Sung-Hyon Myaeng",
+    "Joyce Jiyoung Whang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-naacl.159",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.159/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "LC-Eval: A Bilingual Multi-Task Evaluation Benchmark for Long-Context Understanding",
+  "authors": [
+    "Sheikh Jubair",
+    "Arwa Omayrah",
+    "Amal Alshammari",
+    "Alhanoof Althnian",
+    "Abdulhamed alothaimen",
+    "Norah A. Alzahrani",
+    "Shahad D. Alzaidi",
+    "Nora Al-Twairesh",
+    "Abdulmohsen Al-Thubaity"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.findings-emnlp.1057",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1057/"
+}

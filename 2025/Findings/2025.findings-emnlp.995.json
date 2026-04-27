@@ -1,0 +1,23 @@
+{
+  "title": "Predicting Language Models' Success at Zero-Shot Probabilistic Prediction",
+  "authors": [
+    "Kevin Ren",
+    "Santiago Cortes-Gomez",
+    "Carlos Miguel Patiño",
+    "Ananya Joshi",
+    "Ruiqi Lyu",
+    "Jingjing Tang",
+    "Alistair Turcan",
+    "Khurram Yamin",
+    "Steven Wu",
+    "Bryan Wilder"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-emnlp.995",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.995/"
+}

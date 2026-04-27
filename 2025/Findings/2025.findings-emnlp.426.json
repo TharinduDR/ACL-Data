@@ -1,0 +1,23 @@
+{
+  "title": "DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs",
+  "authors": [
+    "Xiabin Zhou",
+    "Wenbin Wang",
+    "Minyan Zeng",
+    "Jiaxian Guo",
+    "Xuebo Liu",
+    "Li Shen",
+    "Min Zhang",
+    "Liang Ding"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14",
+    "T18",
+    "T27"
+  ],
+  "paper_id": "2025.findings-emnlp.426",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.426/"
+}

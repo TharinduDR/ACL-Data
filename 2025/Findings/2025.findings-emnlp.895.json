@@ -1,0 +1,19 @@
+{
+  "title": "DAVIS: Planning Agent with Knowledge Graph-Powered Inner Monologue",
+  "authors": [
+    "Minh Pham-Dinh",
+    "Munira Syed",
+    "Michael Yankoski",
+    "Trenton W. Ford"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-emnlp.895",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.895/"
+}

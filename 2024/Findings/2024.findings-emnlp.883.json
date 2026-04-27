@@ -1,0 +1,20 @@
+{
+  "title": "Self-training Large Language Models through Knowledge Detection",
+  "authors": [
+    "Wei Jie Yeo",
+    "Teddy Ferdinan",
+    "Przemyslaw Kazienko",
+    "Ranjan Satapathy",
+    "Erik Cambria"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2024.findings-emnlp.883",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.883/"
+}

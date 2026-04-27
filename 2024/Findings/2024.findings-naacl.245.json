@@ -1,0 +1,24 @@
+{
+  "title": "MCECR: A Novel Dataset for Multilingual Cross-Document Event Coreference Resolution",
+  "authors": [
+    "Amir Pouran Ben Veyseh",
+    "Viet Dac Lai",
+    "Chien Van Nguyen",
+    "Franck Dernoncourt",
+    "Thien Huu Nguyen"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Turkish",
+    "Ukrainian",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-naacl.245",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.245/"
+}

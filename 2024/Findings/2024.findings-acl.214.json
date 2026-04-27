@@ -1,0 +1,32 @@
+{
+  "title": "DevEval: A Manually-Annotated Code Generation Benchmark Aligned with Real-World Code Repositories",
+  "authors": [
+    "Jia Li",
+    "Ge Li",
+    "Yunfei Zhao",
+    "Yongmin Li",
+    "Huanyu Liu",
+    "Hao Zhu",
+    "Lecheng Wang",
+    "Kaibo Liu",
+    "Zheng Fang",
+    "Lanshen Wang",
+    "Jiazheng Ding",
+    "Xuanming Zhang",
+    "Yuqi Zhu",
+    "Yihong Dong",
+    "Zhi Jin",
+    "Binhua Li",
+    "Fei Huang",
+    "Yongbin Li",
+    "Bin Gu",
+    "Mengfei Yang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.214",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.214/"
+}

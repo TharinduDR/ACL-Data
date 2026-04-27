@@ -1,0 +1,23 @@
+{
+  "title": "R2A-TLS: Reflective Retrieval-Augmented Timeline Summarization with Causal-Semantic Integration",
+  "authors": [
+    "Chenlong Bao",
+    "Shijie Li",
+    "Minghao Hu",
+    "Ming Qiao",
+    "Bin Zhang",
+    "Jintao Tang",
+    "Shasha Li",
+    "Ting Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T11 Information Extraction",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2025.findings-emnlp.40",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.40/"
+}

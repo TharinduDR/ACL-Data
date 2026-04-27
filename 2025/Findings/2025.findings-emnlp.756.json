@@ -1,0 +1,27 @@
+{
+  "title": "BiMediX2: Bio-Medical EXpert LMM for Diverse Medical Modalities",
+  "authors": [
+    "Sahal Shaji Mullappilly",
+    "Mohammed Irfan Kurpath",
+    "Sara Pieri",
+    "Saeed Yahya Alseiri",
+    "Shanavas Cholakkal",
+    "Khaled Aldahmani",
+    "Fahad Khan",
+    "Rao Anwer",
+    "Salman Khan",
+    "Timothy Baldwin",
+    "Hisham Cholakkal"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-emnlp.756",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.756/"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching",
+  "authors": [
+    "Xinye Zhao",
+    "Spyridon Mastorakis"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-ijcnlp.25",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.25/"
+}

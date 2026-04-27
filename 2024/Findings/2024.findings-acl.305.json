@@ -1,0 +1,31 @@
+{
+  "title": "Publicly Shareable Clinical Large Language Model Built on Synthetic Clinical Notes",
+  "authors": [
+    "Sunjun Kweon",
+    "Junu Kim",
+    "Jiyou Kim",
+    "Sujeong Im",
+    "Eunbyeol Cho",
+    "Seongsu Bae",
+    "Jungwoo Oh",
+    "Gyubok Lee",
+    "Jong Hak Moon",
+    "Seng Chan You",
+    "Seungjin Baek",
+    "Chang Hoon Han",
+    "Yoon Bin Jung",
+    "Yohan Jo",
+    "Edward Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T18 Text Summarization",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2024.findings-acl.305",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.305/"
+}

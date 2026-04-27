@@ -1,0 +1,22 @@
+{
+  "title": "SpecCoT: Accelerating Chain-of-Thought Reasoning through Speculative Exploration",
+  "authors": [
+    "Junhan Shi",
+    "Yijia Zhu",
+    "Zhenning Shi",
+    "Dan Zhao",
+    "Qing Li",
+    "Yong Jiang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.findings-emnlp.1326",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1326/"
+}

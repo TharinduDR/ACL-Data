@@ -1,0 +1,26 @@
+{
+  "title": "Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study",
+  "authors": [
+    "Yujun Zhou",
+    "Jiayi Ye",
+    "Zipeng Ling",
+    "Yufei Han",
+    "Yue Huang",
+    "Haomin Zhuang",
+    "Zhenwen Liang",
+    "Kehan Guo",
+    "Taicheng Guo",
+    "Xiangqi Wang",
+    "Xiangliang Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.926",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.926/"
+}

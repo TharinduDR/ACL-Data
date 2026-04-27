@@ -1,0 +1,26 @@
+{
+  "title": "Fraud-R1: A Multi-Round Benchmark for Assessing the Robustness of LLM Against Augmented Fraud and Phishing Inducements",
+  "authors": [
+    "Shu Yang",
+    "Shenzhe Zhu",
+    "Zeyu Wu",
+    "Keyu Wang",
+    "Junchi Yao",
+    "Junchao Wu",
+    "Lijie Hu",
+    "Mengdi Li",
+    "Derek F. Wong",
+    "Di Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2025.findings-acl.226",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.226/"
+}

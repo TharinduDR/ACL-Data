@@ -1,0 +1,21 @@
+{
+  "title": "Lost in Embeddings: Information Loss in Vision-Language Models",
+  "authors": [
+    "Wenyan Li",
+    "Raphael Tang",
+    "Chengzu Li",
+    "Caiqi Zhang",
+    "Ivan Vulic",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-emnlp.1235",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1235/"
+}

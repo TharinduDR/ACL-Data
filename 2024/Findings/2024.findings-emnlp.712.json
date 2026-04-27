@@ -1,0 +1,32 @@
+{
+  "title": "SAFARI: Cross-lingual Bias and Factuality Detection in News Media and News Articles",
+  "authors": [
+    "Dilshod Azizov",
+    "Zain Muhammad Mujahid",
+    "Hilal AlQuabeh",
+    "Preslav Nakov",
+    "Shangsong Liang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hindi",
+    "French",
+    "Spanish",
+    "Hebrew",
+    "Japanese",
+    "Italian",
+    "Arabic",
+    "Russian",
+    "Spanish",
+    "Bulgarian",
+    "Persian",
+    "Polish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.712",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.712/"
+}

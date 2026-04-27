@@ -1,0 +1,21 @@
+{
+  "title": "MMCode: Benchmarking Multimodal Large Language Models in Code Generation with Visually Rich Programming Problems",
+  "authors": [
+    "Kaixin Li",
+    "Yuchen Tian",
+    "Qisheng Hu",
+    "Ziyang Luo",
+    "Zhiyong Huang",
+    "Jing Ma"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.42",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.42/"
+}

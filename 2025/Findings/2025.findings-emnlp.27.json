@@ -1,0 +1,25 @@
+{
+  "title": "Perovskite-LLM: Knowledge-Enhanced Large Language Models for Perovskite Solar Cell Research",
+  "authors": [
+    "Xiang Liu",
+    "Penglei Sun",
+    "Shuyan Chen",
+    "Longhan Zhang",
+    "Peijie Dong",
+    "Huajie You",
+    "Yongqi Zhang",
+    "Chang Yan",
+    "Xiaowen Chu",
+    "Tong-yi Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-emnlp.27",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.27/"
+}

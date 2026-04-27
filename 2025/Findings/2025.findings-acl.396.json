@@ -12,9 +12,9 @@
     "English"
   ],
   "research_areas": [
-    "T06 Information Retrieval and Cross-lingual Retrieval",
-    "T27 Code generation and programming languages",
-    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+    "T06",
+    "T10",
+    "T27"
   ],
   "paper_id": "2025.findings-acl.396",
   "acl_url": "https://aclanthology.org/2025.findings-acl.396/"

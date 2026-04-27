@@ -1,0 +1,23 @@
+{
+  "title": "ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction",
+  "authors": [
+    "Henry Peng Zou",
+    "Vinay Samuel",
+    "Yue Zhou",
+    "Weizhi Zhang",
+    "Liancheng Fang",
+    "Zihe Song",
+    "Philip S. Yu",
+    "Cornelia Caragea"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.20",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.20/"
+}

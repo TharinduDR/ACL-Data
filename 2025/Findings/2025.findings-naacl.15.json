@@ -1,0 +1,27 @@
+{
+  "title": "Enhancing Visual-Language Modality Alignment in Large Vision Language Models via Self-Improvement",
+  "authors": [
+    "Xiyao Wang",
+    "Jiuhai Chen",
+    "Zhaoyang Wang",
+    "Yuhang Zhou",
+    "Yiyang Zhou",
+    "Huaxiu Yao",
+    "Tianyi Zhou",
+    "Tom Goldstein",
+    "Parminder Bhatia",
+    "Taha Kass-Hout",
+    "Furong Huang",
+    "Cao Xiao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.15",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.15/"
+}

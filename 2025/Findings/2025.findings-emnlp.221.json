@@ -1,0 +1,23 @@
+{
+  "title": "FlexQuant: A Flexible and Efficient Dynamic Precision Switching Framework for LLM Quantization",
+  "authors": [
+    "Fangxin Liu",
+    "Zongwu Wang",
+    "Jinhong Xia",
+    "Junping Zhao",
+    "Shouren Zhao",
+    "Jinjin Li",
+    "Jian Liu",
+    "Li Jiang",
+    "Haibing Guan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-emnlp.221",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.221/"
+}

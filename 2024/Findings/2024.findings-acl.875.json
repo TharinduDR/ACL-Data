@@ -1,0 +1,22 @@
+{
+  "title": "Sparsity-Accelerated Training for Large Language Models",
+  "authors": [
+    "Da Ma",
+    "Lu Chen",
+    "Pengyu Wang",
+    "Hongshen Xu",
+    "Hanqi Li",
+    "Liangtai Sun",
+    "Su Zhu",
+    "Shuai Fan",
+    "Kai Yu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.875",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.875/"
+}

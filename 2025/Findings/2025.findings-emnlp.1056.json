@@ -1,0 +1,36 @@
+{
+  "title": "ReCoVeR the Target Language: Language Steering without Sacrificing Task Performance",
+  "authors": [
+    "Hannah Sterz",
+    "Fabian David Schmidt",
+    "Goran Glavaš",
+    "Ivan Vulić"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Portuguese",
+    "Russian",
+    "Chinese",
+    "Japanese",
+    "Arabic",
+    "Hindi",
+    "Indonesian",
+    "Persian",
+    "Thai",
+    "Polish",
+    "Dutch",
+    "Bengali",
+    "Italian",
+    "Korean",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.1056",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1056/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Textless Speech-to-Speech Translation With Limited Parallel Data",
+  "authors": [
+    "Anuj Diwan",
+    "Anirudh Srinivasan",
+    "David Harwath",
+    "Eunsol Choi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Marathi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.findings-emnlp.951",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.951/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "ResLoRA: Identity Residual Mapping in Low-Rank Adaption",
+  "authors": [
+    "Shuhua Shi",
+    "Shaohan Huang",
+    "Minghui Song",
+    "Zhoujun Li",
+    "Zihan Zhang",
+    "Haizhen Huang",
+    "Furu Wei",
+    "Weiwei Deng",
+    "Feng Sun",
+    "Qi Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2024.findings-acl.525",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.525/"
+}

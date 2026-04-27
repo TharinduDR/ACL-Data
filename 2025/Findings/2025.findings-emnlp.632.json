@@ -1,0 +1,25 @@
+{
+  "title": "Enhancing Model Privacy in Federated Learning with Random Masking and Quantization",
+  "authors": [
+    "Zhibo Xu",
+    "Jianhao Zhu",
+    "Jingwen Xu",
+    "Changze Lv",
+    "Zhenghua Wang",
+    "Zisu Huang",
+    "Xiaohua Wang",
+    "Muling Wu",
+    "Qi Qian",
+    "Xiaoqing Zheng",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-emnlp.632",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.632/"
+}

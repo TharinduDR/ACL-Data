@@ -1,0 +1,30 @@
+{
+  "title": "Biology-Instructions: A Dataset and Benchmark for Multi-Omics Sequence Understanding Capability of Large Language Models",
+  "authors": [
+    "Haonan He",
+    "Yuchen Ren",
+    "Yining Tang",
+    "Ziyang Xu",
+    "Junxian Li",
+    "Minghao Yang",
+    "Di Zhang",
+    "Dong Yuan",
+    "Tao Chen",
+    "Shufei Zhang",
+    "Yuqiang Li",
+    "Nanqing Dong",
+    "Wanli Ouyang",
+    "Dongzhang Zhou",
+    "Peng Ye"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-emnlp.978",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.978/"
+}

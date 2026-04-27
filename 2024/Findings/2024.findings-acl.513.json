@@ -1,0 +1,20 @@
+{
+  "title": "VAEGPT-Sim: Improving Sentence Representation with Limited Corpus Using Gradually-Denoising VAE",
+  "authors": [
+    "Zhenyi Wang",
+    "Haiyan Ning",
+    "Qing Ling",
+    "Dan Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.513",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.513/"
+}

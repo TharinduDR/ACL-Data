@@ -1,0 +1,26 @@
+{
+  "title": "MathBench: Evaluating the Theory and Application Proficiency of LLMs with a Hierarchical Mathematics Benchmark",
+  "authors": [
+    "Hongwei Liu",
+    "Zilong Zheng",
+    "Yuxuan Qiao",
+    "Haodong Duan",
+    "Zhiwei Fei",
+    "Fengzhe Zhou",
+    "Wenwei Zhang",
+    "Songyang Zhang",
+    "Dahua Lin",
+    "Kai Chen"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.findings-acl.411",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.411/"
+}

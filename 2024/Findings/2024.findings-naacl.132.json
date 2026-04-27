@@ -1,0 +1,20 @@
+{
+  "title": "Ethos: Rectifying Language Models in Orthogonal Parameter Space",
+  "authors": [
+    "Lei Gao",
+    "Yue Niu",
+    "Tingting Tang",
+    "Salman Avestimehr",
+    "Murali Annavaram"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.findings-naacl.132",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.132/"
+}

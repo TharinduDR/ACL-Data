@@ -1,0 +1,28 @@
+{
+  "title": "Huatuo-26M, a Large-scale Chinese Medical QA Dataset",
+  "authors": [
+    "Xidong Wang",
+    "Shunian Chen",
+    "Jianquan Li",
+    "Yuxuan Zhu",
+    "Xiangbo Wu",
+    "Zhiyi Zhang",
+    "Xiaolong Xu",
+    "Junying Chen",
+    "Jie Fu",
+    "Xiang Wan",
+    "Anningze Gao",
+    "Benyou Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-naacl.211",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.211/"
+}

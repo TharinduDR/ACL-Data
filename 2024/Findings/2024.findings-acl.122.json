@@ -1,0 +1,27 @@
+{
+  "title": "ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models",
+  "authors": [
+    "Haoran Luo",
+    "Haihong E",
+    "Zichen Tang",
+    "Shiyao Peng",
+    "Yikai Guo",
+    "Wentai Zhang",
+    "Chenghao Ma",
+    "Guanting Dong",
+    "Meina Song",
+    "Wei Lin",
+    "Yifan Zhu",
+    "Luu Anh Tuan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.122",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.122/"
+}

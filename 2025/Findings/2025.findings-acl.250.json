@@ -10,11 +10,9 @@
     "Qifan Wang",
     "Fuli Feng"
   ],
-  "languages": [
-    "English"
-  ],
+  "languages": [],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T14 Language Modeling",
     "T06 Information Retrieval and Cross-lingual Retrieval"
   ],
   "paper_id": "2025.findings-acl.250",

@@ -1,0 +1,24 @@
+{
+  "title": "GRAIT: Gradient-Driven Refusal-Aware Instruction Tuning for Effective Hallucination Mitigation",
+  "authors": [
+    "Runchuan Zhu",
+    "Zinco Jiang",
+    "Jiang Wu",
+    "Zhipeng Ma",
+    "Jiahe Song",
+    "Fengshuo Bai",
+    "Dahua Lin",
+    "Lijun Wu",
+    "Conghui He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-naacl.223",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.223/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "BERGEN: A Benchmarking Library for Retrieval-Augmented Generation",
+  "authors": [
+    "David Rau",
+    "Hervé Déjean",
+    "Nadezhda Chirkova",
+    "Thibault Formal",
+    "Shuai Wang",
+    "Stéphane Clinchant",
+    "Vassilina Nikoulina"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-emnlp.449",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.449/"
+}

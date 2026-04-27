@@ -1,0 +1,23 @@
+{
+  "title": "GATE X-E: A Challenge Set for Gender-Fair Translations from Weakly-Gendered Languages",
+  "authors": [
+    "Spencer Rarrick",
+    "Ranjita Naik",
+    "Sundar Poudel",
+    "Vishal Chowdhary"
+  ],
+  "languages": [
+    "Turkish",
+    "Hungarian",
+    "Finnish",
+    "Persian",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.findings-acl.504",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.504/"
+}

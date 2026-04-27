@@ -1,0 +1,19 @@
+{
+  "title": "DaMoC: Efficiently Selecting the Optimal Large Language Model for Fine-tuning Domain Tasks Based on Data and Model Compression",
+  "authors": [
+    "Wei Huang",
+    "Huang Wei",
+    "Yinggui Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.findings-emnlp.699",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.699/"
+}

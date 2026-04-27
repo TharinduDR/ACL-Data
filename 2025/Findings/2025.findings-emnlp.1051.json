@@ -1,0 +1,22 @@
+{
+  "title": "Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings",
+  "authors": [
+    "Liyan Xu",
+    "Zhenlin Su",
+    "Mo Yu",
+    "Jiangnan Li",
+    "Fandong Meng",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.findings-emnlp.1051",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1051/"
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Small Models are Valuable Plug-ins for Large Language Models",
+  "authors": [
+    "Canwen Xu",
+    "Yichong Xu",
+    "Shuohang Wang",
+    "Yang Liu",
+    "Chenguang Zhu",
+    "Julian McAuley"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Urdu",
+    "Vietnamese",
+    "Chinese",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.18",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.18/"
+}

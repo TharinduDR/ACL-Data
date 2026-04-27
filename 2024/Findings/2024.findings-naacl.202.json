@@ -1,0 +1,37 @@
+{
+  "title": "Learning Mutually Informed Representations for Characters and Subwords",
+  "authors": [
+    "Yilin Wang",
+    "Xinyi Hu",
+    "Matthew Gormley"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Luo",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Vietnamese",
+    "Wolof",
+    "Xhosa",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.findings-naacl.202",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.202/"
+}

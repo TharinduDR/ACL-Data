@@ -1,0 +1,27 @@
+{
+  "title": "TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling",
+  "authors": [
+    "Jiahao Qiu",
+    "Yifu Lu",
+    "Yifan Zeng",
+    "Jiacheng Guo",
+    "Jiayi Geng",
+    "Chenhao Zhu",
+    "Xinzhe Juan",
+    "Ling Yang",
+    "Huazheng Wang",
+    "Kaixuan Huang",
+    "Yue Wu",
+    "Mengdi Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.1140",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1140/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Self-Consistent Reasoning-based Aspect Sentiment Quad Prediction with Extract-Then-Assign Strategy",
+  "authors": [
+    "Jieyong Kim",
+    "Ryang Heo",
+    "SeongKu Kang",
+    "Yongsik Seo",
+    "Jinyoung Yeo",
+    "Dongha Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.findings-acl.435",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.435/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "From KMMLU-REDUX to PRO: A Professional Korean Benchmark Suite for LLM Evaluation",
+  "authors": [
+    "Seokhee Hong",
+    "Sunkyoung Kim",
+    "Guijin Son",
+    "Soyeon Kim",
+    "Yeonjung Hong",
+    "Jinsik Lee"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling",
+    "T25 Legal NLP",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.findings-emnlp.1038",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1038/"
+}

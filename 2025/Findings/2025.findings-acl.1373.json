@@ -1,0 +1,27 @@
+{
+  "title": "Training Language Model to Critique for Better Refinement",
+  "authors": [
+    "Tianshu Yu",
+    "Chao Xiang",
+    "Mingchuan Yang",
+    "Pei Ke",
+    "Bosi Wen",
+    "Cunxiang Wang",
+    "Jiale Cheng",
+    "Li Zhang",
+    "Xinyu Mu",
+    "Chuxiong Sun",
+    "Minlie Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-acl.1373",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.1373/"
+}

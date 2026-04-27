@@ -1,0 +1,28 @@
+{
+  "title": "UCFE: A User-Centric Financial Expertise Benchmark for Large Language Models",
+  "authors": [
+    "Yuzhe Yang",
+    "Yifei Zhang",
+    "Yan Hu",
+    "Yilin Guo",
+    "Ruoli Gan",
+    "Yueru He",
+    "Mingcong Lei",
+    "Xiao Zhang",
+    "Haining Wang",
+    "Qianqian Xie",
+    "Jimin Huang",
+    "Honghai Yu",
+    "Benyou Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.findings-naacl.300",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.300/"
+}

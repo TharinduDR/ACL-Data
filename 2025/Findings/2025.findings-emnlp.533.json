@@ -1,0 +1,22 @@
+{
+  "title": "Fine-Tuning Encoder-Decoder Models with Contrastive Learning for In-Context Distractor Generation",
+  "authors": [
+    "Elaf Alhazmi",
+    "Quan Z. Sheng",
+    "Wei Emma Zhang",
+    "Mohammed I. Thanoon",
+    "Haojie Zhuang",
+    "Behnaz Soltani",
+    "Munazza Zaib"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.533",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.533/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "OPENBIONER: Lightweight Open-Domain Biomedical Named Entity Recognition Through Entity Type Description",
+  "authors": [
+    "Alessio Cocchieri",
+    "Giacomo Frisoni",
+    "Marcos Martínez Galindo",
+    "Gianluca Moro",
+    "Giuseppe Tagliavini",
+    "Francesco Candoli"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-naacl.47",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.47/"
+}

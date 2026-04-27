@@ -1,0 +1,23 @@
+{
+  "title": "Retrieval-Augmented Retrieval: Large Language Models are Strong Zero-Shot Retriever",
+  "authors": [
+    "Tao Shen",
+    "Guodong Long",
+    "Xiubo Geng",
+    "Chongyang Tao",
+    "Yibin Lei",
+    "Tianyi Zhou",
+    "Michael Blumenstein",
+    "Daxin Jiang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2024.findings-acl.943",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.943/"
+}

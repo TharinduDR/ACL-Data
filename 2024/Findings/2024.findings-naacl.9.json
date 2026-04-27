@@ -1,0 +1,22 @@
+{
+  "title": "DEED: Dynamic Early Exit on Decoder for Accelerating Encoder-Decoder Transformer Models",
+  "authors": [
+    "Peng Tang",
+    "Pengkai Zhu",
+    "Tian Li",
+    "Srikar Appalaraju",
+    "Vijay Mahadevan",
+    "R. Manmatha"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.findings-naacl.9",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.9/"
+}

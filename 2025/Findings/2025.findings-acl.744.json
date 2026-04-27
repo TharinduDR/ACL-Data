@@ -2,16 +2,21 @@
   "title": "Ranked Voting based Self-Consistency of Large Language Models",
   "authors": [
     "Weiqin Wang",
-    "Yile Wang*",
+    "Yile Wang",
     "Hui Huang"
   ],
   "languages": [
-    "English"
+    "English",
+    "French",
+    "English",
+    "Pidgin English",
+    "Fulfulde",
+    "Hausa"
   ],
   "research_areas": [
     "T09 Inference and Reasoning",
-    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+    "T10 Question Answering",
+    "T14 Language Modeling"
   ],
   "paper_id": "2025.findings-acl.744",
   "acl_url": "https://aclanthology.org/2025.findings-acl.744/"

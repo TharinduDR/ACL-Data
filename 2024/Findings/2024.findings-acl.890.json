@@ -1,0 +1,26 @@
+{
+  "title": "Found in the middle: Calibrating Positional Attention Bias Improves Long Context Utilization",
+  "authors": [
+    "Cheng-Yu Hsieh",
+    "Yung-Sung Chuang",
+    "Chun-Liang Li",
+    "Zifeng Wang",
+    "Long T. Le",
+    "Abhishek Kumar",
+    "James Glass",
+    "Alexander Ratner",
+    "Chen-Yu Lee",
+    "Ranjay Krishna",
+    "Tomas Pfister"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.890",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.890/"
+}

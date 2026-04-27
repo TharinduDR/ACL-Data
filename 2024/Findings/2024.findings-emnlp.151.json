@@ -1,0 +1,22 @@
+{
+  "title": "PSLM: Parallel Generation of Text and Speech with LLMs for Low-Latency Spoken Dialogue Systems",
+  "authors": [
+    "Kentaro Mitsui",
+    "Koh Mitsuda",
+    "Toshiaki Wakatsuki",
+    "Yukiya Hono",
+    "Kei Sawada"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T03",
+    "T14",
+    "T17",
+    "T24"
+  ],
+  "paper_id": "2024.findings-emnlp.151",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.151/"
+}

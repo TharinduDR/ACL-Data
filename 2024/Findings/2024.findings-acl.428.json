@@ -1,0 +1,28 @@
+{
+  "title": "Benchmarking and Improving Long-Text Translation with Large Language Models",
+  "authors": [
+    "Longyue Wang",
+    "Zefeng Du",
+    "Wenxiang Jiao",
+    "Chenyang Lyu",
+    "Jianhui Pang",
+    "Leyang Cui",
+    "Kaiqiang Song",
+    "Derek F. Wong",
+    "Shuming Shi",
+    "Zhaopeng Tu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.428",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.428/"
+}

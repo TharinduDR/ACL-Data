@@ -1,0 +1,21 @@
+{
+  "title": "VN-MTEB: Vietnamese Massive Text Embedding Benchmark",
+  "authors": [
+    "Loc Pham",
+    "Tung Luu",
+    "Thu Vo",
+    "Minh N. T. Nguyen",
+    "Viet Hoang"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2026.findings-eacl.86",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.86/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "VisualEDU: A Benchmark for Assessing Coding and Visual Comprehension through Educational Problem-Solving Video Generation",
+  "authors": [
+    "Hao Chen",
+    "Tianyu Shi",
+    "Pengran Huang",
+    "Zeyuan Li",
+    "Jiahui Pan",
+    "Qianglong Chen",
+    "Lewei He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.findings-emnlp.889",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.889/"
+}

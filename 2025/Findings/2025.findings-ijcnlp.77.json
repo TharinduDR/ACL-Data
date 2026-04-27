@@ -1,0 +1,22 @@
+{
+  "title": "TeluguST-46: A Benchmark Corpus and Comprehensive Evaluation for Telugu-English Speech Translation",
+  "authors": [
+    "Bhavana Akkiraju",
+    "Srihari Bandarupalli",
+    "Swathi Sambangi",
+    "Vasavi Ravuri",
+    "R Vijaya Saraswathi",
+    "Anil Kumar Vuppala"
+  ],
+  "languages": [
+    "Telugu",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-ijcnlp.77",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.77/"
+}

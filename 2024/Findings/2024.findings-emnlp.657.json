@@ -1,0 +1,21 @@
+{
+  "title": "Logits Reranking via Semantic Labels for Hard Samples in Text Classification",
+  "authors": [
+    "Peijie Huang",
+    "Junbao Huang",
+    "Yuhong Xu",
+    "Weizhen Li",
+    "Xisheng Xiao"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.findings-emnlp.657",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.657/"
+}

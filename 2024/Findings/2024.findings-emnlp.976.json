@@ -1,0 +1,29 @@
+{
+  "title": "Fast Streaming Transducer ASR Prototyping via Knowledge Distillation with Whisper",
+  "authors": [
+    "Iuliia Thorbecke",
+    "Juan Zuluaga-Gomez",
+    "Esaú Villatoro-Tello",
+    "Shashi Kumar",
+    "Pradeep Rangappa",
+    "Sergio Burdisso",
+    "Petr Motlicek",
+    "Karthik Pandia",
+    "Aravind Ganapathiraju"
+  ],
+  "languages": [
+    "Catalan",
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2024.findings-emnlp.976",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.976/"
+}

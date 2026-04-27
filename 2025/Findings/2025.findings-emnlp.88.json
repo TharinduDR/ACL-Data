@@ -1,0 +1,17 @@
+{
+  "title": "EvolKV: Evolutionary KV Cache Compression for LLM Inference",
+  "authors": [
+    "Bohan Yu",
+    "Yekun Chai"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.findings-emnlp.88",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.88/"
+}

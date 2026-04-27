@@ -1,0 +1,22 @@
+{
+  "title": "Self-Ensemble: Mitigating Confidence Distortion for Large Language Models",
+  "authors": [
+    "Zicheng Xu",
+    "Guanchu Wang",
+    "Guangyao Zheng",
+    "Yu-Neng Chuang",
+    "Alexander Szalay",
+    "Xia Hu",
+    "Vladimir Braverman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.902",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.902/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Are Large Language Model-based Evaluators the Solution to Scaling Up Multilingual Evaluation?",
+  "authors": [
+    "Rishav Hada",
+    "Varun Gumma",
+    "Adrian de Wynter",
+    "Harshita Diddee",
+    "Mohamed Ahmed",
+    "Monojit Choudhury",
+    "Kalika Bali",
+    "Sunayana Sitaram"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Chinese",
+    "Japanese",
+    "Italian",
+    "Portuguese",
+    "Czech"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-eacl.71",
+  "acl_url": "https://aclanthology.org/2024.findings-eacl.71/"
+}

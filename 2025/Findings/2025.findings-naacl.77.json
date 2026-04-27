@@ -1,0 +1,19 @@
+{
+  "title": "Intrinsic Model Weaknesses: How Priming Attacks Unveil Vulnerabilities in Large Language Models",
+  "authors": [
+    "Yuyi Huang",
+    "Runzhe Zhan",
+    "Derek F. Wong",
+    "Lidia S. Chao",
+    "Ailin Tao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-naacl.77",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.77/"
+}

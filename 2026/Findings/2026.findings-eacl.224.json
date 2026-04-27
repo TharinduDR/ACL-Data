@@ -1,0 +1,19 @@
+{
+  "title": "QFrBLiMP: a Quebec-French Benchmark of Linguistic Minimal Pairs",
+  "authors": [
+    "David Beauchemin",
+    "Pier-Luc Veilleux",
+    "Richard Khoury",
+    "Johanna-Pascale Roy"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2026.findings-eacl.224",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.224/"
+}

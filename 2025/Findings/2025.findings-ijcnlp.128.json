@@ -1,0 +1,21 @@
+{
+  "title": "MINDS: A Cross-cultural Dialogue Corpus for Social Norm Classification and Adherence Detection",
+  "authors": [
+    "Pritish Sahu",
+    "Anirudh Som",
+    "Dimitra Vergyri",
+    "Ajay Divakaran"
+  ],
+  "languages": [
+    "Chinese",
+    "Spanish",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-ijcnlp.128",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.128/"
+}

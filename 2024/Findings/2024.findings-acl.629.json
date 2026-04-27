@@ -1,0 +1,24 @@
+{
+  "title": "Chinese MentalBERT: Domain-Adaptive Pre-training on Social Media for Chinese Mental Health Text Analysis",
+  "authors": [
+    "Wei Zhai",
+    "Hongzhi Qi",
+    "Qing Zhao",
+    "Jianqiang Li",
+    "Ziqi Wang",
+    "Han Wang",
+    "Bing Xiang Yang",
+    "Guanghui Fu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2024.findings-acl.629",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.629/"
+}

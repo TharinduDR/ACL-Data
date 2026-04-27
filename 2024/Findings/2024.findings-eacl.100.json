@@ -1,0 +1,28 @@
+{
+  "title": "Predicting Machine Translation Performance on Low-Resource Languages: The Role of Domain Similarity",
+  "authors": [
+    "Eric Khiu",
+    "Hasti Toossi",
+    "David Anugraha",
+    "Jinyu Liu",
+    "Jiaxu Li",
+    "Juan Armando Parra Flores",
+    "Leandro Arcos Roman",
+    "A. Seza Doğruöz",
+    "En-Shiun Annie Lee"
+  ],
+  "languages": [
+    "Kannada",
+    "Gujarati",
+    "Hindi",
+    "Sinhala",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.findings-eacl.100",
+  "acl_url": "https://aclanthology.org/2024.findings-eacl.100/"
+}

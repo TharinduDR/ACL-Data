@@ -1,0 +1,24 @@
+{
+  "title": "FastMem: Fast Memorization of Prompt Improves Context Awareness of Large Language Models",
+  "authors": [
+    "Junyi Zhu",
+    "Shuochen Liu",
+    "Yu Yu",
+    "Bo Tang",
+    "Yibo Yan",
+    "Zhiyu Li",
+    "Feiyu Xiong",
+    "Tong Xu",
+    "Matthew B. Blaschko"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.findings-emnlp.687",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.687/"
+}

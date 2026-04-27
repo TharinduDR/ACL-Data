@@ -1,5 +1,5 @@
 {
-  "title": "SYNFix: Dependency-Aware Program Repair via RelationGraph Analysis",
+  "title": "SYNFIX: Dependency-Aware Program Repair via RelationGraph Analysis",
   "authors": [
     "Xunzhu Tang",
     "Jiechao Gao",
@@ -11,9 +11,7 @@
     "Jacques Klein",
     "Tegawendé F. Bissyandé"
   ],
-  "languages": [
-    "English"
-  ],
+  "languages": [],
   "research_areas": [
     "T27 Code generation and programming languages"
   ],

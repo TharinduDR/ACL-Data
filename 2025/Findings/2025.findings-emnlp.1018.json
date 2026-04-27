@@ -1,0 +1,23 @@
+{
+  "title": "EMO-RL: Emotion-Rule-Based Reinforcement Learning Enhanced Audio-Language Model for Generalized Speech Emotion Recognition",
+  "authors": [
+    "Pengcheng Li",
+    "Botao Zhao",
+    "Zuheng Kang",
+    "Junqing Peng",
+    "Xiaoyang Qu",
+    "Yayun He",
+    "Jianzong Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.1018",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1018/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "MM-ChatAlign: A Novel Multimodal Reasoning Framework based on Large Language Models for Entity Alignment",
+  "authors": [
+    "Xuhui Jiang",
+    "Yinghan Shen",
+    "Zhichao Shi",
+    "Chengjin Xu",
+    "Wei Li",
+    "Zihe Huang",
+    "Jian Guo",
+    "Yuanzhuo Wang"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.findings-emnlp.148",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.148/"
+}

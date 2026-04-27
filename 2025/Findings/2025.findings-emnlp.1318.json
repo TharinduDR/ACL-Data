@@ -1,0 +1,23 @@
+{
+  "title": "TIU-Bench: A Benchmark for Evaluating Large Multimodal Models on Text-rich Image Understanding",
+  "authors": [
+    "Kun Zhang",
+    "Liqiang Niu",
+    "Zhen Cao",
+    "Fandong Meng",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-emnlp.1318",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1318/"
+}

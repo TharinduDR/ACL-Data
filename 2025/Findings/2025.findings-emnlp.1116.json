@@ -1,0 +1,25 @@
+{
+  "title": "Context Copying Modulation: The Role of Entropy Neurons in Managing Parametric and Contextual Knowledge Conflicts",
+  "authors": [
+    "Zineddine Tighidet",
+    "Andrea Mogini",
+    "Hedi Ben-younes",
+    "Jiali Mei",
+    "Patrick Gallinari",
+    "Benjamin Piwowarski"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Japanese",
+    "Spanish",
+    "Cantonese"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.findings-emnlp.1116",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1116/"
+}

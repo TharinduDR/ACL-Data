@@ -1,0 +1,19 @@
+{
+  "title": "Native Design Bias: Studying the Impact of English Nativeness on Language Model Performance",
+  "authors": [
+    "Manon Reusens",
+    "Philipp Borchert",
+    "Jochen De Weerd",
+    "Bart Baesens"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-ijcnlp.73",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.73/"
+}

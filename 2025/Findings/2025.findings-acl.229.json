@@ -8,13 +8,11 @@
     "Guangyu Shen",
     "Xiangyu Zhang"
   ],
-  "languages": [
-    "English"
-  ],
+  "languages": [],
   "research_areas": [
-    "T01 Bias, Guardrails, filters",
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T01 Bias, Guardrails, filters"
   ],
   "paper_id": "2025.findings-acl.229",
   "acl_url": "https://aclanthology.org/2025.findings-acl.229/"

@@ -1,0 +1,19 @@
+{
+  "title": "CASESUMM: A Large-Scale Dataset for Long-Context Summarization from U.S. Supreme Court Opinions",
+  "authors": [
+    "Mourad Heddaya",
+    "Kyle MacMillan",
+    "Anup Malani",
+    "Hongyuan Mei",
+    "Chenhao Tan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.findings-naacl.102",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.102/"
+}

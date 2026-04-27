@@ -1,0 +1,38 @@
+{
+  "title": "MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains",
+  "authors": [
+    "Guoli Yin",
+    "Haoping Bai",
+    "Shuang Ma",
+    "Feng Nan",
+    "Yanchao Sun",
+    "Zhao Yang Xu",
+    "Shen Ma",
+    "Jiarui Lu",
+    "Xiang Kong",
+    "Aonan Zhang",
+    "Dian Ang Yap",
+    "Yizhe Zhang",
+    "Karsten Ahnert",
+    "Vik Kamath",
+    "Mathias Berglund",
+    "Dominic Walsh",
+    "Tobias Gindele",
+    "Juergen Wiest",
+    "Zhengfeng Lai",
+    "George Horrell",
+    "Xiaoming Wang",
+    "Jiulong Shan",
+    "Meng Cao",
+    "Ruoming Pang",
+    "Zirui Wang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T27 Code generation and programming languages",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-naacl.267",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.267/"
+}

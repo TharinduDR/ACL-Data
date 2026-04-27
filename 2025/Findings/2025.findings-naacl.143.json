@@ -1,0 +1,26 @@
+{
+  "title": "LSDC: An Efficient and Effective Large-Scale Data Compression Method for Supervised Fine-tuning of Large Language Models",
+  "authors": [
+    "Zhaoguang Long",
+    "Yuhao Zhou",
+    "Shangqing Zhao",
+    "Yupei Ren",
+    "Li Cai",
+    "Chenghao Jia",
+    "Zhe Chen",
+    "Zhe Fang",
+    "Yuxiang Song",
+    "Man Lan"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.143",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.143/"
+}

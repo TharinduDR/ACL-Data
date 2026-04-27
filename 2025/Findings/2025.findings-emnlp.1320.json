@@ -1,0 +1,21 @@
+{
+  "title": "ExeSQL: Self-Taught Text-to-SQL Models with Execution-Driven Bootstrapping for SQL Dialects",
+  "authors": [
+    "Jipeng Zhang",
+    "Haolin Yang",
+    "Kehao Miao",
+    "Ruiyuan Zhang",
+    "Renjie Pi",
+    "Jiahui Gao",
+    "Xiaofang Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-emnlp.1320",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1320/"
+}

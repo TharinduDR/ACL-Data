@@ -1,0 +1,16 @@
+{
+  "title": "UnsafeChain: Enhancing Reasoning Model Safety via Hard Cases",
+  "authors": [
+    "Raj Vardhan Tomar",
+    "Preslav Nakov",
+    "Yuxia Wang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-ijcnlp.75",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.75/"
+}

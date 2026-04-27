@@ -10,13 +10,13 @@
     "Min Zhang"
   ],
   "languages": [
-    "English",
-    "Chinese"
+    "Chinese",
+    "English"
   ],
   "research_areas": [
-    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
   ],
   "paper_id": "2025.findings-acl.1189",
   "acl_url": "https://aclanthology.org/2025.findings-acl.1189/"

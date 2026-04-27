@@ -1,0 +1,22 @@
+{
+  "title": "BANTH: A Multi-label Hate Speech Detection Dataset for Transliterated Bangla",
+  "authors": [
+    "Fabiha Haider",
+    "Fariha Tanjim Shifat",
+    "Md Farhan Ishmam",
+    "Deeparghya Dutta Barua",
+    "Md Sakib Ul Rahman Sourove",
+    "Md Fahim",
+    "Md Farhad Alam"
+  ],
+  "languages": [
+    "English",
+    "Bangla"
+  ],
+  "research_areas": [
+    "T20",
+    "T23"
+  ],
+  "paper_id": "2025.findings-naacl.403",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.403/"
+}

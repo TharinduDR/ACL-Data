@@ -1,0 +1,21 @@
+{
+  "title": "SecureSQL: Evaluating Data Leakage of Large Language Models as Natural Language Interfaces to Databases",
+  "authors": [
+    "Yanqi Song",
+    "Ruiheng Liu",
+    "Shu Chen",
+    "Qianhao Ren",
+    "Yu Zhang",
+    "Yongqi Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2024.findings-emnlp.346",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.346/"
+}

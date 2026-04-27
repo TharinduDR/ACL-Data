@@ -1,0 +1,21 @@
+{
+  "title": "DIMSIM: Distilled Multilingual Critics for Indic Text Simplification",
+  "authors": [
+    "Sneha Mondal",
+    "Ashish Agrawal",
+    "Ritika",
+    "Preethi Jyothi",
+    "Aravindan Raghuv eer"
+  ],
+  "languages": [
+    "Hindi",
+    "Bengali",
+    "Marathi"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.952",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.952/"
+}

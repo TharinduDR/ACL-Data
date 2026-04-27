@@ -1,0 +1,25 @@
+{
+  "title": "LLM-as-a-Coauthor: Can Mixed Human-Written and Machine-Generated Text Be Detected?",
+  "authors": [
+    "Qihui Zhang",
+    "Chujie Gao",
+    "Dongping Chen",
+    "Yue Huang",
+    "Yixin Huang",
+    "Zhenyang Sun",
+    "Shilin Zhang",
+    "Weiyi Li",
+    "Zhengyan Fu",
+    "Yao Wan",
+    "Lichao Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.findings-naacl.29",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.29/"
+}

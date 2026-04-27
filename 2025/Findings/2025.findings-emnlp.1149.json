@@ -1,0 +1,22 @@
+{
+  "title": "PEPE: Long-context Extension for Large Language Models via Periodic Extrapolation Positional Encodings",
+  "authors": [
+    "Jikun Hu",
+    "Dongsheng Guo",
+    "Yuli Liu",
+    "Qingyao Ai",
+    "Lixuan Wang",
+    "Xuebing Sun",
+    "Qilei Zhang",
+    "Quan Zhou",
+    "Cheng Luo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.1149",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1149/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "ReciFine: Finely Annotated Recipe Dataset for Controllable Recipe Generation",
+  "authors": [
+    "Nuhu Ibrahim",
+    "Rishi Ravikumar",
+    "Robert Stevens",
+    "Riza Batista-Navarro"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.findings-eacl.210",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.210/"
+}

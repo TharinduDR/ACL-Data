@@ -1,0 +1,23 @@
+{
+  "title": "GPT-NER: Named Entity Recognition via Large Language Models",
+  "authors": [
+    "Shuhe Wang",
+    "Xiaofei Sun",
+    "Xiaoya Li",
+    "Rongbin Ouyang",
+    "Fei Wu",
+    "Tianwei Zhang",
+    "Jiwei Li",
+    "Guoyin Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-naacl.239",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.239/"
+}

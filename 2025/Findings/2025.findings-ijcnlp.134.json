@@ -1,0 +1,25 @@
+{
+  "title": "SOMAJGYAAN: A Dataset for Evaluating LLMs on Bangla Culture, Social Knowledge, and Low-Resource Language Adaptation",
+  "authors": [
+    "Fariha Anjum Shifa",
+    "Muhtasim Ibteda Shochcho",
+    "Abdullah Ibne Hanif Arean",
+    "Mohammad Ashfaq Ur Rahman",
+    "AKM Moshiur Rahman",
+    "Ahaj Mahhin Faiak",
+    "Md Fahim",
+    "M Ashraful Amin",
+    "Amin Ahsan Ali",
+    "AKM Mahbubur Rahman"
+  ],
+  "languages": [
+    "Bangla"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2025.findings-ijcnlp.134",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.134/"
+}

@@ -6,13 +6,11 @@
     "Gabriele Cesa",
     "Arash Behboodi"
   ],
-  "languages": [
-    "English"
-  ],
+  "languages": [],
   "research_areas": [
-    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
-    "T27 Code generation and programming languages",
-    "T09 Inference and Reasoning"
+    "T14",
+    "T09",
+    "T27"
   ],
   "paper_id": "2025.findings-acl.825",
   "acl_url": "https://aclanthology.org/2025.findings-acl.825/"

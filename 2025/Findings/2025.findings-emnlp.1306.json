@@ -1,0 +1,25 @@
+{
+  "title": "RG-VQA: Leveraging Retriever-Generator Pipelines for Knowledge Intensive Visual Question Answering",
+  "authors": [
+    "Settaluri Lakshmi Sravanthi",
+    "Pulkit Agarwal",
+    "Debjyoti Mondal",
+    "Rituraj Singh",
+    "Subhadarshi Panda",
+    "Ankit Mishra",
+    "Kiran Pradeep",
+    "Srihari KB",
+    "Godawari Sudhakar Rao",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10",
+    "T13",
+    "T17"
+  ],
+  "paper_id": "2025.findings-emnlp.1306",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1306/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Align Attention Heads Before Merging Them: An Effective Way for Converting MHA to GQA",
+  "authors": [
+    "Qingyun Jin",
+    "Xiaohui Song",
+    "Feng Zhou",
+    "Zengchang Qin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14",
+    "T09"
+  ],
+  "paper_id": "2025.findings-emnlp.467",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.467/"
+}

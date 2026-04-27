@@ -1,0 +1,21 @@
+{
+  "title": "AutoAnoEval: Semantic-Aware Model Selection via Tree-Guided LLM Reasoning for Tabular Anomaly Detection",
+  "authors": [
+    "Suhee Yoon",
+    "Sanghyu Yoon",
+    "Ye Seul Sim",
+    "Seungdong Yoa",
+    "Dongmin Kim",
+    "Soonyoung Lee",
+    "Hankook Lee",
+    "Woohyung Lim"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2026.findings-eacl.183",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.183/"
+}

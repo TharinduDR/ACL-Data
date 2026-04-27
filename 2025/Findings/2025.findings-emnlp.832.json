@@ -1,0 +1,23 @@
+{
+  "title": "Unlocking Legal Knowledge: A Multilingual Dataset for Judicial Summarization in Switzerland",
+  "authors": [
+    "Luca Rolshoven",
+    "Vishvaksenan Rasiah",
+    "Srinanda Brügger Bose",
+    "Sarah Hostettler",
+    "Lara Burkhalter",
+    "Matthias Stürmer",
+    "Joel Niklaus"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.findings-emnlp.832",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.832/"
+}

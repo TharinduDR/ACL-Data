@@ -1,0 +1,29 @@
+{
+  "title": "INTENTIONQA: A Benchmark for Evaluating Purchase Intention Comprehension Abilities of Language Models in E-commerce",
+  "authors": [
+    "Wenxuan Ding",
+    "Weiqi Wang",
+    "Sze Heng Douglas Kwok",
+    "Minghao Liu",
+    "Tianqing Fang",
+    "Jiaxin Bai",
+    "Xin Liu",
+    "Changlong Yu",
+    "Zheng Li",
+    "Chen Luo",
+    "Qingyu Yin",
+    "Bing Yin",
+    "Junxian He",
+    "Yangqiu Song"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.findings-emnlp.123",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.123/"
+}

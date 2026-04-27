@@ -1,0 +1,23 @@
+{
+  "title": "Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models",
+  "authors": [
+    "Chen Qian",
+    "Jie Zhang",
+    "Wei Yao",
+    "Dongrui Liu",
+    "Zhenfei Yin",
+    "Yu Qiao",
+    "Yong Liu",
+    "Jing Shao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.290",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.290/"
+}

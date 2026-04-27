@@ -1,0 +1,25 @@
+{
+  "title": "UrduFactCheck: An Agentic Fact-Checking Framework for Urdu with Evidence Boosting and Benchmarking",
+  "authors": [
+    "Sarfraz Ahmad",
+    "Hasan Iqbal",
+    "Momina Ahsan",
+    "Numaan Naeem",
+    "Muhammad Ahsan Riaz Khan",
+    "Arham Riaz",
+    "Muhammad Arslan Manzoor",
+    "Yuxia Wang",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "Urdu",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.findings-emnlp.1240",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1240/"
+}

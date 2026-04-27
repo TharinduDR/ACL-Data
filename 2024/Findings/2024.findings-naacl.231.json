@@ -1,0 +1,23 @@
+{
+  "title": "MusiLingo: Bridging Music and Text with Pre-trained Language Models for Music Captioning and Query Response",
+  "authors": [
+    "Zihao Deng",
+    "Yinghao Ma",
+    "Yudong Liu",
+    "Rongchen Guo",
+    "Ge Zhang",
+    "Wenhu Chen",
+    "Wenhuo Huang",
+    "Emmanouil Benetos"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-naacl.231",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.231/"
+}

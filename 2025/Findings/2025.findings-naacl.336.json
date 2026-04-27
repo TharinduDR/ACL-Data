@@ -1,0 +1,19 @@
+{
+  "title": "Dynamic Strategy Planning for Efficient Question Answering with Large Language Models",
+  "authors": [
+    "Tanmay Parekh",
+    "Pradyot Prakash",
+    "Alexander Radovic",
+    "Akshay Shekher",
+    "Denis Savenkov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-naacl.336",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.336/"
+}

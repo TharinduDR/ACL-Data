@@ -1,0 +1,27 @@
+{
+  "title": "SVeritas: Benchmark for Robust Speaker Verification under Diverse Conditions",
+  "authors": [
+    "Massa Baali",
+    "Sarthak Bisht",
+    "Francisco Teixeira",
+    "Kateryna Shapovalenko",
+    "Rita Singh",
+    "Bhiksha Raj"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.findings-emnlp.516",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.516/"
+}

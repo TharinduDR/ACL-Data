@@ -1,0 +1,28 @@
+{
+  "title": "MMRA: A Benchmark for Evaluating Multi-Granularity and Multi-Image Relational Association Capabilities in Large Visual Language Models",
+  "authors": [
+    "Siwei Wu",
+    "Kang Zhu",
+    "Yu Bai",
+    "Yiming Liang",
+    "Yizhi Li",
+    "Haoning Wu",
+    "Jiaheng Liu",
+    "Ruibo Liu",
+    "Xingwei Qu",
+    "Xuxin Cheng",
+    "Ge Zhang",
+    "Wenhao Huang",
+    "Chenghua Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2026.findings-eacl.287",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.287/"
+}

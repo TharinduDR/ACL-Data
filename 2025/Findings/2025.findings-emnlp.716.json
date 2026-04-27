@@ -1,0 +1,21 @@
+{
+  "title": "Mitigating Sequential Dependencies: A Survey of Algorithms and Systems for Generation-Refinement Frameworks in Autoregressive Models",
+  "authors": [
+    "Yunhai Hu",
+    "Zining Liu",
+    "Zhenyuan Dong",
+    "Tianfan Peng",
+    "Bradley McDaniel",
+    "Sai Qian Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-emnlp.716",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.716/"
+}

@@ -1,0 +1,49 @@
+{
+  "title": "How Reliable is Multilingual LLM-as-a-Judge?",
+  "authors": [
+    "Xiyan Fu",
+    "Wei Liu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Russian",
+    "Chinese",
+    "Arabic",
+    "Indonesian",
+    "Thai",
+    "Vietnamese",
+    "Hindi",
+    "Turkish",
+    "Greek",
+    "Romanian",
+    "Swahili",
+    "Bengali",
+    "Telugu",
+    "Japanese",
+    "Czech",
+    "Ukrainian",
+    "Hebrew",
+    "Italian",
+    "Portuguese",
+    "Flemish",
+    "Korean",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering",
+    "T18 Text Summarization",
+    "T16 Machine Translation",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.findings-emnlp.587",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.587/"
+}

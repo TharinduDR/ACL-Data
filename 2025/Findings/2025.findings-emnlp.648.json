@@ -1,0 +1,33 @@
+{
+  "title": "Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs",
+  "authors": [
+    "Yangning Li",
+    "Weizhi Zhang",
+    "Yuyao Yang",
+    "Wei-Chieh Huang",
+    "Yaozu Wu",
+    "Junyu Luo",
+    "Yuanchen Bei",
+    "Henry Peng Zou",
+    "Xiao Luo",
+    "Yusheng Zhao",
+    "Chunkit Chan",
+    "Yankai Chen",
+    "Zhongfen Deng",
+    "Yinghui Li",
+    "Hai-Tao Zheng",
+    "Dongyuan Li",
+    "Renhe Jiang",
+    "Ming Zhang",
+    "Yangqiu Song",
+    "Philip S. Yu"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T09 Inference and Reasoning",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.findings-emnlp.648",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.648/"
+}

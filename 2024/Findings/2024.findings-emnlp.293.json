@@ -1,0 +1,18 @@
+{
+  "title": "Defending Large Language Models Against Jailbreak Attacks via Layer-specific Editing",
+  "authors": [
+    "Wei Zhao",
+    "Zhe Li",
+    "Yige Li",
+    "Ye Zhang",
+    "Jun Sun"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.findings-emnlp.293",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.293/"
+}

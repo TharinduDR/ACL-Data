@@ -1,0 +1,24 @@
+{
+  "title": "COMMUNITYNOTES: A Dataset for Exploring the Helpfulness of Fact-Checking Explanations",
+  "authors": [
+    "Rui Xing",
+    "Preslav Nakov",
+    "Timothy Baldwin",
+    "Jey Han Lau"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Spanish",
+    "Portuguese",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2026.findings-eacl.71",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.71/"
+}

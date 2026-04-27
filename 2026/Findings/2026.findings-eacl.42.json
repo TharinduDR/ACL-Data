@@ -1,0 +1,34 @@
+{
+  "title": "MAPS: A Multilingual Benchmark for Agent Performance and Security",
+  "authors": [
+    "Omer Hofman",
+    "Jonathan Brokman",
+    "Oren Rachmil",
+    "Shamik Bose",
+    "Vikas Pahuja",
+    "Toshiya Shimizu",
+    "Trisha Starostina",
+    "Kelly Marchisio",
+    "Seraphina Goldfarb-Tarrant",
+    "Roman Vainshtein"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Portuguese",
+    "Arabic",
+    "Hindi",
+    "Hebrew",
+    "Russian",
+    "Japanese",
+    "Italian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.findings-eacl.42",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.42/"
+}

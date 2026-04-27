@@ -1,0 +1,20 @@
+{
+  "title": "Dual-teacher Knowledge Distillation for Low-frequency Word Translation",
+  "authors": [
+    "Yifan Guo",
+    "Hongying Zan",
+    "Hongfei Xu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "French",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.findings-emnlp.317",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.317/"
+}

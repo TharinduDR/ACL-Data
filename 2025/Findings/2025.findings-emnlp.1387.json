@@ -1,0 +1,30 @@
+{
+  "title": "Can Language Models Follow Multiple Turns of Entangled Instructions?",
+  "authors": [
+    "Chi Han",
+    "Xin Liu",
+    "Haodong Wang",
+    "Shiyang Li",
+    "Jingfeng Yang",
+    "Haoming Jiang",
+    "Zhengyang Wang",
+    "Qingyu Yin",
+    "Liang Qiu",
+    "Changlong Yu",
+    "Yifan Gao",
+    "Zheng Li",
+    "Bing Yin",
+    "Jingbo Shang",
+    "Heng Ji"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.1387",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1387/"
+}

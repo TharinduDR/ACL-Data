@@ -1,0 +1,20 @@
+{
+  "title": "Fine-tuning LLMs with Cross-Attention-based Weight Decay for Bias Mitigation",
+  "authors": [
+    "Farsheed Haque",
+    "Zhe Fu",
+    "Depeng Xu",
+    "Shuhan Yuan",
+    "Xi Niu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.854",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.854/"
+}

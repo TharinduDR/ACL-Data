@@ -1,0 +1,21 @@
+{
+  "title": "High-Quality Complex Text-to-SQL Data Generation through Chain-of-Verification",
+  "authors": [
+    "Zhang Yuchen",
+    "Gao Yuze",
+    "Chen Bin",
+    "Li Wenfeng",
+    "Sun Shuo",
+    "Su Jian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-ijcnlp.143",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.143/"
+}

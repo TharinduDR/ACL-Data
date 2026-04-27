@@ -1,0 +1,23 @@
+{
+  "title": "LexMatcher: Dictionary-centric Data Curation for LLM-based Machine Translation",
+  "authors": [
+    "Yongjing Yin",
+    "Jiali Zeng",
+    "Yafu Li",
+    "Fandong Meng",
+    "Yue Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.findings-emnlp.866",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.866/"
+}

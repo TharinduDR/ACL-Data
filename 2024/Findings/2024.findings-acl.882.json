@@ -1,0 +1,21 @@
+{
+  "title": "MoE-SLU: Towards ASR-Robust Spoken Language Understanding via Mixture-of-Experts",
+  "authors": [
+    "Xuxin Cheng",
+    "Zhihong Zhu",
+    "Xianwei Zhuang",
+    "Zhanpeng Chen",
+    "Zhiqi Huang",
+    "YueXian Zou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2024.findings-acl.882",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.882/"
+}

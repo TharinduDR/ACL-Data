@@ -1,0 +1,26 @@
+{
+  "title": "Revamping Multilingual Agreement Bidirectionally via Switched Back-translation for Multilingual Neural Machine Translation",
+  "authors": [
+    "Hongyuan Lu",
+    "Haoyang Huang",
+    "Dongdong Zhang",
+    "Furu Wei",
+    "Wai Lam"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "French",
+    "Vietnamese",
+    "Czech",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2024.findings-eacl.19",
+  "acl_url": "https://aclanthology.org/2024.findings-eacl.19/"
+}

@@ -1,0 +1,43 @@
+{
+  "title": "How Does Quantization Affect Multilingual LLMs?",
+  "authors": [
+    "Kelly Marchisio",
+    "Saurabh Dash",
+    "Hongyu Chen",
+    "Dennis Aumiller",
+    "Ahmet Üstün",
+    "Sara Hooker",
+    "Sebastian Ruder"
+  ],
+  "languages": [
+    "Arabic",
+    "French",
+    "German",
+    "English",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Korean",
+    "Japanese",
+    "Chinese",
+    "Persian",
+    "Russian",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Czech",
+    "Greek",
+    "Hebrew",
+    "Hindi",
+    "Indonesian",
+    "Dutch",
+    "Polish",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.935",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.935/"
+}

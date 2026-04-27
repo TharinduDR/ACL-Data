@@ -1,0 +1,25 @@
+{
+  "title": "CAMEL-Bench: A Comprehensive Arabic LMM Benchmark",
+  "authors": [
+    "Sara Ghaboura",
+    "Ahmed Heakl",
+    "Omkar Thawakar",
+    "Ali Alharthi",
+    "Ines Riahi",
+    "Abduljalil Saif",
+    "Jorma Laaksonen",
+    "Fahad Shahbaz Khan",
+    "Salman Khan",
+    "Rao Muhammad Anwer"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.105",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.105/"
+}

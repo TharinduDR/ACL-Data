@@ -1,0 +1,27 @@
+{
+  "title": "Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent",
+  "authors": [
+    "Junda Wu",
+    "Yuxin Xiong",
+    "Xintong Li",
+    "Yu Xia",
+    "Ruoyu Wang",
+    "Yu Wang",
+    "Tong Yu",
+    "Sungchul Kim",
+    "Ryan Rossi",
+    "Lina Yao",
+    "Jingbo Shang",
+    "Julian McAuley"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.findings-emnlp.123",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.123/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "FINEST: Improving LLM Responses to Sensitive Topics Through Fine-Grained Evaluation",
+  "authors": [
+    "Juhyun Oh",
+    "Nayeon Lee",
+    "Chani Jung",
+    "Jiho Jin",
+    "Junho Myung",
+    "Jongwon Lee",
+    "Taeui Song",
+    "Alice Oh"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2026.findings-eacl.327",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.327/"
+}

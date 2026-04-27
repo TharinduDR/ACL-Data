@@ -1,0 +1,22 @@
+{
+  "title": "Unveiling the Spectrum of Data Contamination in Language Models: A Survey from Detection to Remediation",
+  "authors": [
+    "Chunyuan Deng",
+    "Yilun Zhao",
+    "Yuzhao Heng",
+    "Yitong Li",
+    "Jiannan Cao",
+    "Xiangru Tang",
+    "Arman Cohan"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.951",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.951/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "BehaviorSFT: Behavioral Token Conditioning for Health Agents Across the Proactivity Spectrum",
+  "authors": [
+    "Yubin Kim",
+    "Zhiyuan Hu",
+    "Hyewon Jeong",
+    "Eugene W Park",
+    "Shuyue Stella Li",
+    "Chanwoo Park",
+    "Shiyan Xiong",
+    "MingYu Lu",
+    "Hyeonhoon Lee",
+    "Xin Liu",
+    "Daniel McDuff",
+    "Cynthia Breazeal",
+    "Samir Tulebaev",
+    "Hae Won Park"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.520",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.520/"
+}

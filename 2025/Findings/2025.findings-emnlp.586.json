@@ -1,0 +1,30 @@
+{
+  "title": "SoT: Structured-of-Thought Prompting Guides Multilingual Reasoning in Large Language Models",
+  "authors": [
+    "Rui Qi",
+    "Zhibo Man",
+    "Yufeng Chen",
+    "Fengran Mo",
+    "Jinan Xu",
+    "Kaiyu Huang"
+  ],
+  "languages": [
+    "English",
+    "Swedish",
+    "Japanese",
+    "Bengali",
+    "Thai",
+    "Russian",
+    "Chinese",
+    "German",
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.findings-emnlp.586",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.586/"
+}

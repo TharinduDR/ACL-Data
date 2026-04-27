@@ -1,0 +1,23 @@
+{
+  "title": "Pruning Multilingual Large Language Models for Multilingual Inference",
+  "authors": [
+    "Hwichan Kim",
+    "Jun Suzuki",
+    "Tosho Hirasawa",
+    "Mamoru Komachi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Chinese",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.580",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.580/"
+}

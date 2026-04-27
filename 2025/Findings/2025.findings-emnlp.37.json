@@ -1,0 +1,21 @@
+{
+  "title": "Mechanistic Understanding and Mitigation of Language Confusion in English-Centric Large Language Models",
+  "authors": [
+    "Ercong Nie",
+    "Helmut Schmid",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "Arabic",
+    "Portuguese",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.findings-emnlp.37",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.37/"
+}

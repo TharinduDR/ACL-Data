@@ -1,0 +1,26 @@
+{
+  "title": "UniCoM: A Universal Code-Switching Speech Generator",
+  "authors": [
+    "Sangmin Lee",
+    "Woojin Chung",
+    "Seyun Um",
+    "Hong-Goo Kang"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Mandarin",
+    "Arabic",
+    "Hindi",
+    "Swahili",
+    "Italian",
+    "Czech",
+    "Malay"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.findings-emnlp.715",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.715/"
+}

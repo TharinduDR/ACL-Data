@@ -1,0 +1,27 @@
+{
+  "title": "Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting",
+  "authors": [
+    "Zhen Qin",
+    "Rolf Jagerman",
+    "Kai Hui",
+    "Honglei Zhuang",
+    "Junru Wu",
+    "Le Yan",
+    "Jiaming Shen",
+    "Tianqi Liu",
+    "Jialu Liu",
+    "Donald Metzler",
+    "Xuanhui Wang",
+    "Michael Bendersky"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-naacl.97",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.97/"
+}

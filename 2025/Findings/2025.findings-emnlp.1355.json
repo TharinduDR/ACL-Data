@@ -1,0 +1,19 @@
+{
+  "title": "DIPLOmA: Efficient Adaptation of Instructed LLMs to Low-Resource Languages via Post-Training Delta Merging",
+  "authors": [
+    "Ixak Sarasua",
+    "Ander Corral",
+    "Xabier Saralegi"
+  ],
+  "languages": [
+    "Basque",
+    "Welsh",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.1355",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1355/"
+}

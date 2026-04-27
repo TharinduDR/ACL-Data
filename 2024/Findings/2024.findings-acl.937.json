@@ -1,0 +1,18 @@
+{
+  "title": "Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding",
+  "authors": [
+    "Xintong Wang",
+    "Jingheng Pan",
+    "Liang Ding",
+    "Chris Biemann"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.937",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.937/"
+}

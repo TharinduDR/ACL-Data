@@ -1,7 +1,7 @@
 {
   "title": "Trick or Neat: Adversarial Ambiguity and Language Model Evaluation",
   "authors": [
-    "Antonia Karamolegkou",
+    "Antonia Karamolegou",
     "Oliver Eberle",
     "Phillip Rust",
     "Carina Kauf",
@@ -11,9 +11,9 @@
     "English"
   ],
   "research_areas": [
-    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
-    "T12 Interpretability/explainability of language models and language and speech processing tools",
-    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
   ],
   "paper_id": "2025.findings-acl.954",
   "acl_url": "https://aclanthology.org/2025.findings-acl.954/"

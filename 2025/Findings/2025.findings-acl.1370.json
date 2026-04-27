@@ -5,23 +5,9 @@
     "Simon Mille",
     "Craig Thomson"
   ],
-  "languages": [
-    "English",
-    "Spanish",
-    "Cantonese",
-    "Chinese",
-    "Portuguese",
-    "Persian",
-    "Punjabi",
-    "Uyghur",
-    "Zulu",
-    "Xhosa",
-    "Indonesian"
-  ],
+  "languages": [],
   "research_areas": [
-    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
-    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
-    "T19 Text Simplification, Plain Language and Assistive Technologies"
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],
   "paper_id": "2025.findings-acl.1370",
   "acl_url": "https://aclanthology.org/2025.findings-acl.1370/"

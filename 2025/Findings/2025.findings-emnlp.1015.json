@@ -1,0 +1,24 @@
+{
+  "title": "MT-R1-Zero: Advancing LLM-based Machine Translation via R1-Zero-like Reinforcement Learning",
+  "authors": [
+    "Zhaopeng Feng",
+    "Shaosheng Cao",
+    "Jiahan Ren",
+    "Jiayuan Su",
+    "Ruizhe Chen",
+    "Yan Zhang",
+    "Jian Wu",
+    "Zuo Zhu Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.1015",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1015/"
+}

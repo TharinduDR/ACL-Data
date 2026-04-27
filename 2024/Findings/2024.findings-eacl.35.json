@@ -1,0 +1,27 @@
+{
+  "title": "Arukikata Travelogue Dataset with Geographic Entity Mention, Coreference, and Link Annotation",
+  "authors": [
+    "Shohei Higashiyama",
+    "Hiroki Ouchi",
+    "Hiroki Teranishi",
+    "Hiroyuki Otomo",
+    "Yusuke Ide",
+    "Aitaro Yamamoto",
+    "Hiroyuki Shindo",
+    "Yuki Matsuda",
+    "Shoko Wakamiya",
+    "Naoya Inoue",
+    "Ikuya Yamada",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.findings-eacl.35",
+  "acl_url": "https://aclanthology.org/2024.findings-eacl.35/"
+}

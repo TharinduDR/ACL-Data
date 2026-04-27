@@ -1,0 +1,22 @@
+{
+  "title": "Multilingual Data Filtering using Synthetic Data from Large Language Models",
+  "authors": [
+    "Jonas Waldendorf",
+    "Barry Haddow",
+    "Alexandra Birch",
+    "Mateusz Klimaszewski"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Arabic",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.findings-emnlp.495",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.495/"
+}

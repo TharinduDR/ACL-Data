@@ -1,0 +1,33 @@
+{
+  "title": "Data Augmentation using LLMs: Data Perspectives, Learning Paradigms and Challenges",
+  "authors": [
+    "Bosheng Ding",
+    "Chengwei Qin",
+    "Ruochen Zhao",
+    "Tianze Luo",
+    "Xinze Li",
+    "Guizhen Chen",
+    "Wenhan Xia",
+    "Junjie Hu",
+    "Anh Tuan Luu",
+    "Shafiq Joty"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.findings-acl.97",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.97/"
+}

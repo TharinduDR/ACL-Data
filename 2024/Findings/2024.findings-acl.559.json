@@ -1,0 +1,24 @@
+{
+  "title": "Deciphering the Impact of Pretraining Data on Large Language Models through Machine Unlearning",
+  "authors": [
+    "Yang Zhao",
+    "Li Du",
+    "Xiao Ding",
+    "Kai Xiong",
+    "Zhouhao Sun",
+    "Jun Shi",
+    "Ting Liu",
+    "Bing Qin"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.findings-acl.559",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.559/"
+}

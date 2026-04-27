@@ -1,0 +1,27 @@
+{
+  "title": "Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models",
+  "authors": [
+    "Minseok Choi",
+    "Kyunghyun Min",
+    "Jaegul Choo"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Chinese",
+    "Arabic",
+    "Vietnamese",
+    "Estonian",
+    "Urdu",
+    "Tamil",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.630",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.630/"
+}

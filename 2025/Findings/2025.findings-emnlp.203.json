@@ -1,0 +1,19 @@
+{
+  "title": "RECAST: Retrieval-Augmented Contextual ASR via Decoder-State Keyword Spotting",
+  "authors": [
+    "Ashish Mittal",
+    "Sunita Sarawagi",
+    "Preethi Jyothi"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.findings-emnlp.203",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.203/"
+}

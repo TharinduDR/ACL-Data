@@ -1,0 +1,18 @@
+{
+  "title": "Evaluating NL2SQL via SQL2NL",
+  "authors": [
+    "Mohammadtaher Safarzadeh",
+    "Afshin Oroojlooyjadid",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.findings-emnlp.1031",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1031/"
+}

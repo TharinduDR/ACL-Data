@@ -1,0 +1,23 @@
+{
+  "title": "Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents",
+  "authors": [
+    "Pengzhou Cheng",
+    "Haowen Hu",
+    "Zheng Wu",
+    "Zongru Wu",
+    "Tianjie Ju",
+    "Daizong Ding",
+    "Zhuosheng Zhang",
+    "Gongshen Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.411",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.411/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "PclGPT: A Large Language Model for Patronizing and Condescending Language Detection",
+  "authors": [
+    "Hongbo Wang",
+    "Mingda Li",
+    "Junyu Lu",
+    "Hebin Xia",
+    "Liang Yang",
+    "Bo Xu",
+    "Ruizhu Liu",
+    "Hongfei Lin"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Offensive Language/ Hate speech/ Toxic Language Detection",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2024.findings-emnlp.406",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.406/"
+}

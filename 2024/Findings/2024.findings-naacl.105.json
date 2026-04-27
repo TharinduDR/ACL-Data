@@ -1,0 +1,34 @@
+{
+  "title": "i-Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data",
+  "authors": [
+    "Ziyi Yang",
+    "Mahmoud Khademi",
+    "Yichong Xu",
+    "Reid Pryzant",
+    "Yuwei Fang",
+    "Chenguang Zhu",
+    "Dongdong Chen",
+    "Yao Qian",
+    "Mei Gao",
+    "Yi-Ling Chen",
+    "Robert Gmyr",
+    "Naoyuki Kanda",
+    "Noel Codella",
+    "Bin Xiao",
+    "Yu Shi",
+    "Lu Yuan",
+    "Takuya Yoshioka",
+    "Michael Zeng",
+    "Xuedong Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.findings-naacl.105",
+  "acl_url": "https://aclanthology.org/2024.findings-naacl.105/"
+}

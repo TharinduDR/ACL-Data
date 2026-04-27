@@ -1,0 +1,21 @@
+{
+  "title": "pFedRAG: A Personalized Federated Retrieval-Augmented Generation System with Depth-Adaptive Tiered Embedding Tuning",
+  "authors": [
+    "Hangyu He",
+    "Xin Yuan",
+    "Kai Wu",
+    "Ren Ping Liu",
+    "Wei Ni"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.findings-emnlp.769",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.769/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "ReBPE: Iteratively Improving the Internal Structure of a Structured Tokeniser by Mining its Internal Structure",
+  "authors": [
+    "Thomas Bauwens",
+    "Miryam de Lhoneux"
+  ],
+  "languages": [
+    "Catalan",
+    "Czech",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "S/C/B",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2026.findings-eacl.211",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.211/"
+}

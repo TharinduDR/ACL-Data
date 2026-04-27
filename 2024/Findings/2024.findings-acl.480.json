@@ -1,0 +1,24 @@
+{
+  "title": "ECoK: Emotional Commonsense Knowledge Graph for Mining Emotional Gold",
+  "authors": [
+    "Zhunheng Wang",
+    "Xiaoyi Liu",
+    "Mengting Hu",
+    "Rui Ying",
+    "Ming Jiang",
+    "Jianfeng Wu",
+    "Yalan Xie",
+    "Hang Gao",
+    "Renhong Cheng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-acl.480",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.480/"
+}

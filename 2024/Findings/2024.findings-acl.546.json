@@ -1,0 +1,29 @@
+{
+  "title": "AUTO-CAP: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought",
+  "authors": [
+    "Yongheng Zhang",
+    "Qiguang Chen",
+    "Min Li",
+    "Wanxiang Che",
+    "Libo Qin"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian",
+    "German",
+    "French",
+    "Japanese",
+    "Russian",
+    "Swahili",
+    "Tamil",
+    "Thai",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.findings-acl.546",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.546/"
+}

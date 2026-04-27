@@ -1,0 +1,20 @@
+{
+  "title": "When \"A Helpful Assistant\" Is Not Really Helpful: Personas in System Prompts Do Not Improve Performances of Large Language Models",
+  "authors": [
+    "Mingqian Zheng",
+    "Jiaxin Pei",
+    "Lajanugen Logeswaran",
+    "Moontae Lee",
+    "David Jurgens"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.findings-emnlp.888",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.888/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "BIPEFT: Budget-Guided Iterative Search for Parameter Efficient Fine-Tuning of Large Pretrained Language Models",
+  "authors": [
+    "Aofei Chang",
+    "Jiaqi Wang",
+    "Han Liu",
+    "Parminder Bhatia",
+    "Cao Xiao",
+    "Ting Wang",
+    "Fenglong Ma"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.437",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.437/"
+}

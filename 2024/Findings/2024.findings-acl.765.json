@@ -1,0 +1,24 @@
+{
+  "title": "RadGraph-XL: A Large-Scale Expert-Annotated Dataset for Entity and Relation Extraction from Radiology Reports",
+  "authors": [
+    "Jean-Benoit Delbrouck",
+    "Pierre Chambon",
+    "Zhihong Chen",
+    "Maya Varma",
+    "Andrew Johnston",
+    "Louis Blankemeier",
+    "Dave Van Veen",
+    "Tan Bui",
+    "Steven Truong",
+    "Curtis P. Langlotz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.findings-acl.765",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.765/"
+}

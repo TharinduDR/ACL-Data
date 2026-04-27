@@ -1,0 +1,22 @@
+{
+  "title": "Butterfly Effects in Toolchains: A Comprehensive Analysis of Failed Parameter Filling in LLM Tool-Agent Systems",
+  "authors": [
+    "Qian Xiong",
+    "Yuekai Huang",
+    "Ziyou Jiang",
+    "Zhiyuan Chang",
+    "Yujia Zheng",
+    "Tianhao Li",
+    "Mingyang Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.findings-emnlp.907",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.907/"
+}

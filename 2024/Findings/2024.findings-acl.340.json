@@ -1,0 +1,52 @@
+{
+  "title": "MuTox: Universal MULTILINGUAL Audio-based TOXicity Dataset and Zero-shot Detector",
+  "authors": [
+    "Marta R. Costa-jussà",
+    "Mariano Coria Meglioli",
+    "Pierre Andrews",
+    "David Dale",
+    "Prangthip Hansanti",
+    "Elahe Kalbassi",
+    "Alex Mourachko",
+    "Christophe Ropers",
+    "Carleigh Wood"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Arabic",
+    "Bengali",
+    "Bulgarian",
+    "Catalan",
+    "Czech",
+    "Dutch",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Greek",
+    "Hebrew",
+    "Hindi",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Mandarin Chinese",
+    "Persian",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Slovak",
+    "Swahili",
+    "Tagalog",
+    "Turkish",
+    "Urdu",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.findings-acl.340",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.340/"
+}

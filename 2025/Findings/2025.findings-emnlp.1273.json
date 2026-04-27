@@ -1,0 +1,25 @@
+{
+  "title": "ICL-Bandit: Relevance Labeling in Advertisement Recommendation Systems via LLM",
+  "authors": [
+    "Lu Wang",
+    "Chiming Duan",
+    "Pu Zhao",
+    "Fangkai Yang",
+    "Yong Shi",
+    "Xuefeng Luo",
+    "Bingjing Xu",
+    "Weiwei Deng",
+    "Qingwei Lin",
+    "Dongmei Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.findings-emnlp.1273",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1273/"
+}

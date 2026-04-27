@@ -1,0 +1,24 @@
+{
+  "title": "RELIC: Enhancing Reward Model Generalization for Low-Resource Indic Languages with Few-Shot Examples",
+  "authors": [
+    "Soumya Suvra Ghosal",
+    "Vaibhav Singh",
+    "Akash Ghosh",
+    "Soumyabrata Pal",
+    "Subhadip Baidya",
+    "Sriparna Saha",
+    "Dinesh Manocha"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bodo"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-emnlp.79",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.79/"
+}

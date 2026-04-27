@@ -1,0 +1,32 @@
+{
+  "title": "AFRIINSTRUCT: Instruction Tuning of African Languages for Diverse Tasks",
+  "authors": [
+    "Kosei Uemura",
+    "Mahe Chen",
+    "Alex Pejovic",
+    "Chika Maduabuchi",
+    "Yifei Sun",
+    "En-Shiun Annie Lee"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Arabic",
+    "Amharic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Swahili",
+    "Yoruba",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T10 Question Answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.findings-emnlp.793",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.793/"
+}

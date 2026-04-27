@@ -1,0 +1,17 @@
+{
+  "title": "SIRAJ: Diverse and Efficient Red-Teaming for LLM Agents via Distilled Structured Reasoning",
+  "authors": [
+    "Kaiwen Zhou",
+    "Ahmed Elgohary",
+    "A S M Iftekhar",
+    "Amin Saied"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2026.findings-eacl.171",
+  "acl_url": "https://aclanthology.org/2026.findings-eacl.171/"
+}

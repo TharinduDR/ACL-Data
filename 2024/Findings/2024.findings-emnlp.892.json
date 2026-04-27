@@ -1,0 +1,26 @@
+{
+  "title": "xTOWER: A Multilingual LLM for Explaining and Correcting Translation Errors",
+  "authors": [
+    "Marcos Treviso",
+    "Nuno Guerreiro",
+    "Sweta Agrawal",
+    "Ricardo Rei",
+    "José Pombal",
+    "Tania Vaz",
+    "Helena Wu",
+    "Beatriz Silva",
+    "Daan van Stigt",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.findings-emnlp.892",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.892/"
+}

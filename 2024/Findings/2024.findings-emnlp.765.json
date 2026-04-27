@@ -1,0 +1,26 @@
+{
+  "title": "Benchmarking Machine Translation with Cultural Awareness",
+  "authors": [
+    "Binwei Yao",
+    "Ming Jiang",
+    "Tara Bobinac",
+    "Diyi Yang",
+    "Junjie Hu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Spanish",
+    "Hindi",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.findings-emnlp.765",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.765/"
+}

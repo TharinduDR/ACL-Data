@@ -1,0 +1,31 @@
+{
+  "title": "SSP: Self-Supervised Prompting for Cross-Lingual Transfer to Low-Resource Languages using Large Language Models",
+  "authors": [
+    "Vipul Rathore",
+    "Aniruddha Deb",
+    "Ankish Chandresh",
+    "Parag Singla",
+    "Mausam"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Swahili",
+    "Kinyarwanda",
+    "Faroese",
+    "Aymara",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T11",
+    "T14",
+    "T16"
+  ],
+  "paper_id": "2024.findings-emnlp.886",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.886/"
+}

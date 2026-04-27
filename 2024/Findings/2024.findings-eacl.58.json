@@ -1,0 +1,20 @@
+{
+  "title": "The Shape of Learning: Anisotropy and Intrinsic Dimensions in Transformer-Based Models",
+  "authors": [
+    "Anton Razzhigaev",
+    "Matvey Mikhalev",
+    "Elizaveta Goncharova",
+    "Ivan Oseledets",
+    "Denis Dimitrov",
+    "Andrey Kuznetsov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.findings-eacl.58",
+  "acl_url": "https://aclanthology.org/2024.findings-eacl.58/"
+}

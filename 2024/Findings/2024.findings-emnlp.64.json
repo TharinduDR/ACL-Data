@@ -1,0 +1,23 @@
+{
+  "title": "SAFETY-J: Evaluating Safety with Critique",
+  "authors": [
+    "Yixiu Liu",
+    "Yuxiang Zheng",
+    "Shijie Xia",
+    "Jiajun Li",
+    "Yi Tu",
+    "Chaoling Song",
+    "Pengfei Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-emnlp.64",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.64/"
+}

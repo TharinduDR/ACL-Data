@@ -8,33 +8,12 @@
     "English",
     "Montenegrin",
     "Croatian",
-    "Rapa Nui",
-    "Ngadha",
-    "Quechua",
-    "Nahuatl",
-    "Kalam",
-    "Bangime",
-    "Igbo",
-    "Totonac",
-    "Seri",
-    "Mapudungun",
-    "Komi-Zyrian",
-    "Abun",
-    "Ainu",
-    "Ayutla Mixe",
-    "Chimalapa Zoque",
-    "Dogon",
-    "Engenni",
-    "Guugu Yimithirr",
-    "Kutenai",
-    "Misantla Totonac",
-    "Mixtepec Zapotec",
-    "Niuean"
+    "Slavic"
   ],
   "research_areas": [
-    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
-    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
-    "T09 Inference and Reasoning"
+    "T16",
+    "T09",
+    "T14"
   ],
   "paper_id": "2025.findings-acl.1171",
   "acl_url": "https://aclanthology.org/2025.findings-acl.1171/"

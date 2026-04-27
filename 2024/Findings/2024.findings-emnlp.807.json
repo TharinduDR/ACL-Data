@@ -1,0 +1,19 @@
+{
+  "title": "ConTReGen: Context-driven Tree-structured Retrieval for Open-domain Long-form Text Generation",
+  "authors": [
+    "Kashob Kumar Roy",
+    "Pritom Saha Akash",
+    "Kevin Chen-Chuan Chang",
+    "Lucian Popa"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.findings-emnlp.807",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.807/"
+}

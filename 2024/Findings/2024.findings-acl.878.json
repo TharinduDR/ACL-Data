@@ -1,0 +1,33 @@
+{
+  "title": "RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models",
+  "authors": [
+    "Zekun Moore Wang",
+    "Zhongyuan Peng",
+    "Haoran Que",
+    "Jiaheng Liu",
+    "Wangchunshu Zhou",
+    "Yuhan Wu",
+    "Hongcheng Guo",
+    "Ruitong Gan",
+    "Zehao Ni",
+    "Jian Yang",
+    "Man Zhang",
+    "Zhaoxiang Zhang",
+    "Wanli Ouyang",
+    "Ke Xu",
+    "Stephen W. Huang",
+    "Jie Fu",
+    "Junran Peng"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.findings-acl.878",
+  "acl_url": "https://aclanthology.org/2024.findings-acl.878/"
+}

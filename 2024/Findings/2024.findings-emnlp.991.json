@@ -1,0 +1,23 @@
+{
+  "title": "Zero-Shot Fact Verification via Natural Logic and Large Language Models",
+  "authors": [
+    "Marek Strong",
+    "Rami Aly",
+    "Andreas Vlachos"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Danish",
+    "Russian",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.findings-emnlp.991",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.991/"
+}

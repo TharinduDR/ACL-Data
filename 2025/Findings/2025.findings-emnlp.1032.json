@@ -1,0 +1,20 @@
+{
+  "title": "DB-Explore: Automated Database Exploration and Instruction Synthesis for Text-to-SQL",
+  "authors": [
+    "Haoyuan Ma",
+    "Yongliang Shen",
+    "Hengwei Liu",
+    "Wenqi Zhang",
+    "Haolei Xu",
+    "Qiuying Peng",
+    "Jun Wang",
+    "Weiming Lu"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.findings-emnlp.1032",
+  "acl_url": "https://aclanthology.org/2025.findings-emnlp.1032/"
+}

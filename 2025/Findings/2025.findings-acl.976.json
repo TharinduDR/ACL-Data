@@ -1,0 +1,51 @@
+{
+  "title": "AfroBench: How Good are Large Language Models on African Languages?",
+  "authors": [
+    "Jessica Ojo",
+    "Odunayo Ogundepo",
+    "Akintunde Oladipo",
+    "Kelechi Ogueji",
+    "Jimmy Lin",
+    "Pontus Stenorp",
+    "David Ifeoluwa Adelani"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Portuguese",
+    "Arabic",
+    "Swahili",
+    "Zulu",
+    "Xhosa",
+    "Yoruba",
+    "Igbo",
+    "Fon",
+    "Wolof",
+    "Amharic",
+    "Kinyarwanda",
+    "Hausa",
+    "isiXhosa",
+    "isiZulu",
+    "Luganda",
+    "Sesotho",
+    "Oromo",
+    "Lingala",
+    "Kiswahili",
+    "Cantonese",
+    "Chinese",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.findings-acl.976",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.976/"
+}

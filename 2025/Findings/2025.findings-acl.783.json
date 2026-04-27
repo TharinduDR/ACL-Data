@@ -1,0 +1,27 @@
+{
+  "title": "INT: Establishing Information Transfer for Multilingual Intent Detection and Slot Filling",
+  "authors": [
+    "Di Wu",
+    "Liting Jiang",
+    "Bohui Mao",
+    "Hongyan Xie",
+    "Haoxiang Su",
+    "Zhongjiang He",
+    "Ruiyu Fang",
+    "Shuangyong Song",
+    "Hao Huang",
+    "Xuelong Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2025.findings-acl.783",
+  "acl_url": "https://aclanthology.org/2025.findings-acl.783/"
+}

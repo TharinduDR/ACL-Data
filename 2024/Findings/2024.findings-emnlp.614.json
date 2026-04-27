@@ -1,0 +1,21 @@
+{
+  "title": "Exploring Design Choices for Building Language-Specific LLMs",
+  "authors": [
+    "Atula Tejaswi",
+    "Nilesh Gupta",
+    "Eunsol Choi"
+  ],
+  "languages": [
+    "Hindi",
+    "Arabic",
+    "Turkish",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T20 Sentiment Analysis"
+  ],
+  "paper_id": "2024.findings-emnlp.614",
+  "acl_url": "https://aclanthology.org/2024.findings-emnlp.614/"
+}

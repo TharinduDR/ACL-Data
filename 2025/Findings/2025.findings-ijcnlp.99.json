@@ -1,0 +1,21 @@
+{
+  "title": "Efficient ASR for Low-Resource Languages: Leveraging Cross-Lingual Unlabeled Data",
+  "authors": [
+    "Srihari Bandarupalli",
+    "Bhavana Akkiraju",
+    "Charan Devarakonda",
+    "Vamsiraghushimha Narsinga",
+    "Anil Kumar Vuppala"
+  ],
+  "languages": [
+    "Persian",
+    "Arabic",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.findings-ijcnlp.99",
+  "acl_url": "https://aclanthology.org/2025.findings-ijcnlp.99/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "LawInstruct: A Resource for Studying Language Model Adaptation to the Legal Domain",
+  "authors": [
+    "Joel Niklaus",
+    "Lucia Zheng",
+    "Arya D. McCarthy",
+    "Christopher Hahn",
+    "Brian M. Rosen",
+    "Peter Henderson",
+    "Daniel E. Ho",
+    "Garrett Honke",
+    "Percy Liang",
+    "Christopher Manning"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.findings-naacl.7",
+  "acl_url": "https://aclanthology.org/2025.findings-naacl.7/"
+}
