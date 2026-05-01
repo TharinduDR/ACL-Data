@@ -1,0 +1,22 @@
+{
+  "title": "Sentence-Level Agreement for Neural Machine Translation",
+  "authors": [
+    "Mingming Yang",
+    "Rui Wang",
+    "Kehai Chen",
+    "Masao Utiyama",
+    "Eiichiro Sumita",
+    "Min Zhang",
+    "Tiejun Zhao"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P19-1296",
+  "acl_url": "https://aclanthology.org/P19-1296/"
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss",
+  "authors": [
+    "Barbara Plank",
+    "Anders Søgaard",
+    "Yoav Goldberg"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Czech",
+    "Danish",
+    "German",
+    "English",
+    "Estonian",
+    "Farsi",
+    "French",
+    "Hungarian",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Serbian",
+    "Slovene",
+    "Spanish",
+    "Swedish",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P16-2067",
+  "acl_url": "https://aclanthology.org/P16-2067/"
+}

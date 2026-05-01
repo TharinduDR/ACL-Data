@@ -1,0 +1,23 @@
+{
+  "title": "Deep Neural Networks for Syntactic Parsing of Morphologically Rich Languages",
+  "authors": [
+    "Joël Legrand",
+    "Ronan Collobert"
+  ],
+  "languages": [
+    "Arabic",
+    "Basque",
+    "French",
+    "German",
+    "Hebrew",
+    "Hungarian",
+    "Korean",
+    "Polish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P16-2093",
+  "acl_url": "https://aclanthology.org/P16-2093/"
+}

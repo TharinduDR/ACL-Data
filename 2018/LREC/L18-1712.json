@@ -1,0 +1,21 @@
+{
+  "title": "SandhiKosh: A Benchmark Corpus for Evaluating Sanskrit Sandhi Tools",
+  "authors": [
+    "Shubham Bhardwaj",
+    "Neelamadhav Gantayat",
+    "Nikhil Chaturvedi",
+    "Rahul Garg",
+    "Sumeet Agarwal"
+  ],
+  "languages": [
+    "Sanskrit",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L18-1712",
+  "acl_url": "https://aclanthology.org/L18-1712/"
+}

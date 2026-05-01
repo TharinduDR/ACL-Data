@@ -1,0 +1,17 @@
+{
+  "title": "CamelParser2.0: A State-of-the-Art Dependency Parser for Arabic",
+  "authors": [
+    "Ahmed Elshabrawy",
+    "Muhammed AbuOdeh",
+    "Go Inoue",
+    "Nizar Habash"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.arabicnlp-1.15",
+  "acl_url": "https://aclanthology.org/2023.arabicnlp-1.15/"
+}

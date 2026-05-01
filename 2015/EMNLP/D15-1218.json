@@ -1,0 +1,20 @@
+{
+  "title": "A Coarse-Grained Model for Optimal Coupling of ASR and SMT Systems for Speech Translation",
+  "authors": [
+    "Gaurav Kumar",
+    "Graeme Blackwood",
+    "Jan Trmal",
+    "Daniel Povey",
+    "Sanjeev Khudanpur"
+  ],
+  "languages": [
+    "Spanish",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "D15-1218",
+  "acl_url": "https://aclanthology.org/D15-1218/"
+}

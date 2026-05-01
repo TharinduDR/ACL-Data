@@ -1,0 +1,21 @@
+{
+  "title": "Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology",
+  "authors": [
+    "Ran Zmigrod",
+    "Sabrina J. Mielke",
+    "Hanna Wallach",
+    "Ryan Cotterell"
+  ],
+  "languages": [
+    "Spanish",
+    "Hebrew",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P19-1161",
+  "acl_url": "https://aclanthology.org/P19-1161/"
+}

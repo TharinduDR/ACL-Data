@@ -1,0 +1,21 @@
+{
+  "title": "SumeCzech: Large Czech News-Based Summarization Dataset",
+  "authors": [
+    "Milan Straka",
+    "Nikita Mediankin",
+    "Tom Kocmi",
+    "Zdeněk Žabokrtský",
+    "Vojtěch Hudeček",
+    "Jan Hajič"
+  ],
+  "languages": [
+    "Czech",
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "L18-1551",
+  "acl_url": "https://aclanthology.org/L18-1551/"
+}

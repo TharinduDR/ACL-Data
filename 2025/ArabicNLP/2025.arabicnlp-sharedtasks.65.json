@@ -1,0 +1,17 @@
+{
+  "title": "AraS2P: Arabic Speech-to-Phonemes System",
+  "authors": [
+    "Bassam Mattar",
+    "Mohamed Fayed",
+    "Ayman Khalafallah"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.arabicnlp-sharedtasks.65",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-sharedtasks.65/"
+}

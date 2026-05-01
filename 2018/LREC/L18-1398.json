@@ -1,0 +1,25 @@
+{
+  "title": "A Multilingual Test Collection for the Semantic Search of Entity Categories",
+  "authors": [
+    "Juliano Efson Sales",
+    "Siamak Barzegar",
+    "Wellington Franco",
+    "Bernhard Bermeitinger",
+    "Tiago Cunha",
+    "Brian Davis",
+    "André Freitas",
+    "Siegfried Handschuh"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "German"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "L18-1398",
+  "acl_url": "https://aclanthology.org/L18-1398/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Data Augmentation by Concatenation for Low-Resource Translation: A Mystery and a Solution",
+  "authors": [
+    "Toan Q. Nguyen",
+    "Kenton Murray",
+    "David Chiang"
+  ],
+  "languages": [
+    "English",
+    "Galician",
+    "Slovak",
+    "Hebrew",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.iwslt-1.33",
+  "acl_url": "https://aclanthology.org/2021.iwslt-1.33/"
+}

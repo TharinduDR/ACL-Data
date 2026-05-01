@@ -1,0 +1,18 @@
+{
+  "title": "CamelParser: A System for Arabic Syntactic Analysis and Morphological Disambiguation",
+  "authors": [
+    "Anas Shahrour",
+    "Salam Khalifa",
+    "Dima Taji",
+    "Nizar Habash"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "C16-2048",
+  "acl_url": "https://aclanthology.org/C16-2048/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "A Fast Unified Model for Parsing and Sentence Understanding",
+  "authors": [
+    "Samuel R. Bowman",
+    "Jon Gauthier",
+    "Abhinav Rastogi",
+    "Raghav Gupta",
+    "Christopher D. Manning",
+    "Christopher Potts"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "P16-1139",
+  "acl_url": "https://aclanthology.org/P16-1139/"
+}

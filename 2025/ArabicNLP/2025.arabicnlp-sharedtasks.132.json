@@ -1,0 +1,18 @@
+{
+  "title": "Gumball at QIAS 2025 Shared Task: Arabic LLM Automated Reasoning in Islamic Inheritance",
+  "authors": [
+    "Eman Elrefai",
+    "Aml Hassan Esmail",
+    "Mohamed Lotfy Elrefai"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.arabicnlp-sharedtasks.132",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-sharedtasks.132/"
+}

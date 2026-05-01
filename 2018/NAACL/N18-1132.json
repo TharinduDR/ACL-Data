@@ -1,0 +1,23 @@
+{
+  "title": "DR-BiLSTM: Dependent Reading Bidirectional LSTM for Natural Language Inference",
+  "authors": [
+    "Reza Ghaeini",
+    "Sadid A. Hasan",
+    "Vivek Datla",
+    "Joey Liu",
+    "Kathy Lee",
+    "Ashequl Qadir",
+    "Yuan Ling",
+    "Aaditya Prakash",
+    "Xiaoli Z. Fern",
+    "Oladimeji Farri"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "N18-1132",
+  "acl_url": "https://aclanthology.org/N18-1132/"
+}

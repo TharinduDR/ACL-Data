@@ -1,0 +1,21 @@
+{
+  "title": "Part-of-Speech Tagging on an Endangered Language: a Parallel Griko-Italian Resource",
+  "authors": [
+    "Antonis Anastasopoulos",
+    "Marika Lekakou",
+    "Josep Quer",
+    "Eleni Zimianiti",
+    "Justin DeBenedetto",
+    "David Chiang"
+  ],
+  "languages": [
+    "Griko",
+    "Italian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "C18-1214",
+  "acl_url": "https://aclanthology.org/C18-1214/"
+}

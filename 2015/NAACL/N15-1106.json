@@ -1,0 +1,20 @@
+{
+  "title": "APRO: All-Pairs Ranking Optimization for MT Tuning",
+  "authors": [
+    "Markus Dreyer",
+    "Yuanzhe Dong"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "French",
+    "German",
+    "Italian",
+    "Polish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "N15-1106",
+  "acl_url": "https://aclanthology.org/N15-1106/"
+}

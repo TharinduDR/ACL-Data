@@ -1,0 +1,24 @@
+{
+  "title": "The AraGenEval Shared Task on Arabic Authorship Style Transfer and AI Generated Text Detection",
+  "authors": [
+    "Shadi Abdalfa",
+    "Saad Ezzini",
+    "Ahmed Abdelali",
+    "Hamza Alami",
+    "Abdessamad Benlahbib",
+    "Salmane Chafik",
+    "Mo El-Haj",
+    "Abdelkader El Mahdaouy",
+    "Mustafa Jarrar",
+    "Salima Lamsiyah",
+    "Hamzah Luqman"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.arabicnlp-sharedtasks.1",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-sharedtasks.1/"
+}

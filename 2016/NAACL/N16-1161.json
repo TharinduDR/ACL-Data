@@ -1,0 +1,31 @@
+{
+  "title": "Polyglot Neural Language Models: A Case Study in Cross-Lingual Phonetic Representation Learning",
+  "authors": [
+    "Yulia Tsvetkov",
+    "Sunayana Sitaram",
+    "Manaal Faruqui",
+    "Guillaume Lample",
+    "Patrick Littell",
+    "David Mortensen",
+    "Alan W Black",
+    "Lori Levin",
+    "Chris Dyer"
+  ],
+  "languages": [
+    "Arabic",
+    "French",
+    "Hindi",
+    "Italian",
+    "Maltese",
+    "Romanian",
+    "Swahili",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "N16-1161",
+  "acl_url": "https://aclanthology.org/N16-1161/"
+}

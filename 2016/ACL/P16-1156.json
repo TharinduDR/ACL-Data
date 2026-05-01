@@ -1,0 +1,21 @@
+{
+  "title": "Morphological Smoothing and Extrapolation of Word Embeddings",
+  "authors": [
+    "Ryan Cotterell",
+    "Hinrich Schütze",
+    "Jason Eisner"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Spanish",
+    "Turkish",
+    "German"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P16-1156",
+  "acl_url": "https://aclanthology.org/P16-1156/"
+}

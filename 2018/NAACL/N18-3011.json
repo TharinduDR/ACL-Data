@@ -1,0 +1,37 @@
+{
+  "title": "Construction of the Literature Graph in Semantic Scholar",
+  "authors": [
+    "Waleed Ammar",
+    "Dirk Groeneveld",
+    "Chandra Bhagavatula",
+    "Iz Beltagy",
+    "Miles Crawford",
+    "Doug Downey",
+    "Jason Dunkelberger",
+    "Ahmed Elghory",
+    "Sergey Feldman",
+    "Vu Ha",
+    "Rodney Kinney",
+    "Sebastian Kohlmeier",
+    "Kyle Lo",
+    "Tyler Murray",
+    "Hsu-Han Ooi",
+    "Matthew Peters",
+    "Joanna Power",
+    "Sam Skjonsberg",
+    "Lucy Lu Wang",
+    "Chris Wilhelm",
+    "Zheng Yuan",
+    "Madeleine van Zuylen",
+    "Oren Etzioni"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "N18-3011",
+  "acl_url": "https://aclanthology.org/N18-3011/"
+}

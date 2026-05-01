@@ -1,0 +1,40 @@
+{
+  "title": "LORELEI Language Packs: Data, Tools, and Resources for Technology Development in Low Resource Languages",
+  "authors": [
+    "Stephanie Strassel",
+    "Jennifer Tracey"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Persian",
+    "Turkish",
+    "Hausa",
+    "Amharic",
+    "Farsi",
+    "Hungarian",
+    "Mandarin",
+    "Russian",
+    "Somali",
+    "Spanish",
+    "Vietnamese",
+    "Yoruba",
+    "Akan",
+    "Bengali",
+    "Hindi",
+    "Indonesian",
+    "Swahili",
+    "Tagalog",
+    "Tamil",
+    "Thai",
+    "Wolof",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L16-1521",
+  "acl_url": "https://aclanthology.org/L16-1521/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Standard Test Collection for English-Persian Cross-Lingual Word Sense Disambiguation",
+  "authors": [
+    "Navid Rekabsaz",
+    "Serwah Sabetghadam",
+    "Mihai Lupu",
+    "Linda Andersson",
+    "Allan Hanbury"
+  ],
+  "languages": [
+    "English",
+    "Persian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "L16-1659",
+  "acl_url": "https://aclanthology.org/L16-1659/"
+}

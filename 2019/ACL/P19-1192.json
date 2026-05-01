@@ -1,0 +1,22 @@
+{
+  "title": "Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation",
+  "authors": [
+    "Zhiqiang Liu",
+    "Zuohui Fu",
+    "Jie Cao",
+    "Gerard de Melo",
+    "Yik-Cheung Tam",
+    "Cheng Niu",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "P19-1192",
+  "acl_url": "https://aclanthology.org/P19-1192/"
+}

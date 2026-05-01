@@ -1,0 +1,21 @@
+{
+  "title": "Two Multilingual Corpora Extracted from the Tenders Electronic Daily for Machine Learning and Machine Translation Applications",
+  "authors": [
+    "Oussama Ahmia",
+    "Nicolas Béchet",
+    "Pierre-François Marteau"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "L18-1583",
+  "acl_url": "https://aclanthology.org/L18-1583/"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Distant Supervision from Disparate Sources for Low-Resource Part-of-Speech Tagging",
+  "authors": [
+    "Barbara Plank",
+    "Željko Agić"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Greek",
+    "Hebrew",
+    "Hindi",
+    "Hungarian",
+    "Italian",
+    "Norwegian",
+    "Persian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Spanish",
+    "Swedish",
+    "Basque",
+    "Estonian",
+    "Serbian",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D18-1061",
+  "acl_url": "https://aclanthology.org/D18-1061/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Sequence to Sequence Mixture Model for Diverse Machine Translation",
+  "authors": [
+    "Xuanli He",
+    "Gholamreza Haffari",
+    "Mohammad Norouzi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Vietnamese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "K18-1056",
+  "acl_url": "https://aclanthology.org/K18-1056/"
+}

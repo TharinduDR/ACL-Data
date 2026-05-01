@@ -1,0 +1,22 @@
+{
+  "title": "From Raw Text to Universal Dependencies – Look, No Tags!",
+  "authors": [
+    "Miriam de Lhoneux",
+    "Yan Shao",
+    "Ali Basirat",
+    "Eliyahu Kiperwasser",
+    "Sara Stymne",
+    "Yoav Goldberg",
+    "Joakim Nivre"
+  ],
+  "languages": [
+    "Chinese",
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K17-3022",
+  "acl_url": "https://aclanthology.org/K17-3022/"
+}

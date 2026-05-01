@@ -1,0 +1,22 @@
+{
+  "title": "A Multilingual Dataset for Evaluating Parallel Sentence Extraction from Comparable Corpora",
+  "authors": [
+    "Pierre Zweigenbaum",
+    "Serge Sharoff",
+    "Reinhard Rapp"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "L18-1605",
+  "acl_url": "https://aclanthology.org/L18-1605/"
+}

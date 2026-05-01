@@ -1,0 +1,21 @@
+{
+  "title": "ANPLers at IqraEval Shared task: Adapting Whisper-large-v3 as Speech-to-Phoneme for Qur'anic Recitation Mispronunciation Detection",
+  "authors": [
+    "Nour Qandous",
+    "Serry Sibae",
+    "Samar Ahmed",
+    "Omer Nacar",
+    "Yasser Al-Habashi",
+    "Adel Ammar",
+    "Wadii Boulila"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.arabicnlp-sharedtasks.64",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-sharedtasks.64/"
+}

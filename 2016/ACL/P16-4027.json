@@ -1,0 +1,25 @@
+{
+  "title": "LiMoSINe pipeline: Multilingual UIMA-based NLP platform",
+  "authors": [
+    "Olga Uryupina",
+    "Barbara Plank",
+    "Gianni Barlacchi",
+    "Francisco Valverde Albacete",
+    "Manos Tsagkias",
+    "Antonio Uva",
+    "Alessandro Moschitti"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Spanish",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P16-4027",
+  "acl_url": "https://aclanthology.org/P16-4027/"
+}

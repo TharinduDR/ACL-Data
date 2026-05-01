@@ -1,0 +1,32 @@
+{
+  "title": "One-Shot Neural Cross-Lingual Transfer for Paradigm Completion",
+  "authors": [
+    "Katharina Kann",
+    "Ryan Cotterell",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "Spanish",
+    "Portuguese",
+    "Catalan",
+    "French",
+    "Italian",
+    "Bulgarian",
+    "Macedonian",
+    "Russian",
+    "Ukrainian",
+    "Polish",
+    "Slovene",
+    "Finnish",
+    "Estonian",
+    "Hungarian",
+    "Northern Sami",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P17-1182",
+  "acl_url": "https://aclanthology.org/P17-1182/"
+}

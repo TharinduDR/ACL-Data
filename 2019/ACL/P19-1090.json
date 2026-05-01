@@ -1,0 +1,29 @@
+{
+  "title": "Towards Automating Healthcare Question Answering in a Noisy Multilingual Low-Resource Setting",
+  "authors": [
+    "Jeanne E. Daniel",
+    "Willie Brink",
+    "Ryan Eloff",
+    "Charles Copley"
+  ],
+  "languages": [
+    "English",
+    "Afrikaans",
+    "Ndebele",
+    "N. Sotho",
+    "S. Sotho",
+    "Swati",
+    "Tsonga",
+    "Tswana",
+    "Venda",
+    "Xhosa",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "P19-1090",
+  "acl_url": "https://aclanthology.org/P19-1090/"
+}

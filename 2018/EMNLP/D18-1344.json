@@ -1,0 +1,20 @@
+{
+  "title": "Word Embeddings for Code-Mixed Language Processing",
+  "authors": [
+    "Adithya Pratapa",
+    "Monojit Choudhury",
+    "Sunayana Sitaram"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D18-1344",
+  "acl_url": "https://aclanthology.org/D18-1344/"
+}

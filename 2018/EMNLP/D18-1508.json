@@ -1,0 +1,20 @@
+{
+  "title": "Interpretable Emoji Prediction via Label-Wise Attention LSTMs",
+  "authors": [
+    "Francesco Barbieri",
+    "Luis Espinosa-Anke",
+    "Jose Camacho-Collados",
+    "Steven Schockaert",
+    "Horacio Saggion"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T23 Social Media Processing",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "D18-1508",
+  "acl_url": "https://aclanthology.org/D18-1508/"
+}

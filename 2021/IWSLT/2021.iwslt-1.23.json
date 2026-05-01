@@ -1,0 +1,24 @@
+{
+  "title": "mixSeq: A Simple Data Augmentation Method for Neural Machine Translation",
+  "authors": [
+    "Xueqing Wu",
+    "Yingce Xia",
+    "Jinhua Zhu",
+    "Lijun Wu",
+    "Shufang Xie",
+    "Tao Qin"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Nepali",
+    "Sinhala"
+  ],
+  "research_areas": [
+    "T14",
+    "T16"
+  ],
+  "paper_id": "2021.iwslt-1.23",
+  "acl_url": "https://aclanthology.org/2021.iwslt-1.23/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "MTNT: A Testbed for Machine Translation of Noisy Text",
+  "authors": [
+    "Paul Michel",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T23 Social Media Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "D18-1050",
+  "acl_url": "https://aclanthology.org/D18-1050/"
+}

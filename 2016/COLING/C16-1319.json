@@ -1,0 +1,18 @@
+{
+  "title": "PersoNER: Persian Named-Entity Recognition",
+  "authors": [
+    "Hanief Poostchi",
+    "Ehsan Zare Borzeshi",
+    "Mohammad Abdous",
+    "Massimo Piccardi"
+  ],
+  "languages": [
+    "Persian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "C16-1319",
+  "acl_url": "https://aclanthology.org/C16-1319/"
+}

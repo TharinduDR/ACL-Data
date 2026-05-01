@@ -1,0 +1,20 @@
+{
+  "title": "Urdu Summary Corpus",
+  "authors": [
+    "Muhammad Humayoun",
+    "Rao Muhammad Adel Nawab",
+    "Muhammad Uzair",
+    "Saba Aslam",
+    "Omer Farzand"
+  ],
+  "languages": [
+    "Urdu",
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L16-1128",
+  "acl_url": "https://aclanthology.org/L16-1128/"
+}

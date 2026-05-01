@@ -1,0 +1,21 @@
+{
+  "title": "RACAI Entry for the IWSLT 2016 Shared Task",
+  "authors": [
+    "Sonia Pipa",
+    "Alin Florentin Vasile",
+    "Ioana Ionaşcu",
+    "Stefan Daniel Dumitrescu",
+    "Tiberiu Boros"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2016.iwslt-1.20",
+  "acl_url": "https://aclanthology.org/2016.iwslt-1.20/"
+}

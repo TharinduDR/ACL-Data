@@ -1,0 +1,31 @@
+{
+  "title": "QTLeap WSD/NED Corpora: Semantic Annotation of Parallel Corpora in Six Languages",
+  "authors": [
+    "Arantxa Otegi",
+    "Nora Aranberri",
+    "Antonio Branco",
+    "Jan Hajič",
+    "Steven Neale",
+    "Petya Osenova",
+    "Rita Pereira",
+    "Martin Popel",
+    "João Silva",
+    "Kiril Simov",
+    "Eneko Agirre"
+  ],
+  "languages": [
+    "Basque",
+    "Bulgarian",
+    "Czech",
+    "English",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "L16-1483",
+  "acl_url": "https://aclanthology.org/L16-1483/"
+}

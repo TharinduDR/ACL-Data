@@ -1,0 +1,41 @@
+{
+  "title": "Creating a Translation Matrix of the Bible's Names Across 591 Languages",
+  "authors": [
+    "Winston Wu",
+    "Nidhi Vyas",
+    "David Yarowsky"
+  ],
+  "languages": [
+    "English",
+    "Yipma",
+    "Hanga",
+    "Koongo",
+    "Hanunoo",
+    "Chin Ngwan",
+    "Maltese",
+    "Latvian",
+    "Paraguayan Guaraní",
+    "Candoshi",
+    "Manikion",
+    "Muak Sa-aak",
+    "Ese",
+    "Awakateko",
+    "Turkish",
+    "Ifugao",
+    "Burarra",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "L18-1263",
+  "acl_url": "https://aclanthology.org/L18-1263/"
+}

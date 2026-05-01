@@ -1,0 +1,36 @@
+{
+  "title": "ISI at the SIGMORPHON 2017 Shared Task on Morphological Reinflection",
+  "authors": [
+    "Abhisek Chakrabarty",
+    "Utpal Garain"
+  ],
+  "languages": [
+    "Arabic",
+    "Armenian",
+    "Dutch",
+    "Georgian",
+    "Hebrew",
+    "Hindi",
+    "Hungarian",
+    "Icelandic",
+    "Irish",
+    "Italian",
+    "Russian",
+    "Turkish",
+    "Urdu",
+    "English",
+    "French",
+    "Italian",
+    "Scottish-Gaelic",
+    "Danish",
+    "Khaling",
+    "Serbo-Croatian",
+    "Welsh"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K17-2006",
+  "acl_url": "https://aclanthology.org/K17-2006/"
+}

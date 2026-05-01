@@ -1,0 +1,20 @@
+{
+  "title": "Universal Dependencies for Japanese",
+  "authors": [
+    "Takaaki Tanaka",
+    "Yusuke Miyao",
+    "Masayuki Asahara",
+    "Sumire Uematsu",
+    "Hiroshi Kanayama",
+    "Shinsuke Mori",
+    "Yuji Matsumoto"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L16-1261",
+  "acl_url": "https://aclanthology.org/L16-1261/"
+}

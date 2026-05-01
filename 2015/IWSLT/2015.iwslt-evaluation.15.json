@@ -1,0 +1,19 @@
+{
+  "title": "The JAIST-UET-MITI Machine Translation Systems for IWSLT 2015",
+  "authors": [
+    "Hai-Long Trieu",
+    "Thanh-Quyen Dang",
+    "Phuong-Thai Nguyen",
+    "Le-Minh Nguyen"
+  ],
+  "languages": [
+    "English",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2015.iwslt-evaluation.15",
+  "acl_url": "https://aclanthology.org/2015.iwslt-evaluation.15/"
+}

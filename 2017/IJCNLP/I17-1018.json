@@ -1,0 +1,17 @@
+{
+  "title": "Character-based Joint Segmentation and POS Tagging for Chinese using Bidirectional RNN-CRF",
+  "authors": [
+    "Yan Shao",
+    "Christian Hardmeier",
+    "Jörg Tiedemann",
+    "Joakim Nivre"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "I17-1018",
+  "acl_url": "https://aclanthology.org/I17-1018/"
+}

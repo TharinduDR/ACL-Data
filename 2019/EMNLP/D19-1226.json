@@ -1,0 +1,27 @@
+{
+  "title": "Cross-lingual Semantic Specialization via Lexical Relation Induction",
+  "authors": [
+    "Edoardo M. Ponti",
+    "Ivan Vulić",
+    "Goran Glavaš",
+    "Roi Reichart",
+    "Anna Korhonen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Russian",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "D19-1226",
+  "acl_url": "https://aclanthology.org/D19-1226/"
+}

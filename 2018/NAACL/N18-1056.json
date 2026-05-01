@@ -1,0 +1,23 @@
+{
+  "title": "Robust Cross-lingual Hypernymy Detection using Dependency Context",
+  "authors": [
+    "Shyam Upadhyay",
+    "Yogarshi Vyas",
+    "Marine Carpuat",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Russian",
+    "Arabic",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "N18-1056",
+  "acl_url": "https://aclanthology.org/N18-1056/"
+}

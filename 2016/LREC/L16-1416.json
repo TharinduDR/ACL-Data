@@ -1,0 +1,39 @@
+{
+  "title": "Lexical Coverage Evaluation of Large-scale Multilingual Semantic Lexicons for Twelve Languages",
+  "authors": [
+    "Scott Piao",
+    "Paul Rayson",
+    "Dawn Archer",
+    "Francesca Bianchi",
+    "Carmen Dayrell",
+    "Mahmoud El-Haj",
+    "Ricardo-María Jiménez",
+    "Michal Křen",
+    "Laura Löfberg",
+    "Rao Muhammad Adeel Nawab",
+    "Jawad Shafi",
+    "Phoey Lee Teh",
+    "Olga Mudraya"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Czech",
+    "Dutch",
+    "Finnish",
+    "Italian",
+    "Malay",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Urdu",
+    "Welsh"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "L16-1416",
+  "acl_url": "https://aclanthology.org/L16-1416/"
+}

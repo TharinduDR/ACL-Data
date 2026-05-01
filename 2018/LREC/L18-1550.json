@@ -1,0 +1,29 @@
+{
+  "title": "Learning Word Vectors for 157 Languages",
+  "authors": [
+    "Edouard Grave",
+    "Piotr Bojanowski",
+    "Prakhar Gupta",
+    "Armand Joulin",
+    "Tomas Mikolov"
+  ],
+  "languages": [
+    "Chinese",
+    "Czech",
+    "German",
+    "Finnish",
+    "French",
+    "Hindi",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "L18-1550",
+  "acl_url": "https://aclanthology.org/L18-1550/"
+}

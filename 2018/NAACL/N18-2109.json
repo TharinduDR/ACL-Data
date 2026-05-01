@@ -1,0 +1,33 @@
+{
+  "title": "Non-Projective Dependency Parsing with Non-Local Transitions",
+  "authors": [
+    "Daniel Fernández-González",
+    "Carlos Gómez-Rodríguez"
+  ],
+  "languages": [
+    "Arabic",
+    "Basque",
+    "Catalan",
+    "Chinese",
+    "Czech",
+    "English",
+    "Greek",
+    "Hungarian",
+    "Italian",
+    "Turkish",
+    "Bulgarian",
+    "Danish",
+    "Dutch",
+    "German",
+    "Japanese",
+    "Portuguese",
+    "Slovene",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N18-2109",
+  "acl_url": "https://aclanthology.org/N18-2109/"
+}

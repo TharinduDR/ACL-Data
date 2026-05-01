@@ -1,0 +1,28 @@
+{
+  "title": "STACL: Simultaneous Translation with Implicit Anticipation and Controllable Latency using Prefix-to-Prefix Framework",
+  "authors": [
+    "Mingbo Ma",
+    "Liang Huang",
+    "Hao Xiong",
+    "Renjie Zheng",
+    "Kaibo Liu",
+    "Baigong Zheng",
+    "Chuanqiang Zhang",
+    "Zhongjun He",
+    "Hairong Liu",
+    "Xing Li",
+    "Hua Wu",
+    "Haifeng Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "P19-1289",
+  "acl_url": "https://aclanthology.org/P19-1289/"
+}

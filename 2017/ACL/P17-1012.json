@@ -1,0 +1,20 @@
+{
+  "title": "A Convolutional Encoder Model for Neural Machine Translation",
+  "authors": [
+    "Jonas Gehring",
+    "Michael Auli",
+    "David Grangier",
+    "Yann N. Dauphin"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P17-1012",
+  "acl_url": "https://aclanthology.org/P17-1012/"
+}

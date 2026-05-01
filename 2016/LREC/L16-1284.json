@@ -1,0 +1,32 @@
+{
+  "title": "Discriminating Similar Languages: Evaluations and Explorations",
+  "authors": [
+    "Cyril Goutte",
+    "Serge Léger",
+    "Shervin Malmasi",
+    "Marcos Zampieri"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Indonesian",
+    "Malay",
+    "Croatian",
+    "Serbian",
+    "Bosnian",
+    "Czech",
+    "Slovak",
+    "Brazilian Portuguese",
+    "European Portuguese",
+    "Argentine Spanish",
+    "Peninsular Spanish",
+    "Bulgarian",
+    "Macedonian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "L16-1284",
+  "acl_url": "https://aclanthology.org/L16-1284/"
+}

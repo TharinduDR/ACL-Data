@@ -1,0 +1,30 @@
+{
+  "title": "Multilingual Back-and-Forth Conversion between Content and Function Head for Easy Dependency Parsing",
+  "authors": [
+    "Ryosuke Kohita",
+    "Hiroshi Noji",
+    "Yuji Matsumoto"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Hungarian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "E17-2001",
+  "acl_url": "https://aclanthology.org/E17-2001/"
+}

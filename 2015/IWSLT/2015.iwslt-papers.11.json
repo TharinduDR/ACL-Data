@@ -1,0 +1,22 @@
+{
+  "title": "An Open Source Toolkit for Word-level Confidence Estimation in Machine Translation",
+  "authors": [
+    "Christophe Servan",
+    "Ngoc Tien Le",
+    "Ngoc Quang Luong",
+    "Benjamin Lecouteux",
+    "Laurent Besacier"
+  ],
+  "languages": [
+    "French",
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2015.iwslt-papers.11",
+  "acl_url": "https://aclanthology.org/2015.iwslt-papers.11/"
+}

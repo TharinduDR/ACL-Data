@@ -1,0 +1,31 @@
+{
+  "title": "Hierarchical Meta-Embeddings for Code-Switching Named Entity Recognition",
+  "authors": [
+    "Genta Indra Winata",
+    "Zhaojiang Lin",
+    "Jamin Shin",
+    "Zihan Liu",
+    "Pascale Fung"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Catalan",
+    "Portuguese",
+    "French",
+    "Italian",
+    "German",
+    "Breton",
+    "Welsh",
+    "Irish",
+    "Scottish Gaelic",
+    "Manx"
+  ],
+  "research_areas": [
+    "T11",
+    "T14",
+    "T23"
+  ],
+  "paper_id": "D19-1360",
+  "acl_url": "https://aclanthology.org/D19-1360/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Extending a Parser to Distant Domains Using a Few Dozen Partially Annotated Examples",
+  "authors": [
+    "Vidur Joshi",
+    "Matthew Peters",
+    "Mark Hopkins"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P18-1110",
+  "acl_url": "https://aclanthology.org/P18-1110/"
+}

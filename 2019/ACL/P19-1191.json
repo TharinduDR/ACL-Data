@@ -1,0 +1,22 @@
+{
+  "title": "PaperRobot: Incremental Draft Generation of Scientific Ideas",
+  "authors": [
+    "Qingyun Wang",
+    "Lifu Huang",
+    "Zhiying Jiang",
+    "Kevin Knight",
+    "Heng Ji",
+    "Mohit Bansal",
+    "Yi Luan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "P19-1191",
+  "acl_url": "https://aclanthology.org/P19-1191/"
+}

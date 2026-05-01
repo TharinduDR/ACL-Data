@@ -1,0 +1,23 @@
+{
+  "title": "Transfer Learning in Multilingual Neural Machine Translation with Dynamic Vocabulary",
+  "authors": [
+    "Surafel M. Lakew",
+    "Aliia Erofeeva",
+    "Matteo Negri",
+    "Marcello Federico",
+    "Marco Turchi"
+  ],
+  "languages": [
+    "German",
+    "Italian",
+    "Romanian",
+    "Dutch",
+    "English"
+  ],
+  "research_areas": [
+    "T16",
+    "T14"
+  ],
+  "paper_id": "2018.iwslt-1.8",
+  "acl_url": "https://aclanthology.org/2018.iwslt-1.8/"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "IBM Research at the CoNLL 2018 Shared Task on Multilingual Parsing",
+  "authors": [
+    "Hui Wan",
+    "Tahira Naseem",
+    "Young-Suk Lee",
+    "Vittorio Castelli",
+    "Miguel Ballesteros"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "Japanese",
+    "Kurmanji",
+    "Arabic",
+    "Persian",
+    "Urdu",
+    "Buryat",
+    "Uyghur",
+    "Naija",
+    "Thai",
+    "Bulgarian",
+    "Russian",
+    "Turkish",
+    "Hebrew",
+    "Cantonese",
+    "Hindi",
+    "Kazakh",
+    "Sorbian Upper",
+    "Armenian",
+    "Vietnamese",
+    "Northern Sami",
+    "Ancient Greek",
+    "Swedish",
+    "Norwegian",
+    "Faroese",
+    "Breton",
+    "Nynorsk",
+    "Portuguese",
+    "Galician",
+    "German",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K18-2009",
+  "acl_url": "https://aclanthology.org/K18-2009/"
+}

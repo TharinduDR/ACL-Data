@@ -1,0 +1,23 @@
+{
+  "title": "PoMo: Generating Entity-Specific Post-Modifiers in Context",
+  "authors": [
+    "Jun Seok Kang",
+    "Robert L. Logan IV",
+    "Zewei Chu",
+    "Yang Chen",
+    "Dheeru Dua",
+    "Kevin Gimpel",
+    "Sameer Singh",
+    "Niranjan Balasubramanian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "N19-1089",
+  "acl_url": "https://aclanthology.org/N19-1089/"
+}

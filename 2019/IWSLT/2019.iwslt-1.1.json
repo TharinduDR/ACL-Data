@@ -1,0 +1,29 @@
+{
+  "title": "The IWSLT 2019 Evaluation Campaign",
+  "authors": [
+    "J. Niehues",
+    "R. Cattoni",
+    "S. Stüker",
+    "M. Negri",
+    "M. Turchi",
+    "T. Ha",
+    "E. Salesky",
+    "R. Sanabria",
+    "L. Barrault",
+    "L. Specia",
+    "M. Federico"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Portuguese",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2019.iwslt-1.1",
+  "acl_url": "https://aclanthology.org/2019.iwslt-1.1/"
+}

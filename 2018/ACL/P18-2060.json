@@ -1,0 +1,20 @@
+{
+  "title": "Neural Hidden Markov Model for Machine Translation",
+  "authors": [
+    "Weiyue Wang",
+    "Derui Zhu",
+    "Tamer Alkhouli",
+    "Zixuan Gan",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P18-2060",
+  "acl_url": "https://aclanthology.org/P18-2060/"
+}

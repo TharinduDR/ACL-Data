@@ -1,0 +1,22 @@
+{
+  "title": "One Size Does Not Fit All: Comparing NMT Representations of Different Granularities",
+  "authors": [
+    "Nadir Durrani",
+    "Fahim Dalvi",
+    "Hassan Sajjad",
+    "Yonatan Belinkov",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech",
+    "Russian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N19-1154",
+  "acl_url": "https://aclanthology.org/N19-1154/"
+}

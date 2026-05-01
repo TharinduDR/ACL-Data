@@ -1,0 +1,34 @@
+{
+  "title": "The BAS Speech Data Repository",
+  "authors": [
+    "Uwe D. Reichel",
+    "Florian Schiel",
+    "Thomas Kisler",
+    "Christoph Draxler",
+    "Nina Pörner"
+  ],
+  "languages": [
+    "German",
+    "Italian",
+    "English",
+    "Japanese",
+    "Arabic",
+    "Dutch",
+    "French",
+    "Hungarian",
+    "Modern Greek",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "L16-1126",
+  "acl_url": "https://aclanthology.org/L16-1126/"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Improving Neural Machine Translation Formality Control with Domain Adaptation and Reranking-based Transductive Learning",
+  "authors": [
+    "Zhanglin Wu",
+    "Zongyao Li",
+    "Daimeng Wei",
+    "Hengchao Shang",
+    "Jiaxin Guo",
+    "Xiaoyu Chen",
+    "Zhiqiang Rao",
+    "Zhengzhe Yu",
+    "Jinlong Yang",
+    "Shaojun Li",
+    "Yuhao Xie",
+    "Bin Wei",
+    "Jiawei Zheng",
+    "Ming Zhu",
+    "Lizhi Lei",
+    "Hao Yang",
+    "Yanfei Jiang"
+  ],
+  "languages": [
+    "English",
+    "Korean",
+    "Vietnamese",
+    "Portuguese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.iwslt-1.13",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.13/"
+}

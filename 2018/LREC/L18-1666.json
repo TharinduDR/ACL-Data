@@ -1,0 +1,26 @@
+{
+  "title": "SMILE Swiss German Sign Language Dataset",
+  "authors": [
+    "Sarah Ebling",
+    "Necati Cihan Camgöz",
+    "Penny Boyes Braem",
+    "Katja Tissi",
+    "Sandra Sidler-Miserez",
+    "Stephanie Stoll",
+    "Simon Hadfield",
+    "Tobias Haug",
+    "Richard Bowden",
+    "Sandrine Tornay",
+    "Marzieh Razavi",
+    "Mathew Magimai-Dossi"
+  ],
+  "languages": [
+    "Swiss German Sign Language"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "L18-1666",
+  "acl_url": "https://aclanthology.org/L18-1666/"
+}

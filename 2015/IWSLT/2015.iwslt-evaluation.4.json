@@ -1,0 +1,18 @@
+{
+  "title": "The Edinburgh Machine Translation Systems for IWSLT 2015",
+  "authors": [
+    "Matthias Huck",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2015.iwslt-evaluation.4",
+  "acl_url": "https://aclanthology.org/2015.iwslt-evaluation.4/"
+}

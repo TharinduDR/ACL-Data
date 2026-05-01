@@ -1,0 +1,22 @@
+{
+  "title": "Incorporating Structural Alignment Biases into an Attentional Neural Translation Model",
+  "authors": [
+    "Trevor Cohn",
+    "Cong Duy Vu Hoang",
+    "Ekaterina Vymolova",
+    "Kaisheng Yao",
+    "Chris Dyer",
+    "Gholamreza Haffari"
+  ],
+  "languages": [
+    "Chinese",
+    "Russian",
+    "Estonian",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "N16-1102",
+  "acl_url": "https://aclanthology.org/N16-1102/"
+}

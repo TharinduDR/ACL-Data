@@ -1,0 +1,22 @@
+{
+  "title": "Generating Video Description using Sequence-to-sequence Model with Temporal Attention",
+  "authors": [
+    "Natsuda Laokulrat",
+    "Sang Phan",
+    "Noriki Nishida",
+    "Raphael Shu",
+    "Yo Ehara",
+    "Naoaki Okazaki",
+    "Yusuke Miyao",
+    "Hideki Nakayama"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "C16-1005",
+  "acl_url": "https://aclanthology.org/C16-1005/"
+}

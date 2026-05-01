@@ -1,0 +1,20 @@
+{
+  "title": "A Character-Level Decoder without Explicit Segmentation for Neural Machine Translation",
+  "authors": [
+    "Junyoung Chung",
+    "Kyunghyun Cho",
+    "Yoshua Bengio"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Russian",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P16-1160",
+  "acl_url": "https://aclanthology.org/P16-1160/"
+}

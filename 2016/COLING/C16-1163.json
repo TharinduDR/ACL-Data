@@ -1,0 +1,24 @@
+{
+  "title": "Neural Attention for Learning to Rank Questions in Community Question Answering",
+  "authors": [
+    "Salvatore Romeo",
+    "Giovanni Da San Martino",
+    "Alberto Barrón-Cedeño",
+    "Alessandro Moschitti",
+    "Yonatan Belinkov",
+    "Wei-Ning Hsu",
+    "Yu Zhang",
+    "Mitra Mohtarami",
+    "James Glass"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "C16-1163",
+  "acl_url": "https://aclanthology.org/C16-1163/"
+}

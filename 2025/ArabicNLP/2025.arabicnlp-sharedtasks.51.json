@@ -1,0 +1,19 @@
+{
+  "title": "LIS at BAREC Shared Task 2025: Multi-Scale Curriculum Learning for Arabic Sentence-Level Readability Assessment Using Pre-trained Language Models",
+  "authors": [
+    "Anya Amel Nait djoudi",
+    "Patrice Bellot",
+    "Adrian-Gabriel Chifu"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.arabicnlp-sharedtasks.51",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-sharedtasks.51/"
+}

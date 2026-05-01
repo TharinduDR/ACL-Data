@@ -1,0 +1,20 @@
+{
+  "title": "The MeMAD Submission to the IWSLT 2018 Speech Translation Task",
+  "authors": [
+    "Umut Sulubacak",
+    "Jörg Tiedemann",
+    "Aku Rouhe",
+    "Stig-Arne Grönroos",
+    "Mikko Kurimo"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2018.iwslt-1.13",
+  "acl_url": "https://aclanthology.org/2018.iwslt-1.13/"
+}

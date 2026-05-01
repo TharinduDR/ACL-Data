@@ -1,0 +1,21 @@
+{
+  "title": "Neural Graphical Models over Strings for Principal Parts Morphological Paradigm Completion",
+  "authors": [
+    "Ryan Cotterell",
+    "John Sylak-Glassman",
+    "Christo Kirov"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Latin",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "E17-2120",
+  "acl_url": "https://aclanthology.org/E17-2120/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "A Simple and Effective Method for Injecting Word-level Information into Character-aware Neural Language Models",
+  "authors": [
+    "Yukun Feng",
+    "Hidetaka Kamigaito",
+    "Hiroya Takamura",
+    "Manabu Okumura"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "Portuguese",
+    "English",
+    "Malay",
+    "Spanish",
+    "Hebrew",
+    "Arabic",
+    "German",
+    "Czech",
+    "Russian",
+    "Estonian",
+    "Finnish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling"
+  ],
+  "paper_id": "K19-1086",
+  "acl_url": "https://aclanthology.org/K19-1086/"
+}

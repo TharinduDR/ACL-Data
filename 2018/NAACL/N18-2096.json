@@ -1,0 +1,30 @@
+{
+  "title": "Predicting Foreign Language Usage from English-Only Social Media Posts",
+  "authors": [
+    "Svitlana Volkova",
+    "Stephen Ranshous",
+    "Lawrence Phillips"
+  ],
+  "languages": [
+    "English",
+    "Tagalog",
+    "Spanish",
+    "Portuguese",
+    "Indonesian",
+    "French",
+    "Korean",
+    "Italian",
+    "Hindi",
+    "German",
+    "Polish",
+    "Japanese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T23 Social Media Processing",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N18-2096",
+  "acl_url": "https://aclanthology.org/N18-2096/"
+}

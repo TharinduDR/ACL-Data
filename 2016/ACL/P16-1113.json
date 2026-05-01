@@ -1,0 +1,19 @@
+{
+  "title": "Neural Semantic Role Labeling with Dependency Path Embeddings",
+  "authors": [
+    "Michael Roth",
+    "Mirella Lapata"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11",
+    "T21"
+  ],
+  "paper_id": "P16-1113",
+  "acl_url": "https://aclanthology.org/P16-1113/"
+}

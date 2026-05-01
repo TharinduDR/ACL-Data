@@ -1,0 +1,23 @@
+{
+  "title": "WISDOM X, DISAANA and D-SUMM: Large-scale NLP Systems for Analyzing Textual Big Data",
+  "authors": [
+    "Junta Mizuno",
+    "Masahiro Tanaka",
+    "Kiyonori Ohtake",
+    "Jong-Hoon Oh",
+    "Julien Kloetzer",
+    "Chikara Hashimoto",
+    "Kentaro Torisawa"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "C16-2055",
+  "acl_url": "https://aclanthology.org/C16-2055/"
+}

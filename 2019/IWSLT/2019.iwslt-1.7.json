@@ -1,0 +1,21 @@
+{
+  "title": "End-to-end Speech Translation System Description of LIT for IWSLT 2019",
+  "authors": [
+    "Mei Tu",
+    "Wei Liu",
+    "Lijie Wang",
+    "Xiao Chen",
+    "Xue Wen"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2019.iwslt-1.7",
+  "acl_url": "https://aclanthology.org/2019.iwslt-1.7/"
+}

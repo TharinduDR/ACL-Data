@@ -1,0 +1,25 @@
+{
+  "title": "Context Sensitive Lemmatization Using Two Successive Bidirectional Gated Recurrent Networks",
+  "authors": [
+    "Abhisek Chakrabarty",
+    "Onkar Arun Pandit",
+    "Utpal Garain"
+  ],
+  "languages": [
+    "Bengali",
+    "Hindi",
+    "Latin",
+    "Spanish",
+    "Catalan",
+    "Dutch",
+    "Hungarian",
+    "Italian",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P17-1136",
+  "acl_url": "https://aclanthology.org/P17-1136/"
+}

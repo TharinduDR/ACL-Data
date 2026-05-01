@@ -1,0 +1,40 @@
+{
+  "title": "COGCOMPNLP: Your Swiss Army Knife for NLP",
+  "authors": [
+    "Daniel Khashabi",
+    "Mark Sammons",
+    "Ben Zhou",
+    "Tom Redman",
+    "Christos Christodoulopoulos",
+    "Vivek Srikumar",
+    "Nicholas Rizzolo",
+    "Lev Ratinov",
+    "Guanheng Luo",
+    "Quang Do",
+    "Chen-Tse Tsai",
+    "Subhro Roy",
+    "Stephen Mayhew",
+    "Zhili Feng",
+    "John Wieting",
+    "Xiaodong Yu",
+    "Yangqiu Song",
+    "Shashank Gupta",
+    "Shyam Upadhyay",
+    "Naveen Arivazhagan",
+    "Qiang Ning",
+    "Shaoshi Ling",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L18-1086",
+  "acl_url": "https://aclanthology.org/L18-1086/"
+}

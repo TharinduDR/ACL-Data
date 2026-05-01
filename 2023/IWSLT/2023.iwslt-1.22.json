@@ -1,0 +1,24 @@
+{
+  "title": "Speech Translation with Style: AppTek's Submissions to the IWSLT Subtitling and Formality Tracks in 2023",
+  "authors": [
+    "Parnia Bahar",
+    "Patrick Wilken",
+    "Javier Iranzo-Sánchez",
+    "Mattia di Gangi",
+    "Evgeny Matusov",
+    "Zoltán Tüske"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Portuguese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.iwslt-1.22",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.22/"
+}

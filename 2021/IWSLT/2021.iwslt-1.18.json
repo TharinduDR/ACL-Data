@@ -1,0 +1,24 @@
+{
+  "title": "Multilingual Speech Translation KIT @ IWSLT2021",
+  "authors": [
+    "Ngoc-Quan Pham",
+    "Dan He",
+    "Tuan-Nam Nguyen",
+    "Thanh-Le Ha",
+    "Sebastian Stüker",
+    "Alexander Waibel"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2021.iwslt-1.18",
+  "acl_url": "https://aclanthology.org/2021.iwslt-1.18/"
+}

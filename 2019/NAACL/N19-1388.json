@@ -1,0 +1,35 @@
+{
+  "title": "Massively Multilingual Neural Machine Translation",
+  "authors": [
+    "Roe Aharoni",
+    "Melvin Johnson",
+    "Orhan Firat"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Hebrew",
+    "Italian",
+    "Belarusian",
+    "Galician",
+    "Slovak",
+    "Azerbaijani",
+    "Czech",
+    "Estonian",
+    "Finnish",
+    "French",
+    "Hindi",
+    "Hungarian",
+    "Latvian",
+    "Romanian",
+    "Russian",
+    "Spanish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "N19-1388",
+  "acl_url": "https://aclanthology.org/N19-1388/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "The USTC-NELSLIP Systems for Simultaneous Speech Translation Task at IWSLT 2021",
+  "authors": [
+    "Dan Liu",
+    "Mengge Du",
+    "Xiaoxi Li",
+    "Yuchen Hu",
+    "Lirong Dai"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2021.iwslt-1.2",
+  "acl_url": "https://aclanthology.org/2021.iwslt-1.2/"
+}

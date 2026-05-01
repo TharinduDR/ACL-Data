@@ -1,0 +1,22 @@
+{
+  "title": "Unsupervised morph segmentation and statistical language models for vocabulary expansion",
+  "authors": [
+    "Matti Varjokallio",
+    "Dietrich Klakow"
+  ],
+  "languages": [
+    "Assamese",
+    "Bengali",
+    "Pashto",
+    "Tagalog",
+    "Tamil",
+    "Turkish",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P16-2029",
+  "acl_url": "https://aclanthology.org/P16-2029/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Effectively combining Phi-4 and NLLB for Spoken Language Translation: SPRING Lab IITMs submission to Low Resource Multilingual Indic Track",
+  "authors": [
+    "Sankalpa Sarkar",
+    "Samriddhi Kashyap",
+    "Advait Joglekar",
+    "S. Umesh"
+  ],
+  "languages": [
+    "Hindi",
+    "Bengali",
+    "Tamil",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.iwslt-1.42",
+  "acl_url": "https://aclanthology.org/2025.iwslt-1.42/"
+}

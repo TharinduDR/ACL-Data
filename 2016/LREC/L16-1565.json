@@ -1,0 +1,22 @@
+{
+  "title": "NorGramBank: A 'Deep' Treebank for Norwegian",
+  "authors": [
+    "Helge Dyvik",
+    "Paul Meurer",
+    "Victoria Rosén",
+    "Koenraad De Smedt",
+    "Petter Haugereid",
+    "Gyri Smørdal Losnegard",
+    "Gunn I. Lyse",
+    "Martha Thunes"
+  ],
+  "languages": [
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L16-1565",
+  "acl_url": "https://aclanthology.org/L16-1565/"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Interlocking Phrases in Phrase-based Statistical Machine Translation",
+  "authors": [
+    "Ye Kyaw Thu",
+    "Andrew Finch",
+    "Eiichiro Sumita"
+  ],
+  "languages": [
+    "Arabic",
+    "Danish",
+    "German",
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Russian",
+    "Tagalog",
+    "Indonesian",
+    "Malaysian",
+    "Vietnamese",
+    "Thai",
+    "Hindi",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Myanmar"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "N16-1124",
+  "acl_url": "https://aclanthology.org/N16-1124/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Unsupervised POS Induction with Word Embeddings",
+  "authors": [
+    "Chu-Cheng Lin",
+    "Waleed Ammar",
+    "Chris Dyer",
+    "Lori Levin"
+  ],
+  "languages": [
+    "Arabic",
+    "Basque",
+    "Danish",
+    "Greek",
+    "Hungarian",
+    "Italian",
+    "Turkish",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "N15-1144",
+  "acl_url": "https://aclanthology.org/N15-1144/"
+}

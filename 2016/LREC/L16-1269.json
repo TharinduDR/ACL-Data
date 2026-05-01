@@ -1,0 +1,23 @@
+{
+  "title": "A Large-Scale Multilingual Disambiguation of Glosses",
+  "authors": [
+    "José Camacho-Collados",
+    "Claudio Delli Bovi",
+    "Alessandro Raganato",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Persian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "L16-1269",
+  "acl_url": "https://aclanthology.org/L16-1269/"
+}

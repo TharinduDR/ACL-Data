@@ -1,0 +1,33 @@
+{
+  "title": "XNLI: Evaluating Cross-lingual Sentence Representations",
+  "authors": [
+    "Alexis Conneau",
+    "Ruty Rinott",
+    "Guillaume Lample",
+    "Holger Schwenk",
+    "Ves Stoyanov",
+    "Adina Williams",
+    "Samuel R. Bowman"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Russian",
+    "Chinese",
+    "Arabic",
+    "Vietnamese",
+    "Thai",
+    "Hindi",
+    "Swahili",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "D18-1269",
+  "acl_url": "https://aclanthology.org/D18-1269/"
+}

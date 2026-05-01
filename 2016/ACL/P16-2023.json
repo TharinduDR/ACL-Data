@@ -1,0 +1,18 @@
+{
+  "title": "Improving cross-domain n-gram language modelling with skipgrams",
+  "authors": [
+    "Louis Onrust",
+    "Antal van den Bosch",
+    "Hugo Van hamme"
+  ],
+  "languages": [
+    "English",
+    "Flemish-Dutch"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P16-2023",
+  "acl_url": "https://aclanthology.org/P16-2023/"
+}

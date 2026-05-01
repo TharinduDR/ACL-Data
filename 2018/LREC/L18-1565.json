@@ -1,0 +1,23 @@
+{
+  "title": "A Neural Network Based Model for Loanword Identification in Uyghur",
+  "authors": [
+    "Chenggang Mi",
+    "Yating Yang",
+    "Lei Wang",
+    "Xi Zhou",
+    "Tonghai Jiang"
+  ],
+  "languages": [
+    "Chinese",
+    "Arabic",
+    "Russian",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "L18-1565",
+  "acl_url": "https://aclanthology.org/L18-1565/"
+}

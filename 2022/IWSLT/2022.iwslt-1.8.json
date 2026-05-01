@@ -1,0 +1,23 @@
+{
+  "title": "MirrorAlign: A Super Lightweight Unsupervised Word Alignment Model via Cross-Lingual Contrastive Learning",
+  "authors": [
+    "Di Wu",
+    "Liang Ding",
+    "Shuo Yang",
+    "Mingyang Li"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Romanian",
+    "German",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.iwslt-1.8",
+  "acl_url": "https://aclanthology.org/2022.iwslt-1.8/"
+}

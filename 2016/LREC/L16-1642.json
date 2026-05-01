@@ -1,0 +1,18 @@
+{
+  "title": "Akkadian Word Segmentation",
+  "authors": [
+    "Timo Homburg",
+    "Dr. Christian Chiarcos"
+  ],
+  "languages": [
+    "Akkadian",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L16-1642",
+  "acl_url": "https://aclanthology.org/L16-1642/"
+}

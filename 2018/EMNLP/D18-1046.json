@@ -1,0 +1,26 @@
+{
+  "title": "Bootstrapping Transliteration with Constrained Discovery for Low-Resource Languages",
+  "authors": [
+    "Shyam Upadhyay",
+    "Jordan Kodner",
+    "Dan Roth"
+  ],
+  "languages": [
+    "Hindi",
+    "Kannada",
+    "Bengali",
+    "Tamil",
+    "Hebrew",
+    "Armenian",
+    "Punjabi",
+    "Tigrinya",
+    "Macedonian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "D18-1046",
+  "acl_url": "https://aclanthology.org/D18-1046/"
+}

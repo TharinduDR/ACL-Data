@@ -1,0 +1,21 @@
+{
+  "title": "A Multilingual, Multi-Style and Multi-Granularity Dataset for Cross-Language Textual Similarity Detection",
+  "authors": [
+    "Jérémy Ferrero",
+    "Frédéric Agnès",
+    "Laurent Besacier",
+    "Didier Schwab"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "L16-1657",
+  "acl_url": "https://aclanthology.org/L16-1657/"
+}

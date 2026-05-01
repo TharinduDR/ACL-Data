@@ -1,0 +1,41 @@
+{
+  "title": "Cross-lingual tagger evaluation without test data",
+  "authors": [
+    "Željko Agić",
+    "Barbara Plank",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "Bulgarian",
+    "Czech",
+    "Danish",
+    "German",
+    "Greek",
+    "Spanish",
+    "Basque",
+    "Farsi",
+    "Finnish",
+    "French",
+    "Irish",
+    "Hebrew",
+    "Hindi",
+    "Croatian",
+    "Hungarian",
+    "Italian",
+    "Latin",
+    "Dutch",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "E17-2040",
+  "acl_url": "https://aclanthology.org/E17-2040/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "The Parallel Meaning Bank: Towards a Multilingual Corpus of Translations Annotated with Compositional Meaning Representations",
+  "authors": [
+    "Lasha Abzianidze",
+    "Johannes Bjerva",
+    "Kilian Evang",
+    "Hessel Haagsma",
+    "Rik van Noord",
+    "Pierre Ludmann",
+    "Duc-Duy Nguyen",
+    "Johan Bos"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Dutch",
+    "Italian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "E17-2039",
+  "acl_url": "https://aclanthology.org/E17-2039/"
+}

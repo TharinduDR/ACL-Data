@@ -1,0 +1,21 @@
+{
+  "title": "VUS at IWSLT 2021: A Finetuned Pipeline for Offline Speech Translation",
+  "authors": [
+    "Yong Rae Jo",
+    "Young Ki Moon",
+    "Minji Jung",
+    "Jungyoon Choi",
+    "Jihyung Moon",
+    "Won Ik Cho"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2021.iwslt-1.12",
+  "acl_url": "https://aclanthology.org/2021.iwslt-1.12/"
+}

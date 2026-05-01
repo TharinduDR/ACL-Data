@@ -1,0 +1,33 @@
+{
+  "title": "Providing a Catalogue of Language Resources for Commercial Users",
+  "authors": [
+    "Bente Maegaard",
+    "Lina Henriksen",
+    "Andrew Joscelyne",
+    "Vesna Lusicky",
+    "Margaretha Mazura",
+    "Sussi Olsen",
+    "Claus Povlsen",
+    "Philippe Wacker"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Romanian",
+    "Greek",
+    "Estonian",
+    "Portuguese",
+    "Croatian",
+    "Hungarian",
+    "Latvian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "L16-1072",
+  "acl_url": "https://aclanthology.org/L16-1072/"
+}

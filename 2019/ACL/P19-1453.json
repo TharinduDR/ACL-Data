@@ -1,0 +1,33 @@
+{
+  "title": "Simple and Effective Paraphrastic Similarity from Parallel Translations",
+  "authors": [
+    "John Wieting",
+    "Kevin Gimpel",
+    "Graham Neubig",
+    "Taylor Berg-Kirkpatrick"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Spanish",
+    "Turkish",
+    "Czech",
+    "French",
+    "German",
+    "Portuguese",
+    "Chinese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "P19-1453",
+  "acl_url": "https://aclanthology.org/P19-1453/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Multi-Task Learning for Chemical Named Entity Recognition with Chemical Compound Paraphrasing",
+  "authors": [
+    "Taiki Watanabe",
+    "Akihiro Tamura",
+    "Takashi Ninomiya",
+    "Takuya Makino",
+    "Tomoya Iwakura"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "D19-1648",
+  "acl_url": "https://aclanthology.org/D19-1648/"
+}

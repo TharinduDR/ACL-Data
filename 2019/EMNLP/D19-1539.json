@@ -1,0 +1,20 @@
+{
+  "title": "Cloze-driven Pretraining of Self-attention Networks",
+  "authors": [
+    "Alexei Baevski",
+    "Sergey Edunov",
+    "Yinhan Liu",
+    "Luke Zettlemoyer",
+    "Michael Auli"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T21 Parsing"
+  ],
+  "paper_id": "D19-1539",
+  "acl_url": "https://aclanthology.org/D19-1539/"
+}

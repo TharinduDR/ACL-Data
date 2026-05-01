@@ -1,0 +1,21 @@
+{
+  "title": "Do We Really Need All Those Rich Linguistic Features? A Neural Network-Based Approach to Implicit Sense Labeling",
+  "authors": [
+    "Niko Schenk",
+    "Christian Chiarcos",
+    "Kathrin Donandt",
+    "Samuel Rönnqvist",
+    "Evgeny A. Stepanov",
+    "Giuseppe Riccardi"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K16-2005",
+  "acl_url": "https://aclanthology.org/K16-2005/"
+}

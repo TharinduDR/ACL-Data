@@ -1,0 +1,36 @@
+{
+  "title": "VAST: A Corpus of Video Annotation for Speech Technologies",
+  "authors": [
+    "Jennifer Tracey",
+    "Stephanie Strassel"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Spanish",
+    "Portuguese",
+    "Russian",
+    "Polish",
+    "Min Nan",
+    "Persian",
+    "Cantonese",
+    "Egyptian Arabic",
+    "Iraqi Arabic",
+    "Levantine Arabic",
+    "Maghrebi Arabic",
+    "Gulf Arabic",
+    "British English",
+    "Gen. American English",
+    "Caribbean Spanish",
+    "European Spanish",
+    "Latin American Spanish",
+    "Brazilian Portuguese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "L18-1682",
+  "acl_url": "https://aclanthology.org/L18-1682/"
+}

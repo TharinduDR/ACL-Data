@@ -1,0 +1,19 @@
+{
+  "title": "A Neural Verb Lexicon Model with Source-side Syntactic Context for String-to-Tree Machine Translation",
+  "authors": [
+    "Maria Nadejde",
+    "Alexandra Birch",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2016.iwslt-1.11",
+  "acl_url": "https://aclanthology.org/2016.iwslt-1.11/"
+}

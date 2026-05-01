@@ -1,0 +1,19 @@
+{
+  "title": "Learning to Segment Inputs for NMT Favors Character-Level Processing",
+  "authors": [
+    "Julia Kreutzer",
+    "Artem Sokolov"
+  ],
+  "languages": [
+    "German",
+    "Chinese",
+    "Japanese",
+    "French"
+  ],
+  "research_areas": [
+    "T16",
+    "T14"
+  ],
+  "paper_id": "2018.iwslt-1.25",
+  "acl_url": "https://aclanthology.org/2018.iwslt-1.25/"
+}

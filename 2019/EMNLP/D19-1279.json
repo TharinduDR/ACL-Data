@@ -1,0 +1,31 @@
+{
+  "title": "75 Languages, 1 Model: Parsing Universal Dependencies Universally",
+  "authors": [
+    "Dan Kondratyuk",
+    "Milan Straka"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Spanish",
+    "Czech",
+    "Belarusian",
+    "Buryat",
+    "Upper Sorbian",
+    "Kazakh",
+    "Lithuanian",
+    "Breton",
+    "Tagalog",
+    "Faroese",
+    "Naija",
+    "Sanskrit"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D19-1279",
+  "acl_url": "https://aclanthology.org/D19-1279/"
+}

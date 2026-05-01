@@ -1,0 +1,22 @@
+{
+  "title": "AppTek's Automatic Speech Translation: Generating Accurate and Well-Readable Subtitles",
+  "authors": [
+    "Frithjof Petrick",
+    "Patrick Wilken",
+    "Evgeny Matusov",
+    "Nahuel Roselló",
+    "Sarah Beranek"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.iwslt-1.21",
+  "acl_url": "https://aclanthology.org/2025.iwslt-1.21/"
+}

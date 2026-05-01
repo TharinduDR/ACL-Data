@@ -1,0 +1,31 @@
+{
+  "title": "Universal Dependency Parsing from Scratch",
+  "authors": [
+    "Peng Qi",
+    "Timothy Dozat",
+    "Yuhao Zhang",
+    "Christopher D. Manning"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Arabic",
+    "Hebrew",
+    "Czech",
+    "Chinese",
+    "Portuguese",
+    "Indonesian",
+    "Swahili",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K18-2016",
+  "acl_url": "https://aclanthology.org/K18-2016/"
+}

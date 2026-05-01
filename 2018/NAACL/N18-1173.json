@@ -1,0 +1,25 @@
+{
+  "title": "Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem",
+  "authors": [
+    "Sven Buechel",
+    "Udo Hahn"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Chinese",
+    "Polish",
+    "Italian",
+    "Portuguese",
+    "Dutch",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "N18-1173",
+  "acl_url": "https://aclanthology.org/N18-1173/"
+}

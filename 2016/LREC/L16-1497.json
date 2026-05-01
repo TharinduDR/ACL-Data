@@ -1,0 +1,32 @@
+{
+  "title": "Remote Elicitation of Inflectional Paradigms to Seed Morphological Analysis in Low-Resource Languages",
+  "authors": [
+    "John Sylak-Glassman",
+    "Christo Kirov",
+    "David Yarowsky"
+  ],
+  "languages": [
+    "Akan",
+    "Amharic",
+    "Azeri",
+    "Dari",
+    "Farsi",
+    "Igbo",
+    "Indonesian",
+    "Punjabi",
+    "Sinhala",
+    "Tagalog",
+    "Tajik",
+    "Tigrinya",
+    "Turkish",
+    "Uzbek",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "L16-1497",
+  "acl_url": "https://aclanthology.org/L16-1497/"
+}

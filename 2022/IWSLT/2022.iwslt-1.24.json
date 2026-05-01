@@ -1,0 +1,23 @@
+{
+  "title": "CUNI-KIT System for Simultaneous Speech Translation Task at IWSLT 2022",
+  "authors": [
+    "Peter Polák",
+    "Ngoc-Quan Ngoc",
+    "Tuan-Nam Nguyen",
+    "Danni Liu",
+    "Carlos Mullov",
+    "Jan Niehues",
+    "Ondřej Bojar",
+    "Alexander Waibel"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.iwslt-1.24",
+  "acl_url": "https://aclanthology.org/2022.iwslt-1.24/"
+}

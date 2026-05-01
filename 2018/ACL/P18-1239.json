@@ -1,0 +1,51 @@
+{
+  "title": "Learning Translations via Images with a Massively Multilingual Image Dataset",
+  "authors": [
+    "John Hewitt",
+    "Daphne Ippolito",
+    "Brendan Callahan",
+    "Reno Kriz",
+    "Derry Wijaya",
+    "Chris Callison-Burch"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Dutch",
+    "German",
+    "Italian",
+    "Spanish",
+    "Indonesian",
+    "Uzbek",
+    "Thai",
+    "Vietnamese",
+    "Bosnian",
+    "Slovak",
+    "Ukrainian",
+    "Latvian",
+    "Hindi",
+    "Cebuano",
+    "Azerbaijani",
+    "Welsh",
+    "Albanian",
+    "Bengali",
+    "Tamil",
+    "Urdu",
+    "Telugu",
+    "Nepali",
+    "Gujarati",
+    "Swedish",
+    "Romanian",
+    "Hungarian",
+    "Bulgarian",
+    "Serbian",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "P18-1239",
+  "acl_url": "https://aclanthology.org/P18-1239/"
+}

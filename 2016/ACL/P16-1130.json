@@ -1,0 +1,23 @@
+{
+  "title": "A Continuous Space Rule Selection Model for Syntax-based Statistical Machine Translation",
+  "authors": [
+    "Jingyi Zhang",
+    "Masao Utiyama",
+    "Eiichiro Sumita",
+    "Graham Neubig",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16",
+    "T21"
+  ],
+  "paper_id": "P16-1130",
+  "acl_url": "https://aclanthology.org/P16-1130/"
+}

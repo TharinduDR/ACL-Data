@@ -1,0 +1,26 @@
+{
+  "title": "Alibaba Speech Translation Systems for IWSLT 2018",
+  "authors": [
+    "Nguyen Bach",
+    "Hongjie Chen",
+    "Kai Fan",
+    "Cheung-Chi Leung",
+    "Bo Li",
+    "Chongjia Ni",
+    "Rong Tong",
+    "Pei Zhang",
+    "Boxing Chen",
+    "Bin Ma",
+    "Fei Huang"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2018.iwslt-1.20",
+  "acl_url": "https://aclanthology.org/2018.iwslt-1.20/"
+}

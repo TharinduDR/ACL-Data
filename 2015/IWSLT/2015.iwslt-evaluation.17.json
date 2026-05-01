@@ -1,0 +1,19 @@
+{
+  "title": "The NAIST English Speech Recognition System for IWSLT 2015",
+  "authors": [
+    "Michael Heck",
+    "Quoc Truong Do",
+    "Sakriani Sakti",
+    "Graham Neubig",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14",
+    "T24"
+  ],
+  "paper_id": "2015.iwslt-evaluation.17",
+  "acl_url": "https://aclanthology.org/2015.iwslt-evaluation.17/"
+}

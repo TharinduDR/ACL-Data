@@ -1,0 +1,19 @@
+{
+  "title": "Syntactic Parse Fusion",
+  "authors": [
+    "Do Kook Choe",
+    "David McClosky",
+    "Eugene Charniak"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D15-1160",
+  "acl_url": "https://aclanthology.org/D15-1160/"
+}

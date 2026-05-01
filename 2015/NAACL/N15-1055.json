@@ -1,0 +1,20 @@
+{
+  "title": "Robust Morphological Tagging with Word Representations",
+  "authors": [
+    "Thomas Müller",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hungarian",
+    "Spanish",
+    "Latin",
+    "Czech"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N15-1055",
+  "acl_url": "https://aclanthology.org/N15-1055/"
+}

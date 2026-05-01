@@ -1,0 +1,22 @@
+{
+  "title": "TUNIFRA: A Tunisian Arabic Speech Corpus with Orthographic Transcriptions and French Translations",
+  "authors": [
+    "Alex Choux",
+    "Marko Avila",
+    "Fethi Bougares",
+    "Hugo Riguidel",
+    "Josep Crego",
+    "Antoine Laurent"
+  ],
+  "languages": [
+    "Arabic",
+    "French"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T16 Machine Translation",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.arabicnlp-main.5",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-main.5/"
+}

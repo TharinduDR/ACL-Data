@@ -1,0 +1,21 @@
+{
+  "title": "Semi-Supervised Bootstrapping of Dialogue State Trackers for Task-Oriented Modelling",
+  "authors": [
+    "Bo-Hsiang Tseng",
+    "Marek Rei",
+    "Paweł Budzianowski",
+    "Richard E. Turner",
+    "Bill Byrne",
+    "Anna Korhonen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "D19-1125",
+  "acl_url": "https://aclanthology.org/D19-1125/"
+}

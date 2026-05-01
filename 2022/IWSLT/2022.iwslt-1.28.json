@@ -1,0 +1,27 @@
+{
+  "title": "ON-TRAC Consortium Systems for the IWSLT 2022 Dialect and Low-resource Speech Translation Tasks",
+  "authors": [
+    "Marcely Zanon Boito",
+    "John Ortega",
+    "Hugo Riguidel",
+    "Antoine Laurent",
+    "Loïc Barrault",
+    "Fethi Bougares",
+    "Firas Chaabani",
+    "Ha Nguyen",
+    "Florentin Barbier",
+    "Souhir Gahbiche",
+    "Yannick Estève"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.iwslt-1.28",
+  "acl_url": "https://aclanthology.org/2022.iwslt-1.28/"
+}

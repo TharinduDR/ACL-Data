@@ -1,0 +1,24 @@
+{
+  "title": "Neural Multi-Source Morphological Reinflection",
+  "authors": [
+    "Katharina Kann",
+    "Ryan Cotterell",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "Arabic",
+    "Finnish",
+    "Georgian",
+    "German",
+    "Hungarian",
+    "Russian",
+    "Spanish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "E17-1049",
+  "acl_url": "https://aclanthology.org/E17-1049/"
+}

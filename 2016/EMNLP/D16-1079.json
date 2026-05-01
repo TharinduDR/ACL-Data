@@ -1,0 +1,33 @@
+{
+  "title": "Analyzing Linguistic Knowledge in Sequential Model of Sentence",
+  "authors": [
+    "Peng Qian",
+    "Xipeng Qiu",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Latin",
+    "Ancient Greek",
+    "Bulgarian",
+    "Spanish",
+    "Portuguese",
+    "Italian",
+    "French",
+    "Dutch",
+    "Norwegian",
+    "Hindi",
+    "Slovenian",
+    "Hungarian",
+    "Indonesian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D16-1079",
+  "acl_url": "https://aclanthology.org/D16-1079/"
+}

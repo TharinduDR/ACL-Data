@@ -1,0 +1,21 @@
+{
+  "title": "Building compositional semantics and higher-order inference system for a wide-coverage Japanese CCG parser",
+  "authors": [
+    "Koji Mineshima",
+    "Ribeka Tanaka",
+    "Pascual Martínez-Gómez",
+    "Yusuke Miyao",
+    "Daisuke Bekki"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "D16-1242",
+  "acl_url": "https://aclanthology.org/D16-1242/"
+}

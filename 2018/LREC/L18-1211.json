@@ -1,0 +1,32 @@
+{
+  "title": "Indra: A Word Embedding and Semantic Relatedness Server",
+  "authors": [
+    "Juliano Efson Sales",
+    "Leonardo Souza",
+    "Siamak Barzegar",
+    "Brian Davis",
+    "André Freitas",
+    "Siegfried Handschuh"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "German",
+    "Chinese",
+    "French",
+    "Brazilian Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "L18-1211",
+  "acl_url": "https://aclanthology.org/L18-1211/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Addressing Word-order Divergence in Multilingual Neural Machine Translation for Extremely Low Resource Languages",
+  "authors": [
+    "Rudra Murthy V",
+    "Anoop Kunchukuttan",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Gujarati",
+    "Marathi",
+    "Malayalam",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T16",
+    "T14"
+  ],
+  "paper_id": "N19-1387",
+  "acl_url": "https://aclanthology.org/N19-1387/"
+}

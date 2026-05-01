@@ -1,0 +1,23 @@
+{
+  "title": "Simple task-specific bilingual word embeddings",
+  "authors": [
+    "Stephan Gouws",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Danish",
+    "Swedish",
+    "Italian",
+    "Dutch",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "N15-1157",
+  "acl_url": "https://aclanthology.org/N15-1157/"
+}

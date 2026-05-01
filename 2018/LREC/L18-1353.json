@@ -1,0 +1,24 @@
+{
+  "title": "FonBund: A Library for Combining Cross-lingual Phonological Segment Data",
+  "authors": [
+    "Alexander Gutkin",
+    "Martin Jansche",
+    "Tatiana Merkulova"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Malayalam",
+    "Marathi",
+    "Sinhala",
+    "Tamil",
+    "Telugu",
+    "Bengali",
+    "West Bengali"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "L18-1353",
+  "acl_url": "https://aclanthology.org/L18-1353/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "A Melody-conditioned Lyrics Language Model",
+  "authors": [
+    "Kento Watanabe",
+    "Yuichiroh Matsubayashi",
+    "Satoru Fukayama",
+    "Masataka Goto",
+    "Kentaro Inui",
+    "Tomoyasu Nakano"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "N18-1015",
+  "acl_url": "https://aclanthology.org/N18-1015/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Multi-Source Neural Translation",
+  "authors": [
+    "Barret Zoph",
+    "Kevin Knight"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "N16-1004",
+  "acl_url": "https://aclanthology.org/N16-1004/"
+}

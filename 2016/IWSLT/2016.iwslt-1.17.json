@@ -1,0 +1,21 @@
+{
+  "title": "The RWTH Aachen LVCSR system for IWSLT-2016 German Skype conversation recognition task",
+  "authors": [
+    "Wilfried Michel",
+    "Zoltán Tüske",
+    "M. Ali Basha Shaik",
+    "Ralf Schlüter",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14",
+    "T24"
+  ],
+  "paper_id": "2016.iwslt-1.17",
+  "acl_url": "https://aclanthology.org/2016.iwslt-1.17/"
+}

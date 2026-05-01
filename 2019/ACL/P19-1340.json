@@ -1,0 +1,27 @@
+{
+  "title": "Multilingual Constituency Parsing with Self-Attention and Pre-Training",
+  "authors": [
+    "Nikita Kitaev",
+    "Steven Cao",
+    "Dan Klein"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Basque",
+    "French",
+    "German",
+    "Hebrew",
+    "Hungarian",
+    "Korean",
+    "Polish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P19-1340",
+  "acl_url": "https://aclanthology.org/P19-1340/"
+}

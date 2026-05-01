@@ -1,0 +1,25 @@
+{
+  "title": "Leveraging Small Multilingual Corpora for SMT Using Many Pivot Languages",
+  "authors": [
+    "Raj Dabre",
+    "Fabien Cromieres",
+    "Sadao Kurohashi",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "Japanese",
+    "Hindi",
+    "Chinese",
+    "Korean",
+    "Marathi",
+    "Kannada",
+    "Telugu",
+    "Esperanto"
+  ],
+  "research_areas": [
+    "T16",
+    "T02"
+  ],
+  "paper_id": "N15-1125",
+  "acl_url": "https://aclanthology.org/N15-1125/"
+}

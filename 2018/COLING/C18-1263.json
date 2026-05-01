@@ -1,0 +1,19 @@
+{
+  "title": "Multilingual Neural Machine Translation with Task-Specific Attention",
+  "authors": [
+    "Graeme Blackwood",
+    "Miguel Ballesteros",
+    "Todd Ward"
+  ],
+  "languages": [
+    "French",
+    "English",
+    "Spanish",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "C18-1263",
+  "acl_url": "https://aclanthology.org/C18-1263/"
+}

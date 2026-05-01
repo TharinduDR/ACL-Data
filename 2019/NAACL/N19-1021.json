@@ -1,0 +1,20 @@
+{
+  "title": "Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing",
+  "authors": [
+    "Hao Fu",
+    "Chunyuan Li",
+    "Xiaodong Liu",
+    "Jianfeng Gao",
+    "Asli Celikyilmaz",
+    "Lawrence Carin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "N19-1021",
+  "acl_url": "https://aclanthology.org/N19-1021/"
+}

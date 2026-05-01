@@ -1,0 +1,21 @@
+{
+  "title": "ReCoSa: Detecting the Relevant Contexts with Self-Attention for Multi-turn Dialogue Generation",
+  "authors": [
+    "Hainan Zhang",
+    "Yanyan Lan",
+    "Liang Pang",
+    "Jiafeng Guo",
+    "Xueqi Cheng"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "P19-1362",
+  "acl_url": "https://aclanthology.org/P19-1362/"
+}

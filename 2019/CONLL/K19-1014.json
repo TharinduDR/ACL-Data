@@ -1,0 +1,32 @@
+{
+  "title": "Weird Inflects but OK: Making Sense of Morphological Generation Errors",
+  "authors": [
+    "Kyle Gorman",
+    "Arya D. McCarthy",
+    "Ryan Cotterell",
+    "Ekaterina Vylomova",
+    "Miikka Silfverberg",
+    "Magdalena Markowska"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "German",
+    "Hungarian",
+    "Italian",
+    "Latin",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Spanish",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "K19-1014",
+  "acl_url": "https://aclanthology.org/K19-1014/"
+}

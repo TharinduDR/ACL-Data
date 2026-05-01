@@ -1,0 +1,20 @@
+{
+  "title": "Data-driven sentence generation with non-isomorphic trees",
+  "authors": [
+    "Miguel Ballesteros",
+    "Bernd Bohnet",
+    "Simon Mille",
+    "Leo Wanner"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "N15-1042",
+  "acl_url": "https://aclanthology.org/N15-1042/"
+}

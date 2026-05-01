@@ -1,0 +1,25 @@
+{
+  "title": "Evaluating Machine Translation in a Usage Scenario",
+  "authors": [
+    "Rosa Del Gaudio",
+    "Aljoscha Burchardt",
+    "António Branco"
+  ],
+  "languages": [
+    "English",
+    "Basque",
+    "Bulgarian",
+    "Czech",
+    "Dutch",
+    "German",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "L16-1001",
+  "acl_url": "https://aclanthology.org/L16-1001/"
+}

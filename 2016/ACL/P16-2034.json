@@ -1,0 +1,21 @@
+{
+  "title": "Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification",
+  "authors": [
+    "Peng Zhou",
+    "Wei Shi",
+    "Jun Tian",
+    "Zhenyu Qi",
+    "Bingchen Li",
+    "Hongwei Hao",
+    "Bo Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "P16-2034",
+  "acl_url": "https://aclanthology.org/P16-2034/"
+}

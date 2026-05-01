@@ -1,0 +1,27 @@
+{
+  "title": "XQA: A Cross-lingual Open-domain Question Answering Dataset",
+  "authors": [
+    "Jiahua Liu",
+    "Yankai Lin",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Tamil",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P19-1227",
+  "acl_url": "https://aclanthology.org/P19-1227/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "GhostWriter: Using an LSTM for Automatic Rap Lyric Generation",
+  "authors": [
+    "Peter Potash",
+    "Alexey Romanov",
+    "Anna Rumshisky"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "D15-1221",
+  "acl_url": "https://aclanthology.org/D15-1221/"
+}

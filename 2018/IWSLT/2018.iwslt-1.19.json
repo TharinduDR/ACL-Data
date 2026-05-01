@@ -1,0 +1,23 @@
+{
+  "title": "KIT's IWSLT 2018 SLT Translation System",
+  "authors": [
+    "Matthias Sperber",
+    "Ngoc Quan Pham",
+    "Thai Son Nguyen",
+    "Jan Niehues",
+    "Markus Müller",
+    "Thanh-Le Ha",
+    "Sebastian Stüker",
+    "Alex Waibel"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2018.iwslt-1.19",
+  "acl_url": "https://aclanthology.org/2018.iwslt-1.19/"
+}

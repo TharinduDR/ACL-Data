@@ -1,0 +1,27 @@
+{
+  "title": "OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles",
+  "authors": [
+    "Pierre Lison",
+    "Jörg Tiedemann"
+  ],
+  "languages": [
+    "Chinese",
+    "Czech",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "L16-1147",
+  "acl_url": "https://aclanthology.org/L16-1147/"
+}

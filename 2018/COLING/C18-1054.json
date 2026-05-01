@@ -1,0 +1,21 @@
+{
+  "title": "A Comparison of Transformer and Recurrent Neural Networks on Multilingual Neural Machine Translation",
+  "authors": [
+    "Surafel M. Lakew",
+    "Mauro Cettolo",
+    "Marcello Federico"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "German",
+    "Italian",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "C18-1054",
+  "acl_url": "https://aclanthology.org/C18-1054/"
+}

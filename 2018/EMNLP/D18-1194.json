@@ -1,0 +1,21 @@
+{
+  "title": "Cross-lingual Decompositional Semantic Parsing",
+  "authors": [
+    "Sheng Zhang",
+    "Xutai Ma",
+    "Rachel Rudinger",
+    "Kevin Duh",
+    "Benjamin Van Durme"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "D18-1194",
+  "acl_url": "https://aclanthology.org/D18-1194/"
+}

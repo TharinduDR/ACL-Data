@@ -1,0 +1,29 @@
+{
+  "title": "Length-Aware NMT and Adaptive Duration for Automatic Dubbing",
+  "authors": [
+    "Zhiqiang Rao",
+    "Hengchao Shang",
+    "Jinlong Yang",
+    "Daimeng Wei",
+    "Zongyao Li",
+    "Jiaxin Guo",
+    "Shaojun Li",
+    "Zhengze Yu",
+    "Zhanglin Wu",
+    "Yuhao Xie",
+    "Bin Wei",
+    "Jiawei Zheng",
+    "Lizhi Lei",
+    "Hao Yang"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.iwslt-1.9",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.9/"
+}

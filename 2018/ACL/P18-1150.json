@@ -1,0 +1,19 @@
+{
+  "title": "A Graph-to-Sequence Model for AMR-to-Text Generation",
+  "authors": [
+    "Linfeng Song",
+    "Yue Zhang",
+    "Zhiguo Wang",
+    "Daniel Gildea"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "P18-1150",
+  "acl_url": "https://aclanthology.org/P18-1150/"
+}

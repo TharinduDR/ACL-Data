@@ -1,0 +1,21 @@
+{
+  "title": "Data Augmentation for End-to-End Speech Translation: FBK@IWSLT '19",
+  "authors": [
+    "Mattia A. Di Gangi",
+    "Matteo Negri",
+    "Viet Nhat Nguyen",
+    "Amirhossein Tebbifakhr",
+    "Marco Turchi"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2019.iwslt-1.14",
+  "acl_url": "https://aclanthology.org/2019.iwslt-1.14/"
+}

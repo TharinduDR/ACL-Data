@@ -1,0 +1,25 @@
+{
+  "title": "A non-projective greedy dependency parser with bidirectional LSTMs",
+  "authors": [
+    "David Vilares",
+    "Carlos Gómez-Rodríguez"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Portuguese",
+    "Chinese",
+    "Arabic",
+    "Persian",
+    "Uyghur",
+    "Buryat",
+    "Kurmanji",
+    "North Sami",
+    "Upper Sorbian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K17-3016",
+  "acl_url": "https://aclanthology.org/K17-3016/"
+}

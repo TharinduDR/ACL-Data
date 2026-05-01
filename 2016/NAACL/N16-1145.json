@@ -1,0 +1,19 @@
+{
+  "title": "Simple, Fast Noise-Contrastive Estimation for Large RNN Vocabularies",
+  "authors": [
+    "Barret Zoph",
+    "Ashish Vaswani",
+    "Jonathan May",
+    "Kevin Knight"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "N16-1145",
+  "acl_url": "https://aclanthology.org/N16-1145/"
+}

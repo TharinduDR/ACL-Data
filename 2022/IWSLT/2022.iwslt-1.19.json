@@ -1,0 +1,23 @@
+{
+  "title": "The NiuTrans's Submission to the IWSLT22 English-to-Chinese Offline Speech Translation Task",
+  "authors": [
+    "Yuhao Zhang",
+    "Canan Huang",
+    "Chen Xu",
+    "Xiaoqian Liu",
+    "Bei Li",
+    "Anxiang Ma",
+    "Tong Xiao",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.iwslt-1.19",
+  "acl_url": "https://aclanthology.org/2022.iwslt-1.19/"
+}

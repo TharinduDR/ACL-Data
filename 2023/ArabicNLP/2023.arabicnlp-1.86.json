@@ -1,0 +1,17 @@
+{
+  "title": "AlexU-AIC at WojooodNER shared task: Sequence Labeling vs MRC and SWA for Arabic Named Entity Recognition",
+  "authors": [
+    "Shereen Elkordi",
+    "Noha Adly",
+    "Marwan Torki"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.arabicnlp-1.86",
+  "acl_url": "https://aclanthology.org/2023.arabicnlp-1.86/"
+}

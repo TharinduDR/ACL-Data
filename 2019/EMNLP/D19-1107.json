@@ -1,0 +1,18 @@
+{
+  "title": "Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets",
+  "authors": [
+    "Mor Geva",
+    "Yoav Goldberg",
+    "Jonathan Berant"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "D19-1107",
+  "acl_url": "https://aclanthology.org/D19-1107/"
+}

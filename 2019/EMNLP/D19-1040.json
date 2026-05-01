@@ -1,0 +1,20 @@
+{
+  "title": "EntEval: A Holistic Evaluation Benchmark for Entity Representations",
+  "authors": [
+    "Mingda Chen",
+    "Zewei Chu",
+    "Yang Chen",
+    "Karl Stratos",
+    "Kevin Gimpel"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "D19-1040",
+  "acl_url": "https://aclanthology.org/D19-1040/"
+}

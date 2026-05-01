@@ -1,0 +1,19 @@
+{
+  "title": "RelTextRank: An Open Source Framework for Building Relational Syntactic-Semantic Text Pair Representations",
+  "authors": [
+    "Kateryna Tymoshenko",
+    "Alessandro Moschitti",
+    "Massimo Nicosia",
+    "Aliaksei Severyn"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P17-4014",
+  "acl_url": "https://aclanthology.org/P17-4014/"
+}

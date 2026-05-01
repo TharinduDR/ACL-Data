@@ -1,0 +1,20 @@
+{
+  "title": "Unsupervised Neural Machine Translation with Weight Sharing",
+  "authors": [
+    "Zhen Yang",
+    "Wei Chen",
+    "Feng Wang",
+    "Bo Xu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P18-1005",
+  "acl_url": "https://aclanthology.org/P18-1005/"
+}

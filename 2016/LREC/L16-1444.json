@@ -1,0 +1,22 @@
+{
+  "title": "Features for Generic Corpus Querying",
+  "authors": [
+    "Thomas Eckart",
+    "Christoph Kuras",
+    "Uwe Quasthoff"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L16-1444",
+  "acl_url": "https://aclanthology.org/L16-1444/"
+}

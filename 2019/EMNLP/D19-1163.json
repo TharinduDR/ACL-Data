@@ -1,0 +1,21 @@
+{
+  "title": "Span-based Hierarchical Semantic Parsing for Task-Oriented Dialog",
+  "authors": [
+    "Panupong Pasupat",
+    "Sonal Gupta",
+    "Karishma Mandya",
+    "Rushin Shah",
+    "Mike Lewis",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "D19-1163",
+  "acl_url": "https://aclanthology.org/D19-1163/"
+}

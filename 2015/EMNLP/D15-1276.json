@@ -1,0 +1,17 @@
+{
+  "title": "Morphological Analysis for Unsegmented Languages using Recurrent Neural Network Language Model",
+  "authors": [
+    "Hajime Morita",
+    "Daisuke Kawahara",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D15-1276",
+  "acl_url": "https://aclanthology.org/D15-1276/"
+}

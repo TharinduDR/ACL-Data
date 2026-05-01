@@ -1,0 +1,24 @@
+{
+  "title": "The AISP-SJTU Simultaneous Translation System for IWSLT 2022",
+  "authors": [
+    "Qinpei Zhu",
+    "Renshou Wu",
+    "Guangfeng Liu",
+    "Xinyu Zhu",
+    "Xingyu Chen",
+    "Yang Zhou",
+    "Qingliang Miao",
+    "Rui Wang",
+    "Kai Yu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.iwslt-1.16",
+  "acl_url": "https://aclanthology.org/2022.iwslt-1.16/"
+}

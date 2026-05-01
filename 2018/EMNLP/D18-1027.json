@@ -1,0 +1,23 @@
+{
+  "title": "Improving Cross-Lingual Word Embeddings by Meeting in the Middle",
+  "authors": [
+    "Yerai Doval",
+    "Jose Camacho-Collados",
+    "Luis Espinosa-Anke",
+    "Steven Schockaert"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian",
+    "German",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "D18-1027",
+  "acl_url": "https://aclanthology.org/D18-1027/"
+}

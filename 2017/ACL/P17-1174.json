@@ -1,0 +1,23 @@
+{
+  "title": "Chunk-based Decoder for Neural Machine Translation",
+  "authors": [
+    "Shonosuke Ishiwatari",
+    "Jingtao Yao",
+    "Shujie Liu",
+    "Mu Li",
+    "Ming Zhou",
+    "Naoki Yoshinaga",
+    "Masaru Kitsuregawa",
+    "Weijia Jia"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P17-1174",
+  "acl_url": "https://aclanthology.org/P17-1174/"
+}

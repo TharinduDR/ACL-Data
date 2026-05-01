@@ -1,0 +1,34 @@
+{
+  "title": "SParC: Cross-Domain Semantic Parsing in Context",
+  "authors": [
+    "Tao Yu",
+    "Rui Zhang",
+    "Michihiro Yasunaga",
+    "Yi Chern Tan",
+    "Xi Victoria Lin",
+    "Suyi Li",
+    "Heyang Er",
+    "Irene Li",
+    "Bo Pang",
+    "Tao Chen",
+    "Emily Ji",
+    "Shreya Dixit",
+    "David Proctor",
+    "Sungrok Shim",
+    "Jonathan Kraft",
+    "Vincent Zhang",
+    "Caiming Xiong",
+    "Richard Socher",
+    "Dragomir Radev"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02",
+    "T10",
+    "T21"
+  ],
+  "paper_id": "P19-1443",
+  "acl_url": "https://aclanthology.org/P19-1443/"
+}

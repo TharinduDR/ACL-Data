@@ -1,0 +1,25 @@
+{
+  "title": "XMU Neural Machine Translation Online Service",
+  "authors": [
+    "Boli Wang",
+    "Zhixing Tan",
+    "Jinming Hu",
+    "Yidong Chen",
+    "Xiaodong Shi"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Tibetan",
+    "Uyghur",
+    "Mongolian",
+    "Indonesian",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "I17-3008",
+  "acl_url": "https://aclanthology.org/I17-3008/"
+}

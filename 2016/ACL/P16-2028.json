@@ -1,0 +1,21 @@
+{
+  "title": "Word Alignment without NULL Words",
+  "authors": [
+    "Philip Schulz",
+    "Wilker Aziz",
+    "Khalil Sima'an"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Czech",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16",
+    "T09"
+  ],
+  "paper_id": "P16-2028",
+  "acl_url": "https://aclanthology.org/P16-2028/"
+}

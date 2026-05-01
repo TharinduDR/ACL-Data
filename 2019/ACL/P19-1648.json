@@ -1,0 +1,20 @@
+{
+  "title": "Multi-step Reasoning via Recurrent Dual Attention for Visual Dialog",
+  "authors": [
+    "Zhe Gan",
+    "Yu Cheng",
+    "Ahmed El Kholy",
+    "Linjie Li",
+    "Jingjing Liu",
+    "Jianfeng Gao"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "P19-1648",
+  "acl_url": "https://aclanthology.org/P19-1648/"
+}

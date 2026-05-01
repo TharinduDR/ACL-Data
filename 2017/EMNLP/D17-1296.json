@@ -1,0 +1,20 @@
+{
+  "title": "Transition-Based Disfluency Detection using LSTMs",
+  "authors": [
+    "Shaolei Wang",
+    "Wanxiang Che",
+    "Yue Zhang",
+    "Meishan Zhang",
+    "Ting Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "D17-1296",
+  "acl_url": "https://aclanthology.org/D17-1296/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "MirasText: An Automatically Generated Text Corpus for Persian",
+  "authors": [
+    "Behnam Sabeti",
+    "Hossein Abedi Firouzjaee",
+    "Ali Janalizadeh Choobbasti",
+    "S.H.E. Mortazavi Najafabadi",
+    "Amir Vaheb"
+  ],
+  "languages": [
+    "Persian",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "L18-1188",
+  "acl_url": "https://aclanthology.org/L18-1188/"
+}

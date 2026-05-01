@@ -1,0 +1,19 @@
+{
+  "title": "Lexically Constrained Decoding for Sequence Generation Using Grid Beam Search",
+  "authors": [
+    "Chris Hokamp",
+    "Qun Liu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "P17-1141",
+  "acl_url": "https://aclanthology.org/P17-1141/"
+}

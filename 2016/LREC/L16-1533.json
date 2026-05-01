@@ -1,0 +1,25 @@
+{
+  "title": "Government Domain Named Entity Recognition for South African Languages",
+  "authors": [
+    "Roald Eiselen"
+  ],
+  "languages": [
+    "Afrikaans",
+    "isiNdebele",
+    "isiXhosa",
+    "isiZulu",
+    "Sesotho sa Leboa",
+    "Sesotho",
+    "Setswana",
+    "SiSwati",
+    "Tshivenda",
+    "Xitsonga"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "L16-1533",
+  "acl_url": "https://aclanthology.org/L16-1533/"
+}

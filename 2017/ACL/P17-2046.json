@@ -1,0 +1,30 @@
+{
+  "title": "English Event Detection With Translated Language Features",
+  "authors": [
+    "Sam Wei",
+    "Igor Korostil",
+    "Joel Nothman",
+    "Ben Hachey"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Arabic",
+    "German",
+    "Spanish",
+    "Finnish",
+    "Hindi",
+    "Hungarian",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P17-2046",
+  "acl_url": "https://aclanthology.org/P17-2046/"
+}

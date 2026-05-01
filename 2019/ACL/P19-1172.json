@@ -1,0 +1,22 @@
+{
+  "title": "Learning Morphosyntactic Analyzers from the Bible via Iterative Annotation Projection across 26 Languages",
+  "authors": [
+    "Garrett Nicolai",
+    "David Yarowsky"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Czech",
+    "Finnish",
+    "Hungarian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P19-1172",
+  "acl_url": "https://aclanthology.org/P19-1172/"
+}

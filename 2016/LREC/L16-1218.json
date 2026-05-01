@@ -1,0 +1,37 @@
+{
+  "title": "Wiktionnaire's Wikicode GLAWIfied: a Workable French Machine-Readable Dictionary",
+  "authors": [
+    "Nabil Hathout",
+    "Franck Sajous"
+  ],
+  "languages": [
+    "French",
+    "English",
+    "Greek",
+    "Latin",
+    "Occitan",
+    "Old French",
+    "Italian",
+    "Spanish",
+    "Arabic",
+    "German",
+    "Japanese",
+    "Russian",
+    "Frankish",
+    "Catalan",
+    "Breton",
+    "Dutch",
+    "Portuguese",
+    "Gaulish",
+    "Hebrew",
+    "Basque",
+    "Sanskrit"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L16-1218",
+  "acl_url": "https://aclanthology.org/L16-1218/"
+}

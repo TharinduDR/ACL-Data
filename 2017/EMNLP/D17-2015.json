@@ -1,0 +1,20 @@
+{
+  "title": "HeidelPlace: An Extensible Framework for Geoparsing",
+  "authors": [
+    "Ludwig Richter",
+    "Johanna Geiß",
+    "Andreas Spitz",
+    "Michael Gertz"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "D17-2015",
+  "acl_url": "https://aclanthology.org/D17-2015/"
+}

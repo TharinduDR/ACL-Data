@@ -1,0 +1,19 @@
+{
+  "title": "Reducing Word Omission Errors in Neural Machine Translation: A Contrastive Learning Approach",
+  "authors": [
+    "Zonghan Yang",
+    "Yong Cheng",
+    "Yang Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P19-1623",
+  "acl_url": "https://aclanthology.org/P19-1623/"
+}

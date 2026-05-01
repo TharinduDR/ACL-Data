@@ -1,0 +1,19 @@
+{
+  "title": "BiPaR: A Bilingual Parallel Dataset for Multilingual and Cross-lingual Reading Comprehension on Novels",
+  "authors": [
+    "Yimin Jing",
+    "Deyi Xiong",
+    "Yan Zhen"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "D19-1249",
+  "acl_url": "https://aclanthology.org/D19-1249/"
+}

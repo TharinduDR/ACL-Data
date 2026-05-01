@@ -1,0 +1,23 @@
+{
+  "title": "Information Aggregation for Multi-Head Attention with Routing-by-Agreement",
+  "authors": [
+    "Jian Li",
+    "Baosong Yang",
+    "Zi-Yi Dou",
+    "Xing Wang",
+    "Michael R. Lyu",
+    "Zhaopeng Tu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "N19-1359",
+  "acl_url": "https://aclanthology.org/N19-1359/"
+}

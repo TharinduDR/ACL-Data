@@ -1,0 +1,21 @@
+{
+  "title": "OPPO's Machine Translation System for the IWSLT 2020 Open Domain Translation Task",
+  "authors": [
+    "Qian Zhang",
+    "Tingxun Shi",
+    "Xiaopu Li",
+    "Dawei Dang",
+    "Di Ai",
+    "Zhengshan Xue",
+    "Jie Hao"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.iwslt-1.13",
+  "acl_url": "https://aclanthology.org/2020.iwslt-1.13/"
+}

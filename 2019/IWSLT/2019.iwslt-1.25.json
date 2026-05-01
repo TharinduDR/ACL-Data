@@ -1,0 +1,19 @@
+{
+  "title": "Multitask Learning For Different Subword Segmentations In Neural Machine Translation",
+  "authors": [
+    "Tejas Srinivasan",
+    "Ramon Sanabria",
+    "Florian Metze"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Vietnamese",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2019.iwslt-1.25",
+  "acl_url": "https://aclanthology.org/2019.iwslt-1.25/"
+}

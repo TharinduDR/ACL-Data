@@ -1,0 +1,20 @@
+{
+  "title": "Lexicon Stratification for Translating Out-of-Vocabulary Words",
+  "authors": [
+    "Yulia Tsvetkov",
+    "Chris Dyer"
+  ],
+  "languages": [
+    "Swahili",
+    "English",
+    "Romanian",
+    "French",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T16",
+    "T15"
+  ],
+  "paper_id": "P15-2021",
+  "acl_url": "https://aclanthology.org/P15-2021/"
+}

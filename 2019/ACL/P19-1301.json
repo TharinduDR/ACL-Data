@@ -1,0 +1,36 @@
+{
+  "title": "Choosing Transfer Languages for Cross-Lingual Learning",
+  "authors": [
+    "Yu-Hsiang Lin",
+    "Chian-Yu Chen",
+    "Jean Lee",
+    "Zirui Li",
+    "Yuyan Zhang",
+    "Mengzhou Xia",
+    "Shruti Rijhwani",
+    "Junxian He",
+    "Zhishong Zhang",
+    "Xuezhe Ma",
+    "Antonios Anastasopoulos",
+    "Patrick Littell",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "P19-1301",
+  "acl_url": "https://aclanthology.org/P19-1301/"
+}

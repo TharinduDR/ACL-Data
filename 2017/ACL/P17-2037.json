@@ -1,0 +1,22 @@
+{
+  "title": "Cross-lingual and cross-domain discourse segmentation of entire documents",
+  "authors": [
+    "Chloé Braud",
+    "Ophélie Lacroix",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "German",
+    "Dutch",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T05 Discourse and Pragmatics"
+  ],
+  "paper_id": "P17-2037",
+  "acl_url": "https://aclanthology.org/P17-2037/"
+}

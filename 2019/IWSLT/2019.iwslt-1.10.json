@@ -1,0 +1,19 @@
+{
+  "title": "CMU's Machine Translation System for IWSLT 2019",
+  "authors": [
+    "Tejas Srinivasan",
+    "Ramon Sanabria",
+    "Florian Metze"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Vietnamese",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2019.iwslt-1.10",
+  "acl_url": "https://aclanthology.org/2019.iwslt-1.10/"
+}

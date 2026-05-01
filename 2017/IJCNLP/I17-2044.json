@@ -1,0 +1,23 @@
+{
+  "title": "Improving Neural Text Normalization with Data Augmentation at Character- and Morphological Levels",
+  "authors": [
+    "Itsumi Saito",
+    "Jun Suzuki",
+    "Kyosuke Nishida",
+    "Kugatsu Sadamitsu",
+    "Satoshi Kobashikawa",
+    "Ryo Masumura",
+    "Yuji Matsumoto",
+    "Junji Tomita"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T29 NLP for education",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "I17-2044",
+  "acl_url": "https://aclanthology.org/I17-2044/"
+}

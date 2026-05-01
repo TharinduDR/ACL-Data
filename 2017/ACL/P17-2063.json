@@ -1,0 +1,27 @@
+{
+  "title": "Feature Hashing for Language and Dialect Identification",
+  "authors": [
+    "Shervin Malmasi",
+    "Mark Dras"
+  ],
+  "languages": [
+    "Bosnian",
+    "Argentine Spanish",
+    "Peninsular Spanish",
+    "Mexican Spanish",
+    "Canadian French",
+    "Hexagonal French",
+    "Croatian",
+    "Indonesian",
+    "Malay",
+    "Brazilian Portuguese",
+    "European Portuguese",
+    "Serbian"
+  ],
+  "research_areas": [
+    "T08",
+    "T16"
+  ],
+  "paper_id": "P17-2063",
+  "acl_url": "https://aclanthology.org/P17-2063/"
+}

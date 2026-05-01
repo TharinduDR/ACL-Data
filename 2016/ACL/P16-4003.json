@@ -1,0 +1,21 @@
+{
+  "title": "TermSuite: Terminology Extraction with Term Variant Detection",
+  "authors": [
+    "Damien Cram",
+    "Béatrice Daille"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T13",
+    "T11",
+    "T21"
+  ],
+  "paper_id": "P16-4003",
+  "acl_url": "https://aclanthology.org/P16-4003/"
+}

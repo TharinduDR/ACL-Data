@@ -1,0 +1,20 @@
+{
+  "title": "Maastricht University's Multilingual Speech Translation System for IWSLT 2021",
+  "authors": [
+    "Danni Liu",
+    "Jan Niehues"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Italian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2021.iwslt-1.15",
+  "acl_url": "https://aclanthology.org/2021.iwslt-1.15/"
+}

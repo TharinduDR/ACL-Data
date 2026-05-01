@@ -1,0 +1,27 @@
+{
+  "title": "Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER",
+  "authors": [
+    "Rudra Murthy V",
+    "Anoop Kunchukuttan",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Dutch",
+    "Italian",
+    "German",
+    "Hindi",
+    "Marathi",
+    "Bengali",
+    "Tamil",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "P18-2064",
+  "acl_url": "https://aclanthology.org/P18-2064/"
+}

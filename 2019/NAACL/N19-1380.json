@@ -1,0 +1,21 @@
+{
+  "title": "Cross-Lingual Transfer Learning for Multilingual Task Oriented Dialog",
+  "authors": [
+    "Sebastian Schuster",
+    "Sonal Gupta",
+    "Rushin Shah",
+    "Mike Lewis"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Thai"
+  ],
+  "research_areas": [
+    "T16",
+    "T14",
+    "T03"
+  ],
+  "paper_id": "N19-1380",
+  "acl_url": "https://aclanthology.org/N19-1380/"
+}

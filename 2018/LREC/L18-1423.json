@@ -1,0 +1,21 @@
+{
+  "title": "The SSIX Corpora: Three Gold Standard Corpora for Sentiment Analysis in English, Spanish and German Financial Microblogs",
+  "authors": [
+    "Thomas Gaillat",
+    "Manel Zarrouk",
+    "André Freitas",
+    "Brian Davis"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "L18-1423",
+  "acl_url": "https://aclanthology.org/L18-1423/"
+}

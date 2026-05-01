@@ -1,0 +1,29 @@
+{
+  "title": "Adapting Multilingual Neural Machine Translation to Unseen Languages",
+  "authors": [
+    "Surafel M. Lakew",
+    "Alina Karakanta",
+    "Marcello Federico",
+    "Matteo Negri",
+    "Marco Turchi"
+  ],
+  "languages": [
+    "English",
+    "Galician",
+    "Portuguese",
+    "Spanish",
+    "Italian",
+    "Esperanto",
+    "Turkish",
+    "Russian",
+    "Belarusian",
+    "Slovak",
+    "Azerbaijani"
+  ],
+  "research_areas": [
+    "T16",
+    "T14"
+  ],
+  "paper_id": "2019.iwslt-1.16",
+  "acl_url": "https://aclanthology.org/2019.iwslt-1.16/"
+}

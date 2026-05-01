@@ -1,0 +1,31 @@
+{
+  "title": "Initial Explorations of CCG Supertagging for Universal Dependency Parsing",
+  "authors": [
+    "Burak Kerim Akkus",
+    "Heval Azizoglu",
+    "Ruket Cakici"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French",
+    "German",
+    "Hebrew",
+    "Turkish",
+    "Chinese",
+    "Portuguese",
+    "Spanish",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K17-3023",
+  "acl_url": "https://aclanthology.org/K17-3023/"
+}

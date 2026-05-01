@@ -1,0 +1,22 @@
+{
+  "title": "SEx BiST: A Multi-Source Trainable Parser with Deep Contextualized Lexical Representations",
+  "authors": [
+    "KyungTae Lim",
+    "Cheoneum Park",
+    "Changki Lee",
+    "Thierry Poibeau"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Korean",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K18-2014",
+  "acl_url": "https://aclanthology.org/K18-2014/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "CRF Autoencoder for Unsupervised Dependency Parsing",
+  "authors": [
+    "Jiong Cai",
+    "Yong Jiang",
+    "Kewei Tu"
+  ],
+  "languages": [
+    "Basque",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Portuguese",
+    "Slovene",
+    "Swedish",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D17-1171",
+  "acl_url": "https://aclanthology.org/D17-1171/"
+}

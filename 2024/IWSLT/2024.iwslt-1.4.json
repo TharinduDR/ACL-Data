@@ -1,0 +1,25 @@
+{
+  "title": "Transforming LLMs into Cross-modal and Cross-lingual Retrieval Systems",
+  "authors": [
+    "Frank Palma Gomez",
+    "Ramon Sanabria",
+    "Yun-hsuan Sung",
+    "Daniel Cer",
+    "Siddharth Dalmia",
+    "Gustavo Hernandez Abrego"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Dutch",
+    "Polish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2024.iwslt-1.4",
+  "acl_url": "https://aclanthology.org/2024.iwslt-1.4/"
+}

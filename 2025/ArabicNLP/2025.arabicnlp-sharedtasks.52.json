@@ -1,0 +1,25 @@
+{
+  "title": "ImageEval 2025: The First Arabic Image Captioning Shared Task",
+  "authors": [
+    "Ahlam Bashiti",
+    "Alaa Aljabari",
+    "Hadi Hamoud",
+    "Md. Rafiul Biswas",
+    "Bilal Shalash",
+    "Mustafa Jarrar",
+    "Fadi Zaraket",
+    "George Mikros",
+    "Ehsaneddin Asgari",
+    "Wajdi Zaghouani"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.arabicnlp-sharedtasks.52",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-sharedtasks.52/"
+}

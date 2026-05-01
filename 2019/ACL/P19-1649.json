@@ -1,0 +1,20 @@
+{
+  "title": "Lattice Transformer for Speech Translation",
+  "authors": [
+    "Pei Zhang",
+    "Boxing Chen",
+    "NiYu Ge",
+    "Kai Fan"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "P19-1649",
+  "acl_url": "https://aclanthology.org/P19-1649/"
+}

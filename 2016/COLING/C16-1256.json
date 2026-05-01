@@ -1,0 +1,29 @@
+{
+  "title": "Semi Supervised Preposition-Sense Disambiguation using Multilingual Data",
+  "authors": [
+    "Hila Gonen",
+    "Yoav Goldberg"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Bulgarian",
+    "Czech",
+    "Danish",
+    "Greek",
+    "Hungarian",
+    "Italian",
+    "Polish",
+    "Romanian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "C16-1256",
+  "acl_url": "https://aclanthology.org/C16-1256/"
+}

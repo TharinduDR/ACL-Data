@@ -1,0 +1,27 @@
+{
+  "title": "Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task",
+  "authors": [
+    "Tao Yu",
+    "Rui Zhang",
+    "Kai Yang",
+    "Michihiro Yasunaga",
+    "Dongxu Wang",
+    "Zifan Li",
+    "James Ma",
+    "Irene Li",
+    "Qingning Yao",
+    "Shanelle Roman",
+    "Zilin Zhang",
+    "Dragomir R. Radev"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D18-1425",
+  "acl_url": "https://aclanthology.org/D18-1425/"
+}

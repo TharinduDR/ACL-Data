@@ -1,0 +1,31 @@
+{
+  "title": "IPS-WASEDA system at CoNLL-SIGMORPHON 2018 Shared Task on morphological inflection",
+  "authors": [
+    "Rashel Fam",
+    "Yves Lepage"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Irish",
+    "Swahili",
+    "Telugu",
+    "Turkish",
+    "Zulu",
+    "Basque",
+    "Quechua",
+    "Finnish",
+    "Russian",
+    "Celtic",
+    "Slavic",
+    "Indo-Aryan",
+    "Iranian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K18-3003",
+  "acl_url": "https://aclanthology.org/K18-3003/"
+}

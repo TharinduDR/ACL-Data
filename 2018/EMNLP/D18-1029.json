@@ -1,0 +1,36 @@
+{
+  "title": "On the Relation between Linguistic Typology and (Limitations of) Multilingual Language Modeling",
+  "authors": [
+    "Daniela Gerz",
+    "Ivan Vulić",
+    "Eduardo Maria Ponti",
+    "Roi Reichart",
+    "Anna Korhonen"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Korean",
+    "Vietnamese",
+    "Turkish",
+    "Italian",
+    "Hebrew",
+    "Basque",
+    "Georgian",
+    "Kannada",
+    "Tamil",
+    "Mongolian",
+    "Javanese",
+    "Amharic",
+    "Min Nan",
+    "Burmese",
+    "Khmer"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "D18-1029",
+  "acl_url": "https://aclanthology.org/D18-1029/"
+}

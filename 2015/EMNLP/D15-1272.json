@@ -1,0 +1,23 @@
+{
+  "title": "Joint Lemmatization and Morphological Tagging with LEMMING",
+  "authors": [
+    "Thomas Müller",
+    "Ryan Cotterell",
+    "Alexander Fraser",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech",
+    "Hungarian",
+    "Latin",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D15-1272",
+  "acl_url": "https://aclanthology.org/D15-1272/"
+}

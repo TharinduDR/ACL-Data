@@ -1,0 +1,26 @@
+{
+  "title": "Phrase-based Machine Translation using Multiple Preordering Candidates",
+  "authors": [
+    "Yusuke Oda",
+    "Taku Kudo",
+    "Tetsuji Nakagawa",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Russian",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Thai"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "C16-1134",
+  "acl_url": "https://aclanthology.org/C16-1134/"
+}

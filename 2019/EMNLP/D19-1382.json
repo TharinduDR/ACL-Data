@@ -1,0 +1,25 @@
+{
+  "title": "PAWS-X: A Cross-lingual Adversarial Dataset for Paraphrase Identification",
+  "authors": [
+    "Yinfei Yang",
+    "Yuan Zhang",
+    "Chris Tar",
+    "Jason Baldridge"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Chinese",
+    "Japanese",
+    "Korean"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "D19-1382",
+  "acl_url": "https://aclanthology.org/D19-1382/"
+}

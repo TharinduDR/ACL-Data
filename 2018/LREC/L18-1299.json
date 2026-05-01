@@ -1,0 +1,27 @@
+{
+  "title": "Automatic Identification of Research Fields in Scientific Papers",
+  "authors": [
+    "Eric Kergosien",
+    "Amin Farvardin",
+    "Maguelonne Teisseire",
+    "Marie-Noëlle Bessagnet",
+    "Joachim Schöpfel",
+    "Stéphane Chaudiron",
+    "Bernard Jacquemin",
+    "Annig Lacayrelle",
+    "Mathieu Roche",
+    "Christian Sallaberry",
+    "Jean Philippe Tonneau"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "L18-1299",
+  "acl_url": "https://aclanthology.org/L18-1299/"
+}

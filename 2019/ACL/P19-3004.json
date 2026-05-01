@@ -1,0 +1,29 @@
+{
+  "title": "SARAL: A Low-Resource Cross-Lingual Domain-Focused Information Retrieval System for Effective Rapid Document Triage",
+  "authors": [
+    "Elizabeth Boschee",
+    "Joel Barry",
+    "Jayadev Billa",
+    "Marjorie Freedman",
+    "Thamme Gowda",
+    "Constantine Lignos",
+    "Chester Palen-Michel",
+    "Michael Pust",
+    "Banriskhem K. Khonglah",
+    "Srikanth Madikeri",
+    "Jonathan May",
+    "Scott Miller"
+  ],
+  "languages": [
+    "English",
+    "Somali",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P19-3004",
+  "acl_url": "https://aclanthology.org/P19-3004/"
+}

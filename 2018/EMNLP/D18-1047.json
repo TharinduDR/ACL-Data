@@ -1,0 +1,20 @@
+{
+  "title": "NORMA: Neighborhood Sensitive Maps for Multilingual Word Embeddings",
+  "authors": [
+    "Ndapa Nakashole"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Portuguese",
+    "Swedish",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "D18-1047",
+  "acl_url": "https://aclanthology.org/D18-1047/"
+}

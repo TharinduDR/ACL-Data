@@ -1,0 +1,23 @@
+{
+  "title": "Ten Pairs to Tag – Multilingual POS Tagging via Coarse Mapping between Embeddings",
+  "authors": [
+    "Yuan Zhang",
+    "David Gaddy",
+    "Regina Barzilay",
+    "Tommi Jaakkola"
+  ],
+  "languages": [
+    "English",
+    "Danish",
+    "German",
+    "Spanish",
+    "Finnish",
+    "Hungarian",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N16-1156",
+  "acl_url": "https://aclanthology.org/N16-1156/"
+}

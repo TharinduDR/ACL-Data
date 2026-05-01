@@ -1,0 +1,25 @@
+{
+  "title": "Improving Lemmatization of Non-Standard Languages with Joint Learning",
+  "authors": [
+    "Enrique Manjavacas",
+    "Ákos Kádár",
+    "Mike Kestemont"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Dutch",
+    "Latin",
+    "Slovene",
+    "Middle Low German",
+    "Old French"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N19-1153",
+  "acl_url": "https://aclanthology.org/N19-1153/"
+}

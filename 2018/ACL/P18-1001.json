@@ -1,0 +1,20 @@
+{
+  "title": "Probabilistic FastText for Multi-Sense Word Embeddings",
+  "authors": [
+    "Ben Athiwaratkun",
+    "Andrew Gordon Wilson",
+    "Anima Anandkumar"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "P18-1001",
+  "acl_url": "https://aclanthology.org/P18-1001/"
+}

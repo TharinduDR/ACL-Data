@@ -1,0 +1,23 @@
+{
+  "title": "Morphological Inflection Generation Using Character Sequence to Sequence Learning",
+  "authors": [
+    "Manaal Faruqui",
+    "Yulia Tsvetkov",
+    "Graham Neubig",
+    "Chris Dyer"
+  ],
+  "languages": [
+    "German",
+    "Finnish",
+    "Spanish",
+    "Dutch",
+    "French"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "N16-1077",
+  "acl_url": "https://aclanthology.org/N16-1077/"
+}

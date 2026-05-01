@@ -1,0 +1,26 @@
+{
+  "title": "Multilingual model using cross-task embedding projection",
+  "authors": [
+    "Jin Sakuma",
+    "Naoki Yoshinaga"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Danish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Swedish",
+    "Turkish",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14",
+    "T20"
+  ],
+  "paper_id": "K19-1003",
+  "acl_url": "https://aclanthology.org/K19-1003/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "The NiuTrans End-to-End Speech Translation System for IWSLT23 English-to-Chinese Offline Task",
+  "authors": [
+    "Yuchen Han",
+    "Xiaoqian Liu",
+    "Hao Chen",
+    "Yuhao Zhang",
+    "Chen Xu",
+    "Tong Xiao",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.iwslt-1.17",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.17/"
+}

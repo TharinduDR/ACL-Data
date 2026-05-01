@@ -1,0 +1,30 @@
+{
+  "title": "A Transparent Framework for Evaluating Unintended Demographic Bias in Word Embeddings",
+  "authors": [
+    "Chris Sweeney",
+    "Maryam Najafian"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Swedish",
+    "Irish",
+    "Chinese",
+    "Filipino",
+    "Dutch",
+    "Russian",
+    "Italian",
+    "Norwegian",
+    "American",
+    "Indian",
+    "Scottish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "P19-1162",
+  "acl_url": "https://aclanthology.org/P19-1162/"
+}

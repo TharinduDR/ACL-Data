@@ -1,0 +1,19 @@
+{
+  "title": "Domain Adaptation of Neural Machine Translation by Lexicon Induction",
+  "authors": [
+    "Junjie Hu",
+    "Mengzhou Xia",
+    "Graham Neubig",
+    "Jaime Carbonell"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "P19-1286",
+  "acl_url": "https://aclanthology.org/P19-1286/"
+}

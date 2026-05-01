@@ -1,0 +1,20 @@
+{
+  "title": "Very Deep Convolutional Networks for Text Classification",
+  "authors": [
+    "Alexis Conneau",
+    "Holger Schwenk",
+    "Yann Le Cun",
+    "Loïc Barrault"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "E17-1104",
+  "acl_url": "https://aclanthology.org/E17-1104/"
+}

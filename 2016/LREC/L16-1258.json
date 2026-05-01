@@ -1,0 +1,24 @@
+{
+  "title": "TWISTY: a Multilingual Twitter Stylometry Corpus for Gender and Personality Profiling",
+  "authors": [
+    "Ben Verhoeven",
+    "Walter Daelemans",
+    "Barbara Plank"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Dutch",
+    "French",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T29 NLP for education",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "L16-1258",
+  "acl_url": "https://aclanthology.org/L16-1258/"
+}

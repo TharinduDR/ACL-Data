@@ -1,0 +1,20 @@
+{
+  "title": "Morphological Priors for Probabilistic Neural Word Embeddings",
+  "authors": [
+    "Parminder Bhatia",
+    "Robert Guthrie",
+    "Jacob Eisenstein"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D16-1047",
+  "acl_url": "https://aclanthology.org/D16-1047/"
+}

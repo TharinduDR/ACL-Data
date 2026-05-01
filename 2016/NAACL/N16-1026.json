@@ -1,0 +1,16 @@
+{
+  "title": "LSTM CCG Parsing",
+  "authors": [
+    "Mike Lewis",
+    "Kenton Lee",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N16-1026",
+  "acl_url": "https://aclanthology.org/N16-1026/"
+}

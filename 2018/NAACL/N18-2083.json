@@ -1,0 +1,31 @@
+{
+  "title": "Using Word Vectors to Improve Word Alignments for Low Resource Machine Translation",
+  "authors": [
+    "Nima Pourdamghani",
+    "Marjan Ghazvininejad",
+    "Kevin Knight"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Persian",
+    "English",
+    "Farsi",
+    "Amharic",
+    "Bengali",
+    "Hausa",
+    "Sami",
+    "Tamil",
+    "Thai",
+    "Turkish",
+    "Uyghur",
+    "Urdu",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "N18-2083",
+  "acl_url": "https://aclanthology.org/N18-2083/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "TOTEMSS: Topic-based, Temporal Sentiment Summarisation for Twitter",
+  "authors": [
+    "Bo Wang",
+    "Maria Liakata",
+    "Adam Tsakalidis",
+    "Spiros Georgakopoulos Kolaitis",
+    "Symeon Papadopoulos",
+    "Lazaros Apostolidis",
+    "Arkaitz Zubiaga",
+    "Rob Procter",
+    "Yiannis Kompatsiaris"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "I17-3006",
+  "acl_url": "https://aclanthology.org/I17-3006/"
+}

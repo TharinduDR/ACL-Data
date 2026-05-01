@@ -1,0 +1,20 @@
+{
+  "title": "Combining Global Sparse Gradients with Local Gradients in Distributed Neural Network Training",
+  "authors": [
+    "Alham Fikri Aji",
+    "Kenneth Heafield",
+    "Nikolay Bogoychev"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "D19-1373",
+  "acl_url": "https://aclanthology.org/D19-1373/"
+}

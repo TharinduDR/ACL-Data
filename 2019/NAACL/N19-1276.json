@@ -1,0 +1,21 @@
+{
+  "title": "Incorporating Word Attention into Character-Based Word Segmentation",
+  "authors": [
+    "Shohei Higashiyama",
+    "Masao Utiyama",
+    "Eiichiro Sumita",
+    "Masao Ideuchi",
+    "Yoshiaki Oida",
+    "Yohei Sakamoto",
+    "Isaac Okada"
+  ],
+  "languages": [
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N19-1276",
+  "acl_url": "https://aclanthology.org/N19-1276/"
+}

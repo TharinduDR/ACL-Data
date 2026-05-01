@@ -1,0 +1,26 @@
+{
+  "title": "Parameter sharing between dependency parsers for related languages",
+  "authors": [
+    "Miriam de Lhoneux",
+    "Johannes Bjerva",
+    "Isabelle Augenstein",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "Arabic",
+    "Hebrew",
+    "Estonian",
+    "Finnish",
+    "Croatian",
+    "Russian",
+    "Italian",
+    "Spanish",
+    "Dutch",
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D18-1543",
+  "acl_url": "https://aclanthology.org/D18-1543/"
+}

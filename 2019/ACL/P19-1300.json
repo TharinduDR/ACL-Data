@@ -1,0 +1,26 @@
+{
+  "title": "Unsupervised Multilingual Word Embedding with Limited Resources using Neural Language Models",
+  "authors": [
+    "Takashi Wada",
+    "Tomoharu Iwata",
+    "Yuji Matsumoto"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Finnish",
+    "Japanese",
+    "Turkish",
+    "Tamil",
+    "North Saami"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "P19-1300",
+  "acl_url": "https://aclanthology.org/P19-1300/"
+}

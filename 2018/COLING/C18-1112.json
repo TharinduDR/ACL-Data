@@ -1,0 +1,23 @@
+{
+  "title": "An Evaluation of Neural Machine Translation Models on Historical Spelling Normalization",
+  "authors": [
+    "Gongbo Tang",
+    "Fabienne Cap",
+    "Eva Pettersson",
+    "Joakim Nivre"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hungarian",
+    "Icelandic",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "C18-1112",
+  "acl_url": "https://aclanthology.org/C18-1112/"
+}

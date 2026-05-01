@@ -1,0 +1,19 @@
+{
+  "title": "Direct Models for Simultaneous Translation and Automatic Subtitling: FBK@IWSLT2023",
+  "authors": [
+    "Sara Papi",
+    "Marco Gaido",
+    "Matteo Negri"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.iwslt-1.11",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.11/"
+}

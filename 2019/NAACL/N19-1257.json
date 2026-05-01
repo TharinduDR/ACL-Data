@@ -1,0 +1,20 @@
+{
+  "title": "Zero-Shot Cross-Lingual Opinion Target Extraction",
+  "authors": [
+    "Soufian Jebbara",
+    "Philipp Cimiano"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Dutch",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T11",
+    "T20"
+  ],
+  "paper_id": "N19-1257",
+  "acl_url": "https://aclanthology.org/N19-1257/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "AraDetector at ArAI Eval Shared Task: An Ensemble of Arabic-specific pre-trained BERT and GPT-4 for Arabic Disinformation Detection",
+  "authors": [
+    "Ahmed Bahaaulddin",
+    "Vian Sabeeh",
+    "Hanan M. Belhaj",
+    "Serry Sibae",
+    "Samar Ahmad",
+    "Ibrahim Khurfan",
+    "Abdullah I. Alharbi"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T20",
+    "T14",
+    "T23"
+  ],
+  "paper_id": "2023.arabicnlp-1.51",
+  "acl_url": "https://aclanthology.org/2023.arabicnlp-1.51/"
+}

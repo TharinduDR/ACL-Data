@@ -1,0 +1,24 @@
+{
+  "title": "DUEL: A Multi-lingual Multimodal Dialogue Corpus for Disfluency, Exclamations and Laughter",
+  "authors": [
+    "Julian Hough",
+    "Ye Tian",
+    "Laura de Ruiter",
+    "Simon Betz",
+    "Spyros Kousidis",
+    "David Schlangen",
+    "Jonathan Ginzburg"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "L16-1281",
+  "acl_url": "https://aclanthology.org/L16-1281/"
+}

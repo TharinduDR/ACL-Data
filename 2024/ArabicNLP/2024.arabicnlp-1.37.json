@@ -1,0 +1,20 @@
+{
+  "title": "AlexuNLP24 at AraFinNLP2024: Multi-Dialect Arabic Intent Detection with Contrastive Learning in Banking Domain",
+  "authors": [
+    "Hossam Elkordi",
+    "Ahmed Sakr",
+    "Marwan Torki",
+    "Nagwa ElMakky"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2024.arabicnlp-1.37",
+  "acl_url": "https://aclanthology.org/2024.arabicnlp-1.37/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Style Transfer Through Back-Translation",
+  "authors": [
+    "Shrimai Prabhumoye",
+    "Yulia Tsvetkov",
+    "Ruslan Salakhutdinov",
+    "Alan W Black"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "P18-1080",
+  "acl_url": "https://aclanthology.org/P18-1080/"
+}

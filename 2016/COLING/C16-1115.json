@@ -1,0 +1,24 @@
+{
+  "title": "LILI: A Simple Language Independent Approach for Language Identification",
+  "authors": [
+    "Mohamed Al-Badrashiny",
+    "Mona Diab"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Nepali",
+    "Arabic",
+    "Hindi",
+    "Egyptian Arabic",
+    "Levantine Arabic",
+    "Gulf Arabic",
+    "Arabic-Engari"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "C16-1115",
+  "acl_url": "https://aclanthology.org/C16-1115/"
+}

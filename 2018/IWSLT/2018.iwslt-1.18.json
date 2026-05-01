@@ -1,0 +1,23 @@
+{
+  "title": "The AFRL IWSLT 2018 Systems: What Worked, What Didn't",
+  "authors": [
+    "Brian Ore",
+    "Eric Hansen",
+    "Katherine Young",
+    "Grant Erdmann",
+    "Jeremy Gwinnup"
+  ],
+  "languages": [
+    "English",
+    "Basque",
+    "French",
+    "Spanish",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2018.iwslt-1.18",
+  "acl_url": "https://aclanthology.org/2018.iwslt-1.18/"
+}

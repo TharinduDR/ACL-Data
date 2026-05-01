@@ -1,0 +1,19 @@
+{
+  "title": "Train-O-Matic: Large-Scale Supervised Word Sense Disambiguation in Multiple Languages without Manual Training Data",
+  "authors": [
+    "Tommaso Pasini",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "D17-1008",
+  "acl_url": "https://aclanthology.org/D17-1008/"
+}

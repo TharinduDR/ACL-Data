@@ -1,0 +1,22 @@
+{
+  "title": "A Dataset for Building Code-Mixed Goal Oriented Conversation Systems",
+  "authors": [
+    "Suman Banerjee",
+    "Nikita Moghe",
+    "Siddhartha Arora",
+    "Mitesh M. Khapra"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Gujarati",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "C18-1319",
+  "acl_url": "https://aclanthology.org/C18-1319/"
+}

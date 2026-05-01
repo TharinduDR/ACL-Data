@@ -1,0 +1,23 @@
+{
+  "title": "Towards Semi-Automatic Generation of Proposition Banks for Low-Resource Languages",
+  "authors": [
+    "Alan Akbik",
+    "Vishwajeet Kumar",
+    "Yunyao Li"
+  ],
+  "languages": [
+    "Bengali",
+    "Malayalam",
+    "Tamil",
+    "Chinese",
+    "German",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "D16-1102",
+  "acl_url": "https://aclanthology.org/D16-1102/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "State-of-the-art Chinese Word Segmentation with Bi-LSTMs",
+  "authors": [
+    "Ji Ma",
+    "Kuzman Ganchev",
+    "David Weiss"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D18-1529",
+  "acl_url": "https://aclanthology.org/D18-1529/"
+}

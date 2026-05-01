@@ -1,0 +1,21 @@
+{
+  "title": "Regularization techniques for fine-tuning in neural machine translation",
+  "authors": [
+    "Antonio Valerio Miceli Barone",
+    "Barry Haddow",
+    "Ulrich Germann",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "D17-1156",
+  "acl_url": "https://aclanthology.org/D17-1156/"
+}

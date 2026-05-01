@@ -1,0 +1,29 @@
+{
+  "title": "Generalizing Procrustes Analysis for Better Bilingual Dictionary Induction",
+  "authors": [
+    "Yova Kementchedjhieva",
+    "Sebastian Ruder",
+    "Ryan Cotterell",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Spanish",
+    "Finnish",
+    "Russian",
+    "Italian",
+    "Hebrew",
+    "Afrikaans",
+    "Occitan",
+    "Estonian",
+    "Bosnian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "K18-1021",
+  "acl_url": "https://aclanthology.org/K18-1021/"
+}

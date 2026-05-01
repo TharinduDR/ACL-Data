@@ -1,0 +1,23 @@
+{
+  "title": "Syntax-aware Multilingual Semantic Role Labeling",
+  "authors": [
+    "Shexia He",
+    "Zuchao Li",
+    "Hai Zhao"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Catalan",
+    "Czech",
+    "German",
+    "Japanese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11",
+    "T21"
+  ],
+  "paper_id": "D19-1538",
+  "acl_url": "https://aclanthology.org/D19-1538/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "A Study of the Importance of External Knowledge in the Named Entity Recognition Task",
+  "authors": [
+    "Dominic Seyler",
+    "Tatiana Dembelova",
+    "Luciano Del Corro",
+    "Johannes Hoffart",
+    "Gerhard Weikum"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "P18-2039",
+  "acl_url": "https://aclanthology.org/P18-2039/"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "RACAI's Natural Language Processing pipeline for Universal Dependencies",
+  "authors": [
+    "Stefan Daniel Dumitrescu",
+    "Tiberiu Boros",
+    "Dan Tufis"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Turkish",
+    "Polish",
+    "Japanese",
+    "Chinese",
+    "Danish",
+    "Finnish",
+    "Slovene",
+    "Gothic",
+    "Latin",
+    "Old Church Slavonic",
+    "Persian",
+    "Bulgarian",
+    "Korean",
+    "Portuguese",
+    "Uyghur",
+    "Cantonese",
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "K17-3018",
+  "acl_url": "https://aclanthology.org/K17-3018/"
+}

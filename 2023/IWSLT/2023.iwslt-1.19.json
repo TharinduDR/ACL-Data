@@ -1,0 +1,19 @@
+{
+  "title": "BUT Systems for IWSLT 2023 Marathi - Hindi Low Resource Speech Translation Task",
+  "authors": [
+    "Santosh Kesiraju",
+    "Karel Beneš",
+    "Maksim Tikhonov",
+    "Jan Černocký"
+  ],
+  "languages": [
+    "Hindi",
+    "Marathi"
+  ],
+  "research_areas": [
+    "T16",
+    "T24"
+  ],
+  "paper_id": "2023.iwslt-1.19",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.19/"
+}

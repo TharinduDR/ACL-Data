@@ -1,0 +1,21 @@
+{
+  "title": "Unsupervised Recurrent Neural Network Grammars",
+  "authors": [
+    "Yoon Kim",
+    "Alexander M. Rush",
+    "Lei Yu",
+    "Adhiguna Kuncoro",
+    "Chris Dyer",
+    "Gábor Melis"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N19-1114",
+  "acl_url": "https://aclanthology.org/N19-1114/"
+}

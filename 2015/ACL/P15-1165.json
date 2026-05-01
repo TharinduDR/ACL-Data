@@ -1,0 +1,24 @@
+{
+  "title": "Inverted indexing for cross-lingual NLP",
+  "authors": [
+    "Anders Søgaard",
+    "Željko Agić",
+    "Héctor Martínez Alonso",
+    "Barbara Plank",
+    "Bernd Bohnet",
+    "Anders Johansen"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P15-1165",
+  "acl_url": "https://aclanthology.org/P15-1165/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Do dependency parsing metrics correlate with human judgments?",
+  "authors": [
+    "Barbara Plank",
+    "Héctor Martínez Alonso",
+    "Željko Agić",
+    "Danijela Merkler",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Croatian",
+    "Danish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "K15-1033",
+  "acl_url": "https://aclanthology.org/K15-1033/"
+}

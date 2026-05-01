@@ -1,0 +1,21 @@
+{
+  "title": "BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions",
+  "authors": [
+    "Christopher Clark",
+    "Kenton Lee",
+    "Ming-Wei Chang",
+    "Tom Kwiatkowski",
+    "Michael Collins",
+    "Kristina Toutanova"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "N19-1300",
+  "acl_url": "https://aclanthology.org/N19-1300/"
+}

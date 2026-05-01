@@ -1,0 +1,50 @@
+{
+  "title": "KIT Lecture Translator: Multilingual Speech Translation with One-Shot Learning",
+  "authors": [
+    "Florian Dessloch",
+    "Thanh-Le Ha",
+    "Markus Müller",
+    "Jan Niehues",
+    "Thai-Son Nguyen",
+    "Ngoc-Quan Pham",
+    "Elizabeth Salesky",
+    "Matthias Sperber",
+    "Sebastian Stüker",
+    "Thomas Zenkel",
+    "Alexander Waibel"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Bulgarian",
+    "Czech",
+    "Danish",
+    "Greek",
+    "Finnish",
+    "Croatian",
+    "Hungarian",
+    "Italian",
+    "Lithuanian",
+    "Latvian",
+    "Norwegian",
+    "Dutch",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Slovak",
+    "Slovenian",
+    "Serbian",
+    "Swedish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "C18-2020",
+  "acl_url": "https://aclanthology.org/C18-2020/"
+}

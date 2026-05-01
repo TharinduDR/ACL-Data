@@ -1,0 +1,19 @@
+{
+  "title": "Improving Unsupervised Word-by-Word Translation with Language Model and Denoising Autoencoder",
+  "authors": [
+    "Yunsu Kim",
+    "Jiahui Geng",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "D18-1101",
+  "acl_url": "https://aclanthology.org/D18-1101/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "The NYU System for the CoNLL-SIGMORPHON 2018 Shared Task on Universal Morphological Reinflection",
+  "authors": [
+    "Katharina Kann",
+    "Stanislas Lauly",
+    "Kyunghyun Cho"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Spanish",
+    "Finnish",
+    "French",
+    "Russian",
+    "Slovene"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K18-3006",
+  "acl_url": "https://aclanthology.org/K18-3006/"
+}

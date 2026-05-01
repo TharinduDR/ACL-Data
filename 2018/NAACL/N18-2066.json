@@ -1,0 +1,22 @@
+{
+  "title": "Exploiting Dynamic Oracles to Train Projective Dependency Parsers on Non-Projective Trees",
+  "authors": [
+    "Lauriane Aufrant",
+    "Guillaume Wisniewski",
+    "François Yvon"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Arabic",
+    "Dutch",
+    "Ancient Greek",
+    "Belarusian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N18-2066",
+  "acl_url": "https://aclanthology.org/N18-2066/"
+}

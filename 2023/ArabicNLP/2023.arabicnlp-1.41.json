@@ -1,0 +1,23 @@
+{
+  "title": "Qamosy at KSAA-RD shared task: Semi Decoder Architecture for Reverse Dictionary with SBERT Encoder",
+  "authors": [
+    "Serry Sibae",
+    "Samar Ahmad",
+    "Ibrahim Khurfan",
+    "Vian Sabeeh",
+    "Ahmed Bahaaulddin",
+    "Hanan M. Belhaj",
+    "Abdullah I. Alharbi"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.arabicnlp-1.41",
+  "acl_url": "https://aclanthology.org/2023.arabicnlp-1.41/"
+}

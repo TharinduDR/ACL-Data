@@ -1,0 +1,27 @@
+{
+  "title": "KIT's Low-resource Speech Translation Systems for IWSLT2025: System Enhancement with Synthetic Data and Model Regularization",
+  "authors": [
+    "Zhaolin Li",
+    "Yining Liu",
+    "Danni Liu",
+    "Tuan Nam Nguyen",
+    "Enes Yavuz Ugan",
+    "Tu Anh Dinh",
+    "Carlos Mullov",
+    "Alexander Waibel",
+    "Jan Niehues"
+  ],
+  "languages": [
+    "English",
+    "Bemba",
+    "North Levantine Arabic",
+    "Tunisian Arabic"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.iwslt-1.20",
+  "acl_url": "https://aclanthology.org/2025.iwslt-1.20/"
+}

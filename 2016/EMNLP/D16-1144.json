@@ -1,0 +1,20 @@
+{
+  "title": "AFET: Automatic Fine-Grained Entity Typing by Hierarchical Partial-Label Embedding",
+  "authors": [
+    "Xiang Ren",
+    "Wenqi He",
+    "Meng Qu",
+    "Lifu Huang",
+    "Heng Ji",
+    "Jiawei Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "D16-1144",
+  "acl_url": "https://aclanthology.org/D16-1144/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The RWTH Aachen Machine Translation System for IWSLT 2016",
+  "authors": [
+    "Jan-Thorsten Peter",
+    "Andreas Guta",
+    "Nick Rossenbach",
+    "Miguel Graça",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2016.iwslt-1.22",
+  "acl_url": "https://aclanthology.org/2016.iwslt-1.22/"
+}

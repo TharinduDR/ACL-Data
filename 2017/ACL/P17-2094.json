@@ -1,0 +1,22 @@
+{
+  "title": "EUROSENSE: Automatic Harvesting of Multilingual Sense Annotations from Parallel Text",
+  "authors": [
+    "Claudio Delli Bovi",
+    "Jose Camacho-Collados",
+    "Alessandro Raganato",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "P17-2094",
+  "acl_url": "https://aclanthology.org/P17-2094/"
+}

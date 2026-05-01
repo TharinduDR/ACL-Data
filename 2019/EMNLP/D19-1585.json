@@ -1,0 +1,18 @@
+{
+  "title": "Entity, Relation, and Event Extraction with Contextualized Span Representations",
+  "authors": [
+    "David Wadden",
+    "Ulme Wennberg",
+    "Yi Luan",
+    "Hannaneh Hajishirzi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "D19-1585",
+  "acl_url": "https://aclanthology.org/D19-1585/"
+}

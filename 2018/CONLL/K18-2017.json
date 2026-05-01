@@ -1,0 +1,30 @@
+{
+  "title": "NLP-Cube: End-to-end raw text processing with neural networks",
+  "authors": [
+    "Tiberiu Boros",
+    "Stefan Daniel Dumitrescu",
+    "Ruxandra Burtica"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K18-2017",
+  "acl_url": "https://aclanthology.org/K18-2017/"
+}

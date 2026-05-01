@@ -1,0 +1,19 @@
+{
+  "title": "Neural Semi-Markov Conditional Random Fields for Robust Character-Based Part-of-Speech Tagging",
+  "authors": [
+    "Apostolos Kemos",
+    "Heike Adel",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N19-1280",
+  "acl_url": "https://aclanthology.org/N19-1280/"
+}

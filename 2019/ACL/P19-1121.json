@@ -1,0 +1,31 @@
+{
+  "title": "Improved Zero-shot Neural Machine Translation via Ignoring Spurious Correlations",
+  "authors": [
+    "Jiatao Gu",
+    "Yong Wang",
+    "Kyunghyun Cho",
+    "Victor O.K. Li"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Chinese",
+    "Portuguese",
+    "Russian",
+    "Arabic",
+    "Indonesian",
+    "Zulu",
+    "Xhosa",
+    "Persian",
+    "Punjabi",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "P19-1121",
+  "acl_url": "https://aclanthology.org/P19-1121/"
+}

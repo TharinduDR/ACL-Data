@@ -1,0 +1,22 @@
+{
+  "title": "A Multi-lingual Multi-task Architecture for Low-resource Sequence Labeling",
+  "authors": [
+    "Ying Lin",
+    "Shengqi Yang",
+    "Veselin Stoyanov",
+    "Heng Ji"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Dutch",
+    "Russian",
+    "Chechen"
+  ],
+  "research_areas": [
+    "T11",
+    "T21"
+  ],
+  "paper_id": "P18-1074",
+  "acl_url": "https://aclanthology.org/P18-1074/"
+}

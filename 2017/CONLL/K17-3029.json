@@ -1,0 +1,21 @@
+{
+  "title": "A rule-based system for cross-lingual parsing of Romance languages with Universal Dependencies",
+  "authors": [
+    "Marcos Garcia",
+    "Pablo Gamallo"
+  ],
+  "languages": [
+    "Catalan",
+    "Spanish",
+    "French",
+    "Galician",
+    "Italian",
+    "Portuguese",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K17-3029",
+  "acl_url": "https://aclanthology.org/K17-3029/"
+}

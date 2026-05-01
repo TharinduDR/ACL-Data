@@ -1,0 +1,17 @@
+{
+  "title": "Named Entity Recognition with Stack Residual LSTM and Trainable Bias Decoding",
+  "authors": [
+    "Quan Tran",
+    "Andrew MacKinlay",
+    "Antonio Jimeno Yepes"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "I17-1057",
+  "acl_url": "https://aclanthology.org/I17-1057/"
+}

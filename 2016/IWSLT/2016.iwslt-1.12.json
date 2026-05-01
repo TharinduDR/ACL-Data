@@ -1,0 +1,19 @@
+{
+  "title": "Microsoft Speech Language Translation (MSLT) Corpus: The IWSLT 2016 release for English, French and German",
+  "authors": [
+    "Christian Federmann",
+    "William D. Lewis"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2016.iwslt-1.12",
+  "acl_url": "https://aclanthology.org/2016.iwslt-1.12/"
+}

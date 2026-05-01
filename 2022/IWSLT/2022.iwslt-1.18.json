@@ -1,0 +1,23 @@
+{
+  "title": "NVIDIA NeMo Offline Speech Translation Systems for IWSLT 2022",
+  "authors": [
+    "Oleksii Hrinchuk",
+    "Vahid Noroozi",
+    "Abhinav Khattar",
+    "Anton Peganov",
+    "Sandeep Subramanian",
+    "Somshubra Majumdar",
+    "Oleksii Kuchaiev"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.iwslt-1.18",
+  "acl_url": "https://aclanthology.org/2022.iwslt-1.18/"
+}

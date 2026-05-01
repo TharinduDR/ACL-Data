@@ -1,0 +1,22 @@
+{
+  "title": "SyntaxSQLNet: Syntax Tree Networks for Complex and Cross-Domain Text-to-SQL Task",
+  "authors": [
+    "Tao Yu",
+    "Michihiro Yasunaga",
+    "Kai Yang",
+    "Rui Zhang",
+    "Dongxu Wang",
+    "Zifan Li",
+    "Dragomir R. Radev"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T11 Information Extraction",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D18-1193",
+  "acl_url": "https://aclanthology.org/D18-1193/"
+}

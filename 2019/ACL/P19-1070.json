@@ -1,0 +1,26 @@
+{
+  "title": "How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions",
+  "authors": [
+    "Goran Glavaš",
+    "Robert Litschko",
+    "Sebastian Ruder",
+    "Ivan Vulić"
+  ],
+  "languages": [
+    "Croatian",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Italian",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "P19-1070",
+  "acl_url": "https://aclanthology.org/P19-1070/"
+}

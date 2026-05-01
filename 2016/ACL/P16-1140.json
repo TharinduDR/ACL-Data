@@ -1,0 +1,45 @@
+{
+  "title": "Investigating Language Universal and Specific Properties in Word Embeddings",
+  "authors": [
+    "Peng Qian",
+    "Xipeng Qiu",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "Arabic",
+    "Irish",
+    "Chinese",
+    "Persian",
+    "Latin",
+    "Hindi",
+    "Tamil",
+    "Basque",
+    "Estonian",
+    "Finnish",
+    "Hungarian",
+    "German",
+    "French",
+    "Portuguese",
+    "Hebrew",
+    "Russian",
+    "Croatian",
+    "Danish",
+    "Swedish",
+    "Norwegian",
+    "Slovenian",
+    "Romanian",
+    "English",
+    "Indonesian",
+    "Italian",
+    "Spanish",
+    "Greek",
+    "Polish",
+    "Bulgarian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P16-1140",
+  "acl_url": "https://aclanthology.org/P16-1140/"
+}

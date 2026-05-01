@@ -1,0 +1,25 @@
+{
+  "title": "Strong Baselines for Complex Word Identification across Multiple Languages",
+  "authors": [
+    "Pierre Finnimore",
+    "Elisabeth Fritzsch",
+    "Daniel King",
+    "Alison Sneyd",
+    "Aneeq Ur Rehman",
+    "Fernando Alva-Manchego",
+    "Andreas Vlachos"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N19-1102",
+  "acl_url": "https://aclanthology.org/N19-1102/"
+}

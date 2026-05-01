@@ -1,0 +1,17 @@
+{
+  "title": "Transition-Based Dependency Parsing with Heuristic Backtracking",
+  "authors": [
+    "Jacob Buckman",
+    "Miguel Ballesteros",
+    "Chris Dyer"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D16-1254",
+  "acl_url": "https://aclanthology.org/D16-1254/"
+}

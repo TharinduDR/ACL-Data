@@ -1,0 +1,21 @@
+{
+  "title": "Quantifying training challenges of dependency parsers",
+  "authors": [
+    "Lauriane Aufrant",
+    "Guillaume Wisniewski",
+    "François Yvon"
+  ],
+  "languages": [
+    "French",
+    "Italian",
+    "Japanese",
+    "Greek",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "C18-1270",
+  "acl_url": "https://aclanthology.org/C18-1270/"
+}

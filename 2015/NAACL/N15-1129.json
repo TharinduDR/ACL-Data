@@ -1,0 +1,23 @@
+{
+  "title": "Multi-Task Word Alignment Triangulation for Low-Resource Languages",
+  "authors": [
+    "Tomer Levinboim",
+    "David Chiang"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Czech",
+    "German",
+    "Greek",
+    "Hungarian",
+    "Lithuanian",
+    "Slovak"
+  ],
+  "research_areas": [
+    "T16",
+    "T21"
+  ],
+  "paper_id": "N15-1129",
+  "acl_url": "https://aclanthology.org/N15-1129/"
+}

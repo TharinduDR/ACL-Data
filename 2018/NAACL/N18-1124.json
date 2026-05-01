@@ -1,0 +1,20 @@
+{
+  "title": "Self-Attentive Residual Decoder for Neural Machine Translation",
+  "authors": [
+    "Lesly Miculicich Werlen",
+    "Nikolaos Pappas",
+    "Dhananjay Ram",
+    "Andrei Popescu-Belis"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "N18-1124",
+  "acl_url": "https://aclanthology.org/N18-1124/"
+}

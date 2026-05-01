@@ -1,0 +1,22 @@
+{
+  "title": "A Robust Abstractive System for Cross-Lingual Summarization",
+  "authors": [
+    "Jessica Ouyang",
+    "Boya Song",
+    "Kathleen McKeown"
+  ],
+  "languages": [
+    "English",
+    "Somali",
+    "Swahili",
+    "Tagalog",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "N19-1204",
+  "acl_url": "https://aclanthology.org/N19-1204/"
+}

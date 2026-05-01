@@ -1,0 +1,22 @@
+{
+  "title": "SimulSeamless: FBK at IWSLT 2024 Simultaneous Speech Translation",
+  "authors": [
+    "Sara Papi",
+    "Marco Gaido",
+    "Matteo Negri",
+    "Luisa Bentivogli"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese",
+    "Chinese",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.iwslt-1.11",
+  "acl_url": "https://aclanthology.org/2024.iwslt-1.11/"
+}

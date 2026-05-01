@@ -1,0 +1,38 @@
+{
+  "title": "Out-of-the-box Universal Romanization Tool uroman",
+  "authors": [
+    "Ulf Hermjakob",
+    "Jonathan May",
+    "Kevin Knight"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Urdu",
+    "Amharic",
+    "Arabic",
+    "Greek",
+    "Hebrew",
+    "Japanese",
+    "Korean",
+    "Mandarin Chinese",
+    "Nepali",
+    "Tamil",
+    "Tibetan",
+    "Uyghur",
+    "Bengali",
+    "Chinese",
+    "French",
+    "German",
+    "Swahili",
+    "Persian",
+    "Punjabi"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "P18-4003",
+  "acl_url": "https://aclanthology.org/P18-4003/"
+}

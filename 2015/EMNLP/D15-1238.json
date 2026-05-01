@@ -1,0 +1,21 @@
+{
+  "title": "Personalized Machine Translation: Predicting Translational Preferences",
+  "authors": [
+    "Shachar Mirkin",
+    "Jean-Luc Meunier"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Russian",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "D15-1238",
+  "acl_url": "https://aclanthology.org/D15-1238/"
+}

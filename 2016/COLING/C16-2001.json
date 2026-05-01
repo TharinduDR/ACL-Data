@@ -1,0 +1,25 @@
+{
+  "title": "An Interactive System for Exploring Community Question Answering Forums",
+  "authors": [
+    "Enamul Hoque",
+    "Shafiq Joty",
+    "Lluís Márquez",
+    "Alberto Barrón-Cedeño",
+    "Giovanni Da San Martino",
+    "Alessandro Moschitti",
+    "Preslav Nakov",
+    "Salvatore Romeo",
+    "Giuseppe Carenini"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "C16-2001",
+  "acl_url": "https://aclanthology.org/C16-2001/"
+}

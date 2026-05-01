@@ -1,0 +1,18 @@
+{
+  "title": "NAIST's Machine Translation Systems for IWSLT 2020 Conversational Speech Translation Task",
+  "authors": [
+    "Ryo Fukuda",
+    "Katsuhito Sudoh",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "Spanish",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.iwslt-1.21",
+  "acl_url": "https://aclanthology.org/2020.iwslt-1.21/"
+}

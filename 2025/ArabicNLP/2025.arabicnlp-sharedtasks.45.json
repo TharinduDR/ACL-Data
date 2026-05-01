@@ -1,0 +1,18 @@
+{
+  "title": "AMAR at BAREC Shared Task 2025: Arabic Meta-learner for Assessing Readability",
+  "authors": [
+    "Mostafa Saeed",
+    "Rana Waly",
+    "Abdelaziz Ashraf Hussein"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.arabicnlp-sharedtasks.45",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-sharedtasks.45/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "NICT's Cascaded and End-To-End Speech Translation Systems using Whisper and IndicTrans2 for the Indic Task",
+  "authors": [
+    "Haiyue Song",
+    "Raj Dabre"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.iwslt-1.3",
+  "acl_url": "https://aclanthology.org/2024.iwslt-1.3/"
+}

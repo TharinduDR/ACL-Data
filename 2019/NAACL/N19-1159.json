@@ -1,0 +1,24 @@
+{
+  "title": "Recursive Subtree Composition in LSTM-Based Dependency Parsing",
+  "authors": [
+    "Miriam de Lhoneux",
+    "Miguel Ballesteros",
+    "Joakim Nivre"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "Japanese",
+    "Czech",
+    "Finnish",
+    "Hebrew",
+    "Basque",
+    "Ancient Greek"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N19-1159",
+  "acl_url": "https://aclanthology.org/N19-1159/"
+}

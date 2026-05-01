@@ -1,0 +1,22 @@
+{
+  "title": "TWEETQA: A Social Media Focused Question Answering Dataset",
+  "authors": [
+    "Wenhan Xiong",
+    "Jiawei Wu",
+    "Hong Wang",
+    "Vivek Kulkarni",
+    "Mo Yu",
+    "Shiyu Chang",
+    "Xiaoxiao Guo",
+    "William Yang Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "P19-1496",
+  "acl_url": "https://aclanthology.org/P19-1496/"
+}

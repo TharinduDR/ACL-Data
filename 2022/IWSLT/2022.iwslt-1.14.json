@@ -1,0 +1,25 @@
+{
+  "title": "Effective combination of pretrained models - KIT@IWSLT2022",
+  "authors": [
+    "Ngoc-Quan Pham",
+    "Tuan-Nam Nguyen",
+    "Thai-Binh Nguyen",
+    "Danni Liu",
+    "Carlos Mullov",
+    "Jan Niehues",
+    "Alexander Waibel"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.iwslt-1.14",
+  "acl_url": "https://aclanthology.org/2022.iwslt-1.14/"
+}

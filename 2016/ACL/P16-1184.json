@@ -1,0 +1,26 @@
+{
+  "title": "Cross-Lingual Morphological Tagging for Low-Resource Languages",
+  "authors": [
+    "Jan Buys",
+    "Jan A. Botha"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "Bulgarian",
+    "Czech",
+    "Danish",
+    "Finnish",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Slovene",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P16-1184",
+  "acl_url": "https://aclanthology.org/P16-1184/"
+}

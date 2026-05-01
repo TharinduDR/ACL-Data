@@ -1,0 +1,19 @@
+{
+  "title": "ChID: A Large-scale Chinese Idiom Dataset for Cloze Test",
+  "authors": [
+    "Chujie Zheng",
+    "Minlie Huang",
+    "Aixin Sun"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "P19-1075",
+  "acl_url": "https://aclanthology.org/P19-1075/"
+}

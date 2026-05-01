@@ -1,0 +1,34 @@
+{
+  "title": "Diacritics Restoration Using Neural Networks",
+  "authors": [
+    "Jakub Náplava",
+    "Milan Straka",
+    "Pavel Straňák",
+    "Jan Hajič"
+  ],
+  "languages": [
+    "Czech",
+    "Serbian",
+    "Slovenian",
+    "Croatian",
+    "French",
+    "German",
+    "Hungarian",
+    "Irish",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Slovak",
+    "Spanish",
+    "Swedish",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14",
+    "T15",
+    "T28"
+  ],
+  "paper_id": "L18-1247",
+  "acl_url": "https://aclanthology.org/L18-1247/"
+}

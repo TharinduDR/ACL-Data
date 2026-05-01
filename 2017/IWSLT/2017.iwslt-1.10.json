@@ -1,0 +1,21 @@
+{
+  "title": "Neural Machine Translation Training in a Multi-Domain Scenario",
+  "authors": [
+    "Hassan Sajjad",
+    "Nadir Durrani",
+    "Fahim Dalvi",
+    "Yonatan Belinkov",
+    "Stephan Vogel"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2017.iwslt-1.10",
+  "acl_url": "https://aclanthology.org/2017.iwslt-1.10/"
+}

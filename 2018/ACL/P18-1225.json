@@ -1,0 +1,19 @@
+{
+  "title": "AdvENTuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples",
+  "authors": [
+    "Dongyeop Kang",
+    "Tushar Khot",
+    "Ashish Sabharwal",
+    "Eduard Hovy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "P18-1225",
+  "acl_url": "https://aclanthology.org/P18-1225/"
+}

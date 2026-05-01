@@ -1,0 +1,32 @@
+{
+  "title": "European Language Resource Coordination: Collecting Language Resources for Public Sector Multilingual Information Management",
+  "authors": [
+    "Andrea Lösch",
+    "Valérie Mapelli",
+    "Stelios Piperidis",
+    "Andrejs Vasiljevs",
+    "Lilli Smal",
+    "Thierry Declerck",
+    "Eileen Schnur",
+    "Khalid Choukri",
+    "Josef van Genabith"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Greek",
+    "Latvian",
+    "Icelandic",
+    "Norwegian",
+    "Bokmål",
+    "Nynorsk"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "L18-1213",
+  "acl_url": "https://aclanthology.org/L18-1213/"
+}

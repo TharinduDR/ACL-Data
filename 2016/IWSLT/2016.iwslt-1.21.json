@@ -1,0 +1,26 @@
+{
+  "title": "The MITLL-AFRL IWSLT 2016 Systems",
+  "authors": [
+    "Michael Kazi",
+    "Elizabeth Salesky",
+    "Brian Thompson",
+    "Jonathan Taylor",
+    "Jeremy Gwinnup",
+    "Timothy Anderson",
+    "Grant Erdmann",
+    "Eric Hansen",
+    "Brian Ore",
+    "Katherine Young",
+    "Michael Hutt"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2016.iwslt-1.21",
+  "acl_url": "https://aclanthology.org/2016.iwslt-1.21/"
+}

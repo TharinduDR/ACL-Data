@@ -1,0 +1,28 @@
+{
+  "title": "Cheap Translation for Cross-Lingual Named Entity Recognition",
+  "authors": [
+    "Stephen Mayhew",
+    "Chen-Tse Tsai",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Dutch",
+    "Turkish",
+    "Hindi",
+    "Malayalam",
+    "Bengali",
+    "Tamil",
+    "Yoruba",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T11",
+    "T16",
+    "T15"
+  ],
+  "paper_id": "D17-1269",
+  "acl_url": "https://aclanthology.org/D17-1269/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "ANLP-UniSo at MAHED Shared Task: Detection of Hate and Hope Speech in Arabic Social Media based on XLM-RoBERTa and Logistic Regression",
+  "authors": [
+    "Yasmine El Abed",
+    "Mariem Ben Arbia",
+    "Saoussen Ben Chaabene",
+    "Omar Trigui"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T20",
+    "T23"
+  ],
+  "paper_id": "2025.arabicnlp-sharedtasks.87",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-sharedtasks.87/"
+}

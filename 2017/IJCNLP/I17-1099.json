@@ -1,0 +1,21 @@
+{
+  "title": "DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset",
+  "authors": [
+    "Yanran Li",
+    "Hui Su",
+    "Xiaoyu Shen",
+    "Wenjie Li",
+    "Ziqiang Cao",
+    "Shuzi Niu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "I17-1099",
+  "acl_url": "https://aclanthology.org/I17-1099/"
+}

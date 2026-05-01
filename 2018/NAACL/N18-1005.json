@@ -1,0 +1,21 @@
+{
+  "title": "Fortification of Neural Morphological Segmentation Models for Polysynthetic Minimal-Resource Languages",
+  "authors": [
+    "Katharina Kann",
+    "Manuel Mager",
+    "Ivan Meza-Ruiz",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "Mexicanero",
+    "Nahuatl",
+    "Wixarika",
+    "Yorem Nokki"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N18-1005",
+  "acl_url": "https://aclanthology.org/N18-1005/"
+}

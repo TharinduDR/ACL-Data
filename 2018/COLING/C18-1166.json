@@ -1,0 +1,23 @@
+{
+  "title": "LCQMC: A Large-scale Chinese Question Matching Corpus",
+  "authors": [
+    "Xin Liu",
+    "Qingcai Chen",
+    "Chong Deng",
+    "Huajun Zeng",
+    "Jing Chen",
+    "Dongfang Li",
+    "Buzhou Tang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "C18-1166",
+  "acl_url": "https://aclanthology.org/C18-1166/"
+}

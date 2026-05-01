@@ -1,0 +1,18 @@
+{
+  "title": "Folksonomicon: Predicting Tags for Movies from Plot Synopses Using Emotion Flow Encoded Neural Network",
+  "authors": [
+    "Sudipta Kar",
+    "Suraj Maharjan",
+    "Thamar Solorio"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "C18-1244",
+  "acl_url": "https://aclanthology.org/C18-1244/"
+}

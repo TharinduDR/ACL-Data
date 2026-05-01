@@ -1,0 +1,20 @@
+{
+  "title": "Learning bilingual word embeddings with (almost) no bilingual data",
+  "authors": [
+    "Mikel Artetxe",
+    "Gorka Labaka",
+    "Eneko Agirre"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "German",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P17-1042",
+  "acl_url": "https://aclanthology.org/P17-1042/"
+}

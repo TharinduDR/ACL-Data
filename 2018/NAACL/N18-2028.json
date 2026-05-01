@@ -1,0 +1,19 @@
+{
+  "title": "Directional Skip-Gram: Explicitly Distinguishing Left and Right Context for Word Embeddings",
+  "authors": [
+    "Yan Song",
+    "Shuming Shi",
+    "Jing Li",
+    "Haisong Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N18-2028",
+  "acl_url": "https://aclanthology.org/N18-2028/"
+}

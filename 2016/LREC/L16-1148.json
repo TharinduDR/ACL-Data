@@ -1,0 +1,20 @@
+{
+  "title": "LexFr: Adapting the LexIt Framework to Build a Corpus-Based French Subcategorization Lexicon",
+  "authors": [
+    "Giulia Rambelli",
+    "Gianluca E. Lebani",
+    "Laurent Prévot",
+    "Alessandro Lenci"
+  ],
+  "languages": [
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "L16-1148",
+  "acl_url": "https://aclanthology.org/L16-1148/"
+}

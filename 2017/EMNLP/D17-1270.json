@@ -1,0 +1,24 @@
+{
+  "title": "Cross-Lingual Induction and Transfer of Verb Classes Based on Word Vector Space Specialisation",
+  "authors": [
+    "Ivan Vulić",
+    "Nikola Mrkšić",
+    "Anna Korhonen"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Portuguese",
+    "Italian",
+    "Polish",
+    "Croatian",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "D17-1270",
+  "acl_url": "https://aclanthology.org/D17-1270/"
+}

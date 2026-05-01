@@ -1,0 +1,29 @@
+{
+  "title": "The HW-TSC's Simultaneous Speech Translation System for IWSLT 2022 Evaluation",
+  "authors": [
+    "Minghan Wang",
+    "Jiaxin Guo",
+    "Yinglu Li",
+    "Xiaosong Qiao",
+    "Yuxia Wang",
+    "Zongyao Li",
+    "Chang Su",
+    "Yimeng Chen",
+    "Min Zhang",
+    "Shimin Tao",
+    "Hao Yang",
+    "Ying Qin"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.iwslt-1.21",
+  "acl_url": "https://aclanthology.org/2022.iwslt-1.21/"
+}

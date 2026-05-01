@@ -1,0 +1,25 @@
+{
+  "title": "A Grounded Unsupervised Universal Part-of-Speech Tagger for Low-Resource Languages",
+  "authors": [
+    "Ronald Cardenas",
+    "Ying Lin",
+    "Heng Ji",
+    "Jonathan May"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Persian",
+    "Swahili",
+    "Sinhalese",
+    "Kinyarwanda"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "N19-1252",
+  "acl_url": "https://aclanthology.org/N19-1252/"
+}

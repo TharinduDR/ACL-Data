@@ -1,0 +1,26 @@
+{
+  "title": "A Neural Network Model for Low-Resource Universal Dependency Parsing",
+  "authors": [
+    "Long Duong",
+    "Trevor Cohn",
+    "Steven Bird",
+    "Paul Cook"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "French",
+    "German",
+    "Hungarian",
+    "Irish",
+    "Italian",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T11",
+    "T21"
+  ],
+  "paper_id": "D15-1040",
+  "acl_url": "https://aclanthology.org/D15-1040/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs",
+  "authors": [
+    "Dheeru Dua",
+    "Yizhong Wang",
+    "Pradeep Dasigi",
+    "Gabriel Stanovsky",
+    "Sameer Singh",
+    "Matt Gardner"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "N19-1246",
+  "acl_url": "https://aclanthology.org/N19-1246/"
+}

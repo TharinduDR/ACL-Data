@@ -1,0 +1,25 @@
+{
+  "title": "Enhancing Unsupervised Generative Dependency Parser with Contextual Information",
+  "authors": [
+    "Wenjuan Han",
+    "Yong Jiang",
+    "Kewei Tu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P19-1526",
+  "acl_url": "https://aclanthology.org/P19-1526/"
+}

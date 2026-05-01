@@ -1,0 +1,22 @@
+{
+  "title": "Blending LLMs into Cascaded Speech Translation: KIT's Offline Speech Translation System for IWSLT 2024",
+  "authors": [
+    "Sai Koneru",
+    "Thai-Binh Nguyen",
+    "Ngoc-Quan Pham",
+    "Danni Liu",
+    "Zhaolin Li",
+    "Alexander Waibel",
+    "Jan Niehues"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.iwslt-1.24",
+  "acl_url": "https://aclanthology.org/2024.iwslt-1.24/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Sequence-to-Dependency Neural Machine Translation",
+  "authors": [
+    "Shuangzhi Wu",
+    "Dongdong Zhang",
+    "Nan Yang",
+    "Mu Li",
+    "Ming Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16",
+    "T21"
+  ],
+  "paper_id": "P17-1065",
+  "acl_url": "https://aclanthology.org/P17-1065/"
+}

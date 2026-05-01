@@ -1,0 +1,20 @@
+{
+  "title": "End-to-End Speech Translation with Pre-trained Models and Adapters: UPC at IWSLT 2021",
+  "authors": [
+    "Gerard I. Gállego",
+    "Ioannis Tsiamas",
+    "Carlos Escolano",
+    "José A. R. Fonollosa",
+    "Marta R. Costa-jussà"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2021.iwslt-1.11",
+  "acl_url": "https://aclanthology.org/2021.iwslt-1.11/"
+}

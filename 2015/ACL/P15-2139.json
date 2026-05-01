@@ -1,0 +1,26 @@
+{
+  "title": "Low Resource Dependency Parsing: Cross-lingual Parameter Sharing in a Neural Network Parser",
+  "authors": [
+    "Long Duong",
+    "Trevor Cohn",
+    "Steven Bird",
+    "Paul Cook"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish",
+    "Finnish",
+    "Hungarian",
+    "Irish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P15-2139",
+  "acl_url": "https://aclanthology.org/P15-2139/"
+}

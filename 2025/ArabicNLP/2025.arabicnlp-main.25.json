@@ -1,0 +1,26 @@
+{
+  "title": "Nile-Chat: Egyptian Language Models for Arabic and Latin Scripts",
+  "authors": [
+    "Guokan Shang",
+    "Hadi Abdine",
+    "Ahmad Chamma",
+    "Amr Mohamed",
+    "Mohamed Anwar",
+    "Abdelaziz Bounhar",
+    "Omar El Herraoui",
+    "Preslav Nakov",
+    "Michalis Vazirgiannis",
+    "Eric Xing"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.arabicnlp-main.25",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-main.25/"
+}

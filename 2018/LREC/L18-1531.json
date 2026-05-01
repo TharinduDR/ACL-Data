@@ -1,0 +1,30 @@
+{
+  "title": "A Very Low Resource Language Speech Corpus for Computational Language Documentation Experiments",
+  "authors": [
+    "P. Godard",
+    "G. Adda",
+    "M. Adda-Decker",
+    "J. Benjumea",
+    "L. Besacier",
+    "J. Cooper-Leavitt",
+    "G-N. Kouarata",
+    "L. Lamel",
+    "H. Maynard",
+    "M. Müller",
+    "A. Rialland",
+    "S. Stüker",
+    "F. Yvon",
+    "M. Zanon-Boito"
+  ],
+  "languages": [
+    "French",
+    "Mboshi"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T15 Lexicon and Semantics",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "L18-1531",
+  "acl_url": "https://aclanthology.org/L18-1531/"
+}

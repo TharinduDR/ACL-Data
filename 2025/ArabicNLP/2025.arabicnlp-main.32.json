@@ -1,0 +1,24 @@
+{
+  "title": "ALARB: An Arabic Legal Argument Reasoning Benchmark",
+  "authors": [
+    "Harethah Abu Shairah",
+    "Somayah AlHarbi",
+    "Abdulaziz AlHussein",
+    "Sameer Alsabea",
+    "Omar Shaqai",
+    "Hebah AlShamlan",
+    "Omar Knio",
+    "George Turkiyyah"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.arabicnlp-main.32",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-main.32/"
+}

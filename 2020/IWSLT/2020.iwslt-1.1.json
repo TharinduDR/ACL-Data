@@ -1,0 +1,43 @@
+{
+  "title": "FINDINGS OF THE IWSLT 2020 EVALUATION CAMPAIGN",
+  "authors": [
+    "Ebrahim Ansari",
+    "Amittai Axelrod",
+    "Nguyen Bach",
+    "Ondřej Bojar",
+    "Roldano Cattoni",
+    "Fahim Dalvi",
+    "Nadir Durrani",
+    "Marcello Federico",
+    "Christian Federmann",
+    "Jiatao Gu",
+    "Fei Huang",
+    "Kevin Knight",
+    "Xutai Ma",
+    "Ajay Nagesh",
+    "Matteo Negri",
+    "Jan Niehues",
+    "Juan Pino",
+    "Elizabeth Salesky",
+    "Xing Shi",
+    "Sebastian Stüker",
+    "Marco Turchi",
+    "Alex Waibel",
+    "Changhan Wang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Russian",
+    "Spanish",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.iwslt-1.1",
+  "acl_url": "https://aclanthology.org/2020.iwslt-1.1/"
+}

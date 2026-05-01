@@ -1,0 +1,17 @@
+{
+  "title": "Error-repair Dependency Parsing for Ungrammatical Texts",
+  "authors": [
+    "Keisuke Sakaguchi",
+    "Matt Post",
+    "Benjamin Van Durme"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "P17-2030",
+  "acl_url": "https://aclanthology.org/P17-2030/"
+}

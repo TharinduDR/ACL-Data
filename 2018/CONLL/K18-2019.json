@@ -1,0 +1,21 @@
+{
+  "title": "CUNI x-ling: Parsing under-resourced languages in CoNLL 2018 UD Shared Task",
+  "authors": [
+    "Rudolf Rosa",
+    "David Mareček"
+  ],
+  "languages": [
+    "Armenian",
+    "Buryat",
+    "Kazakh",
+    "Kurmanji",
+    "Upper Sorbian",
+    "Naija",
+    "Thai"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K18-2019",
+  "acl_url": "https://aclanthology.org/K18-2019/"
+}

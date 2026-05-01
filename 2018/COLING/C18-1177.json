@@ -1,0 +1,24 @@
+{
+  "title": "Improving Named Entity Recognition by Jointly Learning to Disambiguate Morphological Tags",
+  "authors": [
+    "Onur Gungor",
+    "Suzan Uskudarli",
+    "Tunga Gungor"
+  ],
+  "languages": [
+    "Turkish",
+    "French",
+    "German",
+    "Arabic",
+    "Russian",
+    "Hungarian",
+    "Finnish",
+    "Bengali"
+  ],
+  "research_areas": [
+    "T11",
+    "T21"
+  ],
+  "paper_id": "C18-1177",
+  "acl_url": "https://aclanthology.org/C18-1177/"
+}

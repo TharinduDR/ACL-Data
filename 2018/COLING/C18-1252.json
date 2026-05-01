@@ -1,0 +1,18 @@
+{
+  "title": "Using J-K-fold Cross Validation to Reduce Variance When Tuning NLP Models",
+  "authors": [
+    "Henry B. Moss",
+    "David S. Leslie",
+    "Paul Rayson"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "C18-1252",
+  "acl_url": "https://aclanthology.org/C18-1252/"
+}

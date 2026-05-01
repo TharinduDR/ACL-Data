@@ -1,0 +1,22 @@
+{
+  "title": "ESPnet-ST IWSLT 2021 Offline Speech Translation System",
+  "authors": [
+    "Hirofumi Inaguma",
+    "Brian Yan",
+    "Siddharth Dalmia",
+    "Pengcheng Guo",
+    "Jiatong Shi",
+    "Kevin Duh",
+    "Shinji Watanabe"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2019.iwslt-1.4",
+  "acl_url": "https://aclanthology.org/2019.iwslt-1.4/"
+}

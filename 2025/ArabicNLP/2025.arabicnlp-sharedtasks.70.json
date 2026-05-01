@@ -1,0 +1,22 @@
+{
+  "title": "HUMAIN at IslamicEval 2025 Shared Task 1: A Three-Stage LLM-Based Pipeline for Detecting and Correcting Hallucinations in Quran and Hadith",
+  "authors": [
+    "Arwa Omayrah",
+    "Sakhar Alkhereyf",
+    "Ahmed Abdelali",
+    "Abdulmohsen Althubaity",
+    "Jeril Kuriakose",
+    "Ibrahim AbdulMajeed"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.arabicnlp-sharedtasks.70",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-sharedtasks.70/"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Low-Resource Parsing with Crosslingual Contextualized Representations",
+  "authors": [
+    "Phoebe Mulcaire",
+    "Jungo Kasai",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Hebrew",
+    "Croatian",
+    "Russian",
+    "Dutch",
+    "German",
+    "Spanish",
+    "Italian",
+    "Chinese",
+    "Japanese",
+    "Hungarian",
+    "Finnish",
+    "Vietnamese",
+    "Uyghur",
+    "Kazakh",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K19-1029",
+  "acl_url": "https://aclanthology.org/K19-1029/"
+}

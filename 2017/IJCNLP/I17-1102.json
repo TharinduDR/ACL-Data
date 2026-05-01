@@ -1,0 +1,23 @@
+{
+  "title": "Multilingual Hierarchical Attention Networks for Document Classification",
+  "authors": [
+    "Nikolaos Pappas",
+    "Andrei Popescu-Belis"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Portuguese",
+    "Ukrainian",
+    "Russian",
+    "Arabic",
+    "Persian"
+  ],
+  "research_areas": [
+    "T14",
+    "T16"
+  ],
+  "paper_id": "I17-1102",
+  "acl_url": "https://aclanthology.org/I17-1102/"
+}

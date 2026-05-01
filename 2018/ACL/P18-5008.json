@@ -1,0 +1,24 @@
+{
+  "title": "Multi-lingual Entity Discovery and Linking",
+  "authors": [
+    "Avirup Sil",
+    "Heng Ji",
+    "Dan Roth",
+    "Silviu Cucerzan"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Swahili",
+    "Kikuyu",
+    "Northern Sotho"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P18-5008",
+  "acl_url": "https://aclanthology.org/P18-5008/"
+}

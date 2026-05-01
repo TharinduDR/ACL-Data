@@ -1,0 +1,25 @@
+{
+  "title": "Learning Crosslingual Word Embeddings without Bilingual Corpora",
+  "authors": [
+    "Long Duong",
+    "Hiroshi Kanayama",
+    "Tengfei Ma",
+    "Steven Bird",
+    "Trevor Cohn"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian",
+    "Dutch",
+    "German",
+    "Serbian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "D16-1136",
+  "acl_url": "https://aclanthology.org/D16-1136/"
+}

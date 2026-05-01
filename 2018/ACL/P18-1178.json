@@ -1,0 +1,23 @@
+{
+  "title": "Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification",
+  "authors": [
+    "Yizhong Wang",
+    "Kai Liu",
+    "Jing Liu",
+    "Wei He",
+    "Yajuan Lyu",
+    "Hua Wu",
+    "Sujian Li",
+    "Haifeng Wang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10",
+    "T06"
+  ],
+  "paper_id": "P18-1178",
+  "acl_url": "https://aclanthology.org/P18-1178/"
+}

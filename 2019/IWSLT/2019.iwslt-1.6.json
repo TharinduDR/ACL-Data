@@ -1,0 +1,21 @@
+{
+  "title": "Transformer-based Cascaded Multimodal Speech Translation",
+  "authors": [
+    "Zixiu Wu",
+    "Ozan Caglayan",
+    "Julia Ive",
+    "Josiah Wang",
+    "Lucia Specia"
+  ],
+  "languages": [
+    "English",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2019.iwslt-1.6",
+  "acl_url": "https://aclanthology.org/2019.iwslt-1.6/"
+}

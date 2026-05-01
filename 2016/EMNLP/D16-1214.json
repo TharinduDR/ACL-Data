@@ -1,0 +1,20 @@
+{
+  "title": "Evaluating Induced CCG Parsers on Grounded Semantic Parsing",
+  "authors": [
+    "Yonatan Bisk",
+    "Siva Reddy",
+    "John Blitzer",
+    "Julia Hockenmaier",
+    "Mark Steedman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "D16-1214",
+  "acl_url": "https://aclanthology.org/D16-1214/"
+}

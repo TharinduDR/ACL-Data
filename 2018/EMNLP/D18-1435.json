@@ -1,0 +1,20 @@
+{
+  "title": "Entity-aware Image Caption Generation",
+  "authors": [
+    "Di Lu",
+    "Spencer Whitehead",
+    "Lifu Huang",
+    "Heng Ji",
+    "Shih-Fu Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "D18-1435",
+  "acl_url": "https://aclanthology.org/D18-1435/"
+}

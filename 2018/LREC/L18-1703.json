@@ -1,0 +1,20 @@
+{
+  "title": "A German Corpus for Fine-Grained Named Entity Recognition and Relation Extraction of Traffic and Industry Events",
+  "authors": [
+    "Martin Schiersch",
+    "Veselina Mironova",
+    "Maximilian Schmitt",
+    "Philippe Thomas",
+    "Aleksandra Gabryszak",
+    "Leonhard Hennig"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "L18-1703",
+  "acl_url": "https://aclanthology.org/L18-1703/"
+}

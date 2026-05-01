@@ -1,0 +1,22 @@
+{
+  "title": "Overcoming Catastrophic Forgetting During Domain Adaptation of Neural Machine Translation",
+  "authors": [
+    "Brian Thompson",
+    "Jeremy Gwinnup",
+    "Huda Khayrallah",
+    "Kevin Duh",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "N19-1209",
+  "acl_url": "https://aclanthology.org/N19-1209/"
+}

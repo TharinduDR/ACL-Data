@@ -1,0 +1,24 @@
+{
+  "title": "PanPhon: A Resource for Mapping IPA Segments to Articulatory Feature Vectors",
+  "authors": [
+    "David R. Mortensen",
+    "Patrick Littell",
+    "Akash Bharadwaj",
+    "Kartik Goyal",
+    "Chris Dyer",
+    "Lori Levin"
+  ],
+  "languages": [
+    "Spanish",
+    "Turkish",
+    "Uzbek",
+    "Sorani Kurdish",
+    "German"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "C16-1328",
+  "acl_url": "https://aclanthology.org/C16-1328/"
+}

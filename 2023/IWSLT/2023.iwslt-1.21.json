@@ -1,0 +1,22 @@
+{
+  "title": "Improving Low Resource Speech Translation with Data Augmentation and Ensemble Strategies",
+  "authors": [
+    "Akshaya Vishnu Kudlu Shanbhogue",
+    "Ran Xue",
+    "Soumya Saha",
+    "Daniel Yue Zhang",
+    "Ashwinkumar Ganesan"
+  ],
+  "languages": [
+    "Tamasheq",
+    "French",
+    "Marathi",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.iwslt-1.21",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.21/"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "A Parallel Corpus for Evaluating Machine Translation between Arabic and European Languages",
+  "authors": [
+    "Nizar Habash",
+    "Nasser Zalmout",
+    "Dima Taji",
+    "Hieu Hoang",
+    "Maverick Alzate"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French",
+    "Hungarian",
+    "Finnish",
+    "Estonian",
+    "Lithuanian",
+    "Latvian",
+    "German",
+    "Danish",
+    "Dutch",
+    "Swedish",
+    "Greek",
+    "Slovak",
+    "Czech",
+    "Bulgarian",
+    "Slovene",
+    "Romanian",
+    "Portuguese",
+    "Italian",
+    "Spanish",
+    "Maltese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "E17-2038",
+  "acl_url": "https://aclanthology.org/E17-2038/"
+}

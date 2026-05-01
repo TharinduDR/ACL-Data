@@ -1,0 +1,41 @@
+{
+  "title": "Generalizing Word Embeddings using Bag of Subwords",
+  "authors": [
+    "Jinman Zhao",
+    "Sidharth Mudgal",
+    "Yingyu Liang"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Chinese",
+    "Arabic",
+    "Persian",
+    "Russian",
+    "German",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Italian",
+    "Czech",
+    "Hungarian",
+    "Romanian",
+    "Hebrew",
+    "Indonesian",
+    "Vietnamese",
+    "Thai",
+    "Kazakh",
+    "Latvian",
+    "Bulgarian",
+    "Swedish",
+    "Basque",
+    "Danish",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D18-1059",
+  "acl_url": "https://aclanthology.org/D18-1059/"
+}

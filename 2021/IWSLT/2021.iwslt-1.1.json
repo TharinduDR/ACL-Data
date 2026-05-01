@@ -1,0 +1,37 @@
+{
+  "title": "FINDINGS OF THE IWSLT 2021 EVALUATION CAMPAIGN",
+  "authors": [
+    "Antonios Anastasopoulos",
+    "Ondřej Bojar",
+    "Jacob Bremerman",
+    "Roldano Cattoni",
+    "Maha Elbayad",
+    "Marcello Federico",
+    "Xutai Ma",
+    "Satoshi Nakamura",
+    "Matteo Negri",
+    "Jan Niehues",
+    "Juan Pino",
+    "Elizabeth Salesky",
+    "Sebastian Stüker",
+    "Katsuhito Sudoh",
+    "Marco Turchi",
+    "Alex Waibel",
+    "Changhan Wang",
+    "Matthew Wiesner"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese",
+    "Swahili",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.iwslt-1.1",
+  "acl_url": "https://aclanthology.org/2021.iwslt-1.1/"
+}

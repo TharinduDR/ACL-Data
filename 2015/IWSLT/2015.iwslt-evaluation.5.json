@@ -1,0 +1,23 @@
+{
+  "title": "The MLLP ASR Systems for IWSLT 2015",
+  "authors": [
+    "Miguel Ángel del-Agua",
+    "Adrià Martínez-Villaronga",
+    "Santiago Piqueras",
+    "Adrià Giménez",
+    "Alberto Sanchis",
+    "Jorge Civera",
+    "Alfons Juan"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2015.iwslt-evaluation.5",
+  "acl_url": "https://aclanthology.org/2015.iwslt-evaluation.5/"
+}

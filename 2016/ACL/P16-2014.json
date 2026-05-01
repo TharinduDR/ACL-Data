@@ -1,0 +1,21 @@
+{
+  "title": "Cross-lingual projection for class-based language models",
+  "authors": [
+    "Beat Gfeller",
+    "Vlad Schogol",
+    "Keith Hall"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Indonesian",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "P16-2014",
+  "acl_url": "https://aclanthology.org/P16-2014/"
+}

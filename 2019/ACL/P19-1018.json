@@ -1,0 +1,27 @@
+{
+  "title": "Bilingual Lexicon Induction with Semi-supervision in Non-Isometric Embedding Spaces",
+  "authors": [
+    "Barun Patra",
+    "Joel Ruben Antony Moniz",
+    "Sarthak Garg",
+    "Matthew R. Gormley",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Russian",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Hindi",
+    "Korean"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P19-1018",
+  "acl_url": "https://aclanthology.org/P19-1018/"
+}

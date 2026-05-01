@@ -1,0 +1,25 @@
+{
+  "title": "Embracing Non-Traditional Linguistic Resources for Low-resource Language Name Tagging",
+  "authors": [
+    "Boliang Zhang",
+    "Di Lu",
+    "Xiaoman Pan",
+    "Ying Lin",
+    "Halidanmu Abudukelimu",
+    "Heng Ji",
+    "Kevin Knight"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Uzbek",
+    "Hausa"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "I17-1037",
+  "acl_url": "https://aclanthology.org/I17-1037/"
+}

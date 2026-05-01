@@ -1,0 +1,29 @@
+{
+  "title": "NAIST Simultaneous Speech Translation System for IWSLT 2024",
+  "authors": [
+    "Yuka Ko",
+    "Ryo Fukuda",
+    "Yuta Nishikawa",
+    "Yasumasa Kano",
+    "Tomoya Yanagita",
+    "Kosuke Doi",
+    "Mana Makinae",
+    "Haotian Tan",
+    "Makoto Sakai",
+    "Sakriani Sakti",
+    "Katsuhito Sudoh",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.iwslt-1.23",
+  "acl_url": "https://aclanthology.org/2024.iwslt-1.23/"
+}

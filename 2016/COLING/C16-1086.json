@@ -1,0 +1,21 @@
+{
+  "title": "Extending the Use of Adaptor Grammars for Unsupervised Morphological Segmentation of Unseen Languages",
+  "authors": [
+    "Ramy Eskander",
+    "Owen Rambow",
+    "Tianchun Yang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Finnish",
+    "Turkish",
+    "Zulu",
+    "Estonian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "C16-1086",
+  "acl_url": "https://aclanthology.org/C16-1086/"
+}

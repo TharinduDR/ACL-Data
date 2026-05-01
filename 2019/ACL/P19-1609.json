@@ -1,0 +1,23 @@
+{
+  "title": "Automatic Grammatical Error Correction for Sequence-to-sequence Text Generation: An Empirical Study",
+  "authors": [
+    "Tao Ge",
+    "Xingxing Zhang",
+    "Furu Wei",
+    "Ming Zhou"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T29",
+    "T16",
+    "T18",
+    "T19"
+  ],
+  "paper_id": "P19-1609",
+  "acl_url": "https://aclanthology.org/P19-1609/"
+}

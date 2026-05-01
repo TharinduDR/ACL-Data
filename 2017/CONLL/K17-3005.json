@@ -1,0 +1,32 @@
+{
+  "title": "The HIT-SCIR System for End-to-End Parsing of Universal Dependencies",
+  "authors": [
+    "Wanxiang Che",
+    "Jiang Guo",
+    "Yuxuan Wang",
+    "Bo Zheng",
+    "Huaipeng Zhao",
+    "Yang Liu",
+    "Dechuan Teng",
+    "Ting Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Uyghur",
+    "Kazakh",
+    "Irish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K17-3005",
+  "acl_url": "https://aclanthology.org/K17-3005/"
+}

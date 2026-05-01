@@ -1,0 +1,21 @@
+{
+  "title": "The Cross-Lingual Cost: Retrieval Biases in RAG over Arabic-English Corpora",
+  "authors": [
+    "Chen Amiraz",
+    "Yaroslav Fyodorov",
+    "Elad Haramaty",
+    "Zohar Karnin",
+    "Liane Lewin-Eytan"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.arabicnlp-main.6",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-main.6/"
+}

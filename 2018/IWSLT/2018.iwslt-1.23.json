@@ -1,0 +1,21 @@
+{
+  "title": "The JHU/KyotoU Speech Translation System for IWSLT 2018",
+  "authors": [
+    "Hiromi Inaguma",
+    "Xuan Zhang",
+    "Zhiqi Wang",
+    "Adithya Renduchintala",
+    "Shinji Watanabe",
+    "Kevin Duh"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16",
+    "T24"
+  ],
+  "paper_id": "2018.iwslt-1.23",
+  "acl_url": "https://aclanthology.org/2018.iwslt-1.23/"
+}

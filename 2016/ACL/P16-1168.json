@@ -1,0 +1,17 @@
+{
+  "title": "Cross-Lingual Image Caption Generation",
+  "authors": [
+    "Takashi Miyazaki",
+    "Nobuyuki Shimizu"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "P16-1168",
+  "acl_url": "https://aclanthology.org/P16-1168/"
+}

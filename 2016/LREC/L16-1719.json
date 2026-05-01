@@ -1,0 +1,42 @@
+{
+  "title": "Review on the Existing Language Resources for Languages of France",
+  "authors": [
+    "Thibault Grouas",
+    "Valérie Mapelli",
+    "Quentin Samier"
+  ],
+  "languages": [
+    "French",
+    "Occitan",
+    "Breton",
+    "Basque",
+    "Catalan",
+    "Alsatian",
+    "Judeo-Spanish",
+    "Armenian",
+    "Western Flemish",
+    "Mosellan",
+    "Frankish",
+    "Franco-provençal",
+    "Romani",
+    "Yiddish",
+    "Amazigh",
+    "French Sign Language",
+    "Réunion Creole",
+    "Guadeloupean",
+    "Martinican",
+    "Guyanese",
+    "Wallisian",
+    "Futunian",
+    "Kanak languages",
+    "Shimaore",
+    "Shibushi"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "L16-1719",
+  "acl_url": "https://aclanthology.org/L16-1719/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Domain Adaptation of Document-Level NMT in IWSLT19",
+  "authors": [
+    "Martin Popel",
+    "Christian Federmann"
+  ],
+  "languages": [
+    "English",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2019.iwslt-1.8",
+  "acl_url": "https://aclanthology.org/2019.iwslt-1.8/"
+}

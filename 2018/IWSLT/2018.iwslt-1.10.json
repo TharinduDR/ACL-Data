@@ -1,0 +1,23 @@
+{
+  "title": "The USTC-NEL Speech Translation system at IWSLT 2018",
+  "authors": [
+    "Dan Liu",
+    "Junhua Liu",
+    "Wu Guo",
+    "Shifu Xiong",
+    "Zhiqiang Ma",
+    "Rui Song",
+    "Chongliang Wu",
+    "Quan Liu"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2018.iwslt-1.10",
+  "acl_url": "https://aclanthology.org/2018.iwslt-1.10/"
+}

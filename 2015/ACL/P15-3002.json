@@ -1,0 +1,23 @@
+{
+  "title": "Leveraging Compounds to Improve Noun Phrase Translation from Chinese and German",
+  "authors": [
+    "Xiao Pu",
+    "Laura Mascarell",
+    "Andrei Popescu-Belis",
+    "Mark Fishel",
+    "Ngoc-Quang Luong",
+    "Martin Volk"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P15-3002",
+  "acl_url": "https://aclanthology.org/P15-3002/"
+}

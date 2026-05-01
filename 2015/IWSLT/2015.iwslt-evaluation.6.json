@@ -1,0 +1,20 @@
+{
+  "title": "The Heidelberg University English-German translation system for IWSLT 2015",
+  "authors": [
+    "Laura Jehl",
+    "Patrick Simianer",
+    "Julian Hitschler",
+    "Stefan Riezler"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2015.iwslt-evaluation.6",
+  "acl_url": "https://aclanthology.org/2015.iwslt-evaluation.6/"
+}

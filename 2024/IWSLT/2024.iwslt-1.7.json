@@ -1,0 +1,26 @@
+{
+  "title": "Improving the Quality of IWSLT 2024 Cascade Offline Speech Translation and Speech-to-Speech Translation via Translation Hypothesis Ensembling with NMT models and Large Language Models",
+  "authors": [
+    "Zhanglin Wu",
+    "JiaXin Guo",
+    "Daimeng Wei",
+    "Zhiqiang Rao",
+    "Zongyao Li",
+    "Hengchao Shang",
+    "Yuanchang Luo",
+    "Li ShaoJun",
+    "Hao Yang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.iwslt-1.7",
+  "acl_url": "https://aclanthology.org/2024.iwslt-1.7/"
+}

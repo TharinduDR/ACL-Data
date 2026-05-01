@@ -1,0 +1,25 @@
+{
+  "title": "MLLP-VRAIN UPV systems for the IWSLT 2022 Simultaneous Speech Translation and Speech-to-Speech Translation tasks",
+  "authors": [
+    "Javier Iranzo-Sánchez",
+    "Javier Jorge",
+    "Alejandro Pérez-González-de-Martos",
+    "Adrià Giménez",
+    "Gonçal V. Garcés Díaz-Munío",
+    "Pau Baquero-Arnal",
+    "Joan Albert Silvestre-Cerdà",
+    "Jorge Civera",
+    "Albert Sanchis",
+    "Alfons Juan"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.iwslt-1.22",
+  "acl_url": "https://aclanthology.org/2022.iwslt-1.22/"
+}

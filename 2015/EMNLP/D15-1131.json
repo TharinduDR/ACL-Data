@@ -1,0 +1,23 @@
+{
+  "title": "Trans-gram, Fast Cross-lingual Word-embeddings",
+  "authors": [
+    "Jocelyn Coulmance",
+    "Jean-Marc Marty",
+    "Guillaume Wenzek",
+    "Amine Benhalloum"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "D15-1131",
+  "acl_url": "https://aclanthology.org/D15-1131/"
+}

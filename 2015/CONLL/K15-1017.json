@@ -1,0 +1,22 @@
+{
+  "title": "Labeled Morphological Segmentation with Semi-Markov Models",
+  "authors": [
+    "Ryan Cotterell",
+    "Thomas Müller",
+    "Alexander Fraser",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "German",
+    "Indonesian",
+    "Turkish",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K15-1017",
+  "acl_url": "https://aclanthology.org/K15-1017/"
+}

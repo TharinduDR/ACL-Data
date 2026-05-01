@@ -1,0 +1,17 @@
+{
+  "title": "Gender-preserving Debiasing for Pre-trained Word Embeddings",
+  "authors": [
+    "Masahiro Kaneko",
+    "Danushka Bollegala"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "P19-1160",
+  "acl_url": "https://aclanthology.org/P19-1160/"
+}

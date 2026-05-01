@@ -1,0 +1,23 @@
+{
+  "title": "Entity Projection via Machine-Translation for Cross-Lingual NER",
+  "authors": [
+    "Alankar Jain",
+    "Bhargavi Paranjape",
+    "Zachary C. Lipton"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Chinese",
+    "Armenian",
+    "Hindi",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "D19-1100",
+  "acl_url": "https://aclanthology.org/D19-1100/"
+}

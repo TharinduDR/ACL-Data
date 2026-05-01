@@ -1,0 +1,23 @@
+{
+  "title": "A Network-based End-to-End Trainable Task-oriented Dialogue System",
+  "authors": [
+    "Tsung-Hsien Wen",
+    "David Vandyke",
+    "Nikola Mrkšić",
+    "Milica Gašić",
+    "Lina M. Rojas-Barahona",
+    "Pei-Hao Su",
+    "Stefan Ultes",
+    "Steve Young"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "E17-1042",
+  "acl_url": "https://aclanthology.org/E17-1042/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SoNLP-DP System for CoNLL-2016 Chinese Shallow Discourse Parsing",
+  "authors": [
+    "Junhui Li",
+    "Fang Kong",
+    "Sheng Li",
+    "Muhua Zhu",
+    "Guodong Zhou"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T05 Discourse and Pragmatics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K16-2011",
+  "acl_url": "https://aclanthology.org/K16-2011/"
+}

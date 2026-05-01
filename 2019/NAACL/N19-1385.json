@@ -1,0 +1,38 @@
+{
+  "title": "Low-Resource Syntactic Transfer with Unsupervised Source Reordering",
+  "authors": [
+    "Mohammad Sadegh Rasooli",
+    "Michael Collins"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Coptic",
+    "Czech",
+    "Danish",
+    "German",
+    "Greek",
+    "English",
+    "Spanish",
+    "Estonian",
+    "Basque",
+    "Finnish",
+    "French",
+    "Hebrew",
+    "Hindi",
+    "Croatian",
+    "Hungarian",
+    "Persian",
+    "Indonesian",
+    "Turkish",
+    "Persian",
+    "Arabic",
+    "Indonesian Hebrew"
+  ],
+  "research_areas": [
+    "T11",
+    "T21"
+  ],
+  "paper_id": "N19-1385",
+  "acl_url": "https://aclanthology.org/N19-1385/"
+}

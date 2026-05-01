@@ -1,0 +1,19 @@
+{
+  "title": "CUNI Basque-to-English Submission in IWSLT18",
+  "authors": [
+    "Tom Kocmi",
+    "Dušan Variš",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "Basque",
+    "English",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16",
+    "T14"
+  ],
+  "paper_id": "2018.iwslt-1.21",
+  "acl_url": "https://aclanthology.org/2018.iwslt-1.21/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "A Multi-media Approach to Cross-lingual Entity Knowledge Transfer",
+  "authors": [
+    "Di Lu",
+    "Xiaoman Pan",
+    "Nima Pourdamghani",
+    "Shih-Fu Chang",
+    "Heng Ji",
+    "Kevin Knight"
+  ],
+  "languages": [
+    "Chinese",
+    "Hausa",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "P16-1006",
+  "acl_url": "https://aclanthology.org/P16-1006/"
+}

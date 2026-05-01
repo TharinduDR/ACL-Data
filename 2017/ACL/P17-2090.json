@@ -1,0 +1,18 @@
+{
+  "title": "Data Augmentation for Low-Resource Neural Machine Translation",
+  "authors": [
+    "Marzieh Fadaee",
+    "Arianna Bisazza",
+    "Christof Monz"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "P17-2090",
+  "acl_url": "https://aclanthology.org/P17-2090/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Handling Homographs in Neural Machine Translation",
+  "authors": [
+    "Frederick Liu",
+    "Han Lu",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "N18-1121",
+  "acl_url": "https://aclanthology.org/N18-1121/"
+}

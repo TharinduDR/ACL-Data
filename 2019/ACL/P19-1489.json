@@ -1,0 +1,24 @@
+{
+  "title": "A Resource-Free Evaluation Metric for Cross-Lingual Word Embeddings Based on Graph Modularity",
+  "authors": [
+    "Yoshinari Fujinuma",
+    "Jordan Boyd-Graber",
+    "Michael J. Paul"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian",
+    "Danish",
+    "Japanese",
+    "Hungarian",
+    "Amharic"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "P19-1489",
+  "acl_url": "https://aclanthology.org/P19-1489/"
+}

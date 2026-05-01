@@ -1,0 +1,17 @@
+{
+  "title": "context2vec: Learning Generic Context Embedding with Bidirectional LSTM",
+  "authors": [
+    "Oren Melamud",
+    "Jacob Goldberger",
+    "Ido Dagan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "K16-1006",
+  "acl_url": "https://aclanthology.org/K16-1006/"
+}

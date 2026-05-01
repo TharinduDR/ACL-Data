@@ -1,0 +1,20 @@
+{
+  "title": "The SLT-Interactions Parsing System at the CoNLL 2018 Shared Task",
+  "authors": [
+    "Riyaz Ahmad Bhat",
+    "Irshad Ahmad Bhat",
+    "Srinivas Bangalore"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "English",
+    "French",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K18-2015",
+  "acl_url": "https://aclanthology.org/K18-2015/"
+}

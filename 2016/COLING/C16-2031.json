@@ -1,0 +1,39 @@
+{
+  "title": "Illinois Cross-Lingual Wikifier: Grounding Entities in Many Languages to the English Wikipedia",
+  "authors": [
+    "Chen-Tse Tsai",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "German",
+    "Spanish",
+    "Turkish",
+    "Tagalog",
+    "Yoruba",
+    "Bengali",
+    "Tamil",
+    "French",
+    "Italian",
+    "Chinese",
+    "Hebrew",
+    "Thai",
+    "Arabic",
+    "Urdu",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "C16-2031",
+  "acl_url": "https://aclanthology.org/C16-2031/"
+}

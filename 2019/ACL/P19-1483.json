@@ -1,0 +1,21 @@
+{
+  "title": "Handling Divergent Reference Texts when Evaluating Table-to-Text Generation",
+  "authors": [
+    "Bhuwan Dhingra",
+    "Manaal Faruqui",
+    "Ankur Parikh",
+    "Ming-Wei Chang",
+    "Dipanjan Das",
+    "William W. Cohen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "P19-1483",
+  "acl_url": "https://aclanthology.org/P19-1483/"
+}

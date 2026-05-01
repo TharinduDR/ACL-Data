@@ -1,0 +1,21 @@
+{
+  "title": "Multilingual Dependency Parsing for Low-Resource Languages: Case Studies on North Saami and Komi-Zyrian",
+  "authors": [
+    "KyungTae Lim",
+    "Niko Partanen",
+    "Thierry Poibeau"
+  ],
+  "languages": [
+    "English",
+    "North Saami",
+    "Komi-Zyrian",
+    "Finnish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L18-1352",
+  "acl_url": "https://aclanthology.org/L18-1352/"
+}

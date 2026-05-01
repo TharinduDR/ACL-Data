@@ -1,0 +1,31 @@
+{
+  "title": "The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation",
+  "authors": [
+    "Mia Xu Chen",
+    "Orhan Firat",
+    "Ankur Bapna",
+    "Melvin Johnson",
+    "Wolfgang Macherey",
+    "George Foster",
+    "Llion Jones",
+    "Niki Parmar",
+    "Noam Shazeer",
+    "Ashish Vaswani",
+    "Jakob Uszkoreit",
+    "Lukasz Kaiser",
+    "Mike Schuster",
+    "Zhifeng Chen",
+    "Yonghui Wu",
+    "Macduff Hughes"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P18-1008",
+  "acl_url": "https://aclanthology.org/P18-1008/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Is Neural Machine Translation Ready for Deployment? A Case Study on 30 Translation Directions",
+  "authors": [
+    "Marcin Junczys-Dowmunt",
+    "Tomasz Dwojak",
+    "Hieu Hoang"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "French",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2016.iwslt-1.5",
+  "acl_url": "https://aclanthology.org/2016.iwslt-1.5/"
+}

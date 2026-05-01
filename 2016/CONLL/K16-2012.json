@@ -1,0 +1,16 @@
+{
+  "title": "UniTN End-to-End Discourse Parser for CoNLL 2016 Shared Task",
+  "authors": [
+    "Evgeny A. Stepanov",
+    "Giuseppe Riccardi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K16-2012",
+  "acl_url": "https://aclanthology.org/K16-2012/"
+}

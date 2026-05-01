@@ -1,0 +1,23 @@
+{
+  "title": "Training with Exploration Improves a Greedy Stack LSTM Parser",
+  "authors": [
+    "Miguel Ballesteros",
+    "Yoav Goldberg",
+    "Chris Dyer",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Catalan",
+    "Czech",
+    "German",
+    "Japanese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D16-1211",
+  "acl_url": "https://aclanthology.org/D16-1211/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Inducing Bilingual Lexica From Non-Parallel Data With Earth Mover's Distance Regularization",
+  "authors": [
+    "Meng Zhang",
+    "Yang Liu",
+    "Huanbo Luan",
+    "Yiqun Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Spanish",
+    "Italian",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "C16-1300",
+  "acl_url": "https://aclanthology.org/C16-1300/"
+}

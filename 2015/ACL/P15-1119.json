@@ -1,0 +1,22 @@
+{
+  "title": "Cross-lingual Dependency Parsing Based on Distributed Representations",
+  "authors": [
+    "Jiang Guo",
+    "Wanxiang Che",
+    "David Yarowsky",
+    "Haifeng Wang",
+    "Ting Liu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P15-1119",
+  "acl_url": "https://aclanthology.org/P15-1119/"
+}

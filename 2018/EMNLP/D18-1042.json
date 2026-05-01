@@ -1,0 +1,21 @@
+{
+  "title": "A Discriminative Latent-Variable Model for Bilingual Lexicon Induction",
+  "authors": [
+    "Sebastian Ruder",
+    "Ryan Cotterell",
+    "Yova Kementchedjhieva",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Finnish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "D18-1042",
+  "acl_url": "https://aclanthology.org/D18-1042/"
+}

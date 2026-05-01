@@ -1,0 +1,24 @@
+{
+  "title": "NLATool: An Application for Enhanced Deep Text Understanding",
+  "authors": [
+    "Markus Gärtner",
+    "Sven Mayer",
+    "Valentin Schwind",
+    "Eric Hämmerle",
+    "Emine Turcan",
+    "Florin Rheinwald",
+    "Gustav Murawski",
+    "Lars Lischke",
+    "Jonas Kuhn"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "C18-2026",
+  "acl_url": "https://aclanthology.org/C18-2026/"
+}

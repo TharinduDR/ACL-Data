@@ -1,0 +1,29 @@
+{
+  "title": "An Extensive Empirical Evaluation of Character-Based Morphological Tagging for 14 Languages",
+  "authors": [
+    "Georg Heigold",
+    "Günter Neumann",
+    "Josef van Genabith"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Czech",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Hindi",
+    "Hungarian",
+    "Korean",
+    "Romanian",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "E17-1048",
+  "acl_url": "https://aclanthology.org/E17-1048/"
+}

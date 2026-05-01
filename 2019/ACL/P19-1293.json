@@ -1,0 +1,31 @@
+{
+  "title": "Translating Translationese: A Two-Step Approach to Unsupervised Machine Translation",
+  "authors": [
+    "Nima Pourdamghani",
+    "Nada Aldarrab",
+    "Marjan Ghazvininejad",
+    "Kevin Knight",
+    "Jonathan May"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Finnish",
+    "Russian",
+    "Spanish",
+    "Czech",
+    "Dutch",
+    "Bulgarian",
+    "Danish",
+    "Indonesian",
+    "Polish",
+    "Portuguese",
+    "Catalan"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P19-1293",
+  "acl_url": "https://aclanthology.org/P19-1293/"
+}

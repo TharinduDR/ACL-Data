@@ -1,0 +1,32 @@
+{
+  "title": "Cross-lingual Name Tagging and Linking for 282 Languages",
+  "authors": [
+    "Xiaoman Pan",
+    "Boliang Zhang",
+    "Jonathan May",
+    "Joel Nothman",
+    "Kevin Knight",
+    "Heng Ji"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Turkish",
+    "Thai",
+    "Kannada",
+    "Burmese",
+    "Rundi",
+    "Xhosa",
+    "Japanese",
+    "Kabyle",
+    "Tamil",
+    "Nyanja"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P17-1178",
+  "acl_url": "https://aclanthology.org/P17-1178/"
+}

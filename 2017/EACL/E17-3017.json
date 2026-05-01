@@ -1,0 +1,25 @@
+{
+  "title": "Nematus: a Toolkit for Neural Machine Translation",
+  "authors": [
+    "Rico Sennrich",
+    "Orhan Firat",
+    "Kyunghyun Cho",
+    "Alexandra Birch",
+    "Barry Haddow",
+    "Julian Hirschler",
+    "Marcin Junczys-Dowmunt",
+    "Samuel Läubli",
+    "Antonio Valerio Miceli Barone",
+    "Jozef Mokry",
+    "Maria Nadejde"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "E17-3017",
+  "acl_url": "https://aclanthology.org/E17-3017/"
+}

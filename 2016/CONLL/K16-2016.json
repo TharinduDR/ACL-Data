@@ -1,0 +1,20 @@
+{
+  "title": "The Virginia Tech System at CoNLL-2016 Shared Task on Shallow Discourse Parsing",
+  "authors": [
+    "Prashant Chandrasekar",
+    "Xuan Zhang",
+    "Saurabh Chakravarty",
+    "Arijit Ray",
+    "John Krulick",
+    "Alla Rozovskaya"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "K16-2016",
+  "acl_url": "https://aclanthology.org/K16-2016/"
+}

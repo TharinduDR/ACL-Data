@@ -1,0 +1,21 @@
+{
+  "title": "ReVal: A Simple and Effective Machine Translation Evaluation Metric Based on Recurrent Neural Networks",
+  "authors": [
+    "Rohit Gupta",
+    "Constantin Orăsan",
+    "Josef van Genabith"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "D15-1124",
+  "acl_url": "https://aclanthology.org/D15-1124/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "papago: A Machine Translation Service with Word Sense Disambiguation and Currency Conversion",
+  "authors": [
+    "Hyoung-Gyu Lee",
+    "Jun-Seok Kim",
+    "Joong-Hwi Shin",
+    "Jaesong Lee",
+    "Ying-Xiu Quan",
+    "Young-Seob Jeong"
+  ],
+  "languages": [
+    "English",
+    "Korean",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "C16-2039",
+  "acl_url": "https://aclanthology.org/C16-2039/"
+}

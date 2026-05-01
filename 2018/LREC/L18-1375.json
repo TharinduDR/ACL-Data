@@ -1,0 +1,22 @@
+{
+  "title": "J-MeDic: A Japanese Disease Name Dictionary based on Real Clinical Usage",
+  "authors": [
+    "Kaoru Ito",
+    "Hiroyuki Nagai",
+    "Taro Okahisa",
+    "Shoko Wakamiya",
+    "Tomohide Iwao",
+    "Eiji Aramaki"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "L18-1375",
+  "acl_url": "https://aclanthology.org/L18-1375/"
+}

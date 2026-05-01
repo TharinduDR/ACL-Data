@@ -1,0 +1,22 @@
+{
+  "title": "Multi-lingual Common Semantic Space Construction via Cluster-consistent Word Embedding",
+  "authors": [
+    "Lifu Huang",
+    "Kyunghyun Cho",
+    "Boliang Zhang",
+    "Heng Ji",
+    "Kevin Knight"
+  ],
+  "languages": [
+    "English",
+    "Danish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "D18-1023",
+  "acl_url": "https://aclanthology.org/D18-1023/"
+}

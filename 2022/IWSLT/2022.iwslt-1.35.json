@@ -1,0 +1,19 @@
+{
+  "title": "Hierarchical Multi-task learning framework for Isometric-Speech Language Translation",
+  "authors": [
+    "Aakash Bhatnagar",
+    "Nidhir Bhavsar",
+    "Muskaan Singh",
+    "Petr Motliecek"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.iwslt-1.35",
+  "acl_url": "https://aclanthology.org/2022.iwslt-1.35/"
+}

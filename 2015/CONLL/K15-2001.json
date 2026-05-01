@@ -1,0 +1,21 @@
+{
+  "title": "The CoNLL-2015 Shared Task on Shallow Discourse Parsing",
+  "authors": [
+    "Nianwen Xue",
+    "Hwee Tou Ng",
+    "Sameer Pradhan",
+    "Rashmi Prasad",
+    "Christopher Bryant",
+    "Attapol T. Rutherford"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T05 Discourse and Pragmatics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "K15-2001",
+  "acl_url": "https://aclanthology.org/K15-2001/"
+}

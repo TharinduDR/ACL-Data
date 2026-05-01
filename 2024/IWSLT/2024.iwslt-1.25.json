@@ -1,0 +1,23 @@
+{
+  "title": "ALADAN at IWSLT24 Low-resource Arabic Dialectal Speech Translation Task",
+  "authors": [
+    "Waad Ben Kheder",
+    "Josef Jon",
+    "André Beyer",
+    "Abdel Messaoudi",
+    "Rabea Affan",
+    "Claude Barras",
+    "Maxim Tychonov",
+    "Jean-Luc Gauvain"
+  ],
+  "languages": [
+    "Arabic",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.iwslt-1.25",
+  "acl_url": "https://aclanthology.org/2024.iwslt-1.25/"
+}

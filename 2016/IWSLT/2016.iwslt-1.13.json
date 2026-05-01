@@ -1,0 +1,19 @@
+{
+  "title": "Joint ASR and MT Features for Quality Estimation in Spoken Language Translation",
+  "authors": [
+    "Ngoc-Tien Le",
+    "Benjamin Lecouteux",
+    "Laurent Besacier"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2016.iwslt-1.13",
+  "acl_url": "https://aclanthology.org/2016.iwslt-1.13/"
+}

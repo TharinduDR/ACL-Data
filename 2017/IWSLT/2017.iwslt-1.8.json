@@ -1,0 +1,20 @@
+{
+  "title": "Kyoto University MT System Description for IWSLT 2017",
+  "authors": [
+    "Raj Dabre",
+    "Fabien Cromieres",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Italian",
+    "Dutch",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2017.iwslt-1.8",
+  "acl_url": "https://aclanthology.org/2017.iwslt-1.8/"
+}

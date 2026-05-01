@@ -1,0 +1,23 @@
+{
+  "title": "Cross-Document, Cross-Language Event Coreference Annotation Using Event Hoppers",
+  "authors": [
+    "Zhiyi Song",
+    "Ann Bies",
+    "Justin Mott",
+    "Xuansong Li",
+    "Stephanie Strassel",
+    "Christopher Caruso"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "L18-1558",
+  "acl_url": "https://aclanthology.org/L18-1558/"
+}

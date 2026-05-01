@@ -1,0 +1,22 @@
+{
+  "title": "Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned",
+  "authors": [
+    "Elena Voita",
+    "David Talbot",
+    "Fedor Moiseev",
+    "Rico Sennrich",
+    "Ivan Titov"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P19-1580",
+  "acl_url": "https://aclanthology.org/P19-1580/"
+}

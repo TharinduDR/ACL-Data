@@ -1,0 +1,28 @@
+{
+  "title": "Epitran: Precision G2P for Many Languages",
+  "authors": [
+    "David R. Mortensen",
+    "Siddharth Dalmia",
+    "Patrick Littell"
+  ],
+  "languages": [
+    "Amharic",
+    "Cebuano",
+    "Javanese",
+    "Kazakh",
+    "Kurmanji",
+    "Swahili",
+    "Tagalog",
+    "Tamil",
+    "Telugu",
+    "Turkish",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T24 Speech Resources and Processing",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "L18-1429",
+  "acl_url": "https://aclanthology.org/L18-1429/"
+}

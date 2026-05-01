@@ -1,0 +1,20 @@
+{
+  "title": "A Simple and Accurate Syntax-Agnostic Neural Model for Dependency-based Semantic Role Labeling",
+  "authors": [
+    "Diego Marcheggiani",
+    "Anton Frolov",
+    "Ivan Titov"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Czech",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K17-1041",
+  "acl_url": "https://aclanthology.org/K17-1041/"
+}

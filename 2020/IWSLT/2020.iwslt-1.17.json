@@ -1,0 +1,19 @@
+{
+  "title": "University of Tsukuba's Machine Translation System for IWSLT20 Open Domain Translation Task",
+  "authors": [
+    "Hongyi Cui",
+    "Yizhen Wei",
+    "Shohei Iida",
+    "Masaaki Nagata",
+    "Takehito Utsuro"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.iwslt-1.17",
+  "acl_url": "https://aclanthology.org/2020.iwslt-1.17/"
+}

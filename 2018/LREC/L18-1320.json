@@ -1,0 +1,20 @@
+{
+  "title": "MGAD: Multilingual Generation of Analogy Datasets",
+  "authors": [
+    "Mostafa Abdou",
+    "Artur Kulmizev",
+    "Vinit Ravishankar"
+  ],
+  "languages": [
+    "Russian",
+    "Arabic",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L18-1320",
+  "acl_url": "https://aclanthology.org/L18-1320/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Fahmni at AraHealthQA Track 1: Multi-Agent Retrieval-Augmented Generation and Multi-Label Classification for Arabic Mental Health Q&A",
+  "authors": [
+    "Caroline Sabty",
+    "Mohamad Rasmy",
+    "Mohamed Eyad Badran",
+    "Nourhan Sakr",
+    "Alia El Bolock"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.arabicnlp-sharedtasks.29",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-sharedtasks.29/"
+}

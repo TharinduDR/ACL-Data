@@ -1,0 +1,25 @@
+{
+  "title": "POLYGLOT: Multilingual Semantic Role Labeling with Unified Labels",
+  "authors": [
+    "Alan Akbik",
+    "Yunyao Li"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "French",
+    "German",
+    "Hindi",
+    "Russian",
+    "Spanish",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "P16-4001",
+  "acl_url": "https://aclanthology.org/P16-4001/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Phylogenetic Multi-Lingual Dependency Parsing",
+  "authors": [
+    "Mathieu Dehouck",
+    "Pascal Denis"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Ukrainian",
+    "Serbian",
+    "Croatian",
+    "Bulgarian",
+    "Polish",
+    "Czech",
+    "Slovak",
+    "Upper Sorbian",
+    "Belarusian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N19-1017",
+  "acl_url": "https://aclanthology.org/N19-1017/"
+}

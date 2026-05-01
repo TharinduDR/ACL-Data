@@ -1,0 +1,22 @@
+{
+  "title": "NCLS: Neural Cross-Lingual Summarization",
+  "authors": [
+    "Junnan Zhu",
+    "Qian Wang",
+    "Yining Wang",
+    "Yu Zhou",
+    "Jiajun Zhang",
+    "Shaonan Wang",
+    "Chengqing Zong"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "D19-1302",
+  "acl_url": "https://aclanthology.org/D19-1302/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Transformer Dissection: An Unified Understanding for Transformer's Attention via the Lens of Kernel",
+  "authors": [
+    "Yao-Hung Hubert Tsai",
+    "Shaojie Bai",
+    "Makoto Yamada",
+    "Louis-Philippe Morency",
+    "Ruslan Salakhutdinov"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "D19-1443",
+  "acl_url": "https://aclanthology.org/D19-1443/"
+}

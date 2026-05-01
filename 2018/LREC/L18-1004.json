@@ -1,0 +1,21 @@
+{
+  "title": "eSCAPE: a Large-scale Synthetic Corpus for Automatic Post-Editing",
+  "authors": [
+    "Matteo Negri",
+    "Marco Turchi",
+    "Rajen Chatterjee",
+    "Nicola Bertoldi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "L18-1004",
+  "acl_url": "https://aclanthology.org/L18-1004/"
+}

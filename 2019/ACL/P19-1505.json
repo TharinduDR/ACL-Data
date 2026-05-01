@@ -1,0 +1,44 @@
+{
+  "title": "Morphological Irregularity Correlates with Frequency",
+  "authors": [
+    "Shijie Wu",
+    "Ryan Cotterell",
+    "Timothy J. O'Donnell"
+  ],
+  "languages": [
+    "Albanian",
+    "Arabic",
+    "Armenian",
+    "Basque",
+    "Bulgarian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "French",
+    "German",
+    "Hebrew",
+    "Hindi",
+    "Italian",
+    "Latvian",
+    "Persian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Turkish",
+    "Ukrainian",
+    "Urdu",
+    "Welsh"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "P19-1505",
+  "acl_url": "https://aclanthology.org/P19-1505/"
+}

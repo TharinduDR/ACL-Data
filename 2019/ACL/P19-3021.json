@@ -1,0 +1,25 @@
+{
+  "title": "Microsoft ICECAPS: An Open-Source Toolkit for Conversation Modeling",
+  "authors": [
+    "Vighnesh Leonardo Shiv",
+    "Chris Quirk",
+    "Anshuman Suri",
+    "Xiang Gao",
+    "Khuram Shahid",
+    "Nithya Govindarajan",
+    "Yizhe Zhang",
+    "Jianfeng Gao",
+    "Michel Galley",
+    "Chris Brockett",
+    "Tulasi Menon",
+    "Bill Dolan"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "P19-3021",
+  "acl_url": "https://aclanthology.org/P19-3021/"
+}

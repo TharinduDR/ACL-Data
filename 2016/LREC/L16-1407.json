@@ -1,0 +1,22 @@
+{
+  "title": "A Finite-State Morphological Analyser for Tuvan",
+  "authors": [
+    "Francis M. Tyers",
+    "Jonathan North Washington",
+    "Aziyana Bayyr-ool",
+    "Aelita Salchak"
+  ],
+  "languages": [
+    "Tuvan",
+    "Russian",
+    "Chinese",
+    "Mongolian",
+    "Kazakh"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L16-1407",
+  "acl_url": "https://aclanthology.org/L16-1407/"
+}

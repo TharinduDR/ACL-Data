@@ -1,0 +1,23 @@
+{
+  "title": "Multi-Dialect Arabic POS Tagging: A CRF Approach",
+  "authors": [
+    "Kareem Darwish",
+    "Hamdy Mubarak",
+    "Mohamed Eldesouki",
+    "Ahmed Abdelali",
+    "Younes Samih",
+    "Randah Alharbi",
+    "Mohammed Attia",
+    "Walid Magdy",
+    "Laura Kallmeyer"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "L18-1015",
+  "acl_url": "https://aclanthology.org/L18-1015/"
+}

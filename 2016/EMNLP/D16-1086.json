@@ -1,0 +1,19 @@
+{
+  "title": "Porting an Open Information Extraction System from English to German",
+  "authors": [
+    "Tobias Falke",
+    "Gabriel Stanovsky",
+    "Iryna Gurevych",
+    "Ido Dagan"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D16-1086",
+  "acl_url": "https://aclanthology.org/D16-1086/"
+}

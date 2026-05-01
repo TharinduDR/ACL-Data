@@ -1,0 +1,26 @@
+{
+  "title": "Joint Multilingual Supervision for Cross-lingual Entity Linking",
+  "authors": [
+    "Shyam Upadhyay",
+    "Nitish Gupta",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Chinese",
+    "Arabic",
+    "Turkish",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "D18-1270",
+  "acl_url": "https://aclanthology.org/D18-1270/"
+}

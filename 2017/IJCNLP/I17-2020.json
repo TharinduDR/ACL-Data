@@ -1,0 +1,25 @@
+{
+  "title": "Injecting Word Embeddings with Another Language's Resource: An Application of Bilingual Embeddings",
+  "authors": [
+    "Prakhar Pandey",
+    "Vikram Pudi",
+    "Manish Shrivastava"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Urdu",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "I17-2020",
+  "acl_url": "https://aclanthology.org/I17-2020/"
+}

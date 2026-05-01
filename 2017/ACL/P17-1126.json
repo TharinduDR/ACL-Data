@@ -1,0 +1,22 @@
+{
+  "title": "Learning to Generate Market Comments from Stock Prices",
+  "authors": [
+    "Soichiro Murakami",
+    "Akihiko Watanabe",
+    "Akira Miyazawa",
+    "Keiichi Goshima",
+    "Toshihiko Yanase",
+    "Hiroya Takamura",
+    "Yusuke Miyao"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "P17-1126",
+  "acl_url": "https://aclanthology.org/P17-1126/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Neural Architectures for Named Entity Recognition",
+  "authors": [
+    "Guillaume Lample",
+    "Miguel Ballesteros",
+    "Sandeep Subramanian",
+    "Kazuya Kawakami",
+    "Chris Dyer"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11",
+    "T21"
+  ],
+  "paper_id": "N16-1030",
+  "acl_url": "https://aclanthology.org/N16-1030/"
+}

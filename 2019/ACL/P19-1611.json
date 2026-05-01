@@ -1,0 +1,16 @@
+{
+  "title": "RankQA: Neural Question Answering with Answer Re-Ranking",
+  "authors": [
+    "Bernhard Kratzwald",
+    "Anna Eigenmann",
+    "Stefan Feuerriegel"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "P19-1611",
+  "acl_url": "https://aclanthology.org/P19-1611/"
+}

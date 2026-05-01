@@ -1,0 +1,22 @@
+{
+  "title": "CDAC-SVNIT submission for IWSLT 2025 Indic track shared task",
+  "authors": [
+    "Mukund K Roy",
+    "Karunesh K Arora",
+    "Praveen Kumar Chandaliya",
+    "Rohit Kumar",
+    "Pruthwik Mishra"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.iwslt-1.16",
+  "acl_url": "https://aclanthology.org/2025.iwslt-1.16/"
+}

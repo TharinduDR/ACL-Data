@@ -1,0 +1,28 @@
+{
+  "title": "Improving Native Language Identification by Using Spelling Errors",
+  "authors": [
+    "Lingzhen Chen",
+    "Carlo Strapparava",
+    "Vivi Nastase"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "French",
+    "German",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Spanish",
+    "Telugu",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T28",
+    "T29"
+  ],
+  "paper_id": "P17-2086",
+  "acl_url": "https://aclanthology.org/P17-2086/"
+}

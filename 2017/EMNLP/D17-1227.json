@@ -1,0 +1,19 @@
+{
+  "title": "When to Finish? Optimal Beam Search for Neural Text Generation (modulo beam size)",
+  "authors": [
+    "Liang Huang",
+    "Kai Zhao",
+    "Mingbo Ma"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "D17-1227",
+  "acl_url": "https://aclanthology.org/D17-1227/"
+}

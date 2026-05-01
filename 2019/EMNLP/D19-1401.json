@@ -1,0 +1,18 @@
+{
+  "title": "Combining Unsupervised Pre-training and Annotator Rationales to Improve Low-shot Text Classification",
+  "authors": [
+    "Oren Melamud",
+    "Mihaela Bornea",
+    "Ken Barker"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "D19-1401",
+  "acl_url": "https://aclanthology.org/D19-1401/"
+}

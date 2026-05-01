@@ -1,0 +1,20 @@
+{
+  "title": "Cross-lingual Knowledge Projection Using Machine Translation and Target-side Knowledge Base Completion",
+  "authors": [
+    "Naoki Otani",
+    "Hirokazu Kiyomaru",
+    "Daisuke Kawahara",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "C18-1128",
+  "acl_url": "https://aclanthology.org/C18-1128/"
+}

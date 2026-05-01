@@ -1,0 +1,20 @@
+{
+  "title": "Locality-Sensitive Hashing for Long Context Neural Machine Translation",
+  "authors": [
+    "Frithjof Petrick",
+    "Jan Rosendahl",
+    "Christian Herold",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "Romanian",
+    "English",
+    "German",
+    "Italian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.iwslt-1.4",
+  "acl_url": "https://aclanthology.org/2022.iwslt-1.4/"
+}

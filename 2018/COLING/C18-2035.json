@@ -1,0 +1,21 @@
+{
+  "title": "A flexible and easy-to-use semantic role labeling framework for different languages",
+  "authors": [
+    "Quynh Ngoc Thi Do",
+    "Artuur Leeuwenberg",
+    "Geert Heyman",
+    "Marie-Francine Moens"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "C18-2035",
+  "acl_url": "https://aclanthology.org/C18-2035/"
+}

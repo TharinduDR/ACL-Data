@@ -1,0 +1,21 @@
+{
+  "title": "Guiding Neural Machine Translation with Retrieved Translation Pieces",
+  "authors": [
+    "Jingyi Zhang",
+    "Masao Utiyama",
+    "Eiichiro Sumita",
+    "Graham Neubig",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "N18-1120",
+  "acl_url": "https://aclanthology.org/N18-1120/"
+}

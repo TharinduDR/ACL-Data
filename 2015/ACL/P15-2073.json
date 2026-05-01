@@ -1,0 +1,24 @@
+{
+  "title": "ΔBLEU: A Discriminative Metric for Generation Tasks with Intrinsically Diverse Targets",
+  "authors": [
+    "Michel Galley",
+    "Chris Brockett",
+    "Alessandro Sordoni",
+    "Yangfeng Ji",
+    "Michael Auli",
+    "Chris Quirk",
+    "Margaret Mitchell",
+    "Jianfeng Gao",
+    "Bill Dolan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "P15-2073",
+  "acl_url": "https://aclanthology.org/P15-2073/"
+}

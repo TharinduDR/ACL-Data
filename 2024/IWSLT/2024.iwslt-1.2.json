@@ -1,0 +1,26 @@
+{
+  "title": "Pause-Aware Automatic Dubbing using LLM and Voice Cloning",
+  "authors": [
+    "Yuang Li",
+    "Jiaxin Guo",
+    "Min Zhang",
+    "Miaomiao Ma",
+    "Zhiqiang Rao",
+    "Weidong Zhang",
+    "Xianghui He",
+    "Daimeng Wei",
+    "Hao Yang"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16",
+    "T17",
+    "T24"
+  ],
+  "paper_id": "2024.iwslt-1.2",
+  "acl_url": "https://aclanthology.org/2024.iwslt-1.2/"
+}

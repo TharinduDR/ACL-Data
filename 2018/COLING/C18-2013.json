@@ -1,0 +1,25 @@
+{
+  "title": "Term Set Expansion based on Multi-Context Term Embeddings: an End-to-end Workflow",
+  "authors": [
+    "Jonathan Mamou",
+    "Oren Pereg",
+    "Moshe Wasserblat",
+    "Ido Dagan",
+    "Yoav Goldberg",
+    "Alon Eirew",
+    "Yael Green",
+    "Shira Guskin",
+    "Peter Izsak",
+    "Daniel Korat"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "C18-2013",
+  "acl_url": "https://aclanthology.org/C18-2013/"
+}

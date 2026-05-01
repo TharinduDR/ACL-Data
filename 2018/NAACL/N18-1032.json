@@ -1,0 +1,21 @@
+{
+  "title": "Universal Neural Machine Translation for Extremely Low Resource Languages",
+  "authors": [
+    "Jiatao Gu",
+    "Hany Hassan",
+    "Jacob Devlin",
+    "Victor O.K. Li"
+  ],
+  "languages": [
+    "Romanian",
+    "English",
+    "Latvian",
+    "Korean"
+  ],
+  "research_areas": [
+    "T16",
+    "T14"
+  ],
+  "paper_id": "N18-1032",
+  "acl_url": "https://aclanthology.org/N18-1032/"
+}

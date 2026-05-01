@@ -1,0 +1,21 @@
+{
+  "title": "Bilingual Lexicon Induction through Unsupervised Machine Translation",
+  "authors": [
+    "Mikel Artetxe",
+    "Gorka Labaka",
+    "Eneko Agirre"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P19-1494",
+  "acl_url": "https://aclanthology.org/P19-1494/"
+}

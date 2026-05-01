@@ -1,0 +1,18 @@
+{
+  "title": "Ckylark: A More Robust PCFG-LA Parser",
+  "authors": [
+    "Yusuke Oda",
+    "Graham Neubig",
+    "Sakriani Sakti",
+    "Tomoki Toda",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N15-3009",
+  "acl_url": "https://aclanthology.org/N15-3009/"
+}

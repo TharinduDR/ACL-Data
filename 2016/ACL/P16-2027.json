@@ -1,0 +1,23 @@
+{
+  "title": "An Open Web Platform for Rule-Based Speech-to-Sign Translation",
+  "authors": [
+    "Manny Rayner",
+    "Pierrette Bouillon",
+    "Johanna Gerlach",
+    "Irene Strasly",
+    "Nikos Tsourakis",
+    "Sarah Ebling"
+  ],
+  "languages": [
+    "French",
+    "Swiss German Sign Language",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "P16-2027",
+  "acl_url": "https://aclanthology.org/P16-2027/"
+}

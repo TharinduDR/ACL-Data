@@ -1,0 +1,20 @@
+{
+  "title": "Multilingual Relation Extraction using Compositional Universal Schema",
+  "authors": [
+    "Patrick Verga",
+    "David Belanger",
+    "Emma Strubell",
+    "Benjamin Roth",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11",
+    "T13"
+  ],
+  "paper_id": "N16-1103",
+  "acl_url": "https://aclanthology.org/N16-1103/"
+}

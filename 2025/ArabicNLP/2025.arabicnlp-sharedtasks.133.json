@@ -1,0 +1,21 @@
+{
+  "title": "Tokenizers United at QIAS 2025 Shared Task: A Retrieval-Augmented Generation Pipeline for Islamic Knowledge Assessment",
+  "authors": [
+    "Mohamed Samy",
+    "Mayar Boghdady",
+    "Marwan El Adawi",
+    "Mohamed Nassar",
+    "Ensaf Hussein"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.arabicnlp-sharedtasks.133",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-sharedtasks.133/"
+}

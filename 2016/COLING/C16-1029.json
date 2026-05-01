@@ -1,0 +1,20 @@
+{
+  "title": "Consistent Word Segmentation, Part-of-Speech Tagging and Dependency Labelling Annotation for Chinese Language",
+  "authors": [
+    "Mo Shen",
+    "Wingmui Li",
+    "Hyunjeong Choe",
+    "Chenhui Chu",
+    "Daisuke Kawahara",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "C16-1029",
+  "acl_url": "https://aclanthology.org/C16-1029/"
+}

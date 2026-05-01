@@ -1,0 +1,24 @@
+{
+  "title": "Pairwise Neural Machine Translation Evaluation",
+  "authors": [
+    "Francisco Guzmán",
+    "Shafiq Joty",
+    "Lluís Màrquez",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Spanish",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16",
+    "T08",
+    "T14"
+  ],
+  "paper_id": "P15-1078",
+  "acl_url": "https://aclanthology.org/P15-1078/"
+}

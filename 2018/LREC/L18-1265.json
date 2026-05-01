@@ -1,0 +1,35 @@
+{
+  "title": "Simple Semantic Annotation and Situation Frames: Two Approaches to Basic Text Understanding in LORELEI",
+  "authors": [
+    "Kira Griffitt",
+    "Jennifer Tracey",
+    "Ann Bies",
+    "Stephanie Strassel"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Amharic",
+    "Bengali",
+    "Farsi",
+    "Hindi",
+    "Hungarian",
+    "Indonesian",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Tigrinya",
+    "Uyghur",
+    "Ukrainian",
+    "Vietnamese",
+    "Yoruba",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "L18-1265",
+  "acl_url": "https://aclanthology.org/L18-1265/"
+}

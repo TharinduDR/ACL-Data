@@ -1,0 +1,26 @@
+{
+  "title": "FST: the FAIR Speech Translation System for the IWSLT21 Multilingual Shared Task",
+  "authors": [
+    "Yun Tang",
+    "Hongyu Gong",
+    "Xian Li",
+    "Changhan Wang",
+    "Juan Pino",
+    "Holger Schwenk",
+    "Naman Goyal"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Portuguese",
+    "Italian"
+  ],
+  "research_areas": [
+    "T16",
+    "T17",
+    "T24"
+  ],
+  "paper_id": "2021.iwslt-1.14",
+  "acl_url": "https://aclanthology.org/2021.iwslt-1.14/"
+}

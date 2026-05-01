@@ -1,0 +1,38 @@
+{
+  "title": "Combining Neural and Non-Neural Methods for Low-Resource Morphological Reinflection",
+  "authors": [
+    "Saeed Najafi",
+    "Bradley Hauer",
+    "Rashed Rubby Riyadh",
+    "Leyuan Yu",
+    "Grzegorz Kondrak"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Malay",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Vietnamese",
+    "Slovene"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K18-3015",
+  "acl_url": "https://aclanthology.org/K18-3015/"
+}

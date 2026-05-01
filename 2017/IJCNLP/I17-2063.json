@@ -1,0 +1,19 @@
+{
+  "title": "Coreference Resolution on Math Problem Text in Japanese",
+  "authors": [
+    "Takumi Ito",
+    "Takuya Matsuzaki",
+    "Satoshi Sato"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education"
+  ],
+  "paper_id": "I17-2063",
+  "acl_url": "https://aclanthology.org/I17-2063/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "ComQA: A Community-sourced Dataset for Complex Factoid Question Answering with Paraphrase Clusters",
+  "authors": [
+    "Abdalghani Abujabal",
+    "Rishiraj Saha Roy",
+    "Mohamed Yahya",
+    "Gerhard Weikum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "N19-1027",
+  "acl_url": "https://aclanthology.org/N19-1027/"
+}

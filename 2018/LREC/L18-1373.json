@@ -1,0 +1,19 @@
+{
+  "title": "Universal Dependencies for Ainu",
+  "authors": [
+    "Hajime Senuma",
+    "Akiko Aizawa"
+  ],
+  "languages": [
+    "Ainu",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L18-1373",
+  "acl_url": "https://aclanthology.org/L18-1373/"
+}

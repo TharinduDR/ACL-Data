@@ -1,0 +1,17 @@
+{
+  "title": "Length bias in Encoder Decoder Models and a Case for Global Conditioning",
+  "authors": [
+    "Pavel Sountsov",
+    "Sunita Sarawagi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "D16-1158",
+  "acl_url": "https://aclanthology.org/D16-1158/"
+}

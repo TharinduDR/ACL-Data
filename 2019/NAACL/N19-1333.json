@@ -1,0 +1,24 @@
+{
+  "title": "Corpora Generation for Grammatical Error Correction",
+  "authors": [
+    "Jared Lichtarge",
+    "Chris Alberti",
+    "Shankar Kumar",
+    "Noam Shazeer",
+    "Niki Parmar",
+    "Simon Tong"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Japanese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14",
+    "T29"
+  ],
+  "paper_id": "N19-1333",
+  "acl_url": "https://aclanthology.org/N19-1333/"
+}

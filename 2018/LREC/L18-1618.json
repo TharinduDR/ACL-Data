@@ -1,0 +1,30 @@
+{
+  "title": "SemR-11: A Multi-Lingual Gold-Standard for Semantic Similarity and Relatedness for Eleven Languages",
+  "authors": [
+    "Siamak Barzegar",
+    "Brian Davis",
+    "Manel Zarrouk",
+    "Siegfried Handschuh",
+    "Andre Freitas"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Italian",
+    "Dutch",
+    "Chinese",
+    "Portuguese",
+    "Swedish",
+    "Spanish",
+    "Arabic",
+    "Persian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "L18-1618",
+  "acl_url": "https://aclanthology.org/L18-1618/"
+}

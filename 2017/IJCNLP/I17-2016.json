@@ -1,0 +1,31 @@
+{
+  "title": "Low-Resource Named Entity Recognition with Cross-Lingual, Character-Level Neural Conditional Random Fields",
+  "authors": [
+    "Ryan Cotterell",
+    "Kevin Duh"
+  ],
+  "languages": [
+    "English",
+    "Galician",
+    "Catalan",
+    "Italian",
+    "French",
+    "Romanian",
+    "Spanish",
+    "West Frisian",
+    "Dutch",
+    "Ukrainian",
+    "Russian",
+    "Marathi",
+    "Hindi",
+    "Urdu",
+    "Tagalog",
+    "Cebuano"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "I17-2016",
+  "acl_url": "https://aclanthology.org/I17-2016/"
+}

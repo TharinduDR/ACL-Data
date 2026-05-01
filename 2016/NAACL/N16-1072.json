@@ -1,0 +1,29 @@
+{
+  "title": "Cross-lingual Wikification Using Multilingual Embeddings",
+  "authors": [
+    "Chen-Tse Tsai",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Chinese",
+    "Hebrew",
+    "Thai",
+    "Arabic",
+    "Turkish",
+    "Tamil",
+    "Tagalog",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "N16-1072",
+  "acl_url": "https://aclanthology.org/N16-1072/"
+}

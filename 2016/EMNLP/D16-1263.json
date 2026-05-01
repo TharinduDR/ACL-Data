@@ -1,0 +1,21 @@
+{
+  "title": "Learning a Lexicon and Translation Model from Phoneme Lattices",
+  "authors": [
+    "Oliver Adams",
+    "Graham Neubig",
+    "Trevor Cohn",
+    "Steven Bird",
+    "Quoc Truong Do",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16",
+    "T24"
+  ],
+  "paper_id": "D16-1263",
+  "acl_url": "https://aclanthology.org/D16-1263/"
+}

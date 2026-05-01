@@ -1,0 +1,17 @@
+{
+  "title": "Cross-Domain Generalization of Neural Constituency Parsers",
+  "authors": [
+    "Daniel Fried",
+    "Nikita Kitaev",
+    "Dan Klein"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P19-1031",
+  "acl_url": "https://aclanthology.org/P19-1031/"
+}

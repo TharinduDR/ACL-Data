@@ -1,0 +1,25 @@
+{
+  "title": "Morphological Reinflection in Context: CU Boulder's Submission to CoNLL-SIGMORPHON 2018 Shared Task",
+  "authors": [
+    "Ling Liu",
+    "Ilamvazhuthy Subbiah",
+    "Adam Wiemerslage",
+    "Jonathan Lilley",
+    "Sarah R. Moeller"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Spanish",
+    "Finnish",
+    "French",
+    "Russian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K18-3010",
+  "acl_url": "https://aclanthology.org/K18-3010/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Accelerating NMT Batched Beam Decoding with LMBR Posteriors for Deployment",
+  "authors": [
+    "Gonzalo Iglesias",
+    "William Tambellini",
+    "Adrià De Gispert",
+    "Eva Hasler",
+    "Bill Byrne"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "N18-3013",
+  "acl_url": "https://aclanthology.org/N18-3013/"
+}

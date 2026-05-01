@@ -1,0 +1,41 @@
+{
+  "title": "Isomorphic Transfer of Syntactic Structures in Cross-Lingual NLP",
+  "authors": [
+    "Edoardo Maria Ponti",
+    "Roi Reichart",
+    "Anna Korhonen",
+    "Ivan Vulić"
+  ],
+  "languages": [
+    "Arabic",
+    "Dutch",
+    "Indonesian",
+    "Portuguese",
+    "Chinese",
+    "English",
+    "French",
+    "Hebrew",
+    "Polish",
+    "Spanish",
+    "Croatian",
+    "Bulgarian",
+    "Danish",
+    "Finnish",
+    "Hungarian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Russian",
+    "Swedish",
+    "Turkish",
+    "Uyghur",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P18-1142",
+  "acl_url": "https://aclanthology.org/P18-1142/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "CUET_sstm at ArAI Eval Shared Task: Unimodal (Text) Propagandistic Technique Detection Using Transformer-Based Model",
+  "authors": [
+    "Momtazul Arefin Labib",
+    "Samia Rahman",
+    "Hasan Murad",
+    "Udoy Das"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T23 Social Media Processing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.arabicnlp-1.52",
+  "acl_url": "https://aclanthology.org/2024.arabicnlp-1.52/"
+}

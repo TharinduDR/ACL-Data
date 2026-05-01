@@ -1,0 +1,19 @@
+{
+  "title": "Joint Dependency Parsing and Multiword Expression Tokenisation",
+  "authors": [
+    "Alexis Nasr",
+    "Carlos Ramisch",
+    "José Deulofeu",
+    "André Valli"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "P15-1108",
+  "acl_url": "https://aclanthology.org/P15-1108/"
+}

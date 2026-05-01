@@ -1,0 +1,21 @@
+{
+  "title": "Mimicking Word Embeddings using Subword RNNs",
+  "authors": [
+    "Yuval Pinter",
+    "Robert Guthrie",
+    "Jacob Eisenstein"
+  ],
+  "languages": [
+    "English",
+    "Hebrew",
+    "Spanish",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "D17-1010",
+  "acl_url": "https://aclanthology.org/D17-1010/"
+}

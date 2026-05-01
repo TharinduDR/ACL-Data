@@ -1,0 +1,19 @@
+{
+  "title": "QUESPA Submission for the IWSLT 2024: Dialectal and Low-resource Speech Translation Task",
+  "authors": [
+    "John E. Ortega",
+    "Rodolfo Zevallos",
+    "William Chen",
+    "Ibrahim Said Ahmad"
+  ],
+  "languages": [
+    "Quechua",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.iwslt-1.17",
+  "acl_url": "https://aclanthology.org/2024.iwslt-1.17/"
+}

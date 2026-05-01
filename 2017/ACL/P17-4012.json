@@ -1,0 +1,26 @@
+{
+  "title": "OpenNMT: Open-Source Toolkit for Neural Machine Translation",
+  "authors": [
+    "Guillaume Klein",
+    "Yoon Kim",
+    "Yuntian Deng",
+    "Jean Senellart",
+    "Alexander M. Rush"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "P17-4012",
+  "acl_url": "https://aclanthology.org/P17-4012/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "MORSE: Semantic-ally Drive-n MORpheme SEgment-er",
+  "authors": [
+    "Tarek Sakakini",
+    "Suma Bhat",
+    "Pramod Viswanath"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "P17-1051",
+  "acl_url": "https://aclanthology.org/P17-1051/"
+}

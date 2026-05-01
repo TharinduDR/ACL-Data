@@ -1,0 +1,29 @@
+{
+  "title": "HW-TSC's Speech to Text Translation System for IWSLT 2024 in Indic track",
+  "authors": [
+    "Bin Wei",
+    "Zongyao Li",
+    "Jiaxin Guo",
+    "Daimeng Wei",
+    "Zhanglin Wu",
+    "Xiaoyu Chen",
+    "Zhiqiang Rao",
+    "Shaojun Li",
+    "Yuanchang Luo",
+    "Hengchao Shang",
+    "Hao Yang",
+    "Yanfei Jiang"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Tamil",
+    "Bengali"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.iwslt-1.8",
+  "acl_url": "https://aclanthology.org/2024.iwslt-1.8/"
+}

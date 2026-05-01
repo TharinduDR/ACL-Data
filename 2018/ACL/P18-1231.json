@@ -1,0 +1,20 @@
+{
+  "title": "Bilingual Sentiment Embeddings: Joint Projection of Sentiment Across Languages",
+  "authors": [
+    "Jeremy Barnes",
+    "Roman Klinger",
+    "Sabine Schulte im Walde"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Catalan",
+    "Basque"
+  ],
+  "research_areas": [
+    "T16",
+    "T20"
+  ],
+  "paper_id": "P18-1231",
+  "acl_url": "https://aclanthology.org/P18-1231/"
+}

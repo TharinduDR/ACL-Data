@@ -1,0 +1,22 @@
+{
+  "title": "Compact Personalized Models for Neural Machine Translation",
+  "authors": [
+    "Joern Wuebker",
+    "Patrick Simianer",
+    "John DeNero"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Chinese",
+    "Persian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "D18-1104",
+  "acl_url": "https://aclanthology.org/D18-1104/"
+}

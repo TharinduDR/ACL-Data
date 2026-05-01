@@ -1,0 +1,21 @@
+{
+  "title": "CL Scholar: The ACL Anthology Knowledge Graph Miner",
+  "authors": [
+    "Mayank Singh",
+    "Pradeep Dogga",
+    "Sohan Patro",
+    "Dhiraj Barnwal",
+    "Ritam Dutt",
+    "Rajarshi Haldar",
+    "Pawan Goyal",
+    "Animesh Mukherjee"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "N18-5004",
+  "acl_url": "https://aclanthology.org/N18-5004/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "A Neural Lemmatizer for Bengali",
+  "authors": [
+    "Abhisek Chakrabarty",
+    "Akshay Chaturvedi",
+    "Utpal Garain"
+  ],
+  "languages": [
+    "Bengali"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L16-1406",
+  "acl_url": "https://aclanthology.org/L16-1406/"
+}

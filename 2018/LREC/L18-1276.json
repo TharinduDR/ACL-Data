@@ -1,0 +1,22 @@
+{
+  "title": "Building an Ellipsis-aware Chinese Dependency Treebank for Web Text",
+  "authors": [
+    "Xuancheng Ren",
+    "Xu Sun",
+    "Ji Wen",
+    "Bingzhen Wei",
+    "Weidong Zhan",
+    "Zhiyuan Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "L18-1276",
+  "acl_url": "https://aclanthology.org/L18-1276/"
+}

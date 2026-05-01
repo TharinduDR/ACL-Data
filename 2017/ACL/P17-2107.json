@@ -1,0 +1,40 @@
+{
+  "title": "How (not) to train a dependency parser: The curious case of jackknifing part-of-speech taggers",
+  "authors": [
+    "Željko Agić",
+    "Natalie Schluter"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Czech",
+    "Danish",
+    "German",
+    "Greek",
+    "English",
+    "Spanish",
+    "Estonian",
+    "Persian",
+    "Finnish",
+    "French",
+    "Hebrew",
+    "Hindi",
+    "Croatian",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Dutch",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Slovene",
+    "Swedish",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P17-2107",
+  "acl_url": "https://aclanthology.org/P17-2107/"
+}

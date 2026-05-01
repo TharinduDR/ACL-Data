@@ -1,0 +1,24 @@
+{
+  "title": "Training Hybrid Language Models by Marginalizing over Segmentations",
+  "authors": [
+    "Edouard Grave",
+    "Sainbayar Sukhbaatar",
+    "Piotr Bojanowski",
+    "Armand Joulin"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "English",
+    "Spanish",
+    "Finnish",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "P19-1143",
+  "acl_url": "https://aclanthology.org/P19-1143/"
+}

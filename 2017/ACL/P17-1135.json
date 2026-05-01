@@ -1,0 +1,20 @@
+{
+  "title": "Weakly Supervised Cross-Lingual Named Entity Recognition via Effective Annotation and Representation Projection",
+  "authors": [
+    "Jian Ni",
+    "Georgiana Dinu",
+    "Radu Florian"
+  ],
+  "languages": [
+    "Japanese",
+    "Korean",
+    "German",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P17-1135",
+  "acl_url": "https://aclanthology.org/P17-1135/"
+}

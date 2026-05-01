@@ -1,0 +1,20 @@
+{
+  "title": "Implicit Discourse Relation Detection via a Deep Architecture with Gated Relevance Network",
+  "authors": [
+    "Jifan Chen",
+    "Qi Zhang",
+    "Pengfei Liu",
+    "Xipeng Qiu",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T05 Discourse and Pragmatics",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "P16-1163",
+  "acl_url": "https://aclanthology.org/P16-1163/"
+}

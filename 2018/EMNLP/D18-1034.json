@@ -1,0 +1,23 @@
+{
+  "title": "Neural Cross-Lingual Named Entity Recognition with Minimal Resources",
+  "authors": [
+    "Jiateng Xie",
+    "Zhilin Yang",
+    "Graham Neubig",
+    "Noah A. Smith",
+    "Jaime Carbonell"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Dutch",
+    "German",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T11",
+    "T16"
+  ],
+  "paper_id": "D18-1034",
+  "acl_url": "https://aclanthology.org/D18-1034/"
+}

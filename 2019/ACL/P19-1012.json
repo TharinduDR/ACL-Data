@@ -1,0 +1,23 @@
+{
+  "title": "The (Non-)Utility of Structural Features in BiLSTM-based Dependency Parsers",
+  "authors": [
+    "Agnieszka Falenska",
+    "Jonas Kuhn"
+  ],
+  "languages": [
+    "Ancient Greek",
+    "Arabic",
+    "Chinese",
+    "English",
+    "Finnish",
+    "Hebrew",
+    "Korean",
+    "Russian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P19-1012",
+  "acl_url": "https://aclanthology.org/P19-1012/"
+}

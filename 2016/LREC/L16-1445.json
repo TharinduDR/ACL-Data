@@ -1,0 +1,42 @@
+{
+  "title": "European Union Language Resources in Sketch Engine",
+  "authors": [
+    "Vít Baisa",
+    "Jan Michelfeit",
+    "Marek Medved",
+    "Miloš Jakubíček"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Danish",
+    "English",
+    "Greek",
+    "Portuguese",
+    "Spanish",
+    "Finnish",
+    "Swedish",
+    "Czech",
+    "Estonian",
+    "Hungarian",
+    "Latvian",
+    "Lithuanian",
+    "Maltese",
+    "Polish",
+    "Slovak",
+    "Slovenian",
+    "Bulgarian",
+    "Irish",
+    "Romanian",
+    "Croatian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "L16-1445",
+  "acl_url": "https://aclanthology.org/L16-1445/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Monotonic Infinite Lookback Attention for Simultaneous Machine Translation",
+  "authors": [
+    "Naveen Arivazhagan",
+    "Colin Cherry",
+    "Wolfgang Macherey",
+    "Chung-Cheng Chiu",
+    "Semih Yavuz",
+    "Ruoming Pang",
+    "Wei Li",
+    "Colin Raffel"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P19-1126",
+  "acl_url": "https://aclanthology.org/P19-1126/"
+}

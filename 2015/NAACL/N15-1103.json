@@ -1,0 +1,20 @@
+{
+  "title": "Continuous Adaptation to User Feedback for Statistical Machine Translation",
+  "authors": [
+    "Frédéric Blain",
+    "Fethi Bougares",
+    "Amir Hazem",
+    "Loïc Barrault",
+    "Holger Schwenk"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "N15-1103",
+  "acl_url": "https://aclanthology.org/N15-1103/"
+}

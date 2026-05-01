@@ -1,0 +1,19 @@
+{
+  "title": "SUM-QE: a BERT-based Summary Quality Estimation Model",
+  "authors": [
+    "Stratos Xenouleas",
+    "Prodromos Malakasiotis",
+    "Marianna Apidianaki",
+    "Ion Androutsopoulos"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "D19-1618",
+  "acl_url": "https://aclanthology.org/D19-1618/"
+}

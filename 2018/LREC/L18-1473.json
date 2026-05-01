@@ -1,0 +1,31 @@
+{
+  "title": "BPEmb: Tokenization-free Pre-trained Subword Embeddings in 275 Languages",
+  "authors": [
+    "Benjamin Heinzerling",
+    "Michael Strube"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "French",
+    "Spanish",
+    "Chinese",
+    "Japanese",
+    "Tibetan",
+    "Burmese",
+    "Vietnamese",
+    "Khmer",
+    "Thai",
+    "Lao",
+    "Malay",
+    "Tagalog"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "L18-1473",
+  "acl_url": "https://aclanthology.org/L18-1473/"
+}

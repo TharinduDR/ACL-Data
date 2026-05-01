@@ -1,0 +1,53 @@
+{
+  "title": "UDPipe: Trainable Pipeline for Processing CoNLL-U Files Performing Tokenization, Morphological Analysis, POS Tagging and Parsing",
+  "authors": [
+    "Milan Straka",
+    "Jan Hajič",
+    "Jana Straková"
+  ],
+  "languages": [
+    "Czech",
+    "English",
+    "Finnish",
+    "Slovenian",
+    "Tamil",
+    "Ancient Greek",
+    "Arabic",
+    "Basque",
+    "Bulgarian",
+    "Croatian",
+    "Danish",
+    "Dutch",
+    "Estonian",
+    "French",
+    "German",
+    "Gothic",
+    "Greek",
+    "Hebrew",
+    "Hindi",
+    "Hungarian",
+    "Indonesian",
+    "Irish",
+    "Italian",
+    "Japanese-KTC",
+    "Latin",
+    "Latin-IT",
+    "Latin-PROIEL",
+    "Norwegian",
+    "Old Church Slavonic",
+    "Persian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Slovenian",
+    "Spanish",
+    "Swedish",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L16-1680",
+  "acl_url": "https://aclanthology.org/L16-1680/"
+}

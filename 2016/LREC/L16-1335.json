@@ -1,0 +1,34 @@
+{
+  "title": "Wikipedia Titles as Noun Tag Predictors",
+  "authors": [
+    "Armin Hoenen"
+  ],
+  "languages": [
+    "English",
+    "Persian",
+    "Japanese",
+    "Cree",
+    "Inuktitut",
+    "Nauruan",
+    "Tok Pisin",
+    "Nahuatl",
+    "Swahili",
+    "Javanese",
+    "Latin",
+    "Volapük",
+    "Azeri",
+    "Malayalam",
+    "Georgian",
+    "Basque",
+    "Hungarian",
+    "Arabic",
+    "Mandarin",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L16-1335",
+  "acl_url": "https://aclanthology.org/L16-1335/"
+}

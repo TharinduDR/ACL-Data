@@ -1,0 +1,32 @@
+{
+  "title": "Cross-lingual, Character-Level Neural Morphological Tagging",
+  "authors": [
+    "Ryan Cotterell",
+    "Georg Heigold"
+  ],
+  "languages": [
+    "Catalan",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Spanish",
+    "Danish",
+    "Norwegian",
+    "Swedish",
+    "Bulgarian",
+    "Czech",
+    "Polish",
+    "Russian",
+    "Slovak",
+    "Ukrainian",
+    "Estonian",
+    "Finnish",
+    "Hungarian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D17-1078",
+  "acl_url": "https://aclanthology.org/D17-1078/"
+}

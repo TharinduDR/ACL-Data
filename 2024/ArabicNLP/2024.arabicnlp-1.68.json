@@ -1,0 +1,26 @@
+{
+  "title": "GroningenAnnotatesGaza at the FIGNEWS 2024 Shared Task: Analyzing Bias in Conflict Narratives",
+  "authors": [
+    "Khalid Al Khatab",
+    "Sara Gemelli",
+    "Saskia J. Heisterborg",
+    "Pritha Majumdar",
+    "Gosse Minnema",
+    "Arianna Muti",
+    "Noa Visser Solissa"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Hebrew",
+    "French",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2024.arabicnlp-1.68",
+  "acl_url": "https://aclanthology.org/2024.arabicnlp-1.68/"
+}

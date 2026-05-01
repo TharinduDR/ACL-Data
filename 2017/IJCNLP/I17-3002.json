@@ -1,0 +1,43 @@
+{
+  "title": "CADET: Computer Assisted Discovery Extraction and Translation",
+  "authors": [
+    "Benjamin Van Durme",
+    "Tom Lippincott",
+    "Kevin Duh",
+    "Deana Burchfield",
+    "Adam Poliak",
+    "Cash Costello",
+    "Tim Finin",
+    "Scott Miller",
+    "James Mayfield",
+    "Philipp Koehn",
+    "Craig Harman",
+    "Dawn Lawrie",
+    "Chandler May",
+    "Max Thomas",
+    "Annabelle Carrell",
+    "Julianne Chaloux",
+    "Tongfei Chen",
+    "Alex Comerford",
+    "Mark Dredze",
+    "Benjamin Glass",
+    "Shudong Hao",
+    "Patrick Martin",
+    "Pushpendre Rastogi",
+    "Rashmi Sankepally",
+    "Travis Wolfe",
+    "Ying-Ying Tran",
+    "Ted Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "I17-3002",
+  "acl_url": "https://aclanthology.org/I17-3002/"
+}

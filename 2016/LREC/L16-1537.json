@@ -1,0 +1,20 @@
+{
+  "title": "TEG-REP: A Corpus of Textual Entailment Graphs based on Relation Extraction Patterns",
+  "authors": [
+    "Kathrin Eichler",
+    "Feiyu Xu",
+    "Hans Uszkoreit",
+    "Leonhard Hennig",
+    "Sebastian Krause"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "L16-1537",
+  "acl_url": "https://aclanthology.org/L16-1537/"
+}

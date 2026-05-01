@@ -1,0 +1,26 @@
+{
+  "title": "Parser Training with Heterogeneous Treebanks",
+  "authors": [
+    "Sara Stymne",
+    "Miryam de Lhoneux",
+    "Aaron Smith",
+    "Joakim Nivre"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Czech"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "P18-2098",
+  "acl_url": "https://aclanthology.org/P18-2098/"
+}

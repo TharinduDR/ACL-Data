@@ -1,0 +1,25 @@
+{
+  "title": "Samsung and University of Edinburgh's System for the IWSLT 2019",
+  "authors": [
+    "Joanna Wetesko",
+    "Marcin Chochoński",
+    "Paweł Przybyś",
+    "Philip Williams",
+    "Roman Grundkiewicz",
+    "Rico Sennrich",
+    "Barry Haddow",
+    "Antonio Valerio Miceli Barone",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "English",
+    "Czech"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2019.iwslt-1.9",
+  "acl_url": "https://aclanthology.org/2019.iwslt-1.9/"
+}

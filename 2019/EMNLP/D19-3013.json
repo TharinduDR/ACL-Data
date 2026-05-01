@@ -1,0 +1,25 @@
+{
+  "title": "FAMULUS: Interactive Annotation and Feedback Generation for Teaching Diagnostic Reasoning",
+  "authors": [
+    "Jonas Pfeiffer",
+    "Christian M. Meyer",
+    "Claudia Schulz",
+    "Jan Kiesewetter",
+    "Jan Zottmann",
+    "Michael Sailer",
+    "Elisabeth Bauer",
+    "Frank Fischer",
+    "Martin R. Fischer",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "D19-3013",
+  "acl_url": "https://aclanthology.org/D19-3013/"
+}

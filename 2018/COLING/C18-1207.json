@@ -1,0 +1,20 @@
+{
+  "title": "A LSTM Approach with Sub-word Embeddings for Mongolian Phrase Break Prediction",
+  "authors": [
+    "Rui Liu",
+    "Feilong Bao",
+    "Guanglai Gao",
+    "Hui Zhang",
+    "Yonghe Wang"
+  ],
+  "languages": [
+    "Mongolian",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "C18-1207",
+  "acl_url": "https://aclanthology.org/C18-1207/"
+}

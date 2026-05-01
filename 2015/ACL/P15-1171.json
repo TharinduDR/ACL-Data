@@ -1,0 +1,19 @@
+{
+  "title": "Inducing Word and Part-of-Speech with Pitman-Yor Hidden Semi-Markov Models",
+  "authors": [
+    "Kei Uchiumi",
+    "Hiroshi Tsukahara",
+    "Daichi Mochihashi"
+  ],
+  "languages": [
+    "Japanese",
+    "Chinese",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P15-1171",
+  "acl_url": "https://aclanthology.org/P15-1171/"
+}

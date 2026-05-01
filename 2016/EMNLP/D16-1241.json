@@ -1,0 +1,20 @@
+{
+  "title": "Who did What: A Large-Scale Person-Centered Cloze Dataset",
+  "authors": [
+    "Takeshi Onishi",
+    "Hai Wang",
+    "Mohit Bansal",
+    "Kevin Gimpel",
+    "David McAllester"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "D16-1241",
+  "acl_url": "https://aclanthology.org/D16-1241/"
+}

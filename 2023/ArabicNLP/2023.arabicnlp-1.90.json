@@ -1,0 +1,19 @@
+{
+  "title": "Alex-U 2023 NLP at WojoondNER shared task: AraBINDER (Bi-Encoder for Arabic Named Entity Recognition)",
+  "authors": [
+    "Mariam Hussein",
+    "Sarah Khaled",
+    "Marwan Torki",
+    "Nagwa El-Makky"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.arabicnlp-1.90",
+  "acl_url": "https://aclanthology.org/2023.arabicnlp-1.90/"
+}

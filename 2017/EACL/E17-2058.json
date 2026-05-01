@@ -1,0 +1,19 @@
+{
+  "title": "Neural Machine Translation by Minimising the Bayes-risk with Respect to Syntactic Translation Lattices",
+  "authors": [
+    "Felix Stahlberg",
+    "Adrià de Gispert",
+    "Eva Hasler",
+    "Bill Byrne"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "E17-2058",
+  "acl_url": "https://aclanthology.org/E17-2058/"
+}

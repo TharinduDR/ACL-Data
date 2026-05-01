@@ -1,0 +1,28 @@
+{
+  "title": "Creating Large-Scale Multilingual Cognate Tables",
+  "authors": [
+    "Winston Wu",
+    "David Yarowsky"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Spanish",
+    "Portuguese",
+    "Catalan",
+    "Romanian",
+    "Turkish",
+    "Azerbaijani",
+    "Kazakh",
+    "Uyghur",
+    "Tatar",
+    "Uzbek"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "L18-1538",
+  "acl_url": "https://aclanthology.org/L18-1538/"
+}

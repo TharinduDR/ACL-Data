@@ -1,0 +1,21 @@
+{
+  "title": "End-to-End Offline Speech Translation System for IWSLT 2020 using Modality Agnostic Meta-Learning",
+  "authors": [
+    "Nikhil Kumar Lakumarapu",
+    "Beomseok Lee",
+    "Sathish Indurthi",
+    "Houjeung Han",
+    "Mohd Abbas Zaidi",
+    "Sangha Kim"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16",
+    "T24"
+  ],
+  "paper_id": "2020.iwslt-1.7",
+  "acl_url": "https://aclanthology.org/2020.iwslt-1.7/"
+}

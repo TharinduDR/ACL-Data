@@ -1,0 +1,20 @@
+{
+  "title": "SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation",
+  "authors": [
+    "Xinyi Wang",
+    "Hieu Pham",
+    "Zihang Dai",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "D18-1100",
+  "acl_url": "https://aclanthology.org/D18-1100/"
+}

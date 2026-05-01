@@ -1,0 +1,22 @@
+{
+  "title": "UZH at CoNLL-SIGMORPHON 2018 Shared Task on Universal Morphological Reinflection",
+  "authors": [
+    "Peter Makarov",
+    "Simon Clematide"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "German",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K18-3008",
+  "acl_url": "https://aclanthology.org/K18-3008/"
+}

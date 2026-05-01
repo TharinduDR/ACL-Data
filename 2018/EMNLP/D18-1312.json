@@ -1,0 +1,25 @@
+{
+  "title": "A Framework for Understanding the Role of Morphology in Universal Dependency Parsing",
+  "authors": [
+    "Mathieu Dehouck",
+    "Pascal Denis"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Finnish",
+    "French",
+    "Gothic",
+    "Hebrew",
+    "Hungarian",
+    "Romanian",
+    "Swedish",
+    "Estonian",
+    "Danish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D18-1312",
+  "acl_url": "https://aclanthology.org/D18-1312/"
+}

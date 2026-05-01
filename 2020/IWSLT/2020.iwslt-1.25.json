@@ -1,0 +1,25 @@
+{
+  "title": "ELITR Non-Native Speech Translation at IWSLT 2020",
+  "authors": [
+    "Dominik Macháček",
+    "Jonáš Kratochvíl",
+    "Sangeet Sagar",
+    "Matúš Žilínek",
+    "Ondřej Bojar",
+    "Thai-Son Nguyen",
+    "Felix Schneider",
+    "Philip Williams",
+    "Yuekun Yao"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.iwslt-1.25",
+  "acl_url": "https://aclanthology.org/2020.iwslt-1.25/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Distilling an Ensemble of Greedy Dependency Parsers into One MST Parser",
+  "authors": [
+    "Adhiguna Kuncoro",
+    "Miguel Ballesteros",
+    "Lingpeng Kong",
+    "Chris Dyer",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D16-1180",
+  "acl_url": "https://aclanthology.org/D16-1180/"
+}

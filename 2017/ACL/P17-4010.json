@@ -1,0 +1,28 @@
+{
+  "title": "Life-iNet: A Structured Network-Based Knowledge Exploration and Analytics System for Life Sciences",
+  "authors": [
+    "Xiang Ren",
+    "Jiaming Shen",
+    "Meng Qu",
+    "Xuan Wang",
+    "Zeiqu Wu",
+    "Qi Zhu",
+    "Meng Jiang",
+    "Fangbo Tao",
+    "Saurabh Sinha",
+    "David Liem",
+    "Peipei Ping",
+    "Richard Weinshilboum",
+    "Jiawei Han"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "P17-4010",
+  "acl_url": "https://aclanthology.org/P17-4010/"
+}

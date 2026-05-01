@@ -1,0 +1,20 @@
+{
+  "title": "Multilingual Unsupervised NMT using Shared Encoder and Language-Specific Decoders",
+  "authors": [
+    "Sukanta Sen",
+    "Kamal Kumar Gupta",
+    "Asif Ekbal",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P19-1297",
+  "acl_url": "https://aclanthology.org/P19-1297/"
+}

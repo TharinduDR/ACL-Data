@@ -1,0 +1,27 @@
+{
+  "title": "Fast Prototyping a Dialogue Comprehension System for Nurse-Patient Conversations on Symptom Monitoring",
+  "authors": [
+    "Zhengyuan Liu",
+    "Hazel Lim",
+    "Nur Farah Ain Binte Suhaimi",
+    "Shao Chuen Tong",
+    "Sharon Ong",
+    "Angela Ng",
+    "Sheldon Lee",
+    "Michael R. Macdonald",
+    "Savitha Ramasamy",
+    "Pavitra Krishnaswamy",
+    "Wai Leng Chow",
+    "Nancy F. Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "N19-2004",
+  "acl_url": "https://aclanthology.org/N19-2004/"
+}

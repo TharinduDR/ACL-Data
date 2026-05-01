@@ -1,0 +1,29 @@
+{
+  "title": "Multilingual Information Extraction with POLYGLOTIE",
+  "authors": [
+    "Alan Akbik",
+    "Laura Chiticariu",
+    "Marina Danilevsky",
+    "Yonas K Brom",
+    "Yunyao Li",
+    "Huaiyu Zhu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Japanese",
+    "Chinese",
+    "Arabic",
+    "Russian",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "C16-2056",
+  "acl_url": "https://aclanthology.org/C16-2056/"
+}

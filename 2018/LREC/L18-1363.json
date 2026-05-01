@@ -1,0 +1,27 @@
+{
+  "title": "Building a TOCFL Learner Corpus for Chinese Grammatical Error Diagnosis",
+  "authors": [
+    "Lung-Hao Lee",
+    "Yuen-Hsien Tseng",
+    "Li-Ping Chang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Japanese",
+    "Korean",
+    "Vietnamese",
+    "Indonesian",
+    "Russian",
+    "German",
+    "French",
+    "Spanish",
+    "Thai"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "L18-1363",
+  "acl_url": "https://aclanthology.org/L18-1363/"
+}

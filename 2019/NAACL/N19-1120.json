@@ -1,0 +1,21 @@
+{
+  "title": "Extract and Edit: An Alternative to Back-Translation for Unsupervised Neural Machine Translation",
+  "authors": [
+    "Jiawei Wu",
+    "Xin Wang",
+    "William Yang Wang"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "N19-1120",
+  "acl_url": "https://aclanthology.org/N19-1120/"
+}

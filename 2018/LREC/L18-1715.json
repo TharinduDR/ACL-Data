@@ -1,0 +1,17 @@
+{
+  "title": "Test Sets for Chinese Nonlocal Dependency Parsing",
+  "authors": [
+    "Manjuan Duan",
+    "William Schuler"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "L18-1715",
+  "acl_url": "https://aclanthology.org/L18-1715/"
+}

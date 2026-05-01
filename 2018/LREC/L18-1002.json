@@ -1,0 +1,22 @@
+{
+  "title": "Evaluating Domain Adaptation for Machine Translation Across Scenarios",
+  "authors": [
+    "Thierry Etchegoyhen",
+    "Anna Fernández Torné",
+    "Andoni Azpeitia",
+    "Eva Martínez Garcia",
+    "Anna Matamala"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "L18-1002",
+  "acl_url": "https://aclanthology.org/L18-1002/"
+}

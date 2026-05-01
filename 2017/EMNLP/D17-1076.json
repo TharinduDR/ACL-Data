@@ -1,0 +1,35 @@
+{
+  "title": "Do LSTMs really work so well for PoS tagging? – A replication study",
+  "authors": [
+    "Tobias Horsmann",
+    "Torsten Zesch"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Dutch",
+    "Icelandic",
+    "Norwegian",
+    "Swedish",
+    "Portuguese",
+    "French",
+    "Italian",
+    "Spanish",
+    "Croatian",
+    "Czech",
+    "Polish",
+    "Russian",
+    "Slovak",
+    "Slovene",
+    "Afrikaans",
+    "Finnish",
+    "Hebrew",
+    "Hungarian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "D17-1076",
+  "acl_url": "https://aclanthology.org/D17-1076/"
+}

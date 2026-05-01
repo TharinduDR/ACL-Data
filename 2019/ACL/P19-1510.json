@@ -1,0 +1,20 @@
+{
+  "title": "NNE: A Dataset for Nested Named Entity Recognition in English Newswire",
+  "authors": [
+    "Nicky Ringland",
+    "Xiang Dai",
+    "Ben Hachey",
+    "Sarvnaz Karimi",
+    "Cecile Paris",
+    "James R. Curran"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "P19-1510",
+  "acl_url": "https://aclanthology.org/P19-1510/"
+}

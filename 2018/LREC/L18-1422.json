@@ -1,0 +1,20 @@
+{
+  "title": "FooTweets: A Bilingual Parallel Corpus of World Cup Tweets",
+  "authors": [
+    "Henny Sluyter-Gäthje",
+    "Pintu Lohar",
+    "Haithem Afli",
+    "Andy Way"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "L18-1422",
+  "acl_url": "https://aclanthology.org/L18-1422/"
+}

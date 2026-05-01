@@ -1,0 +1,26 @@
+{
+  "title": "ON-TRAC' systems for the IWSLT 2021 low-resource speech translation and multilingual speech translation shared tasks",
+  "authors": [
+    "Hang Le",
+    "Florentin Barbier",
+    "Ha Nguyen",
+    "Natalia Tomashenko",
+    "Salima Mdhaffar",
+    "Souhir Gahbiche",
+    "Fethi Bougares",
+    "Benjamin Lecouteux",
+    "Didier Schwab",
+    "Yannick Estève"
+  ],
+  "languages": [
+    "Swahili",
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2021.iwslt-1.20",
+  "acl_url": "https://aclanthology.org/2021.iwslt-1.20/"
+}

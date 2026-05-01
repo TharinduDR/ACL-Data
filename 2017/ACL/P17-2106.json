@@ -1,0 +1,23 @@
+{
+  "title": "Character Composition Model with Convolutional Neural Networks for Dependency Parsing on Morphologically Rich Languages",
+  "authors": [
+    "Xiang Yu",
+    "Ngoc Thang Vu"
+  ],
+  "languages": [
+    "Arabic",
+    "Basque",
+    "French",
+    "German",
+    "Hebrew",
+    "Hungarian",
+    "Korean",
+    "Polish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P17-2106",
+  "acl_url": "https://aclanthology.org/P17-2106/"
+}

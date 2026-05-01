@@ -1,0 +1,25 @@
+{
+  "title": "Automated Paraphrase Lattice Creation for HyTER Machine Translation Evaluation",
+  "authors": [
+    "Marianna Apidianaki",
+    "Guillaume Wisniewski",
+    "Anne Cocos",
+    "Chris Callison-Burch"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "German",
+    "Finnish",
+    "Romanian",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "N18-2077",
+  "acl_url": "https://aclanthology.org/N18-2077/"
+}

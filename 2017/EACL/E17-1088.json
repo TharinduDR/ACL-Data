@@ -1,0 +1,37 @@
+{
+  "title": "Cross-Linguual Word Embeddings for Low-Resource Language Modeling",
+  "authors": [
+    "Oliver Adams",
+    "Adam Makarucha",
+    "Graham Neubig",
+    "Steven Bird",
+    "Trevor Cohn"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Finnish",
+    "Spanish",
+    "Japanese",
+    "Dutch",
+    "Greek",
+    "Italian",
+    "Serbian",
+    "Portuguese",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "E17-1088",
+  "acl_url": "https://aclanthology.org/E17-1088/"
+}

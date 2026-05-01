@@ -1,0 +1,25 @@
+{
+  "title": "Cross-Lingual Named Entity Recognition via Wikification",
+  "authors": [
+    "Chen-Tse Tsai",
+    "Stephen Mayhew",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Dutch",
+    "Turkish",
+    "Tagalog",
+    "Yoruba",
+    "Bengali",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "K16-1022",
+  "acl_url": "https://aclanthology.org/K16-1022/"
+}

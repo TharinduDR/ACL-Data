@@ -1,0 +1,27 @@
+{
+  "title": "Very-large Scale Parsing and Normalization of Wiktionary Morphological Paradigms",
+  "authors": [
+    "Christo Kirov",
+    "John Sylak-Glassman",
+    "Roger Que",
+    "David Yarowsky"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Arabic",
+    "Finnish",
+    "Georgian",
+    "Russian",
+    "Turkish",
+    "Navajo"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L16-1498",
+  "acl_url": "https://aclanthology.org/L16-1498/"
+}

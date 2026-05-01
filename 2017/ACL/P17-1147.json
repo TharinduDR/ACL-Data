@@ -1,0 +1,18 @@
+{
+  "title": "TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension",
+  "authors": [
+    "Mandar Joshi",
+    "Eunsol Choi",
+    "Daniel S. Weld",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "P17-1147",
+  "acl_url": "https://aclanthology.org/P17-1147/"
+}

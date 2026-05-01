@@ -1,0 +1,21 @@
+{
+  "title": "Parser Self-Training for Syntax-Based Machine Translation",
+  "authors": [
+    "Makoto Morishita",
+    "Koichi Akabe",
+    "Yuto Hatakoshi",
+    "Graham Neubig",
+    "Koichiro Yoshino",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16",
+    "T21"
+  ],
+  "paper_id": "2015.iwslt-papers.16",
+  "acl_url": "https://aclanthology.org/2015.iwslt-papers.16/"
+}

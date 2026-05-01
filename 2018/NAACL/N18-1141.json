@@ -1,0 +1,22 @@
+{
+  "title": "Learning to Collaborate for Question Answering and Asking",
+  "authors": [
+    "Duyu Tang",
+    "Nan Duan",
+    "Zhao Yan",
+    "Zhirui Zhang",
+    "Yibo Sun",
+    "Shujie Liu",
+    "Yuanhua Lv",
+    "Ming Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "N18-1141",
+  "acl_url": "https://aclanthology.org/N18-1141/"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "CogNet: a Large-Scale Cognate Database",
+  "authors": [
+    "Khuyagbaatar Batsuren",
+    "Gábor Bella",
+    "Fausto Giunchiglia"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Japanese",
+    "Thai",
+    "Russian",
+    "Hindi",
+    "Bengali",
+    "Greek",
+    "Kashmiri",
+    "Persian",
+    "Tamil",
+    "Ethiopic",
+    "Tibetan",
+    "Korean",
+    "Armenian",
+    "Uyghur",
+    "Khmer",
+    "Telugu",
+    "Odia",
+    "Burmese"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P19-1302",
+  "acl_url": "https://aclanthology.org/P19-1302/"
+}

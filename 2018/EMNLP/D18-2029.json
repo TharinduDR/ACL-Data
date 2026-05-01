@@ -1,0 +1,28 @@
+{
+  "title": "Universal Sentence Encoder for English",
+  "authors": [
+    "Daniel Cer",
+    "Yinfei Yang",
+    "Sheng-yi Kong",
+    "Nan Hua",
+    "Nicole Limtiaco",
+    "Rhomni St. John",
+    "Noah Constant",
+    "Mario Guajardo-Céspedes",
+    "Steve Yuan",
+    "Chris Tar",
+    "Yun-Hsuan Sung",
+    "Brian Strope",
+    "Ray Kurzweil"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "D18-2029",
+  "acl_url": "https://aclanthology.org/D18-2029/"
+}

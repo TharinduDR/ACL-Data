@@ -1,0 +1,32 @@
+{
+  "title": "Extracting Weighted Language Lexicons from Wikipedia",
+  "authors": [
+    "Gregory Grefenstette"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Japanese",
+    "Russian",
+    "Polish",
+    "Swedish",
+    "Dutch",
+    "Chinese",
+    "Italian",
+    "Hungarian",
+    "Finnish",
+    "Ukrainian",
+    "Czech",
+    "Portuguese",
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "L16-1217",
+  "acl_url": "https://aclanthology.org/L16-1217/"
+}

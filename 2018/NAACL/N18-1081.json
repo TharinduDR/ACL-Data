@@ -1,0 +1,18 @@
+{
+  "title": "Supervised Open Information Extraction",
+  "authors": [
+    "Gabriel Stanovsky",
+    "Julian Michael",
+    "Luke Zettlemoyer",
+    "Ido Dagan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N18-1081",
+  "acl_url": "https://aclanthology.org/N18-1081/"
+}

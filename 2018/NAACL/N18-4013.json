@@ -1,0 +1,17 @@
+{
+  "title": "ListOps: A Diagnostic Dataset for Latent Tree Learning",
+  "authors": [
+    "Nikita Nangia",
+    "Samuel R. Bowman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "N18-4013",
+  "acl_url": "https://aclanthology.org/N18-4013/"
+}

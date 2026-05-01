@@ -1,0 +1,26 @@
+{
+  "title": "Evaluating Layers of Representation in Neural Machine Translation on Part-of-Speech and Semantic Tagging Tasks",
+  "authors": [
+    "Yonatan Belinkov",
+    "Lluís Márquez",
+    "Hassan Sajjad",
+    "Nadir Durrani",
+    "Fahim Dalvi",
+    "James Glass"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "French",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "I17-1001",
+  "acl_url": "https://aclanthology.org/I17-1001/"
+}

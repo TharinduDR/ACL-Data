@@ -1,0 +1,19 @@
+{
+  "title": "SemAligner: A Method and Tool for Aligning Chunks with Semantic Relation Types and Semantic Similarity Scores",
+  "authors": [
+    "Nabin Maharjan",
+    "Rajendra Banjade",
+    "Nobal B. Niraula",
+    "Vasile Rus"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "L16-1192",
+  "acl_url": "https://aclanthology.org/L16-1192/"
+}

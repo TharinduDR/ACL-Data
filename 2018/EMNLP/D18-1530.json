@@ -1,0 +1,21 @@
+{
+  "title": "Sanskrit Sandhi Splitting using seq2(seq)²",
+  "authors": [
+    "Rahul Aralikatte",
+    "Neelamadhav Gantayat",
+    "Naveen Panwar",
+    "Anush Sankaran",
+    "Senthil Mani"
+  ],
+  "languages": [
+    "Sanskrit",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "D18-1530",
+  "acl_url": "https://aclanthology.org/D18-1530/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Korean L2 Vocabulary Prediction: Can a Large Annotated Corpus be Used to Train Better Models for Predicting Unknown Words?",
+  "authors": [
+    "Kevin P. Yancey",
+    "Yves Lepage"
+  ],
+  "languages": [
+    "English",
+    "Korean",
+    "Chinese",
+    "Portuguese",
+    "Spanish",
+    "German",
+    "Vietnamese",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T29 NLP for education",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "L18-1068",
+  "acl_url": "https://aclanthology.org/L18-1068/"
+}

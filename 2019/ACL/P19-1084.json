@@ -1,0 +1,20 @@
+{
+  "title": "Don't Take the Premise for Granted: Mitigating Artifacts in Natural Language Inference",
+  "authors": [
+    "Yonatan Belinkov",
+    "Adam Poliak",
+    "Stuart M. Shieber",
+    "Benjamin Van Durme",
+    "Alexander M. Rush"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "P19-1084",
+  "acl_url": "https://aclanthology.org/P19-1084/"
+}

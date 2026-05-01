@@ -1,0 +1,24 @@
+{
+  "title": "Specializing Word Embeddings (for Parsing) by Information Bottleneck",
+  "authors": [
+    "Xiang Lisa Li",
+    "Jason Eisner"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "French",
+    "Hindi",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D19-1276",
+  "acl_url": "https://aclanthology.org/D19-1276/"
+}

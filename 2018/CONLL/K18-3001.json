@@ -1,0 +1,33 @@
+{
+  "title": "The CoNLL-SIGMORPHON 2018 Shared Task: Universal Morphological Reinflection",
+  "authors": [
+    "Ryan Cotterell",
+    "Christo Kirov",
+    "John Sylak-Glassman",
+    "Géraldine Walther",
+    "Ekaterina Vylomova",
+    "Arya D. McCarthy",
+    "Katharina Kann",
+    "Sabrina J. Mielke",
+    "Garrett Nicolai",
+    "Miikka Silfverberg",
+    "David Yarowsky",
+    "Jason Eisner",
+    "Mans Hulden"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K18-3001",
+  "acl_url": "https://aclanthology.org/K18-3001/"
+}

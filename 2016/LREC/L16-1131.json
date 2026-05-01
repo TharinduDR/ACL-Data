@@ -1,0 +1,22 @@
+{
+  "title": "The OnForumS corpus from the Shared Task on Online Forum Summarisation at MultiLing 2015",
+  "authors": [
+    "Mijail Kabadjov",
+    "Udo Kruschwitz",
+    "Massimo Poesio",
+    "Josef Steinberger",
+    "Marc Poch",
+    "Hugo Zaragoza"
+  ],
+  "languages": [
+    "English",
+    "Italian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "L16-1131",
+  "acl_url": "https://aclanthology.org/L16-1131/"
+}

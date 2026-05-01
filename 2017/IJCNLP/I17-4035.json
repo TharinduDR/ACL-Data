@@ -1,0 +1,19 @@
+{
+  "title": "YNU-HPCC at IJCNLP-2017 Task 5: Multi-choice Question Answering in Exams Using an Attention-based LSTM Model",
+  "authors": [
+    "Hang Yuan",
+    "You Zhang",
+    "Jin Wang",
+    "Xuejie Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "I17-4035",
+  "acl_url": "https://aclanthology.org/I17-4035/"
+}

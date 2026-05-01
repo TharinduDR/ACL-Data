@@ -1,0 +1,23 @@
+{
+  "title": "Language Modeling with Sparse Product of Sememe Experts",
+  "authors": [
+    "Yihong Gu",
+    "Jun Yan",
+    "Hao Zhu",
+    "Zhiyuan Liu",
+    "Ruobing Xie",
+    "Maosong Sun",
+    "Fen Lin",
+    "Leyu Lin"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "D18-1493",
+  "acl_url": "https://aclanthology.org/D18-1493/"
+}

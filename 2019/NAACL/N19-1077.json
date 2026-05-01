@@ -1,0 +1,23 @@
+{
+  "title": "Viable Dependency Parsing as Sequence Labeling",
+  "authors": [
+    "Michalina Strzyz",
+    "David Vilares",
+    "Carlos Gómez-Rodríguez"
+  ],
+  "languages": [
+    "English",
+    "Ancient Greek",
+    "Chinese",
+    "Czech",
+    "Finnish",
+    "Hebrew",
+    "Kazakh",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N19-1077",
+  "acl_url": "https://aclanthology.org/N19-1077/"
+}

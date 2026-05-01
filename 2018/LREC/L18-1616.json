@@ -1,0 +1,22 @@
+{
+  "title": "KIT-Multi: A Translation-Oriented Multilingual Embedding Corpus",
+  "authors": [
+    "Thanh-Le Ha",
+    "Jan Niehues",
+    "Matthias Sperber",
+    "Ngoc Quan Pham",
+    "Alexander Waibel"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "L18-1616",
+  "acl_url": "https://aclanthology.org/L18-1616/"
+}

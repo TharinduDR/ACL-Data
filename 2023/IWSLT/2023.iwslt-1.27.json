@@ -1,0 +1,24 @@
+{
+  "title": "Learning Nearest Neighbour Informed Latent Word Embeddings to Improve Zero-Shot Machine Translation",
+  "authors": [
+    "Nishant Kambhatla",
+    "Logan Born",
+    "Anoop Sarkar"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Dutch",
+    "Romanian",
+    "Arabic",
+    "French",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.iwslt-1.27",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.27/"
+}

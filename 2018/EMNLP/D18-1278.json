@@ -1,0 +1,27 @@
+{
+  "title": "What do character-level models learn about morphology? The case of dependency parsing",
+  "authors": [
+    "Clara Vania",
+    "Andreas Grivas",
+    "Adam Lopez"
+  ],
+  "languages": [
+    "Finnish",
+    "Turkish",
+    "Czech",
+    "English",
+    "German",
+    "Hindi",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Urdu",
+    "Arabic",
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D18-1278",
+  "acl_url": "https://aclanthology.org/D18-1278/"
+}

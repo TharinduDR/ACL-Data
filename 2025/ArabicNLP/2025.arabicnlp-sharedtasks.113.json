@@ -1,0 +1,19 @@
+{
+  "title": "Star at PalmX 2025 Shared Task: Arabic Cultural Understanding via Targeted Pretraining and Lightweight Fine-tuning",
+  "authors": [
+    "Eman Elrefai",
+    "Esraa Khaled",
+    "Alhassan Ehab"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.arabicnlp-sharedtasks.113",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-sharedtasks.113/"
+}

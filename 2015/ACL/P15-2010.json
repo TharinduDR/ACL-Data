@@ -1,0 +1,22 @@
+{
+  "title": "Domain-Specific Paraphrase Extraction",
+  "authors": [
+    "Ellie Pavlick",
+    "Juri Ganitkevitch",
+    "Tsz Ping Chan",
+    "Xuchen Yao",
+    "Benjamin Van Durme",
+    "Chris Callison-Burch"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "P15-2010",
+  "acl_url": "https://aclanthology.org/P15-2010/"
+}

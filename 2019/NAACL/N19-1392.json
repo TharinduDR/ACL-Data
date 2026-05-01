@@ -1,0 +1,20 @@
+{
+  "title": "Polyglot Contextual Representations Improve Crosslingual Transfer",
+  "authors": [
+    "Phoebe Mulcaire",
+    "Jungo Kasai",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "N19-1392",
+  "acl_url": "https://aclanthology.org/N19-1392/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "On Using SpecAugment for End-to-End Speech Translation",
+  "authors": [
+    "Parnia Bahar",
+    "Albert Zeyer",
+    "Ralf Schlüter",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T14",
+    "T16",
+    "T24"
+  ],
+  "paper_id": "2019.iwslt-1.22",
+  "acl_url": "https://aclanthology.org/2019.iwslt-1.22/"
+}

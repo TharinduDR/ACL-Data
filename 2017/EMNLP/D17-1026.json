@@ -1,0 +1,21 @@
+{
+  "title": "Learning Paraphrastic Sentence Embeddings from Back-Translated Bitext",
+  "authors": [
+    "John Wieting",
+    "Jonathan Mallinson",
+    "Kevin Gimpel"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Czech"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "D17-1026",
+  "acl_url": "https://aclanthology.org/D17-1026/"
+}

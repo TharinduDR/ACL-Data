@@ -1,0 +1,23 @@
+{
+  "title": "Copenhagen at CoNLL-SIGMORPHON 2018: Multilingual Inflection in Context with Explicit Morphosyntactic Decoding",
+  "authors": [
+    "Yova Kementchedjhieva",
+    "Johannes Bjerva",
+    "Isabelle Augenstein"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Finnish",
+    "French",
+    "Russian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K18-3011",
+  "acl_url": "https://aclanthology.org/K18-3011/"
+}

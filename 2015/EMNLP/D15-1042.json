@@ -1,0 +1,18 @@
+{
+  "title": "Sentence Compression by Deletion with LSTMs",
+  "authors": [
+    "Katja Filippova",
+    "Enrique Alfonseca",
+    "Carlos A. Colmenares",
+    "Lukasz Kaiser",
+    "Oriol Vinyals"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization"
+  ],
+  "paper_id": "D15-1042",
+  "acl_url": "https://aclanthology.org/D15-1042/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Historical Text Normalization with Delayed Rewards",
+  "authors": [
+    "Simon Flachs",
+    "Marcel Bollmann",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hungarian",
+    "Icelandic",
+    "Slovene",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "P19-1157",
+  "acl_url": "https://aclanthology.org/P19-1157/"
+}

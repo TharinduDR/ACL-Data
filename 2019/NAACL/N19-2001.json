@@ -1,0 +1,20 @@
+{
+  "title": "Enabling Real-time Neural IME with Incremental Vocabulary Selection",
+  "authors": [
+    "Jiali Yao",
+    "Raphael Shu",
+    "Xinjian Li",
+    "Katsutoshi Ohtsuki",
+    "Hideki Nakayama"
+  ],
+  "languages": [
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "N19-2001",
+  "acl_url": "https://aclanthology.org/N19-2001/"
+}

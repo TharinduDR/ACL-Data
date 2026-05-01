@@ -1,0 +1,25 @@
+{
+  "title": "Investigating Linguistic Features for Arabic NLI",
+  "authors": [
+    "Yasmeen Bassas",
+    "Sandra Kübler"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Urdu",
+    "Malay",
+    "French",
+    "Fulani",
+    "English",
+    "Yoruba",
+    "Somali",
+    "Tagalog"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.arabicnlp-1.17",
+  "acl_url": "https://aclanthology.org/2024.arabicnlp-1.17/"
+}

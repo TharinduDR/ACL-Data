@@ -1,0 +1,29 @@
+{
+  "title": "The Metalogue Debate Trainee Corpus: Data Collection and Annotations",
+  "authors": [
+    "Volha Petukhova",
+    "Andrei Malchanau",
+    "Youssef Oualil",
+    "Dietrich Klakow",
+    "Saturnino Luz",
+    "Fasih Haider",
+    "Nick Campbell",
+    "Dimitris Koryzis",
+    "Dimitris Spiliotopoulos",
+    "Pierre Albert",
+    "Nicklas Linz",
+    "Jan Alexandersson"
+  ],
+  "languages": [
+    "English",
+    "Greek"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T05 Discourse and Pragmatics",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "L18-1120",
+  "acl_url": "https://aclanthology.org/L18-1120/"
+}

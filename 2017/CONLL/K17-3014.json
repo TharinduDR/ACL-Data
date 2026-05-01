@@ -1,0 +1,41 @@
+{
+  "title": "A Novel Neural Network Model for Joint POS Tagging and Graph-based Dependency Parsing",
+  "authors": [
+    "Dat Quoc Nguyen",
+    "Mark Dras",
+    "Mark Johnson"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Dutch",
+    "English",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Norwegian",
+    "Portuguese",
+    "Swedish",
+    "Turkish",
+    "Chinese",
+    "Czech",
+    "Finnish",
+    "German",
+    "Hungarian",
+    "Korean",
+    "Polish",
+    "Russian",
+    "Serbian",
+    "Slovak",
+    "Slovenian",
+    "Thai",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K17-3014",
+  "acl_url": "https://aclanthology.org/K17-3014/"
+}

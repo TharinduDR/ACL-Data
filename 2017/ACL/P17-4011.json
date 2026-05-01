@@ -1,0 +1,24 @@
+{
+  "title": "Olelo: A Question Answering Application for Biomedicine",
+  "authors": [
+    "Mariana Neves",
+    "Hendrik Folkerts",
+    "Marcel Jankrift",
+    "Julian Niedermeier",
+    "Toni Stachewicz",
+    "Sören Tietböhl",
+    "Milena Kraus",
+    "Matthias Uflacker"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "P17-4011",
+  "acl_url": "https://aclanthology.org/P17-4011/"
+}

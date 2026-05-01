@@ -1,0 +1,18 @@
+{
+  "title": "Cross-lingual Transfer for Unsupervised Dependency Parsing Without Parallel Data",
+  "authors": [
+    "Long Duong",
+    "Trevor Cohn",
+    "Steven Bird",
+    "Paul Cook"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K15-1012",
+  "acl_url": "https://aclanthology.org/K15-1012/"
+}

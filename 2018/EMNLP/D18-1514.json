@@ -1,0 +1,22 @@
+{
+  "title": "FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation",
+  "authors": [
+    "Xu Han",
+    "Hao Zhu",
+    "Pengfei Yu",
+    "Ziyun Wang",
+    "Yuan Yao",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "D18-1514",
+  "acl_url": "https://aclanthology.org/D18-1514/"
+}

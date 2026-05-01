@@ -1,0 +1,22 @@
+{
+  "title": "Frustratingly Easy Cross-Lingual Transfer for Transition-Based Dependency Parsing",
+  "authors": [
+    "Ophélie Lacroix",
+    "Lauriane Aufrant",
+    "Guillaume Wisniewski",
+    "François Yvon"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N16-1121",
+  "acl_url": "https://aclanthology.org/N16-1121/"
+}

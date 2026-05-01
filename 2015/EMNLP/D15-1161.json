@@ -1,0 +1,23 @@
+{
+  "title": "Not All Contexts Are Created Equal: Better Word Representations with Variable Attention",
+  "authors": [
+    "Wang Ling",
+    "Lin Chu-Cheng",
+    "Yulia Tsvetkov",
+    "Silvio Amir",
+    "Ramón Fernandez Astudillo",
+    "Chris Dyer",
+    "Alan W Black",
+    "Isabel Trancoso"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "D15-1161",
+  "acl_url": "https://aclanthology.org/D15-1161/"
+}

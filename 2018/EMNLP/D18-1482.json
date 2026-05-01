@@ -1,0 +1,23 @@
+{
+  "title": "Word Mover's Embedding: From Word2Vec to Document Embedding",
+  "authors": [
+    "Lingfei Wu",
+    "Ian En-Hsu Yen",
+    "Kun Xu",
+    "Fangli Xu",
+    "Avinash Balakrishnan",
+    "Pin-Yu Chen",
+    "Pradeep Ravikumar",
+    "Michael J. Witbrock"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "D18-1482",
+  "acl_url": "https://aclanthology.org/D18-1482/"
+}

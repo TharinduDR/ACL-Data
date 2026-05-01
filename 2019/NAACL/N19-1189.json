@@ -1,0 +1,22 @@
+{
+  "title": "Curriculum Learning for Domain Adaptation in Neural Machine Translation",
+  "authors": [
+    "Xuan Zhang",
+    "Pamela Shapiro",
+    "Gaurav Kumar",
+    "Paul McNamee",
+    "Marine Carpuat",
+    "Kevin Duh"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "N19-1189",
+  "acl_url": "https://aclanthology.org/N19-1189/"
+}

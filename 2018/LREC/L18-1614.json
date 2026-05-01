@@ -1,0 +1,21 @@
+{
+  "title": "Baselines and Test Data for Cross-Lingual Inference",
+  "authors": [
+    "Željko Agić",
+    "Natalie Schluter"
+  ],
+  "languages": [
+    "Arabic",
+    "French",
+    "Spanish",
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "L18-1614",
+  "acl_url": "https://aclanthology.org/L18-1614/"
+}

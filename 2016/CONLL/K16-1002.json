@@ -1,0 +1,20 @@
+{
+  "title": "Generating Sentences from a Continuous Space",
+  "authors": [
+    "Samuel R. Bowman",
+    "Luke Vilnis",
+    "Oriol Vinyals",
+    "Andrew M. Dai",
+    "Rafal Jozefowicz",
+    "Samy Bengio"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "K16-1002",
+  "acl_url": "https://aclanthology.org/K16-1002/"
+}

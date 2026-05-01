@@ -1,0 +1,27 @@
+{
+  "title": "The MITLL-AFRL IWSLT 2015 Systems",
+  "authors": [
+    "Michael Kazi",
+    "Brian Thompson",
+    "Elizabeth Salesky",
+    "Timothy Anderson",
+    "Grant Erdmann",
+    "Eric Hansen",
+    "Brian Ore",
+    "Katherine Young",
+    "Jeremy Gwinnup",
+    "Michael Hutt",
+    "Christina May"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2015.iwslt-evaluation.3",
+  "acl_url": "https://aclanthology.org/2015.iwslt-evaluation.3/"
+}

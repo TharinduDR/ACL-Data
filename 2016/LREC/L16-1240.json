@@ -1,0 +1,16 @@
+{
+  "title": "TLT-CRF: A Lexicon-supported Morphological Tagger for Latin Based on Conditional Random Fields",
+  "authors": [
+    "Tim vor der Brück",
+    "Alexander Mehler"
+  ],
+  "languages": [
+    "Latin"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L16-1240",
+  "acl_url": "https://aclanthology.org/L16-1240/"
+}

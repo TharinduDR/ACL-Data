@@ -1,0 +1,19 @@
+{
+  "title": "FBK@IWSLT Test Suites Task: Gender Bias evaluation with MuST-SHE",
+  "authors": [
+    "Beatrice Savoldi",
+    "Marco Gaido",
+    "Matteo Negri",
+    "Luisa Bentivogli"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.iwslt-1.10",
+  "acl_url": "https://aclanthology.org/2024.iwslt-1.10/"
+}

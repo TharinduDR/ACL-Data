@@ -1,0 +1,21 @@
+{
+  "title": "Stack-Pointer Networks for Dependency Parsing",
+  "authors": [
+    "Xuezhe Ma",
+    "Zecong Hu",
+    "Jingzhou Liu",
+    "Nanyun Peng",
+    "Graham Neubig",
+    "Eduard Hovy"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P18-1130",
+  "acl_url": "https://aclanthology.org/P18-1130/"
+}

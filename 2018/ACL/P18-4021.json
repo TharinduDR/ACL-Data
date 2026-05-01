@@ -1,0 +1,36 @@
+{
+  "title": "DeepPavlov: Open-Source Library for Dialogue Systems",
+  "authors": [
+    "Mikhail Burtsev",
+    "Alexander Seliverstov",
+    "Rafael Airapetyan",
+    "Mikhail Arkhipov",
+    "Dilyara Baymurmzina",
+    "Nickolay Bushkov",
+    "Olga Gureenkova",
+    "Taras Khakhulin",
+    "Yuri Kuratov",
+    "Denis Kuznetsov",
+    "Alexey Litinsky",
+    "Varvara Logacheva",
+    "Alexey Lymar",
+    "Valentin Malykh",
+    "Maxim Petrov",
+    "Vadim Polulyakh",
+    "Leonid Pugachev",
+    "Alexey Sorokin",
+    "Maria Vikhreva",
+    "Marat Zaynutdinov"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "P18-4021",
+  "acl_url": "https://aclanthology.org/P18-4021/"
+}

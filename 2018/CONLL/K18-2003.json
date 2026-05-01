@@ -1,0 +1,27 @@
+{
+  "title": "CEA LIST: Processing low-resource languages for CoNLL 2018 Shared Task",
+  "authors": [
+    "Elie Duthoo",
+    "Olivier Mesnard"
+  ],
+  "languages": [
+    "Breton",
+    "Faroese",
+    "Thai",
+    "Chinese",
+    "Russian",
+    "Hebrew",
+    "French",
+    "Uyghur",
+    "Vietnamese",
+    "Ancient Greek",
+    "Bulgarian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "K18-2003",
+  "acl_url": "https://aclanthology.org/K18-2003/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "CASIA's System for IWSLT 2020 Open Domain Translation",
+  "authors": [
+    "Qian Wang",
+    "Yuchen Liu",
+    "Cong Ma",
+    "Yu Lu",
+    "Yining Wang",
+    "Long Zhou",
+    "Yang Zhao",
+    "Jiajun Zhang",
+    "Chengqing Zong"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.iwslt-1.15",
+  "acl_url": "https://aclanthology.org/2020.iwslt-1.15/"
+}

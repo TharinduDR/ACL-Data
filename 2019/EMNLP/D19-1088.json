@@ -1,0 +1,23 @@
+{
+  "title": "Towards Understanding Neural Machine Translation with Word Importance",
+  "authors": [
+    "Shilin He",
+    "Zhaopeng Tu",
+    "Xing Wang",
+    "Longyue Wang",
+    "Michael R. Lyu",
+    "Shuming Shi"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "D19-1088",
+  "acl_url": "https://aclanthology.org/D19-1088/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Jointly Learning to Embed and Predict with Multiple Languages",
+  "authors": [
+    "Daniel C. Ferreira",
+    "André F. T. Martins",
+    "Mariana S. C. Almeida"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "P16-1190",
+  "acl_url": "https://aclanthology.org/P16-1190/"
+}

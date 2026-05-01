@@ -1,0 +1,22 @@
+{
+  "title": "DePA: Improving Non-autoregressive Machine Translation with Dependency-Aware Decoder",
+  "authors": [
+    "Jiaao Zhan",
+    "Qian Chen",
+    "Boxing Chen",
+    "Wen Wang",
+    "Yu Bai",
+    "Yang Gao"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16",
+    "T14"
+  ],
+  "paper_id": "2023.iwslt-1.47",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.47/"
+}

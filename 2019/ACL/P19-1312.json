@@ -1,0 +1,20 @@
+{
+  "title": "Unsupervised Joint Training of Bilingual Word Embeddings",
+  "authors": [
+    "Benjamin Marie",
+    "Atsushi Fujita"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "P19-1312",
+  "acl_url": "https://aclanthology.org/P19-1312/"
+}

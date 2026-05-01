@@ -1,0 +1,22 @@
+{
+  "title": "Foreebank: Syntactic Analysis of Customer Support Forums",
+  "authors": [
+    "Rasoul Kaljahi",
+    "Jennifer Foster",
+    "Johann Roturier",
+    "Corentin Ribeyre",
+    "Teresa Lynn",
+    "Joseph Le Roux"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "D15-1157",
+  "acl_url": "https://aclanthology.org/D15-1157/"
+}

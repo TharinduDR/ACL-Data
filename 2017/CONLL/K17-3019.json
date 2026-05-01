@@ -1,0 +1,20 @@
+{
+  "title": "Delexicalized transfer parsing for low-resource languages using transformed and combined treebanks",
+  "authors": [
+    "Ayan Das",
+    "Mohammad Affan Zafar",
+    "Sudeshna Sarkar"
+  ],
+  "languages": [
+    "English",
+    "Kurdish",
+    "Sami",
+    "Buryat",
+    "Upper Sorbian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K17-3019",
+  "acl_url": "https://aclanthology.org/K17-3019/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The IWSLT 2016 Evaluation Campaign",
+  "authors": [
+    "M. Cettolo",
+    "J. Niehues",
+    "S. Stüker",
+    "L. Bentivogli",
+    "R. Cattoni",
+    "M. Federico"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Arabic",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2016.iwslt-1.1",
+  "acl_url": "https://aclanthology.org/2016.iwslt-1.1/"
+}

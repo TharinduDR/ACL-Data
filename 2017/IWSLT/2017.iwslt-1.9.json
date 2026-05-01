@@ -1,0 +1,21 @@
+{
+  "title": "The 2017 KIT IWSLT Speech-to-Text Systems for English and German",
+  "authors": [
+    "Thai-Son Nguyen",
+    "Markus Müller",
+    "Matthias Sperber",
+    "Thomas Zenkel",
+    "Sebastian Stüker",
+    "Alex Waibel"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2017.iwslt-1.9",
+  "acl_url": "https://aclanthology.org/2017.iwslt-1.9/"
+}

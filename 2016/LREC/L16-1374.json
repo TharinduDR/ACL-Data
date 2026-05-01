@@ -1,0 +1,17 @@
+{
+  "title": "Universal Dependencies for Persian",
+  "authors": [
+    "Mojgan Seraji",
+    "Filip Ginter",
+    "Joakim Nivre"
+  ],
+  "languages": [
+    "Persian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "L16-1374",
+  "acl_url": "https://aclanthology.org/L16-1374/"
+}

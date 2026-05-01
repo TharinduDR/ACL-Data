@@ -1,0 +1,24 @@
+{
+  "title": "Multi-Source Neural Machine Translation with Data Augmentation",
+  "authors": [
+    "Yuta Nishimura",
+    "Katsuhito Sudoh",
+    "Graham Neubig",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "English",
+    "Croatian",
+    "Serbian",
+    "Slovak",
+    "Czech",
+    "Vietnamese",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2018.iwslt-1.7",
+  "acl_url": "https://aclanthology.org/2018.iwslt-1.7/"
+}

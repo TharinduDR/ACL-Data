@@ -1,0 +1,21 @@
+{
+  "title": "Zero-resource Dependency Parsing: Boosting Delexicalized Cross-lingual Transfer with Linguistic Knowledge",
+  "authors": [
+    "Lauriane Aufrant",
+    "Guillaume Wisniewski",
+    "François Yvon"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Bulgarian",
+    "Hebrew",
+    "Japanese",
+    "Czech"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "C16-1012",
+  "acl_url": "https://aclanthology.org/C16-1012/"
+}

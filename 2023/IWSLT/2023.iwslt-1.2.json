@@ -1,0 +1,29 @@
+{
+  "title": "Evaluating Multilingual Speech Translation Under Realistic Conditions with Resegmentation and Terminology",
+  "authors": [
+    "Elizabeth Salesky",
+    "Kareem Darwish",
+    "Mohamed Al-Badrashiny",
+    "Mona Diab",
+    "Jan Niehues"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Persian",
+    "French",
+    "Japanese",
+    "Dutch",
+    "Portuguese",
+    "Russian",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.iwslt-1.2",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.2/"
+}

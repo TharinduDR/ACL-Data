@@ -1,0 +1,22 @@
+{
+  "title": "Statistical Machine Translation Features with Multitask Tensor Networks",
+  "authors": [
+    "Hendra Setiawan",
+    "Zhongqiang Huang",
+    "Jacob Devlin",
+    "Thomas Lamar",
+    "Rabih Zbib",
+    "Richard Schwartz",
+    "John Makhoul"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P15-1004",
+  "acl_url": "https://aclanthology.org/P15-1004/"
+}

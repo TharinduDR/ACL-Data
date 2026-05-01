@@ -1,0 +1,25 @@
+{
+  "title": "On-line Multilingual Linguistic Services",
+  "authors": [
+    "Eric Wehrli",
+    "Yves Scherrer",
+    "Luka Nerima"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Greek",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "C16-2019",
+  "acl_url": "https://aclanthology.org/C16-2019/"
+}

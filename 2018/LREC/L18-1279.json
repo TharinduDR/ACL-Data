@@ -1,0 +1,21 @@
+{
+  "title": "PoSTWITA-UD: an Italian Twitter Treebank in Universal Dependencies",
+  "authors": [
+    "Manuela Sanguinetti",
+    "Cristina Bosco",
+    "Alberto Lavelli",
+    "Alessandro Mazzei",
+    "Oronzo Antonelli",
+    "Fabio Tamburini"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "L18-1279",
+  "acl_url": "https://aclanthology.org/L18-1279/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Models and Inference for Prefix-Constrained Machine Translation",
+  "authors": [
+    "Joern Wuebker",
+    "Spence Green",
+    "John DeNero",
+    "Saša Hasan",
+    "Minh-Thang Luong"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "P16-1007",
+  "acl_url": "https://aclanthology.org/P16-1007/"
+}

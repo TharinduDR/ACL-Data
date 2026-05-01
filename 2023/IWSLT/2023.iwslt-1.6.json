@@ -1,0 +1,33 @@
+{
+  "title": "KIT's Multilingual Speech Translation System for IWSLT 2023",
+  "authors": [
+    "Danni Liu",
+    "Thai Binh Nguyen",
+    "Sai Koneru",
+    "Enes Yavuz Ugan",
+    "Ngoc-Quan Pham",
+    "Tuan-Nam Nguyen",
+    "Tu Anh Dinh",
+    "Carlos Mullov",
+    "Alexander Waibel",
+    "Jan Niehues"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Dutch",
+    "French",
+    "German",
+    "Japanese",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.iwslt-1.6",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.6/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Template Kernels for Dependency Parsing",
+  "authors": [
+    "Hillel Taub-Tabib",
+    "Yoav Goldberg",
+    "Amir Globerson"
+  ],
+  "languages": [
+    "Arabic",
+    "Slovene",
+    "Danish",
+    "Bulgarian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N15-1163",
+  "acl_url": "https://aclanthology.org/N15-1163/"
+}

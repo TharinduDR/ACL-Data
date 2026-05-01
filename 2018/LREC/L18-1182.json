@@ -1,0 +1,19 @@
+{
+  "title": "JESC: Japanese-English Subtitle Corpus",
+  "authors": [
+    "Reid Pryzant",
+    "Youngjoo Chung",
+    "Dan Jurafsky",
+    "Denny Britz"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "L18-1182",
+  "acl_url": "https://aclanthology.org/L18-1182/"
+}

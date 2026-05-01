@@ -1,0 +1,23 @@
+{
+  "title": "Language adaptation experiments via cross-lingual embeddings for related languages",
+  "authors": [
+    "Serge Sharoff"
+  ],
+  "languages": [
+    "English",
+    "Polish",
+    "Russian",
+    "Czech",
+    "Slovak",
+    "Slovenian",
+    "Hungarian",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "L18-1135",
+  "acl_url": "https://aclanthology.org/L18-1135/"
+}

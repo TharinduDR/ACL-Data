@@ -1,0 +1,33 @@
+{
+  "title": "AntNLP at CoNLL 2018 Shared Task: A Graph-based Parser for Universal Dependency Parsing",
+  "authors": [
+    "Tao Ji",
+    "Yufang Liu",
+    "Yijun Wang",
+    "Yuanbin Wu",
+    "Man Lan"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Uyghur",
+    "Croatian",
+    "Latvian",
+    "Turkish",
+    "Persian",
+    "Hebrew",
+    "Swedish",
+    "Buryat",
+    "Upper_Sorbian",
+    "Armenian",
+    "Kazakh",
+    "Kurmanji",
+    "Irish",
+    "North_Sami"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K18-2025",
+  "acl_url": "https://aclanthology.org/K18-2025/"
+}

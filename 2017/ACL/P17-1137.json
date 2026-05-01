@@ -1,0 +1,23 @@
+{
+  "title": "Learning to Create and Reuse Words in Open-Vocabulary Neural Language Modeling",
+  "authors": [
+    "Kazuya Kawakami",
+    "Chris Dyer",
+    "Phil Blunsom"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Russian",
+    "Czech",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "P17-1137",
+  "acl_url": "https://aclanthology.org/P17-1137/"
+}

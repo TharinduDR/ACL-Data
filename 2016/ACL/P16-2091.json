@@ -1,0 +1,40 @@
+{
+  "title": "Joint part-of-speech and dependency projection from multiple sources",
+  "authors": [
+    "Anders Johannsen",
+    "Željko Agić",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "English",
+    "Estonian",
+    "Farsi",
+    "Finnish",
+    "French",
+    "German",
+    "Greek",
+    "Hebrew",
+    "Hindi",
+    "Hungarian",
+    "Indonesian",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Serbian",
+    "Slovene",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P16-2091",
+  "acl_url": "https://aclanthology.org/P16-2091/"
+}

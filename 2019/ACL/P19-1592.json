@@ -1,0 +1,20 @@
+{
+  "title": "Optimal Transport-based Alignment of Learned Character Representations for String Similarity",
+  "authors": [
+    "Derek Tam",
+    "Nicholas Monath",
+    "Ari Kobren",
+    "Aaron Traylor",
+    "Rajarshi Das",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "P19-1592",
+  "acl_url": "https://aclanthology.org/P19-1592/"
+}

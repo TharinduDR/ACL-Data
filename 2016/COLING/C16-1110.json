@@ -1,0 +1,23 @@
+{
+  "title": "Word2Vec vs DBnary: Augmenting METEOR using Vector Representations or Lexical Resources?",
+  "authors": [
+    "Christophe Servan",
+    "Alexandre Bérard",
+    "Zied Elloumi",
+    "Hervé Blanchon",
+    "Laurent Besacier"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "C16-1110",
+  "acl_url": "https://aclanthology.org/C16-1110/"
+}

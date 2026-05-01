@@ -1,0 +1,22 @@
+{
+  "title": "Language Identification and Modeling in Specialized Hardware",
+  "authors": [
+    "Kenneth Heafield",
+    "Rohan Kshirsagar",
+    "Santiago Barona"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Hindi",
+    "Spanish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14",
+    "T21"
+  ],
+  "paper_id": "P15-2063",
+  "acl_url": "https://aclanthology.org/P15-2063/"
+}

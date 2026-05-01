@@ -1,0 +1,22 @@
+{
+  "title": "The RWTH Aachen German to English MT System for IWSLT 2015",
+  "authors": [
+    "Jan-Thorsten Peter",
+    "Farzad Toutounchi",
+    "Stephan Peitz",
+    "Parnia Bahar",
+    "Andreas Guta",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2015.iwslt-evaluation.2",
+  "acl_url": "https://aclanthology.org/2015.iwslt-evaluation.2/"
+}

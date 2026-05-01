@@ -1,0 +1,25 @@
+{
+  "title": "Improving Low-Resource Cross-lingual Document Retrieval by Reranking with Deep Bilingual Representations",
+  "authors": [
+    "Rui Zhang",
+    "Caitlin Westerfield",
+    "Sungrok Shim",
+    "Garrett Bingham",
+    "Alexander Fabbri",
+    "William Hu",
+    "Neha Verma",
+    "Dragomir Radev"
+  ],
+  "languages": [
+    "English",
+    "Swahili",
+    "Tagalog",
+    "Somali"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P19-1306",
+  "acl_url": "https://aclanthology.org/P19-1306/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Randomized Greedy Inference for Joint Segmentation, POS Tagging and Dependency Parsing",
+  "authors": [
+    "Yuan Zhang",
+    "Chengtao Li",
+    "Regina Barzilay",
+    "Kareem Darwish"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N15-1005",
+  "acl_url": "https://aclanthology.org/N15-1005/"
+}

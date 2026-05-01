@@ -1,0 +1,24 @@
+{
+  "title": "KIT's Multilingual Neural Machine Translation systems for IWSLT 2017",
+  "authors": [
+    "Ngoc-Quan Pham",
+    "Matthias Sperber",
+    "Elizabeth Salesky",
+    "Thanh-Le Ha",
+    "Jan Niehues",
+    "Alexander Waibel"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Dutch",
+    "Italian",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2017.iwslt-1.6",
+  "acl_url": "https://aclanthology.org/2017.iwslt-1.6/"
+}

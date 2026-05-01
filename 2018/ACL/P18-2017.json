@@ -1,0 +1,19 @@
+{
+  "title": "Neural Coreference Resolution with Deep Biaffine Attention by Joint Mention Detection and Mention Clustering",
+  "authors": [
+    "Rui Zhang",
+    "Cícero Nogueira dos Santos",
+    "Michihiro Yasunaga",
+    "Bing Xiang",
+    "Dragomir R. Radev"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P18-2017",
+  "acl_url": "https://aclanthology.org/P18-2017/"
+}

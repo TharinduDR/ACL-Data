@@ -1,0 +1,23 @@
+{
+  "title": "Understanding Data Augmentation in Neural Machine Translation: Two Perspectives towards Generalization",
+  "authors": [
+    "Guanlin Li",
+    "Lemao Liu",
+    "Guoping Huang",
+    "Conghui Zhu",
+    "Tiejun Zhao",
+    "Shuming Shi"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "D19-1570",
+  "acl_url": "https://aclanthology.org/D19-1570/"
+}

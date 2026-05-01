@@ -1,0 +1,23 @@
+{
+  "title": "DBpedia Abstracts: A Large-Scale, Open, Multilingual NLP Training Corpus",
+  "authors": [
+    "Martin Brümmer",
+    "Milan Dojchinovski",
+    "Sebastian Hellmann"
+  ],
+  "languages": [
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "L16-1532",
+  "acl_url": "https://aclanthology.org/L16-1532/"
+}

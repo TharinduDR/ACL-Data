@@ -1,0 +1,33 @@
+{
+  "title": "Parallel Corpora for bi-lingual English-Ethiopian Languages Statistical Machine Translation",
+  "authors": [
+    "Solomon Teferra Abate",
+    "Michael Melese Woldeyohannis",
+    "Martha Yifiru Tachbelie",
+    "Million Meshesha",
+    "Solomon Atinafu",
+    "Wondwossen Mulugeta",
+    "Yaregal Assabie",
+    "Hafte Abera",
+    "Biniyam Ephrem",
+    "Tewodros Abebe",
+    "Wondimagegnhue Tsegaye",
+    "Amanuel Lemma",
+    "Tsegaye Andargie",
+    "Seifedin Shifaw"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "Tigrigna",
+    "Afan-Oromo",
+    "Wolaytta",
+    "Ge'ez"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "C18-1262",
+  "acl_url": "https://aclanthology.org/C18-1262/"
+}

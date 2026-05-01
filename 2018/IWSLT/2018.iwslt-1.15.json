@@ -1,0 +1,25 @@
+{
+  "title": "Neural Speech Translation at AppTek",
+  "authors": [
+    "Evgeny Matusov",
+    "Patrick Wilken",
+    "Parnia Bahar",
+    "Julian Schamper",
+    "Pavel Golik",
+    "Albert Zeyer",
+    "Joan Albert Silvestre-Cerdà",
+    "Adrià Martínez-Villaronga",
+    "Hendrik Pesch",
+    "Jan-Thorsten Peter"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2018.iwslt-1.15",
+  "acl_url": "https://aclanthology.org/2018.iwslt-1.15/"
+}

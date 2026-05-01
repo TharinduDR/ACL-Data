@@ -1,0 +1,21 @@
+{
+  "title": "JU-CSE-NLP's Cascaded Speech to Text Translation Systems for IWSLT 2025 in Indic Track",
+  "authors": [
+    "Debjit Dhar",
+    "Soham Lahiri",
+    "Tapabrata Mondal",
+    "Sivaji Bandyopadhyay"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Hindi",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.iwslt-1.18",
+  "acl_url": "https://aclanthology.org/2025.iwslt-1.18/"
+}

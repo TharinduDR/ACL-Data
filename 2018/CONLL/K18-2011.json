@@ -1,0 +1,41 @@
+{
+  "title": "82 Treebanks, 34 Models: Universal Dependency Parsing with Multi-Treebank Models",
+  "authors": [
+    "Aaron Smith",
+    "Bernd Bohnet",
+    "Miryam de Lhoneux",
+    "Joakim Nivre",
+    "Yan Shao",
+    "Sara Stymne"
+  ],
+  "languages": [
+    "Thai",
+    "Breton",
+    "Faroese",
+    "Japanese",
+    "Czech",
+    "English",
+    "Finnish",
+    "Naija",
+    "North Sami",
+    "Serbian",
+    "Upper Sorbian",
+    "Armenian",
+    "Buryat",
+    "Gothic",
+    "Kurmanji",
+    "Uyghur",
+    "Kazakh",
+    "Persian",
+    "Turkish",
+    "Afrikaans",
+    "Old French"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "K18-2011",
+  "acl_url": "https://aclanthology.org/K18-2011/"
+}

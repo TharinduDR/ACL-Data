@@ -1,0 +1,22 @@
+{
+  "title": "A Multi-lingual Annotated Dataset for Aspect-Oriented Opinion Mining",
+  "authors": [
+    "Salud María Jiménez Zafra",
+    "Giacomo Berardi",
+    "Andrea Esuli",
+    "Diego Marcheggiani",
+    "María Teresa Martín-Valdivia",
+    "Alejandro Moreo Fernández"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "D15-1302",
+  "acl_url": "https://aclanthology.org/D15-1302/"
+}

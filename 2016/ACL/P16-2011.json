@@ -1,0 +1,23 @@
+{
+  "title": "A Language-Independent Neural Network for Event Detection",
+  "authors": [
+    "Xiaocheng Feng",
+    "Lifu Huang",
+    "Duyu Tang",
+    "Bing Qin",
+    "Heng Ji",
+    "Ting Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P16-2011",
+  "acl_url": "https://aclanthology.org/P16-2011/"
+}

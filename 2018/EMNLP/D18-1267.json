@@ -1,0 +1,19 @@
+{
+  "title": "Sentence Compression for Arbitrary Languages via Multilingual Pivoting",
+  "authors": [
+    "Jonathan Mallinson",
+    "Rico Sennrich",
+    "Mirella Lapata"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "D18-1267",
+  "acl_url": "https://aclanthology.org/D18-1267/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Syllable based DNN-HMM Cantonese Speech-to-Text System",
+  "authors": [
+    "Timothy WONG",
+    "Claire W. Y. LI",
+    "Sam LAM",
+    "Billy CHIU",
+    "Qin LU",
+    "Minglei LI",
+    "Dan XIONG",
+    "Roy S. YU",
+    "Vincent T. Y. NG"
+  ],
+  "languages": [
+    "Cantonese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14",
+    "T24"
+  ],
+  "paper_id": "L16-1610",
+  "acl_url": "https://aclanthology.org/L16-1610/"
+}

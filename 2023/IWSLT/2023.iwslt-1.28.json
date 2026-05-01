@@ -1,0 +1,29 @@
+{
+  "title": "JHU IWSLT 2023 Multilingual Speech Translation System Description",
+  "authors": [
+    "Henry Li Xinyuan",
+    "Neha Verma",
+    "Bismarck Bamfo Odoom",
+    "Ujvala Pradeep",
+    "Matthew Wiesner",
+    "Sanjeev Khudanpur"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "French",
+    "Japanese",
+    "Dutch",
+    "Portuguese",
+    "Russian",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.iwslt-1.28",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.28/"
+}

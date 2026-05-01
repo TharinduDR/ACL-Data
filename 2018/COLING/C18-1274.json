@@ -1,0 +1,23 @@
+{
+  "title": "Neural Machine Translation Incorporating Named Entity",
+  "authors": [
+    "Arata Ugawa",
+    "Akihiro Tamura",
+    "Takashi Ninomiya",
+    "Hiroya Takamura",
+    "Manabu Okumura"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Bulgarian",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16",
+    "T11",
+    "T21"
+  ],
+  "paper_id": "C18-1274",
+  "acl_url": "https://aclanthology.org/C18-1274/"
+}

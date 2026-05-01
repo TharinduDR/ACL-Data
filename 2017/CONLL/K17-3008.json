@@ -1,0 +1,32 @@
+{
+  "title": "Parsing with Context Embeddings",
+  "authors": [
+    "Ömer Kırnap",
+    "Berkay Furkan Önder",
+    "Deniz Yuret"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Bulgarian",
+    "Croatian",
+    "Estonian",
+    "Finnish",
+    "Hungarian",
+    "Kurmanji",
+    "North Sami",
+    "Buryat",
+    "Upper Sorbian",
+    "Ancient Greek",
+    "Gothic",
+    "Old Church Slavonic",
+    "Syntagrus",
+    "Czech"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K17-3008",
+  "acl_url": "https://aclanthology.org/K17-3008/"
+}

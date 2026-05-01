@@ -1,0 +1,31 @@
+{
+  "title": "Corpora with Part-of-Speech Annotations for Three Regional Languages of France: Alsatian, Occitan and Picard",
+  "authors": [
+    "Delphine Bernhard",
+    "Anne-Laure Ligozat",
+    "Fanny Martin",
+    "Myriam Bras",
+    "Pierre Magistry",
+    "Marianne Vergez-Couret",
+    "Lucie Steibl",
+    "Pascale Erhart",
+    "Nabil Hathout",
+    "Dominique Huck",
+    "Christophe Rey",
+    "Philippe Reynés",
+    "Sophie Rosset",
+    "Jean Sibille",
+    "Thomas Lavergne"
+  ],
+  "languages": [
+    "Alsatian",
+    "Occitan",
+    "Picard"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L18-1619",
+  "acl_url": "https://aclanthology.org/L18-1619/"
+}

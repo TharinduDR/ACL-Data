@@ -1,0 +1,18 @@
+{
+  "title": "Czech Legal Text Treebank 1.0",
+  "authors": [
+    "Vincent Kriz",
+    "Barbora Hladká",
+    "Zdeňka Urešová"
+  ],
+  "languages": [
+    "Czech"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T25 Legal NLP",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L16-1378",
+  "acl_url": "https://aclanthology.org/L16-1378/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Cross-lingual Models of Word Embeddings: An Empirical Comparison",
+  "authors": [
+    "Shyam Upadhyay",
+    "Manaal Faruqui",
+    "Chris Dyer",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Swedish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "P16-1157",
+  "acl_url": "https://aclanthology.org/P16-1157/"
+}

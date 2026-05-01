@@ -1,0 +1,20 @@
+{
+  "title": "The Lazy Encoder: A Fine-Grained Analysis of the Role of Morphology in Neural Machine Translation",
+  "authors": [
+    "Arianna Bisazza",
+    "Clara Tump"
+  ],
+  "languages": [
+    "French",
+    "Italian",
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "D18-1313",
+  "acl_url": "https://aclanthology.org/D18-1313/"
+}

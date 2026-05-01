@@ -1,0 +1,27 @@
+{
+  "title": "Marian: Fast Neural Machine Translation in C++",
+  "authors": [
+    "Marcin Junczys-Dowmunt",
+    "Roman Grundkiewicz",
+    "Tomasz Dwojak",
+    "Hieu Hoang",
+    "Kenneth Heafield",
+    "Tom Neckermann",
+    "Frank Seide",
+    "Ulrich Germann",
+    "Alham Fikri Aji",
+    "Nikolay Bogoychev",
+    "André F. T. Martins",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "P18-4020",
+  "acl_url": "https://aclanthology.org/P18-4020/"
+}

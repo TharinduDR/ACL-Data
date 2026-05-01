@@ -1,0 +1,21 @@
+{
+  "title": "Medical Entity Corpus with PICO Elements and Sentiment Analysis",
+  "authors": [
+    "Markus Zlabinger",
+    "Linda Andersson",
+    "Allan Hanbury",
+    "Michael Andersson",
+    "Vanessa Quasnik",
+    "Jon Brassey"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T26 Clinical/biomedical NLP",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "L18-1044",
+  "acl_url": "https://aclanthology.org/L18-1044/"
+}

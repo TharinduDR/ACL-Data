@@ -1,0 +1,24 @@
+{
+  "title": "Shared-Private Bilingual Word Embeddings for Neural Machine Translation",
+  "authors": [
+    "Xuebo Liu",
+    "Derek F. Wong",
+    "Yang Liu",
+    "Lidia S. Chao",
+    "Tong Xiao",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Arabic",
+    "Japanese",
+    "Korean"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P19-1352",
+  "acl_url": "https://aclanthology.org/P19-1352/"
+}

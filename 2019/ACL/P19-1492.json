@@ -1,0 +1,24 @@
+{
+  "title": "Analyzing the Limitations of Cross-lingual Word Embedding Mappings",
+  "authors": [
+    "Aitor Ormazabal",
+    "Mikel Artetxe",
+    "Gorka Labaka",
+    "Aitor Soroa",
+    "Eneko Agirre"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Spanish",
+    "German",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "P19-1492",
+  "acl_url": "https://aclanthology.org/P19-1492/"
+}

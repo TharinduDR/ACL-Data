@@ -1,0 +1,20 @@
+{
+  "title": "Compositional Questions Do Not Necessitate Multi-hop Reasoning",
+  "authors": [
+    "Sewon Min",
+    "Eric Wallace",
+    "Sameer Singh",
+    "Matt Gardner",
+    "Hannaneh Hajishirzi",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "P19-1416",
+  "acl_url": "https://aclanthology.org/P19-1416/"
+}

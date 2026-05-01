@@ -1,0 +1,34 @@
+{
+  "title": "Data Augmentation via Dependency Tree Morphing for Low-Resource Languages",
+  "authors": [
+    "Gözde Gül Şahin",
+    "Mark Steedman"
+  ],
+  "languages": [
+    "Lithuanian",
+    "Belarusian",
+    "Tamil",
+    "Telugu",
+    "Coptic",
+    "Irish",
+    "North Sami",
+    "Hungarian",
+    "Vietnamese",
+    "Turkish",
+    "Greek",
+    "Gothic",
+    "Old Slavic",
+    "Afrikaans",
+    "Latvian",
+    "Danish",
+    "Slovak",
+    "Serbian",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D18-1545",
+  "acl_url": "https://aclanthology.org/D18-1545/"
+}

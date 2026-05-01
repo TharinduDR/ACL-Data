@@ -1,0 +1,24 @@
+{
+  "title": "Universal Dependencies Version 2 for Japanese",
+  "authors": [
+    "Masayuki Asahara",
+    "Hiroshi Kanayama",
+    "Takaaki Tanaka",
+    "Yusuke Miyao",
+    "Sumire Uematsu",
+    "Shinsuke Mori",
+    "Yuji Matsumoto",
+    "Mai Omura",
+    "Yugo Murawaki"
+  ],
+  "languages": [
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "L18-1287",
+  "acl_url": "https://aclanthology.org/L18-1287/"
+}

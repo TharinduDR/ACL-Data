@@ -1,0 +1,20 @@
+{
+  "title": "pair2vec: Compositional Word-Pair Embeddings for Cross-Sentence Inference",
+  "authors": [
+    "Mandar Joshi",
+    "Eunsol Choi",
+    "Omer Levy",
+    "Daniel S. Weld",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10",
+    "T15",
+    "T09"
+  ],
+  "paper_id": "N19-1362",
+  "acl_url": "https://aclanthology.org/N19-1362/"
+}

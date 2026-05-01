@@ -1,0 +1,25 @@
+{
+  "title": "Evaluating Gender Bias in Machine Translation",
+  "authors": [
+    "Gabriel Stanovsky",
+    "Noah A. Smith",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Russian",
+    "Ukrainian",
+    "Hebrew",
+    "Arabic",
+    "German"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P19-1164",
+  "acl_url": "https://aclanthology.org/P19-1164/"
+}

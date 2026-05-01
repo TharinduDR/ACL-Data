@@ -1,0 +1,20 @@
+{
+  "title": "Neural Machine Translation with Recurrent Attention Modeling",
+  "authors": [
+    "Zichao Yang",
+    "Zhiting Hu",
+    "Yuntian Deng",
+    "Chris Dyer",
+    "Alex Smola"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "E17-2061",
+  "acl_url": "https://aclanthology.org/E17-2061/"
+}

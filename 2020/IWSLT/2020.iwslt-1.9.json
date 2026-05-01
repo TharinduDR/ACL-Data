@@ -1,0 +1,17 @@
+{
+  "title": "SRPOL's System for the IWSLT 2020 End-to-End Speech Translation Task",
+  "authors": [
+    "Tomasz Potapczyk",
+    "Pawel Przybylsz"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.iwslt-1.9",
+  "acl_url": "https://aclanthology.org/2020.iwslt-1.9/"
+}

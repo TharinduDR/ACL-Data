@@ -1,0 +1,20 @@
+{
+  "title": "Margin-based Parallel Corpus Mining with Multilingual Sentence Embeddings",
+  "authors": [
+    "Mikel Artetxe",
+    "Holger Schwenk"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02",
+    "T16"
+  ],
+  "paper_id": "P19-1309",
+  "acl_url": "https://aclanthology.org/P19-1309/"
+}

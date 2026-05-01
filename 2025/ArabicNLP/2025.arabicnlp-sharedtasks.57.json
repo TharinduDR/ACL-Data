@@ -1,0 +1,21 @@
+{
+  "title": "PhantomTroupe at ImageEval 2025 Shared Task: Multimodal Arabic Image Captioning through Translation-Based Fine-Tuning of LLM Models",
+  "authors": [
+    "Muhammad Abu Horaira",
+    "Farhan Amin",
+    "Sakibul Hasan",
+    "Md. Tanvir Ahamed Shawon",
+    "Muhammad Ibrahim Khan"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2025.arabicnlp-sharedtasks.57",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-sharedtasks.57/"
+}

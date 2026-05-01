@@ -1,0 +1,22 @@
+{
+  "title": "Cross-lingual RST Discourse Parsing",
+  "authors": [
+    "Chloé Braud",
+    "Maximin Coavoux",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Spanish",
+    "German",
+    "Dutch",
+    "Basque"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "E17-1028",
+  "acl_url": "https://aclanthology.org/E17-1028/"
+}

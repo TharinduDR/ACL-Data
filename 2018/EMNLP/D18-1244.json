@@ -1,0 +1,17 @@
+{
+  "title": "Graph Convolution over Pruned Dependency Trees Improves Relation Extraction",
+  "authors": [
+    "Yuhao Zhang",
+    "Peng Qi",
+    "Christopher D. Manning"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D18-1244",
+  "acl_url": "https://aclanthology.org/D18-1244/"
+}

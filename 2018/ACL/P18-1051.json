@@ -1,0 +1,27 @@
+{
+  "title": "Text Deconvolution Saliency (TDS): a deep tool box for linguistic analysis",
+  "authors": [
+    "Laurent Vanni",
+    "Melanie Ducoffe",
+    "Damon Mayaffre",
+    "Frederic Precioso",
+    "Dominique Longrée",
+    "Veeresh Elango",
+    "Nazly Santos",
+    "Juan Gonzalez",
+    "Luis Galdo",
+    "Carlos Aguilar"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Latin"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "P18-1051",
+  "acl_url": "https://aclanthology.org/P18-1051/"
+}

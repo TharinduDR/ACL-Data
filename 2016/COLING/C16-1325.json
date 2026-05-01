@@ -1,0 +1,19 @@
+{
+  "title": "Universal Dependencies for Turkish",
+  "authors": [
+    "Umut Sulubacak",
+    "Memduh Gökirmak",
+    "Francis M. Tyers",
+    "Çağrı Çöltekin",
+    "Joakim Nivre",
+    "Gülşen Eryiğit"
+  ],
+  "languages": [
+    "Turkish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "C16-1325",
+  "acl_url": "https://aclanthology.org/C16-1325/"
+}

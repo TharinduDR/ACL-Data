@@ -1,0 +1,21 @@
+{
+  "title": "Low-Resource Formality Controlled NMT Using Pre-trained LM",
+  "authors": [
+    "Priyesh Vakharia",
+    "Shree Vignesh S",
+    "Pranali Basmatkar"
+  ],
+  "languages": [
+    "English",
+    "Vietnamese",
+    "Korean",
+    "Portuguese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.iwslt-1.30",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.30/"
+}

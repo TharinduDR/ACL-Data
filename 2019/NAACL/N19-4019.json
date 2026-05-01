@@ -1,0 +1,23 @@
+{
+  "title": "Multilingual Entity, Relation, Event and Human Value Extraction",
+  "authors": [
+    "Manling Li",
+    "Ying Lin",
+    "Joseph Hoover",
+    "Spencer Whitehead",
+    "Clare R. Voss",
+    "Morteza Dehghani",
+    "Heng Ji"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "N19-4019",
+  "acl_url": "https://aclanthology.org/N19-4019/"
+}

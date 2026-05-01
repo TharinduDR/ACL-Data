@@ -1,0 +1,21 @@
+{
+  "title": "HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",
+  "authors": [
+    "Zhilin Yang",
+    "Peng Qi",
+    "Saizheng Zhang",
+    "Yoshua Bengio",
+    "William W. Cohen",
+    "Ruslan Salakhutdinov",
+    "Christopher D. Manning"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "D18-1259",
+  "acl_url": "https://aclanthology.org/D18-1259/"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "UParse: the Edinburgh system for the CoNLL 2017 UD shared task",
+  "authors": [
+    "Clara Vania",
+    "Xingxing Zhang",
+    "Adam Lopez"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Spanish",
+    "Portuguese",
+    "Swedish",
+    "Croatian",
+    "Uyghur",
+    "Arabic",
+    "Hebrew",
+    "Kazakh",
+    "Turkish",
+    "Finnish",
+    "Hungarian",
+    "Estonian",
+    "Persian",
+    "Indonesian",
+    "Vietnamese",
+    "Irish",
+    "Galician",
+    "Ukrainian",
+    "Catalan",
+    "Bulgarian",
+    "Polish",
+    "Russian",
+    "Slovak",
+    "Slovenian",
+    "Czech",
+    "Hindi",
+    "Urdu",
+    "Latin",
+    "Ancient Greek",
+    "Gothic",
+    "Old Church Slavonic"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K17-3010",
+  "acl_url": "https://aclanthology.org/K17-3010/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "ERNIE: Enhanced Language Representation with Informative Entities",
+  "authors": [
+    "Zhengyan Zhang",
+    "Xu Han",
+    "Zhiyuan Liu",
+    "Xin Jiang",
+    "Maosong Sun",
+    "Qun Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T13 Knowledge discovery/representation",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "P19-1139",
+  "acl_url": "https://aclanthology.org/P19-1139/"
+}

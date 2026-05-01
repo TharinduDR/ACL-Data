@@ -1,0 +1,22 @@
+{
+  "title": "Source-Side Left-to-Right or Target-Side Left-to-Right? An Empirical Comparison of Two Phrase-Based Decoding Algorithms",
+  "authors": [
+    "Yin-Wen Chang",
+    "Michael Collins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech",
+    "French",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "D17-1157",
+  "acl_url": "https://aclanthology.org/D17-1157/"
+}

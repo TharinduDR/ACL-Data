@@ -1,0 +1,42 @@
+{
+  "title": "The Gavagai Living Lexicon",
+  "authors": [
+    "Magnus Sahlgren",
+    "Amaru Cuba Gyllensten",
+    "Fredrik Espinoza",
+    "Ola Hamfors",
+    "Jussi Karlgren",
+    "Fredrik Olsson",
+    "Per Persson",
+    "Akshay Viswanathan",
+    "Anders Holst"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Spanish",
+    "Portuguese",
+    "Polish",
+    "Romanian",
+    "Italian",
+    "Hungarian",
+    "Hebrew",
+    "Dutch",
+    "Danish",
+    "Czech",
+    "Estonian",
+    "Finnish",
+    "Lithuanian",
+    "Norwegian",
+    "Latvian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "L16-1053",
+  "acl_url": "https://aclanthology.org/L16-1053/"
+}

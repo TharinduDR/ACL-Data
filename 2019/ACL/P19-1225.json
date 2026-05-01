@@ -1,0 +1,22 @@
+{
+  "title": "Answering while Summarizing: Multi-task Learning for Multi-hop QA with Evidence Extraction",
+  "authors": [
+    "Kosuke Nishida",
+    "Kyosuke Nishida",
+    "Masaaki Nagata",
+    "Atsushi Otsuka",
+    "Itsumi Saito",
+    "Hisako Asano",
+    "Junji Tomita"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "P19-1225",
+  "acl_url": "https://aclanthology.org/P19-1225/"
+}

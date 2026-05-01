@@ -1,0 +1,25 @@
+{
+  "title": "HappyDB: A Corpus of 100,000 Crowdsourced Happy Moments",
+  "authors": [
+    "Akari Asai",
+    "Sara Evensen",
+    "Behzad Golshan",
+    "Alon Halevy",
+    "Vivian Li",
+    "Andrei Lopatenko",
+    "Daniela Stepanov",
+    "Yoshihiko Suhara",
+    "Wang-Chiew Tan",
+    "Yinzhao Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "L18-1103",
+  "acl_url": "https://aclanthology.org/L18-1103/"
+}

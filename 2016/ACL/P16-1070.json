@@ -1,0 +1,22 @@
+{
+  "title": "Universal Dependencies for Learner English",
+  "authors": [
+    "Yevgeni Berzak",
+    "Jessica Kenney",
+    "Carolyn Spadine",
+    "Jing Xian Wang",
+    "Lucia Lam",
+    "Keiko Sophie Mori",
+    "Sebastian Garza",
+    "Boris Katz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "P16-1070",
+  "acl_url": "https://aclanthology.org/P16-1070/"
+}

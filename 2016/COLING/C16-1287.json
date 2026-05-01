@@ -1,0 +1,25 @@
+{
+  "title": "Borrow a Little from your Rich Cousin: Using Embeddings and Polarities of English Words for Multilingual Sentiment Classification",
+  "authors": [
+    "Prerana Singhal",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Marathi",
+    "Russian",
+    "Dutch",
+    "French",
+    "German",
+    "Portuguese",
+    "Spanish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "C16-1287",
+  "acl_url": "https://aclanthology.org/C16-1287/"
+}

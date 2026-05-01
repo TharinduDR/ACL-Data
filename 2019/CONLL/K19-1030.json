@@ -1,0 +1,33 @@
+{
+  "title": "Improving Pre-Trained Multilingual Models with Vocabulary Expansion",
+  "authors": [
+    "Hai Wang",
+    "Dian Yu",
+    "Kai Sun",
+    "Jianshu Chen",
+    "Dong Yu"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Danish",
+    "German",
+    "Spanish",
+    "French",
+    "Croatian",
+    "Italian",
+    "Dutch",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Swedish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K19-1030",
+  "acl_url": "https://aclanthology.org/K19-1030/"
+}

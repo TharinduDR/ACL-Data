@@ -1,0 +1,20 @@
+{
+  "title": "BurhanAI at IslamicEval 2025 Shared Task: Combating Hallucinations in LLMs for Islamic Content; Evaluation, Correction, and Retrieval-Based Solution",
+  "authors": [
+    "Arij Al Adel",
+    "Abu Bakr Soliman",
+    "Mohamed Sakher Sawan",
+    "Rahaf Al-Najjar",
+    "Sameh Amin"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.arabicnlp-sharedtasks.69",
+  "acl_url": "https://aclanthology.org/2025.arabicnlp-sharedtasks.69/"
+}

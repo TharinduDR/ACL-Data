@@ -1,0 +1,24 @@
+{
+  "title": "Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies",
+  "authors": [
+    "Yunsu Kim",
+    "Yingbo Gao",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Basque",
+    "Slovenian",
+    "Belarusian",
+    "Azerbaijani",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "P19-1120",
+  "acl_url": "https://aclanthology.org/P19-1120/"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Cross-Lingual Syntactic Transfer through Unsupervised Adaptation of Invertible Projections",
+  "authors": [
+    "Junxian He",
+    "Zhishong Zhang",
+    "Taylor Berg-Kirkpatrick",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Persian",
+    "Arabic",
+    "Japanese",
+    "Indonesian",
+    "Korean",
+    "Turkish",
+    "Hindi",
+    "Croatian",
+    "Bulgarian",
+    "Italian",
+    "Portuguese",
+    "French",
+    "Spanish",
+    "Norwegian",
+    "Danish",
+    "Swedish",
+    "Dutch",
+    "German"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P19-1311",
+  "acl_url": "https://aclanthology.org/P19-1311/"
+}

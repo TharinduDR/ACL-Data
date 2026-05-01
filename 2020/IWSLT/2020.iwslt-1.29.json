@@ -1,0 +1,19 @@
+{
+  "title": "Neural Simultaneous Speech Translation Using Alignment-Based Chunking",
+  "authors": [
+    "Patrick Wilken",
+    "Tamer Alkhouli",
+    "Evgeny Matusov",
+    "Pavel Golik"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.iwslt-1.29",
+  "acl_url": "https://aclanthology.org/2020.iwslt-1.29/"
+}

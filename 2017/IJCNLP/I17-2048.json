@@ -1,0 +1,24 @@
+{
+  "title": "Utilizing Lexical Similarity between Related, Low-resource Languages for Pivot-based SMT",
+  "authors": [
+    "Anoop Kunchukuttan",
+    "Maulik Shah",
+    "Pradyot Prakash",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Marathi",
+    "Urdu",
+    "Malayalam",
+    "Telugu",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "I17-2048",
+  "acl_url": "https://aclanthology.org/I17-2048/"
+}

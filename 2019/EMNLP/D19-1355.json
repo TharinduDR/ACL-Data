@@ -1,0 +1,19 @@
+{
+  "title": "GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge",
+  "authors": [
+    "Luyao Huang",
+    "Chi Sun",
+    "Xipeng Qiu",
+    "Xuanjing Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "D19-1355",
+  "acl_url": "https://aclanthology.org/D19-1355/"
+}

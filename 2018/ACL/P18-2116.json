@@ -1,0 +1,20 @@
+{
+  "title": "Long Short-Term Memory as a Dynamically Computed Element-wise Weighted Sum",
+  "authors": [
+    "Omer Levy",
+    "Kenton Lee",
+    "Nicholas FitzGerald",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T10 Question Answering"
+  ],
+  "paper_id": "P18-2116",
+  "acl_url": "https://aclanthology.org/P18-2116/"
+}

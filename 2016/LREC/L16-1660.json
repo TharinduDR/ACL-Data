@@ -1,0 +1,28 @@
+{
+  "title": "FREME: Multilingual Semantic Enrichment with Linked Data and Language Technologies",
+  "authors": [
+    "Milan Dojchinovski",
+    "Felix Sasaki",
+    "Tatjana Gornostaja",
+    "Sebastian Hellmann",
+    "Erik Mannens",
+    "Frank Salliau",
+    "Michele Osella",
+    "Phil Ritchie",
+    "Giannis Stoitsis",
+    "Kevin Koidl",
+    "Markus Ackermann",
+    "Nilesh Chakraborty"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "L16-1660",
+  "acl_url": "https://aclanthology.org/L16-1660/"
+}

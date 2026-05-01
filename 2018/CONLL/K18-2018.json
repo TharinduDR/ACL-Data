@@ -1,0 +1,19 @@
+{
+  "title": "Towards JointUD: Part-of-speech Tagging and Lemmatization using Recurrent Neural Networks",
+  "authors": [
+    "Gor Arakelyan",
+    "Karen Hambardzumyan",
+    "Hrant Khachatrian"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Arabic",
+    "Korean"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K18-2018",
+  "acl_url": "https://aclanthology.org/K18-2018/"
+}

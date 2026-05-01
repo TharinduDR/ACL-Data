@@ -1,0 +1,20 @@
+{
+  "title": "CogCompTime: A Tool for Understanding Time in Natural Language",
+  "authors": [
+    "Qiang Ning",
+    "Ben Zhou",
+    "Zhili Feng",
+    "Haoruo Peng",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "D18-2013",
+  "acl_url": "https://aclanthology.org/D18-2013/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "GARI: Graph Attention for Relative Isomorphism of Arabic Word Embeddings",
+  "authors": [
+    "Muhammad Asif Ali",
+    "Maha Alshmrani",
+    "Jianbin Qin",
+    "Yan Hu",
+    "Di Wang"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.arabicnlp-1.16",
+  "acl_url": "https://aclanthology.org/2023.arabicnlp-1.16/"
+}

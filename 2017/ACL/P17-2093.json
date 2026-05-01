@@ -1,0 +1,25 @@
+{
+  "title": "Model Transfer for Tagging Low-resource Languages using a Bilingual Dictionary",
+  "authors": [
+    "Meng Fang",
+    "Trevor Cohn"
+  ],
+  "languages": [
+    "Danish",
+    "Dutch",
+    "German",
+    "Greek",
+    "Italian",
+    "Portuguese",
+    "Spanish",
+    "Swedish",
+    "Turkish",
+    "Malagasy"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P17-2093",
+  "acl_url": "https://aclanthology.org/P17-2093/"
+}

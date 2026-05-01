@@ -1,0 +1,23 @@
+{
+  "title": "The USTC's Offline Speech Translation Systems for IWSLT 2023",
+  "authors": [
+    "Xinyuan Zhou",
+    "Jianwei Cui",
+    "Zhongyi Ye",
+    "Yichi Wang",
+    "Luzhen Xu",
+    "Hanyi Zhang",
+    "Weitai Zhang",
+    "Lirong Dai"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.iwslt-1.15",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.15/"
+}

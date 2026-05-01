@@ -1,0 +1,20 @@
+{
+  "title": "CUNI Neural ASR with Phoneme-Level Intermediate Step for Non-Native SLT at IWSLT 2020",
+  "authors": [
+    "Peter Polák",
+    "Sangeet Sagar",
+    "Dominik Macháček",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German"
+  ],
+  "research_areas": [
+    "T16",
+    "T24"
+  ],
+  "paper_id": "2020.iwslt-1.24",
+  "acl_url": "https://aclanthology.org/2020.iwslt-1.24/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "A Neural Network Approach to Context-Sensitive Generation of Conversational Responses",
+  "authors": [
+    "Alessandro Sordoni",
+    "Michel Galley",
+    "Michael Auli",
+    "Chris Brockett",
+    "Yangfeng Ji",
+    "Margaret Mitchell",
+    "Jian-Yun Nie",
+    "Jianfeng Gao",
+    "Bill Dolan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "N15-1020",
+  "acl_url": "https://aclanthology.org/N15-1020/"
+}

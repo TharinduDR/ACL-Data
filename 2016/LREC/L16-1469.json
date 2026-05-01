@@ -1,0 +1,28 @@
+{
+  "title": "TweetMT: A parallel microblog corpus",
+  "authors": [
+    "Iñaki San Vicente",
+    "Iñaki Alegria",
+    "Nora Aranberri",
+    "Cristina España-Bonet",
+    "Pablo Gamallo",
+    "Hugo Gonçalo Oliveira",
+    "Eva Martínez",
+    "Antonio Toral",
+    "Arkaitz Zubiaga"
+  ],
+  "languages": [
+    "Spanish",
+    "Basque",
+    "Catalan",
+    "Galician",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "L16-1469",
+  "acl_url": "https://aclanthology.org/L16-1469/"
+}

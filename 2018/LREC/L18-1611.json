@@ -1,0 +1,22 @@
+{
+  "title": "Parser combinators for Tigrinya and Oromo morphology",
+  "authors": [
+    "Patrick Littell",
+    "Tom McCoy",
+    "Na-Rae Han",
+    "Shruti Rijhwani",
+    "Zaid Sheikh",
+    "David Mortensen",
+    "Teruko Mitamura",
+    "Lori Levin"
+  ],
+  "languages": [
+    "Tigrinya",
+    "Oromo"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L18-1611",
+  "acl_url": "https://aclanthology.org/L18-1611/"
+}

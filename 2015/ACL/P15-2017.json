@@ -1,0 +1,23 @@
+{
+  "title": "Language Models for Image Captioning: The Quirks and What Works",
+  "authors": [
+    "Jacob Devlin",
+    "Hao Cheng",
+    "Hao Fang",
+    "Saurabh Gupta",
+    "Li Deng",
+    "Xiaodong He",
+    "Geoffrey Zweig",
+    "Margaret Mitchell"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "P15-2017",
+  "acl_url": "https://aclanthology.org/P15-2017/"
+}

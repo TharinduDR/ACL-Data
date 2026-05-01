@@ -1,0 +1,22 @@
+{
+  "title": "NADI 2023: The Fourth Nuanced Arabic Dialect Identification Shared Task",
+  "authors": [
+    "Muhammad Abdul-Mageed",
+    "AbdelRahim Elmadany",
+    "Chiyu Zhang",
+    "El Moatez Billah Nagoudi",
+    "Houda Bouamor",
+    "Nizar Habash"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.arabicnlp-1.62",
+  "acl_url": "https://aclanthology.org/2023.arabicnlp-1.62/"
+}

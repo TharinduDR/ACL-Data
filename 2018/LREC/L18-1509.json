@@ -1,0 +1,22 @@
+{
+  "title": "A Repository of Corpora for Summarization",
+  "authors": [
+    "Franck Dernoncourt",
+    "Mohammad Ghassemi",
+    "Walter Chang"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "L18-1509",
+  "acl_url": "https://aclanthology.org/L18-1509/"
+}

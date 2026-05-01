@@ -1,0 +1,21 @@
+{
+  "title": "A Korean Knowledge Extraction System for Enriching a KBox",
+  "authors": [
+    "Sangha Nam",
+    "Eun-kyung Kim",
+    "Jiho Kim",
+    "Yoosung Jung",
+    "Kijong Han",
+    "Key-Sun Choi"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "C18-2005",
+  "acl_url": "https://aclanthology.org/C18-2005/"
+}

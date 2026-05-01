@@ -1,0 +1,29 @@
+{
+  "title": "The HW-TSC's Simultaneous Speech-to-Text Translation system for IWSLT 2023 evaluation",
+  "authors": [
+    "Jiaxin GUO",
+    "Daimeng Wei",
+    "Zhanglin Wu",
+    "Zongyao Li",
+    "Zhiqiang Rao",
+    "Minghan Wang",
+    "Hengchao Shang",
+    "Xiaoyu Chen",
+    "Zhengze Yu",
+    "Shaojun Li",
+    "Yuhao Xie",
+    "Lizhi Lei",
+    "Hao Yang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.iwslt-1.35",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.35/"
+}

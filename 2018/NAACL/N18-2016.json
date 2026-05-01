@@ -1,0 +1,19 @@
+{
+  "title": "An Annotated Corpus for Machine Reading of Instructions in Wet Lab Protocols",
+  "authors": [
+    "Chaitanya Kulkarni",
+    "Wei Xu",
+    "Alan Ritter",
+    "Raghu Machiraju"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N18-2016",
+  "acl_url": "https://aclanthology.org/N18-2016/"
+}

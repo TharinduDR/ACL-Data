@@ -1,0 +1,21 @@
+{
+  "title": "SRI-B's systems for IWSLT 2023 Dialectal and Low-resource track: Marathi-Hindi Speech Translation",
+  "authors": [
+    "Balaji Radhakrishnan",
+    "Saurabh Agrawal",
+    "Raj Prakash Gohil",
+    "Kiran Praveen",
+    "Advait Vinay Dhopeshwarkar",
+    "Abhishek Pandey"
+  ],
+  "languages": [
+    "Marathi",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.iwslt-1.43",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.43/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "An Investigation of the Interactions Between Pre-Trained Word Embeddings, Character Models and POS Tags in Dependency Parsing",
+  "authors": [
+    "Aaron Smith",
+    "Miryam de Lhoneux",
+    "Sara Stymne",
+    "Joakim Nivre"
+  ],
+  "languages": [
+    "Ancient Greek",
+    "Arabic",
+    "Chinese",
+    "English",
+    "Finnish",
+    "Hebrew",
+    "Korean",
+    "Russian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D18-1291",
+  "acl_url": "https://aclanthology.org/D18-1291/"
+}

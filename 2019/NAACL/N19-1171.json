@@ -1,0 +1,19 @@
+{
+  "title": "An Empirical Investigation of Global and Local Normalization for Recurrent Neural Sequence Models Using a Continuous Relaxation to Beam Search",
+  "authors": [
+    "Kartik Goyal",
+    "Chris Dyer",
+    "Taylor Berg-Kirkpatrick"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "N19-1171",
+  "acl_url": "https://aclanthology.org/N19-1171/"
+}

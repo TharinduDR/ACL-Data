@@ -1,0 +1,22 @@
+{
+  "title": "Multi-Source Cross-Lingual Model Transfer: Learning What to Share",
+  "authors": [
+    "Xilun Chen",
+    "Ahmed Hassan Awadallah",
+    "Hany Hassan",
+    "Wei Wang",
+    "Claire Cardie"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "P19-1299",
+  "acl_url": "https://aclanthology.org/P19-1299/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Farasa: A Fast and Furious Segmenter for Arabic",
+  "authors": [
+    "Ahmed Abdelali",
+    "Kareem Darwish",
+    "Nadir Durrani",
+    "Hamdy Mubarak"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N16-3003",
+  "acl_url": "https://aclanthology.org/N16-3003/"
+}

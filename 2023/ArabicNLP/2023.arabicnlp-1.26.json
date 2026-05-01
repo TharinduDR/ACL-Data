@@ -1,0 +1,22 @@
+{
+  "title": "Investigating Zero-shot Cross-lingual Language Understanding for Arabic",
+  "authors": [
+    "Zaid Alyafeai",
+    "Moataz Ahmed"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French",
+    "Russian",
+    "Chinese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.arabicnlp-1.26",
+  "acl_url": "https://aclanthology.org/2023.arabicnlp-1.26/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "NAIST English-to-Japanese Simultaneous Translation System for IWSLT 2021 Simultaneous Text-to-text Task",
+  "authors": [
+    "Ryo Fukuda",
+    "Yui Oka",
+    "Yasumasa Kano",
+    "Yuki Yano",
+    "Yuka Ko",
+    "Hirotaka Tokuyama",
+    "Kosuke Doi",
+    "Sakriani Sakti",
+    "Katsuhito Sudoh",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.iwslt-1.3",
+  "acl_url": "https://aclanthology.org/2021.iwslt-1.3/"
+}

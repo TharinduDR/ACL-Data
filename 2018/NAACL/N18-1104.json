@@ -1,0 +1,21 @@
+{
+  "title": "Cross-lingual Abstract Meaning Representation Parsing",
+  "authors": [
+    "Marco Damonte",
+    "Shay B. Cohen"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Spanish",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "N18-1104",
+  "acl_url": "https://aclanthology.org/N18-1104/"
+}

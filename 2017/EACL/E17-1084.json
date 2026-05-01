@@ -1,0 +1,23 @@
+{
+  "title": "Multilingual Training of Crosslingual Word Embeddings",
+  "authors": [
+    "Long Duong",
+    "Hiroshi Kanayama",
+    "Tengfei Ma",
+    "Steven Bird",
+    "Trevor Cohn"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Spanish",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "E17-1084",
+  "acl_url": "https://aclanthology.org/E17-1084/"
+}

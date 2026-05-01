@@ -1,0 +1,22 @@
+{
+  "title": "Massively Multilingual Adversarial Speech Recognition",
+  "authors": [
+    "Oliver Adams",
+    "Matthew Wiesner",
+    "Shinji Watanabe",
+    "David Yarowsky"
+  ],
+  "languages": [
+    "Aymara",
+    "Quechua",
+    "Indonesian",
+    "Swedish",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "N19-1009",
+  "acl_url": "https://aclanthology.org/N19-1009/"
+}

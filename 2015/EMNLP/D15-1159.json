@@ -1,0 +1,23 @@
+{
+  "title": "Improved Transition-Based Parsing and Tagging with Neural Networks",
+  "authors": [
+    "Chris Alberti",
+    "David Weiss",
+    "Greg Coppola",
+    "Slav Petrov"
+  ],
+  "languages": [
+    "Chinese",
+    "Czech",
+    "English",
+    "German",
+    "Japanese",
+    "Spanish",
+    "Catalan"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D15-1159",
+  "acl_url": "https://aclanthology.org/D15-1159/"
+}

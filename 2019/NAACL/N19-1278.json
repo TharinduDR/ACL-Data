@@ -1,0 +1,17 @@
+{
+  "title": "Subword Encoding in Lattice LSTM for Chinese Word Segmentation",
+  "authors": [
+    "Jie Yang",
+    "Yue Zhang",
+    "Shuailong Liang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N19-1278",
+  "acl_url": "https://aclanthology.org/N19-1278/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Summarizing Source Code using a Neural Attention Model",
+  "authors": [
+    "Srinivasan Iyer",
+    "Ioannis Konstas",
+    "Alvin Cheung",
+    "Luke Zettlemoyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "P16-1195",
+  "acl_url": "https://aclanthology.org/P16-1195/"
+}

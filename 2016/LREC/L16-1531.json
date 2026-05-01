@@ -1,0 +1,20 @@
+{
+  "title": "A Regional News Corpora for Contextualized Entity Discovery and Linking",
+  "authors": [
+    "Adrian M.P. Brașoveanu",
+    "Lyndon J.B. Nixon",
+    "Albert Weichselbraun",
+    "Arno Scharl"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "L16-1531",
+  "acl_url": "https://aclanthology.org/L16-1531/"
+}

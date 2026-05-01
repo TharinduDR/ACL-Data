@@ -1,0 +1,38 @@
+{
+  "title": "A Multilingual Wikified Data Set of Educational Material",
+  "authors": [
+    "Iris Hendrickx",
+    "Eirini Takoulioudou",
+    "Thanasis Naskos",
+    "Katia Lida Kermanidis",
+    "Vilemini Sosoni",
+    "Hugo de Vos",
+    "Maria Stasimioti",
+    "Menno van Zaanen",
+    "Panayota Georgakopoulou",
+    "Markus Egg",
+    "Valia Kordoni",
+    "Maja Popovic",
+    "Antal van den Bosch"
+  ],
+  "languages": [
+    "English",
+    "Bulgarian",
+    "Czech",
+    "German",
+    "Croatian",
+    "Dutch",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "L18-1073",
+  "acl_url": "https://aclanthology.org/L18-1073/"
+}

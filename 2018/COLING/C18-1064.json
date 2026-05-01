@@ -1,0 +1,21 @@
+{
+  "title": "RuSentiment: An Enriched Sentiment Analysis Dataset for Social Media in Russian",
+  "authors": [
+    "Anna Rogers",
+    "Alexey Romanov",
+    "Anna Rumshisky",
+    "Svitlana Volkova",
+    "Mikhail Gronas",
+    "Alex Gribov"
+  ],
+  "languages": [
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "C18-1064",
+  "acl_url": "https://aclanthology.org/C18-1064/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "One model, two languages: training bilingual parsers with harmonized treebanks",
+  "authors": [
+    "David Vilares",
+    "Carlos Gómez-Rodríguez",
+    "Miguel A. Alonso"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Swedish",
+    "German"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P16-2069",
+  "acl_url": "https://aclanthology.org/P16-2069/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing",
+  "authors": [
+    "Tal Schuster",
+    "Ori Ram",
+    "Regina Barzilay",
+    "Amir Globerson"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N19-1162",
+  "acl_url": "https://aclanthology.org/N19-1162/"
+}

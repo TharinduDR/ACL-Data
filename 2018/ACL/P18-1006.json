@@ -1,0 +1,24 @@
+{
+  "title": "Triangular Architecture for Rare Language Translation",
+  "authors": [
+    "Shuo Ren",
+    "Wenhu Chen",
+    "Shujie Liu",
+    "Mu Li",
+    "Ming Zhou",
+    "Shuai Ma"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Arabic",
+    "Spanish",
+    "Hebrew",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "P18-1006",
+  "acl_url": "https://aclanthology.org/P18-1006/"
+}

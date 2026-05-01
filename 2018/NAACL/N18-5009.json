@@ -1,0 +1,39 @@
+{
+  "title": "ELISA-EDL: A Cross-lingual Entity Extraction, Linking and Localization System",
+  "authors": [
+    "Boliang Zhang",
+    "Ying Lin",
+    "Xiaoman Pan",
+    "Di Lu",
+    "Jonathan May",
+    "Kevin Knight",
+    "Heng Ji"
+  ],
+  "languages": [
+    "Arabic",
+    "Chechen",
+    "Hausa",
+    "Oromo",
+    "Somali",
+    "Thai",
+    "Tagalog",
+    "Uyghur",
+    "Vietnamese",
+    "Bengali",
+    "Persian",
+    "Hungarian",
+    "Russian",
+    "Tamil",
+    "Tigrinya",
+    "Turkish",
+    "Uzbek",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T11",
+    "T13",
+    "T16"
+  ],
+  "paper_id": "N18-5009",
+  "acl_url": "https://aclanthology.org/N18-5009/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "ArTST: Arabic Text and Speech Transformer",
+  "authors": [
+    "Hawau Olamide Toyin",
+    "Amirbek Djanibekov",
+    "Ajinkya Kulkarni",
+    "Hanan Aldarmaki"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2023.arabicnlp-1.5",
+  "acl_url": "https://aclanthology.org/2023.arabicnlp-1.5/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Density-Driven Cross-Lingual Transfer of Dependency Parsers",
+  "authors": [
+    "Mohammad Sadegh Rasooli",
+    "Michael Collins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "D15-1039",
+  "acl_url": "https://aclanthology.org/D15-1039/"
+}

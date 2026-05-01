@@ -1,0 +1,19 @@
+{
+  "title": "Using Morphological Knowledge in Open-Vocabulary Neural Language Models",
+  "authors": [
+    "Austin Matthews",
+    "Graham Neubig",
+    "Chris Dyer"
+  ],
+  "languages": [
+    "Finnish",
+    "Turkish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N18-1130",
+  "acl_url": "https://aclanthology.org/N18-1130/"
+}

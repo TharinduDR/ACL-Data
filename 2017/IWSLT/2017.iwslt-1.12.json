@@ -1,0 +1,20 @@
+{
+  "title": "Synthetic Data for Neural Machine Translation of Spoken-Dialects",
+  "authors": [
+    "Hany Hassan",
+    "Mostafa Elaraby",
+    "Ahmed Y. Tawfik"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Levantine"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2017.iwslt-1.12",
+  "acl_url": "https://aclanthology.org/2017.iwslt-1.12/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "When and Why are Pre-trained Word Embeddings Useful for Neural Machine Translation?",
+  "authors": [
+    "Ye Qi",
+    "Devendra Singh Sachan",
+    "Matthieu Felix",
+    "Sarguna Janani Padmanabhan",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "Galician",
+    "Portuguese",
+    "Azerbaijani",
+    "Turkish",
+    "Belarusian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "N18-2084",
+  "acl_url": "https://aclanthology.org/N18-2084/"
+}

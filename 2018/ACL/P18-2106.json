@@ -1,0 +1,23 @@
+{
+  "title": "Polyglot Semantic Role Labeling",
+  "authors": [
+    "Phoebe Mulcaire",
+    "Swabha Swayamdipta",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "English",
+    "Catalan",
+    "Czech",
+    "German",
+    "Japanese",
+    "Spanish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P18-2106",
+  "acl_url": "https://aclanthology.org/P18-2106/"
+}

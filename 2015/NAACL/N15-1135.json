@@ -1,0 +1,22 @@
+{
+  "title": "Mining for unambiguous instances to adapt part-of-speech taggers to new domains",
+  "authors": [
+    "Dirk Hovy",
+    "Barbara Plank",
+    "Héctor Martínez Alonso",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Portuguese",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "N15-1135",
+  "acl_url": "https://aclanthology.org/N15-1135/"
+}

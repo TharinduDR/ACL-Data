@@ -1,0 +1,19 @@
+{
+  "title": "NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System",
+  "authors": [
+    "Xi Victoria Lin",
+    "Chenglong Wang",
+    "Luke Zettlemoyer",
+    "Michael D. Ernst"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "L18-1491",
+  "acl_url": "https://aclanthology.org/L18-1491/"
+}

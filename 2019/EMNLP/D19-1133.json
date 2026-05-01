@@ -1,0 +1,21 @@
+{
+  "title": "uniblock: Scoring and Filtering Corpus with Unicode Block Information",
+  "authors": [
+    "Yingbo Gao",
+    "Weiyue Wang",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Russian",
+    "French"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "D19-1133",
+  "acl_url": "https://aclanthology.org/D19-1133/"
+}

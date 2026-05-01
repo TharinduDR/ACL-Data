@@ -1,0 +1,21 @@
+{
+  "title": "Investigating Cross-lingual Alignment Methods for Contextualized Embeddings with Token-Level Evaluation",
+  "authors": [
+    "Qianchu Liu",
+    "Diana McCarthy",
+    "Ivan Vulić",
+    "Anna Korhonen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "K19-1004",
+  "acl_url": "https://aclanthology.org/K19-1004/"
+}

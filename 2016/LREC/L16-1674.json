@@ -1,0 +1,25 @@
+{
+  "title": "Multi-language Speech Collection for NIST LRE",
+  "authors": [
+    "Karen Jones",
+    "Stephanie Strassel",
+    "Kevin Walker",
+    "David Graff",
+    "Jonathan Wright"
+  ],
+  "languages": [
+    "Arabic",
+    "Spanish",
+    "English",
+    "Chinese",
+    "Slavic",
+    "French"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "L16-1674",
+  "acl_url": "https://aclanthology.org/L16-1674/"
+}

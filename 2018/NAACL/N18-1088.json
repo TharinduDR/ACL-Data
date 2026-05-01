@@ -1,0 +1,20 @@
+{
+  "title": "Parsing Tweets into Universal Dependencies",
+  "authors": [
+    "Yijia Liu",
+    "Yi Zhu",
+    "Wanxiang Che",
+    "Bing Qin",
+    "Nathan Schneider",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "N18-1088",
+  "acl_url": "https://aclanthology.org/N18-1088/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "The SETU-DCU Submissions to IWSLT 2024 Low-Resource Speech-to-Text Translation Tasks",
+  "authors": [
+    "Maria Zafar",
+    "Antonio Castaldo",
+    "Neha Gajakos",
+    "Prashanth Nayak",
+    "Rejwanul Haque",
+    "Andy Way"
+  ],
+  "languages": [
+    "Maltese",
+    "Irish",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.iwslt-1.12",
+  "acl_url": "https://aclanthology.org/2024.iwslt-1.12/"
+}

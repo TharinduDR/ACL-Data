@@ -1,0 +1,28 @@
+{
+  "title": "Name Tagging for Low-resource Incident Languages based on Expectation-driven Learning",
+  "authors": [
+    "Boliang Zhang",
+    "Xiaoman Pan",
+    "Tianlu Wang",
+    "Ashish Vaswani",
+    "Heng Ji",
+    "Kevin Knight",
+    "Daniel Marcu"
+  ],
+  "languages": [
+    "Bengali",
+    "Hausa",
+    "Tagalog",
+    "Tamil",
+    "Thai",
+    "Turkish",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "N16-1029",
+  "acl_url": "https://aclanthology.org/N16-1029/"
+}

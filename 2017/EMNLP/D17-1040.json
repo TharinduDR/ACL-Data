@@ -1,0 +1,22 @@
+{
+  "title": "Efficient Attention using a Fixed-Size Memory Representation",
+  "authors": [
+    "Denny Britz",
+    "Melody Y. Guan",
+    "Minh-Thang Luong"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Turkish",
+    "Czech"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "D17-1040",
+  "acl_url": "https://aclanthology.org/D17-1040/"
+}

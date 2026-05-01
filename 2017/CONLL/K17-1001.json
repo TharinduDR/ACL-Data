@@ -1,0 +1,23 @@
+{
+  "title": "Should Neural Network Architecture Reflect Linguistic Structure?",
+  "authors": [
+    "Chris Dyer",
+    "Adhi Kuncoro",
+    "Dani Yogatama",
+    "Miguel Ballesteros",
+    "Phil Blunsom",
+    "Ed Grefenstette",
+    "Wang Ling",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "K17-1001",
+  "acl_url": "https://aclanthology.org/K17-1001/"
+}

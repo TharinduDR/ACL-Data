@@ -1,0 +1,23 @@
+{
+  "title": "Cross-lingual Linking of Multi-word Entities and their corresponding Acronyms",
+  "authors": [
+    "Guillaume Jacquet",
+    "Maud Ehrmann",
+    "Ralf Steinberger",
+    "Jaakko Väyrynen"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "L16-1084",
+  "acl_url": "https://aclanthology.org/L16-1084/"
+}

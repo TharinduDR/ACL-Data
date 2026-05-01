@@ -1,0 +1,21 @@
+{
+  "title": "Discriminative Neural Sentence Modeling by Tree-Based Convolution",
+  "authors": [
+    "Lili Mou",
+    "Hao Peng",
+    "Ge Li",
+    "Yan Xu",
+    "Lu Zhang",
+    "Zhi Jin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "D15-1279",
+  "acl_url": "https://aclanthology.org/D15-1279/"
+}

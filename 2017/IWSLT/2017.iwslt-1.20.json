@@ -1,0 +1,24 @@
+{
+  "title": "CHARCUT: Human-Targeted Character-Based MT Evaluation with Loose Differences",
+  "authors": [
+    "Adrien Lardilleux",
+    "Yves Lepage"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Finnish",
+    "German",
+    "Romanian",
+    "Turkish",
+    "Russian",
+    "Chinese",
+    "Polish"
+  ],
+  "research_areas": [
+    "T16",
+    "T08"
+  ],
+  "paper_id": "2017.iwslt-1.20",
+  "acl_url": "https://aclanthology.org/2017.iwslt-1.20/"
+}

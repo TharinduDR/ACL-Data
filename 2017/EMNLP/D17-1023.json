@@ -1,0 +1,19 @@
+{
+  "title": "Ngram2vec: Learning Improved Word Representations from Ngram Co-occurrence Statistics",
+  "authors": [
+    "Zhe Zhao",
+    "Tao Liu",
+    "Shen Li",
+    "Bofang Li",
+    "Xiaoyong Du"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "D17-1023",
+  "acl_url": "https://aclanthology.org/D17-1023/"
+}

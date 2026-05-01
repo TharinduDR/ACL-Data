@@ -1,0 +1,21 @@
+{
+  "title": "KRAUTS: A German Temporally Annotated News Corpus",
+  "authors": [
+    "Jannik Strötgens",
+    "Anne-Lyse Minard",
+    "Lukas Lange",
+    "Manuela Speranza",
+    "Bernardo Magnini"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "L18-1085",
+  "acl_url": "https://aclanthology.org/L18-1085/"
+}

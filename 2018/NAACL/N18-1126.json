@@ -1,0 +1,35 @@
+{
+  "title": "Context Sensitive Neural Lemmatization with Lematus",
+  "authors": [
+    "Toms Bergmanis",
+    "Sharon Goldwater"
+  ],
+  "languages": [
+    "Arabic",
+    "Basque",
+    "Croatian",
+    "Dutch",
+    "Estonian",
+    "Finnish",
+    "German",
+    "Greek",
+    "Hindi",
+    "Hungarian",
+    "Italian",
+    "Latvian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Slovak",
+    "Slovene",
+    "Turkish",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N18-1126",
+  "acl_url": "https://aclanthology.org/N18-1126/"
+}

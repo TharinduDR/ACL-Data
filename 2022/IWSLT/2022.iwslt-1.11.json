@@ -1,0 +1,20 @@
+{
+  "title": "The YiTrans End-to-End Speech Translation System for IWSLT 2022 Offline Shared Task",
+  "authors": [
+    "Ziqiang Zhang",
+    "Junyi Ao"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.iwslt-1.11",
+  "acl_url": "https://aclanthology.org/2022.iwslt-1.11/"
+}

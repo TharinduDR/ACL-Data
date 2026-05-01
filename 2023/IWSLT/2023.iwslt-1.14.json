@@ -1,0 +1,29 @@
+{
+  "title": "HW-TSC at IWSLT2023: Break the Quality Ceiling of Offline Track via Pre-Training and Domain Adaptation",
+  "authors": [
+    "Zongyao Li",
+    "Zhanglin Wu",
+    "Zhiqiang Rao",
+    "Xie YuHao",
+    "Guo JiaXin",
+    "Daimeng Wei",
+    "Hengchao Shang",
+    "Wang Minghan",
+    "Xiaoyu Chen",
+    "Zhengzhe YU",
+    "Li ShaoJun",
+    "Lei LiZhi",
+    "Hao Yang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.iwslt-1.14",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.14/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "HITSZ's End-To-End Speech Translation Systems Combining Sequence-to-Sequence Auto Speech Recognition Model and Indic Large Language Model for IWSLT 2025 in Indic Track",
+  "authors": [
+    "Xuchen Wei",
+    "Yangxin Wu",
+    "Yaoyin Zhang",
+    "Henglyu Liu",
+    "Kehai Chen",
+    "Xuefeng Bai",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Hindi",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.iwslt-1.43",
+  "acl_url": "https://aclanthology.org/2025.iwslt-1.43/"
+}

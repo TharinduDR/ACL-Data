@@ -1,0 +1,52 @@
+{
+  "title": "KL_cpos³ – a Language Similarity Measure for Delexicalized Parser Transfer",
+  "authors": [
+    "Rudolf Rosa",
+    "Zdeněk Žabokrtský"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Hungarian",
+    "Italian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Arabic",
+    "Bengali",
+    "Czech",
+    "Dutch",
+    "Finnish",
+    "Hebrew",
+    "Hindi",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Malay",
+    "Persian",
+    "Polish",
+    "Romanian",
+    "Serbian",
+    "Slovak",
+    "Slovenian",
+    "Swedish",
+    "Thai",
+    "Tamil",
+    "Telugu",
+    "Vietnamese",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "P15-2040",
+  "acl_url": "https://aclanthology.org/P15-2040/"
+}

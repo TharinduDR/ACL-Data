@@ -1,0 +1,23 @@
+{
+  "title": "Cross-lingual Argumentation Mining: Machine Translation (and a bit of Projection) is All You Need!",
+  "authors": [
+    "Steffen Eger",
+    "Johannes Daxenberger",
+    "Christian Stab",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "C18-1071",
+  "acl_url": "https://aclanthology.org/C18-1071/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "The United Nations Parallel Corpus v1.0",
+  "authors": [
+    "Michał Ziemski",
+    "Marcin Junczys-Dowmunt",
+    "Bruno Pouliquen"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "French",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "L16-1561",
+  "acl_url": "https://aclanthology.org/L16-1561/"
+}

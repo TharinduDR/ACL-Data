@@ -1,0 +1,23 @@
+{
+  "title": "Accurate Cross-lingual Projection between Count-based Word Vectors by Exploiting Translatable Context Pairs",
+  "authors": [
+    "Shonosuke Ishiwatari",
+    "Nobuhiro Kaji",
+    "Naoki Yoshinaga",
+    "Masashi Toyoda",
+    "Masaru Kitsuregawa"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "K15-1030",
+  "acl_url": "https://aclanthology.org/K15-1030/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "MMQA: A Multi-domain Multi-lingual Question-Answering Framework for English and Hindi",
+  "authors": [
+    "Deepak Gupta",
+    "Surabhi Kumari",
+    "Asif Ekbal",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "L18-1440",
+  "acl_url": "https://aclanthology.org/L18-1440/"
+}

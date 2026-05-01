@@ -1,0 +1,28 @@
+{
+  "title": "LIMSI@CoNLL'17: UD Shared Task",
+  "authors": [
+    "Lauriane Aufrant",
+    "Guillaume Wisniewski"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "Japanese",
+    "Vietnamese",
+    "Uyghur",
+    "Kazakh",
+    "Czech",
+    "Galician",
+    "Hungarian",
+    "Swedish",
+    "Portuguese",
+    "Persian",
+    "Punjabi"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K17-3017",
+  "acl_url": "https://aclanthology.org/K17-3017/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "GenDR: A Generic Deep Realizer with Complex Lexicalization",
+  "authors": [
+    "François Lareau",
+    "Florie Lambrey",
+    "Ieva Dubinskaite",
+    "Daniel Galarreta-Piquette",
+    "Maryam Nejat"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Lithuanian",
+    "Persian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L18-1478",
+  "acl_url": "https://aclanthology.org/L18-1478/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "A Transition-based System for Universal Dependency Parsing",
+  "authors": [
+    "Hao Wang",
+    "Hai Zhao",
+    "Zhishong Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Persian",
+    "Turkish",
+    "Finnish",
+    "Czech",
+    "Buryat",
+    "Kurmanji",
+    "North Sami",
+    "Upper Sorbian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K17-3020",
+  "acl_url": "https://aclanthology.org/K17-3020/"
+}

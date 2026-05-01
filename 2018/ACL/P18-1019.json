@@ -1,0 +1,22 @@
+{
+  "title": "A Corpus with Multi-Level Annotations of Patients, Interventions and Outcomes to Support Language Processing for Medical Literature",
+  "authors": [
+    "Benjamin Nye",
+    "Junyi Jessy Li",
+    "Roma Patel",
+    "Yinfei Yang",
+    "Iain J. Marshall",
+    "Ani Nenkova",
+    "Byron C. Wallace"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "P18-1019",
+  "acl_url": "https://aclanthology.org/P18-1019/"
+}

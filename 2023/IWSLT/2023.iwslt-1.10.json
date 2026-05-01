@@ -1,0 +1,22 @@
+{
+  "title": "NAVER LABS Europe's Multilingual Speech Translation Systems for the IWSLT 2023 Low-Resource Track",
+  "authors": [
+    "Edward Gow-Smith",
+    "Alexandre Bérard",
+    "Marcely Zanon Boito",
+    "Ioan Calapodescu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Tamasheq",
+    "Quechua"
+  ],
+  "research_areas": [
+    "T16",
+    "T24"
+  ],
+  "paper_id": "2023.iwslt-1.10",
+  "acl_url": "https://aclanthology.org/2023.iwslt-1.10/"
+}

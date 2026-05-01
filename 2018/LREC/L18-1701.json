@@ -1,0 +1,17 @@
+{
+  "title": "BiLSTM-CRF for Persian Named-Entity Recognition",
+  "authors": [
+    "Hanieh Poostchi",
+    "Ehsan Zare Borzeshi",
+    "Massimo Piccardi"
+  ],
+  "languages": [
+    "Persian"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "L18-1701",
+  "acl_url": "https://aclanthology.org/L18-1701/"
+}

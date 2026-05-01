@@ -1,0 +1,48 @@
+{
+  "title": "Learning Unsupervised Multilingual Word Embeddings with Incremental Multilingual Hubs",
+  "authors": [
+    "Geert Heyman",
+    "Bregt Verreet",
+    "Ivan Vulić",
+    "Marie-Francine Moens"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Bulgarian",
+    "Chinese",
+    "Portuguese",
+    "Spanish",
+    "French",
+    "German",
+    "Italian",
+    "Dutch",
+    "Russian",
+    "Arabic",
+    "Persian",
+    "Turkish",
+    "Vietnamese",
+    "Thai",
+    "Indonesian",
+    "Malay",
+    "Korean",
+    "Japanese",
+    "Hindi",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Swahili",
+    "Cantonese",
+    "Mandarin Chinese",
+    "Chinese (Simplified)",
+    "Chinese (Traditional)"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "N19-1188",
+  "acl_url": "https://aclanthology.org/N19-1188/"
+}

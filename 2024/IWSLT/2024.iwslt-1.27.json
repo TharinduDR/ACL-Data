@@ -1,0 +1,26 @@
+{
+  "title": "The KIT Speech Translation Systems for IWSLT 2024 Dialectal and Low-resource Track",
+  "authors": [
+    "Zhaolin Li",
+    "Enes Yavuz Ugan",
+    "Danni Liu",
+    "Carlos Mullov",
+    "Tu Anh Dinh",
+    "Sai Koneru",
+    "Alexander Waibel",
+    "Jan Niehues"
+  ],
+  "languages": [
+    "English",
+    "Maltese",
+    "Tunisian Arabic",
+    "North Levantine Arabic",
+    "Bemba"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.iwslt-1.27",
+  "acl_url": "https://aclanthology.org/2024.iwslt-1.27/"
+}

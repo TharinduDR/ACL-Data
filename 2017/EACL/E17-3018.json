@@ -1,0 +1,20 @@
+{
+  "title": "A tool for extracting sense-disambiguated example sentences through user feedback",
+  "authors": [
+    "Beto Boullosa",
+    "Richard Eckart de Castilho",
+    "Alexander Geyken",
+    "Lothar Lemnitzer",
+    "Iryna Gurevych"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "E17-3018",
+  "acl_url": "https://aclanthology.org/E17-3018/"
+}

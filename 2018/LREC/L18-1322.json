@@ -1,0 +1,19 @@
+{
+  "title": "Biomedical term normalization of EHRs with UMLS",
+  "authors": [
+    "Naiara Perez-Miguel",
+    "Montse Cuadros",
+    "German Rigau"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "L18-1322",
+  "acl_url": "https://aclanthology.org/L18-1322/"
+}

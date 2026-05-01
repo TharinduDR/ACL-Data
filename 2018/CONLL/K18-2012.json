@@ -1,0 +1,32 @@
+{
+  "title": "Tree-stack LSTM in Transition Based Dependency Parsing",
+  "authors": [
+    "Ömer Kırnap",
+    "Erenay Dayanık",
+    "Deniz Yuret"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "French",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "K18-2012",
+  "acl_url": "https://aclanthology.org/K18-2012/"
+}

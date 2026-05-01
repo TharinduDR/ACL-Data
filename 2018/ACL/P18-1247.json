@@ -1,0 +1,23 @@
+{
+  "title": "Neural Factor Graph Models for Cross-lingual Morphological Tagging",
+  "authors": [
+    "Chaitanya Malaviya",
+    "Matthew R. Gormley",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "Portuguese",
+    "Spanish",
+    "Danish",
+    "Swedish",
+    "Russian",
+    "Bulgarian",
+    "Finnish",
+    "Hungarian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "P18-1247",
+  "acl_url": "https://aclanthology.org/P18-1247/"
+}

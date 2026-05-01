@@ -1,0 +1,24 @@
+{
+  "title": "NAIST Simultaneous Speech-to-Text Translation System for IWSLT 2022",
+  "authors": [
+    "Ryo Fukuda",
+    "Yuka Ko",
+    "Yasumasa Kano",
+    "Kosuke Doi",
+    "Hirotaka Tokuyama",
+    "Sakriani Sakti",
+    "Katsuhito Sudoh",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.iwslt-1.25",
+  "acl_url": "https://aclanthology.org/2022.iwslt-1.25/"
+}

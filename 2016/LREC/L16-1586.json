@@ -1,0 +1,20 @@
+{
+  "title": "Semantic Annotation of the ACL Anthology Corpus for the Automatic Analysis of Scientific Literature",
+  "authors": [
+    "Kata Gábor",
+    "Haifa Zargayouna",
+    "Davide Buscaldi",
+    "Isabelle Tellier",
+    "Thierry Charnois"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "L16-1586",
+  "acl_url": "https://aclanthology.org/L16-1586/"
+}

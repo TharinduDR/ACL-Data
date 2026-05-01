@@ -1,0 +1,19 @@
+{
+  "title": "EN-ES-CS: An English-Spanish Code-Switching Twitter Corpus for Multilingual Sentiment Analysis",
+  "authors": [
+    "David Vilares",
+    "Miguel A. Alonso",
+    "Carlos Gómez-Rodríguez"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "L16-1655",
+  "acl_url": "https://aclanthology.org/L16-1655/"
+}

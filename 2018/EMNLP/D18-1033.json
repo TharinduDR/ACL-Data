@@ -1,0 +1,21 @@
+{
+  "title": "Cross-lingual Lexical Sememe Prediction",
+  "authors": [
+    "Fanchao Qi",
+    "Yankai Lin",
+    "Maosong Sun",
+    "Hao Zhu",
+    "Ruobing Xie",
+    "Zhiyuan Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "D18-1033",
+  "acl_url": "https://aclanthology.org/D18-1033/"
+}

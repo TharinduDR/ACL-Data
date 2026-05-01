@@ -1,0 +1,29 @@
+{
+  "title": "The HW-TSC's Offline Speech Translation System for IWSLT 2022 Evaluation",
+  "authors": [
+    "Yinglu Li",
+    "Minghan Wang",
+    "Jiaxin Guo",
+    "Xiaosong Qiao",
+    "Yuxia Wang",
+    "Daimeng Wei",
+    "Chang Su",
+    "Yimeng Chen",
+    "Min Zhang",
+    "Shimin Tao",
+    "Hao Yang",
+    "Ying Qin"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.iwslt-1.20",
+  "acl_url": "https://aclanthology.org/2022.iwslt-1.20/"
+}

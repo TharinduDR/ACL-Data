@@ -1,0 +1,21 @@
+{
+  "title": "Who Are We Talking About? Handling Person Names in Speech Translation",
+  "authors": [
+    "Marco Gaido",
+    "Matteo Negri",
+    "Marco Turchi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.iwslt-1.6",
+  "acl_url": "https://aclanthology.org/2022.iwslt-1.6/"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Cross-lingual Dependency Parsing with Unlabeled Auxiliary Languages",
+  "authors": [
+    "Wasi Uddin Ahmad",
+    "Zhisong Zhang",
+    "Xuezhe Ma",
+    "Kai-Wei Chang",
+    "Nanyun Peng"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Hebrew",
+    "Indonesian",
+    "Latin",
+    "Danish",
+    "Dutch",
+    "English",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "Hindi",
+    "Catalan",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Spanish",
+    "Bulgarian",
+    "Croatian",
+    "Czech",
+    "Polish",
+    "Russian",
+    "Slovak",
+    "Slovenian",
+    "Ukrainian",
+    "Korean",
+    "Estonian",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T11",
+    "T21"
+  ],
+  "paper_id": "K19-1035",
+  "acl_url": "https://aclanthology.org/K19-1035/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Unsupervised Morphology Induction Using Word Embeddings",
+  "authors": [
+    "Radu Soricut",
+    "Franz Och"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Romanian",
+    "Arabic",
+    "Uzbek"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "N15-1186",
+  "acl_url": "https://aclanthology.org/N15-1186/"
+}

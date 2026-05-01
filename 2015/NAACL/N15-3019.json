@@ -1,0 +1,20 @@
+{
+  "title": "CroVeWA: Crosslingual Vector-Based Writing Assistance",
+  "authors": [
+    "Hubert Soyer",
+    "Goran Topic",
+    "Pontus Stenetorp",
+    "Akiko Aizawa"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "N15-3019",
+  "acl_url": "https://aclanthology.org/N15-3019/"
+}

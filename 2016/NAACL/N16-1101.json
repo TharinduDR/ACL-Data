@@ -1,0 +1,21 @@
+{
+  "title": "Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism",
+  "authors": [
+    "Orhan Firat",
+    "Kyunghyun Cho",
+    "Yoshua Bengio"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Czech",
+    "German",
+    "Russian",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "N16-1101",
+  "acl_url": "https://aclanthology.org/N16-1101/"
+}
