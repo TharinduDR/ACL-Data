@@ -1,0 +1,16 @@
+{
+  "title": "BERTatDE at SemEval-2020 Task 6: Extracting term-definition pairs in free text using pre-trained model",
+  "authors": [
+    "Huihui Zhang",
+    "Feiliang Ren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.semeval-1.90",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.90/"
+}

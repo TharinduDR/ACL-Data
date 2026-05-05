@@ -1,0 +1,26 @@
+{
+  "title": "Findings of the WMT 2025 Shared Task: LLMs with Limited Resources for Slavic Languages: MT and QA",
+  "authors": [
+    "Shu Okabe",
+    "Daryna Dementieva",
+    "Marion Di Marco",
+    "Lukas Edman",
+    "Kathy Hämmerl",
+    "Marko Měškank",
+    "Anita Hendrichowa",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "German",
+    "Upper Sorbian",
+    "Lower Sorbian",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.wmt-1.27",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.27/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "SFE-AI at SemEval-2022 Task 11: Low-Resource Named Entity Recognition using Large Pre-trained Language Models",
+  "authors": [
+    "Changyu Hou",
+    "Jun Wang",
+    "Yixuan Qiao",
+    "Peng Jiang",
+    "Peng Gao",
+    "Guotong Xie",
+    "Qizhi Lin",
+    "Xiaopeng Wang",
+    "Xiandi Jiang",
+    "Benqi Wang",
+    "Qifeng Xiao"
+  ],
+  "languages": [
+    "Persian",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2022.semeval-1.219",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.219/"
+}

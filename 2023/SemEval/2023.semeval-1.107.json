@@ -1,0 +1,19 @@
+{
+  "title": "NCUEE-NLP at SemEval-2023 Task 7: Ensemble Biomedical LinkBERT Transformers in Multi-evidence Natural Language Inference for Clinical Trial Data",
+  "authors": [
+    "Chao-Yi Chen",
+    "Kao-Yuan Tien",
+    "Yuan-Hao Cheng",
+    "Lung-Hao Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2023.semeval-1.107",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.107/"
+}

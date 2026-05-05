@@ -1,0 +1,21 @@
+{
+  "title": "Contextual Encoding for Translation Quality Estimation",
+  "authors": [
+    "Junjie Hu",
+    "Wei-Cheng Chang",
+    "Yuexin Wu",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech",
+    "Latvian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-6462",
+  "acl_url": "https://aclanthology.org/W18-6462/"
+}

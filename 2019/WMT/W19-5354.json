@@ -1,0 +1,26 @@
+{
+  "title": "The MuCoW test suite at WMT 2019: Automatically harvested multilingual contrastive word sense disambiguation test sets for machine translation",
+  "authors": [
+    "Alessandro Raganato",
+    "Yves Scherrer",
+    "Jörg Tiedemann"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Italian",
+    "Finnish",
+    "Czech",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W19-5354",
+  "acl_url": "https://aclanthology.org/W19-5354/"
+}

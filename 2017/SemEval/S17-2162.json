@@ -1,0 +1,19 @@
+{
+  "title": "NTNU-1@ScienceIE at SemEval-2017 Task 10: Identifying and Labelling Keyphrases with Conditional Random Fields",
+  "authors": [
+    "Erwin Marsi",
+    "Utpal Skidar",
+    "Cristina Marco",
+    "Biswanath Barik",
+    "Rune Saetre"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "S17-2162",
+  "acl_url": "https://aclanthology.org/S17-2162/"
+}

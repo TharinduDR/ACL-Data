@@ -1,0 +1,18 @@
+{
+  "title": "Semi-Supervised Teacher-Student Architecture for Relation Extraction",
+  "authors": [
+    "Fan Luo",
+    "Ajay Nagesh",
+    "Rebecca Sharp",
+    "Mihai Surdeanu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W19-1505",
+  "acl_url": "https://aclanthology.org/W19-1505/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "SRCB at SemEval-2022 Task 5: Pretraining Based Image to Text Late Sequential Fusion System for Multimodal Misogynous Meme Identification",
+  "authors": [
+    "Yujin Wang",
+    "Jing Zhang",
+    "Bohua Peng",
+    "Xudong Zhang",
+    "Xiaoyan Qu",
+    "Yimeng Zhuang",
+    "Song Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.semeval-1.81",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.81/"
+}

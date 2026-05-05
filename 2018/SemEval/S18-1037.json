@@ -1,0 +1,23 @@
+{
+  "title": "NTUA-SLP at SemEval-2018 Task 1: Predicting Affective Content in Tweets with Deep Attentive RNNs and Transfer Learning",
+  "authors": [
+    "Christos Baziotis",
+    "Nikos Athanasiou",
+    "Alexandra Chronopoulou",
+    "Athanasia Kolovou",
+    "Georgios Paraskevopoulos",
+    "Nikolaos Ellinas",
+    "Shrikanth Narayanan",
+    "Alexandros Potamianos"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "S18-1037",
+  "acl_url": "https://aclanthology.org/S18-1037/"
+}

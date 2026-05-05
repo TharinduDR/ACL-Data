@@ -1,0 +1,29 @@
+{
+  "title": "Sartipi-Sedighin at SemEval-2023 Task 2: Fine-grained Named Entity Recognition with Pre-trained Contextual Language Models and Data Augmentation from Wikipedia",
+  "authors": [
+    "Amir Sartipi",
+    "Amirreza Sedighin",
+    "Afsaneh Fatemi",
+    "Hamidreza Baradaran Kashani"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Portuguese",
+    "Italian",
+    "German",
+    "Persian",
+    "Chinese",
+    "Hindi",
+    "Bengali",
+    "Ukrainian",
+    "Farsi"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.semeval-1.78",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.78/"
+}

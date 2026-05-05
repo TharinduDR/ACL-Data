@@ -1,0 +1,21 @@
+{
+  "title": "Edinburgh Neural Machine Translation Systems for WMT 16",
+  "authors": [
+    "Rico Sennrich",
+    "Barry Haddow",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W16-2323",
+  "acl_url": "https://aclanthology.org/W16-2323/"
+}

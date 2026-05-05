@@ -1,0 +1,17 @@
+{
+  "title": "CUNI Transformer Neural MT System for WMT18",
+  "authors": [
+    "Martin Popel"
+  ],
+  "languages": [
+    "English",
+    "Czech"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-6424",
+  "acl_url": "https://aclanthology.org/W18-6424/"
+}

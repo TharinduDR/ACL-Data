@@ -1,0 +1,17 @@
+{
+  "title": "JBNU at SemEval-2020 Task 4: BERT and UniLM for Commonsense Validation and Explanation",
+  "authors": [
+    "Jong-Hyeon Lee",
+    "Seung-Hoon Na"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.semeval-1.65",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.65/"
+}

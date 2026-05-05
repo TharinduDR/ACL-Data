@@ -1,0 +1,16 @@
+{
+  "title": "Lotus at SemEval-2025 Task 11: RoBERTa with LLaMA-3 Generated Explanations for Multi-Label Emotion Classification",
+  "authors": [
+    "Niloofar Ranjbar",
+    "Hamed Baghbani"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.semeval-1.60",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.60/"
+}

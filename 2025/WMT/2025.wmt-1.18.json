@@ -1,0 +1,21 @@
+{
+  "title": "SONAR-SLT: Multilingual Sign Language Translation via Language-Agnostic Sentence Embedding Supervision",
+  "authors": [
+    "Yasser Hamidullah",
+    "Shakib Yazdani",
+    "Cennet Oguz",
+    "Josef van Genabith",
+    "Cristina España-Bonet"
+  ],
+  "languages": [
+    "German",
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16",
+    "T17"
+  ],
+  "paper_id": "2025.wmt-1.18",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.18/"
+}

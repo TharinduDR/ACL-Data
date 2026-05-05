@@ -1,0 +1,18 @@
+{
+  "title": "CUNI English-Czech and English-Polish Systems in WMT20: Robust Document-Level Training",
+  "authors": [
+    "Martin Popel"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Polish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.28",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.28/"
+}

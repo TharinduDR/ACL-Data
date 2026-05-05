@@ -1,0 +1,27 @@
+{
+  "title": "SkoltechNLP at SemEval-2022 Task 8: Multilingual News Article Similarity via Exploration of News Texts to Vector Representations",
+  "authors": [
+    "Mikhail Kuimov",
+    "Daryna Dementieva",
+    "Alexander Panchenko"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Latvian",
+    "Dutch",
+    "Portuguese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11",
+    "T14",
+    "T12"
+  ],
+  "paper_id": "2022.semeval-1.160",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.160/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "BreakingBERT@IITK at SemEval-2021: Task 9: Statement Verification and Evidence Finding with Tables",
+  "authors": [
+    "Aditya Jindal",
+    "Ankur Gupta",
+    "Jaya Srivastava",
+    "Preeti Menghwani",
+    "Vijit Malik",
+    "Vishesh Kaushik",
+    "Ashutosh Modi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2021.semeval-1.40",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.40/"
+}

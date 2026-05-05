@@ -1,0 +1,23 @@
+{
+  "title": "Findings of the WMT 2018 Shared Task on Quality Estimation",
+  "authors": [
+    "Lucia Specia",
+    "Frédéric Blain",
+    "Varvara Logacheva",
+    "Ramón F. Astudillo",
+    "André Martins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech",
+    "Latvian",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-6451",
+  "acl_url": "https://aclanthology.org/W18-6451/"
+}

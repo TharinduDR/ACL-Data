@@ -1,0 +1,22 @@
+{
+  "title": "Findings of the WMT 2020 Shared Task on Parallel Corpus Filtering and Alignment",
+  "authors": [
+    "Philipp Koehn",
+    "Vishrav Chaudhary",
+    "Ahmed El-Kishky",
+    "Naman Goyal",
+    "Peng-Jen Chen",
+    "Francisco Guzmán"
+  ],
+  "languages": [
+    "Pashto",
+    "Khmer",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.wmt-1.78",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.78/"
+}

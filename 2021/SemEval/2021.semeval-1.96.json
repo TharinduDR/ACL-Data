@@ -1,0 +1,21 @@
+{
+  "title": "Cambridge at SemEval-2021 Task 2: Neural WiC-Model with Data Augmentation and Exploration of Representation",
+  "authors": [
+    "Zheng Yuan",
+    "David Strohmaier"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "French",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.semeval-1.96",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.96/"
+}

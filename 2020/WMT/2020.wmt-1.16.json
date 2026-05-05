@@ -1,0 +1,24 @@
+{
+  "title": "Samsung R&D Institute Poland submission to WMT20 News Translation Task",
+  "authors": [
+    "Mateusz Krubiński",
+    "Marcin Chochowski",
+    "Bartłomiej Boczek",
+    "Mikołaj Koszowski",
+    "Adam Dobrowolski",
+    "Marcin Szymański",
+    "Paweł Przybylsz"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Polish",
+    "Inuktitut"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.wmt-1.16",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.16/"
+}

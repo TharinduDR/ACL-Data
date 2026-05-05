@@ -1,0 +1,29 @@
+{
+  "title": "EdinHelsOW WMT 2025 CreoleMT System Description: Improving Lusophone Creole Translation through Data Augmentation, Model Merging and LLM Post-editing",
+  "authors": [
+    "Jacqueline Rowe",
+    "Ona de Gibert",
+    "Mateusz Klimaszewski",
+    "Coleman Haley",
+    "Alexandra Birch",
+    "Yves Scherrer"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Angolar",
+    "Annobonese",
+    "Guinea-Bissau Creole",
+    "Kabuverdianu",
+    "Papiamento",
+    "Principense",
+    "São Tomense"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.wmt-1.91",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.91/"
+}

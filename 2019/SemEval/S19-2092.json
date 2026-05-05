@@ -1,0 +1,19 @@
+{
+  "title": "UNBNLP at SemEval-2019 Task 5 and 6: Using Language Models to Detect Hate Speech and Offensive Language",
+  "authors": [
+    "Ali Hakimi Parizi",
+    "Milton King",
+    "Paul Cook"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "S19-2092",
+  "acl_url": "https://aclanthology.org/S19-2092/"
+}

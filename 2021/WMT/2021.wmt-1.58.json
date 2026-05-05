@@ -1,0 +1,22 @@
+{
+  "title": "Just Ask! Evaluating Machine Translation by Asking and Answering Questions",
+  "authors": [
+    "Mateusz Krubinski",
+    "Erfan Ghadery",
+    "Marie-Francine Moens",
+    "Pavel Pecina"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.wmt-1.58",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.58/"
+}

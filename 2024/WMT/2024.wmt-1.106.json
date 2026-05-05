@@ -1,0 +1,22 @@
+{
+  "title": "Graph Representations for Machine Translation in Dialogue Settings",
+  "authors": [
+    "Lea Krause",
+    "Selene Baez Santamaria",
+    "Jan-Christoph Kalo"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Dutch",
+    "French",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2024.wmt-1.106",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.106/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Tencent Translation System for the WMT21 News Translation Task",
+  "authors": [
+    "Longyue Wang",
+    "Mu Li",
+    "Fangxu Liu",
+    "Shuming Shi",
+    "Zhaopeng Tu",
+    "Xing Wang",
+    "Shuangzhi Wu",
+    "Jiali Zeng",
+    "Wen Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.wmt-1.20",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.20/"
+}

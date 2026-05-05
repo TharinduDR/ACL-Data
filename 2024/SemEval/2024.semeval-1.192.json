@@ -1,0 +1,21 @@
+{
+  "title": "VerbaNexAI Lab at SemEval-2024 Task 10: Emotion recognition and reasoning in mixed-coded conversations based on an NRC VAD approach",
+  "authors": [
+    "Santiago Garcia",
+    "Elizabeth Martinez",
+    "Juan Cuadrado",
+    "Juan Carlos Martinez-Santos",
+    "Edwin Puertas"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.semeval-1.192",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.192/"
+}

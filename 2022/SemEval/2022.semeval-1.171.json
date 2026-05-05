@@ -1,0 +1,26 @@
+{
+  "title": "Nikkei at SemEval-2022 Task 8: Exploring BERT-based Bi-Encoder Approach for Pairwise Multilingual News Article Similarity",
+  "authors": [
+    "Shotaro Ishihara",
+    "Hono Shirai"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Turkish",
+    "Polish",
+    "Arabic",
+    "French",
+    "Russian",
+    "Chinese",
+    "Italian"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.semeval-1.171",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.171/"
+}

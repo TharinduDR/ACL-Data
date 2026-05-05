@@ -1,0 +1,17 @@
+{
+  "title": "IDS at SemEval-2020 Task 10: Does Pre-trained Language Model Know What to Emphasize?",
+  "authors": [
+    "Jaeyoul Shin",
+    "Taeuk Kim",
+    "Sang-goo Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.semeval-1.185",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.185/"
+}

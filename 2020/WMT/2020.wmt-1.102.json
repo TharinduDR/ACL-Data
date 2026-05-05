@@ -1,0 +1,40 @@
+{
+  "title": "Learning to Evaluate Translation Beyond English: BLEURT Submissions to the WMT Metrics 2020 Shared Task",
+  "authors": [
+    "Thibault Sellam",
+    "Amy Pu",
+    "Hyung Won Chung",
+    "Sebastian Gehrmann",
+    "Qijun Tan",
+    "Markus Freitag",
+    "Dipanjan Das",
+    "Ankur P. Parikh"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Finnish",
+    "Kazakh",
+    "Lithuanian",
+    "Russian",
+    "Turkish",
+    "Chinese",
+    "Czech",
+    "Estonian",
+    "French",
+    "Gujarati",
+    "Khmer",
+    "Polish",
+    "Romanian",
+    "Tamil",
+    "Inuktitut",
+    "Japanese",
+    "Pastho"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.102",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.102/"
+}

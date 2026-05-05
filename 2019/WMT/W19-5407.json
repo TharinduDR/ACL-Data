@@ -1,0 +1,21 @@
+{
+  "title": "QE BERT: Bilingual BERT using Multi-task Learning for Neural Quality Estimation",
+  "authors": [
+    "Hyeon Kim",
+    "Joon-Ho Lim",
+    "Hyun-Ki Kim",
+    "Seung-Hoon Na"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W19-5407",
+  "acl_url": "https://aclanthology.org/W19-5407/"
+}

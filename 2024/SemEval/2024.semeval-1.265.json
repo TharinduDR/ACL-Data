@@ -1,0 +1,20 @@
+{
+  "title": "Edinburgh Clinical NLP at SemEval-2024 Task 2: Fine-tune your model unless you have access to GPT-4",
+  "authors": [
+    "Aryo Pradipta Gema",
+    "Giwon Hong",
+    "Pasquale Minervini",
+    "Luke Daines",
+    "Beatrice Alex"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.265",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.265/"
+}

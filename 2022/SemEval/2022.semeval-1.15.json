@@ -1,0 +1,21 @@
+{
+  "title": "Hitachi at SemEval-2022 Task 2: On the Effectiveness of Span-based Classification Approaches for Multilingual Idiomaticity Detection",
+  "authors": [
+    "Atsuki Yamaguchi",
+    "Gaku Morio",
+    "Hiroaki Ozaki",
+    "Yasuhiro Sogawa"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Galician"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.15",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.15/"
+}

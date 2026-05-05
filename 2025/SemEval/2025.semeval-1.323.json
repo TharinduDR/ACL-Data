@@ -1,0 +1,39 @@
+{
+  "title": "SemEval-2025 Task 7: Multilingual and Crosslingual Fact-Checked Claim Retrieval",
+  "authors": [
+    "Qiqi Peng",
+    "Robert Moro",
+    "Michal Gregor",
+    "Ivan Srba",
+    "Simon Ostermann",
+    "Marian Simko",
+    "Juraj Podrouzek",
+    "Matúš Mesarčík",
+    "Jaroslav Kopčan",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French",
+    "German",
+    "Malay",
+    "Portuguese",
+    "Spanish",
+    "Thai",
+    "Polish",
+    "Turkish",
+    "Hindi",
+    "Korean",
+    "Sinhala",
+    "Tagalog",
+    "Urdu",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.semeval-1.323",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.323/"
+}

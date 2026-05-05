@@ -1,0 +1,21 @@
+{
+  "title": "UIR-ISC at SemEval-2024 Task 3: Textual Emotion-Cause Pair Extraction in Conversations",
+  "authors": [
+    "Hongyu Guo",
+    "Xueyao Zhang",
+    "Yiyang Chen",
+    "Lin Deng",
+    "Binyang Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2024.semeval-1.110",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.110/"
+}

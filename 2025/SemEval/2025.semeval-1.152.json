@@ -1,0 +1,17 @@
+{
+  "title": "GUIR at SemEval-2025 Task 4: Adaptive Weight Tuning with Gradual Negative Matching for LLM Unlearning",
+  "authors": [
+    "Hrishikesh Kulkarni",
+    "Nazli Goharian",
+    "Ophir Frieder"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.semeval-1.152",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.152/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "HW-TSC's Submissions to the WMT22 Word-Level Auto Completion Task",
+  "authors": [
+    "Hao Yang",
+    "Hengchao Shang",
+    "Zongyao Li",
+    "Daimeng Wei",
+    "Xianghui He",
+    "Xiaoyu Chen",
+    "Zhengzhe Yu",
+    "Jiaxin Guo",
+    "Jinlong Yang",
+    "Shaofu Li",
+    "Yuanchang Luo",
+    "Yuhao Xie",
+    "Lizhi Lei",
+    "Ying Qin"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.wmt-1.122",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.122/"
+}

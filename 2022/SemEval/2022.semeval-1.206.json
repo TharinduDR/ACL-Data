@@ -1,0 +1,27 @@
+{
+  "title": "Infrd.ai at SemEval-2022 Task 11: A system for named entity recognition using data augmentation, transformer-based sequence labeling model, and EnsembleCRF",
+  "authors": [
+    "JiangLong He",
+    "Akshay Uppal",
+    "Mamatha N",
+    "Shiv Vignesh",
+    "Deepak Kumar",
+    "Aditya Kumar Sarda"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Dutch",
+    "Korean",
+    "German",
+    "Chinese",
+    "Hindi",
+    "Bangla"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2022.semeval-1.206",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.206/"
+}

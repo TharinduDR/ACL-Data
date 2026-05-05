@@ -1,0 +1,28 @@
+{
+  "title": "Findings of the WMT 2018 Biomedical Translation Shared Task: Evaluation on Medline test sets",
+  "authors": [
+    "Mariana Neves",
+    "Antonio Jimeno Yepes",
+    "Aurélie Névélol",
+    "Cristian Grozea",
+    "Amy Siu",
+    "Madeleine Kittner",
+    "Karin Verspoor"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Portuguese",
+    "Romanian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-6403",
+  "acl_url": "https://aclanthology.org/W18-6403/"
+}

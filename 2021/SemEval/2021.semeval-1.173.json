@@ -1,0 +1,19 @@
+{
+  "title": "IIITH at SemEval-2021 Task 7: Leveraging transformer-based humorous and offensive text detection architectures using lexical and hurtlex features and task adaptive pretraining",
+  "authors": [
+    "Tathagata Raha",
+    "Ishan Sanjeev Upadhyay",
+    "Radhika Mamidi",
+    "Vasudeva Varma"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2021.semeval-1.173",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.173/"
+}

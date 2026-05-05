@@ -1,0 +1,22 @@
+{
+  "title": "EMA at SemEval-2018 Task 1: Emotion Mining for Arabic",
+  "authors": [
+    "Gilbert Badaro",
+    "Obeida El Jundi",
+    "Alaa Khaddaj",
+    "Alaa Maarouf",
+    "Raslan Kain",
+    "Hazem Hajj",
+    "Wassim El-Hajj"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "S18-1036",
+  "acl_url": "https://aclanthology.org/S18-1036/"
+}

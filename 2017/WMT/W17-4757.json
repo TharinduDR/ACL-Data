@@ -1,0 +1,20 @@
+{
+  "title": "Results of the WMT17 Neural MT Training Task",
+  "authors": [
+    "Ondřej Bojar",
+    "Jindřich Helcl",
+    "Tom Kocmi",
+    "Jindřich Libovický",
+    "Tomáš Musil"
+  ],
+  "languages": [
+    "English",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W17-4757",
+  "acl_url": "https://aclanthology.org/W17-4757/"
+}

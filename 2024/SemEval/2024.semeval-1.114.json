@@ -1,0 +1,28 @@
+{
+  "title": "AAAdaM at SemEval-2024 Task 1: Augmentation and Adaptation for Multilingual Semantic Textual Relatedness",
+  "authors": [
+    "Miaoran Zhang",
+    "Mingyang Wang",
+    "Jesujoba O. Alabi",
+    "Dietrich Klakow"
+  ],
+  "languages": [
+    "Arabic",
+    "Amharic",
+    "English",
+    "Hausa",
+    "Kinyarwanda",
+    "Marathi",
+    "Moroccan Arabic",
+    "Punjabi",
+    "Spanish",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.semeval-1.114",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.114/"
+}

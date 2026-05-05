@@ -1,0 +1,22 @@
+{
+  "title": "Findings of the WMT 2019 Shared Task on Parallel Corpus Filtering for Low-Resource Conditions",
+  "authors": [
+    "Philipp Koehn",
+    "Francisco Guzmán",
+    "Vishrav Chaudhary",
+    "Juan Pino"
+  ],
+  "languages": [
+    "Nepali",
+    "Sinhala",
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W19-5404",
+  "acl_url": "https://aclanthology.org/W19-5404/"
+}

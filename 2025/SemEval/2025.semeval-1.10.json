@@ -1,0 +1,23 @@
+{
+  "title": "NotMyNarrative at SemEval-2025 Task 10: Do Narrative Features Share Across Languages in Multilingual Encoder Models?",
+  "authors": [
+    "Géraud Faye",
+    "Guillaume Gadek",
+    "Wassila Ouerdane",
+    "Céline Hudelot",
+    "Sylvain Gatepaille"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Hindi",
+    "Bulgarian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.semeval-1.10",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.10/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Alignment-Based Neural Machine Translation",
+  "authors": [
+    "Tamer Alkhouli",
+    "Gabriel Bretschner",
+    "Jan-Thorsten Peter",
+    "Mohammed Hethnawi",
+    "Andreas Guta",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W16-2206",
+  "acl_url": "https://aclanthology.org/W16-2206/"
+}

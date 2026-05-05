@@ -1,0 +1,28 @@
+{
+  "title": "Extract Domain-specific Paraphrase from Monolingual Corpus for Automatic Evaluation of Machine Translation",
+  "authors": [
+    "Lilin Zhang",
+    "Zhen Weng",
+    "Wenyan Xiao",
+    "Jianyi Wan",
+    "Zhiming Chen",
+    "Yiming Tan",
+    "Maoxi Li",
+    "Mingwen Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Czech",
+    "French",
+    "Finnish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W16-2343",
+  "acl_url": "https://aclanthology.org/W16-2343/"
+}

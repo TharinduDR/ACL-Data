@@ -1,0 +1,23 @@
+{
+  "title": "The RWTH Aachen University Supervised Machine Translation Systems for WMT 2018",
+  "authors": [
+    "Julian Schamper",
+    "Jan Rosendahl",
+    "Parnia Bahar",
+    "Yunsu Kim",
+    "Arne Nix",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W18-6426",
+  "acl_url": "https://aclanthology.org/W18-6426/"
+}

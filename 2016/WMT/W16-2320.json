@@ -1,0 +1,36 @@
+{
+  "title": "The QT21/HimL Combined Machine Translation System",
+  "authors": [
+    "Jan-Thorsten Peter",
+    "Tamer Alkhoul",
+    "Hermann Ney",
+    "Matthias Huck",
+    "Fabienne Braune",
+    "Alexander Fraser",
+    "Aleš Tamchyna",
+    "Ondřej Bojar",
+    "Barry Haddow",
+    "Rico Sennrich",
+    "Frédéric Blain",
+    "Lucia Specia",
+    "Jan Niehues",
+    "Alex Waibel",
+    "Alexandre Allauzen",
+    "Lauriane Aufrant",
+    "Franck Burlot",
+    "Elena Knyazeva",
+    "Thomas Lavergne",
+    "François Yvon",
+    "Stella Frank",
+    "Mārcis Pinnis"
+  ],
+  "languages": [
+    "English",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W16-2320",
+  "acl_url": "https://aclanthology.org/W16-2320/"
+}

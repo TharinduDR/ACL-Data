@@ -1,0 +1,19 @@
+{
+  "title": "LomonosovMSU at SemEval-2024 Task 4: Comparing LLMs and embedder models to identifying propaganda techniques in the content of memes in English for subtasks №1, №2a, and №2b",
+  "authors": [
+    "Gleb Skiba",
+    "Mikhail Pukemo",
+    "Dmitry Melikhov",
+    "Konstantin Vorontsov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.semeval-1.221",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.221/"
+}

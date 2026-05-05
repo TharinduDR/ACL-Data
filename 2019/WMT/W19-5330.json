@@ -1,0 +1,26 @@
+{
+  "title": "NICT's Unsupervised Neural and Statistical Machine Translation Systems for the WMT19 News Translation Task",
+  "authors": [
+    "Benjamin Marie",
+    "Haipeng Sun",
+    "Rui Wang",
+    "Kehai Chen",
+    "Atsushi Fujita",
+    "Masao Utiyama",
+    "Eiichiro Sumita"
+  ],
+  "languages": [
+    "German",
+    "Czech",
+    "English",
+    "Gujarati",
+    "Kazakh"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W19-5330",
+  "acl_url": "https://aclanthology.org/W19-5330/"
+}

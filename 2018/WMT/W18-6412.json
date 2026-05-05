@@ -1,0 +1,27 @@
+{
+  "title": "The University of Edinburgh's Submissions to the WMT18 News Translation Task",
+  "authors": [
+    "Barry Haddow",
+    "Nikolay Bogoychev",
+    "Denis Emelin",
+    "Ulrich Germann",
+    "Roman Grundkiewicz",
+    "Kenneth Heafield",
+    "Antonio Valerio Miceli Barone",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "Chinese",
+    "Czech",
+    "Estonian",
+    "Finnish",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W18-6412",
+  "acl_url": "https://aclanthology.org/W18-6412/"
+}

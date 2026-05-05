@@ -1,0 +1,21 @@
+{
+  "title": "CMCE at SemEval-2020 Task 1: Clustering on Manifolds of Contextualized Embeddings to Detect Historical Meaning Shifts",
+  "authors": [
+    "David Rother",
+    "Thomas Haider",
+    "Steffen Eger"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Swedish",
+    "Latin"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.semeval-1.22",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.22/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Inria-ALMAnaCH at the WMT 2022 shared task: Does Transcription Help Cross-Script Machine Translation?",
+  "authors": [
+    "Jesujoba O. Alabi",
+    "Lydia Nishimwe",
+    "Benjamin Muller",
+    "Camille Rey",
+    "Benoît Sagot",
+    "Rachel Bawden"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Ukrainian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.wmt-1.15",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.15/"
+}

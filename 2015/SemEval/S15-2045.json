@@ -1,0 +1,28 @@
+{
+  "title": "SemEval-2015 Task 2: Semantic Textual Similarity, English, Spanish and Pilot on Interpretability",
+  "authors": [
+    "Eneko Agirre",
+    "Carmen Banea",
+    "Claire Cardie",
+    "Daniel Cer",
+    "Mona Diab",
+    "Aitor Gonzalez-Agirre",
+    "Weiwei Guo",
+    "Iñigo Lopez-Gazpio",
+    "Montse Maritxalar",
+    "Rada Mihalcea",
+    "German Rigau",
+    "Larraitz Uria",
+    "Janyce Wiebe"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "S15-2045",
+  "acl_url": "https://aclanthology.org/S15-2045/"
+}

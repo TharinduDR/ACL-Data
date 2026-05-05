@@ -1,0 +1,21 @@
+{
+  "title": "IsoChronoMeter: A simple and effective isochronic translation evaluation metric",
+  "authors": [
+    "Nikolai Rozanov",
+    "Vikenty Pankov",
+    "Dmitrii Mukhutdinov",
+    "Dima Vypirailenko"
+  ],
+  "languages": [
+    "Chinese",
+    "Spanish",
+    "Russian",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.29",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.29/"
+}

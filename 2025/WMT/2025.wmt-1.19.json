@@ -1,0 +1,32 @@
+{
+  "title": "GAMBIT+: A Challenge Set for Evaluating Gender Bias in Machine Translation Quality Estimation Metrics",
+  "authors": [
+    "Giorgos Filandrianos",
+    "Orfeas Menis Mastromichalakis",
+    "Wafaa Mohammed",
+    "Giuseppe Attanasio",
+    "Chrysoula Zerva"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Finnish",
+    "Arabic",
+    "Greek",
+    "Czech",
+    "Icelandic",
+    "Italian",
+    "Russian",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Serbian",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.wmt-1.19",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.19/"
+}

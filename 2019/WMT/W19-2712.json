@@ -1,0 +1,19 @@
+{
+  "title": "RST-Tace: A tool for automatic comparison and evaluation of RST trees",
+  "authors": [
+    "Shujun Wan",
+    "Tino Kutschbach",
+    "Anke Lüdeling",
+    "Manfred Stede"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W19-2712",
+  "acl_url": "https://aclanthology.org/W19-2712/"
+}

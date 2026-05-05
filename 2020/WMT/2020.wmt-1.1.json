@@ -1,0 +1,46 @@
+{
+  "title": "Findings of the 2020 Conference on Machine Translation (WMT20)",
+  "authors": [
+    "Loïc Barrault",
+    "Magdalena Biesialska",
+    "Ondřej Bojar",
+    "Marta R. Costa-jussà",
+    "Christian Federmann",
+    "Yvette Graham",
+    "Roman Grundkiewicz",
+    "Barry Haddow",
+    "Matthias Huck",
+    "Eric Joanis",
+    "Tom Kocmi",
+    "Philipp Koehn",
+    "Chi-kiu Lo",
+    "Nikola Ljubešić",
+    "Christof Monz",
+    "Makoto Morishita",
+    "Masaaki Nagata",
+    "Toshiaki Nakazawa",
+    "Santanu Pal",
+    "Matt Post",
+    "Marcos Zampieri"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Czech",
+    "German",
+    "French",
+    "Russian",
+    "Japanese",
+    "Polish",
+    "Tamil",
+    "Inuktitut",
+    "Khmer",
+    "Pashto"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.1",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.1/"
+}

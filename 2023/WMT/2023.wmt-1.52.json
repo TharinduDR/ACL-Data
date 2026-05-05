@@ -1,0 +1,37 @@
+{
+  "title": "Findings of the WMT 2023 Shared Task on Quality Estimation",
+  "authors": [
+    "Frédéric Blain",
+    "Chrysoula Zerva",
+    "Ricardo Rei",
+    "Nuno M. Guerreiro",
+    "Diptesh Kanojia",
+    "José G. C. de Souza",
+    "Beatriz Silva",
+    "Tânia Vaz",
+    "Yan Jingxuan",
+    "Fatemeh Azadi",
+    "Constantin Orăsan",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Gujarati",
+    "Tamil",
+    "Telugu",
+    "Persian",
+    "Farsi",
+    "Hebrew",
+    "Chinese",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.wmt-1.52",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.52/"
+}

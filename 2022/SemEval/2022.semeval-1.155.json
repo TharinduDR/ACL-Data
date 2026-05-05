@@ -1,0 +1,33 @@
+{
+  "title": "SemEval-2022 Task 8: Multilingual news article similarity",
+  "authors": [
+    "Xi Chen",
+    "Ali Zeynali",
+    "Chico Q. Camargo",
+    "Fabian Flöck",
+    "Devin Gaffney",
+    "Przemyslaw A. Grabowicz",
+    "Scott A. Hale",
+    "David Jurgens",
+    "Mattia Samory"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Russian",
+    "German",
+    "French",
+    "Arabic",
+    "Italian",
+    "Turkish",
+    "Polish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.semeval-1.155",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.155/"
+}

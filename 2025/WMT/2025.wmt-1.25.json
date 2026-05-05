@@ -1,0 +1,22 @@
+{
+  "title": "Findings of the WMT 2025 Shared Task on Model Compression: Early Insights on Compressing LLMs for Machine Translation",
+  "authors": [
+    "Marco Gaido",
+    "Thamme Gowda",
+    "Roman Grundkiewicz",
+    "Matteo Negri"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.25",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.25/"
+}

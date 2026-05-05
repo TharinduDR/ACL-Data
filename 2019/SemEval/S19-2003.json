@@ -1,0 +1,20 @@
+{
+  "title": "SemEval-2019 Task 2: Unsupervised Lexical Frame Induction",
+  "authors": [
+    "Behrang QasemiZadeh",
+    "Miriam R. L. Petrucci",
+    "Regina Stodden",
+    "Laura Kallmeyer",
+    "Marie Candito"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S19-2003",
+  "acl_url": "https://aclanthology.org/S19-2003/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "UPB at SemEval-2020 Task 12: Multilingual Offensive Language Detection on Social Media by Fine-tuning a Variety of BERT-based Models",
+  "authors": [
+    "Mircea-Adrian Tanase",
+    "Dumitru-Clementin Cercel",
+    "Costin-Gabriel Chiru"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Danish",
+    "Greek",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.semeval-1.296",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.296/"
+}

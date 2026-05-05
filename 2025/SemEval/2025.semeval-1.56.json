@@ -1,0 +1,42 @@
+{
+  "title": "Heimerdinger at SemEval-2025 Task 11: A Multi-Agent Framework for Perceived Emotion Detection in Multilingual Text",
+  "authors": [
+    "Zeliang Tong",
+    "Zhuojun Ding",
+    "Yingjia Li"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "English",
+    "Spanish",
+    "Portuguese",
+    "Russian",
+    "Indonesian",
+    "Javanese",
+    "Xhosa",
+    "Zulu",
+    "Afrikaans",
+    "Arabic",
+    "Hausa",
+    "Hindi",
+    "Igbo",
+    "Kinyarwanda",
+    "Marathi",
+    "Nigerian-Pidgin",
+    "Sundanese",
+    "Swahili",
+    "Swedish",
+    "Tatar",
+    "Ukrainian",
+    "Emakhuwa",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2025.semeval-1.56",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.56/"
+}

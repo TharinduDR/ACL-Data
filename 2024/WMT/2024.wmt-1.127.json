@@ -1,0 +1,26 @@
+{
+  "title": "Is Preference Alignment Always the Best Option to Enhance LLM-Based Translation? An Empirical Analysis",
+  "authors": [
+    "Hippolyte Gisserot-Boukhlef",
+    "Ricardo Rei",
+    "Emmanuel Malherbe",
+    "Céline Hudelot",
+    "Pierre Colombo",
+    "Nuno M. Guerreiro"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Icelandic",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.127",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.127/"
+}

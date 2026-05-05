@@ -1,0 +1,23 @@
+{
+  "title": "SemEval-2020 Task 2: Predicting Multilingual and Cross-Lingual (Graded) Lexical Entailment",
+  "authors": [
+    "Goran Glavaš",
+    "Ivan Vulić",
+    "Anna Korhonen",
+    "Simone Paolo Ponzetto"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Croatian",
+    "Turkish",
+    "Albanian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.semeval-1.2",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.2/"
+}

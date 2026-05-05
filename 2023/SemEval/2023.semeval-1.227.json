@@ -1,0 +1,26 @@
+{
+  "title": "NLUBot101 at SemEval-2023 Task 3: An Augmented Multilingual NLI Approach Towards Online News Persuasion Techniques Detection",
+  "authors": [
+    "Genglin Liu",
+    "Yi R. Fung",
+    "Heng Ji"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Polish",
+    "Russian",
+    "Spanish",
+    "Greek",
+    "Georgian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.semeval-1.227",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.227/"
+}

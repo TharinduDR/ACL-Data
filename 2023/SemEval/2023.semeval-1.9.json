@@ -1,0 +1,28 @@
+{
+  "title": "Sea_and_Wine at SemEval-2023 Task 9: A Regression Model with Data Augmentation for Multilingual Intimacy Analysis",
+  "authors": [
+    "Yuxi Chen",
+    "Yu Chang",
+    "Yanqing Tao",
+    "Yanru Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Portuguese",
+    "Italian",
+    "Spanish",
+    "Arabic",
+    "Hindi",
+    "Dutch",
+    "Korean"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T23 Social Media Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.semeval-1.9",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.9/"
+}

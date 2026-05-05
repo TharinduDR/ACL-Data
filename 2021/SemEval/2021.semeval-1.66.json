@@ -1,0 +1,20 @@
+{
+  "title": "IITK@LCP at SemEval-2021 Task 1: Classification for Lexical Complexity Regression Task",
+  "authors": [
+    "Neil Shirude",
+    "Sagnik Mukherjee",
+    "Tushar Shandhilya",
+    "Ananta Mukherjee",
+    "Ashutosh Modi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.semeval-1.66",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.66/"
+}

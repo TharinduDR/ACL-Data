@@ -1,0 +1,30 @@
+{
+  "title": "HW-TSC Systems for WMT22 Very Low Resource Supervised MT Task",
+  "authors": [
+    "Shaojun Li",
+    "Yuanchang Luo",
+    "Daimeng Wei",
+    "Zongyao Li",
+    "Hengchao Shang",
+    "Xiaoyu Chen",
+    "Zhanglin Wu",
+    "Jinlong Yang",
+    "Zhiqiang Rao",
+    "Zhengzhe Yu",
+    "Yuhao Xie",
+    "Lizhi Lei",
+    "Hao Yang",
+    "Ying Qin"
+  ],
+  "languages": [
+    "German",
+    "Upper Sorbian",
+    "Lower Sorbian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.wmt-1.107",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.107/"
+}

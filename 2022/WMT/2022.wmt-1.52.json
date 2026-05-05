@@ -1,0 +1,25 @@
+{
+  "title": "COMET-22: Unbabel-IST 2022 Submission for the Metrics Shared Task",
+  "authors": [
+    "Ricardo Rei",
+    "José G. C. de Souza",
+    "Duarte M. Alves",
+    "Chrysoula Zerva",
+    "Ana C Farinha",
+    "Taisiya Glushkova",
+    "Alon Lavie",
+    "Luisa Coheur",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.wmt-1.52",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.52/"
+}

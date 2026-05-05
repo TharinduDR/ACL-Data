@@ -1,0 +1,17 @@
+{
+  "title": "DFKI-NMT Submission to the WMT19 News Translation Task",
+  "authors": [
+    "Jingyi Zhang",
+    "Josef van Genabith"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W19-5350",
+  "acl_url": "https://aclanthology.org/W19-5350/"
+}

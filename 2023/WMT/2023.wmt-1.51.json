@@ -1,0 +1,30 @@
+{
+  "title": "Results of WMT23 Metrics Shared Task: Metrics might be Guilty but References are not Innocent",
+  "authors": [
+    "Markus Freitag",
+    "Nitika Mathur",
+    "Chi-kiu Lo",
+    "Eleftherios Avramidis",
+    "Ricardo Rei",
+    "Brian Thompson",
+    "Tom Kocmi",
+    "Frédéric Blain",
+    "Daniel Deutsch",
+    "Craig Stewart",
+    "Chrysoula Zerva",
+    "Sheila Castilho",
+    "Alon Lavie",
+    "George Foster"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.wmt-1.51",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.51/"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Masakhane-Afrisenti at SemEval-2023 Task 12: Sentiment Analysis using Afro-centric Language Models and Adapters for Low-resource African Languages",
+  "authors": [
+    "Israel Abebe Azime",
+    "Sana Sabah Al-Azzawi",
+    "Atnafu Lambebo Tonja",
+    "Iyanuoluwa Shode",
+    "Jesujoba Alabi",
+    "Ayodele Awokoya",
+    "Mardiyyah Oduwole",
+    "Tosin Adewumi",
+    "Samuel Fanijo",
+    "Awosan Oyinkansola",
+    "Oreen Yousuf"
+  ],
+  "languages": [
+    "Amharic",
+    "Arabic",
+    "Hausa",
+    "Igbo",
+    "Yoruba",
+    "Twi",
+    "Portuguese",
+    "Swahili",
+    "Kinyarwanda",
+    "Kinyarwanda",
+    "Tigrinya",
+    "Oromo"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.182",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.182/"
+}

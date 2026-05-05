@@ -1,0 +1,22 @@
+{
+  "title": "MMG at SemEval-2022 Task 1: A Reverse Dictionary approach based on a review of the dataset from a lexicographic perspective",
+  "authors": [
+    "Alfonso Ardoiz",
+    "Miguel Ortega-Martín",
+    "Óscar García-Sierra",
+    "Jorge Álvarez",
+    "Ignacio Arranz",
+    "Adrián Alonso"
+  ],
+  "languages": [
+    "Spanish",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.7",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.7/"
+}

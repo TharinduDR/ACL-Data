@@ -1,0 +1,22 @@
+{
+  "title": "BEIKE NLP at SemEval-2022 Task 4: Prompt-Based Paragraph Classification for Patronizing and Condescending Language Detection",
+  "authors": [
+    "Yong Deng",
+    "Chenxiao Dou",
+    "Liangyu Chen",
+    "Deqiang Miao",
+    "Xianghui Sun",
+    "Baochang Ma",
+    "Xiangang Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.semeval-1.41",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.41/"
+}

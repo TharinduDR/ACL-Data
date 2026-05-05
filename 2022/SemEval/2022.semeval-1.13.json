@@ -1,0 +1,23 @@
+{
+  "title": "SemEval-2022 Task 2: Multilingual Idiomaticity Detection and Sentence Embedding",
+  "authors": [
+    "Harish Tayyar Madabushi",
+    "Edward Gow-Smith",
+    "Marcos Garcia",
+    "Carolina Scarton",
+    "Marco Idiart",
+    "Aline Villavicencio"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Galician"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.13",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.13/"
+}

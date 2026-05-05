@@ -1,0 +1,33 @@
+{
+  "title": "CASIA at SemEval-2022 Task 11: Chinese Named Entity Recognition for Complex and Ambiguous Entities",
+  "authors": [
+    "Jia Fu",
+    "Zhen Gan",
+    "Zhucong Li",
+    "Sirui Li",
+    "Dianbo Sui",
+    "Yubo Chen",
+    "Kang Liu",
+    "Jun Zhao"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Dutch",
+    "French",
+    "Spanish",
+    "Russian",
+    "Turkish",
+    "Korean",
+    "Persian",
+    "Bengali",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2022.semeval-1.208",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.208/"
+}

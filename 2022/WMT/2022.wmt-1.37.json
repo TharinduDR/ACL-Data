@@ -1,0 +1,31 @@
+{
+  "title": "Vega-MT: The JD Explore Academy Translation System for WMT22",
+  "authors": [
+    "Changtong Zan",
+    "Keqin Peng",
+    "Liang Ding",
+    "Baopu Qiu",
+    "Boan Liu",
+    "Shwai He",
+    "Qingyu Lu",
+    "Zheng Zhang",
+    "Chuang Liu",
+    "Weifeng Liu",
+    "Yibing Zhan",
+    "Dacheng Tao"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Czech",
+    "Russian",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.wmt-1.37",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.37/"
+}

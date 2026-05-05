@@ -1,0 +1,26 @@
+{
+  "title": "gowithnlp at SemEval-2025 Task 10: Leveraging Entity-Centric Chain of Thought and Iterative Prompt Refinement for Multi-Label Classification",
+  "authors": [
+    "Bo Wang",
+    "Ruichen Song",
+    "Xiangyu Wang",
+    "Ge Shi",
+    "Linmei Hu",
+    "Heyan Huang",
+    "Chong Feng"
+  ],
+  "languages": [
+    "Russian",
+    "English",
+    "Portuguese",
+    "Hindi",
+    "Bulgarian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T09 Inference and Reasoning",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.semeval-1.53",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.53/"
+}

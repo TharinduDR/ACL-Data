@@ -1,0 +1,24 @@
+{
+  "title": "MIDAS at SemEval-2019 Task 9: Suggestion Mining from Online Reviews using ULMFiT",
+  "authors": [
+    "Sarthak Anand",
+    "Debanjan Mahata",
+    "Kartik Aggarwal",
+    "Laiba Mehnaz",
+    "Simra Shahid",
+    "Haimin Zhang",
+    "Yaman Kumar",
+    "Rajiv Ratn Shah",
+    "Karan Uppal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "S19-2213",
+  "acl_url": "https://aclanthology.org/S19-2213/"
+}

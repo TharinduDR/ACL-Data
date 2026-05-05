@@ -1,0 +1,21 @@
+{
+  "title": "OPDAI at SemEval-2022 Task 11: A hybrid approach for Chinese NER using outside Wikipedia knowledge",
+  "authors": [
+    "Ze Chen",
+    "Kangxu Wang",
+    "Jiewen Zheng",
+    "Zijian Cai",
+    "Jiarong He",
+    "Jin Gao"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11",
+    "T13",
+    "T14"
+  ],
+  "paper_id": "2022.semeval-1.204",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.204/"
+}

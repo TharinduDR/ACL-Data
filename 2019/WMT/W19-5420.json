@@ -1,0 +1,21 @@
+{
+  "title": "Huawei's NMT Systems for the WMT 2019 Biomedical Translation Task",
+  "authors": [
+    "Wei Peng",
+    "Jianfeng Liu",
+    "Liangyou Li",
+    "Qun Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "W19-5420",
+  "acl_url": "https://aclanthology.org/W19-5420/"
+}

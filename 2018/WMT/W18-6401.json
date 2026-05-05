@@ -1,0 +1,29 @@
+{
+  "title": "Findings of the 2018 Conference on Machine Translation (WMT18)",
+  "authors": [
+    "Ondřej Bojar",
+    "Christian Federmann",
+    "Mark Fishel",
+    "Yvette Graham",
+    "Barry Haddow",
+    "Matthias Huck",
+    "Philipp Koehn",
+    "Christof Monz"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Czech",
+    "Estonian",
+    "German",
+    "Finnish",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-6401",
+  "acl_url": "https://aclanthology.org/W18-6401/"
+}

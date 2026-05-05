@@ -1,0 +1,21 @@
+{
+  "title": "SemEval-2020 Task 5: Counterfactual Recognition",
+  "authors": [
+    "Xiaoyu Yang",
+    "Stephen Obadinma",
+    "Huasha Zhao",
+    "Qiong Zhang",
+    "Stan Matwin",
+    "Xiaodan Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2020.semeval-1.40",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.40/"
+}

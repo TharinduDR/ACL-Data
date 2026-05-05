@@ -1,0 +1,25 @@
+{
+  "title": "Tencent submission for WMT20 Quality Estimation Shared Task",
+  "authors": [
+    "Haijiang Wu",
+    "Zixuan Wang",
+    "Qingsong Ma",
+    "Xinjie Wen",
+    "Ruichen Wang",
+    "Xiaoli Wang",
+    "Yulin Zhang",
+    "Zhipeng Yao",
+    "Siyao Peng"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.124",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.124/"
+}

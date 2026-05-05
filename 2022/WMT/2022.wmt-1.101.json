@@ -1,0 +1,25 @@
+{
+  "title": "University of Cape Town's WMT22 System: Multilingual Machine Translation for Southern African Languages",
+  "authors": [
+    "Khalid N. Elmadani",
+    "Francois Meyer",
+    "Jan Buys"
+  ],
+  "languages": [
+    "English",
+    "Afrikaans",
+    "Northern Sotho",
+    "Southern Sotho",
+    "Tswana",
+    "Swati",
+    "Xhosa",
+    "Zulu",
+    "Shona"
+  ],
+  "research_areas": [
+    "T16",
+    "T14"
+  ],
+  "paper_id": "2022.wmt-1.101",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.101/"
+}

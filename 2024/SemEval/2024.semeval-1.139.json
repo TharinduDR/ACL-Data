@@ -1,0 +1,19 @@
+{
+  "title": "NootNoot At SemEval-2024 Task 6: Hallucinations and Related Observable Overgeneration Mistakes Detection",
+  "authors": [
+    "Sankalp Bahad",
+    "Yash Bhaskar",
+    "Parameswari Krishnamurthy"
+  ],
+  "languages": [
+    "English",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.139",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.139/"
+}

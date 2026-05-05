@@ -1,0 +1,25 @@
+{
+  "title": "tmn at SemEval-2023 Task 9: Multilingual Tweet Intimacy Detection using XLM-T, Google Translate, and Ensemble Learning",
+  "authors": [
+    "Anna Glazkova"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "French",
+    "Chinese",
+    "Hindi",
+    "Arabic",
+    "Dutch",
+    "Korean"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.183",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.183/"
+}

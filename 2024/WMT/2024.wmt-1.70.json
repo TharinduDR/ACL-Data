@@ -1,0 +1,21 @@
+{
+  "title": "NLIP_Lab-IITH Low-Resource MT System for WMT24 Indic MT Shared Task",
+  "authors": [
+    "Pramit Sahoo",
+    "Maharaj Brahma",
+    "Maunendra Sankar Desarkar"
+  ],
+  "languages": [
+    "English",
+    "Assamese",
+    "Khasi",
+    "Mizo",
+    "Manipuri"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.wmt-1.70",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.70/"
+}

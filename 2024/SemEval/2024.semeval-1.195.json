@@ -1,0 +1,26 @@
+{
+  "title": "UMBCLU at SemEval-2024 Task 1: Semantic Textual Relatedness with and without machine translation",
+  "authors": [
+    "Shubhashis Roy Dipta",
+    "Sai Vallurupalli"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Kannada",
+    "Marathi",
+    "Arabic",
+    "Indonesian",
+    "Punjabi",
+    "Swahili",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.semeval-1.195",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.195/"
+}

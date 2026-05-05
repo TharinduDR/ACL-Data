@@ -1,0 +1,19 @@
+{
+  "title": "AILS-NTUA at SemEval-2024 Task 9: Cracking Brain Teasers: Transformer Models for Lateral Thinking Puzzles",
+  "authors": [
+    "Ioannis Panagiotopoulos",
+    "Giorgos Filandrianos",
+    "Maria Lymperaiou",
+    "Giorgos Stamou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.semeval-1.248",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.248/"
+}

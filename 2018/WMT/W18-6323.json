@@ -1,0 +1,19 @@
+{
+  "title": "Extracting In-domain Training Corpora for Neural Machine Translation Using Data Selection Methods",
+  "authors": [
+    "Catarina Cruz Silva",
+    "Chao-Hong Liu",
+    "Alberto Poncelas",
+    "Andy Way"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W18-6323",
+  "acl_url": "https://aclanthology.org/W18-6323/"
+}

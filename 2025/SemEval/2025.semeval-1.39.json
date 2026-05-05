@@ -1,0 +1,45 @@
+{
+  "title": "NCL-UoR at SemEval-2025 Task 3: Detecting Multilingual Hallucination and Related Observable Overgeneration Text Spans with Modified RefChecker and Modified SelfCheckGPT",
+  "authors": [
+    "Jiaying Hong",
+    "Thanet Markchom",
+    "Jianfei Xu",
+    "Tong Wu",
+    "Huizhi Liang"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Greek",
+    "Hungarian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Thai",
+    "Turkish",
+    "Vietnamese",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.semeval-1.39",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.39/"
+}

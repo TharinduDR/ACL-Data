@@ -1,0 +1,24 @@
+{
+  "title": "ConvKN at SemEval-2016 Task 3: Answer and Question Selection for Question Answering on Arabic and English Fora",
+  "authors": [
+    "Alberto Barrón-Cedeño",
+    "Daniele Bonadiman",
+    "Giovanni Da San Martino",
+    "Shafiq Joty",
+    "Alessandro Moschitti",
+    "Fahad A. Al Obaidli",
+    "Salvatore Romeo",
+    "Kateryna Tymoshenko",
+    "Antonio Uva"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "S16-1138",
+  "acl_url": "https://aclanthology.org/S16-1138/"
+}

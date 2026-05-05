@@ -1,0 +1,34 @@
+{
+  "title": "OZemi at SemEval-2024 Task 1: A Simplistic Approach to Textual Relatedness Evaluation Using Transformers and Machine Translation",
+  "authors": [
+    "Hidetsune Takahashi",
+    "Xingru Lu",
+    "Sean Ishijima",
+    "Deokgyu Seo",
+    "Yongju Kim",
+    "Sehoon Park",
+    "Min Song",
+    "Kathylene Marante",
+    "Keitaro-Luke Iso",
+    "Hirotaka Tokura",
+    "Emily Ohman"
+  ],
+  "languages": [
+    "English",
+    "Algerian Arabic",
+    "Amharic",
+    "Hausa",
+    "Kinyarwanda",
+    "Marathi",
+    "Moroccan Arabic",
+    "Spanish",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.2",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.2/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Hybrid Distillation from RBMT and NMT: Helsinki-NLP's Submission to the Shared Task on Translation into Low-Resource Languages of Spain",
+  "authors": [
+    "Ona de Gibert",
+    "Mikko Aulamo",
+    "Yves Scherrer",
+    "Jörg Tiedemann"
+  ],
+  "languages": [
+    "Spanish",
+    "Aragonese",
+    "Aranese",
+    "Asturian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.wmt-1.88",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.88/"
+}

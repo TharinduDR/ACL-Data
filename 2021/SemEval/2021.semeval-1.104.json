@@ -1,0 +1,24 @@
+{
+  "title": "FII_CROSS at SemEval-2021 Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation",
+  "authors": [
+    "Ciprian Bodnar",
+    "Andrada Tapuc",
+    "Cosmin Pintilie",
+    "Daniela Gifu",
+    "Diana Trandabat"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.semeval-1.104",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.104/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Factors Affecting Translation Quality in In-context Learning for Multilingual Medical Domain",
+  "authors": [
+    "Jonathan Mutal",
+    "Raphael Rubino",
+    "Pierrette Bouillon"
+  ],
+  "languages": [
+    "Albanian",
+    "Arabic",
+    "Russian",
+    "Romanian",
+    "Ukrainian",
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Polish",
+    "Czech",
+    "Tigrinya"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.wmt-1.9",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.9/"
+}

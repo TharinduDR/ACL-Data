@@ -1,0 +1,23 @@
+{
+  "title": "The RWTH Aachen University Machine Translation Systems for WMT 2019",
+  "authors": [
+    "Jan Rosendahl",
+    "Christian Herold",
+    "Yunsu Kim",
+    "Miguel Graça",
+    "Weiyue Wang",
+    "Parnia Bahar",
+    "Yingbo Gao",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "German",
+    "Chinese",
+    "Kazakh"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W19-5338",
+  "acl_url": "https://aclanthology.org/W19-5338/"
+}

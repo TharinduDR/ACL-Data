@@ -1,0 +1,43 @@
+{
+  "title": "Multi-agentMT: Deploying AI Agent in the WMT25 Shared Task",
+  "authors": [
+    "Ahrii Kim"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Korean",
+    "Chinese",
+    "Russian",
+    "Romanian",
+    "Bhojpuri",
+    "Ukrainian",
+    "Czech",
+    "German",
+    "Turkish",
+    "Indonesian",
+    "Italian",
+    "Hindi",
+    "Greek",
+    "Persian",
+    "Kannada",
+    "Egyptian Arabic",
+    "Swedish",
+    "Thai",
+    "Vietnamese",
+    "Lithuanian",
+    "Icelandic",
+    "Maasai",
+    "Serbian (Cyrillic)",
+    "Marathi",
+    "Ukrainian",
+    "Estonian",
+    "Serbian (Latin)"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.53",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.53/"
+}

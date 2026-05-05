@@ -1,0 +1,26 @@
+{
+  "title": "TAXI at SemEval-2016 Task 13: a Taxonomy Induction Method based on Lexico-Syntactic Patterns, Substrings and Focused Crawling",
+  "authors": [
+    "Alexander Panchenko",
+    "Stefano Faralli",
+    "Eugen Ruppert",
+    "Steffen Remus",
+    "Hubert Naets",
+    "Cédrick FairoN",
+    "Simone Paolo Ponzetto",
+    "Chris Biemann"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Dutch",
+    "Italian"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "S16-1206",
+  "acl_url": "https://aclanthology.org/S16-1206/"
+}

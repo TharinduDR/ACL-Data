@@ -1,0 +1,21 @@
+{
+  "title": "XSYSIGMA at SemEval-2020 Task 7: Method for Predicting Headlines' Humor Based on Auxiliary Sentences with EI-Bert",
+  "authors": [
+    "Jian Ma",
+    "Shu-Yi Xie",
+    "Mei-Zhi Jin",
+    "Lian-Xin Jiang",
+    "Yang Mo",
+    "Jian-Ping Shen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.semeval-1.142",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.142/"
+}

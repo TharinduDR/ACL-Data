@@ -1,0 +1,20 @@
+{
+  "title": "Zhoumou at SemEval-2025 Task 1: Leveraging Multimodal Data Augmentation and Large Language Models for Enhanced Idiom Understanding",
+  "authors": [
+    "Yingzhou Zhao",
+    "Bowen Guan",
+    "Liang Yang",
+    "Hongfei Lin"
+  ],
+  "languages": [
+    "English",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.semeval-1.125",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.125/"
+}

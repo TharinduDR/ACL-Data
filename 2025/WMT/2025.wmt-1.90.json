@@ -1,0 +1,21 @@
+{
+  "title": "Krey-All WMT 2025 CreoleMT System Description: Language Agnostic Strategies for Low-Resource Translation",
+  "authors": [
+    "Ananya Ayasi"
+  ],
+  "languages": [
+    "English",
+    "Seychellois Creole",
+    "Mauritian Creole",
+    "French Guianese Creole",
+    "Louisiana Creole",
+    "Réunion Creole",
+    "Tok Pisin"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.wmt-1.90",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.90/"
+}

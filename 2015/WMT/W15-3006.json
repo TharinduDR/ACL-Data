@@ -1,0 +1,17 @@
+{
+  "title": "CUNI in WMT15: Chimera Strikes Again",
+  "authors": [
+    "Ondřej Bojar",
+    "Aleš Tamchyna"
+  ],
+  "languages": [
+    "English",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W15-3006",
+  "acl_url": "https://aclanthology.org/W15-3006/"
+}

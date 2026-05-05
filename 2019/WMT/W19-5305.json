@@ -1,0 +1,22 @@
+{
+  "title": "GTCom Neural Machine Translation Systems for WMT19",
+  "authors": [
+    "Chao Bei",
+    "Hao Zong",
+    "Conghu Yuan",
+    "Qingming Liu",
+    "Baoyong Fan"
+  ],
+  "languages": [
+    "English",
+    "Gujarati",
+    "Lithuanian",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W19-5305",
+  "acl_url": "https://aclanthology.org/W19-5305/"
+}

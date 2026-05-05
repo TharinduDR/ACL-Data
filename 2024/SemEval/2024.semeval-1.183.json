@@ -1,0 +1,18 @@
+{
+  "title": "NumDecoders at SemEval-2024 Task 7: FlanT5 and GPT enhanced with CoT for Numerical Reasoning",
+  "authors": [
+    "H. Andres Gonzalez Gongora",
+    "Md Zobaer Hossain",
+    "Jahedul Alam Junaed"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.semeval-1.183",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.183/"
+}

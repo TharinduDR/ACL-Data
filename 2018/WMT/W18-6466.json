@@ -1,0 +1,21 @@
+{
+  "title": "Quality Estimation with Force-Decoded Attention and Cross-lingual Embeddings",
+  "authors": [
+    "Elizaveta Yankovskaya",
+    "Andre Tättar",
+    "Mark Fishel"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech",
+    "Latvian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-6466",
+  "acl_url": "https://aclanthology.org/W18-6466/"
+}

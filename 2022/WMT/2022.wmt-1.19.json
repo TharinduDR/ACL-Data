@@ -1,0 +1,26 @@
+{
+  "title": "Lan-Bridge MT's Participation in the WMT 2022 General Translation Shared Task",
+  "authors": [
+    "Bing Han",
+    "Yangjian Wu",
+    "Gang Hu",
+    "Qiulin Chen"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Ukrainian",
+    "Japanese",
+    "Russian",
+    "Chinese",
+    "Croatian",
+    "Yakut"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.wmt-1.19",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.19/"
+}

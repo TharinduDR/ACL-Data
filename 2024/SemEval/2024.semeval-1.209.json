@@ -1,0 +1,18 @@
+{
+  "title": "NYCU-NLP at SemEval-2024 Task 2: Aggregating Large Language Models in Biomedical Natural Language Inference for Clinical Trials",
+  "authors": [
+    "Lung-Hao Lee",
+    "Chen-Ya Chiou",
+    "Tzu-Mi Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.semeval-1.209",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.209/"
+}

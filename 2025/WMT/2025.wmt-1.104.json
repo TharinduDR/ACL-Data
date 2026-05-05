@@ -1,0 +1,19 @@
+{
+  "title": "AkibaNLP-TUT: Injecting Language-Specific Word-Level Noise for Low-Resource Language Translation",
+  "authors": [
+    "Shoki Hamada",
+    "Tomoyoshi Akiba",
+    "Hajime Tsukada"
+  ],
+  "languages": [
+    "English",
+    "Assamese",
+    "Manipuri",
+    "Bengali"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.wmt-1.104",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.104/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "The NiuTrans Machine Translation System for WMT18",
+  "authors": [
+    "Qiang Wang",
+    "Bei Li",
+    "Jiqiang Liu",
+    "Bojian Jiang",
+    "Zheyang Zhang",
+    "Yinqiao Li",
+    "Ye Lin",
+    "Tong Xiao",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W18-6430",
+  "acl_url": "https://aclanthology.org/W18-6430/"
+}

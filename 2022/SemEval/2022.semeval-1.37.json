@@ -1,0 +1,24 @@
+{
+  "title": "HW-TSC at SemEval-2022 Task 3: A Unified Approach Fine-tuned on Multilingual Pretrained Model for PreTENS",
+  "authors": [
+    "Yinglu Li",
+    "Min Zhang",
+    "Xiaosong Qiao",
+    "Minghan Wang",
+    "Hao Yang",
+    "Shimin Tao",
+    "Ying Qin"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.37",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.37/"
+}

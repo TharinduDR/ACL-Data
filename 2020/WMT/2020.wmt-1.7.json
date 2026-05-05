@@ -1,0 +1,21 @@
+{
+  "title": "DiDi's Machine Translation System for WMT2020",
+  "authors": [
+    "Tanfang Chen",
+    "Weiwei Wang",
+    "Wenyang Wei",
+    "Xing Shi",
+    "Xiangang Li",
+    "Jieping Ye",
+    "Kevin Knight"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.wmt-1.7",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.7/"
+}

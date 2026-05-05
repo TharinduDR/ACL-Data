@@ -1,0 +1,22 @@
+{
+  "title": "META METRICS-MT: Tuning Meta-Metrics for Machine Translation via Human Preference Calibration",
+  "authors": [
+    "David Anugraha",
+    "Garry Kuwanto",
+    "Lucky Susanto",
+    "Derry Tanti Wijaya",
+    "Genta Indra Winata"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.32",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.32/"
+}

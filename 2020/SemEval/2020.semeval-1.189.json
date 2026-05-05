@@ -1,0 +1,23 @@
+{
+  "title": "Galileo at SemEval-2020 Task 12: Multi-lingual Learning for Offensive Language Identification using Pre-trained Language Models",
+  "authors": [
+    "Shuohuan Wang",
+    "Jiaxiang Liu",
+    "Xuan Ouyang",
+    "Yu Sun"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Arabic",
+    "Danish",
+    "Greek"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.semeval-1.189",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.189/"
+}

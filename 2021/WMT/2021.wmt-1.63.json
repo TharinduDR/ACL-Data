@@ -1,0 +1,20 @@
+{
+  "title": "DELA Corpus - A Document-Level Corpus Annotated with Context-Related Issues",
+  "authors": [
+    "Sheila Castilho",
+    "João L. Cavalheiro Camargo",
+    "Miguel Menezes",
+    "Andy Way"
+  ],
+  "languages": [
+    "English",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.wmt-1.63",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.63/"
+}

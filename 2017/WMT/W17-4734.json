@@ -1,0 +1,31 @@
+{
+  "title": "The QT21 Combined Machine Translation System for English to Latvian",
+  "authors": [
+    "Jan-Thorsten Peter",
+    "Hermann Ney",
+    "Ondřej Bojar",
+    "Ngoc-Quan Pham",
+    "Jan Niehues",
+    "Alex Waibel",
+    "Franck Burlot",
+    "François Yvon",
+    "Mārcis Pinnis",
+    "Valters Šics",
+    "Jasmijn Bastings",
+    "Miguel Rios",
+    "Wilker Aziz",
+    "Philip Williams",
+    "Frédéric Blain",
+    "Lucia Specia"
+  ],
+  "languages": [
+    "English",
+    "Latvian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W17-4734",
+  "acl_url": "https://aclanthology.org/W17-4734/"
+}

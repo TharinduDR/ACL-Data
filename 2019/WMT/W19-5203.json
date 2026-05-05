@@ -1,0 +1,36 @@
+{
+  "title": "Incorporating Source Syntax into Transformer-Based Neural Machine Translation",
+  "authors": [
+    "Anna Currey",
+    "Kenneth Heafield"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Bulgarian",
+    "Czech",
+    "Polish",
+    "Slovak",
+    "Slovene",
+    "Estonian",
+    "Finnish",
+    "Hungarian",
+    "Latvian",
+    "Lithuanian",
+    "Danish",
+    "Dutch",
+    "German",
+    "Swedish",
+    "Greek"
+  ],
+  "research_areas": [
+    "T16",
+    "T21"
+  ],
+  "paper_id": "W19-5203",
+  "acl_url": "https://aclanthology.org/W19-5203/"
+}

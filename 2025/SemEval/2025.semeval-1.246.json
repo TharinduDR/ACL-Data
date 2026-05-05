@@ -1,0 +1,26 @@
+{
+  "title": "Howard University-AI4PC at SemEval-2025 Task 2: Improving Machine Translation With Context-Aware Entity-Only Pre-translations with GPT4o",
+  "authors": [
+    "Saurav K. Aryal",
+    "Jabez Agyemang-Prempeh"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Chinese",
+    "Korean",
+    "Thai",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.semeval-1.246",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.246/"
+}

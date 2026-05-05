@@ -1,0 +1,17 @@
+{
+  "title": "MUCS@MixMT: indicTrans-based Machine Translation for Hinglish Text",
+  "authors": [
+    "Asha Hegde",
+    "Hosahalli Lakshmaiah Shashirekha"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.wmt-1.113",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.113/"
+}

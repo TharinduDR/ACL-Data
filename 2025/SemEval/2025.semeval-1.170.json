@@ -1,0 +1,21 @@
+{
+  "title": "WordWiz at SemEval-2025 Task 10: Optimizing Narrative Extraction in Multilingual News via Fine-Tuned Language Models",
+  "authors": [
+    "Ruhollah Ahmadi",
+    "Hossein Zeinali"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Russian",
+    "Hindi",
+    "Bulgarian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction",
+    "T18 Text Summarization",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.semeval-1.170",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.170/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "X-PuDu at SemEval-2022 Task 7: A Replaced Token Detection Task Pre-trained Model with Pattern-aware Ensembling for Identifying Plausible Clarifications",
+  "authors": [
+    "Junyuan Shang",
+    "Shuohuan Wang",
+    "Yu Sun",
+    "Yanjun Yu",
+    "Yue Zhou",
+    "Li Xiang",
+    "Guixiu Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.152",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.152/"
+}

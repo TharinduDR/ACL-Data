@@ -1,0 +1,25 @@
+{
+  "title": "SJTU System Description for the WMT24 Low-Resource Languages of Spain Task",
+  "authors": [
+    "Tianxiang Hu",
+    "Pei Zhang",
+    "Haoxiang Sun",
+    "Ruize Gao",
+    "Jialong Tang",
+    "Baosong Yang",
+    "Rui Wang"
+  ],
+  "languages": [
+    "Spanish",
+    "Aragonese",
+    "Aranese",
+    "Asturian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.92",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.92/"
+}

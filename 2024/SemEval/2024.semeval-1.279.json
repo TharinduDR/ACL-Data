@@ -1,0 +1,36 @@
+{
+  "title": "SemEval-2024 Task 8: Multidomain, Multimodel and Multilingual Machine-Generated Text Detection",
+  "authors": [
+    "Yuxia Wang",
+    "Jonibek Mansurov",
+    "Petar Ivanov",
+    "Jinyan Su",
+    "Artem Shelmanov",
+    "Akim Tsvigun",
+    "Osama Mohammed Afzal",
+    "Tarek Mahmoud",
+    "Giovanni Puccetti",
+    "Thomas Arnold",
+    "Chenxi Whitehouse",
+    "Alham Fikri Aji",
+    "Nizar Habash",
+    "Iryna Gurevych",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Urdu",
+    "Bulgarian",
+    "Indonesian",
+    "Arabic",
+    "Russian",
+    "German",
+    "Italian"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.semeval-1.279",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.279/"
+}

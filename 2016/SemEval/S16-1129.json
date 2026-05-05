@@ -1,0 +1,27 @@
+{
+  "title": "SUpEr Team at SemEval-2016 Task 3: Building a Feature-Rich System for Community Question Answering",
+  "authors": [
+    "Tsvetomila Mihaylova",
+    "Pepa Gencheva",
+    "Martin Boyanov",
+    "Ivana Yovcheva",
+    "Todor Mihaylov",
+    "Momchil Hardalov",
+    "Yasen Kiprov",
+    "Daniel Balchev",
+    "Ivan Koychev",
+    "Preslav Nakov",
+    "Ivelina Nikolova",
+    "Galia Angelova"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T15 Lexicon and Semantics",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "S16-1129",
+  "acl_url": "https://aclanthology.org/S16-1129/"
+}

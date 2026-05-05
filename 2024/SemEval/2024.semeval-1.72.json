@@ -1,0 +1,26 @@
+{
+  "title": "YNU-HPCC at SemEval-2024 Task 9: Using Pre-trained Language Models with LoRA for Multiple-choice Answering Tasks",
+  "authors": [
+    "Jie Wang",
+    "Jin Wang",
+    "Xuejie Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "Russian",
+    "Arabic",
+    "French",
+    "German",
+    "Spanish",
+    "Portuguese",
+    "Italian",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.72",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.72/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "PROMT Translation Systems for WMT 2016 Translation Tasks",
+  "authors": [
+    "Alexander Molchanov",
+    "Fedor Bykov"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "German",
+    "Turkish",
+    "Finnish",
+    "Spanish",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W16-2319",
+  "acl_url": "https://aclanthology.org/W16-2319/"
+}

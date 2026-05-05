@@ -1,0 +1,25 @@
+{
+  "title": "Choose the Final Translation from NMT and LLM hypotheses Using MBR Decoding: HW-TSC's Submission to the WMT24 General MT Shared Task",
+  "authors": [
+    "Zhanglin Wu",
+    "Daimeng Wei",
+    "Zongyao Li",
+    "Hengchao Shang",
+    "Jiaxin Guo",
+    "Shaojun Li",
+    "Zhiqiang Rao",
+    "Yuanchang Luo",
+    "Ning Xie",
+    "Hao Yang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.wmt-1.9",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.9/"
+}

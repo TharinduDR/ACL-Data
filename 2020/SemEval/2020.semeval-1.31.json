@@ -1,0 +1,24 @@
+{
+  "title": "SHIKEBLCU at SemEval-2020 Task 2: An External Knowledge-enhanced Matrix for Multilingual and Cross-Linguual Lexical Entailment",
+  "authors": [
+    "Shike Wang",
+    "Yuchen Fan",
+    "Xiangying Luo",
+    "Dong Yu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Croatian",
+    "Turkish",
+    "Albanian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2020.semeval-1.31",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.31/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "MMTAfrica: Multilingual Machine Translation for African Languages",
+  "authors": [
+    "Chris C. Emezie",
+    "Bonaventure F. P. Dossou"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Igbo",
+    "Fon",
+    "Kinyarwanda",
+    "Swahili",
+    "Xhosa",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.wmt-1.48",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.48/"
+}

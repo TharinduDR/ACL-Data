@@ -1,0 +1,24 @@
+{
+  "title": "iimasNLP at SemEval-2024 Task 8: Unveiling structure-aware language models for automatic generated text identification",
+  "authors": [
+    "Andric Valdez",
+    "Helena Gomez-Adorno",
+    "Fernando Márquez",
+    "Jorge Pantaleón",
+    "Gemma Bel-Enguix"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "Russian",
+    "Indonesian",
+    "Bulgarian",
+    "Urd"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.semeval-1.161",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.161/"
+}

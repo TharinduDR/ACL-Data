@@ -1,0 +1,20 @@
+{
+  "title": "Fine-tuning NMT Models and LLMs for Specialised EN-ES Translation Using Aligned Corpora, Glossaries, and Synthetic Data: MULTITAN at WMT25 Terminology Shared Task",
+  "authors": [
+    "Lichao Zhu",
+    "Maria Zimina-Poirot",
+    "Cristian Valdez",
+    "Stéphane Patin"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2025.wmt-1.108",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.108/"
+}

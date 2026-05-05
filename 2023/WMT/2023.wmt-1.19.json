@@ -1,0 +1,20 @@
+{
+  "title": "IOL Research Machine Translation Systems for WMT23 General Machine Translation Shared Task",
+  "authors": [
+    "Wenbo Zhang",
+    "Zeyu Yan",
+    "Qiaobo Deng",
+    "Jie Cai",
+    "Hongbao Mao"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.wmt-1.19",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.19/"
+}

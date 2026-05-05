@@ -1,0 +1,18 @@
+{
+  "title": "Correcting Length Bias in Neural Machine Translation",
+  "authors": [
+    "Kenton Murray",
+    "David Chiang"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W18-6322",
+  "acl_url": "https://aclanthology.org/W18-6322/"
+}

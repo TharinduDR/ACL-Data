@@ -1,0 +1,27 @@
+{
+  "title": "IXA at SemEval-2023 Task 2: Baseline Xlm-Roberta-base Approach",
+  "authors": [
+    "Edgar Andrés Santamaría"
+  ],
+  "languages": [
+    "Chinese",
+    "Ukrainian",
+    "Swedish",
+    "Italian",
+    "Portuguese",
+    "Persian",
+    "Hindi",
+    "French",
+    "English",
+    "Bangla",
+    "Spanish",
+    "German"
+  ],
+  "research_areas": [
+    "T11",
+    "T14",
+    "T21"
+  ],
+  "paper_id": "2023.semeval-1.50",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.50/"
+}

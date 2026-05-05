@@ -1,0 +1,32 @@
+{
+  "title": "Scaling up COMETKIWI: Unbabel-IST 2023 Submission for the Quality Estimation Shared Task",
+  "authors": [
+    "Ricardo Rei",
+    "Nuno M. Guerreiro",
+    "José Pombal",
+    "Daan van Stigt",
+    "Marcos Treviso",
+    "Luisa Coheur",
+    "José G. C. de Souza",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "Marathi",
+    "Hindi",
+    "Tamil",
+    "Telugu",
+    "Gujarati",
+    "German",
+    "Chinese",
+    "Hebrew",
+    "Persian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.wmt-1.73",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.73/"
+}

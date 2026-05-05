@@ -1,0 +1,35 @@
+{
+  "title": "Separating Grains from the Chaff: Using Data Filtering to Improve Multilingual Translation for Low-Resourced African Languages",
+  "authors": [
+    "Idris Abdulmumin",
+    "Michael Beukman",
+    "Jesujoba O. Alabi",
+    "Chris Emezue",
+    "Everlyn Asiko",
+    "Tosin Adewumi",
+    "Shamsuddeen Hassan Muhammad",
+    "Mofetoluwa Adeyemi",
+    "Oreen Yousuf",
+    "Sahib Singh",
+    "Tajuddeen Rabiu Gwadabe"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Hausa",
+    "Igbo",
+    "Luganda",
+    "Swahili",
+    "Tsonga",
+    "Yoruba",
+    "Zulu",
+    "Wolof"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.wmt-1.98",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.98/"
+}

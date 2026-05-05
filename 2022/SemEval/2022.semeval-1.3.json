@@ -1,0 +1,26 @@
+{
+  "title": "BLCU-ICALL at SemEval-2022 Task 1: Cross-Attention Multitasking Framework for Definition Modeling",
+  "authors": [
+    "Cunliang Kong",
+    "Yujie Wang",
+    "Ruining Chong",
+    "Liner Yang",
+    "Hengyuan Zhang",
+    "Erhong Yang",
+    "Yaping Huang"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.3",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.3/"
+}

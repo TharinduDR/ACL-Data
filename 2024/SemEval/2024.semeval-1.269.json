@@ -1,0 +1,24 @@
+{
+  "title": "Groningen Team A at SemEval-2024 Task 8: Human/Machine Authorship Attribution Using a Combination of Probabilistic and Linguistic Features",
+  "authors": [
+    "Huseyin Aleckair",
+    "Puja Chakraborty",
+    "Pontus Henningsson",
+    "Matthijs van Hofslot",
+    "Alon Scheuer"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Chinese",
+    "English",
+    "Indonesian",
+    "Russian",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.semeval-1.269",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.269/"
+}

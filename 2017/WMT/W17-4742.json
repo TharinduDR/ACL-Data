@@ -1,0 +1,24 @@
+{
+  "title": "Sogou Neural Machine Translation Systems for WMT17",
+  "authors": [
+    "Yuguang Wang",
+    "Xiang Li",
+    "Shanbo Cheng",
+    "Liyang Jiang",
+    "Jiajun Yang",
+    "Wei Chen",
+    "Lin Shi",
+    "Yanfeng Wang",
+    "Hongtao Yang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "W17-4742",
+  "acl_url": "https://aclanthology.org/W17-4742/"
+}

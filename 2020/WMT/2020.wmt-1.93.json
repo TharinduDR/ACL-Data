@@ -1,0 +1,27 @@
+{
+  "title": "Huawei's Submissions to the WMT20 Biomedical Translation Task",
+  "authors": [
+    "Wei Peng",
+    "Jianfeng Liu",
+    "Minghan Wang",
+    "Liangyou Li",
+    "Xupeng Meng",
+    "Hao Yang",
+    "Qun Liu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Chinese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2020.wmt-1.93",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.93/"
+}

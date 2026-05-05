@@ -1,0 +1,31 @@
+{
+  "title": "HW-TSC Translation Systems for the WMT22 Chat Translation Task",
+  "authors": [
+    "Jinlong Yang",
+    "Zongyao Li",
+    "Daimeng Wei",
+    "Hengchao Shang",
+    "Xiaoyu Chen",
+    "Zhengzhe Yu",
+    "Zhiqiang Rao",
+    "Shaojun Li",
+    "Zhanglin Wu",
+    "Yuhao Xie",
+    "Yuanchang Luo",
+    "Ting Zhu",
+    "Yanqing Zhao",
+    "Lizhi Lei",
+    "Hao Yang",
+    "Ying Qin"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.wmt-1.92",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.92/"
+}

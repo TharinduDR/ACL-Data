@@ -1,0 +1,28 @@
+{
+  "title": "One Wide Feedforward is All You Need",
+  "authors": [
+    "Telmo Pessoa Pires",
+    "António V. Lopes",
+    "Yannick Assogba",
+    "Hendra Setiawan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian",
+    "Chinese",
+    "French",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.wmt-1.98",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.98/"
+}

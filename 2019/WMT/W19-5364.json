@@ -1,0 +1,18 @@
+{
+  "title": "CUNI System for the WMT19 Robustness Task",
+  "authors": [
+    "Jindřich Helcl",
+    "Jindřich Libovický",
+    "Martin Popel"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W19-5364",
+  "acl_url": "https://aclanthology.org/W19-5364/"
+}

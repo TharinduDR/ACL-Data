@@ -1,0 +1,38 @@
+{
+  "title": "INFOTEC-NLP at SemEval-2025 Task 11: A Case Study on Transformer-Based Models and Bag of Words",
+  "authors": [
+    "Emmanuel Santos",
+    "Mario Graff"
+  ],
+  "languages": [
+    "English",
+    "Afrikaans",
+    "Arabic",
+    "Aymara",
+    "Chinese",
+    "German",
+    "Hausa",
+    "Hindi",
+    "Igbo",
+    "Kinyarwanda",
+    "Malay",
+    "Oromo",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Somali",
+    "Swahili",
+    "Tigrinya",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.semeval-1.50",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.50/"
+}

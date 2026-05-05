@@ -1,0 +1,20 @@
+{
+  "title": "JCTICOL at SemEval-2019 Task 6: Classifying Offensive Language in Social Media using Deep Learning Methods, Word/Character N-gram Features, and Preprocessing Methods",
+  "authors": [
+    "Yaakov HaCohen-Kerner",
+    "Ziv Ben-David",
+    "Gal Didi",
+    "Eli Cahn",
+    "Shalom Rochman",
+    "Elyashiv Shayovitz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "S19-2115",
+  "acl_url": "https://aclanthology.org/S19-2115/"
+}

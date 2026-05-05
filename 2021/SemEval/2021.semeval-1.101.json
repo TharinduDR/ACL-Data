@@ -1,0 +1,21 @@
+{
+  "title": "UALberta at SemEval-2021 Task 2: Determining Sense Synonymy via Translations",
+  "authors": [
+    "Bradley Hauer",
+    "Hongchang Bao",
+    "Arnob Mallik",
+    "Grzegorz Kondrak"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.semeval-1.101",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.101/"
+}

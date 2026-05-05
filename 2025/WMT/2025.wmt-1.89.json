@@ -1,0 +1,24 @@
+{
+  "title": "JGU Mainz's Submission to the WMT25 Shared Task on LLMs with Limited Resources for Slavic Languages: MT and QA",
+  "authors": [
+    "Hossain Shaikh Saadi",
+    "Minh Duc Bui",
+    "Mario Sanz-Guerrero",
+    "Katharina von der Wense"
+  ],
+  "languages": [
+    "Ukrainian",
+    "Upper Sorbian",
+    "Lower Sorbian",
+    "German",
+    "Czech",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.wmt-1.89",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.89/"
+}

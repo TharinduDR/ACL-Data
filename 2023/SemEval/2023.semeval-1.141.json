@@ -1,0 +1,20 @@
+{
+  "title": "CICL_DMS at SemEval-2023 Task 11: Learning With Disagreements (Le-Wi-Di)",
+  "authors": [
+    "Dennis Grötzinger",
+    "Simon Heuschkel",
+    "Matthias Drews"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.141",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.141/"
+}

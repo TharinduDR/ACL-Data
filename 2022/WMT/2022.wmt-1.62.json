@@ -1,0 +1,28 @@
+{
+  "title": "Welocalize-ARC/NKUA's Submission to the WMT 2022 Quality Estimation Shared Task",
+  "authors": [
+    "Eirini Zafeiridou",
+    "Sokratis Sofianopoulos"
+  ],
+  "languages": [
+    "English",
+    "Marathi",
+    "Czech",
+    "Japanese",
+    "Korean",
+    "German",
+    "Chinese",
+    "Estonian",
+    "Russian",
+    "Serbian",
+    "Slovenian",
+    "Thai",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.wmt-1.62",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.62/"
+}

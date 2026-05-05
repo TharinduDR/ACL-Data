@@ -1,0 +1,31 @@
+{
+  "title": "MaiNLP at SemEval-2024 Task 1: Analyzing Source Language Selection in Cross-Lingual Textual Relatedness",
+  "authors": [
+    "Shijia Zhou",
+    "Huangyan Shan",
+    "Barbara Plank",
+    "Robert Litschko"
+  ],
+  "languages": [
+    "English",
+    "Afrikaans",
+    "Spanish",
+    "Hindi",
+    "Punjabi",
+    "Amharic",
+    "Modern Standard Arabic",
+    "Algerian Arabic",
+    "Moroccan Arabic",
+    "Hausa",
+    "Kinyarwanda",
+    "Marathi",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.259",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.259/"
+}

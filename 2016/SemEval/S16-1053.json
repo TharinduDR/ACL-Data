@@ -1,0 +1,25 @@
+{
+  "title": "INSIGHT-1 at SemEval-2016 Task 5: Deep Learning for Multilingual Aspect-based Sentiment Analysis",
+  "authors": [
+    "Sebastian Ruder",
+    "Parsa Ghaffari",
+    "John G. Breslin"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Russian",
+    "Turkish",
+    "Arabic",
+    "Dutch",
+    "Chinese",
+    "Cantonese"
+  ],
+  "research_areas": [
+    "T10",
+    "T11"
+  ],
+  "paper_id": "S16-1053",
+  "acl_url": "https://aclanthology.org/S16-1053/"
+}

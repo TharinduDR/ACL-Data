@@ -1,0 +1,27 @@
+{
+  "title": "Effective Parallel Corpus Mining using Bilingual Sentence Embeddings",
+  "authors": [
+    "Mandy Guo",
+    "Qinlan Shen",
+    "Yinfei Yang",
+    "Heming Ge",
+    "Daniel Cer",
+    "Gustavo Hernandez Abrego",
+    "Keith Stevens",
+    "Noah Constant",
+    "Yun-Hsuan Sung",
+    "Brian Strope",
+    "Ray Kurzweil"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "W18-6317",
+  "acl_url": "https://aclanthology.org/W18-6317/"
+}

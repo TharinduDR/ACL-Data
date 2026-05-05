@@ -1,0 +1,21 @@
+{
+  "title": "YNU-HPCC at SemEval-2025 Task 1: Enhancing Multimodal Idiomaticity Representation via LoRA and Hybrid Loss Optimization",
+  "authors": [
+    "Lei Liu",
+    "You Zhang",
+    "Jin Wang",
+    "Dan Xu",
+    "Xuejie Zhang"
+  ],
+  "languages": [
+    "English",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T15 Lexicon and Semantics",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.semeval-1.270",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.270/"
+}

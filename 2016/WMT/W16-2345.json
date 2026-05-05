@@ -1,0 +1,25 @@
+{
+  "title": "Findings of the 2016 WMT Shared Task on Cross-lingual Pronoun Prediction",
+  "authors": [
+    "Liane Guillou",
+    "Christian Hardmeier",
+    "Preslav Nakov",
+    "Sara Stymne",
+    "Jörg Tiedemann",
+    "Yannick Versley",
+    "Mauro Cettolo",
+    "Bonnie Webber",
+    "Andrei Popescu-Belis"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W16-2345",
+  "acl_url": "https://aclanthology.org/W16-2345/"
+}

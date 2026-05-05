@@ -1,0 +1,23 @@
+{
+  "title": "Sharif-STR at SemEval-2024 Task 1: Transformer as a Regression Model for Fine-Grained Scoring of Textual Semantic Relations",
+  "authors": [
+    "Seyyedeh Fatemeh Ebrahimi",
+    "Karim Akhavan Azari",
+    "Amirmasoud Iravani",
+    "Hadi Alizadeh",
+    "Zeinab Sadat Taghavi",
+    "Hossein Sameti"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.151",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.151/"
+}

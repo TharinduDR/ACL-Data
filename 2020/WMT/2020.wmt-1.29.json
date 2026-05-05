@@ -1,0 +1,22 @@
+{
+  "title": "Machine Translation for English–Inuktitut with Segmentation, Data Acquisition and Pre-Training",
+  "authors": [
+    "Christian Roest",
+    "Lukas Edman",
+    "Gosse Minnema",
+    "Kevin Kelly",
+    "Jennifer Spenader",
+    "Antonio Toral"
+  ],
+  "languages": [
+    "English",
+    "Inuktitut"
+  ],
+  "research_areas": [
+    "T16",
+    "T21",
+    "T14"
+  ],
+  "paper_id": "2020.wmt-1.29",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.29/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "eTranslation's Submissions to the WMT 2021 News Translation Task",
+  "authors": [
+    "Csaba Oravec",
+    "Katina Bontcheva",
+    "David Kolovratník",
+    "Bhavani Bhaskar",
+    "Michael Jellinghaus",
+    "Andreas Eisele"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.wmt-1.15",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.15/"
+}

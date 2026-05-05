@@ -1,0 +1,19 @@
+{
+  "title": "IITP-MT System for Gujarati-English News Translation Task at WMT 2019",
+  "authors": [
+    "Sukanta Sen",
+    "Kamal Kumar Gupta",
+    "Asif Ekbal",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W19-5346",
+  "acl_url": "https://aclanthology.org/W19-5346/"
+}

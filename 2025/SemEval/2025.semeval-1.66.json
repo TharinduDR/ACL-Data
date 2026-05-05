@@ -1,0 +1,27 @@
+{
+  "title": "YNU-HPCC at SemEval-2025 Task 2: Local Cache and Online Retrieval-Based method for Entity-Aware Machine Translation",
+  "authors": [
+    "Hao Li",
+    "Jin Wang",
+    "Xuejie Zhang"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Thai",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11",
+    "T16",
+    "T13"
+  ],
+  "paper_id": "2025.semeval-1.66",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.66/"
+}

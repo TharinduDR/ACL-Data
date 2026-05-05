@@ -1,0 +1,25 @@
+{
+  "title": "LIUM-CVC Submissions for WMT17 Multimodal Translation Task",
+  "authors": [
+    "Ozan Caglayan",
+    "Walid Aransa",
+    "Adrien Bardet",
+    "Mercedes García-Martínez",
+    "Fethi Bougares",
+    "Loïc Barrault",
+    "Marc Masana",
+    "Luis Herranz",
+    "Joost van de Weijer"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "W17-4746",
+  "acl_url": "https://aclanthology.org/W17-4746/"
+}

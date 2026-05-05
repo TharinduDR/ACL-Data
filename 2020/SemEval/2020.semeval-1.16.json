@@ -1,0 +1,20 @@
+{
+  "title": "BRUMS at SemEval-2020 Task 3: Contextualised Embeddings for Predicting the (Graded) Effect of Context in Word Similarity",
+  "authors": [
+    "Hansi Hettiarachchi",
+    "Tharindu Ranasinghe"
+  ],
+  "languages": [
+    "English",
+    "Croatian",
+    "Slovenian",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.semeval-1.16",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.16/"
+}

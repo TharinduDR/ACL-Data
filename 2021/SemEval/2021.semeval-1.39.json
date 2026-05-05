@@ -1,0 +1,19 @@
+{
+  "title": "SemEval-2021 Task 9: Fact Verification and Evidence Finding for Tabular Data in Scientific Documents (SEM-TAB-FACTS)",
+  "authors": [
+    "Nancy X. R. Wang",
+    "Diwakar Mahajan",
+    "Marina Danilevsky",
+    "Sara Rosenthal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.semeval-1.39",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.39/"
+}

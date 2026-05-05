@@ -1,0 +1,21 @@
+{
+  "title": "UPC-USMBA at SemEval-2017 Task 3: Combining Multiple Approaches for CQA for Arabic",
+  "authors": [
+    "Yassine El Adlouni",
+    "Imane Lahbari",
+    "Horacio Rodríguez",
+    "Mohammed Meknassi",
+    "Said Ouatik El Alaoui",
+    "Noureddine Ennahnani"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "S17-2044",
+  "acl_url": "https://aclanthology.org/S17-2044/"
+}

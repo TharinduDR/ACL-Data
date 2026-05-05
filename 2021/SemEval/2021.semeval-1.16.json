@@ -1,0 +1,22 @@
+{
+  "title": "SkoltechNLP at SemEval-2021 Task 2: Generating Cross-Lingual Training Data for the Word-in-Context Task",
+  "authors": [
+    "Anton Razzhigaev",
+    "Nikolay Arefyev",
+    "Alexander Panchenko"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Russian",
+    "Arabic",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.semeval-1.16",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.16/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Fralak at SemEval-2024 Task 4: combining RNN-generated hierarchy paths with simple neural nets for hierarchical multilabel text classification in a multilingual zero-shot setting",
+  "authors": [
+    "Katarina Laken"
+  ],
+  "languages": [
+    "English",
+    "Bulgarian",
+    "North Macedonian",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14",
+    "T11",
+    "T08"
+  ],
+  "paper_id": "2024.semeval-1.89",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.89/"
+}

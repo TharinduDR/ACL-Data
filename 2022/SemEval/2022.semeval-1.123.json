@@ -1,0 +1,20 @@
+{
+  "title": "BFCAI at SemEval-2022 Task 6: Multi-Layer Perceptron for Sarcasm Detection in Arabic Texts",
+  "authors": [
+    "Nsrin Ashraf",
+    "Fathy Elkazaz",
+    "Mohamed Taha",
+    "Hamada Nayel",
+    "Tarek Elshishtawy"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.semeval-1.123",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.123/"
+}

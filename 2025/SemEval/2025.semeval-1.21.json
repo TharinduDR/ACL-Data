@@ -1,0 +1,21 @@
+{
+  "title": "GateNLP at SemEval-2025 Task 10: Hierarchical Three-Step Prompting for Multilingual Narrative Classification",
+  "authors": [
+    "Iknoor Singh",
+    "Carolina Scarton",
+    "Kalina Bontcheva"
+  ],
+  "languages": [
+    "English",
+    "Bulgarian",
+    "Hindi",
+    "Portuguese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.semeval-1.21",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.21/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "WMT 2016 Multimodal Translation System Description based on Bidirectional Recurrent Neural Networks with Double-Embeddings",
+  "authors": [
+    "Sergio Rodríguez Guasch",
+    "Marta R. Costa-jussà"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "W16-2362",
+  "acl_url": "https://aclanthology.org/W16-2362/"
+}

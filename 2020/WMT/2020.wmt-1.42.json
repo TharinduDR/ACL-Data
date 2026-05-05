@@ -1,0 +1,23 @@
+{
+  "title": "Translating Similar Languages: Role of Mutual Intelligibility in Multilingual Transformers",
+  "authors": [
+    "Ife Adebara",
+    "El Moatez Billah Nagoudi",
+    "Muhammad Abdul Mageed"
+  ],
+  "languages": [
+    "Spanish",
+    "Catalan",
+    "Portuguese",
+    "Slovene",
+    "Croatian",
+    "Hindi",
+    "Marathi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.wmt-1.42",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.42/"
+}

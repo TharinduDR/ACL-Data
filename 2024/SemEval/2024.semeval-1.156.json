@@ -1,0 +1,23 @@
+{
+  "title": "DUTH at SemEval 2024 Task 8: Comparing classic Machine Learning Algorithms and LLM based methods for Multigenerator, Multidomain and Multilingual Machine-Generated Text Detection",
+  "authors": [
+    "Theodora Kyriakou",
+    "Ioannis Maslaris",
+    "Avi Arampatzis"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "Indonesian",
+    "Urdu",
+    "German",
+    "Bulgarian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.semeval-1.156",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.156/"
+}

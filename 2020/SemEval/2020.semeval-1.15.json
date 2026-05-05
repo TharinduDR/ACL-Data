@@ -1,0 +1,20 @@
+{
+  "title": "BMEAUT at SemEval-2020 Task 2: Lexical entailment with semantic graphs",
+  "authors": [
+    "Ádám Kovács",
+    "Kinga Gémes",
+    "Andras Kornai",
+    "Gábor Recski"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "German"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.semeval-1.15",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.15/"
+}

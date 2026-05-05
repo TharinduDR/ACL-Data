@@ -1,0 +1,23 @@
+{
+  "title": "UoR-NCL at SemEval-2023 Task 1: Learning Word-Sense and Image Embeddings for Word Sense Disambiguation",
+  "authors": [
+    "Thanet Markchom",
+    "Huizhi Liang",
+    "Joyce Gitau",
+    "Zehao Liu",
+    "Varun Ojha",
+    "Lee Taylor",
+    "Jake Bonnici",
+    "Abdullah Alshadadi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.semeval-1.3",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.3/"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Findings of the Quality Estimation Shared Task at WMT 2024: Are LLMs Closing the Gap in QE?",
+  "authors": [
+    "Chrysoula Zerva",
+    "Frédéric Blain",
+    "José G. C. de Souza",
+    "Diptesh Kanojia",
+    "Sourabh Deoghare",
+    "Nuno M. Guerreiro",
+    "Giuseppe Attanasio",
+    "Ricardo Rei",
+    "Constantin Orăsan",
+    "Matteo Negri",
+    "Marco Turchi",
+    "Rajen Chatterjee",
+    "Pushpak Bhattacharyya",
+    "Markus Freitag",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Hindi",
+    "Gujarati",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.3",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.3/"
+}

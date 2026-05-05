@@ -1,0 +1,25 @@
+{
+  "title": "HW-TSC's Participation in the WMT 2023 Automatic Post Editing Shared Task",
+  "authors": [
+    "Jiawei Yu",
+    "Min Zhang",
+    "Yanqing Zhao",
+    "Xiaofeng Zhao",
+    "Yuang Li",
+    "Chang Su",
+    "Yinglu Li",
+    "Miaomiao Ma",
+    "Shimin Tao",
+    "Hao Yang"
+  ],
+  "languages": [
+    "English",
+    "Marathi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.wmt-1.85",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.85/"
+}

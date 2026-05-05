@@ -1,0 +1,19 @@
+{
+  "title": "Copied Monolingual Data Improves Low-Resource Neural Machine Translation",
+  "authors": [
+    "Anna Currey",
+    "Antonio Valerio Miceli Barone",
+    "Kenneth Heafield"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Romanian",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W17-4715",
+  "acl_url": "https://aclanthology.org/W17-4715/"
+}

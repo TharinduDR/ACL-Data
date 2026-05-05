@@ -1,0 +1,18 @@
+{
+  "title": "HiJoNLP at SemEval-2022 Task 2: Detecting Idiomaticity of Multiword Expressions using Multilingual Pretrained Language Models",
+  "authors": [
+    "Minghuan Tan"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "German"
+  ],
+  "research_areas": [
+    "T14",
+    "T15",
+    "T08"
+  ],
+  "paper_id": "2022.semeval-1.23",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.23/"
+}

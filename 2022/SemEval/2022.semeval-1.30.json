@@ -1,0 +1,25 @@
+{
+  "title": "LingJing at SemEval-2022 Task 3: Applying DeBERTa to Lexical-level Presupposed Relation Taxonomy with Knowledge Transfer",
+  "authors": [
+    "Fei Xia",
+    "Bin Li",
+    "Yixuan Weng",
+    "Shizhu He",
+    "Bin Sun",
+    "Shutao Li",
+    "Kang Liu",
+    "Jun Zhao"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.30",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.30/"
+}

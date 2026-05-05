@@ -1,0 +1,25 @@
+{
+  "title": "Ensemble Fine-tuned mBERT for Translation Quality Estimation",
+  "authors": [
+    "Shaika Chowdhury",
+    "Naouel Baili",
+    "Brian Vannah"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian",
+    "Estonian",
+    "Nepali",
+    "Sinhala",
+    "Russian",
+    "Khmer"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.wmt-1.93",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.93/"
+}

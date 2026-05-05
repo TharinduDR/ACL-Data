@@ -1,0 +1,23 @@
+{
+  "title": "Dictionary-based Domain Adaptation of MT Systems without Retraining",
+  "authors": [
+    "Rudolf Rosa",
+    "Roman Sudarikov",
+    "Michal Novák",
+    "Martin Popel",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Spanish",
+    "Dutch",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "W16-2334",
+  "acl_url": "https://aclanthology.org/W16-2334/"
+}

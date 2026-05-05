@@ -1,0 +1,21 @@
+{
+  "title": "SemEval-2015 Task 11: Sentiment Analysis of Figurative Language in Twitter",
+  "authors": [
+    "Aniruddha Ghosh",
+    "Guofu Li",
+    "Tony Veale",
+    "Ekaterina Shutova",
+    "John Barnden",
+    "Paolo Rosso",
+    "Antonio Reyes"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "S15-2080",
+  "acl_url": "https://aclanthology.org/S15-2080/"
+}

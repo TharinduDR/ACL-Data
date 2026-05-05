@@ -1,0 +1,37 @@
+{
+  "title": "The NiuTrans Machine Translation Systems for WMT21",
+  "authors": [
+    "Shuhan Zhou",
+    "Tao Zhou",
+    "Binghao Wei",
+    "Yingfeng Luo",
+    "Yongyu Mu",
+    "Zefan Zhou",
+    "Chenglong Wang",
+    "Xuanjun Zhou",
+    "Chuanhao Lv",
+    "Yi Jing",
+    "Laohu Wang",
+    "Jingnan Zhang",
+    "Canan Huang",
+    "Zhongxiang Yan",
+    "Chi Hu",
+    "Bei Li",
+    "Tong Xiao",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "Russian",
+    "Icelandic",
+    "Hausa"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.wmt-1.26",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.26/"
+}

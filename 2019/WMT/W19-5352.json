@@ -1,0 +1,21 @@
+{
+  "title": "A Test Suite and Manual Evaluation of Document-Level NMT at WMT19",
+  "authors": [
+    "Kateřina Rysová",
+    "Magdaléna Rysová",
+    "Tomáš Musil",
+    "Lucie Poláková",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "English",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W19-5352",
+  "acl_url": "https://aclanthology.org/W19-5352/"
+}

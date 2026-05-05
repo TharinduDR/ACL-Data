@@ -1,0 +1,21 @@
+{
+  "title": "Quality Estimation via Backtranslation at the WMT 2022 Quality Estimation Task",
+  "authors": [
+    "Sweta Agrawal",
+    "Nikita Mehandru",
+    "Niloufar Salehi",
+    "Marine Carpuat"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.wmt-1.54",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.54/"
+}

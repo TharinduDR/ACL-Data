@@ -1,0 +1,17 @@
+{
+  "title": "The AMU-UEIDIN Submission to the WMT16 News Translation Task: Attention-based NMT Models as Feature Functions in Phrase-based SMT",
+  "authors": [
+    "Marcin Junczys-Dowmunt",
+    "Tomasz Dwojak",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W16-2316",
+  "acl_url": "https://aclanthology.org/W16-2316/"
+}

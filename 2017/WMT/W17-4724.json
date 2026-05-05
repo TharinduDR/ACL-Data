@@ -1,0 +1,27 @@
+{
+  "title": "The JHU Machine Translation Systems for WMT 2017",
+  "authors": [
+    "Shuoyang Ding",
+    "Huda Khayrallah",
+    "Philipp Koehn",
+    "Matt Post",
+    "Gaurav Kumar",
+    "Kevin Duh"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Finnish",
+    "Latvian",
+    "Russian",
+    "Czech",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W17-4724",
+  "acl_url": "https://aclanthology.org/W17-4724/"
+}

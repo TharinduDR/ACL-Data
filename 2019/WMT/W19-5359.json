@@ -1,0 +1,29 @@
+{
+  "title": "EED: Extended Edit Distance Measure for Machine Translation",
+  "authors": [
+    "Peter Stanchev",
+    "Weiyue Wang",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Finnish",
+    "Russian",
+    "Czech",
+    "French",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W19-5359",
+  "acl_url": "https://aclanthology.org/W19-5359/"
+}

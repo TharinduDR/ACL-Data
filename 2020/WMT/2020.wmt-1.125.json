@@ -1,0 +1,24 @@
+{
+  "title": "Zero-Shot Translation Quality Estimation with Explicit Cross-Lingual Patterns",
+  "authors": [
+    "Lei Zhou",
+    "Liang Ding",
+    "Koichi Takeda"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Romanian",
+    "Estonian",
+    "Nepalese",
+    "Sinhala",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.125",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.125/"
+}

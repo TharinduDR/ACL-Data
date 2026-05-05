@@ -1,0 +1,20 @@
+{
+  "title": "Halu-NLP at SemEval-2024 Task 6: MetaCheckGPT - A Multi-task Hallucination Detection Using LLM Uncertainty and Meta-models",
+  "authors": [
+    "Rahul Mehta",
+    "Andrew Hoblitzell",
+    "Jack O'Keefe",
+    "Hyeju Jang",
+    "Vasudeva Varma"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T28",
+    "T14",
+    "T08"
+  ],
+  "paper_id": "2024.semeval-1.52",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.52/"
+}

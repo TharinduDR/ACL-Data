@@ -1,0 +1,26 @@
+{
+  "title": "SSN_MLRG1 at SemEval-2022 Task 10: Structured Sentiment Analysis using 2-layer BiLSTM",
+  "authors": [
+    "Karun Anantharaman",
+    "Divyasri K",
+    "Jayannthan PT",
+    "Ms. S. Angel Deborah",
+    "Ms. S. Rajalakshmi",
+    "Dr. R.S. Milton",
+    "Dr. T. T. Mirnalinee"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Basque",
+    "Norwegian",
+    "Catalan"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.semeval-1.184",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.184/"
+}

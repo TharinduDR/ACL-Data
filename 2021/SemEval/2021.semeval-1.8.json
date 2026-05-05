@@ -1,0 +1,21 @@
+{
+  "title": "Alpha at SemEval-2021 Task 6: Transformer Based Propaganda Classification",
+  "authors": [
+    "Zhida Feng",
+    "Jiji Tang",
+    "Jiaxiang Liu",
+    "Weichong Yin",
+    "Shikun Feng",
+    "Yu Sun",
+    "Li Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.semeval-1.8",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.8/"
+}

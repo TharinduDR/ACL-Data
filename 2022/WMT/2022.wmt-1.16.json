@@ -1,0 +1,22 @@
+{
+  "title": "NAIST-NICT-TIT WMT22 General MT Task Submission",
+  "authors": [
+    "Hiroyuki Deguchi",
+    "Kenji Imamura",
+    "Masahiro Kaneko",
+    "Yuto Nishida",
+    "Yusuke Sakai",
+    "Justin Vasselli",
+    "Huy Hien Vu",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.wmt-1.16",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.16/"
+}

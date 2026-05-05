@@ -1,0 +1,23 @@
+{
+  "title": "IOL Research Machine Translation Systems for WMT23 Low-Resource Indic Language Translation Shared Task",
+  "authors": [
+    "Wenbo Zhang",
+    "Zeyu Yan",
+    "Qiaobo Deng",
+    "Jie Cai",
+    "Hongbao Mao"
+  ],
+  "languages": [
+    "English",
+    "Assamese",
+    "Mizo",
+    "Khasi",
+    "Manipuri"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2023.wmt-1.94",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.94/"
+}

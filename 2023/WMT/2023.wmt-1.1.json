@@ -1,0 +1,43 @@
+{
+  "title": "Findings of the 2023 Conference on Machine Translation (WMT23): LLMs Are Here But Not Quite There Yet",
+  "authors": [
+    "Tom Kocmi",
+    "Eleftherios Avramidis",
+    "Rachel Bawden",
+    "Ondřej Bojar",
+    "Anton Dvorkovich",
+    "Christian Federmann",
+    "Mark Fishel",
+    "Markus Freitag",
+    "Thamme Gowda",
+    "Roman Grundkiewicz",
+    "Barry Haddow",
+    "Philipp Koehn",
+    "Benjamin Marie",
+    "Christof Monz",
+    "Makoto Morishita",
+    "Kenton Murray",
+    "Masaaki Nagata",
+    "Toshiaki Nakazawa",
+    "Martin Popel",
+    "Maja Popović",
+    "Mariya Shmatova",
+    "Jun Suzuki"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Ukrainian",
+    "Chinese",
+    "Japanese",
+    "Russian",
+    "Hebrew",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.wmt-1.1",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.1/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Unsupervised Translation of German–Lower Sorbian: Exploring Training and Novel Transfer Methods on a Low-Resource Language",
+  "authors": [
+    "Lukas Edman",
+    "Ahmet Üstün",
+    "Antonio Toral",
+    "Gertjan van Noord"
+  ],
+  "languages": [
+    "German",
+    "Lower Sorbian",
+    "Czech",
+    "Upper Sorbian"
+  ],
+  "research_areas": [
+    "T16",
+    "T14"
+  ],
+  "paper_id": "2021.wmt-1.104",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.104/"
+}

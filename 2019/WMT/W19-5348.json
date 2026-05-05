@@ -1,0 +1,31 @@
+{
+  "title": "Microsoft Research Asia's Systems for WMT19",
+  "authors": [
+    "Yingce Xia",
+    "Xu Tan",
+    "Fei Tian",
+    "Fei Gao",
+    "Weicong Chen",
+    "Yang Fan",
+    "Linyuan Gong",
+    "Yichong Leng",
+    "Renqian Luo",
+    "Yiren Wang",
+    "Lijun Wu",
+    "Jinhua Zhu",
+    "Tao Qin",
+    "Tie-Yan Liu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W19-5348",
+  "acl_url": "https://aclanthology.org/W19-5348/"
+}

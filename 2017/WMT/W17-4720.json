@@ -1,0 +1,20 @@
+{
+  "title": "CUNI Submission in WMT17: Chimera Goes Neural",
+  "authors": [
+    "Roman Sudarikov",
+    "David Mareček",
+    "Tom Kocmi",
+    "Dušan Variš",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "English",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W17-4720",
+  "acl_url": "https://aclanthology.org/W17-4720/"
+}

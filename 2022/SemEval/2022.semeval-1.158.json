@@ -1,0 +1,28 @@
+{
+  "title": "GateNLP-UShef at SemEval-2022 Task 8: Entity-Enriched Siamese Transformer for Multilingual News Article Similarity",
+  "authors": [
+    "Iknoor Singh",
+    "Yue Li",
+    "Melissa Thong",
+    "Carolina Scarton"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Turkish",
+    "Polish",
+    "Arabic",
+    "French",
+    "Chinese",
+    "Russian",
+    "Italian"
+  ],
+  "research_areas": [
+    "T11",
+    "T14",
+    "T16"
+  ],
+  "paper_id": "2022.semeval-1.158",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.158/"
+}

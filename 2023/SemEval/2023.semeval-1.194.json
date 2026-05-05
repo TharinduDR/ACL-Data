@@ -1,0 +1,22 @@
+{
+  "title": "PoliToHFI at SemEval-2023 Task 6: Leveraging Entity-Aware and Hierarchical Transformers For Legal Entity Recognition and Court Judgment Prediction",
+  "authors": [
+    "Irene Benedetto",
+    "Alkis Koudounas",
+    "Lorenzo Vaiani",
+    "Eliana Pastor",
+    "Elena Baralis",
+    "Luca Cagliero",
+    "Francesco Tarasconi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T25 Legal NLP",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.semeval-1.194",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.194/"
+}

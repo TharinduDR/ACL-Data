@@ -1,0 +1,19 @@
+{
+  "title": "Machine Translation with Large Language Models: Prompting, Few-shot Learning, and Fine-tuning with QLoRA",
+  "authors": [
+    "Xuan Zhang",
+    "Navid Rajabi",
+    "Kevin Duh",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2023.wmt-1.43",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.43/"
+}

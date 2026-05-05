@@ -1,0 +1,20 @@
+{
+  "title": "TUE at SemEval-2020 Task 1: Detecting semantic change by clustering contextual word embeddings",
+  "authors": [
+    "Anna Karnysheva",
+    "Pia Schwarz"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Latin",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.semeval-1.28",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.28/"
+}

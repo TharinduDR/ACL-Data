@@ -1,0 +1,26 @@
+{
+  "title": "UIO at SemEval-2023 Task 12: Multilingual fine-tuning for sentiment classification in low-resource languages",
+  "authors": [
+    "Egil Rønningstad"
+  ],
+  "languages": [
+    "Amharic",
+    "Algerian Arabic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Moroccan Arabic/Darija",
+    "Nigerian Pidgin",
+    "Mozambican Portuguese",
+    "Swahili",
+    "Xitsonga",
+    "Twi",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.semeval-1.144",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.144/"
+}

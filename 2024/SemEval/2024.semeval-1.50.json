@@ -1,0 +1,18 @@
+{
+  "title": "GAVx at SemEval-2024 Task 10: Emotion Flip Reasoning via Stacked Instruction Finetuning of LLMs",
+  "authors": [
+    "Vy Nguyen",
+    "Xiuzhen Zhang"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.semeval-1.50",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.50/"
+}

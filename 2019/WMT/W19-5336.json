@@ -1,0 +1,17 @@
+{
+  "title": "Apertium-fin-eng—Rule-based shallow machine translation for WMT 2019 shared task",
+  "authors": [
+    "Tommi A Pirinen"
+  ],
+  "languages": [
+    "Finnish",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W19-5336",
+  "acl_url": "https://aclanthology.org/W19-5336/"
+}

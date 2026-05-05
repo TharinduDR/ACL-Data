@@ -1,0 +1,23 @@
+{
+  "title": "The AFRL-MITLL WMT16 News-Translation Task Systems",
+  "authors": [
+    "Jeremy Gwinnup",
+    "Timothy Anderson",
+    "Grant Erdmann",
+    "Katherine Young",
+    "Michael Kazi",
+    "Elizabeth Salesky",
+    "Brian Thompson"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W16-2313",
+  "acl_url": "https://aclanthology.org/W16-2313/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "ANA* at SemEval-2020 Task 4: mUlti-task learNing for cOmmonsense reasoNing (UNION)",
+  "authors": [
+    "Anandh Perumal",
+    "Chenyang Huang",
+    "Amine Trabelsi",
+    "Osmar R. Zaïane"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.semeval-1.45",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.45/"
+}

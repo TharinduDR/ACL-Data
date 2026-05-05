@@ -1,0 +1,21 @@
+{
+  "title": "UAAlberta at SemEval 2022 Task 2: Leveraging Glosses and Translations for Multilingual Idiomaticity Detection",
+  "authors": [
+    "Bradley Hauer",
+    "Seeratpal Jaura",
+    "Talgat Omarov",
+    "Grzegorz Kondrak"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Galician"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.semeval-1.16",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.16/"
+}

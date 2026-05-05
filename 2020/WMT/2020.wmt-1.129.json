@@ -1,0 +1,20 @@
+{
+  "title": "UdS-DFKI@WMT20: Unsupervised MT and Very Low Resource Supervised MT for German↔Upper Sorbian",
+  "authors": [
+    "Sourav Dutta",
+    "Jesujoba O. Alabi",
+    "Saptarashmi Bandyopadhyay",
+    "Dana Ruiter",
+    "Josef van Genabith"
+  ],
+  "languages": [
+    "German",
+    "Upper Sorbian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.wmt-1.129",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.129/"
+}

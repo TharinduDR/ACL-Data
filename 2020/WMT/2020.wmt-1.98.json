@@ -1,0 +1,25 @@
+{
+  "title": "ParBLEU: Augmenting Metrics with Automatic Paraphrases for the WMT'20 Metrics Shared Task",
+  "authors": [
+    "Rachel Bawden",
+    "Biao Zhang",
+    "Andre Tättar",
+    "Matt Post"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Finnish",
+    "Korean",
+    "Latvian",
+    "Russian",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.98",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.98/"
+}

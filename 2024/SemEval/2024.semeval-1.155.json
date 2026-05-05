@@ -1,0 +1,26 @@
+{
+  "title": "MBZUAI-UNAM at SemEval-2024 Task 1: Sentence-CROBI, a Simple Cross-Bi-Encoder-Based Neural Network Architecture for Semantic Textual Relatedness",
+  "authors": [
+    "Jesus-German Ortiz-Barajas",
+    "Gemma Bel-Enguix",
+    "Helena Gómez-Adorno"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Amharic",
+    "Algerian Arabic",
+    "Moroccan Arabic",
+    "Hausa",
+    "Marathi",
+    "Telugu",
+    "Kinyarwanda"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.155",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.155/"
+}

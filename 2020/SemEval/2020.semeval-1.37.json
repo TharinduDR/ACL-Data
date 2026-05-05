@@ -1,0 +1,22 @@
+{
+  "title": "JUSTMasters at SemEval-2020 Task 3: Multilingual Deep Learning Model to Predict the Effect of Context in Word Similarity",
+  "authors": [
+    "Nour Al-Khdour",
+    "Mutaz Bni Younes",
+    "Malak Abdullah",
+    "Mohammad AL-Smadi"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Croatian",
+    "Slovenian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.semeval-1.37",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.37/"
+}

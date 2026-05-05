@@ -1,0 +1,16 @@
+{
+  "title": "OCLSP at SemEval-2016 Task 9: Multilayered LSTM as a Neural Semantic Dependency Parser",
+  "authors": [
+    "Lifeng Jin",
+    "Manjuan Duan",
+    "William Schuler"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "S16-1188",
+  "acl_url": "https://aclanthology.org/S16-1188/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "SemEval-2020 Task 3: Graded Word Similarity in Context",
+  "authors": [
+    "Carlos S. Armendariz",
+    "Matthew Purver",
+    "Senja Pollak",
+    "Nikola Ljubešić",
+    "Matej Ulčar",
+    "Marko Robnik-Šikoni",
+    "Ivan Vulić",
+    "Mohammed Taher Pilehvar"
+  ],
+  "languages": [
+    "English",
+    "Croatian",
+    "Finnish",
+    "Slovene"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.semeval-1.3",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.3/"
+}

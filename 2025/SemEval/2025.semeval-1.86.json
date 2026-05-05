@@ -1,0 +1,40 @@
+{
+  "title": "Pixel Phantoms at SemEval-2025 Task 11: Enhancing Multilingual Emotion Detection with a T5 and mT5-Based Approach",
+  "authors": [
+    "Jithu Morrison S",
+    "Janani Hariharakrishnan",
+    "Harsh Pratap Singh"
+  ],
+  "languages": [
+    "English",
+    "Afrikaans",
+    "Amharic",
+    "Arabic",
+    "Chinese",
+    "German",
+    "Hausa",
+    "Hindi",
+    "Kinyarwanda",
+    "Marathi",
+    "Oromo",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swahili",
+    "Swedish",
+    "Tigrinya",
+    "Ukrainian",
+    "Urdu",
+    "Yoruba",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.semeval-1.86",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.86/"
+}

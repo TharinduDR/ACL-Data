@@ -1,0 +1,34 @@
+{
+  "title": "Findings of the WMT 2024 Biomedical Translation Shared Task: Test Sets on Abstract Level",
+  "authors": [
+    "Mariana Neves",
+    "Cristian Grozea",
+    "Philippe Thomas",
+    "Roland Roller",
+    "Rachel Bawden",
+    "Aurélie Névél",
+    "Steffen Castle",
+    "Vanessa Bonato",
+    "Giorgio Maria Di Nunzio",
+    "Federica Vezzani",
+    "Maika Vicente Navarro",
+    "Lana Yeganova",
+    "Antonio Jimeno Yepes"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.6",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.6/"
+}

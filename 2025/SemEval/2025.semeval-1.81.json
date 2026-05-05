@@ -1,0 +1,18 @@
+{
+  "title": "MRS at SemEval-2025 Task 11: A Hybrid Approach for Bridging the Gap in Text-Based Emotion Detection",
+  "authors": [
+    "Milad Afshari",
+    "Richard Frost",
+    "Samantha Kissel",
+    "Kristen Marie Johnson"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.semeval-1.81",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.81/"
+}

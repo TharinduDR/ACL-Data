@@ -1,0 +1,26 @@
+{
+  "title": "NLP_Team1@SSN at SemEval-2024 Task 1: Impact of language models in Sentence-BERT for Semantic Textual Relatedness in Low-resource Languages",
+  "authors": [
+    "Senthil Kumar B",
+    "Aravindan Chandrabose",
+    "Gokulakrishnan B",
+    "Karthikraja TP"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Marathi",
+    "Telugu",
+    "Algerian Arabic",
+    "Moroccan Arabic",
+    "Kinyarwanda",
+    "Hausa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.260",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.260/"
+}

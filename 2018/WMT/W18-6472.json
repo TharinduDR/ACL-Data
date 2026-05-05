@@ -1,0 +1,19 @@
+{
+  "title": "The Speechmatics Parallel Corpus Filtering System for WMT18",
+  "authors": [
+    "Tom Ash",
+    "Remi Francis",
+    "Will Williams"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-6472",
+  "acl_url": "https://aclanthology.org/W18-6472/"
+}

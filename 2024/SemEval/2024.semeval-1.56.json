@@ -1,0 +1,21 @@
+{
+  "title": "CLTeam1 at SemEval-2024 Task 10: Large Language Model based ensemble for Emotion Detection in Hinglish",
+  "authors": [
+    "Ankit Vaidya",
+    "Aditya Gokhale",
+    "Arnav Desai",
+    "Ishaan Shukla",
+    "Sheetal Sonawane"
+  ],
+  "languages": [
+    "Hinglish",
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.semeval-1.56",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.56/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "TohokuNLP at SemEval-2023 Task 5: Clickbait Spoiling via Simple Seq2seq Generation and Ensembling",
+  "authors": [
+    "Hiroto Kurita",
+    "Ikumi Ito",
+    "Hiroaki Funayama",
+    "Shota Sasaki",
+    "Shoji Moriya",
+    "Ye Mengyu",
+    "Kazuma Kokuta",
+    "Ryujin Hatakeyama",
+    "Shusaku Sone",
+    "Kentaro Inui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10",
+    "T23"
+  ],
+  "paper_id": "2023.semeval-1.243",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.243/"
+}

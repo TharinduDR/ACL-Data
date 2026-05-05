@@ -1,0 +1,24 @@
+{
+  "title": "The University of Helsinki submissions to the WMT19 news translation task",
+  "authors": [
+    "Aarne Talman",
+    "Umut Sulubacak",
+    "Raúl Vázquez",
+    "Yves Scherrer",
+    "Sami Virpioja",
+    "Alessandro Raganato",
+    "Arvi Hurskainen",
+    "Jörg Tiedemann"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W19-5347",
+  "acl_url": "https://aclanthology.org/W19-5347/"
+}

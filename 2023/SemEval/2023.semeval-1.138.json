@@ -1,0 +1,34 @@
+{
+  "title": "UM6P at SemEval-2023 Task 12: Out-Of-Distribution Generalization Method for African Languages Sentiment Analysis",
+  "authors": [
+    "Abdelkader El Mahdaouy",
+    "Hamza Alami",
+    "Salima Lamsiyah",
+    "Ismail Berrada"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French",
+    "Swahili",
+    "Tigrinya",
+    "Oromo",
+    "Amharic",
+    "Yoruba",
+    "Igbo",
+    "Nigerian Pidgin",
+    "Algerian Arabic",
+    "Moroccan Arabic/Darija",
+    "Kinyarwanda",
+    "Twi",
+    "Mozambican Portuguese",
+    "Xitsonga"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.138",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.138/"
+}

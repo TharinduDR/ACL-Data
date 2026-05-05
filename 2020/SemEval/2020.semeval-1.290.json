@@ -1,0 +1,21 @@
+{
+  "title": "Team Rouges at SemEval-2020 Task 12: Cross-lingual Inductive Transfer to Detect Offensive Language",
+  "authors": [
+    "Tanvi Dadu",
+    "Kartikey Pant"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Greek",
+    "Arabic",
+    "Danish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.semeval-1.290",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.290/"
+}

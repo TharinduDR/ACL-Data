@@ -1,0 +1,19 @@
+{
+  "title": "NICT's Corpus Filtering Systems for the WMT18 Parallel Corpus Filtering Task",
+  "authors": [
+    "Rui Wang",
+    "Benjamin Marie",
+    "Masao Utiyama",
+    "Eiichiro Sumita"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W18-6489",
+  "acl_url": "https://aclanthology.org/W18-6489/"
+}

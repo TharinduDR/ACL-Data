@@ -1,0 +1,21 @@
+{
+  "title": "MALTO at SemEval-2024 Task 6: Leveraging Synthetic Data for LLM Hallucination Detection",
+  "authors": [
+    "Federico Borra",
+    "Claudio Savelli",
+    "Giacomo Rosso",
+    "Alkis Koudounas",
+    "Flavio Giobergia"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.240",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.240/"
+}

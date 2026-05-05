@@ -1,0 +1,29 @@
+{
+  "title": "FII the Best at SemEval 2025 Task 2: Steering State-of-the-art Machine Translation Models with Strategically Engineered Pipelines for Enhanced Entity Translation",
+  "authors": [
+    "Delia-Iustina Grigoriță",
+    "Tudor-Constantin Pricop",
+    "Sergio-Alessandro Șuteu",
+    "Daniela Gifu",
+    "Diana Trandabăț"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Thai",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.semeval-1.78",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.78/"
+}

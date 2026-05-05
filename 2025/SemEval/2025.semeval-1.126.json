@@ -1,0 +1,20 @@
+{
+  "title": "TabaQA at SemEval-2025 Task 8: Column Augmented Generation for Question Answering over Tabular Data",
+  "authors": [
+    "Ekaterina Antropova",
+    "Egor Kratkov",
+    "Roman Derunets",
+    "Margarita Trofimova",
+    "Ivan Bondarenko",
+    "Alexander Panchenko",
+    "Vasily Kononov",
+    "Maksim Savkin"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.semeval-1.126",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.126/"
+}

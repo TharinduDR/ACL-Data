@@ -1,0 +1,21 @@
+{
+  "title": "SYSTRAN @ WMT 2025 General Translation Task",
+  "authors": [
+    "Dakun Zhang",
+    "Yara Khater",
+    "Ramzi Rahli",
+    "Anna Rebollo",
+    "Josep Crego"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.35",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.35/"
+}

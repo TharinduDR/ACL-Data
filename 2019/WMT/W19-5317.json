@@ -1,0 +1,25 @@
+{
+  "title": "Kingsoft's Neural Machine Translation System for WMT19",
+  "authors": [
+    "Xinze Guo",
+    "Chang Liu",
+    "Xiaolong Li",
+    "Yiran Wang",
+    "Guoliang Li",
+    "Feng Wang",
+    "Zhitao Xu",
+    "Liuyi Yang",
+    "Li Ma",
+    "Changliang Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W19-5317",
+  "acl_url": "https://aclanthology.org/W19-5317/"
+}

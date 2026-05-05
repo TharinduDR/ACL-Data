@@ -1,0 +1,19 @@
+{
+  "title": "The MLLP-UPV Spanish-Portuguese and Portuguese-Spanish Machine Translation Systems for WMT19 Similar Language Translation Task",
+  "authors": [
+    "Pau Baquero-Arnal",
+    "Javier Iranzo-Sánchez",
+    "Jorge Civera",
+    "Alfons Juan"
+  ],
+  "languages": [
+    "Spanish",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W19-5423",
+  "acl_url": "https://aclanthology.org/W19-5423/"
+}

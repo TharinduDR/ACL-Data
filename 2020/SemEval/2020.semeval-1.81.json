@@ -1,0 +1,25 @@
+{
+  "title": "BLCU-NLP at SemEval-2020 Task 5: Data Augmentation for Efficient Counterfactual Detecting",
+  "authors": [
+    "Chang Liu",
+    "Dong Yu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "Russian",
+    "German",
+    "Portuguese",
+    "Italian",
+    "Spanish",
+    "Greek"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2020.semeval-1.81",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.81/"
+}

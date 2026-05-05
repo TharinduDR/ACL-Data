@@ -1,0 +1,19 @@
+{
+  "title": "The University of Helsinki Submission to the WMT19 Parallel Corpus Filtering Task",
+  "authors": [
+    "Raúl Vázquez",
+    "Umut Sulubacak",
+    "Jörg Tiedemann"
+  ],
+  "languages": [
+    "English",
+    "Nepali",
+    "Sinhala"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W19-5441",
+  "acl_url": "https://aclanthology.org/W19-5441/"
+}

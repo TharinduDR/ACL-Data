@@ -1,0 +1,25 @@
+{
+  "title": "RFBES at SemEval-2024 Task 8: Investigating Syntactic and Semantic Features for Distinguishing AI-Generated and Human-Written Texts",
+  "authors": [
+    "Mohammad Heydari Rad",
+    "Farhan Farsi",
+    "Shayan Bali",
+    "Romina Etezadi",
+    "Mehrnoush Shamsfard"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "Indonesian",
+    "Russian",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.semeval-1.69",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.69/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "GruPaTo at SemEval-2020 Task 12: Retraining mBERT on Social Media and Fine-tuned Offensive Language Models",
+  "authors": [
+    "Davide Colla",
+    "Tommaso Caselli",
+    "Valerio Basile",
+    "Jelena Mitrović",
+    "Michael Granitzer"
+  ],
+  "languages": [
+    "English",
+    "Danish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.semeval-1.202",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.202/"
+}

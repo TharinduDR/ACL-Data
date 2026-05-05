@@ -1,0 +1,24 @@
+{
+  "title": "Findings of the Third Shared Task on Multimodal Machine Translation",
+  "authors": [
+    "Loïc Barrault",
+    "Fethi Bougares",
+    "Lucia Specia",
+    "Chiraag Lala",
+    "Desmond Elliott",
+    "Stella Frank"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-6402",
+  "acl_url": "https://aclanthology.org/W18-6402/"
+}

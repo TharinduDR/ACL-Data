@@ -1,0 +1,31 @@
+{
+  "title": "UBC-DLNLNP at SemEval-2023 Task 12: Impact of Transfer Learning on African Sentiment Analysis",
+  "authors": [
+    "Gagan Bhatia",
+    "Ife Adebara",
+    "AbdelRahim Elmadany",
+    "Muhammad Abdul-Mageed"
+  ],
+  "languages": [
+    "Amharic",
+    "Algerian Arabic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Darija",
+    "Swahili",
+    "Nigerian Pidgin",
+    "Mozambican Portuguese",
+    "Xitsonga",
+    "Twi",
+    "Yoruba",
+    "Oromo",
+    "Tigrinya"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.semeval-1.33",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.33/"
+}

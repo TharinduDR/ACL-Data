@@ -1,0 +1,28 @@
+{
+  "title": "HW-TSC's Participation in the WMT 2020 News Translation Shared Task",
+  "authors": [
+    "Daimeng Wei",
+    "Hengchao Shang",
+    "Zhanglin Wu",
+    "Zhengze Yu",
+    "Liangyou Li",
+    "Jiaxin Guo",
+    "Minghan Wang",
+    "Hao Yang",
+    "Lizhi Lei",
+    "Ying Qin",
+    "Shiliang Sun"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Khmer",
+    "Pashto"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.wmt-1.31",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.31/"
+}

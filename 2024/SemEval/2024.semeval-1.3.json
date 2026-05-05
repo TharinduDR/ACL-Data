@@ -1,0 +1,24 @@
+{
+  "title": "L3i++ at SemEval-2024 Task 8: Can Fine-tuned Large Language Model Detect Multigenerator, Multidomain, and Multilingual Black-Box Machine-Generated Text?",
+  "authors": [
+    "Hanh Thi Hong Tran",
+    "Tien Nam Nguyen",
+    "Antoine Doucet",
+    "Senja Pollak"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Bulgarian",
+    "Urdu",
+    "Indonesian",
+    "Russian",
+    "Arabic",
+    "German"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.semeval-1.3",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.3/"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "BlueToad at SemEval-2025 Task 3: Using Question-Answering-Based Language Models to Extract Hallucinations from Machine-Generated Text",
+  "authors": [
+    "Michiel Pronk",
+    "Katja Kamyshanova",
+    "Thijmen Adam",
+    "Maxim van der Maesen de Sombreff"
+  ],
+  "languages": [
+    "Arabic",
+    "Czech",
+    "English",
+    "Farsi",
+    "Finnish",
+    "French",
+    "German",
+    "Hindi",
+    "Italian",
+    "Persian",
+    "Portuguese",
+    "Spanish",
+    "Swedish",
+    "Chinese",
+    "Zulu",
+    "Xhosa",
+    "Indonesian",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T10",
+    "T14",
+    "T28"
+  ],
+  "paper_id": "2025.semeval-1.95",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.95/"
+}

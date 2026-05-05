@@ -1,0 +1,21 @@
+{
+  "title": "SemEval 2019 Task 10: Math Question Answering",
+  "authors": [
+    "Mark Hopkins",
+    "Ronan Le Bras",
+    "Cristian Petrescu-Prahova",
+    "Gabriel Stanovsky",
+    "Hannaneh Hajishirzi",
+    "Rik Koncel-Kedziorski"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "S19-2153",
+  "acl_url": "https://aclanthology.org/S19-2153/"
+}

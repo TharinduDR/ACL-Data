@@ -1,0 +1,36 @@
+{
+  "title": "Findings of the WMT 2024 Shared Task of the Open Language Data Initiative",
+  "authors": [
+    "Laurie Burchell",
+    "Jean Maillard",
+    "Antonios Anastasopoulos",
+    "Christian Federmann",
+    "Philipp Koehn",
+    "Skyler Wang"
+  ],
+  "languages": [
+    "English",
+    "Hausa",
+    "Northern Sotho",
+    "Xitsonga",
+    "Zulu",
+    "Bangla",
+    "Emakhuwa",
+    "Italian",
+    "Erzya",
+    "Tuvan",
+    "Karakalpak",
+    "Aragonese",
+    "Aranese",
+    "Asturian",
+    "Valencian",
+    "Wu Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.4",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.4/"
+}

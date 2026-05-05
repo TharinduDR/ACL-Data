@@ -1,0 +1,23 @@
+{
+  "title": "Multilingual segmentation based on neural networks and pre-trained word embeddings",
+  "authors": [
+    "Mikel Iruskieta",
+    "Kepa Bengoetxea",
+    "Aitziber Atutxa",
+    "Arantza Diaz de Ilarraza"
+  ],
+  "languages": [
+    "Basque",
+    "English",
+    "French",
+    "German",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W19-2716",
+  "acl_url": "https://aclanthology.org/W19-2716/"
+}

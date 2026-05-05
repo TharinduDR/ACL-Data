@@ -1,0 +1,20 @@
+{
+  "title": "RaggedyFive at SemEval-2025 Task 3: Hallucination Span Detection Using Unverifiable Answer Detection",
+  "authors": [
+    "Wessel Heerema",
+    "Collin Krooneman",
+    "Simon van Loon",
+    "Jelmer Top",
+    "Maurice Voors"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.semeval-1.194",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.194/"
+}

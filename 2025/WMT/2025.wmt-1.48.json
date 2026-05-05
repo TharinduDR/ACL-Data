@@ -1,0 +1,52 @@
+{
+  "title": "Google Translate's Research Submission to WMT2025",
+  "authors": [
+    "Mara Finkelstein",
+    "Geza Kovacs",
+    "Isaac Caswell",
+    "Tobias Domhan",
+    "Jan-Thorsten Peter",
+    "Juraj Juraska",
+    "Markus Freitag",
+    "David Vilar"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "Czech",
+    "Dutch",
+    "Estonian",
+    "Farsi",
+    "French",
+    "German",
+    "Greek",
+    "Hindi",
+    "Indonesian",
+    "Icelandic",
+    "Italian",
+    "Japanese",
+    "Kannada",
+    "Korean",
+    "Lithuanian",
+    "Marathi",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Serbian",
+    "Spanish",
+    "Swedish",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.48",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.48/"
+}

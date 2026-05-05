@@ -1,0 +1,22 @@
+{
+  "title": "ATLANTIS at SemEval-2025 Task 3: Detecting Hallucinated Text Spans in Question Answering",
+  "authors": [
+    "Catherine Kobus",
+    "Francois Lancelot",
+    "Marion-Cecile Martin",
+    "Nawal Ould Amer"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.semeval-1.145",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.145/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Low-Resource Corpus Filtering using Multilingual Sentence Embeddings",
+  "authors": [
+    "Vishrav Chaudhary",
+    "Yuqing Tang",
+    "Francisco Guzmán",
+    "Holger Schwenk",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "English",
+    "Sinhala",
+    "Nepali"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W19-5435",
+  "acl_url": "https://aclanthology.org/W19-5435/"
+}

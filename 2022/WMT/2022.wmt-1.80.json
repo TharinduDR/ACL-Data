@@ -1,0 +1,26 @@
+{
+  "title": "Too Brittle To Touch: Comparing the Stability of Quantization and Distillation Towards Developing Lightweight Low-Resource MT Models",
+  "authors": [
+    "Harshita Diddee",
+    "Sandipan Dandapat",
+    "Monojit Choudhury",
+    "Tanuja Ganu",
+    "Kalika Bali"
+  ],
+  "languages": [
+    "Bribri",
+    "Wixarica",
+    "Mundari",
+    "Gondi",
+    "Assamese",
+    "Odia",
+    "Punjabi",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.wmt-1.80",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.80/"
+}

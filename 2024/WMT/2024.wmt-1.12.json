@@ -1,0 +1,37 @@
+{
+  "title": "TOWER-v2: Unbabel-IST 2024 Submission for the General MT Shared Task",
+  "authors": [
+    "Ricardo Rei",
+    "José Pombal",
+    "Nuno M. Guerreiro",
+    "João Alves",
+    "Pedro H. Martins",
+    "Patrick Fernandes",
+    "Helena Wu",
+    "Tania Vaz",
+    "Duarte M. Alves",
+    "Amin Farajian",
+    "Sweta Agrawal",
+    "Antonio Farinhas",
+    "José G.C. de Souza",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech",
+    "Russian",
+    "Ukrainian",
+    "Hindi",
+    "Japanese",
+    "Chinese",
+    "Icelandic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.12",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.12/"
+}

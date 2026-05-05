@@ -1,0 +1,26 @@
+{
+  "title": "CLaC at SemEval-2023 Task 3: Language Potluck RoBERTa Detects Online Persuasion Techniques in a Multilingual Setup",
+  "authors": [
+    "Nelson Filipe Costa",
+    "Bryce Hamilton",
+    "Leila Kosseim"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Polish",
+    "Russian",
+    "Georgian",
+    "Greek",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T20 Opinion & Argument Mining"
+  ],
+  "paper_id": "2023.semeval-1.223",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.223/"
+}

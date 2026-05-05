@@ -1,0 +1,20 @@
+{
+  "title": "LeBLEU: N-gram-based Translation Evaluation Score for Morphologically Complex Languages",
+  "authors": [
+    "Sami Virpioja",
+    "Stig-Arne Grönroos"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Czech",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W15-3052",
+  "acl_url": "https://aclanthology.org/W15-3052/"
+}

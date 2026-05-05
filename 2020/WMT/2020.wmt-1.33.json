@@ -1,0 +1,27 @@
+{
+  "title": "The Volctrans Machine Translation System for WMT20",
+  "authors": [
+    "Liwei Wu",
+    "Xiao Pan",
+    "Zehui Lin",
+    "Yaoming Zhu",
+    "Mingxuan Wang",
+    "Lei Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "French",
+    "Polish",
+    "Tamil",
+    "Khmer",
+    "Pashto"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.wmt-1.33",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.33/"
+}

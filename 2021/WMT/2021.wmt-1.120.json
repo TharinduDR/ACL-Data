@@ -1,0 +1,19 @@
+{
+  "title": "Simultaneous Neural Machine Translation with Constituent Label Prediction",
+  "authors": [
+    "Yasumasa Kano",
+    "Katsuhito Sudoh",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "German"
+  ],
+  "research_areas": [
+    "T16",
+    "T21"
+  ],
+  "paper_id": "2021.wmt-1.120",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.120/"
+}

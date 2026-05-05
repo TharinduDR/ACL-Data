@@ -1,0 +1,45 @@
+{
+  "title": "Findings of the WMT25 Shared Task on Automated Translation Evaluation Systems: Linguistic Diversity is Challenging and References Still Help",
+  "authors": [
+    "Alon Lavie",
+    "Greg Hanneman",
+    "Sweta Agrawal",
+    "Diptesh Kanojia",
+    "Chi-kiu Lo",
+    "Vilém Zouhar",
+    "Frédéric Blain",
+    "Chrysoula Zerva",
+    "Eleftherios Avramidis",
+    "Sourabh Deoghare",
+    "Archchana Sindhuja",
+    "Jiayi Wang",
+    "David I. Adelani",
+    "Brian Thompson",
+    "Tom Kocmi",
+    "Daniel Deutsch",
+    "Markus Freitag"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Estonian",
+    "Icelandic",
+    "Egyptian Arabic",
+    "Bhojpuri",
+    "Maasai",
+    "Russian",
+    "Serbian",
+    "Ukrainian",
+    "Japanese",
+    "Chinese",
+    "Italian",
+    "Korean",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.24",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.24/"
+}

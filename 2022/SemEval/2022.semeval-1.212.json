@@ -1,0 +1,26 @@
+{
+  "title": "DS4DH at SemEval-2022 Task 11: Multilingual Named Entity Recognition Using an Ensemble of Transformer-based Language Models",
+  "authors": [
+    "Hossein Rouhizadeh",
+    "Douglas Teodoro"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Dutch",
+    "Russian",
+    "Turkish",
+    "Korean",
+    "Persian",
+    "German",
+    "Chinese",
+    "Hindi",
+    "Bangla"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2022.semeval-1.212",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.212/"
+}

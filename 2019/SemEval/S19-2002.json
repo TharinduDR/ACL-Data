@@ -1,0 +1,20 @@
+{
+  "title": "HLT@SUDA at SemEval-2019 Task 1: UCCA Graph Parsing as Constituent Tree Parsing",
+  "authors": [
+    "Wei Jiang",
+    "Zhenghua Li",
+    "Yu Zhang",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "S19-2002",
+  "acl_url": "https://aclanthology.org/S19-2002/"
+}

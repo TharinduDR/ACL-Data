@@ -1,0 +1,23 @@
+{
+  "title": "UT-NLP at SemEval-2025 Task 11: Evaluating Zero-Shot Capability of GPT-4o Mini on Emotion Recognition via Role-Play and Contrastive Judging",
+  "authors": [
+    "AmirHossein Safdarian",
+    "Milad Mohammadi",
+    "Hesham Faili"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Hausa",
+    "Ukrainian",
+    "Indonesian",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.semeval-1.283",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.283/"
+}

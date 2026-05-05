@@ -1,0 +1,24 @@
+{
+  "title": "SINAI at SemEval-2024 Task 8: Fine-tuning on Words and Perplexity as Features for Detecting Machine Written Text",
+  "authors": [
+    "Alberto J. Gutiérrez-Megías",
+    "L. Alfonso Ureña-López",
+    "Eugenio Martínez-Cámara"
+  ],
+  "languages": [
+    "English",
+    "Bulgarian",
+    "Chinese",
+    "Indonesian",
+    "Urdu",
+    "Russian",
+    "German",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.semeval-1.216",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.216/"
+}

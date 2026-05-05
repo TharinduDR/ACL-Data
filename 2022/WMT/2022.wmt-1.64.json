@@ -1,0 +1,16 @@
+{
+  "title": "CUNI Non-Autoregressive System for the WMT 22 Efficient Translation Shared Task",
+  "authors": [
+    "Jindřich Helcl"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.wmt-1.64",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.64/"
+}

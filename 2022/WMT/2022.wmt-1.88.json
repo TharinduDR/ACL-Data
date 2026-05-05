@@ -1,0 +1,37 @@
+{
+  "title": "HW-TSC Translation Systems for the WMT22 Biomedical Translation Task",
+  "authors": [
+    "Zhanglin Wu",
+    "Jinlong Yang",
+    "Zhiqiang Rao",
+    "Zhengzhe Yu",
+    "Daimeng Wei",
+    "Xiaoyu Chen",
+    "Zongyao Li",
+    "Hengchao Shang",
+    "Shaojun Li",
+    "Ming Zhu",
+    "Yuanchang Luo",
+    "Yuhao Xie",
+    "Miaomiao Ma",
+    "Ting Zhu",
+    "Lizhi Lei",
+    "Song Peng",
+    "Hao Yang",
+    "Ying Qin"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.wmt-1.88",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.88/"
+}

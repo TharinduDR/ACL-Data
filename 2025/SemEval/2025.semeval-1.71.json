@@ -1,0 +1,40 @@
+{
+  "title": "YNWA_PZ at SemEval-2025 Task 11: Multilingual Multi-Label Emotion Classification",
+  "authors": [
+    "Mohammad Sadegh Poulaei",
+    "Erfan Zare",
+    "Mohammad Reza Mohammadi",
+    "Sauleh Etemadi"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "German",
+    "Spanish",
+    "Hindi",
+    "Indonesian",
+    "Japanese",
+    "Kinyarwanda",
+    "Marathi",
+    "Oromo",
+    "Portuguese",
+    "Russian",
+    "Somali",
+    "Sundanese",
+    "Swahili",
+    "Swedish",
+    "Tatar",
+    "Tigrinya",
+    "Ukrainian",
+    "Emakhuwa",
+    "Xhosa",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T20",
+    "T14"
+  ],
+  "paper_id": "2025.semeval-1.71",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.71/"
+}

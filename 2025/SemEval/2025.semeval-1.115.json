@@ -1,0 +1,19 @@
+{
+  "title": "CCNU at SemEval-2025 Task 8: Enhancing Question Answering on Tabular Data with Two-Stage Corrections",
+  "authors": [
+    "Chenlian Zhou",
+    "Xilu Cai",
+    "Yajuan Tong",
+    "Chengzhao Wu",
+    "Xin Xu",
+    "Guanyi Chen",
+    "Tingting He"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.semeval-1.115",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.115/"
+}

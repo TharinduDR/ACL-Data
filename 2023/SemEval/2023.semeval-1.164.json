@@ -1,0 +1,27 @@
+{
+  "title": "silp_nlp at SemEval-2023 Task 2: Cross-lingual Knowledge Transfer for Mono-lingual Learning",
+  "authors": [
+    "Sumit Singh",
+    "Uma Shanker Tiwary"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bangla",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Swedish",
+    "Ukrainian",
+    "Chinese",
+    "Persian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.semeval-1.164",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.164/"
+}

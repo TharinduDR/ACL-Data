@@ -1,0 +1,29 @@
+{
+  "title": "WADER at SemEval-2023 Task 9: A Weak-labelling framework for Data augmentation in tExt Regression Tasks",
+  "authors": [
+    "Manan Suri",
+    "Aaryak Garg",
+    "Divya Chaudhary",
+    "Ian Gorton",
+    "Bijendra Kumar"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Spanish",
+    "Hindi",
+    "Arabic",
+    "Dutch",
+    "Korean"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.267",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.267/"
+}

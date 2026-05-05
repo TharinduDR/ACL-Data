@@ -1,0 +1,21 @@
+{
+  "title": "HHMM at SemEval-2019 Task 2: Unsupervised Frame Induction using Contextualized Word Embeddings",
+  "authors": [
+    "Saba Anwar",
+    "Dmitry Ustalov",
+    "Nikolay Arefyev",
+    "Simone Paolo Ponzetto",
+    "Chris Biemann",
+    "Alexander Panchenko"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "S19-2018",
+  "acl_url": "https://aclanthology.org/S19-2018/"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Language Adapters for Large-Scale MT: The GMU System for the WMT 2022 Large-Scale Machine Translation Evaluation for African Languages Shared Task",
+  "authors": [
+    "Md Mahfuz Ibn Alam",
+    "Antonios Anastasopoulos"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Amharic",
+    "Hausa",
+    "Oromo",
+    "Somali",
+    "Luo",
+    "Wolof",
+    "Igbo",
+    "Yoruba",
+    "Shona",
+    "Chichewa",
+    "Umbundu",
+    "Tswana",
+    "Zulu",
+    "Xhosa",
+    "Swati",
+    "Kamba",
+    "Kinyarwanda",
+    "Luganda"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.wmt-1.99",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.99/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Neural Network-based Word Alignment through Score Aggregation",
+  "authors": [
+    "Joël Legrand",
+    "Michael Auli",
+    "Ronan Collobert"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Romanian",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16",
+    "T21"
+  ],
+  "paper_id": "W16-2207",
+  "acl_url": "https://aclanthology.org/W16-2207/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "SemEval-2015 Task 4: TimeLine: Cross-Document Event Ordering",
+  "authors": [
+    "Anne-Lyse Minard",
+    "Manuela Speranza",
+    "Eneko Agirre",
+    "Itziar Aldabe",
+    "Marieke van Erp",
+    "Bernardo Magnini",
+    "German Rigau",
+    "Rubén Urizar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S15-2132",
+  "acl_url": "https://aclanthology.org/S15-2132/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Large language models effectively leverage document-level context for literary translation, but critical errors persist",
+  "authors": [
+    "Marzena Karpinska",
+    "Mohit Iyyer"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Polish",
+    "Russian",
+    "French",
+    "German",
+    "Czech",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.wmt-1.41",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.41/"
+}

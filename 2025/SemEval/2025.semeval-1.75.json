@@ -1,0 +1,28 @@
+{
+  "title": "CHILL at SemEval-2025 Task 2: You Can't Just Throw Entities and Hope — Make Your LLM to Get Them Right",
+  "authors": [
+    "Jaebok Lee",
+    "Yonghyun Ryu",
+    "Seongmin Park",
+    "Yoonjung Choi"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Thai",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.semeval-1.75",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.75/"
+}

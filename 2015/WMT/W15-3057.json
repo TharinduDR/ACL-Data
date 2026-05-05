@@ -1,0 +1,23 @@
+{
+  "title": "An Investigation of Machine Translation Evaluation Metrics in Cross-lingual Question Answering",
+  "authors": [
+    "Kyoshiro Sugiyama",
+    "Masahiro Mizukami",
+    "Graham Neubig",
+    "Koichiro Yoshino",
+    "Sakriani Sakti",
+    "Tomoki Toda",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W15-3057",
+  "acl_url": "https://aclanthology.org/W15-3057/"
+}

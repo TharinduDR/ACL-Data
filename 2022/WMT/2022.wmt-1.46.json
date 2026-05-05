@@ -1,0 +1,28 @@
+{
+  "title": "Exploring Robustness of Machine Translation Metrics: A Study of Twenty-Eight Automatic Metrics in the WMT22 Metric Task",
+  "authors": [
+    "Xiaoyu Chen",
+    "Daimeng Wei",
+    "Hengchao Shang",
+    "Zongyao Li",
+    "Zhanglin Wu",
+    "Zhengze Yu",
+    "Ting Zhu",
+    "Mengli Zhu",
+    "Ning Xie",
+    "Lizhi Lei",
+    "Shimin Tao",
+    "Hao Yang",
+    "Ying Qin"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.wmt-1.46",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.46/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SRCB at SemEval-2023 Task 2: A System of Complex Named Entity Recognition with External Knowledge",
+  "authors": [
+    "Yuming Zhang",
+    "Hongyu Li",
+    "Yongwei Zhang",
+    "Shanshan Jiang",
+    "Bin Dong"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.semeval-1.92",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.92/"
+}

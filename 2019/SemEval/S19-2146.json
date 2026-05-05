@@ -1,0 +1,20 @@
+{
+  "title": "Team Bertha von Suttner at SemEval-2019 Task 4: Hyperpartisan News Detection using ELMo Sentence Representation Convolutional Network",
+  "authors": [
+    "Ye Jiang",
+    "Johann Petrak",
+    "Xingyi Song",
+    "Kalina Bontcheva",
+    "Diana Maynard"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "S19-2146",
+  "acl_url": "https://aclanthology.org/S19-2146/"
+}

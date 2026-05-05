@@ -1,0 +1,21 @@
+{
+  "title": "ANVITA: A Multi-pronged Approach For Enhancing Machine Translation Of Extremely Low-Resource Indian Languages",
+  "authors": [
+    "Sivabhavani J",
+    "Daneshwari Kankanwadi",
+    "Abhinav Mishra",
+    "Biswajit Paul"
+  ],
+  "languages": [
+    "English",
+    "Nyishi",
+    "Khasi",
+    "Kokborok"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.wmt-1.101",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.101/"
+}

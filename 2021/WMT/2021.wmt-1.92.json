@@ -1,0 +1,37 @@
+{
+  "title": "HW-TSC's Participation at WMT 2021 Quality Estimation Shared Task",
+  "authors": [
+    "Yimeng Chen",
+    "Chang Su",
+    "Yingtao Zhang",
+    "Yuxia Wang",
+    "Xiang Geng",
+    "Hao Yang",
+    "Shimin Tao",
+    "Jiaxin Guo",
+    "Minghan Wang",
+    "Min Zhang",
+    "Yujia Liu",
+    "Shujian Huang"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Romanian",
+    "Estonian",
+    "Sinhalese",
+    "Nepalese",
+    "Czech",
+    "Japanese",
+    "Pashto",
+    "Khmer"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.wmt-1.92",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.92/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "GIL-IIMAS UNAM at SemEval-2025 Task 3: MeSSI: A Multimodule System to Detect Hallucinated Segments in Trivia-like Inquiries.",
+  "authors": [
+    "Francisco López-Ponce",
+    "Karla Salas-Jimenez",
+    "Adrián Juárez-Pérez",
+    "Diego Hernández-Bustamante",
+    "Gemma Bel-Enguix",
+    "Helena Gómez-Adorno"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.semeval-1.208",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.208/"
+}

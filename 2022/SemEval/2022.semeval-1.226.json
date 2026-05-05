@@ -1,0 +1,26 @@
+{
+  "title": "MarSan at SemEval-2022 Task 11: Multilingual complex named entity recognition using T5 and transformer encoder",
+  "authors": [
+    "Ehsan Tavan",
+    "Maryam Najafi"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Dutch",
+    "Russian",
+    "Turkish",
+    "Korean",
+    "Persian",
+    "German",
+    "Chinese",
+    "Hindi",
+    "Bangla"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2022.semeval-1.226",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.226/"
+}

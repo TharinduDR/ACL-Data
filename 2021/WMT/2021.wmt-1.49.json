@@ -1,0 +1,21 @@
+{
+  "title": "The LMU Munich System for the WMT 2021 Large-Scale Multilingual Machine Translation Shared Task",
+  "authors": [
+    "Wen Lai",
+    "Jindřich Libovický",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "English",
+    "Croatian",
+    "Hungarian",
+    "Estonian",
+    "Serbian",
+    "Macedonian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.wmt-1.49",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.49/"
+}

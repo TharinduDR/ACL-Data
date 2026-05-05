@@ -1,0 +1,24 @@
+{
+  "title": "TenTrans Large-Scale Multilingual Machine Translation System for WMT21",
+  "authors": [
+    "Wanying Xie",
+    "Bojie Hu",
+    "Han Yang",
+    "Dong Yu",
+    "Qi Ju"
+  ],
+  "languages": [
+    "English",
+    "Indonesian",
+    "Javanese",
+    "Malay",
+    "Tamil",
+    "Tagalog"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.wmt-1.53",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.53/"
+}

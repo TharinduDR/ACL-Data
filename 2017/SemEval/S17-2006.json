@@ -1,0 +1,21 @@
+{
+  "title": "SemEval-2017 Task 8: RumourEval: Determining rumour veracity and support for rumours",
+  "authors": [
+    "Leon Derczynski",
+    "Kalina Bontcheva",
+    "Maria Liakata",
+    "Rob Procter",
+    "Geraldine Wong Sak Hoi",
+    "Arkaitz Zubiaga"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T23 Social Media Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S17-2006",
+  "acl_url": "https://aclanthology.org/S17-2006/"
+}

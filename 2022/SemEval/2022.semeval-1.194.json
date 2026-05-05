@@ -1,0 +1,21 @@
+{
+  "title": "SPDB Innovation Lab at SemEval-2022 Task 10: A Novel End-to-End Structured Sentiment Analysis Model based on the ERNIE-M",
+  "authors": [
+    "Yalong Jia",
+    "Zhenghui Ou",
+    "Yang Yang"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Catalan",
+    "Basque",
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.semeval-1.194",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.194/"
+}

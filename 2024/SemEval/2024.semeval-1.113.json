@@ -1,0 +1,26 @@
+{
+  "title": "YNU-HPCC at SemEval-2024 Task 1: Self-Instruction Learning with Black-box Optimization for Semantic Textual Relatedness",
+  "authors": [
+    "Weijie Li",
+    "Jin Wang",
+    "Xuejie Zhang"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "Algerian Arabic",
+    "Telugu",
+    "Spanish",
+    "Moroccan Arabic",
+    "Marathi",
+    "Kinyarwanda",
+    "Hausa"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.semeval-1.113",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.113/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Accurate semantic textual similarity for cleaning noisy parallel corpora using semantic machine translation evaluation metric: The NRC supervised submissions to the Parallel Corpus Filtering task",
+  "authors": [
+    "Chi-kiu Lo",
+    "Michel Simard",
+    "Darlene Stewart",
+    "Samuel Larkin",
+    "Cyril Goutte",
+    "Patrick Littell"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-6481",
+  "acl_url": "https://aclanthology.org/W18-6481/"
+}

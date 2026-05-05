@@ -1,0 +1,20 @@
+{
+  "title": "The LMU Munich Systems for the WMT21 Unsupervised and Very Low-Resource Translation Task",
+  "authors": [
+    "Jindřich Libovický",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "German",
+    "Upper Sorbian",
+    "Lower Sorbian",
+    "Russian",
+    "Chuvash"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.wmt-1.105",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.105/"
+}

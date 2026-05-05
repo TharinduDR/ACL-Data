@@ -1,0 +1,33 @@
+{
+  "title": "LCTeam at SemEval-2025 Task 3: Multilingual Detection of Hallucinations and Overgeneration Mistakes Using XLM-RoBERTa",
+  "authors": [
+    "Araya Kiros Hailemariam",
+    "Jose Maldonado Rodriguez",
+    "Ezgi Başar",
+    "Roman Kovalev",
+    "Hanna Shcharbakova"
+  ],
+  "languages": [
+    "Arabic",
+    "Basque",
+    "Catalan",
+    "Chinese",
+    "Czech",
+    "English",
+    "Farsi",
+    "Finnish",
+    "French",
+    "German",
+    "Hindi",
+    "Italian",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T28",
+    "T14",
+    "T08"
+  ],
+  "paper_id": "2025.semeval-1.176",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.176/"
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Back-translation for Large-Scale Multilingual Machine Translation",
+  "authors": [
+    "BaoHao Liao",
+    "Shahram Khadivi",
+    "Sanjika Hewawitharana"
+  ],
+  "languages": [
+    "English",
+    "Croatian",
+    "Hungarian",
+    "Serbian",
+    "Macedonian",
+    "Indonesian",
+    "Javanese",
+    "Malay",
+    "Thai",
+    "Tamil",
+    "Telugu",
+    "Bengali",
+    "Kannada",
+    "Malayalam",
+    "Tamil",
+    "Telugu",
+    "Bengali",
+    "Kannada",
+    "Malayalam",
+    "Tamil",
+    "Telugu",
+    "Bengali",
+    "Kannada",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2021.wmt-1.50",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.50/"
+}

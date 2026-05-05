@@ -1,0 +1,39 @@
+{
+  "title": "ACES: Translation Accuracy Challenge Sets for Evaluating Machine Translation Metrics",
+  "authors": [
+    "Chantal Amrhein",
+    "Nikita Moghe",
+    "Liane Guillou"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Spanish",
+    "Turkish",
+    "Arabic",
+    "Vietnamese",
+    "Thai",
+    "Hindi",
+    "Swahili",
+    "Russian",
+    "Bulgarian",
+    "Greek",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.wmt-1.44",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.44/"
+}

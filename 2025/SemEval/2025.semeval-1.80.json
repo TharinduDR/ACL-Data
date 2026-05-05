@@ -1,0 +1,22 @@
+{
+  "title": "GPLSICORTEX at SemEval-2025 Task 10: Leveraging Intentions for Generating Narrative Extractions",
+  "authors": [
+    "Iván Martínez-Murillo",
+    "María Miró Maestre",
+    "Aitana Morote Martínez",
+    "Snorre Ralund",
+    "Elena Lloret",
+    "Paloma Moreda",
+    "Armando Suárez Cueto"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.semeval-1.80",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.80/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Filtering Noisy Parallel Corpus using Transformers with Proxy Task Learning",
+  "authors": [
+    "Haluk Acarcicek",
+    "Talha Colakoglu",
+    "Pinar Ece Aktan",
+    "Chongxuan Huang",
+    "Wei Peng"
+  ],
+  "languages": [
+    "English",
+    "Pashto",
+    "Khmer"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.105",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.105/"
+}

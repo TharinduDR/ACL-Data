@@ -1,0 +1,19 @@
+{
+  "title": "VerbaNexAI at SemEval-2025 Task 2: Enhancing Entity-Aware Translation with Wikidata-Enriched MarianMT",
+  "authors": [
+    "Daniel Peña Gnecco",
+    "Juan Carlos Martinez-Santos",
+    "Edwin Puertas"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.semeval-1.167",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.167/"
+}

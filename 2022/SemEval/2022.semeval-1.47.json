@@ -1,0 +1,17 @@
+{
+  "title": "MS@IW at SemEval-2022 Task 4: Patronising and Condescending Language Detection with Synthetically Generated Data",
+  "authors": [
+    "Selina Meyer",
+    "Maximilian Schmidhuber",
+    "Udo Kruschwitz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.semeval-1.47",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.47/"
+}

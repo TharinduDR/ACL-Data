@@ -1,0 +1,38 @@
+{
+  "title": "HW-TSC 2024 Submission for the SemEval-2024 Task 1: Semantic Textual Relatedness (STR)",
+  "authors": [
+    "Mengyao Piao",
+    "Chang Su",
+    "Yuang Li",
+    "Xiaosong Qiao",
+    "Xiaofeng Zhao",
+    "Yinglu Li",
+    "Min Zhang",
+    "Hao Yang",
+    "Dandan Tu"
+  ],
+  "languages": [
+    "English",
+    "Afrikaans",
+    "Amharic",
+    "Arabic",
+    "Arya",
+    "Hausa",
+    "Hindi",
+    "Kinyarwanda",
+    "Indonesian",
+    "Marathi",
+    "Moroccan Arabic",
+    "Modern Standard Arabic",
+    "Punjabi",
+    "Spanish",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.232",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.232/"
+}

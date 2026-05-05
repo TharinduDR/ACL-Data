@@ -1,0 +1,22 @@
+{
+  "title": "Machine Translation Evaluation using Recurrent Neural Networks",
+  "authors": [
+    "Rohit Gupta",
+    "Constantin Orăsan",
+    "Josef van Genabith"
+  ],
+  "languages": [
+    "French",
+    "English",
+    "German",
+    "Russian",
+    "Czech",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W15-3047",
+  "acl_url": "https://aclanthology.org/W15-3047/"
+}

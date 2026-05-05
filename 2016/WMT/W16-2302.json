@@ -1,0 +1,29 @@
+{
+  "title": "Results of the WMT16 Metrics Shared Task",
+  "authors": [
+    "Ondřej Bojar",
+    "Yvette Graham",
+    "Amir Kamran",
+    "Miloš Stanojević"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Polish",
+    "Romanian",
+    "Russian",
+    "Spanish",
+    "Turkish",
+    "Basque",
+    "Bulgarian",
+    "Dutch",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W16-2302",
+  "acl_url": "https://aclanthology.org/W16-2302/"
+}

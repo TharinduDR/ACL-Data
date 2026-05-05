@@ -1,0 +1,20 @@
+{
+  "title": "VARCO-MT: NCSoft's WMT'23 Terminology Shared Task Submission",
+  "authors": [
+    "Geon Woo Park",
+    "Junghwa Lee",
+    "Meiying Ren",
+    "Allison Shindell",
+    "Yeonsoo Lee"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.wmt-1.84",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.84/"
+}

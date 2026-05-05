@@ -1,0 +1,17 @@
+{
+  "title": "M2L at SemEval-2016 Task 8: AMR Parsing with Neural Networks",
+  "authors": [
+    "Yevgeniy Puzikov",
+    "Daisuke Kawahara",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "S16-1178",
+  "acl_url": "https://aclanthology.org/S16-1178/"
+}

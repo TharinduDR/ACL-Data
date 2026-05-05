@@ -1,0 +1,38 @@
+{
+  "title": "SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)",
+  "authors": [
+    "Shamsuddeen Hassan Muhammad",
+    "Idris Abdulmumin",
+    "Seid Muhie Yimam",
+    "David Ifeoluwa Adelani",
+    "Ibrahim Said Ahmad",
+    "Nedjma Ousidhoum",
+    "Abinew Ali Ayele",
+    "Saif M. Mohammad",
+    "Meriem Beloucif",
+    "Sebastian Ruder"
+  ],
+  "languages": [
+    "Amharic",
+    "Arabic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Moroccan Arabic",
+    "Mozambican Portuguese",
+    "Nigerian Pidgin",
+    "Oromo",
+    "Swahili",
+    "Tigrinya",
+    "Twi",
+    "Xitsonga",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.315",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.315/"
+}

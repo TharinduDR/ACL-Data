@@ -1,0 +1,19 @@
+{
+  "title": "SemEval-2015 Task 13: Multilingual All-Words Sense Disambiguation and Entity Linking",
+  "authors": [
+    "Andrea Moro",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S15-2049",
+  "acl_url": "https://aclanthology.org/S15-2049/"
+}

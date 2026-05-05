@@ -1,0 +1,20 @@
+{
+  "title": "DFKI's system for WMT16 IT-domain task, including analysis of systematic errors",
+  "authors": [
+    "Eleftherios Avramidis",
+    "Aljoscha Burchardt",
+    "Vivien Macketanz",
+    "Ankit Srivastava"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "W16-2329",
+  "acl_url": "https://aclanthology.org/W16-2329/"
+}

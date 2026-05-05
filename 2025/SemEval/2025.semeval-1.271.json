@@ -1,0 +1,28 @@
+{
+  "title": "JU_NLP at SemEval-2025 Task 7: Leveraging Transformer-Based Models for Multilingual & Crosslingual Fact-Checked Claim Retrieval",
+  "authors": [
+    "Atanu Nayak",
+    "Srijani Debnath",
+    "Arpan Majumdar",
+    "Pritam Pal",
+    "Dipankar Das"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Thai",
+    "German",
+    "Modern Standard Arabic",
+    "Arabic",
+    "Polish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.semeval-1.271",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.271/"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Hunter MT: A Course for Young Researchers in WMT17",
+  "authors": [
+    "Jia Xu",
+    "Yi Zong Kuang",
+    "Shondell Baijoo",
+    "Hyun Lee",
+    "Uman Shahzad",
+    "Mir Ahmed",
+    "Meredith Lancaster",
+    "Chris Carlan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech",
+    "Russian",
+    "Turkish",
+    "Finnish",
+    "Latvian",
+    "French",
+    "Polish",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "W17-4744",
+  "acl_url": "https://aclanthology.org/W17-4744/"
+}

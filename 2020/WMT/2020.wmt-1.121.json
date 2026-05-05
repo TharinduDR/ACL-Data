@@ -1,0 +1,18 @@
+{
+  "title": "NICT Kyoto Submission for the WMT'20 Quality Estimation Task: Intermediate Training for Domain and Task Adaptation",
+  "authors": [
+    "Raphael Rubino"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.121",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.121/"
+}

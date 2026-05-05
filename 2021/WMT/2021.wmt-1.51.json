@@ -1,0 +1,22 @@
+{
+  "title": "Maastricht University's Large-Scale Multilingual Machine Translation System for WMT 2021",
+  "authors": [
+    "Danni Liu",
+    "Jan Niehues"
+  ],
+  "languages": [
+    "English",
+    "Javanese",
+    "Indonesian",
+    "Malay",
+    "Tagalog",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2021.wmt-1.51",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.51/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Groningen Group E at SemEval-2024 Task 8: Detecting machine-generated texts through pre-trained language models augmented with explicit linguistic-stylistic features",
+  "authors": [
+    "Patrick Darwinkel",
+    "Sijbren van Vaals",
+    "Marieke van der Holt",
+    "Jarno van Houten"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Urdu",
+    "Russian",
+    "Indonesian",
+    "Arabic",
+    "Bulgarian"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.semeval-1.145",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.145/"
+}

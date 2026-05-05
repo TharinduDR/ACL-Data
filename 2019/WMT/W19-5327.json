@@ -1,0 +1,19 @@
+{
+  "title": "Incorporating Word and Subword Units in Unsupervised Machine Translation Using Language Model Rescoring",
+  "authors": [
+    "Zihan Liu",
+    "Yan Xu",
+    "Genta Indra Winata",
+    "Pascale Fung"
+  ],
+  "languages": [
+    "German",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W19-5327",
+  "acl_url": "https://aclanthology.org/W19-5327/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "SemEval-2025 Task 1: AdMIRE - Advancing Multimodal Idiomaticity Representation",
+  "authors": [
+    "Thomas Pickard",
+    "Aline Villavicencio",
+    "Maggie Mi",
+    "Wei He",
+    "Dylan Phelps",
+    "Marco Idiart"
+  ],
+  "languages": [
+    "English",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.semeval-1.330",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.330/"
+}

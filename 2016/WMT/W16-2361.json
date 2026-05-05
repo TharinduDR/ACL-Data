@@ -1,0 +1,20 @@
+{
+  "title": "CUNI System for WMT16 Automatic Post-Editing and Multimodal Translation Tasks",
+  "authors": [
+    "Jindřich Libovický",
+    "Jindřich Helcl",
+    "Marek Tlustý",
+    "Ondřej Bojar",
+    "Pavel Pecina"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16",
+    "T17"
+  ],
+  "paper_id": "W16-2361",
+  "acl_url": "https://aclanthology.org/W16-2361/"
+}

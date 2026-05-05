@@ -1,0 +1,25 @@
+{
+  "title": "Results of the WMT21 Metrics Shared Task: Evaluating Metrics with Expert-based Human Evaluations on TED and News Domain",
+  "authors": [
+    "Markus Freitag",
+    "Ricardo Rei",
+    "Nitika Mathur",
+    "Chi-kiu Lo",
+    "Craig Stewart",
+    "George Foster",
+    "Alon Lavie",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.wmt-1.73",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.73/"
+}

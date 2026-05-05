@@ -1,0 +1,23 @@
+{
+  "title": "To Ship or Not to Ship: An Extensive Evaluation of Automatic Metrics for Machine Translation",
+  "authors": [
+    "Tom Kocmi",
+    "Christian Federmann",
+    "Roman Grundkiewicz",
+    "Marcin Junczys-Dowmunt",
+    "Hitokazu Matsushita",
+    "Arul Menezes"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.wmt-1.57",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.57/"
+}

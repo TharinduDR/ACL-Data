@@ -1,0 +1,25 @@
+{
+  "title": "L3i++ at SemEval-2023 Task 2: Prompting for Multilingual Complex Named Entity Recognition",
+  "authors": [
+    "Carlos-Emiliano González-Gallardo",
+    "Thi Hong Hanh Tran",
+    "Nancy Girdhar",
+    "Emanuela Boros",
+    "Jose G. Moreno",
+    "Antoine Doucet"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hindi",
+    "Chinese",
+    "Bangla"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.semeval-1.112",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.112/"
+}

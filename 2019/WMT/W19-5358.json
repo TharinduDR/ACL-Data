@@ -1,0 +1,23 @@
+{
+  "title": "YiSi - A unified semantic MT quality evaluation and estimation metric for languages with different levels of available resources",
+  "authors": [
+    "Chi-kiu Lo"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Turkish",
+    "Czech",
+    "Estonian",
+    "Finnish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W19-5358",
+  "acl_url": "https://aclanthology.org/W19-5358/"
+}

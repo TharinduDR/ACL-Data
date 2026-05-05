@@ -1,0 +1,21 @@
+{
+  "title": "CUNI systems for WMT21: Terminology translation Shared Task",
+  "authors": [
+    "Josef Jon",
+    "Michal Novák",
+    "João Paulo Aires",
+    "Dušan Variš",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16",
+    "T13",
+    "T08"
+  ],
+  "paper_id": "2021.wmt-1.82",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.82/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "HIT-SCIR at SemEval-2020 Task 5: Training Pre-trained Language Model with Pseudo-labeling Data for Counterfactuals Detection",
+  "authors": [
+    "Xiao Ding",
+    "Dingkui Hao",
+    "Yuewei Zhang",
+    "Kuo Liao",
+    "Zhongyang Li",
+    "Bing Qin",
+    "Ting Liu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2020.semeval-1.43",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.43/"
+}

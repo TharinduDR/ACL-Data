@@ -1,0 +1,28 @@
+{
+  "title": "I2C-Huelva at SemEval-2023 Task 9: Analysis of Intimacy in Multilingual Tweets Using Resampling Methods and Transformers",
+  "authors": [
+    "Abel Pichardo Estévez",
+    "Jacinto Mata Vázquez",
+    "Victoria Pachón Álvarez",
+    "Nordin El Balima Cordero"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Chinese",
+    "Arabic",
+    "Korean",
+    "Hindi",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.semeval-1.104",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.104/"
+}

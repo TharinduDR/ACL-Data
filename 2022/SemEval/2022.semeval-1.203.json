@@ -1,0 +1,25 @@
+{
+  "title": "DANGNT-SGU at SemEval-2022 Task 11: Using Pre-trained Language Model for Complex Named Entity Recognition",
+  "authors": [
+    "Dang Tuan Nguyen",
+    "Huy Khac Nguyen Huynh"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Persian",
+    "Hindi",
+    "Korean",
+    "Dutch",
+    "Russian",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2022.semeval-1.203",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.203/"
+}

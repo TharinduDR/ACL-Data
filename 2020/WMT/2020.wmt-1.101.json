@@ -1,0 +1,34 @@
+{
+  "title": "Unbabel's Participation in the WMT20 Metrics Shared Task",
+  "authors": [
+    "Ricardo Rei",
+    "Craig Stewart",
+    "Ana C Farinha",
+    "Alon Lavie"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Portuguese",
+    "Russian",
+    "Chinese",
+    "Japanese",
+    "Dutch",
+    "Italian",
+    "Spanish",
+    "Polish",
+    "Turkish",
+    "Swedish",
+    "Czech",
+    "Latvian",
+    "Kazakh",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.101",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.101/"
+}

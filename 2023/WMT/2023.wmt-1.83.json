@@ -1,0 +1,18 @@
+{
+  "title": "OPUS-CAT Terminology Systems for the WMT23 Terminology Shared Task",
+  "authors": [
+    "Tommi Nieminen"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "English",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.wmt-1.83",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.83/"
+}

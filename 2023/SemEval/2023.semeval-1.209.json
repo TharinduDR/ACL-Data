@@ -1,0 +1,27 @@
+{
+  "title": "FIT BUT at SemEval-2023 Task 12: Sentiment Without Borders - Multilingual Domain Adaptation for Low-Resource Sentiment Classification",
+  "authors": [
+    "Maksim Aparovich",
+    "Santosh Kesiraju",
+    "Aneta Dufkova",
+    "Pavel Smrz"
+  ],
+  "languages": [
+    "Arabic",
+    "Amharic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Moroccan Arabic",
+    "Portuguese",
+    "Swahili",
+    "Tigrinya",
+    "Oromo"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.semeval-1.209",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.209/"
+}

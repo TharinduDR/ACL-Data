@@ -1,0 +1,19 @@
+{
+  "title": "ADAPT at SemEval-2018 Task 9: Skip-Gram Word Embeddings for Unsupervised Hypernym Discovery in Specialised Corpora",
+  "authors": [
+    "Alfredo Maldonado",
+    "Filip Klubička"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S18-1151",
+  "acl_url": "https://aclanthology.org/S18-1151/"
+}

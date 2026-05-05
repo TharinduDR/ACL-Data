@@ -1,0 +1,21 @@
+{
+  "title": "CS-UM6P at SemEval-2022 Task 6: Transformer-based Models for Intended Sarcasm Detection in English and Arabic",
+  "authors": [
+    "Abdelkader El Mahdaouy",
+    "Abdellah El Mekki",
+    "Kabil Essefar",
+    "Abderrahman Skiredj",
+    "Ismail Berrada"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.semeval-1.117",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.117/"
+}

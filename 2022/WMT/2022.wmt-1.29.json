@@ -1,0 +1,23 @@
+{
+  "title": "eTranslation's Submissions to the WMT22 General Machine Translation Task",
+  "authors": [
+    "Csaba Oravecz",
+    "Katina Bontcheva",
+    "David Kolovratník",
+    "Bogomil Kovachev",
+    "Christopher Scott"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Ukrainian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.wmt-1.29",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.29/"
+}

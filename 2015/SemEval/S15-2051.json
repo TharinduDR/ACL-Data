@@ -1,0 +1,21 @@
+{
+  "title": "SemEval-2015 Task 14: Analysis of Clinical Text",
+  "authors": [
+    "Noémie Elhadad",
+    "Sameer Pradhan",
+    "Sharon Lipsky Gorman",
+    "Suresh Manandhar",
+    "Wendy Chapman",
+    "Guergana Savova"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "S15-2051",
+  "acl_url": "https://aclanthology.org/S15-2051/"
+}

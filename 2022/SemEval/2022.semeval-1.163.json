@@ -1,0 +1,26 @@
+{
+  "title": "DartmouthCS at SemEval-2022 Task 8: Predicting Multilingual News Article Similarity with Meta-Information and Translation",
+  "authors": [
+    "Joseph Hajjar",
+    "Weicheng Ma",
+    "Soroush Vosoughi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Russian",
+    "Polish",
+    "Turkish",
+    "French",
+    "Arabic",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2022.semeval-1.163",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.163/"
+}

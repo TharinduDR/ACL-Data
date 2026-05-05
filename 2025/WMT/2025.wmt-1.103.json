@@ -1,0 +1,18 @@
+{
+  "title": "A Preliminary Exploration of Phrase-Based SMT and Multi-BPE Segmentations through Concatenated Tokenised Corpora for Low-Resource Indian Languages",
+  "authors": [
+    "Saumitra Yadav",
+    "Manish Shrivastava"
+  ],
+  "languages": [
+    "English",
+    "Assamese",
+    "Khasi",
+    "Nyishi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.wmt-1.103",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.103/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The Word Sense Disambiguation Test Suite at WMT18",
+  "authors": [
+    "Annette Rios",
+    "Mathias Müller",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-6437",
+  "acl_url": "https://aclanthology.org/W18-6437/"
+}

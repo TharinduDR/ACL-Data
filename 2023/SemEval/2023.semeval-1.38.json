@@ -1,0 +1,36 @@
+{
+  "title": "UMUTeam at SemEval-2023 Task 12: Ensemble Learning of LLMs applied to Sentiment Analysis for Low-resource African Languages",
+  "authors": [
+    "José Antonio García-Díaz",
+    "Camilo Caparros-Laiz",
+    "Ángela Almela",
+    "Gema Alcaráz-Mármol",
+    "María José Marín-Pérez",
+    "Rafael Valencia-García"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Swahili",
+    "Twi",
+    "Xitsonga",
+    "Amharic",
+    "Hausa",
+    "Igbo",
+    "Nigerian Pidgin",
+    "Moroccan Arabic",
+    "Kinyarwanda",
+    "Setswana",
+    "isiZulu",
+    "isiXhosa",
+    "Somali",
+    "Tigrinya",
+    "Yorùbá"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.semeval-1.38",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.38/"
+}

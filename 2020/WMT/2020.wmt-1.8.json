@@ -1,0 +1,23 @@
+{
+  "title": "Facebook AI's WMT20 News Translation Task Submission",
+  "authors": [
+    "Peng-Jen Chen",
+    "Ann Lee",
+    "Changhan Wang",
+    "Naman Goyal",
+    "Angela Fan",
+    "Mary Williamson",
+    "Jiatao Gu"
+  ],
+  "languages": [
+    "English",
+    "Tamil",
+    "Inuktitut"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.wmt-1.8",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.8/"
+}

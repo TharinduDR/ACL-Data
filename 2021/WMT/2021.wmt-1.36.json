@@ -1,0 +1,22 @@
+{
+  "title": "ISTIC's Triangular Machine Translation System for WMT' 2021",
+  "authors": [
+    "Hangcheng Guo",
+    "Wenbin Liu",
+    "Yanqing He",
+    "Tian Lan",
+    "Hongjiao Xu",
+    "Zhenfeng Wu",
+    "You Pan"
+  ],
+  "languages": [
+    "Russian",
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.wmt-1.36",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.36/"
+}

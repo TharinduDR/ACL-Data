@@ -1,0 +1,30 @@
+{
+  "title": "Findings of the WMT Shared Task on Machine Translation Using Terminologies",
+  "authors": [
+    "Md Mahfuz ibn Alam",
+    "Ivana Kvapilíková",
+    "Antonios Anastasopoulos",
+    "Laurent Besacier",
+    "Georgiana Dinu",
+    "Marcello Federico",
+    "Matthias Galle",
+    "Philipp Koehn",
+    "Vassilina Nikoulina",
+    "Kweon Woo Jung"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "Russian",
+    "Korean",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.wmt-1.69",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.69/"
+}

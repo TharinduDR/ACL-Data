@@ -1,0 +1,29 @@
+{
+  "title": "SemEval-2022 Task 11: Multilingual Complex Named Entity Recognition (MultiCoNER)",
+  "authors": [
+    "Shervin Malmasi",
+    "Anjie Fang",
+    "Besnik Fetahu",
+    "Sudipta Kar",
+    "Oleg Rokhlenko"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "German",
+    "Turkish",
+    "Chinese",
+    "Korean",
+    "Hindi",
+    "Persian",
+    "Bangla",
+    "Dutch",
+    "Farsi"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.196",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.196/"
+}

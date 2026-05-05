@@ -1,0 +1,27 @@
+{
+  "title": "Results of the WMT20 Metrics Shared Task",
+  "authors": [
+    "Nitika Mathur",
+    "Johnny Tian-Zheng Wei",
+    "Markus Freitag",
+    "Qingsong Ma",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Czech",
+    "German",
+    "Inuktitut",
+    "Japanese",
+    "Polish",
+    "Russian",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.77",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.77/"
+}

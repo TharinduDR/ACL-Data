@@ -1,0 +1,42 @@
+{
+  "title": "Habib University at SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection",
+  "authors": [
+    "Owais Waheed",
+    "Hammad Sajid",
+    "Muhammad Areeb Kazmi",
+    "Kushal Chandani",
+    "Sandesh Kumar",
+    "Abdul Samad"
+  ],
+  "languages": [
+    "English",
+    "Afrikaans",
+    "Amharic",
+    "Igbo",
+    "Somali",
+    "Chinese",
+    "Swahili",
+    "Hindi",
+    "Marathi",
+    "German",
+    "Latin American Spanish",
+    "Romanian",
+    "Russian",
+    "Swedish",
+    "Ukrainian",
+    "Arabic",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2025.semeval-1.217",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.217/"
+}

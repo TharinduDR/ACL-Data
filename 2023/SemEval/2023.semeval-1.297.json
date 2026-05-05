@@ -1,0 +1,26 @@
+{
+  "title": "Howard University Computer Science at SemEval-2023 Task 12: A 2-Step System Design for Multilingual Sentiment Classification with Language Identification",
+  "authors": [
+    "Saurav Aryal",
+    "Howard Prioleau"
+  ],
+  "languages": [
+    "Hausa",
+    "Yoruba",
+    "Igbo",
+    "Nigerian Pidgin",
+    "Amharic",
+    "Algerian Arabic",
+    "Swahili",
+    "Kinyarwanda",
+    "Twi",
+    "Mozambican Portuguese",
+    "Xitsonga"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.semeval-1.297",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.297/"
+}

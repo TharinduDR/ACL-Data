@@ -1,0 +1,22 @@
+{
+  "title": "MITRE at SemEval-2019 Task 5: Transfer Learning for Multilingual Hate Speech Detection",
+  "authors": [
+    "Abigail S. Gertner",
+    "John C. Henderson",
+    "Amy Marsh",
+    "Elizabeth M. Merkhofer",
+    "Ben Wellner",
+    "Guido Zarrella"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T20",
+    "T23",
+    "T14"
+  ],
+  "paper_id": "S19-2080",
+  "acl_url": "https://aclanthology.org/S19-2080/"
+}

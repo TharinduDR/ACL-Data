@@ -1,0 +1,17 @@
+{
+  "title": "MS-UEdin Submission to the WMT2018 APE Shared Task: Dual-Source Transformer for Automatic Post-Editing",
+  "authors": [
+    "Marcin Junczys-Dowmunt",
+    "Roman Grundkiewicz"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "W18-6467",
+  "acl_url": "https://aclanthology.org/W18-6467/"
+}

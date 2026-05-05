@@ -1,0 +1,22 @@
+{
+  "title": "DTED: Evaluation of Machine Translation Structure Using Dependency Parsing and Tree Edit Distance",
+  "authors": [
+    "Martin McCaffery",
+    "Mark-Jan Nederhof"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Finnish",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16",
+    "T21",
+    "T08"
+  ],
+  "paper_id": "W16-2340",
+  "acl_url": "https://aclanthology.org/W16-2340/"
+}

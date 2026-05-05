@@ -1,0 +1,20 @@
+{
+  "title": "CimS - The CIS and IMS Joint Submission to WMT 2015 addressing morphological and syntactic differences in English to German SMT",
+  "authors": [
+    "Fabienne Cap",
+    "Marion Weller",
+    "Anita Ramm",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W15-3007",
+  "acl_url": "https://aclanthology.org/W15-3007/"
+}

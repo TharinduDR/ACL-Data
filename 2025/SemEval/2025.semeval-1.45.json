@@ -1,0 +1,47 @@
+{
+  "title": "XLM-Muriel at SemEval-2025 Task 11: Hard Parameter Sharing for Multi-lingual Multi-label Emotion Detection",
+  "authors": [
+    "Pouya Hosseinzadeh",
+    "Mohammad Mehdi Ebadzadeh",
+    "Hossein Zeinali"
+  ],
+  "languages": [
+    "Arabic",
+    "Amharic",
+    "Aramaic",
+    "Aryan",
+    "Chinese",
+    "German",
+    "English",
+    "Spanish",
+    "Hausa",
+    "Hindi",
+    "Igbo",
+    "Kinyarwanda",
+    "Marathi",
+    "Oromo",
+    "Punjabi",
+    "Portuguese",
+    "Pitjantjatjara",
+    "Ptarmigan",
+    "Punjabi",
+    "Russian",
+    "Romanian",
+    "Sorani",
+    "Somali",
+    "Sundanese",
+    "Swahili",
+    "Swedish",
+    "Tamil",
+    "Tigrinya",
+    "Ukrainian",
+    "Vietnamese",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.semeval-1.45",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.45/"
+}

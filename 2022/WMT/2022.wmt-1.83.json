@@ -1,0 +1,19 @@
+{
+  "title": "SRT's Neural Machine Translation System for WMT22 Biomedical Translation Task",
+  "authors": [
+    "Yoonjung Choi",
+    "Jiho Shin",
+    "Yonghyun Ryu",
+    "Sangha Kim"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.wmt-1.83",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.83/"
+}

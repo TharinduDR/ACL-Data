@@ -1,0 +1,17 @@
+{
+  "title": "Viettel-AI at SemEval-2023 Task 6: Legal Document Understanding with Longformer for Court Judgment Prediction with Explanation",
+  "authors": [
+    "Thanh Dat Hoang",
+    "Chi Minh Bui",
+    "Khac-Hoai Nam Bui"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.semeval-1.119",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.119/"
+}

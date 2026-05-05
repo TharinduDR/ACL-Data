@@ -1,0 +1,22 @@
+{
+  "title": "TASER: Translation Assessment via Systematic Evaluation and Reasoning",
+  "authors": [
+    "Monishwaran Maheswaran",
+    "Marco Carini",
+    "Christian Federmann",
+    "Tony Diaz"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.wmt-1.76",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.76/"
+}

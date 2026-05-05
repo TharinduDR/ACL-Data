@@ -1,0 +1,19 @@
+{
+  "title": "CSIRO-LT at SemEval-2025 Task 8: Answering Questions over Tabular Data using LLMs",
+  "authors": [
+    "Tomas Turek",
+    "Shakila Tonni",
+    "Vincent Nguyen",
+    "Huichen Yang",
+    "Sarvnaz Karimi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.semeval-1.222",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.222/"
+}

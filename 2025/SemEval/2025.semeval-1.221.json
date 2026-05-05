@@ -1,0 +1,27 @@
+{
+  "title": "NLP_CIMAT at SemEval-2025 Task 3: Just Ask GPT or Look Inside. A prompt and Neural Networks Approach to Hallucination Detection",
+  "authors": [
+    "Jaime Stack-Sánchez",
+    "Miguel A Alvarez-Carmona",
+    "Adrián Pastor López-Monroy"
+  ],
+  "languages": [
+    "Arabic",
+    "Catalan",
+    "Chinese",
+    "Persian",
+    "Finnish",
+    "French",
+    "Italian",
+    "Swedish",
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.semeval-1.221",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.221/"
+}

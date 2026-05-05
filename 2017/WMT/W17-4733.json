@@ -1,0 +1,21 @@
+{
+  "title": "The Helsinki Neural Machine Translation System",
+  "authors": [
+    "Robert Östling",
+    "Yves Scherrer",
+    "Jörg Tiedemann",
+    "Gongbo Tang",
+    "Tommi Nieminen"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Latvian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W17-4733",
+  "acl_url": "https://aclanthology.org/W17-4733/"
+}

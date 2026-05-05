@@ -1,0 +1,22 @@
+{
+  "title": "NRC Russian-English Machine Translation System for WMT 2016",
+  "authors": [
+    "Chi-kiu Lo",
+    "Colin Cherry",
+    "George Foster",
+    "Darlene Stewart",
+    "Rabib Islam",
+    "Anna Kazantseva",
+    "Roland Kuhn"
+  ],
+  "languages": [
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W16-2317",
+  "acl_url": "https://aclanthology.org/W16-2317/"
+}

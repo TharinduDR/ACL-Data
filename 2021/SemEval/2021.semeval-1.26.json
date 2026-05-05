@@ -1,0 +1,17 @@
+{
+  "title": "UPB at SemEval-2021 Task 5: Virtual Adversarial Training for Toxic Spans Detection",
+  "authors": [
+    "Andrei Paraschiv",
+    "Dumitru-Clementin Cercel",
+    "Mihai Dascalu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.semeval-1.26",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.26/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "CHRF: character n-gram F-score for automatic MT evaluation",
+  "authors": [
+    "Maja Popović"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Czech",
+    "Russian",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W15-3049",
+  "acl_url": "https://aclanthology.org/W15-3049/"
+}

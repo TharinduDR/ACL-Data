@@ -1,0 +1,17 @@
+{
+  "title": "NCUEE-NLP at SemEval-2022 Task 11: Chinese Named Entity Recognition Using the BERT-BiLSTM-CRF Model",
+  "authors": [
+    "Lung-Hao Lee",
+    "Chien-Huan Lu",
+    "Tzu-Mi Lin"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2022.semeval-1.220",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.220/"
+}

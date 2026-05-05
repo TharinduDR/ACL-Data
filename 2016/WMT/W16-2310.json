@@ -1,0 +1,26 @@
+{
+  "title": "The JHU Machine Translation Systems for WMT 2016",
+  "authors": [
+    "Shuoyang Ding",
+    "Kevin Duh",
+    "Huda Khayrallah",
+    "Philipp Koehn",
+    "Matt Post"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech",
+    "Finnish",
+    "Romanian",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16",
+    "T14",
+    "T21"
+  ],
+  "paper_id": "W16-2310",
+  "acl_url": "https://aclanthology.org/W16-2310/"
+}

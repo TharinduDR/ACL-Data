@@ -1,0 +1,19 @@
+{
+  "title": "NLU-STR at SemEval-2024 Task 1: Generative-based Augmentation and Encoder-based Scoring for Semantic Textual Relatedness",
+  "authors": [
+    "Sanad Malaysha",
+    "Mustafa Jarrar",
+    "Mohammed Khalilia"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.128",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.128/"
+}

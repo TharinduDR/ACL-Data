@@ -1,0 +1,20 @@
+{
+  "title": "NAIST-NICT WMT'23 General MT Task Submission",
+  "authors": [
+    "Hiroyuki Deguchi",
+    "Kenji Imamura",
+    "Yuto Nishida",
+    "Yusuke Sakai",
+    "Justin Vasselli",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.wmt-1.7",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.7/"
+}

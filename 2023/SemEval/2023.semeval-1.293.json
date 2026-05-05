@@ -1,0 +1,22 @@
+{
+  "title": "ReDASPersuasion at SemEval-2023 Task 3: Persuasion Detection using Multilingual Transformers and Language Agnostic Features",
+  "authors": [
+    "Fatima Zahra Qachfar",
+    "Rakesh M. Verma"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Polish",
+    "Italian",
+    "Russian",
+    "Georgian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.semeval-1.293",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.293/"
+}

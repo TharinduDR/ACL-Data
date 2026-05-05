@@ -1,0 +1,27 @@
+{
+  "title": "DataScience-Polimi at SemEval-2022 Task 8: Stacking Language Models to Predict News Article Similarity",
+  "authors": [
+    "Marco Di Giovanni",
+    "Thomas Tasca",
+    "Marco Brambilla"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Turkish",
+    "Polish",
+    "Arabic",
+    "French",
+    "Chinese",
+    "Italian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.174",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.174/"
+}

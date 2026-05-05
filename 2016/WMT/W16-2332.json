@@ -1,0 +1,35 @@
+{
+  "title": "SMT and Hybrid systems of the QTLeap project in the WMT16 IT-task",
+  "authors": [
+    "Rosa Del Gaudio",
+    "Gorka Labaka",
+    "Eneko Agirre",
+    "Petya Osenova",
+    "Kiril Simov",
+    "Martin Popel",
+    "Dieke Oele",
+    "Gertjan van Noord",
+    "Luís Gomes",
+    "João Rodrigues",
+    "Steven Neale",
+    "João Silva",
+    "Andreia Querido",
+    "Nuno Rendeiro",
+    "António Branco"
+  ],
+  "languages": [
+    "Basque",
+    "Bulgarian",
+    "Dutch",
+    "Czech",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "W16-2332",
+  "acl_url": "https://aclanthology.org/W16-2332/"
+}

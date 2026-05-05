@@ -1,0 +1,20 @@
+{
+  "title": "The University of Helsinki and Aalto University submissions to the WMT 2020 news and low-resource translation tasks",
+  "authors": [
+    "Yves Scherrer",
+    "Stig-Arne Grönroos",
+    "Sami Virpioja"
+  ],
+  "languages": [
+    "English",
+    "Inuktitut",
+    "German",
+    "Upper Sorbian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.wmt-1.134",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.134/"
+}

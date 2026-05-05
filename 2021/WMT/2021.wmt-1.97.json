@@ -1,0 +1,22 @@
+{
+  "title": "ICL's Submission to the WMT21 Critical Error Detection Shared Task",
+  "authors": [
+    "Genze Jiang",
+    "Zhenhao Li",
+    "Lucia Specia"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.wmt-1.97",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.97/"
+}

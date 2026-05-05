@@ -1,0 +1,23 @@
+{
+  "title": "PurdueNLP at SemEval-2017 Task 1: Predicting Semantic Textual Similarity with Paraphrase and Event Embeddings",
+  "authors": [
+    "I-Ta Lee",
+    "Mahak Goindani",
+    "Chang Li",
+    "Di Jin",
+    "Kristen Marie Johnson",
+    "Xiao Zhang",
+    "Maria Leonor Pacheco",
+    "Dan Goldwasser"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S17-2029",
+  "acl_url": "https://aclanthology.org/S17-2029/"
+}

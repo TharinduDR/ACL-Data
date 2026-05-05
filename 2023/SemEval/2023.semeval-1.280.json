@@ -1,0 +1,25 @@
+{
+  "title": "Francis Bacon at SemEval-2023 Task 4: Ensembling BERT and GloVe for Value Identification in Arguments",
+  "authors": [
+    "Kenan Hasanaliyev",
+    "Justin Wu",
+    "Kevin Li",
+    "William Huang",
+    "Saanvi Chawla",
+    "Daniel Yang",
+    "Michael Nath",
+    "Shane Mion",
+    "Rohan Sanda",
+    "Kiran Bhat"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.semeval-1.280",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.280/"
+}

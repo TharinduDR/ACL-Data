@@ -1,0 +1,25 @@
+{
+  "title": "BITS Pilani at SemEval-2024 Task 1: Using text-embedding-3-large and LaBSE embeddings for Semantic Textual Relatedness",
+  "authors": [
+    "Dilip Venkatesh",
+    "Sundaresan Raman"
+  ],
+  "languages": [
+    "English",
+    "Algerian Arabic",
+    "Amharic",
+    "Hausa",
+    "Kinyarwanda",
+    "Marathi",
+    "Moroccan Arabic",
+    "Spanish",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.124",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.124/"
+}

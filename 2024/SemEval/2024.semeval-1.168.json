@@ -1,0 +1,26 @@
+{
+  "title": "INGEOTEC at SemEval-2024 Task 1: Bag of Words and Transformers",
+  "authors": [
+    "Daniela Moctezuma",
+    "Eric S. Tellez",
+    "Mario Graff"
+  ],
+  "languages": [
+    "Algerian Arabic",
+    "Amharic",
+    "English",
+    "Hausa",
+    "Kinyarwanda",
+    "Marathi",
+    "Moroccan Arabic",
+    "Spanish",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.168",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.168/"
+}

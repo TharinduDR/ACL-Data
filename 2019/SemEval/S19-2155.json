@@ -1,0 +1,19 @@
+{
+  "title": "SemEval-2019 Task 12: Toponym Resolution in Scientific Papers",
+  "authors": [
+    "Davy Weissenbacher",
+    "Arjun Magge",
+    "Karen O'Connor",
+    "Matthew Scotch",
+    "Graciela Gonzalez-Hernandez"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S19-2155",
+  "acl_url": "https://aclanthology.org/S19-2155/"
+}

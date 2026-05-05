@@ -1,0 +1,26 @@
+{
+  "title": "IST-Unbabel Participation in the WMT20 Quality Estimation Shared Task",
+  "authors": [
+    "João Moura",
+    "Miguel Vera",
+    "Daan van Stigt",
+    "Fabio Kepler",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "French",
+    "Spanish",
+    "Russian",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.119",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.119/"
+}

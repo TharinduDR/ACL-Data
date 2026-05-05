@@ -1,0 +1,23 @@
+{
+  "title": "RUFINO at SemEval-2017 Task 2: Cross-lingual lexical similarity by extending PMI and word embeddings systems with a Swadesh's-like list",
+  "authors": [
+    "Sergio Jimenez",
+    "George Dueñas",
+    "Lorena Gaitan",
+    "Jorge Segura"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian",
+    "German",
+    "Persian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S17-2037",
+  "acl_url": "https://aclanthology.org/S17-2037/"
+}

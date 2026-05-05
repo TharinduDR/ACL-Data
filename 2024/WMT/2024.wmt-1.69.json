@@ -1,0 +1,31 @@
+{
+  "title": "Machine Translation Advancements of Low-Resource Indian Languages by Transfer Learning",
+  "authors": [
+    "Bin Wei",
+    "Jiawei Zheng",
+    "Zongyao Li",
+    "Zhanglin Wu",
+    "Daimeng Wei",
+    "Jiaxin Guo",
+    "Zhiqiang Rao",
+    "Shaojun Li",
+    "Yuanchang Luo",
+    "Hengchao Shang",
+    "Jinlong Yang",
+    "Yuhao Xie",
+    "Hao Yang"
+  ],
+  "languages": [
+    "English",
+    "Assamese",
+    "Manipuri",
+    "Khasi",
+    "Mizo"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.wmt-1.69",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.69/"
+}

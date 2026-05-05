@@ -1,0 +1,19 @@
+{
+  "title": "GCN-Sem at SemEval-2019 Task 1: Semantic Parsing using Graph Convolutional and Recurrent Neural Networks",
+  "authors": [
+    "Shiva Taslimipoor",
+    "Omid Rohanian",
+    "Sara Može"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "S19-2014",
+  "acl_url": "https://aclanthology.org/S19-2014/"
+}

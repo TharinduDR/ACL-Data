@@ -1,0 +1,21 @@
+{
+  "title": "Ferryman at SemEval-2020 Task 7: Ensemble Model for Assessing Humor in Edited News Headlines",
+  "authors": [
+    "Weilong Chen",
+    "Jipeng Li",
+    "Chenghao Huang",
+    "Wei Bai",
+    "Yanru Zhang",
+    "Yan Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.semeval-1.131",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.131/"
+}

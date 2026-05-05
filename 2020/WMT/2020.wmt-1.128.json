@@ -1,0 +1,19 @@
+{
+  "title": "The LMU Munich System for the WMT 2020 Unsupervised Machine Translation Shared Task",
+  "authors": [
+    "Alexandra Chronopoulou",
+    "Dario Stojanovski",
+    "Viktor Hangya",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "German",
+    "Upper Sorbian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.wmt-1.128",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.128/"
+}

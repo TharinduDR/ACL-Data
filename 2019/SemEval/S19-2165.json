@@ -1,0 +1,19 @@
+{
+  "title": "Harvey Mudd College at SemEval-2019 Task 4: The Clint Buchanan Hyperpartisan News Detector",
+  "authors": [
+    "Mehdi Drissi",
+    "Pedro Sandoval",
+    "Vivaswat Ojha",
+    "Julie Medero"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "S19-2165",
+  "acl_url": "https://aclanthology.org/S19-2165/"
+}

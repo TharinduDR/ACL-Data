@@ -1,0 +1,20 @@
+{
+  "title": "NRC Systems for the WMT2025-LRSL Shared Task",
+  "authors": [
+    "Samuel Larkin",
+    "Chi-kiu Lo",
+    "Rebecca Knowles"
+  ],
+  "languages": [
+    "German",
+    "Lower Sorbian",
+    "Upper Sorbian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.wmt-1.87",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.87/"
+}

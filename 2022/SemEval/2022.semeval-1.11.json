@@ -1,0 +1,25 @@
+{
+  "title": "BL.Research at SemEval-2022 Task 1: Deep networks for Reverse Dictionary using embeddings and LSTM autoencoders",
+  "authors": [
+    "Nihed Bendahman",
+    "Julien Breton",
+    "Lina Nicolaieff",
+    "Mokhtar Boumedyen Billami",
+    "Christophe Bortolaso",
+    "Youssef Miloudi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Italian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.11",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.11/"
+}

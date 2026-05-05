@@ -1,0 +1,53 @@
+{
+  "title": "Command A Translate: Raising the Bar of Machine Translation with Difficulty Filtering",
+  "authors": [
+    "Tom Kocmi",
+    "Arkady Arkhangorodsky",
+    "Alexandre Bérard",
+    "Phil Blunsom",
+    "Samuel Cahyawijaya",
+    "Théo Dehaze",
+    "Marzieh Fadaee",
+    "Nicholas Frosst",
+    "Matthias Gallé",
+    "Aidan Gomez",
+    "Nithya Govindarajan",
+    "Wei-Yin Ko",
+    "Julia Kreutzer",
+    "Kelly Marchisio",
+    "Ahmet Üstün",
+    "Sebastian Vincent",
+    "Ivan Zhang"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Czech",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Hebrew",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Spanish",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.wmt-1.55",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.55/"
+}

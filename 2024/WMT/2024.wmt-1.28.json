@@ -1,0 +1,22 @@
+{
+  "title": "Investigating the Linguistic Performance of Large Language Models in Machine Translation",
+  "authors": [
+    "Shushen Manakhimova",
+    "Vivien Macketanz",
+    "Eleftherios Avramidis",
+    "Ekaterina Lapshinova-Koltunski",
+    "Sergei Bagdasarov",
+    "Sebastian Möller"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.28",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.28/"
+}

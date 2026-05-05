@@ -1,0 +1,45 @@
+{
+  "title": "SemEval-2024 Task 1: Semantic Textual Relatedness for African and Asian Languages",
+  "authors": [
+    "Nedjma Ousidhoum",
+    "Shamsuddeen Hassan Muhammad",
+    "Mohamed Abdalla",
+    "Idris Abdulmumin",
+    "Ibrahim Said Ahmad",
+    "Sanchit Ahuja",
+    "Alham Fikri Aji",
+    "Vladimir Araujo",
+    "Meriem Beloucif",
+    "Christine De Kock",
+    "Oumaima Hourrane",
+    "Manish Shrivastava",
+    "Thamar Solorio",
+    "Nirmal Surange",
+    "Krishnapriya Vishnubhotla",
+    "Seid Muhe Yimam",
+    "Saif M. Mohammad"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Amharic",
+    "Arabic",
+    "Algerian Arabic",
+    "Moroccan Arabic",
+    "English",
+    "Hausa",
+    "Hindi",
+    "Indonesian",
+    "Kinyarwanda",
+    "Marathi",
+    "Punjabi",
+    "Spanish",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.272",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.272/"
+}

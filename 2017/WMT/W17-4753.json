@@ -1,0 +1,21 @@
+{
+  "title": "NICT-NAIST System for WMT17 Multimodal Translation Task",
+  "authors": [
+    "Jingyi Zhang",
+    "Masao Utiyama",
+    "Eiichiro Sumita",
+    "Graham Neubig",
+    "Satoshi Nakamura"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "W17-4753",
+  "acl_url": "https://aclanthology.org/W17-4753/"
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Findings of the WMT 2020 Biomedical Translation Shared Task: Basque, Italian and Russian as New Additional Languages",
+  "authors": [
+    "Rachel Bawden",
+    "Giorgio Maria Di Nunzio",
+    "Cristian Grozea",
+    "Iñigo Jauregi Unanue",
+    "Antonio Jimeno Yepes",
+    "Nancy Mah",
+    "David Martinez",
+    "Aurélie Névél",
+    "Mariana Neves",
+    "Maite Oronoz",
+    "Olatz Perez de Viñaspre",
+    "Massimo Piccardi",
+    "Roland Roller",
+    "Amy Siu",
+    "Philippe Thomas",
+    "Federica Vezzani",
+    "Maika Vicente Navarro",
+    "Dina Wiemann",
+    "Lana Yeganova"
+  ],
+  "languages": [
+    "English",
+    "Basque",
+    "Chinese",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.wmt-1.76",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.76/"
+}

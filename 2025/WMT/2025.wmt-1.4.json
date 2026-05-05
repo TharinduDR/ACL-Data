@@ -1,0 +1,28 @@
+{
+  "title": "Meaningful Pose-Based Sign Language Evaluation",
+  "authors": [
+    "Zifan Jiang",
+    "Colin Leong",
+    "Amit Moryossef",
+    "Oliver Cory",
+    "Maksym Ivashechkin",
+    "Neha Tarigopula",
+    "Biao Zhang",
+    "Anne Göhring",
+    "Annette Rios",
+    "Rico Sennrich",
+    "Sarah Ebling"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.4",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.4/"
+}

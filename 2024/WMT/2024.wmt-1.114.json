@@ -1,0 +1,20 @@
+{
+  "title": "On Instruction-Finetuning Neural Machine Translation Models",
+  "authors": [
+    "Vikas Raunak",
+    "Roman Grundkiewicz",
+    "Marcin Junczys-Dowmunt"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality"
+  ],
+  "paper_id": "2024.wmt-1.114",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.114/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "PA Ph&Tech at SemEval-2022 Task 11: NER Task with Ensemble Embedding from Reinforcement Learning",
+  "authors": [
+    "Qizhi LIN",
+    "Xiaopeng WANG",
+    "Xiandi JIANG",
+    "Benqi WANG",
+    "Qifeng XIAO",
+    "Changyong HOU",
+    "Yixuan QIAO",
+    "Jun WANG",
+    "Peng JIANG"
+  ],
+  "languages": [
+    "Dutch",
+    "Spanish",
+    "German"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2022.semeval-1.198",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.198/"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Findings of the 2019 Conference on Machine Translation (WMT19)",
+  "authors": [
+    "Loïc Barrault",
+    "Ondřej Bojar",
+    "Marta R. Costa-jussà",
+    "Christian Federmann",
+    "Mark Fishel",
+    "Yvette Graham",
+    "Barry Haddow",
+    "Matthias Huck",
+    "Philipp Koehn",
+    "Shervin Malmasi",
+    "Christof Monz",
+    "Mathias Müller",
+    "Santanu Pal",
+    "Matt Post",
+    "Marcos Zampieri"
+  ],
+  "languages": [
+    "Chinese",
+    "Czech",
+    "German",
+    "Finnish",
+    "Lithuanian",
+    "Russian",
+    "Gujarati",
+    "Kazakh"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W19-5301",
+  "acl_url": "https://aclanthology.org/W19-5301/"
+}

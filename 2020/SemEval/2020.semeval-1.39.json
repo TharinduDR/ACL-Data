@@ -1,0 +1,20 @@
+{
+  "title": "SemEval-2020 Task 4: Commonsense Validation and Explanation",
+  "authors": [
+    "Cunxiang Wang",
+    "Shuailong Liang",
+    "Yili Jin",
+    "Yilong Wang",
+    "Xiaodan Zhu",
+    "Yue Zhang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.semeval-1.39",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.39/"
+}

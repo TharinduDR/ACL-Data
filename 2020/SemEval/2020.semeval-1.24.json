@@ -1,0 +1,21 @@
+{
+  "title": "EmbLexChange at SemEval-2020 Task 1: Unsupervised Embedding-based Detection of Lexical Semantic Changes",
+  "authors": [
+    "Ehsaneddin Asgari",
+    "Christoph Ringlstetter",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Swedish",
+    "Latin"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.semeval-1.24",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.24/"
+}

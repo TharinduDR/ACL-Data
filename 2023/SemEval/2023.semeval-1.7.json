@@ -1,0 +1,21 @@
+{
+  "title": "BERTastic at SemEval-2023 Task 3: Fine-Tuning Pretrained Multilingual Transformers – Does Order Matter?",
+  "authors": [
+    "Tarek Mahmoud",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Polish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2023.semeval-1.7",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.7/"
+}

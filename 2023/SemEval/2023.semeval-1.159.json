@@ -1,0 +1,30 @@
+{
+  "title": "NLPeople at SemEval-2023 Task 2: A Staged Approach for Multilingual Named Entity Recognition",
+  "authors": [
+    "Mohab Elkaref",
+    "Nathan Herr",
+    "Shinnosuke Tanaka",
+    "Geeth De Mel"
+  ],
+  "languages": [
+    "Bengali",
+    "German",
+    "English",
+    "Spanish",
+    "Persian",
+    "French",
+    "Hindi",
+    "Italian",
+    "Portuguese",
+    "Sinhala",
+    "Chinese",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.semeval-1.159",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.159/"
+}

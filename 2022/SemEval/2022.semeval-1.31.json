@@ -1,0 +1,23 @@
+{
+  "title": "RUG-1-Pegasus at SemEval-2022 Task 3: Data Generation Methods to Improve Recognizing Appropriate Taxonomic Word Relations",
+  "authors": [
+    "Frank van den Berg",
+    "Gijs Daneo",
+    "Esther Ploeger",
+    "Wessel Poelman",
+    "Lukas Edman",
+    "Tommaso Caselli"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2022.semeval-1.31",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.31/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "NICT's Neural and Statistical Machine Translation Systems for the WMT18 News Translation Task",
+  "authors": [
+    "Benjamin Marie",
+    "Rui Wang",
+    "Atsushi Fujita",
+    "Masao Utiyama",
+    "Eiichiro Sumita"
+  ],
+  "languages": [
+    "Estonian",
+    "Finnish",
+    "Turkish",
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W18-6419",
+  "acl_url": "https://aclanthology.org/W18-6419/"
+}

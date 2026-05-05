@@ -1,0 +1,23 @@
+{
+  "title": "ERNIE at SemEval-2020 Task 10: Learning Word Emphasis Selection by Pre-trained Language Model",
+  "authors": [
+    "Zhengjie Huang",
+    "Shikun Feng",
+    "Weiyue Su",
+    "Xuyi Chen",
+    "Shuohuan Wang",
+    "Jiaxiang Liu",
+    "Xuan Ouyang",
+    "Yu Sun"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.semeval-1.190",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.190/"
+}

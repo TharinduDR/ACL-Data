@@ -1,0 +1,33 @@
+{
+  "title": "Findings of the WMT 2019 Biomedical Translation Shared Task: Evaluation for MEDLINE Abstracts and Biomedical Terminologies",
+  "authors": [
+    "Rachel Bawden",
+    "K. Bretonnel Cohen",
+    "Cristian Grozea",
+    "Antonio Jimeno Yepes",
+    "Madeleine Kittner",
+    "Martin Krallinger",
+    "Nancy Mah",
+    "Aurélie Névél",
+    "Mariana Neves",
+    "Felipe Soares",
+    "Amy Siu",
+    "Karin Verspoor",
+    "Maika Vicente Navarro"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W19-5403",
+  "acl_url": "https://aclanthology.org/W19-5403/"
+}

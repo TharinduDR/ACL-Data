@@ -1,0 +1,27 @@
+{
+  "title": "The WMT18 Morpheval test suites for English–Czech, English–German, English–Finnish and Turkish–English",
+  "authors": [
+    "Franck Burlot",
+    "Yves Scherrer",
+    "Vinit Ravishankar",
+    "Ondřej Bojar",
+    "Stig-Arne Grönroos",
+    "Maarit Koponen",
+    "Tommi Nieminen",
+    "François Yvon"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Finnish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-6433",
+  "acl_url": "https://aclanthology.org/W18-6433/"
+}

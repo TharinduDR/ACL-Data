@@ -1,0 +1,20 @@
+{
+  "title": "MeisterMorxrc at SemEval-2020 Task 9: Fine-Tune Bert and Multitask Learning for Sentiment Analysis of Code-Mixed Tweets",
+  "authors": [
+    "Qi Wu",
+    "Peng Wang",
+    "Chenghao Huang"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.semeval-1.174",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.174/"
+}

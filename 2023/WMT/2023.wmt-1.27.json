@@ -1,0 +1,27 @@
+{
+  "title": "The Path to Continuous Domain Adaptation Improvements by HW-TSC for the WMT23 Biomedical Translation Shared Task",
+  "authors": [
+    "Zhanglin Wu",
+    "Daimeng Wei",
+    "Zongyao Li",
+    "Zhengzhe Yu",
+    "Shaojun Li",
+    "Xiaoyu Chen",
+    "Hengchao Shang",
+    "Jiaxin Guo",
+    "Yuhao Xie",
+    "Lizhi Lei",
+    "Hao Yang",
+    "Yanfei Jiang"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2023.wmt-1.27",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.27/"
+}

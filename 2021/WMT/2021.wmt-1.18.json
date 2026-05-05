@@ -1,0 +1,20 @@
+{
+  "title": "NVIDIA NeMo's Neural Machine Translation Systems for English ↔ German and English ↔ Russian News and Biomedical Tasks at WMT21",
+  "authors": [
+    "Sandeep Subramanian",
+    "Oleksii Hrincuk",
+    "Virginia Adams",
+    "Oleksii Kuchaiev"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2021.wmt-1.18",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.18/"
+}

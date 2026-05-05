@@ -1,0 +1,20 @@
+{
+  "title": "KS@LTH at SemEval-2020 Task 12: Fine-tuning multi- and monolingual transformer models for offensive language detection",
+  "authors": [
+    "Kasper Socha"
+  ],
+  "languages": [
+    "Arabic",
+    "Danish",
+    "English",
+    "Greek",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.semeval-1.270",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.270/"
+}

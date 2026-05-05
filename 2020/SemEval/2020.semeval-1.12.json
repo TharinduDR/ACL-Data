@@ -1,0 +1,22 @@
+{
+  "title": "SenseCluster at SemEval-2020 Task 1: Unsupervised Lexical Semantic Change Detection",
+  "authors": [
+    "Amaru Cuba Gyllensten",
+    "Evangelia Gogoulou",
+    "Ariel Ekgren",
+    "Magnus Sahlgren"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Latin",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.semeval-1.12",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.12/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Tilde's Machine Translation Systems for WMT 2017",
+  "authors": [
+    "Mārcis Pinnis",
+    "Rihards Krišlauks",
+    "Toms Miks",
+    "Daiga Deksne",
+    "Valters Šics"
+  ],
+  "languages": [
+    "English",
+    "Latvian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W17-4737",
+  "acl_url": "https://aclanthology.org/W17-4737/"
+}

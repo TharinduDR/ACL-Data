@@ -1,0 +1,19 @@
+{
+  "title": "FORGe at SemEval-2017 Task 9: Deep sentence generation based on a sequence of graph transducers",
+  "authors": [
+    "Simon Mille",
+    "Roberto Carlini",
+    "Alicia Burga",
+    "Leo Wanner",
+    "Lluis Companys"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "S17-2158",
+  "acl_url": "https://aclanthology.org/S17-2158/"
+}

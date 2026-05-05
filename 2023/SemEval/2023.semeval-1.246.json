@@ -1,0 +1,19 @@
+{
+  "title": "HEVS-TUW at SemEval-2023 Task 8: Ensemble of Language Models and Rule-based Classifiers for Claims Identification and PICO Extraction",
+  "authors": [
+    "Anjani Dhrangadhariya",
+    "Wojciech Kusa",
+    "Henning Müller",
+    "Allan Hanbury"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T23 Social Media Processing",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2023.semeval-1.246",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.246/"
+}

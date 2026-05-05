@@ -1,0 +1,29 @@
+{
+  "title": "LSJSP at SemEval-2023 Task 2: FTBC: A FastText based framework with pre-trained BERT for NER",
+  "authors": [
+    "Shilpa Chatterjee",
+    "Leo Evenss",
+    "Pramit Bhattacharyya",
+    "Joydeep Mondal"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Swedish",
+    "Portuguese",
+    "French",
+    "Hindi",
+    "Italian",
+    "German",
+    "Persian",
+    "Bangla",
+    "Chinese",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2023.semeval-1.174",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.174/"
+}

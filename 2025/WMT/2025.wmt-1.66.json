@@ -1,0 +1,24 @@
+{
+  "title": "NVIDIA-NeMo's WMT 2025 Metrics Shared Task Submission",
+  "authors": [
+    "Brian Yan",
+    "Shuoyang Ding",
+    "Kuang-Da Wang",
+    "Siqi Ouyang",
+    "Oleksii Hrinchuk",
+    "Vitaly Lavrukhin",
+    "Boris Ginsburg"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "Hebrew",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.66",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.66/"
+}

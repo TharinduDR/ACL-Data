@@ -1,0 +1,23 @@
+{
+  "title": "Exploring the Benefits and Limitations of Multilinguality for Non-autoregressive Machine Translation",
+  "authors": [
+    "Sweta Agrawal",
+    "Julia Kreutzer",
+    "Colin Cherry"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Polish",
+    "Russian",
+    "Hindi",
+    "Japanese",
+    "Kazakh"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.wmt-1.11",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.11/"
+}

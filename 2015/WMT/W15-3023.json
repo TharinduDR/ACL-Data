@@ -1,0 +1,26 @@
+{
+  "title": "The University of Illinois submission to the WMT 2015 Shared Translation Task",
+  "authors": [
+    "Lane Schwartz",
+    "Bill Bryce",
+    "Chase Geigle",
+    "Sean Massung",
+    "Yisi Liu",
+    "Haoruo Peng",
+    "Vignesh Raja",
+    "Subhro Roy",
+    "Shyam Upadhyay"
+  ],
+  "languages": [
+    "Finnish",
+    "English",
+    "Czech",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W15-3023",
+  "acl_url": "https://aclanthology.org/W15-3023/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "MSLC25: Metric Performance on Low-Quality Machine Translation, Empty Strings, and Language Variants",
+  "authors": [
+    "Rebecca Knowles",
+    "Samuel Larkin",
+    "Chi-kiu Lo"
+  ],
+  "languages": [
+    "Japanese",
+    "Chinese",
+    "English",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.69",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.69/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SheffieldVeraAI at SemEval-2024 Task 4: Prompting and fine-tuning a Large Vision-Language Model for Binary Classification of Persuasion Techniques in Memes",
+  "authors": [
+    "Charlie Grimshaw",
+    "Kalina Bontcheva",
+    "Xingyi Song"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bulgarian",
+    "North Macedonian"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.semeval-1.278",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.278/"
+}

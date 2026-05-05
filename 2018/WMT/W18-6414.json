@@ -1,0 +1,22 @@
+{
+  "title": "The MLLP-UPV German-English Machine Translation System for WMT18",
+  "authors": [
+    "Javier Iranzo-Sánchez",
+    "Pau Baquero-Arnal",
+    "Gonçal V. Garcés Díaz-Munío",
+    "Adrià Martínez-Villaronga",
+    "Jorge Civera",
+    "Alfons Juan"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-6414",
+  "acl_url": "https://aclanthology.org/W18-6414/"
+}

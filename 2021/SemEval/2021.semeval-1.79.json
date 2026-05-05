@@ -1,0 +1,20 @@
+{
+  "title": "RG_PA at SemEval-2021 Task 1: A Contextual Attention-based Model with RoBERTa for Lexical Complexity Prediction",
+  "authors": [
+    "Gang Rao",
+    "Maochang Li",
+    "Xiaolong Hou",
+    "Lianxin Jiang",
+    "Yang Mo",
+    "Jianping Shen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.semeval-1.79",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.79/"
+}

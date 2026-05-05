@@ -1,0 +1,20 @@
+{
+  "title": "SJTU-NLP at SemEval-2018 Task 9: Neural Hypernym Discovery with Term Embeddings",
+  "authors": [
+    "Zhuosheng Zhang",
+    "Jiangtong Li",
+    "Hai Zhao",
+    "Bingjie Tang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S18-1147",
+  "acl_url": "https://aclanthology.org/S18-1147/"
+}

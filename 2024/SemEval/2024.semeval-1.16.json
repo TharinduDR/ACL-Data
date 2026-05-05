@@ -1,0 +1,25 @@
+{
+  "title": "SATLab at SemEval-2024 Task 1: A Fully Instance-Specific Approach for Semantic Textual Relatedness Prediction",
+  "authors": [
+    "Yves Bestgen"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Amharic",
+    "Arabic",
+    "Hausa",
+    "Moroccan Arabic",
+    "English",
+    "Hindi",
+    "Indonesian",
+    "Kinyarwanda",
+    "Punjabi",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.16",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.16/"
+}

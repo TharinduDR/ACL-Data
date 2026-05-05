@@ -1,0 +1,22 @@
+{
+  "title": "GUIR-NLP's submission to Shared Task: Low Resource Indic Language Translation",
+  "authors": [
+    "Mazida Akhtara Ahmed",
+    "Kuvali Talukdar",
+    "Parvez Aziz Boruah",
+    "Shikhar Kumar Sarma",
+    "Kishore Kashyap"
+  ],
+  "languages": [
+    "English",
+    "Mizo",
+    "Khasi",
+    "Assamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.wmt-1.87",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.87/"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "UCAS-IIE-NLP at SemEval-2023 Task 12: Enhancing Generalization of Multilingual BERT for Low-resource Sentiment Analysis",
+  "authors": [
+    "Dou Hu",
+    "Lingwei Wei",
+    "Yaxin Liu",
+    "Wei Zhou",
+    "Songlin Hu"
+  ],
+  "languages": [
+    "Amharic",
+    "Arabic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Moroccan Arabic/Darija",
+    "Mozambican Portuguese",
+    "Nigerian Pidgin",
+    "Oromo",
+    "Swahili",
+    "Tigrinya",
+    "Twi",
+    "Xitsonga",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.255",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.255/"
+}

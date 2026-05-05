@@ -1,0 +1,18 @@
+{
+  "title": "Data Augmentation for Inline Tag-Aware Neural Machine Translation",
+  "authors": [
+    "Yonghyun Ryu",
+    "Yoonjung Choi",
+    "Sangha Kim"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.wmt-1.81",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.81/"
+}

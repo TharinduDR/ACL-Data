@@ -1,0 +1,21 @@
+{
+  "title": "SmurfCat at SemEval-2024 Task 6: Leveraging Synthetic Data for Hallucination Detection",
+  "authors": [
+    "Elisei Rykov",
+    "Yana Shishkina",
+    "Ksenia Petrushina",
+    "Ksenia Titova",
+    "Sergey Petrakov",
+    "Alexander Panchenko"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.125",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.125/"
+}

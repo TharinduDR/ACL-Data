@@ -1,0 +1,23 @@
+{
+  "title": "SemEval-2019 Task 4: Hyperpartisan News Detection",
+  "authors": [
+    "Johannes Kiesel",
+    "Maria Mestre",
+    "Rishabh Shukla",
+    "Emmanuel Vincent",
+    "Payam Adineh",
+    "David Corney",
+    "Benno Stein",
+    "Martin Potthast"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "S19-2145",
+  "acl_url": "https://aclanthology.org/S19-2145/"
+}

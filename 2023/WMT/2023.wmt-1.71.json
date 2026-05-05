@@ -1,0 +1,22 @@
+{
+  "title": "Unify word-level and span-level tasks: NJUNLP's Participation for the WMT2023 Quality Estimation Shared Task",
+  "authors": [
+    "Xiang Geng",
+    "Zhejian Lai",
+    "Yu Zhang",
+    "Shimin Tao",
+    "Hao Yang",
+    "Jiajun Chen",
+    "Shujian Huang"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.wmt-1.71",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.71/"
+}

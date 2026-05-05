@@ -1,0 +1,24 @@
+{
+  "title": "Edinburgh's Statistical Machine Translation Systems for WMT16",
+  "authors": [
+    "Philip Williams",
+    "Rico Sennrich",
+    "Maria Nadejde",
+    "Matthias Huck",
+    "Barry Haddow",
+    "Ondrej Bojar"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Romanian",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W16-2327",
+  "acl_url": "https://aclanthology.org/W16-2327/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SemEval-2023 Task 8: Causal Medical Claim Identification and Related PIO Frame Extraction from Social Media Posts",
+  "authors": [
+    "Vivek Khetan",
+    "Somin Wadhwa",
+    "Byron C. Wallace",
+    "Silvio Amir"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.311",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.311/"
+}

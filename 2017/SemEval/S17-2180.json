@@ -1,0 +1,18 @@
+{
+  "title": "GUIR at SemEval-2017 Task 12: A Framework for Cross-Domain Clinical Temporal Information Extraction",
+  "authors": [
+    "Sean MacAvaney",
+    "Arman Cohan",
+    "Nazli Goharian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S17-2180",
+  "acl_url": "https://aclanthology.org/S17-2180/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "SemEval-2021 Task 12: Learning with Disagreements",
+  "authors": [
+    "Alexandra Uma",
+    "Tommaso Fornaciari",
+    "Anca Dumitrache",
+    "Tristan Miller",
+    "Jon Chamberlain",
+    "Barbara Plank",
+    "Edwin Simpson",
+    "Massimo Poesio"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.semeval-1.41",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.41/"
+}

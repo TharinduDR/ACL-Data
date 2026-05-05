@@ -1,0 +1,24 @@
+{
+  "title": "Ferryman at SemEval-2020 Task 12: BERT-Based Model with Advanced Improvement Methods for Multilingual Offensive Language Identification",
+  "authors": [
+    "Weilong Chen",
+    "Peng Wang",
+    "Jipeng Li",
+    "Yuanshuai Zheng",
+    "Yan Wang",
+    "Yanru Zhang"
+  ],
+  "languages": [
+    "English",
+    "Greek",
+    "Turkish",
+    "Arabic",
+    "Danish"
+  ],
+  "research_areas": [
+    "T20",
+    "T23"
+  ],
+  "paper_id": "2020.semeval-1.256",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.256/"
+}

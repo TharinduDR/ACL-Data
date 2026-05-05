@@ -1,0 +1,24 @@
+{
+  "title": "Domain Terminology Integration into Machine Translation: Leveraging Large Language Models",
+  "authors": [
+    "Yasmin Moslem",
+    "Gianfranco Romaní",
+    "Mahdi Molaei",
+    "Rejwanul Haque",
+    "John D. Kelleher",
+    "Andy Way"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Czech",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2023.wmt-1.82",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.82/"
+}

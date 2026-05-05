@@ -1,0 +1,21 @@
+{
+  "title": "MineriaUNAM at SemEval-2020 Task 3: Predicting Contextual Word Similarity Using a Centroid based Approach and Word Embeddings",
+  "authors": [
+    "Helena Gómez-Adorno",
+    "Gemma Bel-Enguix",
+    "Jorge Reyes-Magaña",
+    "Benjamín Moreno",
+    "Ramón Casillas",
+    "Daniel Vargas"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.semeval-1.17",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.17/"
+}

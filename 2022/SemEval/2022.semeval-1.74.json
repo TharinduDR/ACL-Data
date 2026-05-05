@@ -1,0 +1,23 @@
+{
+  "title": "SemEval-2022 Task 5: Multimedia Automatic Misogyny Identification",
+  "authors": [
+    "Elisabetta Fersini",
+    "Francesca Gasparini",
+    "Giulia Rizzi",
+    "Aurora Saibene",
+    "Berta Chulvi",
+    "Paolo Rosso",
+    "Alyssa Lees",
+    "Jeffrey Sorensen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.semeval-1.74",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.74/"
+}

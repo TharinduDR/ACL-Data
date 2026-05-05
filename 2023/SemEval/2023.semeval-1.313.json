@@ -1,0 +1,23 @@
+{
+  "title": "SemEval-2023 Task 4: ValueEval: Identification of Human Values Behind Arguments",
+  "authors": [
+    "Johannes Kiesel",
+    "Milad Alshomary",
+    "Nailia Mirzakhmedova",
+    "Maximilian Heinrich",
+    "Nicolas Handke",
+    "Henning Wachsmuth",
+    "Benno Stein"
+  ],
+  "languages": [
+    "English",
+    "Persian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.semeval-1.313",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.313/"
+}

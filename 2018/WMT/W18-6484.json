@@ -1,0 +1,20 @@
+{
+  "title": "The ILSP/ARC submission to the WMT 2018 Parallel Corpus Filtering Shared Task",
+  "authors": [
+    "Vassilis Papavassiliou",
+    "Sokratis Sofianopoulos",
+    "Prokopis Prokopidis",
+    "Stelios Piperidis"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-6484",
+  "acl_url": "https://aclanthology.org/W18-6484/"
+}

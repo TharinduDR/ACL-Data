@@ -1,0 +1,30 @@
+{
+  "title": "Samsung Research Poland at SemEval-2025 Task 8: LLM ensemble methods for QA over tabular data",
+  "authors": [
+    "Paweł Bujnowski",
+    "Tomasz Dryjański",
+    "Christian Goltz",
+    "Bartosz Świderski",
+    "Natalia Paszkiewicz",
+    "Bartłomiej Kuźma",
+    "Jacek Rutkowski",
+    "Jakub Ślepka",
+    "Miłosz Dudek",
+    "Wojciech Siemiatkowski",
+    "Weronika Plichta",
+    "Bartłomiej Paziewski",
+    "Maciej Grabowski",
+    "Katarzyna Beksa",
+    "Zuzanna Bordzicka",
+    "Filip Ostrowski",
+    "Grzegorz Sochacki"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.semeval-1.163",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.163/"
+}

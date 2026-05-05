@@ -1,0 +1,30 @@
+{
+  "title": "USTC-NELSLIP at SemEval-2022 Task 11: Gazetteer-Adapted Integration Network for Multilingual Complex Named Entity Recognition",
+  "authors": [
+    "Beiduo Chen",
+    "Jun-Yu Ma",
+    "Jiajun Qi",
+    "Wu Guo",
+    "Zhen-Hua Ling",
+    "Quan Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Spanish",
+    "Dutch",
+    "Russian",
+    "Turkish",
+    "Korean",
+    "Persian",
+    "Hindi",
+    "Bangla"
+  ],
+  "research_areas": [
+    "T11",
+    "T13",
+    "T14"
+  ],
+  "paper_id": "2022.semeval-1.223",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.223/"
+}

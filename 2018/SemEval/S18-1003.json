@@ -1,0 +1,24 @@
+{
+  "title": "SemEval 2018 Task 2: Multilingual Emoji Prediction",
+  "authors": [
+    "Francesco Barbieri",
+    "Jose Camacho-Collados",
+    "Francesco Ronzano",
+    "Luis Espinosa-Anke",
+    "Miguel Ballesteros",
+    "Valerio Basile",
+    "Viviana Patti",
+    "Horacio Saggion"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "S18-1003",
+  "acl_url": "https://aclanthology.org/S18-1003/"
+}

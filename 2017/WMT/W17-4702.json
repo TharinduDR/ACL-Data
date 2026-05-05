@@ -1,0 +1,20 @@
+{
+  "title": "Improving Word Sense Disambiguation in Neural Machine Translation with Sense Embeddings",
+  "authors": [
+    "Annette Rios",
+    "Laura Mascarell",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W17-4702",
+  "acl_url": "https://aclanthology.org/W17-4702/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "UMBC at SemEval-2018 Task 8: Understanding Text about Malware",
+  "authors": [
+    "Ankur Padia",
+    "Arpita Roy",
+    "Taneeya Satyapanich",
+    "Francis Ferraro",
+    "Shimei Pan",
+    "Youngja Park",
+    "Anupam Joshi",
+    "Tim Finin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "S18-1142",
+  "acl_url": "https://aclanthology.org/S18-1142/"
+}

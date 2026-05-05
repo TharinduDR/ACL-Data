@@ -1,0 +1,18 @@
+{
+  "title": "Dual Conditional Cross Entropy Scores and LASER Similarity Scores for the WMT20 Parallel Corpus Filtering Shared Task",
+  "authors": [
+    "Felicia Koerner",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "English",
+    "Pashto",
+    "Khmer"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.wmt-1.109",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.109/"
+}

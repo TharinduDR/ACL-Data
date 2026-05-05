@@ -1,0 +1,32 @@
+{
+  "title": "UAAlberta at SemEval-2025 Task 2: Prompting and Ensembling for Entity-Aware Translation",
+  "authors": [
+    "Ning Shi",
+    "David Basil",
+    "Bradley Hauer",
+    "Noshin Nawal",
+    "Jai Riley",
+    "Daniela Teodorescu",
+    "John Zhang",
+    "Grzegorz Kondrak"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Thai",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.semeval-1.224",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.224/"
+}

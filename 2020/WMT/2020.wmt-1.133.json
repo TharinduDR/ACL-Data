@@ -1,0 +1,19 @@
+{
+  "title": "CUNI Systems for the Unsupervised and Very Low Resource Translation Task in WMT20",
+  "authors": [
+    "Ivana Kvapilíková",
+    "Tom Kocmi",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "German",
+    "Upper Sorbian",
+    "Czech"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2020.wmt-1.133",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.133/"
+}

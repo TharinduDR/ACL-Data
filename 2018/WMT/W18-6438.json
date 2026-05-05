@@ -1,0 +1,24 @@
+{
+  "title": "LIUM-CVC Submissions for WMT18 Multimodal Translation Task",
+  "authors": [
+    "Ozan Caglayan",
+    "Adrien Bardet",
+    "Fethi Bougares",
+    "Loïc Barrault",
+    "Kai Wang",
+    "Marc Masana",
+    "Luis Herranz",
+    "Joost van de Weijer"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "W18-6438",
+  "acl_url": "https://aclanthology.org/W18-6438/"
+}

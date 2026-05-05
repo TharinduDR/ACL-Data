@@ -1,0 +1,21 @@
+{
+  "title": "SemEval-2021 Task 8: MeasEval – Extracting Counts and Measurements and their Related Contexts",
+  "authors": [
+    "Corey A Harper",
+    "Jessica Cox",
+    "Curt Kohler",
+    "Antony Scerri",
+    "Ron Daniel, Jr.",
+    "Paul Groth"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.semeval-1.38",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.38/"
+}

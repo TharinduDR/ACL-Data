@@ -1,0 +1,21 @@
+{
+  "title": "Neural GRANNy at SemEval-2019 Task 2: A combined approach for better modeling of semantic relationships in semantic frame induction",
+  "authors": [
+    "Nikolay Arefyev",
+    "Boris Sheludko",
+    "Adis Davletov",
+    "Dmitry Kharchev",
+    "Alex Nevidomsky",
+    "Alexander Panchenko"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S19-2004",
+  "acl_url": "https://aclanthology.org/S19-2004/"
+}

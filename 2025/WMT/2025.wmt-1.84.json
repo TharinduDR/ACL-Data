@@ -1,0 +1,24 @@
+{
+  "title": "The Kyrgyz Seed Dataset Submission to the WMT25 Open Language Data Initiative Shared Task",
+  "authors": [
+    "Murat Jumashev",
+    "Alina Tillabaeva",
+    "Aida Kasieva",
+    "Turgunbek Omurkanov",
+    "Akylai Musaeva",
+    "Meerim Emil kyzy",
+    "Gulaiym Chagataeva",
+    "Jonathan Washington"
+  ],
+  "languages": [
+    "English",
+    "Kyrgyz"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.wmt-1.84",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.84/"
+}

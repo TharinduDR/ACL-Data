@@ -1,0 +1,31 @@
+{
+  "title": "ABCD Team at SemEval-2023 Task 12: An Ensemble Transformer-based System for African Sentiment Analysis",
+  "authors": [
+    "Dang Van Thin",
+    "Dai Ba Nguyen",
+    "Dang Ba Qui",
+    "Duong Ngoc Hao",
+    "Ngan Luu-Thuy Nguyen"
+  ],
+  "languages": [
+    "Hausa",
+    "Yoruba",
+    "Igbo",
+    "Nigerian Pidgin",
+    "Amharic",
+    "Algerian Arabic",
+    "Moroccan Arabic",
+    "Swahili",
+    "Kinyarwanda",
+    "Twi",
+    "Mozambican Portuguese",
+    "Xitsonga"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.44",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.44/"
+}

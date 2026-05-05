@@ -1,0 +1,21 @@
+{
+  "title": "TermMind: Alibaba's WMT21 Machine Translation using Terminologies Task Submission",
+  "authors": [
+    "Ke Wang",
+    "Shuqin Gu",
+    "Boxing Chen",
+    "Yu Zhao",
+    "Weihua Luo",
+    "Yuqi Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.wmt-1.85",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.85/"
+}

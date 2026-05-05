@@ -1,0 +1,22 @@
+{
+  "title": "Phrase-Based SMT for Finnish with More Data, Better Models and Alternative Alignment and Translation Tools",
+  "authors": [
+    "Jörg Tiedemann",
+    "Fabienne Cap",
+    "Jenna Kanerva",
+    "Filip Ginter",
+    "Sara Stymne",
+    "Robert Östling",
+    "Marion Di Marco"
+  ],
+  "languages": [
+    "English",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W16-2326",
+  "acl_url": "https://aclanthology.org/W16-2326/"
+}

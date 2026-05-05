@@ -1,0 +1,21 @@
+{
+  "title": "SemEval-2015 Task 15: A Corpus Pattern Analysis Dictionary-Entry-Building Task",
+  "authors": [
+    "Vít Baisa",
+    "Jane Bradbury",
+    "Silvie Cinková",
+    "Ismail El Maarouf",
+    "Adam Kilgarriff",
+    "Octavian Popescu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S15-2053",
+  "acl_url": "https://aclanthology.org/S15-2053/"
+}

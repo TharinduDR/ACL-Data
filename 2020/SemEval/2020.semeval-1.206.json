@@ -1,0 +1,23 @@
+{
+  "title": "NLPDove at SemEval-2020 Task 12: Improving Offensive Language Detection with Cross-lingual Transfer",
+  "authors": [
+    "Hwijeon Ahn",
+    "Jimin Sun",
+    "Chan Young Park",
+    "Jungyun Seo"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Danish",
+    "Greek",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T20",
+    "T23",
+    "T14"
+  ],
+  "paper_id": "2020.semeval-1.206",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.206/"
+}

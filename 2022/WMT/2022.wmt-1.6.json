@@ -1,0 +1,22 @@
+{
+  "title": "Embarrassingly Easy Document-Level MT Metrics: How to Convert Any Pretrained Metric Into a Document-Level Metric",
+  "authors": [
+    "Giorgos Vernikos",
+    "Brian Thompson",
+    "Prashant Mathur",
+    "Marcello Federico"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.wmt-1.6",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.6/"
+}

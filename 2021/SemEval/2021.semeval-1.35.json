@@ -1,0 +1,24 @@
+{
+  "title": "abcpcb at SemEval-2021 Task 7: ERNIE-based Multi-task Model for Detecting and Rating Humor and Offense",
+  "authors": [
+    "Chao Pang",
+    "Xiaoran Fan",
+    "Weiyue Su",
+    "Xuyi Chen",
+    "Shuohuan Wang",
+    "Jiaxiang Liu",
+    "Xuan Ouyang",
+    "Shikun Feng",
+    "Yu Sun"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.semeval-1.35",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.35/"
+}

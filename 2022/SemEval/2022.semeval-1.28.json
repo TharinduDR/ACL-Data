@@ -1,0 +1,22 @@
+{
+  "title": "HIT at SemEval-2022 Task 2: Pre-trained Language Model for Idioms Detection",
+  "authors": [
+    "Zheng Chu",
+    "Ziqing Yang",
+    "Yiming Cui",
+    "Zhigang Chen",
+    "Ming Liu"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Galician"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.28",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.28/"
+}

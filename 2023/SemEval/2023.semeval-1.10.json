@@ -1,0 +1,26 @@
+{
+  "title": "MarsEclipse at SemEval-2023 Task 3: Multi-Lingual and Multi-Label Framing Detection with Contrastive Learning",
+  "authors": [
+    "Qisheng Liao",
+    "Meiting Lai",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Polish",
+    "Russian",
+    "Spanish",
+    "Georgian",
+    "Greek"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.semeval-1.10",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.10/"
+}

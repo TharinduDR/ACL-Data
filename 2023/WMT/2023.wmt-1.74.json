@@ -1,0 +1,24 @@
+{
+  "title": "SurreyAI 2023 Submission for the Quality Estimation Shared Task",
+  "authors": [
+    "Archchana Sindhuja",
+    "Diptesh Kanojia",
+    "Constantin Orasan",
+    "Tharindu Ranasinghe"
+  ],
+  "languages": [
+    "English",
+    "Gujarati",
+    "Hindi",
+    "Marathi",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.wmt-1.74",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.74/"
+}

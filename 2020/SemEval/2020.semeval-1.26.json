@@ -1,0 +1,22 @@
+{
+  "title": "SST-BERT at SemEval-2020 Task 1: Semantic Shift Tracing by Clustering in BERT-based Embedding Spaces",
+  "authors": [
+    "Vani Kanjirangat",
+    "Sandra Mitrović",
+    "Alessandro Antonucci",
+    "Fabio Rinaldi"
+  ],
+  "languages": [
+    "English",
+    "Latin",
+    "German",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.semeval-1.26",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.26/"
+}

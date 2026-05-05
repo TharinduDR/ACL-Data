@@ -1,0 +1,24 @@
+{
+  "title": "Sliced at SemEval-2022 Task 11: Bigger, Better? Massively Multilingual LMs for Multilingual Complex NER on an Academic GPU Budget",
+  "authors": [
+    "Barbara Plank"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "Russian",
+    "Turkish",
+    "Korean",
+    "Persian",
+    "German",
+    "Chinese",
+    "Hindi",
+    "Bangla"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2022.semeval-1.205",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.205/"
+}

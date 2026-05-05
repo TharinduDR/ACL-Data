@@ -1,0 +1,29 @@
+{
+  "title": "The DeepMind Chinese–English Document Translation System at WMT2020",
+  "authors": [
+    "Lei Yu",
+    "Laurent Sartran",
+    "Po-Sen Huang",
+    "Wojciech Stokowiec",
+    "Domenic Donato",
+    "Srivatsan Srinivasan",
+    "Alek Andreev",
+    "Wang Ling",
+    "Soňa Mokrá",
+    "Agustin Dal Lago",
+    "Yotam Doron",
+    "Susannah Young",
+    "Phil Blunsom",
+    "Chris Dyer"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.wmt-1.36",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.36/"
+}

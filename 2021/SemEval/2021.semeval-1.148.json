@@ -1,0 +1,20 @@
+{
+  "title": "LeCun at SemEval-2021 Task 6: Detecting Persuasion Techniques in Text Using Ensembled Pretrained Transformers and Data Augmentation",
+  "authors": [
+    "Dia Abujaber",
+    "Ahmed Qarqaz",
+    "Malak Abdullah"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "Russian"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining"
+  ],
+  "paper_id": "2021.semeval-1.148",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.148/"
+}

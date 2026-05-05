@@ -1,0 +1,30 @@
+{
+  "title": "HW-TSC 2023 Submission for the Quality Estimation Shared Task",
+  "authors": [
+    "Yuang Li",
+    "Chang Su",
+    "Ming Zhu",
+    "Mengyao Piao",
+    "Xinglin Lyu",
+    "Min Zhang",
+    "Hao Yang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Hebrew",
+    "Marathi",
+    "Hindi",
+    "Tamil",
+    "Telugu",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.wmt-1.72",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.72/"
+}

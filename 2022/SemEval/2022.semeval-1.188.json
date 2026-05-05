@@ -1,0 +1,23 @@
+{
+  "title": "Hitachi at SemEval-2022 Task 10: Comparing Graph- and Seq2Seq-based Models Highlights Difficulty in Structured Sentiment Analysis",
+  "authors": [
+    "Gaku Morio",
+    "Hiroaki Ozaki",
+    "Atsuki Yamaguchi",
+    "Yasuhiro Sogawa"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Basque",
+    "Catalan",
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.semeval-1.188",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.188/"
+}

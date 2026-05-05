@@ -1,0 +1,23 @@
+{
+  "title": "DTW-Align: Bridging the Modality Gap in End-to-End Speech Translation with Dynamic Time Warping Alignment",
+  "authors": [
+    "Abderrahmane Issam",
+    "Yusuf Can Semerci",
+    "Jan Scholtes",
+    "Gerasimos Spanakis"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Arabic",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16",
+    "T17",
+    "T24"
+  ],
+  "paper_id": "2025.wmt-1.11",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.11/"
+}

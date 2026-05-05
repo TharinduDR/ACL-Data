@@ -1,0 +1,22 @@
+{
+  "title": "SEW-EMBED at SemEval-2017 Task 2: Language-Independent Concept Representations from a Semantically Enriched Wikipedia",
+  "authors": [
+    "Claudio Delli Bovi",
+    "Alessandro Raganato"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Persian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S17-2041",
+  "acl_url": "https://aclanthology.org/S17-2041/"
+}

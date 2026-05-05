@@ -1,0 +1,26 @@
+{
+  "title": "LLM-RM at SemEval-2023 Task 2: Multilingual Complex NER using XLM-RoBERTa",
+  "authors": [
+    "Rahul Mehta",
+    "Vasudeva Varma"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "German",
+    "Spanish",
+    "Chinese",
+    "French",
+    "Portuguese",
+    "Italian",
+    "Persian",
+    "Bangla",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2023.semeval-1.62",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.62/"
+}

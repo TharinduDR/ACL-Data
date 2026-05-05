@@ -1,0 +1,21 @@
+{
+  "title": "EXPR at SemEval-2018 Task 9: A Combined Approach for Hypernym Discovery",
+  "authors": [
+    "Ahmad Issa Alaa Aldine",
+    "Mounira Harzallah",
+    "Berio Giuseppe",
+    "Nicolas Béchet",
+    "Ahmad Faour"
+  ],
+  "languages": [
+    "English",
+    "Medical",
+    "Music"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "S18-1150",
+  "acl_url": "https://aclanthology.org/S18-1150/"
+}

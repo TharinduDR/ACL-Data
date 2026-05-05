@@ -1,0 +1,20 @@
+{
+  "title": "BUT-FIT at SemEval-2020 Task 4: Multilingual commonsense",
+  "authors": [
+    "Josef Jon",
+    "Martin Fajcik",
+    "Martin Docekal",
+    "Pavel Smrz"
+  ],
+  "languages": [
+    "English",
+    "Czech"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.semeval-1.46",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.46/"
+}

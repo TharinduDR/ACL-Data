@@ -1,0 +1,18 @@
+{
+  "title": "Transformer-based Automatic Post-Editing Model with Joint Encoder and Multi-source Attention of Decoder",
+  "authors": [
+    "WonKee Lee",
+    "Jaehun Shin",
+    "Jong-hyeok Lee"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "W19-5412",
+  "acl_url": "https://aclanthology.org/W19-5412/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "MTEQA at WMT21 Metrics Shared Task",
+  "authors": [
+    "Mateusz Krubiński",
+    "Erfan Ghadery",
+    "Marie-Francine Moens",
+    "Pavel Pecina"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.wmt-1.110",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.110/"
+}

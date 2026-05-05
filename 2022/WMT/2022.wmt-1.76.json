@@ -1,0 +1,21 @@
+{
+  "title": "Findings of the WMT 2022 Shared Task on Translation Suggestion",
+  "authors": [
+    "Zhen Yang",
+    "Fandong Meng",
+    "Yingxue Zhang",
+    "Ernan Li",
+    "Jie Zhou"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.wmt-1.76",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.76/"
+}

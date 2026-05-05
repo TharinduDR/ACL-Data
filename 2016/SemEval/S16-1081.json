@@ -1,0 +1,24 @@
+{
+  "title": "SemEval-2016 Task 1: Semantic Textual Similarity, Monolingual and Cross-Lingual Evaluation",
+  "authors": [
+    "Eneko Agirre",
+    "Carmen Banea",
+    "Daniel Cer",
+    "Mona Diab",
+    "Aitor Gonzalez-Agirre",
+    "Rada Mihalcea",
+    "German Rigau",
+    "Janice Wiebe"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S16-1081",
+  "acl_url": "https://aclanthology.org/S16-1081/"
+}

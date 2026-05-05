@@ -1,0 +1,31 @@
+{
+  "title": "GMNLP at SemEval-2023 Task 12: Sentiment Analysis with Phylogeny-Based Adapters",
+  "authors": [
+    "Md Mahfuz Ibn Alam",
+    "Ruoyu Xie",
+    "Fahim Faisal",
+    "Antonios Anastasopoulos"
+  ],
+  "languages": [
+    "Amharic",
+    "Arabic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Nigerian Pidgin",
+    "Oromo",
+    "Portuguese",
+    "Swahili",
+    "Tigrinya",
+    "Yoruba",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.163",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.163/"
+}

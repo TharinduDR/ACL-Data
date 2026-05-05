@@ -1,0 +1,23 @@
+{
+  "title": "SemEval-2019 Task 1: Cross-lingual Semantic Parsing with UCCA",
+  "authors": [
+    "Daniel Hershchovich",
+    "Zohar Aizenbud",
+    "Leshem Choshen",
+    "Elior Sulem",
+    "Ari Rappoport",
+    "Omri Abend"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "S19-2001",
+  "acl_url": "https://aclanthology.org/S19-2001/"
+}

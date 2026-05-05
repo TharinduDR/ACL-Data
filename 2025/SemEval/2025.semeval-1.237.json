@@ -1,0 +1,43 @@
+{
+  "title": "NTA at SemEval-2025 Task 11: Enhanced Multilingual Textual Multi-label Emotion Detection via Integrated Augmentation Learning",
+  "authors": [
+    "Nguyen Pham Hoang Le",
+    "An Nguyen Tran Khuong",
+    "Tram Nguyen Thi Ngoc",
+    "Thinh Dang Van"
+  ],
+  "languages": [
+    "English",
+    "Afrikaans",
+    "Algerian Arabic",
+    "Amharic",
+    "Chinese",
+    "Emakhuwa",
+    "German",
+    "Hausa",
+    "Hindi",
+    "Igbo",
+    "Kinyarwanda",
+    "Marathi",
+    "Moroccan Arabic",
+    "Nigerian Pidgin",
+    "Oromo",
+    "Portuguese",
+    "Russian",
+    "Somali",
+    "Spanish",
+    "Sundanese",
+    "Swahili",
+    "Tatar",
+    "Tigrinya",
+    "Ukrainian",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.semeval-1.237",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.237/"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Quality or Quantity? On Data Scale and Diversity in Adapting Large Language Models for Low-Resource Translation",
+  "authors": [
+    "Vivek Iyer",
+    "Bhavitva Malik",
+    "Pavel Stepachev",
+    "Pinzhen Chen",
+    "Barry Haddow",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Aymara",
+    "Bribri",
+    "Asháninka",
+    "Chatino",
+    "Guarani",
+    "Huichol",
+    "Nahuatl",
+    "Otomi",
+    "Quechua",
+    "Shipibo-Konibo",
+    "Tarahumara",
+    "Khasi",
+    "Meitei",
+    "Mizo",
+    "Assamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2024.wmt-1.128",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.128/"
+}

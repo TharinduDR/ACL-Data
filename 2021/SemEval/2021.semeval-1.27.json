@@ -1,0 +1,19 @@
+{
+  "title": "NLRG at SemEval-2021 Task 5: Toxic Spans Detection Leveraging BERT-based Token Classification and Span Prediction Techniques",
+  "authors": [
+    "Gunjan Chhablani",
+    "Abheesht Sharma",
+    "Harshit Pandey",
+    "Yash Bhartia",
+    "Shan Suthaharan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2021.semeval-1.27",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.27/"
+}

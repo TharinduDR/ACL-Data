@@ -1,0 +1,22 @@
+{
+  "title": "The AIC System for the WMT 2022 Unsupervised MT and Very Low Resource Supervised MT Task",
+  "authors": [
+    "Ahmad Shapiro",
+    "Mahmoud Tarek",
+    "Omar Khaled",
+    "Mohamed Fayed",
+    "Ayman Khalafallah",
+    "Noha Adly"
+  ],
+  "languages": [
+    "German",
+    "Upper Sorbian",
+    "Lower Sorbian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.wmt-1.110",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.110/"
+}

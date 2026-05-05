@@ -1,0 +1,24 @@
+{
+  "title": "SRPOL DIALOGUE SYSTEMS at SemEval-2021 Task 5: Automatic Generation of Training Data for Toxic Spans Detection",
+  "authors": [
+    "Michał Satława",
+    "Katarzyna Zamłyńska",
+    "Jarosław Piersa",
+    "Joanna Kolis",
+    "Klaudia Firlag",
+    "Katarzyna Beksa",
+    "Zuzanna Bordzicka",
+    "Christian Goltz",
+    "Paweł Bujnowski",
+    "Piotr Andruszkiwicz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2021.semeval-1.133",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.133/"
+}

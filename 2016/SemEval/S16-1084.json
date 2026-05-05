@@ -1,0 +1,19 @@
+{
+  "title": "SemEval-2016 Task 10: Detecting Minimal Semantic Units and their Meanings (DiMSUM)",
+  "authors": [
+    "Nathan Schneider",
+    "Dirk Hovy",
+    "Anders Johannsen",
+    "Marine Carpuat"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "S16-1084",
+  "acl_url": "https://aclanthology.org/S16-1084/"
+}

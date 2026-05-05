@@ -1,0 +1,33 @@
+{
+  "title": "NLNDE at SemEval-2023 Task 12: Adaptive Pretraining and Source Language Selection for Low-Resource Multilingual Sentiment Analysis",
+  "authors": [
+    "Mingyang Wang",
+    "Heike Adel",
+    "Lukas Lange",
+    "Jannik Strötgen",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "Amharic",
+    "Arabic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Moroccan Arabic",
+    "Nigerian Pidgin",
+    "Portuguese",
+    "Swahili",
+    "Xitsonga",
+    "Twi",
+    "Yoruba",
+    "Oromo",
+    "Tigrinya"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.68",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.68/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "LTL-UDE at SemEval-2019 Task 6: BERT and Two-Vote Classification for Categorizing Offensiveness",
+  "authors": [
+    "Piush Aggarwal",
+    "Tobias Horsmann",
+    "Michael Wojatzki",
+    "Torsten Zesch"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Chinese",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T20",
+    "T23"
+  ],
+  "paper_id": "S19-2121",
+  "acl_url": "https://aclanthology.org/S19-2121/"
+}

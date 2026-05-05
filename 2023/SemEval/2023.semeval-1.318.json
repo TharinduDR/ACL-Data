@@ -1,0 +1,24 @@
+{
+  "title": "SemEval-2023 Task 6: LegalEval - Understanding Legal Texts",
+  "authors": [
+    "Ashutosh Modi",
+    "Prathamesh Kalamkar",
+    "Saurabh Karn",
+    "Aman Tiwari",
+    "Abhinav Joshi",
+    "Sai Kiran Tanikella",
+    "Shouvik Kumar Guha",
+    "Sachin Malhan",
+    "Vivek Raghavan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.semeval-1.318",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.318/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Findings of the WMT 2020 Shared Task on Chat Translation",
+  "authors": [
+    "M. Amin Farajian",
+    "António V. Lopes",
+    "André F. T. Martins",
+    "Sameen Maruf",
+    "Gholamreza Haffari"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2020.wmt-1.3",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.3/"
+}

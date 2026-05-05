@@ -1,0 +1,22 @@
+{
+  "title": "NICT Kyoto Submission for the WMT'21 Quality Estimation Task: Multimetric Multilingual Pretraining for Critical Error Detection",
+  "authors": [
+    "Raphael Rubino",
+    "Atsushi Fujita",
+    "Benjamin Marie"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Czech",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.wmt-1.99",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.99/"
+}

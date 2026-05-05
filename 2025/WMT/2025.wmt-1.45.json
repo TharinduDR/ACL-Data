@@ -1,0 +1,33 @@
+{
+  "title": "UvA-MT's Participation in the WMT25 General Translation Shared Task",
+  "authors": [
+    "Di Wu",
+    "Yan Meng",
+    "Maya Nachesa",
+    "Seth Aycock",
+    "Christof Monz"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Italian",
+    "Arabic",
+    "Czech",
+    "UK English",
+    "Korean",
+    "Persian",
+    "German",
+    "Japanese",
+    "Swedish",
+    "Cantonese",
+    "Bhojpuri",
+    "Maasai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.45",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.45/"
+}

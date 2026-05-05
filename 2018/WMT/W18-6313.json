@@ -1,0 +1,26 @@
+{
+  "title": "Freezing Subnetworks to Analyze Domain Adaptation in Neural Machine Translation",
+  "authors": [
+    "Brian Thompson",
+    "Huda Khayrallah",
+    "Antonios Anastasopoulos",
+    "Arya D. McCarthy",
+    "Kevin Duh",
+    "Rebecca Marvin",
+    "Paul McNamee",
+    "Jeremy Gwinnup",
+    "Tim Anderson",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "German",
+    "Russian",
+    "Korean"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "W18-6313",
+  "acl_url": "https://aclanthology.org/W18-6313/"
+}

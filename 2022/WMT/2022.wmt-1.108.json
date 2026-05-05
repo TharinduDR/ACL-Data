@@ -1,0 +1,20 @@
+{
+  "title": "PICT-NLP@WMT22-EMNLP2022: Unsupervised and Very-Low Resource Supervised Translation on German and Sorbian Variant Languages",
+  "authors": [
+    "Aditya Vyawahare",
+    "Rahul Tangsali",
+    "Aditya Mandke",
+    "Onkar Litake",
+    "Dipali Kadam"
+  ],
+  "languages": [
+    "German",
+    "Lower Sorbian",
+    "Upper Sorbian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.wmt-1.108",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.108/"
+}

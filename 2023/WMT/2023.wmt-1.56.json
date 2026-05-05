@@ -1,0 +1,27 @@
+{
+  "title": "Findings of the WMT 2023 Shared Task on Low-Resource Indic Language Translation",
+  "authors": [
+    "Santanu Pal",
+    "Partha Pakray",
+    "Sahinur Rahman Laskar",
+    "Lenin Laitonjam",
+    "Vanlalmuansangi Khenglawt",
+    "Sunita Warjri",
+    "Pankaj Kundan Dadure",
+    "Sandee Kumar Dash"
+  ],
+  "languages": [
+    "English",
+    "Assamese",
+    "Mizo",
+    "Khasi",
+    "Manipuri"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.wmt-1.56",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.56/"
+}

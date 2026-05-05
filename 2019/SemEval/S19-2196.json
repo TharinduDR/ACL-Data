@@ -1,0 +1,20 @@
+{
+  "title": "SINAI-DL at SemEval-2019 Task 7: Data Augmentation and Temporal Expressions",
+  "authors": [
+    "Miguel Ángel García-Cumbreras",
+    "Salud María Jiménez-Zafra",
+    "Arturo Montejo-Ráez",
+    "Manuel Carlos Díaz-Galiano",
+    "Estela Saquete"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "S19-2196",
+  "acl_url": "https://aclanthology.org/S19-2196/"
+}

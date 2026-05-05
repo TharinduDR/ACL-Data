@@ -1,0 +1,28 @@
+{
+  "title": "Papago's Submission to the WMT21 Quality Estimation Shared Task",
+  "authors": [
+    "Seunghyun S. Lim",
+    "Hantae Kim",
+    "Hyunjoong Kim"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Romanian",
+    "Estonian",
+    "Sinhalese",
+    "Nepalese",
+    "Czech",
+    "Japanese",
+    "Pashto",
+    "Khmer"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.wmt-1.98",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.98/"
+}

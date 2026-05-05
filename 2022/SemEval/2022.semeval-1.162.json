@@ -1,0 +1,26 @@
+{
+  "title": "HuaAMS at SemEval-2022 Task 8: Combining Translation and Domain Pre-training for Cross-lingual News Article Similarity",
+  "authors": [
+    "Sai Sandeep Sharma Chittilla",
+    "Talaat Khalil"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "French",
+    "English",
+    "Spanish",
+    "Italian",
+    "Polish",
+    "Russian",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.162",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.162/"
+}

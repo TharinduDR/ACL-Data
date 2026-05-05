@@ -1,0 +1,25 @@
+{
+  "title": "Pali at SemEval-2021 Task 2: Fine-Tune XLM-RoBERTa for Word in Context Disambiguation",
+  "authors": [
+    "Shuyi Xie",
+    "Jian Ma",
+    "Haiqin Yang",
+    "Lianxin Jiang",
+    "Yang Mo",
+    "Jianping Shen"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Russian",
+    "Chinese",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.semeval-1.93",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.93/"
+}

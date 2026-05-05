@@ -1,0 +1,26 @@
+{
+  "title": "NoahNMT at WMT 2021: Dual Transfer for Very Low Resource Supervised Machine Translation",
+  "authors": [
+    "Meng Zhang",
+    "Minghao Wu",
+    "Pengfei Li",
+    "Liangyou Li",
+    "Qun Liu"
+  ],
+  "languages": [
+    "Chuvash",
+    "Russian",
+    "Upper Sorbian",
+    "German",
+    "English",
+    "Czech",
+    "Kazakh"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.wmt-1.108",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.108/"
+}

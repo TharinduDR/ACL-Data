@@ -1,0 +1,19 @@
+{
+  "title": "MaskParse@Deskiñ at SemEval-2019 Task 1: Cross-lingual UCCA Semantic Parsing using Recursive Masked Sequence Tagging",
+  "authors": [
+    "Gabriel Marzinotto",
+    "Johannes Heinecke",
+    "Géraldine Damnati"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "S19-2015",
+  "acl_url": "https://aclanthology.org/S19-2015/"
+}

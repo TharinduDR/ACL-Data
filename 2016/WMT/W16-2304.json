@@ -1,0 +1,25 @@
+{
+  "title": "LIMSI@WMT'16: Machine Translation of News",
+  "authors": [
+    "Alexandre Allauzen",
+    "Lauriane Aufrant",
+    "Franck Burlot",
+    "Elena Knyazeva",
+    "Ophélie Lacroix",
+    "Thomas Lavergne",
+    "Guillaume Wisniewski",
+    "François Yvon"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Romanian",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W16-2304",
+  "acl_url": "https://aclanthology.org/W16-2304/"
+}

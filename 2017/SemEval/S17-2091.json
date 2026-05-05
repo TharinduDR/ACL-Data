@@ -1,0 +1,19 @@
+{
+  "title": "SemEval 2017 Task 10: ScienceIE - Extracting Keyphrases and Relations from Scientific Publications",
+  "authors": [
+    "Isabelle Augenstein",
+    "Mrinal Das",
+    "Sebastian Riedel",
+    "Lakshmi Vikraman",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "S17-2091",
+  "acl_url": "https://aclanthology.org/S17-2091/"
+}

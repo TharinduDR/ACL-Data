@@ -1,0 +1,27 @@
+{
+  "title": "SemEval-2018 Task 9: Hypernym Discovery",
+  "authors": [
+    "Jose Camacho-Collados",
+    "Claudio Delli Bovi",
+    "Luis Espinosa-Anke",
+    "Sergio Oramas",
+    "Tommaso Pasini",
+    "Enrico Santus",
+    "Vered Shwartz",
+    "Roberto Navigli",
+    "Horacio Saggion"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Spanish",
+    "Medical",
+    "Music"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S18-1115",
+  "acl_url": "https://aclanthology.org/S18-1115/"
+}

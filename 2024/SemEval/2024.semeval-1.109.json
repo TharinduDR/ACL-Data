@@ -1,0 +1,21 @@
+{
+  "title": "TECHSSN at SemEval-2024 Task 10: LSTM-based Approach for Emotion Detection in Multilingual Code-Mixed Conversations",
+  "authors": [
+    "Ravindran V",
+    "Shreejith Babu G",
+    "Aashika Jetti",
+    "Rajalakshmi Sivanaiah",
+    "Angel Deborah S",
+    "Miraline T T",
+    "Milton R S"
+  ],
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.semeval-1.109",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.109/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "A Shared Task on Bandit Learning for Machine Translation",
+  "authors": [
+    "Artem Sokolov",
+    "Julia Kreutzer",
+    "Kellen Sunderland",
+    "Pavel Danchenko",
+    "Witold Szymaniak",
+    "Hagen Fürstenau",
+    "Stefan Riezler"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W17-4756",
+  "acl_url": "https://aclanthology.org/W17-4756/"
+}

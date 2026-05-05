@@ -1,0 +1,29 @@
+{
+  "title": "Sakura at SemEval-2023 Task 2: Data Augmentation via Translation",
+  "authors": [
+    "Alberto Poncelas",
+    "Maksim Tkachenko",
+    "Ohnmar Htun"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Hindi",
+    "Bangla",
+    "Chinese",
+    "Swedish",
+    "Farsi",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Ukrainian",
+    "German"
+  ],
+  "research_areas": [
+    "T11",
+    "T14",
+    "T16"
+  ],
+  "paper_id": "2023.semeval-1.239",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.239/"
+}

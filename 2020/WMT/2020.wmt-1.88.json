@@ -1,0 +1,19 @@
+{
+  "title": "YerevaNN's Systems for WMT20 Biomedical Translation Task: The Effect of Fixing Misaligned Sentence Pairs",
+  "authors": [
+    "Karen Hambardzumyan",
+    "Hovhannes Tamoyan",
+    "Hrant Khachatrian"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.wmt-1.88",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.88/"
+}

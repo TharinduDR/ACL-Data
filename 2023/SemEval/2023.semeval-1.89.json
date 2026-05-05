@@ -1,0 +1,32 @@
+{
+  "title": "USTC-NELSLIP at SemEval-2023 Task 2: Statistical Construction and Dual Adaptation of Gazetteer for Multilingual Complex NER",
+  "authors": [
+    "Jun-Yu Ma",
+    "Jia-Chen Gu",
+    "Jiajun Qi",
+    "Zhen-Hua Ling",
+    "Quan Liu",
+    "Xiaoyi Zhao"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Hindi",
+    "Bengali",
+    "Spanish",
+    "French",
+    "German",
+    "Persian",
+    "Portuguese",
+    "Swedish",
+    "Ukrainian",
+    "Italian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.semeval-1.89",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.89/"
+}

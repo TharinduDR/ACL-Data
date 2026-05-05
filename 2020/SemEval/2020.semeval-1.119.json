@@ -1,0 +1,18 @@
+{
+  "title": "HinglishNLP: Fine-tuned Language Models for Hinglish Sentiment Detection",
+  "authors": [
+    "Meghana Bhangе",
+    "Nirant Kasliwal"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.semeval-1.119",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.119/"
+}

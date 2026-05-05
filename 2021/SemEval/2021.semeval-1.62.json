@@ -1,0 +1,23 @@
+{
+  "title": "MCL@IITK at SemEval-2021 Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation using Augmented Data, Signals, and Transformers",
+  "authors": [
+    "Rohan Gupta",
+    "Jay Mundra",
+    "Deepak Mahajan",
+    "Ashutosh Modi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Arabic",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2021.semeval-1.62",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.62/"
+}

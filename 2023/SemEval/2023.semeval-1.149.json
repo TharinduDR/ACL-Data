@@ -1,0 +1,25 @@
+{
+  "title": "Team ISCL_WINTER at SemEval-2023 Task 12: AfriSenti-SemEval: Sentiment Analysis for Low-resource African Languages using Twitter Dataset",
+  "authors": [
+    "Alina Hancharova",
+    "John Wang",
+    "Mayank Kumar"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Darija",
+    "Algerian Arabic",
+    "Hausa",
+    "Najja",
+    "Swahili",
+    "Amharic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.149",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.149/"
+}

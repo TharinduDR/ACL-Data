@@ -1,0 +1,25 @@
+{
+  "title": "YNU-HPCC at SemEval-2022 Task 8: Transformer-based Ensemble Model for Multilingual News Article Similarity",
+  "authors": [
+    "Zihan Nai",
+    "Jin Wang",
+    "Xuejie Zhang"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "French",
+    "Polish",
+    "Arabic",
+    "Portuguese",
+    "Cantonese",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.172",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.172/"
+}

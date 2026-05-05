@@ -1,0 +1,23 @@
+{
+  "title": "Investigating techniques for a deeper understanding of Neural Machine Translation (NMT) systems through data filtering and fine-tuning strategies",
+  "authors": [
+    "Lichao Zhu",
+    "Maria Zimina-Poirot",
+    "Maud Bénard",
+    "Behnoosh Namdar",
+    "Nicolas Ballier",
+    "Guillaume Wisniewski",
+    "Jean-Baptiste Yunès"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.wmt-1.28",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.28/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "CAILMD-23 at SemEval-2024 Task 1: Multilingual Evaluation of Semantic Textual Relatedness",
+  "authors": [
+    "Srushthi Sonavane",
+    "Sharvi Endait",
+    "Ridhima Sinare",
+    "Pritika Rohera",
+    "Advait Naik",
+    "Dipali Kadam"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Marathi",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2024.semeval-1.142",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.142/"
+}

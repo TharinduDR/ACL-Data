@@ -1,0 +1,21 @@
+{
+  "title": "Widening the Representation Bottleneck in Neural Machine Translation with Lexical Shortcuts",
+  "authors": [
+    "Denis Emelin",
+    "Ivan Titov",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Czech",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "W19-5211",
+  "acl_url": "https://aclanthology.org/W19-5211/"
+}

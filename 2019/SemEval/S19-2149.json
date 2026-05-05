@@ -1,0 +1,20 @@
+{
+  "title": "SemEval-2019 Task 8: Fact Checking in Community Question Answering Forums",
+  "authors": [
+    "Tsvetomila Mihaylova",
+    "Georgi Karadzhov",
+    "Pepa Atanasova",
+    "Ramy Baly",
+    "Mitra Mohtarami",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "S19-2149",
+  "acl_url": "https://aclanthology.org/S19-2149/"
+}

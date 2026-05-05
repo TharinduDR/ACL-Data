@@ -1,0 +1,19 @@
+{
+  "title": "SINAI at SemEval-2021 Task 5: Combining Embeddings in a BiLSTM-CRF model for Toxic Spans Detection",
+  "authors": [
+    "Flor Miriam Plaza-del-Arco",
+    "Pilar López-Úbeda",
+    "L. Alfonso Ureña-López",
+    "M. Teresa Martín-Valdivia"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11",
+    "T20",
+    "T23"
+  ],
+  "paper_id": "2021.semeval-1.134",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.134/"
+}

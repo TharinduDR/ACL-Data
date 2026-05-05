@@ -1,0 +1,33 @@
+{
+  "title": "Evaluating WMT 2025 Metrics Shared Task Submissions on the SSA-MTE African Challenge Set",
+  "authors": [
+    "Senyu Li",
+    "Felermino D. M. A. Ali",
+    "Jiayi Wang",
+    "Rui Sousa-Silva",
+    "Henrique Lopes Cardoso",
+    "Colin Cherry",
+    "David Ifeoluwa Adelani"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Portuguese",
+    "Amharic",
+    "Hausa",
+    "Kikuyu",
+    "Kinyarwanda",
+    "Luo",
+    "Twi",
+    "Yoruba",
+    "Ewe",
+    "Wolof",
+    "Nyanja"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.65",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.65/"
+}

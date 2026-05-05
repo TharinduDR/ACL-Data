@@ -1,0 +1,21 @@
+{
+  "title": "1Cademy at Semeval-2022 Task 1: Investigating the Effectiveness of Multilingual, Multitask, and Language-Agnostic Tricks for the Reverse Dictionary Task",
+  "authors": [
+    "Zhiyong Wang",
+    "Ge Zhang",
+    "Nineli Lashkarashvili"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.2",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.2/"
+}

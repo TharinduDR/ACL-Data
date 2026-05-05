@@ -1,0 +1,22 @@
+{
+  "title": "Alibaba Submission for WMT18 Quality Estimation Task",
+  "authors": [
+    "Jiayi Wang",
+    "Kai Fan",
+    "Bo Li",
+    "Fengming Zhou",
+    "Boxing Chen",
+    "Yangbin Shi",
+    "Luo Si"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-6465",
+  "acl_url": "https://aclanthology.org/W18-6465/"
+}

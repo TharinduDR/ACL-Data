@@ -1,0 +1,25 @@
+{
+  "title": "UvA-MT at WMT25 Evaluation Task: LLM Uncertainty as a Proxy for Translation Quality",
+  "authors": [
+    "Di Wu",
+    "Christof Monz"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Russian",
+    "Chinese",
+    "French",
+    "Indonesian",
+    "Portuguese",
+    "Korean",
+    "Italian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.72",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.72/"
+}

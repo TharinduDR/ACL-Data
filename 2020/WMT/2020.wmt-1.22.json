@@ -1,0 +1,24 @@
+{
+  "title": "SJTU-NICT's Supervised and Unsupervised Neural Machine Translation Systems for the WMT20 News Translation Task",
+  "authors": [
+    "Zuchao Li",
+    "Hai Zhao",
+    "Rui Wang",
+    "Kehai Chen",
+    "Masao Utiyama",
+    "Eiichiro Sumita"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Polish",
+    "German",
+    "Upper Sorbian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.wmt-1.22",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.22/"
+}

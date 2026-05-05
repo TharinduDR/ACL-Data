@@ -1,0 +1,18 @@
+{
+  "title": "Target-side Word Segmentation Strategies for Neural Machine Translation",
+  "authors": [
+    "Matthias Huck",
+    "Simon Riess",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W17-4706",
+  "acl_url": "https://aclanthology.org/W17-4706/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "HIT-MI&T Lab at SemEval-2024 Task 6: DeBERTa-based Entailment Model is a Reliable Hallucination Detector",
+  "authors": [
+    "Wei Liu",
+    "Wanyao Shi",
+    "Zijian Zhang",
+    "Hui Huang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.253",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.253/"
+}

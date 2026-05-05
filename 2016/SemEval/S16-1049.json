@@ -1,0 +1,21 @@
+{
+  "title": "GTI at SemEval-2016 Task 5: SVM and CRF for Aspect Detection and Unsupervised Aspect-Based Sentiment Analysis",
+  "authors": [
+    "Tamara Álvarez-López",
+    "Jonathan Juncal-Martínez",
+    "Milagros Fernández-Gavilanes",
+    "Enrique Costa-Montenegro",
+    "Francisco Javier González-Castaño"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "S16-1049",
+  "acl_url": "https://aclanthology.org/S16-1049/"
+}

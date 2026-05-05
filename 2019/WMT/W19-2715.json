@@ -1,0 +1,26 @@
+{
+  "title": "ToNy: Contextual embeddings for accurate multilingual discourse segmentation of full documents",
+  "authors": [
+    "Philippe Muller",
+    "Chloé Braud",
+    "Mathieu Morey"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Portuguese",
+    "German",
+    "Basque",
+    "Russian",
+    "Turkish",
+    "Dutch",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W19-2715",
+  "acl_url": "https://aclanthology.org/W19-2715/"
+}

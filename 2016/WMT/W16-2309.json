@@ -1,0 +1,20 @@
+{
+  "title": "NYU-MILA Neural Machine Translation Systems for WMT'16",
+  "authors": [
+    "Junyoung Chung",
+    "Kyunghyun Cho",
+    "Yoshua Bengio"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Russian",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W16-2309",
+  "acl_url": "https://aclanthology.org/W16-2309/"
+}

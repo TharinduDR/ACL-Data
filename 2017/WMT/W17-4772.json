@@ -1,0 +1,18 @@
+{
+  "title": "LIG-CRISTAL System for the WMT17 Automatic Post-Editing Task",
+  "authors": [
+    "Alexandre Bérard",
+    "Olivier Pietquin",
+    "Laurent Besacier"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W17-4772",
+  "acl_url": "https://aclanthology.org/W17-4772/"
+}

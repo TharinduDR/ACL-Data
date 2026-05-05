@@ -1,0 +1,20 @@
+{
+  "title": "UoR-NCL at SemEval-2022 Task 3: Fine-Tuning the BERT-Based Models for Validating Taxonomic Relations",
+  "authors": [
+    "Thanet Markchom",
+    "Huizhi Liang",
+    "Jiaoyan Chen"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.33",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.33/"
+}

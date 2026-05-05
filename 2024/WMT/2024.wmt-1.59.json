@@ -1,0 +1,27 @@
+{
+  "title": "Findings of the WMT 2024 Shared Task on Chat Translation",
+  "authors": [
+    "Wafaa Mohammed",
+    "Sweta Agrawal",
+    "M. Amin Farajian",
+    "Vera Cabarrão",
+    "Bryan Eikema",
+    "Ana C. Farinha",
+    "José G. C. de Souza"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Dutch",
+    "Korean",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2024.wmt-1.59",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.59/"
+}

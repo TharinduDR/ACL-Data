@@ -1,0 +1,25 @@
+{
+  "title": "BJTU-Toshiba's Submission to WMT22 Quality Estimation Shared Task",
+  "authors": [
+    "Hui Huang",
+    "Hui Di",
+    "Chunyou Li",
+    "Hanming Wu",
+    "Kazushige Oushi",
+    "Yufeng Chen",
+    "Jian Liu",
+    "Jin'an Xu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.wmt-1.58",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.58/"
+}

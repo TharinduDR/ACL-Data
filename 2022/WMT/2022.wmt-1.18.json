@@ -1,0 +1,22 @@
+{
+  "title": "Tencent AI Lab - Shanghai Jiao Tong University Low-Resource Translation System for the WMT22 Translation Task",
+  "authors": [
+    "Zhiwei He",
+    "Xing Wang",
+    "Zhaopeng Tu",
+    "Shuming Shi",
+    "Rui Wang"
+  ],
+  "languages": [
+    "English",
+    "Livonian",
+    "Estonian",
+    "Latvian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.wmt-1.18",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.18/"
+}

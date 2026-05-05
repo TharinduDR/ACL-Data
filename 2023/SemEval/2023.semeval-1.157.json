@@ -1,0 +1,26 @@
+{
+  "title": "SAB at SemEval-2023 Task 2: Does Linguistic Information Aid in Named Entity Recognition?",
+  "authors": [
+    "Siena Biales"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Hindi",
+    "Bangla",
+    "Chinese",
+    "Swedish",
+    "Persian",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Ukrainian",
+    "German"
+  ],
+  "research_areas": [
+    "T11",
+    "T21"
+  ],
+  "paper_id": "2023.semeval-1.157",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.157/"
+}

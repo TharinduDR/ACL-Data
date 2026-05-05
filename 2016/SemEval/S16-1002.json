@@ -1,0 +1,40 @@
+{
+  "title": "SemEval-2016 Task 5: Aspect Based Sentiment Analysis",
+  "authors": [
+    "Maria Pontiki",
+    "Dimitrios Galanis",
+    "Haris Papageorgiou",
+    "Ion Androutsopoulos",
+    "Suresh Manandhar",
+    "Mohammad AL-Smadi",
+    "Mahmoud Al-Ayyoub",
+    "Yanyan Zhao",
+    "Bing Qin",
+    "Orphée De Clercq",
+    "Véronique Hoste",
+    "Marianna Apidianaki",
+    "Xavier Tannier",
+    "Natalia Loukachevitch",
+    "Evgeny Kotelnikov",
+    "Nuria Bel",
+    "Salud María Jiménez-Zafra",
+    "Gülşen Eryigit"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "Dutch",
+    "French",
+    "Russian",
+    "Spanish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "S16-1002",
+  "acl_url": "https://aclanthology.org/S16-1002/"
+}

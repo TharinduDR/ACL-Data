@@ -1,0 +1,21 @@
+{
+  "title": "AIMA at SemEval-2024 Task 3: Simple Yet Powerful Emotion Cause Pair Analysis",
+  "authors": [
+    "Alireza Ghahramani Kure",
+    "Mahshid Dehghani",
+    "Mohammad Mahdi Abootorabi",
+    "Nona Ghazizadeh",
+    "Seyed Arshan Dalili",
+    "Ehsaneddin Asgari"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.semeval-1.243",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.243/"
+}

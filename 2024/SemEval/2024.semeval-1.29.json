@@ -1,0 +1,41 @@
+{
+  "title": "HausaNLP at SemEval-2024 Task 1: Textual Relatedness Analysis for Semantic Representation of Sentences",
+  "authors": [
+    "Saheed Abdullahi Salahudeen",
+    "Falalu Ibrahim Lawan",
+    "Aliyu Yusuf",
+    "Amina Abubakar Imam",
+    "Lukman Aliyu",
+    "Nur Bala Rabiu",
+    "Mahmoud Said Ahmad",
+    "Idi Mohammed",
+    "Aliyu Rabi Shuaibu",
+    "Alamin Musa",
+    "Auwal Shehu Ali",
+    "Zedong Nie"
+  ],
+  "languages": [
+    "English",
+    "Hausa",
+    "Amharic",
+    "Arabic",
+    "Algerian Arabic",
+    "Afrikaans",
+    "Indonesian",
+    "Kinyarwanda",
+    "Marathi",
+    "Moroccan Arabic",
+    "Punjabi",
+    "Spanish",
+    "Telugu",
+    "Hindi",
+    "Modern Standard Arabic"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.29",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.29/"
+}

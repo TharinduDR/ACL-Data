@@ -1,0 +1,22 @@
+{
+  "title": "Neural Machine Translation for English–Kazakh with Morphological Segmentation and Synthetic Data",
+  "authors": [
+    "Antonio Toral",
+    "Lukas Edman",
+    "Galiya Yeshmagambetova",
+    "Jennifer Spenader"
+  ],
+  "languages": [
+    "English",
+    "Kazakh",
+    "Russian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16",
+    "T21",
+    "T14"
+  ],
+  "paper_id": "W19-5343",
+  "acl_url": "https://aclanthology.org/W19-5343/"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "OPPO's Machine Translation Systems for WMT20",
+  "authors": [
+    "Tingxun Shi",
+    "Shiyu Zhao",
+    "Xiaopu Li",
+    "Xiaoxue Wang",
+    "Qian Zhang",
+    "Di Ai",
+    "Dawei Dang",
+    "Zhengshan Xue",
+    "Jie Hao"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Czech",
+    "Russian",
+    "French",
+    "German",
+    "Japanese",
+    "Khmer",
+    "Tamil",
+    "Pashto"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.wmt-1.30",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.30/"
+}

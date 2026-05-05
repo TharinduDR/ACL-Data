@@ -1,0 +1,24 @@
+{
+  "title": "CUNI Experiments for WMT17 Metrics Task",
+  "authors": [
+    "David Mareček",
+    "Ondřej Bojar",
+    "Ondřej Hůbsch",
+    "Rudolf Rosa",
+    "Dušan Variš"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Polish",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16",
+    "T21",
+    "T08"
+  ],
+  "paper_id": "W17-4769",
+  "acl_url": "https://aclanthology.org/W17-4769/"
+}

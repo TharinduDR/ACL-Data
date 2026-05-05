@@ -1,0 +1,24 @@
+{
+  "title": "SemEval-2016 Task 3: Community Question Answering",
+  "authors": [
+    "Preslav Nakov",
+    "Lluís Màrquez",
+    "Alessandro Moschitti",
+    "Walid Magdy",
+    "Hamdy Mubarak",
+    "Abed Alhakim Freihat",
+    "James Glass",
+    "Bilal Randeree"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S16-1083",
+  "acl_url": "https://aclanthology.org/S16-1083/"
+}

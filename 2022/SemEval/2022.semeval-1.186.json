@@ -1,0 +1,24 @@
+{
+  "title": "ECNU_ICA at SemEval-2022 Task 10: A Simple and Unified Model for Monolingual and Crosslingual Structured Sentiment Analysis",
+  "authors": [
+    "Qi Zhang",
+    "Jie Zhou",
+    "Qin Chen",
+    "Qingchun Bai",
+    "Jun Xiao",
+    "Liang He"
+  ],
+  "languages": [
+    "English",
+    "Basque",
+    "Catalan",
+    "Norwegian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11",
+    "T20"
+  ],
+  "paper_id": "2022.semeval-1.186",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.186/"
+}

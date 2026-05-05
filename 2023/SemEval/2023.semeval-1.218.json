@@ -1,0 +1,27 @@
+{
+  "title": "DSHacker at SemEval-2023 Task 3: Genres and Persuasion Techniques Detection with Multilingual Data Augmentation through Machine Translation and Text Generation",
+  "authors": [
+    "Arkadiusz Modzelewski",
+    "Witold Sosnowski",
+    "Magdalena Wilczynska",
+    "Adam Wierzbicki"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Polish",
+    "Russian",
+    "Spanish",
+    "Greek",
+    "Georgian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T20 Opinion & Argument Mining"
+  ],
+  "paper_id": "2023.semeval-1.218",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.218/"
+}

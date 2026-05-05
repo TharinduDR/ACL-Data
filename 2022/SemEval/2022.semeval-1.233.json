@@ -1,0 +1,28 @@
+{
+  "title": "MaChAmp at SemEval-2022 Tasks 2, 3, 4, 6, 10, 11, and 12: Multi-task Multi-lingual Learning for a Pre-selected Set of Semantic Datasets",
+  "authors": [
+    "Rob van der Goot"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "French",
+    "Arabic",
+    "Spanish",
+    "German",
+    "Cantonese",
+    "Chinese",
+    "Persian",
+    "Indonesian",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14",
+    "T11",
+    "T20"
+  ],
+  "paper_id": "2022.semeval-1.233",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.233/"
+}

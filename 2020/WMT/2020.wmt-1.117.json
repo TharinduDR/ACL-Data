@@ -1,0 +1,34 @@
+{
+  "title": "The NiuTrans System for the WMT20 Quality Estimation Shared Task",
+  "authors": [
+    "Chi Hu",
+    "Hui Liu",
+    "Kai Feng",
+    "Chen Xu",
+    "Zefan Zhou",
+    "Shiqin Yan",
+    "Yingfeng Luo",
+    "Chenglong Wang",
+    "Xia Meng",
+    "Nuo Xu",
+    "Tong Xiao",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Russian",
+    "Romanian",
+    "Estonian",
+    "Serbian",
+    "Slovenian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.117",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.117/"
+}

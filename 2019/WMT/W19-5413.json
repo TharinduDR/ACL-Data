@@ -1,0 +1,20 @@
+{
+  "title": "Unbabel's Submission to the WMT2019 APE Shared Task: BERT-based Encoder-Decoder for Automatic Post-Editing",
+  "authors": [
+    "António V. Lopes",
+    "M. Amin Farajian",
+    "Gonçalo M. Correia",
+    "Jonay Trenous",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W19-5413",
+  "acl_url": "https://aclanthology.org/W19-5413/"
+}

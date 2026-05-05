@@ -1,0 +1,23 @@
+{
+  "title": "TakeLab at SemEval-2016 Task 6: Stance Classification in Tweets Using a Genetic Algorithm Based Ensemble",
+  "authors": [
+    "Martin Tutek",
+    "Ivan Sekulić",
+    "Paula Gombar",
+    "Ivan Paljak",
+    "Filip Čulinović",
+    "Filip Boltužić",
+    "Vanja Mladen Karan",
+    "Domagoj Alagić",
+    "Jan Šnajder"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "S16-1075",
+  "acl_url": "https://aclanthology.org/S16-1075/"
+}

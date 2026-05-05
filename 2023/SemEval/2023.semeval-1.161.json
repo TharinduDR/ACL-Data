@@ -1,0 +1,22 @@
+{
+  "title": "Trinity at SemEval-2023 Task 12: Sentiment Analysis for Low-resource African Languages using Twitter Dataset",
+  "authors": [
+    "Shashank Rathi",
+    "Siddhesh Pande",
+    "Harshwardhan Atkare",
+    "Rahul Tangsali",
+    "Aditya Vyawahare",
+    "Dipali Kadam"
+  ],
+  "languages": [
+    "Hausa",
+    "Yoruba",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.161",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.161/"
+}

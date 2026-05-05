@@ -1,0 +1,21 @@
+{
+  "title": "Bhattacharya_Lab at SemEval-2023 Task 12: A Transformer-based Language Model for Sentiment Classification for Low Resource African Languages: Nigerian Pidgin and Yoruba",
+  "authors": [
+    "Nathaniel Hughes",
+    "Kevan Baker",
+    "Aditya Singh",
+    "Aryavardhan Singh",
+    "Tharalillah Dauda",
+    "Sutanu Bhattacharya"
+  ],
+  "languages": [
+    "Nigerian Pidgin",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14",
+    "T20"
+  ],
+  "paper_id": "2023.semeval-1.207",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.207/"
+}

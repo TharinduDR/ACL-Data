@@ -1,0 +1,43 @@
+{
+  "title": "HausaNLP at SemEval-2023 Task 12: Leveraging African Low Resource TweetData for Sentiment Analysis",
+  "authors": [
+    "Saheed Abdullahi Salahudeen",
+    "Falalu Ibrahim Lawan",
+    "Ahmad Mustapha Wali",
+    "Amina Abubakar Imam",
+    "Aliyu Rabi Shuaibu",
+    "Aliyu Yusuf",
+    "Nur Bala Rabiou",
+    "Musa Bello",
+    "Shamsudeen Umaru Adamu",
+    "Saminu Mohammad Aliyu",
+    "Murja Sani Gadanya",
+    "Sanah Abdullahi Muaz",
+    "Mahmoud Said Ahmad",
+    "Abdulkadir Abdullahi",
+    "Abdulmalik Yusuf Jamoh"
+  ],
+  "languages": [
+    "Arabic",
+    "Amharic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Darija",
+    "Naija",
+    "Mozambican Portuguese",
+    "Swahili",
+    "Xitsonga",
+    "Twi",
+    "Yoruba",
+    "Tigrinya",
+    "Oromo"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.6",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.6/"
+}

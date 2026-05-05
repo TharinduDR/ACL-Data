@@ -1,0 +1,33 @@
+{
+  "title": "Findings of the WMT 2023 Biomedical Translation Shared Task: Evaluation of ChatGPT 3.5 as a Comparison System",
+  "authors": [
+    "Mariana Neves",
+    "Antonio Jimeno Yepes",
+    "Aurélie Névéol",
+    "Rachel Bawden",
+    "Giorgio Maria Di Nunzio",
+    "Roland Roller",
+    "Philippe Thomas",
+    "Federica Vezzani",
+    "Maika Vicente Navarro",
+    "Lana Yeganova",
+    "Dina Wiemann",
+    "Cristian Grozea"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Russian",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.wmt-1.2",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.2/"
+}

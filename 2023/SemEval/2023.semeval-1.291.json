@@ -1,0 +1,19 @@
+{
+  "title": "CSECU-DSG at SemEval-2023 Task 6: Segmenting Legal Documents into Rhetorical Roles via Fine-tuned Transformer Architecture",
+  "authors": [
+    "Fareen Tasneem",
+    "Tashin Hossain",
+    "Jannatun Naim",
+    "Abu Nowshed Chy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T14 Language Modeling",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2023.semeval-1.291",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.291/"
+}

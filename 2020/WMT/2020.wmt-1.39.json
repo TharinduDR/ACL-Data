@@ -1,0 +1,20 @@
+{
+  "title": "Gender Coreference and Bias Evaluation at WMT 2020",
+  "authors": [
+    "Tom Kocmi",
+    "Tomasz Limisiewicz",
+    "Gabriel Stanovsky"
+  ],
+  "languages": [
+    "Czech",
+    "German",
+    "Polish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.wmt-1.39",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.39/"
+}

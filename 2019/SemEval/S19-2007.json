@@ -1,0 +1,23 @@
+{
+  "title": "SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter",
+  "authors": [
+    "Valerio Basile",
+    "Cristina Bosco",
+    "Elisabetta Fersini",
+    "Debora Nozza",
+    "Viviana Patti",
+    "Francisco Rangel",
+    "Paolo Rosso",
+    "Manuela Sanguinetti"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "S19-2007",
+  "acl_url": "https://aclanthology.org/S19-2007/"
+}

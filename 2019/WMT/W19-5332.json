@@ -1,0 +1,21 @@
+{
+  "title": "JU-Saarland Submission in the WMT2019 English–Gujarati Translation Shared Task",
+  "authors": [
+    "Riktim Mondal",
+    "Shankha Raj Nayek",
+    "Aditya Chowdhury",
+    "Santanu Pal",
+    "Sudip Kumar Naskar",
+    "Josef van Genabith"
+  ],
+  "languages": [
+    "English",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W19-5332",
+  "acl_url": "https://aclanthology.org/W19-5332/"
+}

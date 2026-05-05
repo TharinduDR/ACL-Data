@@ -1,0 +1,35 @@
+{
+  "title": "PingAnLifeInsurance at SemEval-2023 Task 12: Sentiment Analysis for Low-resource African Languages with Multi-Model Fusion",
+  "authors": [
+    "MeiZhi Jin",
+    "Cheng Chen",
+    "MengYuan Zhou",
+    "MengFei Yuan",
+    "XiaoLong Hou",
+    "XiYang Du",
+    "LianXin Jiang",
+    "JianYu Li"
+  ],
+  "languages": [
+    "English",
+    "Yoruba",
+    "Twi",
+    "Xitsonga",
+    "Swahili",
+    "Mozambique Portuguese",
+    "Nigerian Pidgin",
+    "Darija",
+    "Kinyarwanda",
+    "Igbo",
+    "Hausa",
+    "Algerian Arabic",
+    "Amharic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.93",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.93/"
+}

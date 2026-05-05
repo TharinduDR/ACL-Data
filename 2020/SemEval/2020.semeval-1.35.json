@@ -1,0 +1,24 @@
+{
+  "title": "Ferryman at SemEval-2020 Task 3: Bert with TFIDF-Weighting for Predicting the Effect of Context in Word Similarity",
+  "authors": [
+    "Weilong Chen",
+    "Xin Yuan",
+    "Sai Zhang",
+    "Jiehui Wu",
+    "Yanru Zhang",
+    "Yan Wang"
+  ],
+  "languages": [
+    "English",
+    "Croatian",
+    "Finnish",
+    "Slovene"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.semeval-1.35",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.35/"
+}

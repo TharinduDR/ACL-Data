@@ -1,0 +1,26 @@
+{
+  "title": "The AFRL-MITLL WMT17 Systems: Old, New, Borrowed, BLEU",
+  "authors": [
+    "Jeremy Gwinnup",
+    "Timothy Anderson",
+    "Grant Erdmann",
+    "Katherine Young",
+    "Michael Kazi",
+    "Elizabeth Salesky",
+    "Brian Thompson",
+    "Jonathan Taylor"
+  ],
+  "languages": [
+    "Russian",
+    "English",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W17-4728",
+  "acl_url": "https://aclanthology.org/W17-4728/"
+}

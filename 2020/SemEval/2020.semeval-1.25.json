@@ -1,0 +1,18 @@
+{
+  "title": "GloVeInit at SemEval-2020 Task 1: Using GloVe Vector Initialization for Unsupervised Lexical Semantic Change Detection",
+  "authors": [
+    "Vaibhav Jain"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Latin",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.semeval-1.25",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.25/"
+}

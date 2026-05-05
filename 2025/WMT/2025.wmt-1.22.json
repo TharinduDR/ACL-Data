@@ -1,0 +1,46 @@
+{
+  "title": "Findings of the WMT25 General Machine Translation Shared Task: Time to Stop Evaluating on Easy Test Sets",
+  "authors": [
+    "Tom Kocmi",
+    "Ekaterina Artemova",
+    "Eleftherios Avramidis",
+    "Rachel Bawden",
+    "Ondřej Bojar",
+    "Konstantin Dranch",
+    "Anton Dvorkovich",
+    "Sergey Dukanov",
+    "Mark Fishel",
+    "Markus Freitag",
+    "Thamme Gowda",
+    "Roman Grundkiewicz",
+    "Barry Haddow",
+    "Marzena Karpinska",
+    "Philipp Koehn",
+    "Howard Lakougn",
+    "Jessica M. Lundin",
+    "Christof Monz",
+    "Kenton Murray",
+    "Masaaki Nagata",
+    "Stefano Perrella",
+    "Lorenzo Proietti",
+    "Martin Popel",
+    "Maja Popović",
+    "Parker Riley",
+    "Mariya Shmatova",
+    "Steinpór Steingrímsson",
+    "Lisa Yankovskaya",
+    "Vilém Zouhar"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.22",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.22/"
+}

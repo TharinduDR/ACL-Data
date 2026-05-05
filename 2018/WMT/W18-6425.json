@@ -1,0 +1,22 @@
+{
+  "title": "The University of Helsinki submissions to the WMT18 news task",
+  "authors": [
+    "Alessandro Raganato",
+    "Yves Scherrer",
+    "Tommi Nieminen",
+    "Arvi Hurskainen",
+    "Jörg Tiedemann"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Estonian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W18-6425",
+  "acl_url": "https://aclanthology.org/W18-6425/"
+}

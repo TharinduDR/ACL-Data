@@ -1,0 +1,25 @@
+{
+  "title": "MT-Speech at SemEval-2022 Task 10: Incorporating Data Augmentation and Auxiliary Task with Cross-Lingual Pretrained Language Model for Structured Sentiment Analysis",
+  "authors": [
+    "Cong Chen",
+    "Jiansong Chen",
+    "Cao Liu",
+    "Fan Yang",
+    "Guanglu Wan",
+    "Jinxiong Xia"
+  ],
+  "languages": [
+    "English",
+    "Catalan",
+    "Basque",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T10",
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2022.semeval-1.185",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.185/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Augustine Of Hippo at SemEval-2023 Task 4: An Explainable Knowledge Extraction Method to Identify Human Values in Arguments with SuperASKE",
+  "authors": [
+    "Alfio Ferrara",
+    "Sergio Picascia",
+    "Elisabetta Rocchetti"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.semeval-1.143",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.143/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Improving Similar Language Translation With Transfer Learning",
+  "authors": [
+    "Ife Adebara",
+    "Muhammad Abdul-Mageed"
+  ],
+  "languages": [
+    "Spanish",
+    "Catalan",
+    "Portuguese",
+    "French",
+    "Bambara"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.wmt-1.27",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.27/"
+}

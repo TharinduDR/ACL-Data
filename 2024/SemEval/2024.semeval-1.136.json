@@ -1,0 +1,21 @@
+{
+  "title": "Infrd.ai at SemEval-2024 Task 7: RAG-based end-to-end training to generate headlines and numbers",
+  "authors": [
+    "JiangLong He",
+    "Saiteja Tallam",
+    "Srirama Nakshathri",
+    "Navaneeth Amarnath",
+    "Pratiba KR",
+    "Deepak Kumar"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.semeval-1.136",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.136/"
+}

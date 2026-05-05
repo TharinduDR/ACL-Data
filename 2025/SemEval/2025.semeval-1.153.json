@@ -1,0 +1,27 @@
+{
+  "title": "ipezoTU at SemEval-2025 Task 7: Hybrid Ensemble Retrieval for Multilingual Fact-Checking",
+  "authors": [
+    "Iva Pezo",
+    "Allan Hanbury",
+    "Moritz Staudinger"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French",
+    "German",
+    "Malay",
+    "Portuguese",
+    "Spanish",
+    "Thai",
+    "Polish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T15 Lexicon and Semantics",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.semeval-1.153",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.153/"
+}

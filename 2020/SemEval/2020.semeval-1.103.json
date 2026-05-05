@@ -1,0 +1,23 @@
+{
+  "title": "kk2018 at SemEval-2020 Task 9: Adversarial Training for Code-Mixing Sentiment Classification",
+  "authors": [
+    "Jiaxiang Liu",
+    "Xuyi Chen",
+    "Shikun Feng",
+    "Shuohuan Wang",
+    "Xuan Ouyang",
+    "Yu Sun",
+    "Zhengjie Huang",
+    "Weiyue Su"
+  ],
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2020.semeval-1.103",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.103/"
+}

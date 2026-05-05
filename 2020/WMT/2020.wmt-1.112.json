@@ -1,0 +1,21 @@
+{
+  "title": "Volctrans Parallel Corpus Filtering System for WMT 2020",
+  "authors": [
+    "Runxin Xu",
+    "Zhuo Zhi",
+    "Jun Cao",
+    "Mingxuan Wang",
+    "Lei Li"
+  ],
+  "languages": [
+    "English",
+    "Khmer",
+    "Pashto"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.wmt-1.112",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.112/"
+}

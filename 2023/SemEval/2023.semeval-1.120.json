@@ -1,0 +1,30 @@
+{
+  "title": "GunadarmaXBRIN at SemEval-2023 Task 12: Utilization of SVM and AfriBERTa for Monolingual, Multilingual, and Zero-shot Sentiment Analysis in African Languages",
+  "authors": [
+    "Novitasari Arlim",
+    "Slamet Riyanto",
+    "Rodiah Rodiah",
+    "Al Hafiz Akbar Maulana Siagian"
+  ],
+  "languages": [
+    "Amharic",
+    "Algerian Arabic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Moroccan Arabic/Darija",
+    "Nigerian Pidgin",
+    "Swahili",
+    "Xitsonga",
+    "Twi",
+    "Yoruba",
+    "Oromo",
+    "Mozambican Portuguese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.semeval-1.120",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.120/"
+}

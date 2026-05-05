@@ -1,0 +1,18 @@
+{
+  "title": "CMNEROne at SemEval-2022 Task 11: Code-Mixed Named Entity Recognition by leveraging multilingual data",
+  "authors": [
+    "Suman Dowlagar",
+    "Radhika Mamidi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Dravidian"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2022.semeval-1.214",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.214/"
+}

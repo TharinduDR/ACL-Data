@@ -1,0 +1,22 @@
+{
+  "title": "NTUA-SLP at SemEval-2018 Task 3: Tracking Ironic Tweets using Ensembles of Word and Character Level Attentive RNNs",
+  "authors": [
+    "Christos Baziotis",
+    "Nikos Athanasiou",
+    "Pinelopi Papalampidi",
+    "Athanasia Kolovou",
+    "Georgios Paraskevopoulos",
+    "Nikolaos Ellinas",
+    "Alexandros Potamianos"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "S18-1100",
+  "acl_url": "https://aclanthology.org/S18-1100/"
+}

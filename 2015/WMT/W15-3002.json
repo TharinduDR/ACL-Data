@@ -1,0 +1,19 @@
+{
+  "title": "Statistical Machine Translation with Automatic Identification of Translationese",
+  "authors": [
+    "Naama Twitto-Shmuel",
+    "Noam Ordan",
+    "Shuly Wintner"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W15-3002",
+  "acl_url": "https://aclanthology.org/W15-3002/"
+}

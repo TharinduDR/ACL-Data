@@ -1,0 +1,24 @@
+{
+  "title": "Multi-lingual and Cross-genre Discourse Unit Segmentation",
+  "authors": [
+    "Peter Bourgonje",
+    "Robin Schäfer"
+  ],
+  "languages": [
+    "Chinese",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T05 Discourse and Pragmatics"
+  ],
+  "paper_id": "W19-2714",
+  "acl_url": "https://aclanthology.org/W19-2714/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "DeepPavlov at SemEval-2024 Task 6: Detection of Hallucinations and Overgeneration Mistakes with an Ensemble of Transformer-based Models",
+  "authors": [
+    "Ivan Maksimov",
+    "Vasily Konovalov",
+    "Andrei Glinskii"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T28",
+    "T08",
+    "T14"
+  ],
+  "paper_id": "2024.semeval-1.42",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.42/"
+}

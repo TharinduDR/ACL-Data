@@ -1,0 +1,39 @@
+{
+  "title": "Findings of the WMT 2022 Biomedical Translation Shared Task: Monolingual Clinical Case Reports",
+  "authors": [
+    "Mariana Neves",
+    "Antonio Jimeno Yepes",
+    "Amy Siu",
+    "Roland Roller",
+    "Philippe Thomas",
+    "Maika Vicente Navarro",
+    "Lana Yeganova",
+    "Dina Wiemann",
+    "Giorgio Maria Di Nunzio",
+    "Federica Vezzani",
+    "Christel Gerardin",
+    "Rachel Bawden",
+    "Darryl Johan Estrada",
+    "Salvador Lima-López",
+    "Eulàlia Farré-Maduell",
+    "Martin Krallinger",
+    "Cristian Grozea",
+    "Aurélie Névél"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.wmt-1.69",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.69/"
+}

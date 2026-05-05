@@ -1,0 +1,27 @@
+{
+  "title": "HW-TSC at SemEval-2023 Task 7: Exploring the Natural Language Inference Capabilities of ChatGPT and Pre-trained Language Model for Clinical Trial",
+  "authors": [
+    "Xiaofeng Zhao",
+    "Min Zhang",
+    "MiaoMiao Ma",
+    "Chang Su",
+    "Yilun Liu",
+    "Minghan Wang",
+    "Xiaosong Qiao",
+    "Jiaxin Guo",
+    "Yinglu Li",
+    "Wenbing Ma",
+    "Shimin Tao",
+    "Hao Yang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2023.semeval-1.221",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.221/"
+}

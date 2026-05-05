@@ -1,0 +1,19 @@
+{
+  "title": "DTSim at SemEval-2016 Task 1: Semantic Similarity Model Including Multi-Level Alignment and Vector-Based Compositional Semantics",
+  "authors": [
+    "Rajendra Banjade",
+    "Nabin Maharjan",
+    "Dipesh Gautam",
+    "Vasile Rus"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S16-1097",
+  "acl_url": "https://aclanthology.org/S16-1097/"
+}

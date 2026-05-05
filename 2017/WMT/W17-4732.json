@@ -1,0 +1,22 @@
+{
+  "title": "NRC Machine Translation System for WMT 2017",
+  "authors": [
+    "Chi-kiu Lo",
+    "Boxing Chen",
+    "Colin Cherry",
+    "George Foster",
+    "Samuel Larkin",
+    "Darlene Stewart",
+    "Roland Kuhn"
+  ],
+  "languages": [
+    "Russian",
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W17-4732",
+  "acl_url": "https://aclanthology.org/W17-4732/"
+}

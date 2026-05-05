@@ -1,0 +1,28 @@
+{
+  "title": "CKingCoder at SemEval-2023 Task 9: Multilingual Tweet Intimacy Analysis",
+  "authors": [
+    "Harish Kumar B",
+    "Naveen D",
+    "Prem B",
+    "Aarthi S"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "Portuguese",
+    "Spanish",
+    "Italian",
+    "Dutch",
+    "Arabic",
+    "Hindi",
+    "Korean"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.semeval-1.276",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.276/"
+}

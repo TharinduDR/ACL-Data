@@ -1,0 +1,42 @@
+{
+  "title": "OpenWHO: A Document-Level Parallel Corpus for Health Translation in Low-Resource Languages",
+  "authors": [
+    "Raphaël Merx",
+    "Hanna Suominen",
+    "Trevor Cohn",
+    "Ekaterina Vylomova"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "French",
+    "Russian",
+    "Georgian",
+    "Armenian",
+    "Azerbaijani",
+    "Ukrainian",
+    "Turkish",
+    "Tetun",
+    "Dutch",
+    "Albanian",
+    "Kazakh",
+    "Chinese",
+    "Spanish",
+    "Indonesian",
+    "Portuguese",
+    "Somali",
+    "Sinhala",
+    "Tamil",
+    "Persian",
+    "Hindi",
+    "Amharic",
+    "Marathi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.8",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.8/"
+}

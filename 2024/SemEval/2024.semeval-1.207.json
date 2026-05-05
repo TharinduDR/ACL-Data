@@ -1,0 +1,27 @@
+{
+  "title": "IITK at SemEval-2024 Task 1: Contrastive Learning and Autoencoders for Semantic Textual Relatedness in Multilingual Texts",
+  "authors": [
+    "Udvas Basak",
+    "Rajarshi Dutta",
+    "Shivam Pandey",
+    "Ashutosh Modi"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "Hausa",
+    "Kinyarwanda",
+    "Moroccan Arabic",
+    "Spanish",
+    "Algerian Arabic",
+    "Marathi",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.207",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.207/"
+}

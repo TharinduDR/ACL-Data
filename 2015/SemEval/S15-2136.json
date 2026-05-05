@@ -1,0 +1,20 @@
+{
+  "title": "SemEval-2015 Task 6: Clinical TempEval",
+  "authors": [
+    "Steven Bethard",
+    "Leon Derczynski",
+    "Guergana Savova",
+    "James Pustejovsky",
+    "Marc Verhagen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S15-2136",
+  "acl_url": "https://aclanthology.org/S15-2136/"
+}

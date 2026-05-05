@@ -1,0 +1,21 @@
+{
+  "title": "ECNU-SenseMaker at SemEval-2020 Task 4: Leveraging Heterogeneous Knowledge Resources for Commonsense Validation and Explanation",
+  "authors": [
+    "Qian Zhao",
+    "Siyu Tao",
+    "Jie Zhou",
+    "Linlin Wang",
+    "Xin Lin",
+    "Liang He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2020.semeval-1.48",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.48/"
+}

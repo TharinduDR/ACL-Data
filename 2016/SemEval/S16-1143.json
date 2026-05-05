@@ -1,0 +1,18 @@
+{
+  "title": "UW-CSE at SemEval-2016 Task 10: Detecting Multiword Expressions and Supersenses using Double-Chained Conditional Random Fields",
+  "authors": [
+    "Mohammad Javad Hosseini",
+    "Noah A. Smith",
+    "Su-In Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "S16-1143",
+  "acl_url": "https://aclanthology.org/S16-1143/"
+}

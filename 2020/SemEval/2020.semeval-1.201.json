@@ -1,0 +1,23 @@
+{
+  "title": "FBK-DH at SemEval-2020 Task 12: Using Multi-channel BERT for Multilingual Offensive Language Detection",
+  "authors": [
+    "Camilla Casula",
+    "Alessio Palmero Aprosio",
+    "Stefano Menini",
+    "Sara Tonelli"
+  ],
+  "languages": [
+    "English",
+    "Danish",
+    "Turkish",
+    "Arabic",
+    "Greek"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.semeval-1.201",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.201/"
+}

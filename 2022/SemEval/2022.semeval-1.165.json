@@ -1,0 +1,26 @@
+{
+  "title": "OversampledML at SemEval-2022 Task 8: When multilingual news similarity met Zero-shot approaches",
+  "authors": [
+    "Mayank Jobanputra",
+    "Lorena Martín Rodríguez"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Turkish",
+    "Polish",
+    "Arabic",
+    "Chinese",
+    "Italian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.165",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.165/"
+}

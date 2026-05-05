@@ -1,0 +1,26 @@
+{
+  "title": "NAP at SemEval-2023 Task 3: Is Less Really More? (Back-)Translation as Data Augmentation Strategies for Detecting Persuasion Techniques",
+  "authors": [
+    "Neele Falk",
+    "Annerose Eichel",
+    "Prisca Piccirilli"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Russian",
+    "German",
+    "Polish",
+    "Spanish",
+    "Greek",
+    "Georgian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T20 Opinion & Argument Mining"
+  ],
+  "paper_id": "2023.semeval-1.198",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.198/"
+}

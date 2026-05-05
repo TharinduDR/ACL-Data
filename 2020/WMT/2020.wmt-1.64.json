@@ -1,0 +1,20 @@
+{
+  "title": "Subword Segmentation and a Single Bridge Language Affect Zero-Shot Neural Machine Translation",
+  "authors": [
+    "Annette Rios",
+    "Mathias Müller",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Czech",
+    "German",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.wmt-1.64",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.64/"
+}

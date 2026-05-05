@@ -1,0 +1,40 @@
+{
+  "title": "Findings of the WMT 2021 Biomedical Translation Shared Task: Summaries of Animal Experiments as New Test Set",
+  "authors": [
+    "Lana Yeganova",
+    "Dina Wiemann",
+    "Mariana Neves",
+    "Federica Vezzani",
+    "Amy Siu",
+    "Iñigo Jauregi Unanue",
+    "Maite Oronoz",
+    "Nancy Mah",
+    "Aurélie Névél",
+    "David Martinez",
+    "Rachel Bawden",
+    "Giorgio Maria Di Nunzio",
+    "Roland Roller",
+    "Philippe Thomas",
+    "Cristian Grozea",
+    "Olatz Perez de Viñaspre",
+    "Maika Vicente Navarro",
+    "Antonio Jimeno Yepes"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Russian",
+    "Chinese",
+    "Basque"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.wmt-1.70",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.70/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "NLP-LISAC at SemEval-2023 Task 12: Sentiment Analysis for Tweets expressed in African languages via Transformer-based Models",
+  "authors": [
+    "Abdessamad Benlahbib",
+    "Achraf Boumhidi"
+  ],
+  "languages": [
+    "Arabic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Mozambican Portuguese",
+    "Swahili",
+    "Twi",
+    "Xitsonga",
+    "Yoruba",
+    "Amharic",
+    "Moroccan Arabic/Darija",
+    "Nigerian Pidgin",
+    "Tigrinya",
+    "Oromo"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.28",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.28/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "LIPN at SemEval-2017 Task 10: Filtering Candidate Keyphrases from Scientific Publications with Part-of-Speech Tag Sequences to Train a Sequence Labeling Model",
+  "authors": [
+    "Simon David Hernandez",
+    "Davide Buscaldi",
+    "Thierry Charnois"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11",
+    "T21"
+  ],
+  "paper_id": "S17-2174",
+  "acl_url": "https://aclanthology.org/S17-2174/"
+}

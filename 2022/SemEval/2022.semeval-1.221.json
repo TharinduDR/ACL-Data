@@ -1,0 +1,30 @@
+{
+  "title": "CMB AI Lab at SemEval-2022 Task 11: A Two-Stage Approach for Complex Named Entity Recognition via Span Boundary Detection and Span Classification",
+  "authors": [
+    "Keyu PU",
+    "Hongyi LIU",
+    "Yixiao YANG",
+    "Jiangzhou JI",
+    "Wenyi LV",
+    "Yaohan HE"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Dutch",
+    "Russian",
+    "Turkish",
+    "Korean",
+    "Persian",
+    "German",
+    "Chinese",
+    "Hindi",
+    "Bangla"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2022.semeval-1.221",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.221/"
+}

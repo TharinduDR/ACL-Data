@@ -1,0 +1,26 @@
+{
+  "title": "The SPECTRANS System Description for the WMT21 Terminology Task",
+  "authors": [
+    "Nicolas Ballier",
+    "Dahn Cho",
+    "Bilal Faye",
+    "Zong-You Ke",
+    "Hanna Martikainen",
+    "Mojca Pecman",
+    "Jean-Baptiste Yunès",
+    "Guillaume Wisniewski",
+    "Lichao Zhu",
+    "Maria Zimina-Poirot"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.wmt-1.80",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.80/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Team TheSyllogist at SemEval-2023 Task 3: Language-Agnostic Framing Detection in Multi-Lingual Online News: A Zero-Shot Transfer Approach",
+  "authors": [
+    "Osama Mohammed Afzal",
+    "Preslav Nakov"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Russian",
+    "Polish",
+    "Italian",
+    "German",
+    "Spanish",
+    "Georgian",
+    "Greek"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2023.semeval-1.283",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.283/"
+}

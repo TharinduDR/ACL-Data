@@ -1,0 +1,27 @@
+{
+  "title": "CAIR-NLP at SemEval-2023 Task 2: A Multi-Objective Joint Learning System for Named Entity Recognition",
+  "authors": [
+    "Sangeeth N",
+    "Biswajit Paul",
+    "Chandramani Chaudhary"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Swedish",
+    "Ukrainian",
+    "Farsi",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Chinese",
+    "Hindi",
+    "Bangla"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2023.semeval-1.265",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.265/"
+}

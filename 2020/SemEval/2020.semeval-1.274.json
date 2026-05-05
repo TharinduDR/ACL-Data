@@ -1,0 +1,21 @@
+{
+  "title": "LIIR at SemEval-2020 Task 12: A Cross-Lingual Augmentation Approach for Multilingual Offensive Language Identification",
+  "authors": [
+    "Erfan Ghadery",
+    "Marie-Francine Moens"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Arabic",
+    "Greek",
+    "Danish"
+  ],
+  "research_areas": [
+    "T20",
+    "T14",
+    "T23"
+  ],
+  "paper_id": "2020.semeval-1.274",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.274/"
+}

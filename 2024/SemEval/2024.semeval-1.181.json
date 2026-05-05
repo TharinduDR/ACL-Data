@@ -1,0 +1,18 @@
+{
+  "title": "FtG-CoT at SemEval-2024 Task 9: Solving Sentence Puzzles Using Fine-Tuned Language Models and Zero-Shot CoT Prompting",
+  "authors": [
+    "Micah Zhang",
+    "Shafiuuddin Rehan Ahmed",
+    "James H. Martin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2024.semeval-1.181",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.181/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "GF Wide-coverage English-Finnish MT system for WMT 2015",
+  "authors": [
+    "Prasanth Kolachina",
+    "Aarne Ranta"
+  ],
+  "languages": [
+    "English",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W15-3015",
+  "acl_url": "https://aclanthology.org/W15-3015/"
+}

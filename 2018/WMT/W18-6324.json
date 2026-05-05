@@ -1,0 +1,38 @@
+{
+  "title": "Massively Parallel Cross-Lingual Learning in Low-Resource Target Language Translation",
+  "authors": [
+    "Zhong Zhou",
+    "Matthias Sperber",
+    "Alex Waibel"
+  ],
+  "languages": [
+    "English",
+    "Swedish",
+    "German",
+    "Danish",
+    "Dutch",
+    "Norwegian",
+    "Czech",
+    "Polish",
+    "Russian",
+    "Ukrainian",
+    "Spanish",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Greek",
+    "Latin",
+    "Finnish",
+    "Hungarian",
+    "Welsh",
+    "Albanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "W18-6324",
+  "acl_url": "https://aclanthology.org/W18-6324/"
+}

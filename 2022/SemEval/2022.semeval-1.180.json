@@ -1,0 +1,27 @@
+{
+  "title": "SemEval 2022 Task 10: Structured Sentiment Analysis",
+  "authors": [
+    "Jeremy Barnes",
+    "Laura Oberländer",
+    "Enrica Troiano",
+    "Andrey Kutuzov",
+    "Jan Buchmann",
+    "Rodrigo Agerri",
+    "Lilja Øvrelid",
+    "Erik Velldal"
+  ],
+  "languages": [
+    "English",
+    "Catalan",
+    "Basque",
+    "Spanish",
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.semeval-1.180",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.180/"
+}

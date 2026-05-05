@@ -1,0 +1,22 @@
+{
+  "title": "Cross-lingual Human-Preference Alignment for Neural Machine Translation with Direct Quality Optimization",
+  "authors": [
+    "Kaden Uhlig",
+    "Joern Wübker",
+    "John DeNero",
+    "Raphael Reinauer"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "Hindi",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.wmt-1.2",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.2/"
+}

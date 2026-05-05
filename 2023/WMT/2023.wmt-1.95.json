@@ -1,0 +1,21 @@
+{
+  "title": "Trained MT Metrics Learn to Cope with Machine-translated References",
+  "authors": [
+    "Jannis Vamvas",
+    "Tobias Domhan",
+    "Sony Trenous",
+    "Rico Sennrich",
+    "Eva Hasler"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.wmt-1.95",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.95/"
+}

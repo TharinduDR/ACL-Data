@@ -1,0 +1,18 @@
+{
+  "title": "NER4ID at SemEval-2022 Task 2: Named Entity Recognition for Idiomaticity Detection",
+  "authors": [
+    "Simone Tedeschi",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Galician"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.semeval-1.25",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.25/"
+}

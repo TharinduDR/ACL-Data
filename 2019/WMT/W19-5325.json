@@ -1,0 +1,36 @@
+{
+  "title": "The NiuTrans Machine Translation Systems for WMT19",
+  "authors": [
+    "Bei Li",
+    "Yinqiao Li",
+    "Chen Xu",
+    "Ye Lin",
+    "Jiqiang Liu",
+    "Hui Liu",
+    "Ziyang Wang",
+    "Yuhao Zhang",
+    "Nuo Xu",
+    "Zeyang Wang",
+    "Kai Feng",
+    "Hexuan Chen",
+    "Tengbo Liu",
+    "Yanyang Li",
+    "Qiang Wang",
+    "Tong Xiao",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Russian",
+    "Korean",
+    "Lithuanian",
+    "Cantonese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W19-5325",
+  "acl_url": "https://aclanthology.org/W19-5325/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Huawei AARC's Submissions to the WMT21 Biomedical Translation Task: Domain Adaptation from a Practical Perspective",
+  "authors": [
+    "Weixuan Wang",
+    "Wei Peng",
+    "Xupeng Meng",
+    "Qun Liu"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.wmt-1.88",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.88/"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "HW-TSC's submissions to the WMT 2025 Segment-level quality score prediction Task",
+  "authors": [
+    "Yuanchang Luo",
+    "Jiaxin GUO",
+    "Daimeng Wei",
+    "Hengchao Shang",
+    "Zongyao Li",
+    "Zhiqiang Rao",
+    "Jinlong Yang",
+    "Zhanglin Wu",
+    "Xiaoyu Chen",
+    "Hao Yang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Czech",
+    "Korean",
+    "Italian",
+    "Estonian",
+    "Bulgarian",
+    "Serbian",
+    "Russian",
+    "Japanese",
+    "Arabic",
+    "UK English",
+    "Malay",
+    "Croatian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.71",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.71/"
+}

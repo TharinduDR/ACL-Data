@@ -1,0 +1,21 @@
+{
+  "title": "KEIS@JUST at SemEval-2020 Task 12: Identifying Multilingual Offensive Tweets Using Weighted Ensemble and Fine-Tuned BERT",
+  "authors": [
+    "Saja Khaled Tawalbeh",
+    "Mahmoud Hammad",
+    "Mohammad AL-Smadi"
+  ],
+  "languages": [
+    "Arabic",
+    "Danish",
+    "Greek",
+    "Turkish",
+    "English"
+  ],
+  "research_areas": [
+    "T20",
+    "T23"
+  ],
+  "paper_id": "2020.semeval-1.269",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.269/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "MALTO at SemEval-2025 Task 3: Detecting Hallucinations in LLMs via Uncertainty Quantification and Larger Model Validation",
+  "authors": [
+    "Claudio Savelli",
+    "Alkis Koudounas",
+    "Flavio Giobergia"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.semeval-1.175",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.175/"
+}

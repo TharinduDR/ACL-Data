@@ -1,0 +1,32 @@
+{
+  "title": "GreyBox at SemEval-2024 Task 4: Progressive Fine-tuning (for Multilingual Detection of Propaganda Techniques)",
+  "authors": [
+    "Nathan Roll",
+    "Calbert Graham"
+  ],
+  "languages": [
+    "English",
+    "Bulgarian",
+    "North Macedonian",
+    "Spanish",
+    "French",
+    "Haitian Creole",
+    "Turkish",
+    "Finnish",
+    "Chinese",
+    "Swahili",
+    "Hindi",
+    "Arabic",
+    "Yoruba",
+    "Tamil",
+    "Burmese",
+    "Amharic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.semeval-1.127",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.127/"
+}

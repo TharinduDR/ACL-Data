@@ -1,0 +1,28 @@
+{
+  "title": "WueDevils at SemEval-2022 Task 8: Multilingual News Article Similarity via Pair-Wise Sentence Similarity Matrices",
+  "authors": [
+    "Dirk Wangsadirdja",
+    "Felix Heinickel",
+    "Simon Trapp",
+    "Albin Zehe",
+    "Konstantin Kobs",
+    "Andreas Hotho"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Turkish",
+    "Polish",
+    "French",
+    "Arabic",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.semeval-1.175",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.175/"
+}

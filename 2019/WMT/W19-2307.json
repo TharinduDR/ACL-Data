@@ -1,0 +1,21 @@
+{
+  "title": "Bilingual-GAN: A Step Towards Parallel Text Generation",
+  "authors": [
+    "Ahmad Rashid",
+    "Alan Do-Omri",
+    "Md. Akmal Haidar",
+    "Qun Liu",
+    "Mehdi Rezagholizadeh"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "W19-2307",
+  "acl_url": "https://aclanthology.org/W19-2307/"
+}

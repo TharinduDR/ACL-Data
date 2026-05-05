@@ -1,0 +1,22 @@
+{
+  "title": "KInIT at SemEval-2024 Task 8: Fine-tuned LLMs for Multilingual Machine-Generated Text Detection",
+  "authors": [
+    "Michal Spiegel",
+    "Dominik Macko"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Chinese",
+    "English",
+    "German",
+    "Indonesian",
+    "Russian",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T28"
+  ],
+  "paper_id": "2024.semeval-1.84",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.84/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Fast Interleaved Bidirectional Sequence Generation",
+  "authors": [
+    "Biao Zhang",
+    "Ivan Titov",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Romanian",
+    "Russian",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14",
+    "T16",
+    "T18"
+  ],
+  "paper_id": "2020.wmt-1.62",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.62/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "A Closer Look at Transformer Attention for Multilingual Translation",
+  "authors": [
+    "Jingyi Zhang",
+    "Hongfei Xu",
+    "Kehai Chen",
+    "Gerard de Melo"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "Romanian",
+    "English"
+  ],
+  "research_areas": [
+    "T12",
+    "T16"
+  ],
+  "paper_id": "2023.wmt-1.45",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.45/"
+}

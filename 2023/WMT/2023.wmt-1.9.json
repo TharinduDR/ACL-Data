@@ -1,0 +1,19 @@
+{
+  "title": "SKIM at WMT 2023 General Translation Task",
+  "authors": [
+    "Keito Kudo",
+    "Takumi Ito",
+    "Makoto Morishita",
+    "Jun Suzuki"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2023.wmt-1.9",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.9/"
+}

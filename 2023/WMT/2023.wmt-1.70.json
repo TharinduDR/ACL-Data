@@ -1,0 +1,30 @@
+{
+  "title": "Empowering a Metric with LLM-assisted Named Entity Annotation: HW-TSC's Submission to the WMT23 Metrics Shared Task",
+  "authors": [
+    "Zhanglin Wu",
+    "Yilun Liu",
+    "Min Zhang",
+    "Xiaofeng Zhao",
+    "Junhao Zhu",
+    "Ming Zhu",
+    "Xiaosong Qiao",
+    "Jingfei Zhang",
+    "Miaomiao Ma",
+    "Yanqing Zhao",
+    "Song Peng",
+    "Shimin Tao",
+    "Hao Yang",
+    "Yanfei Jiang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.wmt-1.70",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.70/"
+}

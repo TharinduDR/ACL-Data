@@ -1,0 +1,31 @@
+{
+  "title": "NamedEntityRangers at SemEval-2022 Task 11: Transformer-based Approaches for Multilingual Complex Named Entity Recognition",
+  "authors": [
+    "Amina Miftahova",
+    "Alexander Pugachev",
+    "Artem Skiba",
+    "Ekaterina Artemova",
+    "Tatiana Batura",
+    "Pavel Braslavski",
+    "Vladimir Ivanov"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Dutch",
+    "Spanish",
+    "French",
+    "Russian",
+    "Persian",
+    "Chinese",
+    "Hindi",
+    "Korean",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.semeval-1.216",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.216/"
+}

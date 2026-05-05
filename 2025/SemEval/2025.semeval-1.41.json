@@ -1,0 +1,19 @@
+{
+  "title": "UoR-NCL at SemEval-2025 Task 1: Using Generative LLMs and CLIP Models for Multilingual Multimodal Idiomaticity Representation",
+  "authors": [
+    "Thanet Markchom",
+    "Tong Wu",
+    "Liting Huang",
+    "Huizhi Liang"
+  ],
+  "languages": [
+    "English",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.semeval-1.41",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.41/"
+}

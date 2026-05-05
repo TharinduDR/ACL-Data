@@ -1,0 +1,22 @@
+{
+  "title": "POSTECH-ETRI's Submission to the WMT2020 APE Shared Task: Automatic Post-Editing with Cross-lingual Language Model",
+  "authors": [
+    "Jihyung Lee",
+    "WonKee Lee",
+    "Jaehun Shin",
+    "Baikjin Jung",
+    "Young-Kil Kim",
+    "Jong-Hyeok Lee"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2020.wmt-1.82",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.82/"
+}

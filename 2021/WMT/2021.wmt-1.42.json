@@ -1,0 +1,24 @@
+{
+  "title": "CUNI systems for WMT21: Multilingual Low-Resource Translation for Indo-European Languages Shared Task",
+  "authors": [
+    "Josef Jon",
+    "Michal Novák",
+    "João Paulo Aires",
+    "Dušan Variš",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "Catalan",
+    "Occitan",
+    "Italian",
+    "Romanian",
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.wmt-1.42",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.42/"
+}

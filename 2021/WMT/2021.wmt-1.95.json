@@ -1,0 +1,28 @@
+{
+  "title": "TUDa at WMT21: Sentence-Level Direct Assessment with Adapters",
+  "authors": [
+    "Gregor Geigle",
+    "Jonas Stadtmüller",
+    "Wei Zhao",
+    "Jonas Pfeiffer",
+    "Steffen Eger"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Russian",
+    "Sinhala",
+    "Khmer",
+    "Pashto",
+    "Nepali",
+    "Czech",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.wmt-1.95",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.95/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "QCRI at SemEval-2023 Task 3: News Genre, Framing and Persuasion Techniques Detection using Multilingual Models",
+  "authors": [
+    "Maram Hasanain",
+    "Ahmed Oumar El-Shangiti",
+    "Rabindra Nath Nandi",
+    "Preslav Nakov",
+    "Firoj Alam"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Polish",
+    "Russian",
+    "Georgian",
+    "Greek",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.172",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.172/"
+}

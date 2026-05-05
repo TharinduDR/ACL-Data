@@ -1,0 +1,24 @@
+{
+  "title": "Kakao Enterprise's WMT21 Machine Translation using Terminologies Task Submission",
+  "authors": [
+    "Yunju Bak",
+    "Jimin Sun",
+    "Jay Kim",
+    "Sungwon Lyu",
+    "Changmin Lee"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "Korean",
+    "Czech",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.wmt-1.79",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.79/"
+}

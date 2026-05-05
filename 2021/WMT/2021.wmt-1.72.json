@@ -1,0 +1,20 @@
+{
+  "title": "Findings of the WMT 2021 Shared Tasks in Unsupervised MT and Very Low Resource Supervised MT",
+  "authors": [
+    "Jindřich Libovický",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "German",
+    "Upper Sorbian",
+    "Lower Sorbian",
+    "Russian",
+    "Chuvash"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.wmt-1.72",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.72/"
+}

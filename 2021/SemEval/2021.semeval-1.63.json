@@ -1,0 +1,23 @@
+{
+  "title": "HITSZ-HLT at SemEval-2021 Task 5: Ensemble Sequence Labeling and Span Boundary Detection for Toxic Span Detection",
+  "authors": [
+    "Qinglin Zhu",
+    "Zijie Lin",
+    "Yice Zhang",
+    "Jingyi Sun",
+    "Xiang Li",
+    "Qihui Lin",
+    "Yixue Dang",
+    "Ruifeng Xu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20",
+    "T11",
+    "T15"
+  ],
+  "paper_id": "2021.semeval-1.63",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.63/"
+}

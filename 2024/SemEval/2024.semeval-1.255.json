@@ -1,0 +1,29 @@
+{
+  "title": "HW-TSC at SemEval-2024 Task 5: Self-Eval? A Confident LLM System for Auto Prediction and Evaluation for the Legal Argument Reasoning Task",
+  "authors": [
+    "Xiaofeng Zhao",
+    "Xiaosong Qiao",
+    "Min Zhang",
+    "Chang Su",
+    "Yuang Li",
+    "Yinglu Li",
+    "Yilun Liu",
+    "Feiyu Yao",
+    "Xiaowei Liang",
+    "Shimin Tao",
+    "Hao Yang",
+    "Yanfei Jiang",
+    "Yunfei Lu",
+    "Dandan Tu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2024.semeval-1.255",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.255/"
+}

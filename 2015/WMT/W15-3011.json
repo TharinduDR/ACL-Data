@@ -1,0 +1,23 @@
+{
+  "title": "The AFRL-MITLL WMT15 System: There's More than One Way to Decode It!",
+  "authors": [
+    "Jeremy Gwinnup",
+    "Timothy Anderson",
+    "Grant Erdmann",
+    "Katherine Young",
+    "Christina May",
+    "Michael Kazi",
+    "Elizabeth Salesky",
+    "Brian Thompson"
+  ],
+  "languages": [
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "W15-3011",
+  "acl_url": "https://aclanthology.org/W15-3011/"
+}

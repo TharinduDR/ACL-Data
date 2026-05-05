@@ -1,0 +1,29 @@
+{
+  "title": "QCRI: Answer Selection for Community Question Answering – Experiments for Arabic and English",
+  "authors": [
+    "Massimo Nicosia",
+    "Simone Filice",
+    "Alberto Barrón-Cedeño",
+    "Iman Saleh",
+    "Hamdy Mubarak",
+    "Wei Gao",
+    "Preslav Nakov",
+    "Giovanni Da San Martino",
+    "Alessandro Moschitti",
+    "Kareem Darwish",
+    "Lluís Márquez",
+    "Shafiq Joty",
+    "Walid Magdy"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T15 Lexicon and Semantics",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "S15-2036",
+  "acl_url": "https://aclanthology.org/S15-2036/"
+}

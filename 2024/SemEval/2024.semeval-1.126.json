@@ -1,0 +1,21 @@
+{
+  "title": "USTCCTSU at SemEval-2024 Task 1: Reducing Anisotropy for Cross-lingual Semantic Textual Relatedness",
+  "authors": [
+    "Jianjian Li",
+    "Shengwei Liang",
+    "Yong Liao",
+    "Hongping Deng",
+    "Haiyang Yu"
+  ],
+  "languages": [
+    "Indonesian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.126",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.126/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Uppsala NLP at SemEval-2021 Task 2: Multilingual Language Models for Fine-tuning and Feature Extraction in Word-in-Context Disambiguation",
+  "authors": [
+    "Huiling You",
+    "Xingran Zhu",
+    "Sara Stymne"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Russian",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.semeval-1.15",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.15/"
+}

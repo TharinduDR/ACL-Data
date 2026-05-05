@@ -1,0 +1,23 @@
+{
+  "title": "Fine-tuning of Transformer Language Models and External Knowledge Leveraging for NER in Farsi, English, French and Chinese",
+  "authors": [
+    "Kévin Deturck",
+    "Pierre Magistry",
+    "Bénédicte Diot-Parvaz Ahmad",
+    "Ilaine Wang",
+    "Damien Nouvel",
+    "Hugo Lafayette"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Persian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.semeval-1.306",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.306/"
+}

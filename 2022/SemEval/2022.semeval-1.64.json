@@ -1,0 +1,19 @@
+{
+  "title": "ML_LTU at SemEval-2022 Task 4: T5 Towards Identifying Patronizing and Condescending Language",
+  "authors": [
+    "Tosin Adewumi",
+    "Lama Alkhaled",
+    "Hamam Mokayed",
+    "Foteini Liwicki",
+    "Marcus Liwicki"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2022.semeval-1.64",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.64/"
+}

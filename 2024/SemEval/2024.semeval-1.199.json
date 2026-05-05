@@ -1,0 +1,33 @@
+{
+  "title": "MasonTigers at SemEval-2024 Task 1: An Ensemble Approach for Semantic Textual Relatedness",
+  "authors": [
+    "Dhiman Goswami",
+    "Sadiya Sayara Chowdhury Puspo",
+    "Md Nishat Raihan",
+    "Al Nahian Bin Emran",
+    "Amrita Ganguly",
+    "Marcos Zampieri"
+  ],
+  "languages": [
+    "Arabic",
+    "Amharic",
+    "English",
+    "Hausa",
+    "Hindi",
+    "Indonesian",
+    "Kinyarwanda",
+    "Marathi",
+    "Moroccan Arabic",
+    "Punjabi",
+    "Spanish",
+    "Telugu",
+    "Afrikaans"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.199",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.199/"
+}

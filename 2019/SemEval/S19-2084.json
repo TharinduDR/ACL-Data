@@ -1,0 +1,19 @@
+{
+  "title": "SINAI at SemEval-2019 Task 5: Ensemble learning to detect hate speech against immigrants and women in English and Spanish tweets",
+  "authors": [
+    "Flor Miriam Plaza-del-Arco",
+    "M. Dolores Molina-González",
+    "M. Teresa Martín-Valdivia",
+    "L. Alfonso Ureña-López"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "S19-2084",
+  "acl_url": "https://aclanthology.org/S19-2084/"
+}

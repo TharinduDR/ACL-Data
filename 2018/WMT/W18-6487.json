@@ -1,0 +1,21 @@
+{
+  "title": "The RWTH Aachen University Filtering System for the WMT 2018 Parallel Corpus Filtering Task",
+  "authors": [
+    "Nick Rossenbach",
+    "Jan Rosendahl",
+    "Yunsu Kim",
+    "Miguel Graça",
+    "Aman Gokrani",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W18-6487",
+  "acl_url": "https://aclanthology.org/W18-6487/"
+}

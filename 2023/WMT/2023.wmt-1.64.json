@@ -1,0 +1,30 @@
+{
+  "title": "GEMBA-MQM: Detecting Translation Quality Error Spans with GPT-4",
+  "authors": [
+    "Tom Kocmi",
+    "Christian Federmann"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech",
+    "Russian",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Arabic",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Hindi",
+    "Italian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.wmt-1.64",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.64/"
+}

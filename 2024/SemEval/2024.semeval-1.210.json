@@ -1,0 +1,24 @@
+{
+  "title": "Team MLab at SemEval-2024 Task 8: Analyzing Encoder Embeddings for Detecting LLM-generated Text",
+  "authors": [
+    "Kevin Li",
+    "Kenan Hasanaliyev",
+    "Sally Zhu",
+    "George Altshuler",
+    "Alden Eberts",
+    "Eric Chen",
+    "Kate Wang",
+    "Emily Xia",
+    "Eli Browne",
+    "Ian Chen",
+    "Umut Eren"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.semeval-1.210",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.210/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "A Comparative Study on Vocabulary Reduction for Phrase Table Smoothing",
+  "authors": [
+    "Yunsu Kim",
+    "Andreas Guta",
+    "Joern Wuebker",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Finnish",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "W16-2212",
+  "acl_url": "https://aclanthology.org/W16-2212/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Unbabel-IST at the WMT Chat Translation Shared Task",
+  "authors": [
+    "João Alves",
+    "Pedro Henrique Martins",
+    "José G. C. de Souza",
+    "M. Amin Farajian",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2022.wmt-1.89",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.89/"
+}

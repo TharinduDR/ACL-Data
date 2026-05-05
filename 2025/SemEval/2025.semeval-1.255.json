@@ -1,0 +1,25 @@
+{
+  "title": "TartanTritons at SemEval-2025 Task 10: Multilingual Hierarchical Entity Classification and Narrative Reasoning using Instruct-Tuned LLMs",
+  "authors": [
+    "R Raghav",
+    "Adarsh Prakash Vemali",
+    "Darpan Aswal",
+    "Rahul Ramesh",
+    "Parth Tusham",
+    "Pranaya Rishi"
+  ],
+  "languages": [
+    "Bulgarian",
+    "English",
+    "Portuguese",
+    "Hindi",
+    "Russian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.semeval-1.255",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.255/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Wolfies at SemEval-2022 Task 8: Feature extraction pipeline with transformers for Multi-lingual news article similarity",
+  "authors": [
+    "Nikhil Goel",
+    "Ranjith Reddy"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Turkish",
+    "Polish",
+    "Arabic",
+    "French"
+  ],
+  "research_areas": [
+    "T11",
+    "T14",
+    "T16"
+  ],
+  "paper_id": "2022.semeval-1.159",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.159/"
+}

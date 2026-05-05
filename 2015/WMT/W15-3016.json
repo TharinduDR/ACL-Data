@@ -1,0 +1,28 @@
+{
+  "title": "LIMSI @ WMT'15 : Translation Task",
+  "authors": [
+    "Benjamin Marie",
+    "Alexandre Allauzen",
+    "Franck Burlot",
+    "Quoc-Khanh Do",
+    "Julia Ive",
+    "Elena Knyazeva",
+    "Matthieu Labeau",
+    "Thomas Lavergne",
+    "Kevin Löser",
+    "Nicolas Pécheux",
+    "François Yvon"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Russian",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W15-3016",
+  "acl_url": "https://aclanthology.org/W15-3016/"
+}

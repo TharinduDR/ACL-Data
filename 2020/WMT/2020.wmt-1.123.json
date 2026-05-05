@@ -1,0 +1,27 @@
+{
+  "title": "HW-TSC's Participation at WMT 2020 Quality Estimation Shared Task",
+  "authors": [
+    "Minghan Wang",
+    "Hao Yang",
+    "Hengchao Shang",
+    "Daimeng Wei",
+    "Jiaxin Guo",
+    "Lizhi Lei",
+    "Ying Qin",
+    "Shimin Tao",
+    "Shiliang Sun",
+    "Yimeng Chen",
+    "Liangyou Li"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.123",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.123/"
+}

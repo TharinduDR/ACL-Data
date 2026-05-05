@@ -1,0 +1,27 @@
+{
+  "title": "RUC Team at SemEval-2025 Task 5: Fast Automated Subject Indexing via Similar Records Matching and Related Subject Ranking",
+  "authors": [
+    "Tian Xia",
+    "Xin Yang",
+    "Wenjing Wu",
+    "Yueheng Xiu",
+    "Xin Zhang",
+    "Jinyu Li",
+    "Tong Gao",
+    "Zhuoxi Tan",
+    "Rundong Hu",
+    "Tao Chen",
+    "Junzhi Jia"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.semeval-1.317",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.317/"
+}

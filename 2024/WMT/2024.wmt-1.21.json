@@ -1,0 +1,20 @@
+{
+  "title": "SCIR-MT's Submission for WMT24 General Machine Translation Task",
+  "authors": [
+    "Baohang Li",
+    "Zekai Ye",
+    "Yichong Huang",
+    "Xiaocheng Feng",
+    "Bing Qin"
+  ],
+  "languages": [
+    "English",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.wmt-1.21",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.21/"
+}

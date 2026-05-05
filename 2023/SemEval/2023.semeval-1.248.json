@@ -1,0 +1,21 @@
+{
+  "title": "Stanford MLab at SemEval-2023 Task 10: Exploring GloVe- and Transformer-Based Methods for the Explainable Detection of Online Sexism",
+  "authors": [
+    "Hee Jung Choi",
+    "Trevor Chow",
+    "Aaron Wan",
+    "Hong Meng Yam",
+    "Swetha Yogeswaran",
+    "Beining Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.semeval-1.248",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.248/"
+}

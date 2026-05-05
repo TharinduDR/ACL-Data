@@ -1,0 +1,19 @@
+{
+  "title": "DUTNLP Machine Translation System for WMT21 Triangular Translation Task",
+  "authors": [
+    "Huan Liu",
+    "Junpeng Liu",
+    "Kaiyu Huang",
+    "Degen Huang"
+  ],
+  "languages": [
+    "Russian",
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.wmt-1.38",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.38/"
+}

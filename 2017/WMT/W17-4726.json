@@ -1,0 +1,23 @@
+{
+  "title": "LIUM Machine Translation Systems for WMT17 News Translation Task",
+  "authors": [
+    "Mercedes García-Martínez",
+    "Ozan Caglayan",
+    "Walid Aransa",
+    "Adrien Bardet",
+    "Fethi Bougares",
+    "Loïc Barrault"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Turkish",
+    "Czech",
+    "Latvian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W17-4726",
+  "acl_url": "https://aclanthology.org/W17-4726/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "CAISA at SemEval-2025 Task 7: Multilingual and Cross-lingual Fact-Checked Claim Retrieval",
+  "authors": [
+    "Muqaddas Haroon",
+    "Shaina Ashraf",
+    "Ipek Baris Schlicht",
+    "Lucie Flek"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Turkish",
+    "Polish"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.semeval-1.183",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.183/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "A High-Quality Multilingual Dataset for Structured Documentation Translation",
+  "authors": [
+    "Kazuma Hashimoto",
+    "Raffaella Buschiazzo",
+    "James Bradbury",
+    "Teresa Marshall",
+    "Richard Socher",
+    "Caiming Xiong"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "Finnish",
+    "French",
+    "German",
+    "Japanese",
+    "Russian",
+    "Chinese",
+    "Finnish-Japanese"
+  ],
+  "research_areas": [
+    "T02",
+    "T16"
+  ],
+  "paper_id": "W19-5212",
+  "acl_url": "https://aclanthology.org/W19-5212/"
+}

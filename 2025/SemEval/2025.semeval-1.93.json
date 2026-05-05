@@ -1,0 +1,48 @@
+{
+  "title": "LATE-GIL-NLP at SemEval-2025 Task 11: Multi-Language Emotion Detection and Intensity Classification Using Transformer Models with Optimized Loss Functions for Imbalanced Data",
+  "authors": [
+    "Jesus Vázquez-Osorio",
+    "Helena Gómez-Adorno",
+    "Gerardo Sierra",
+    "Vladimir Sierra-Casiano",
+    "Diana Canchola-Hernández",
+    "José Tovar-Cortés",
+    "Roberto Solís-Vilchis",
+    "Gabriel Salazar"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Amharic",
+    "Arabic",
+    "Arabic (Algerian)",
+    "Arabic (Moroccan)",
+    "Chinese",
+    "Emakhuwa",
+    "English",
+    "German",
+    "Hausa",
+    "Hindi",
+    "Igbo",
+    "Kinyarwanda",
+    "Marathi",
+    "Nigerian Pidgin",
+    "Oromo",
+    "Portuguese",
+    "Russian",
+    "Somali",
+    "Spanish",
+    "Sundanese",
+    "Swahili",
+    "Swedish",
+    "Tatar",
+    "Tigrinya",
+    "Ukrainian",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.semeval-1.93",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.93/"
+}

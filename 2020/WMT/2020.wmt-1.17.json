@@ -1,0 +1,21 @@
+{
+  "title": "Speed-optimized, Compact Student Models that Distill Knowledge from a Larger Teacher Model: the UEDIN-CUNI Submission to the WMT 2020 News Translation Task",
+  "authors": [
+    "Ulrich Germann",
+    "Roman Grundkiewicz",
+    "Martin Popel",
+    "Radina Dobreva",
+    "Nikolay Bogoychev",
+    "Kenneth Heafield"
+  ],
+  "languages": [
+    "Czech",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.wmt-1.17",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.17/"
+}

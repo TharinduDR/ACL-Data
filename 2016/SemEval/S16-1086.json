@@ -1,0 +1,20 @@
+{
+  "title": "FBK HLT-MT at SemEval-2016 Task 1: Cross-lingual Semantic Similarity Measurement Using Quality Estimation Features and Compositional Bilingual Word Embeddings",
+  "authors": [
+    "Duygu Ataman",
+    "José G. C. de Souza",
+    "Marco Turchi",
+    "Matteo Negri"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S16-1086",
+  "acl_url": "https://aclanthology.org/S16-1086/"
+}

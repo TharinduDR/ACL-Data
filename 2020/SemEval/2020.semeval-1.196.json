@@ -1,0 +1,18 @@
+{
+  "title": "Team DoNotDistribute at SemEval-2020 Task 11: Features, Finetuning, and Data Augmentation in Neural Models for Propaganda Detection in News Articles",
+  "authors": [
+    "Michael Kranzlein",
+    "Shabnam Behzad",
+    "Nazli Goharian"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2020.semeval-1.196",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.196/"
+}

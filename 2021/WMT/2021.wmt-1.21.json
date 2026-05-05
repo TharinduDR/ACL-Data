@@ -1,0 +1,36 @@
+{
+  "title": "HW-TSC's Participation in the WMT 2021 News Translation Shared Task",
+  "authors": [
+    "Daimeng Wei",
+    "Zongyao Li",
+    "Zhanglin Wu",
+    "Zhengzhe Yu",
+    "Xiaoyu Chen",
+    "Hengchao Shang",
+    "Jiaxin Guo",
+    "Minghan Wang",
+    "Lizhi Lei",
+    "Min Zhang",
+    "Hao Yang",
+    "Ying Qin"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Japanese",
+    "Hausa",
+    "Icelandic",
+    "Hindi",
+    "Bengali",
+    "Xhosa",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2021.wmt-1.21",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.21/"
+}

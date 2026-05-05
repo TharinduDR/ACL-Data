@@ -1,0 +1,23 @@
+{
+  "title": "SemanticCUETSync at SemEval-2024 Task 1: Finetuning Sentence Transformer to Find Semantic Textual Relatedness",
+  "authors": [
+    "Md. Sajjad Hossain",
+    "Ashraful Islam Paran",
+    "Symom Hossain Shohan",
+    "Jawad Hossain",
+    "Mohammed Moshiul Hoque"
+  ],
+  "languages": [
+    "English",
+    "Marathi",
+    "Telugu",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.178",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.178/"
+}

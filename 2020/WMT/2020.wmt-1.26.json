@@ -1,0 +1,27 @@
+{
+  "title": "eTranslation's Submissions to the WMT 2020 News Translation Task",
+  "authors": [
+    "Csaba Oravec",
+    "Katina Bontcheva",
+    "László Tihanyi",
+    "David Kolovratník",
+    "Bhavani Bhaskar",
+    "Adrien Lardilleux",
+    "Szymon Klocek",
+    "Andreas Eisele"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese",
+    "Polish",
+    "Russian",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.wmt-1.26",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.26/"
+}

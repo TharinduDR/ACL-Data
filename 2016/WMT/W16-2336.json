@@ -1,0 +1,21 @@
+{
+  "title": "The TALP-UPC Spanish–English WMT Biomedical Task: Bilingual Embeddings and Char-based Neural Language Model Rescoring in a Phrase-based System",
+  "authors": [
+    "Marta R. Costa-jussà",
+    "Cristina España-Bonet",
+    "Pranava Madhyastha",
+    "Carlos Escolano",
+    "José A. R. Fonollosa"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "W16-2336",
+  "acl_url": "https://aclanthology.org/W16-2336/"
+}

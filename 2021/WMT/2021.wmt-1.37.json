@@ -1,0 +1,28 @@
+{
+  "title": "HW-TSC's Participation in the WMT 2021 Triangular MT Shared Task",
+  "authors": [
+    "Zongyao Li",
+    "Daimeng Wei",
+    "Hengchao Shang",
+    "Xiaoyu Chen",
+    "Zhanglin Wu",
+    "Zhengzhe Yu",
+    "Jiaxin Guo",
+    "Minghan Wang",
+    "Lizhi Lei",
+    "Min Zhang",
+    "Hao Yang",
+    "Ying Qin"
+  ],
+  "languages": [
+    "Chinese",
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.wmt-1.37",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.37/"
+}

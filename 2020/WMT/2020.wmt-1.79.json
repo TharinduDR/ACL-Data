@@ -1,0 +1,29 @@
+{
+  "title": "Findings of the WMT 2020 Shared Task on Quality Estimation",
+  "authors": [
+    "Lucia Specia",
+    "Frédéric Blain",
+    "Marina Fomicheva",
+    "Erick Fonseca",
+    "Vishrav Chaudhary",
+    "Francisco Guzmán",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Russian",
+    "Romanian",
+    "Estonian",
+    "Sinhala",
+    "Nepali",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.79",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.79/"
+}

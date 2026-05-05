@@ -1,0 +1,20 @@
+{
+  "title": "XLP at SemEval-2020 Task 9: Cross-lingual Models with Focal Loss for Sentiment Analysis of Code-Mixing Language",
+  "authors": [
+    "Yili Ma",
+    "Liang Zhao",
+    "Jie Hao"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.semeval-1.126",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.126/"
+}

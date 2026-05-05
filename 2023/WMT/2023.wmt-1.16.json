@@ -1,0 +1,27 @@
+{
+  "title": "Treating General MT Shared Task as a Multi-Domain Adaptation Problem: HW-TSC's Submission to the WMT23 General MT Shared Task",
+  "authors": [
+    "Zhanglin Wu",
+    "Daimeng Wei",
+    "Zongyao Li",
+    "Zhengzhe Yu",
+    "Shaojun Li",
+    "Xiaoyu Chen",
+    "Hengchao Shang",
+    "Jiaxin Guo",
+    "Yuhao Xie",
+    "Lizhi Lei",
+    "Hao Yang",
+    "Yanfei Jiang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.wmt-1.16",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.16/"
+}

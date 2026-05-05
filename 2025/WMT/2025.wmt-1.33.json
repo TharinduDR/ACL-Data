@@ -1,0 +1,33 @@
+{
+  "title": "Marco Large Translation Model at WMT2025: Transforming Translation Capability in LLMs via Quality-Aware Training and Decoding",
+  "authors": [
+    "Hao Wang",
+    "Linlong Xu",
+    "Heng Liu",
+    "Yangyang Liu",
+    "Xiaohu Zhao",
+    "Bo Zeng",
+    "Longyue Wang",
+    "Weihua Luo",
+    "Kaifu Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "Arabic",
+    "Bhojpuri",
+    "Czech",
+    "Russian",
+    "Ukrainian",
+    "Serbian",
+    "Korean",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.wmt-1.33",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.33/"
+}

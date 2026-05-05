@@ -1,0 +1,29 @@
+{
+  "title": "COMET-poly: Machine Translation Metric Grounded in Other Candidates",
+  "authors": [
+    "Maike Züfle",
+    "Vilém Zouhar",
+    "Tu Anh Dinh",
+    "Felipe Maia Polo",
+    "Jan Niehues",
+    "Mrinmaya Sachan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Hindi",
+    "Icelandic",
+    "Japanese",
+    "Russian",
+    "Chinese",
+    "Czech",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.63",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.63/"
+}

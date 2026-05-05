@@ -1,0 +1,20 @@
+{
+  "title": "SYSTRAN @ WMT 2021: Terminology Task",
+  "authors": [
+    "MinhQuang Pham",
+    "Antoine Senellart",
+    "Dan Berrebbi",
+    "Josep Crego",
+    "Jean Senellart"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2021.wmt-1.84",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.84/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "YSP at SemEval-2024 Task 1: Enhancing Sentence Relatedness Assessment using Siamese Networks",
+  "authors": [
+    "Yasamin Aali",
+    "Sardar Hamidian",
+    "Parsa Farinneya"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "Algerian Arabic",
+    "Spanish",
+    "Hausa",
+    "Kinyarwanda",
+    "Marathi",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.semeval-1.138",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.138/"
+}

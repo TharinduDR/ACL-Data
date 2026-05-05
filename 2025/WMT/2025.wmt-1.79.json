@@ -1,0 +1,37 @@
+{
+  "title": "Expanding the WMT24++ Benchmark with Rumantsch Grischun, Sursilvan, Sutsilvan, Surmiran, Puter, and Vallader",
+  "authors": [
+    "Jannis Vamvas",
+    "Ignacio Pérez Prat",
+    "Not Battesta Soliva",
+    "Sandra Baltermia-Guetg",
+    "Andrina Beeli",
+    "Simona Beeli",
+    "Madlaina Capeder",
+    "Laura Decurtins",
+    "Gian Peder Gregori",
+    "Flavia Hobi",
+    "Gabriela Holderegger",
+    "Arina Lazzarini",
+    "Viviana Lazzarini",
+    "Anna Rutkiewicz",
+    "Rico Sennrich",
+    "Bettina Vital"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Rumantsch Grischun",
+    "Sursilvan",
+    "Sutsilvan",
+    "Surmiran",
+    "Puter",
+    "Vallader"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.79",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.79/"
+}

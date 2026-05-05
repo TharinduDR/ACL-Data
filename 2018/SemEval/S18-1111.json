@@ -1,0 +1,21 @@
+{
+  "title": "SemEval-2018 Task 7: Semantic Relation Extraction and Classification in Scientific Papers",
+  "authors": [
+    "Kata Gábor",
+    "Davide Buscaldi",
+    "Anne-Kathrin Schumann",
+    "Behrang QasemiZadeh",
+    "Haifa Zargayouna",
+    "Thierry Charnois"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S18-1111",
+  "acl_url": "https://aclanthology.org/S18-1111/"
+}

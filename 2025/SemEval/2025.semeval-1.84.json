@@ -1,0 +1,18 @@
+{
+  "title": "Hallucination Detectives at SemEval-2025 Task 3: Span-Level Hallucination Detection for LLM-Generated Answers",
+  "authors": [
+    "Passant Elchafei",
+    "Mervat Abu-Elkheir"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.semeval-1.84",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.84/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "An Exploratory Approach to the Corpus Filtering Shared Task WMT20",
+  "authors": [
+    "Ankur Kejriwal",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "Pashto",
+    "Khmer",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.wmt-1.108",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.108/"
+}

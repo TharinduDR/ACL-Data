@@ -1,0 +1,31 @@
+{
+  "title": "BL.Research at SemEval-2022 Task 8: Using various Semantic Information to evaluate document-level Semantic Textual Similarity",
+  "authors": [
+    "Sébastien Dufour",
+    "Mohamed Mehdi Kandi",
+    "Karim Boutamine",
+    "Camille Gosset",
+    "Mokhtar Boumedyen Billami",
+    "Christophe Bortolaso",
+    "Youssef Miloudi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Polish",
+    "Arabic",
+    "Turkish",
+    "Russian",
+    "Chinese",
+    "Italian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T18 Text Summarization",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.semeval-1.173",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.173/"
+}

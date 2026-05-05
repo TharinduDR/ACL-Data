@@ -1,0 +1,23 @@
+{
+  "title": "Predicting Target Language CCG Supertags Improves Neural Machine Translation",
+  "authors": [
+    "Maria Nadejde",
+    "Siva Reddy",
+    "Rico Sennrich",
+    "Tomasz Dwojak",
+    "Marcin Junczys-Dowmunt",
+    "Philipp Koehn",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16",
+    "T21"
+  ],
+  "paper_id": "W17-4707",
+  "acl_url": "https://aclanthology.org/W17-4707/"
+}

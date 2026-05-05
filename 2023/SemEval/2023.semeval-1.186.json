@@ -1,0 +1,28 @@
+{
+  "title": "IXA/Cogcomp at SemEval-2023 Task 2: Context-enriched Multilingual Named Entity Recognition using Knowledge Bases",
+  "authors": [
+    "Iker García-Ferrero",
+    "Jon Ander Campos",
+    "Oscar Sainz",
+    "Ander Salaberria",
+    "Dan Roth"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Swedish",
+    "Portuguese",
+    "French",
+    "Farsi",
+    "Chinese",
+    "Hindi",
+    "Bengali",
+    "Italian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.semeval-1.186",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.186/"
+}

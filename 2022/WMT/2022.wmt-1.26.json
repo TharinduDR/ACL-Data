@@ -1,0 +1,20 @@
+{
+  "title": "Adam Mickiewicz University at WMT 2022: NER-Assisted and Quality-Aware Neural Machine Translation",
+  "authors": [
+    "Artur Nowakowski",
+    "Gabriela Pałka",
+    "Kamil Guttman",
+    "Mikołaj Pokrywka"
+  ],
+  "languages": [
+    "Czech",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.wmt-1.26",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.26/"
+}

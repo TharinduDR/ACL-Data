@@ -1,0 +1,25 @@
+{
+  "title": "PJIIT's systems for WMT 2017 Conference",
+  "authors": [
+    "Krzysztof Wolk",
+    "Krzysztof Marasek"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Latvian",
+    "Polish",
+    "German",
+    "Spanish",
+    "French",
+    "Hungarian",
+    "Romanian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W17-4743",
+  "acl_url": "https://aclanthology.org/W17-4743/"
+}

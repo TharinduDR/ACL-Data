@@ -1,0 +1,21 @@
+{
+  "title": "Tencent AI Lab Machine Translation Systems for the WMT21 Biomedical Translation Task",
+  "authors": [
+    "Xing Wang",
+    "Zhaopeng Tu",
+    "Shuming Shi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2021.wmt-1.89",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.89/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SkoltechNLP at SemEval-2021 Task 5: Leveraging Sentence-level Pre-training for Toxic Span Detection",
+  "authors": [
+    "David Dale",
+    "Igor Markov",
+    "Varvara Logacheva",
+    "Olga Kozlova",
+    "Nikita Semenov",
+    "Alexander Panchenko"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.semeval-1.126",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.126/"
+}

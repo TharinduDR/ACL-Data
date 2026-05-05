@@ -1,0 +1,24 @@
+{
+  "title": "SemEval 2015 Task 18: Broad-Coverage Semantic Dependency Parsing",
+  "authors": [
+    "Stephan Oepen",
+    "Marco Kuhlmann",
+    "Yusuke Miyao",
+    "Daniel Zeman",
+    "Silvie Cinková",
+    "Dan Flickinger",
+    "Jan Hajič",
+    "Zdeňka Urešová"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Czech"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "S15-2153",
+  "acl_url": "https://aclanthology.org/S15-2153/"
+}

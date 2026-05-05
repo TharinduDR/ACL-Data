@@ -1,0 +1,21 @@
+{
+  "title": "MasonTigers at SemEval-2024 Task 9: Solving Puzzles with an Ensemble of Chain-of-Thought Prompts",
+  "authors": [
+    "Md Nishat Raihan",
+    "Dhiman Goswami",
+    "Al Nahian Bin Emran",
+    "Sadiya Sayara Chowdhury Puspo",
+    "Amrita Ganguly",
+    "Marcos Zampieri"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.semeval-1.196",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.196/"
+}

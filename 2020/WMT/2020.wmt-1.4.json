@@ -1,0 +1,28 @@
+{
+  "title": "Findings of the WMT 2020 Shared Task on Machine Translation Robustness",
+  "authors": [
+    "Lucia Specia",
+    "Zhenhao Li",
+    "Juan Pino",
+    "Vishrav Chaudhary",
+    "Francisco Guzmán",
+    "Paul Michel",
+    "Graham Neubig",
+    "Hassan Sajjad",
+    "Nadir Durrani",
+    "Yonatan Belinkov",
+    "Philipp Koehn",
+    "Xian Li"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.4",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.4/"
+}

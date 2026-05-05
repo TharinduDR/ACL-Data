@@ -1,0 +1,18 @@
+{
+  "title": "Allegro.eu submission to WMT21 News Translation Task",
+  "authors": [
+    "Mikołaj Koszowski",
+    "Karol Grzegorczyk",
+    "Tsimur Hadeliya"
+  ],
+  "languages": [
+    "English",
+    "Icelandic"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2021.wmt-1.10",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.10/"
+}

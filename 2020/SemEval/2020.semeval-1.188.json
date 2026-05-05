@@ -1,0 +1,27 @@
+{
+  "title": "SemEval-2020 Task 12: Multilingual Offensive Language Identification in Social Media (OffensEval 2020)",
+  "authors": [
+    "Marcos Zampieri",
+    "Preslav Nakov",
+    "Sara Rosenthal",
+    "Pepa Atanasova",
+    "Georgi Karadzhov",
+    "Hamdy Mubarak",
+    "Leon Derczynski",
+    "Zeses Pitenis",
+    "Çağrı Çöltekin"
+  ],
+  "languages": [
+    "Arabic",
+    "Danish",
+    "English",
+    "Greek",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2020.semeval-1.188",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.188/"
+}

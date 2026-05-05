@@ -1,0 +1,20 @@
+{
+  "title": "Machine Translation Advancements for Low-Resource Indian Languages in WMT23: CFILT-IITB's effort for bridging the Gap",
+  "authors": [
+    "Meet Doshi",
+    "Pranav Gaikwad",
+    "Sourabh Deoghare",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "English",
+    "Assamese",
+    "Manipuri"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.wmt-1.89",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.89/"
+}

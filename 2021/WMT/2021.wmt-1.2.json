@@ -1,0 +1,40 @@
+{
+  "title": "Findings of the WMT 2021 Shared Task on Large-Scale Multilingual Machine Translation",
+  "authors": [
+    "Guillaume Wenzek",
+    "Vishrav Chaudhary",
+    "Angela Fan",
+    "Sahir Gomez",
+    "Naman Goyal",
+    "Somya Jain",
+    "Douwe Kiela",
+    "Tristan Thrush",
+    "Francisco Guzmán"
+  ],
+  "languages": [
+    "English",
+    "Croatian",
+    "Estonian",
+    "Hungarian",
+    "Macedonian",
+    "Serbian",
+    "Indonesian",
+    "Javanese",
+    "Malay",
+    "Tamil",
+    "Filipino",
+    "Igbo",
+    "Kinyarwanda",
+    "Fon",
+    "Swahili",
+    "Xhosa",
+    "Yoruba",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.wmt-1.2",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.2/"
+}

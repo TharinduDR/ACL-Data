@@ -1,0 +1,30 @@
+{
+  "title": "silp_nlp at SemEval-2024 Task 1: Cross-lingual Knowledge Transfer for Mono-lingual Learning",
+  "authors": [
+    "Sumit Singh",
+    "Pankaj Kumar Goyal",
+    "Uma Shanker Tiwary"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Amharic",
+    "Africans",
+    "Hindi",
+    "Indonesian",
+    "Kinyarwanda",
+    "Marathi",
+    "Moroccan Arabic",
+    "Modern Standard Arabic",
+    "Punjabi",
+    "Spanish",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2024.semeval-1.174",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.174/"
+}

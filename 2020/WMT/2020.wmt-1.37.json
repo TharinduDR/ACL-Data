@@ -1,0 +1,36 @@
+{
+  "title": "The NiuTrans Machine Translation Systems for WMT20",
+  "authors": [
+    "Yuhao Zhang",
+    "Ziyang Wang",
+    "Runzhe Cao",
+    "Binghao Wei",
+    "Weiqiao Shan",
+    "Shuhan Zhou",
+    "Abudurexiti Reheman",
+    "Tao Zhou",
+    "Xin Zeng",
+    "Laohu Wang",
+    "Xiaoqian Liu",
+    "Xunjuan Zhou",
+    "Yongyu Mu",
+    "Jingnan Zhang",
+    "Yinqiao Li",
+    "Bei Li",
+    "Tong Xiao",
+    "Jingbo Zhu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "Tamil",
+    "Inuktitut"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.wmt-1.37",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.37/"
+}

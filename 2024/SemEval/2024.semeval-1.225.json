@@ -1,0 +1,19 @@
+{
+  "title": "MARiA at SemEval 2024 Task-6: Hallucination Detection Through LLMs, MNLI, and Cosine similarity",
+  "authors": [
+    "Reza Sanayei",
+    "Abhyuday Singh",
+    "Mohammad Hossein Rezaei",
+    "Steven Bethard"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T28",
+    "T14",
+    "T08"
+  ],
+  "paper_id": "2024.semeval-1.225",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.225/"
+}

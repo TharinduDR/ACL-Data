@@ -1,0 +1,19 @@
+{
+  "title": "R2D2 at SemEval-2022 Task 6: Are language models sarcastic enough? Finetuning pre-trained language models to identify sarcasm",
+  "authors": [
+    "Mayukh Sharma",
+    "Ilanthenral Kandasamy",
+    "W.B. Vasantha"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2022.semeval-1.143",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.143/"
+}

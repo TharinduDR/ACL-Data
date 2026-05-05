@@ -1,0 +1,51 @@
+{
+  "title": "Evaluating Multiway Multilingual NMT in the Turkic Languages",
+  "authors": [
+    "Jamshidbek Mirzakhalov",
+    "Anoop Babu",
+    "Aigiz Kunafin",
+    "Ahsan Wahab",
+    "Behzod Moydinboyev",
+    "Sardana Ivanova",
+    "Mokhiyakhon Uzokova",
+    "Shaxnoza Pulatova",
+    "Duygu Ataman",
+    "Julia Kreutzer",
+    "Francis Tyers",
+    "Orhan Firat",
+    "John Licato",
+    "Sriram Chellappan"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Turkish",
+    "Kazakh",
+    "Uzbek",
+    "Azerbaijani",
+    "Tatar",
+    "Kyrgyz",
+    "Chuvash",
+    "Turkmen",
+    "Bashkir",
+    "Uyghur",
+    "Karakalpak",
+    "Khakas",
+    "Altai",
+    "Crimean Tatar",
+    "Karaçay-Balkar",
+    "Gagauz",
+    "Sakha",
+    "Kumyk",
+    "Tuvan",
+    "Shor",
+    "Salar",
+    "Urum"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.wmt-1.60",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.60/"
+}

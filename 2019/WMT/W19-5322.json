@@ -1,0 +1,20 @@
+{
+  "title": "CUNI Submission for Low-Resource Languages in WMT News 2019",
+  "authors": [
+    "Tom Kocmi",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "English",
+    "Gujarati",
+    "Kazakh",
+    "Russian",
+    "Czech"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "W19-5322",
+  "acl_url": "https://aclanthology.org/W19-5322/"
+}

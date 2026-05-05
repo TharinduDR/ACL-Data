@@ -1,0 +1,21 @@
+{
+  "title": "Team Solomon at SemEval-2020 Task 4: Be Reasonable: Exploiting large-scale language models for commonsense reasoning",
+  "authors": [
+    "Vertika Srivastava",
+    "Sudeep Kumar Sahoo",
+    "Yeon Hyang Kim",
+    "Rohit R.R",
+    "Mayank Raj",
+    "Ajay Jaiswal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.semeval-1.74",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.74/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Team dina at SemEval-2022 Task 8: Pre-trained Language Models as Baselines for Semantic Similarity",
+  "authors": [
+    "Dina Pisarevskaya",
+    "Arkaitz Zubiaga"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Turkish",
+    "Italian",
+    "Russian",
+    "Polish",
+    "Chinese",
+    "German",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.semeval-1.169",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.169/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "UALacant machine translation quality estimation at WMT 2018: a simple approach using phrase tables and feed-forward neural networks",
+  "authors": [
+    "Miquel Esplà-Gomis",
+    "Felipe Sánchez-Martínez",
+    "Mikel L. Forcada"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Latvian",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-6464",
+  "acl_url": "https://aclanthology.org/W18-6464/"
+}

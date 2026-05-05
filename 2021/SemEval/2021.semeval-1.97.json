@@ -1,0 +1,22 @@
+{
+  "title": "UoB_UK at SemEval 2021 Task 2: Zero-Shot and Few-Shot Learning for Multi-lingual and Cross-lingual Word Sense Disambiguation.",
+  "authors": [
+    "Wei Li",
+    "Harish Tayyar Madabushi",
+    "Mark Lee"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "French",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.semeval-1.97",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.97/"
+}

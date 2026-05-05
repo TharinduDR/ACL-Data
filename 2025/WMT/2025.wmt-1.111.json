@@ -1,0 +1,21 @@
+{
+  "title": "Terminology-Constrained Translation from Monolingual Data using GRPO",
+  "authors": [
+    "Javier Garcia Gilabert",
+    "Carlos Escolano",
+    "Xixian Liao",
+    "Maite Melero"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.wmt-1.111",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.111/"
+}

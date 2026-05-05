@@ -1,0 +1,23 @@
+{
+  "title": "Groningen team D at SemEval-2024 Task 8: Exploring data generation and a combined model for fine-tuning LLMs for Multidomain Machine-Generated Text Detection",
+  "authors": [
+    "Thijs Brekhof",
+    "Xuanyi Liu",
+    "Joris Ruitenbeek",
+    "Niels Top",
+    "Yuwen Zhou"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Russian",
+    "Indonesian",
+    "German"
+  ],
+  "research_areas": [
+    "T28",
+    "T14"
+  ],
+  "paper_id": "2024.semeval-1.61",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.61/"
+}

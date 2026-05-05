@@ -1,0 +1,20 @@
+{
+  "title": "BRUMS at SemEval-2020 Task 12: Transformer based Multilingual Offensive Language Identification in Social Media",
+  "authors": [
+    "Tharindu Ranasinghe",
+    "Hansi Hettiarachchi"
+  ],
+  "languages": [
+    "Arabic",
+    "Danish",
+    "Greek",
+    "Turkish",
+    "English"
+  ],
+  "research_areas": [
+    "T20",
+    "T23"
+  ],
+  "paper_id": "2020.semeval-1.251",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.251/"
+}

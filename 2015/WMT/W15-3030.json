@@ -1,0 +1,18 @@
+{
+  "title": "ListNet-based MT Rescoring",
+  "authors": [
+    "Jan Niehues",
+    "Quoc Khanh Do",
+    "Alexandre Allauzen",
+    "Alex Waibel"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W15-3030",
+  "acl_url": "https://aclanthology.org/W15-3030/"
+}

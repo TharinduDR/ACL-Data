@@ -1,0 +1,19 @@
+{
+  "title": "An Iterative Knowledge Transfer NMT System for WMT20 News Translation Task",
+  "authors": [
+    "Jiwan Kim",
+    "Soyoon Park",
+    "Sangha Kim",
+    "Yoonjung Choi"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2020.wmt-1.11",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.11/"
+}

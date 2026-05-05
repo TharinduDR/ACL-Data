@@ -1,0 +1,19 @@
+{
+  "title": "PROMT Systems for WMT21 Terminology Translation Task",
+  "authors": [
+    "Alexander Molchanov",
+    "Vladislav Kovalenko",
+    "Fedor Bykov"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.wmt-1.83",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.83/"
+}

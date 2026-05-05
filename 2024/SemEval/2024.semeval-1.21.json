@@ -1,0 +1,20 @@
+{
+  "title": "nowhash at SemEval-2024 Task 4: Exploiting Fusion of Transformers for Detecting Persuasion Techniques in Multilingual Memes",
+  "authors": [
+    "Abu Nowhash Chowdhury",
+    "Michal Ptaszynski"
+  ],
+  "languages": [
+    "English",
+    "Bulgarian",
+    "North Macedonian",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.semeval-1.21",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.21/"
+}

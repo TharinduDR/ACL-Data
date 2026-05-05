@@ -1,0 +1,26 @@
+{
+  "title": "Unbabel's Participation in the WMT19 Translation Quality Estimation Shared Task",
+  "authors": [
+    "Fábio Kepler",
+    "Jonay Trénous",
+    "Marcos Trevisio",
+    "Miguel Vera",
+    "António Góis",
+    "M. Amin Farajian",
+    "António V. Lopes",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W19-5406",
+  "acl_url": "https://aclanthology.org/W19-5406/"
+}

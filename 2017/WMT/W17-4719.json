@@ -1,0 +1,39 @@
+{
+  "title": "Findings of the WMT 2017 Biomedical Translation Shared Task",
+  "authors": [
+    "Antonio Jimeno Yepes",
+    "Aurélie Névéol",
+    "Mariana Neves",
+    "Karin Verspoor",
+    "Ondřej Bojar",
+    "Arthur Boyer",
+    "Cristian Grozea",
+    "Barry Haddow",
+    "Madeleine Kittner",
+    "Yvonne Lichtblau",
+    "Pavel Pecina",
+    "Roland Roller",
+    "Rudolf Rosa",
+    "Amy Siu",
+    "Philippe Thomas",
+    "Saskia Trescher"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "French",
+    "Hungarian",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Romanian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "W17-4719",
+  "acl_url": "https://aclanthology.org/W17-4719/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "UNBNLP at SemEval-2021 Task 1: Predicting lexical complexity with masked language models and character-level encoders",
+  "authors": [
+    "Milton King",
+    "Ali Hakimi Parizi",
+    "Samin Fakharian",
+    "Paul Cook"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.semeval-1.83",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.83/"
+}

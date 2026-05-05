@@ -1,0 +1,24 @@
+{
+  "title": "RUSE: Regressor Using Sentence Embeddings for Automatic Machine Translation Evaluation",
+  "authors": [
+    "Hiroki Shimanaka",
+    "Tomoyuki Kajiwara",
+    "Mamoru Komachi"
+  ],
+  "languages": [
+    "Chinese",
+    "Czech",
+    "German",
+    "Finnish",
+    "Romanian",
+    "Russian",
+    "Turkish",
+    "Latvian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-6456",
+  "acl_url": "https://aclanthology.org/W18-6456/"
+}

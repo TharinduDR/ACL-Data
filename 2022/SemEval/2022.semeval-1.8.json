@@ -1,0 +1,21 @@
+{
+  "title": "Edinburgh at SemEval-2022 Task 1: Jointly Fishing for Word Embeddings and Definitions",
+  "authors": [
+    "Pinzhen Chen",
+    "Zheng Zhao"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.semeval-1.8",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.8/"
+}

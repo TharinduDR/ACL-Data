@@ -1,0 +1,22 @@
+{
+  "title": "Towards Multimodal Simultaneous Neural Machine Translation",
+  "authors": [
+    "Aizhan Imankulova",
+    "Masahiro Kaneko",
+    "Tosho Hirasawa",
+    "Mamoru Komachi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Czech",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2020.wmt-1.70",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.70/"
+}

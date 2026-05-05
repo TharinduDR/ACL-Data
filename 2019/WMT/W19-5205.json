@@ -1,0 +1,20 @@
+{
+  "title": "Generalizing Back-Translation in Neural Machine Translation",
+  "authors": [
+    "Miguel Graça",
+    "Yunsu Kim",
+    "Julian Schamper",
+    "Shahram Khadivi",
+    "Hermann Ney"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "W19-5205",
+  "acl_url": "https://aclanthology.org/W19-5205/"
+}

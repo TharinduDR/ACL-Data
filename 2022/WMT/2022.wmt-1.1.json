@@ -1,0 +1,43 @@
+{
+  "title": "Findings of the 2022 Conference on Machine Translation (WMT22)",
+  "authors": [
+    "Tom Kocmi",
+    "Rachel Bawden",
+    "Ondřej Bojar",
+    "Anton Dvorkovich",
+    "Christian Federmann",
+    "Mark Fishel",
+    "Thamme Gowda",
+    "Yvette Graham",
+    "Roman Grundkiewicz",
+    "Barry Haddow",
+    "Rebecca Knowles",
+    "Philipp Koehn",
+    "Christof Monz",
+    "Makoto Morishita",
+    "Masaaki Nagata",
+    "Toshiaki Nakazawa",
+    "Michal Novák",
+    "Martin Popel",
+    "Maja Popović",
+    "Mariya Shmatova"
+  ],
+  "languages": [
+    "Chinese",
+    "Czech",
+    "English",
+    "French",
+    "German",
+    "Japanese",
+    "Livonian",
+    "Russian",
+    "Ukrainian",
+    "Yakut"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.wmt-1.1",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.1/"
+}

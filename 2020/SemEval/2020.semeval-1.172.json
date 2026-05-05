@@ -1,0 +1,20 @@
+{
+  "title": "LIMSI_UPV at SemEval-2020 Task 9: Recurrent Convolutional Neural Network for Code-mixed Sentiment Analysis",
+  "authors": [
+    "Sommath Banerjee",
+    "Sahar Ghannay",
+    "Sophie Rosset",
+    "Anne Vilnat",
+    "Paolo Rosso"
+  ],
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "research_areas": [
+    "T20",
+    "T23"
+  ],
+  "paper_id": "2020.semeval-1.172",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.172/"
+}

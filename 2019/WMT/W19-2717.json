@@ -1,0 +1,28 @@
+{
+  "title": "GumDrop at the DISRPT2019 Shared Task: A Model Stacking Approach to Discourse Unit Segmentation and Connective Detection",
+  "authors": [
+    "Yue Yu",
+    "Yilun Zhu",
+    "Yang Liu",
+    "Yan Liu",
+    "Siyao Peng",
+    "Mackenzie Gong",
+    "Amir Zeldes"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W19-2717",
+  "acl_url": "https://aclanthology.org/W19-2717/"
+}

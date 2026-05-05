@@ -1,0 +1,20 @@
+{
+  "title": "BAKSA at SemEval-2020 Task 9: Bolstering CNN with Self-Attention for Sentiment Analysis of Code Mixed Text",
+  "authors": [
+    "Ayush Kumar",
+    "Harsh Agarwal",
+    "Keshav Bansal",
+    "Ashutosh Modi"
+  ],
+  "languages": [
+    "Hindi",
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T20",
+    "T23"
+  ],
+  "paper_id": "2020.semeval-1.162",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.162/"
+}

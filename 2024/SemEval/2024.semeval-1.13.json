@@ -1,0 +1,25 @@
+{
+  "title": "NRK at SemEval-2024 Task 1: Semantic Textual Relatedness through Domain Adaptation and Ensemble Learning on BERT-based models",
+  "authors": [
+    "Nguyen Tuan Kiet",
+    "Dang Van Thin"
+  ],
+  "languages": [
+    "Arabic",
+    "Amharic",
+    "English",
+    "Hausa",
+    "Kinyarwanda",
+    "Marathi",
+    "Moroccan Arabic",
+    "Spanish",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.semeval-1.13",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.13/"
+}

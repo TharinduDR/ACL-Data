@@ -1,0 +1,30 @@
+{
+  "title": "Laniqo at WMT25 General Translation Task: Self-Improved and Retrieval-Augmented Translation",
+  "authors": [
+    "Kamil Guttmann",
+    "Zofia Rostek",
+    "Adrian Charkiewicz",
+    "Antoni Solarski",
+    "Mikołaj Pokrywka",
+    "Artur Nowakowski"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Ukrainian",
+    "Chinese",
+    "Czech",
+    "Estonian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wmt-1.54",
+  "acl_url": "https://aclanthology.org/2025.wmt-1.54/"
+}

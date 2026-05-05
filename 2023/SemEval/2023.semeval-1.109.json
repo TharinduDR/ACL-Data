@@ -1,0 +1,26 @@
+{
+  "title": "UnedMediaBiasTeam @ SemEval-2023 Task 3: Can We Detect Persuasive Techniques Transferring Knowledge From Media Bias Detection?",
+  "authors": [
+    "Francisco-Javier Rodrigo-Ginés",
+    "Laura Plaza",
+    "Jorge Carrillo-de-Albornoz"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Polish",
+    "Russian",
+    "Spanish",
+    "Greek",
+    "Georgian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.semeval-1.109",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.109/"
+}

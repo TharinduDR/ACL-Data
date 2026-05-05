@@ -1,0 +1,21 @@
+{
+  "title": "TTIC's Submission to WMT-SLT 23",
+  "authors": [
+    "Marcelo Sandoval-Castañeda",
+    "Yanhong Li",
+    "Bowen Shi",
+    "Diane Brentari",
+    "Karen Livescu",
+    "Gregory Shakhnarovich"
+  ],
+  "languages": [
+    "German",
+    "Swiss-German Sign Language"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.wmt-1.35",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.35/"
+}

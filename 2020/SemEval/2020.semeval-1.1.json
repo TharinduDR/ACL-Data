@@ -1,0 +1,22 @@
+{
+  "title": "SemEval-2020 Task 1: Unsupervised Lexical Semantic Change Detection",
+  "authors": [
+    "Dominik Schlechtweg",
+    "Barbara McGillivray",
+    "Simon Hengchen",
+    "Haim Dubossarsky",
+    "Nina Tahmasebi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Latin",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.semeval-1.1",
+  "acl_url": "https://aclanthology.org/2020.semeval-1.1/"
+}

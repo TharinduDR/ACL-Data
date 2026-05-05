@@ -1,0 +1,23 @@
+{
+  "title": "Results of the WMT15 Metrics Shared Task",
+  "authors": [
+    "Miloš Stanojević",
+    "Amir Kamran",
+    "Philipp Koehn",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Czech",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W15-3031",
+  "acl_url": "https://aclanthology.org/W15-3031/"
+}

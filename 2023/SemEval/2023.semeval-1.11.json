@@ -1,0 +1,22 @@
+{
+  "title": "Mr-Fosdick at SemEval-2023 Task 5: Comparing Dataset Expansion Techniques for Non-Transformer and Transformer Models: Improving Model Performance through Data Augmentation",
+  "authors": [
+    "Christian Falkenberg",
+    "Erik Schönwälder",
+    "Tom Rietzke",
+    "Chris-Andris Görner",
+    "Robert Walther",
+    "Julius Gonsior",
+    "Anja Reusch"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.semeval-1.11",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.11/"
+}

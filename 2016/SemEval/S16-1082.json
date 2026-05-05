@@ -1,0 +1,21 @@
+{
+  "title": "SemEval-2016 Task 2: Interpretable Semantic Textual Similarity",
+  "authors": [
+    "Eneko Agirre",
+    "Aitor Gonzalez-Agirre",
+    "Iñigo Lopez-Gazpio",
+    "Montse Maritxalar",
+    "German Rigau",
+    "Larraitz Uría"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "S16-1082",
+  "acl_url": "https://aclanthology.org/S16-1082/"
+}

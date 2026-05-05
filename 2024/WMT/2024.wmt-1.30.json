@@ -1,0 +1,21 @@
+{
+  "title": "A test suite of prompt injection attacks for LLM-based machine translation",
+  "authors": [
+    "Antonio Valerio Miceli-Barone",
+    "Zhifan Sun"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Czech",
+    "Ukrainian",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.30",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.30/"
+}

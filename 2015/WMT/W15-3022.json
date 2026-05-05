@@ -1,0 +1,23 @@
+{
+  "title": "Abu-MaTran at WMT 2015 Translation Task: Morphological Segmentation and Web Crawling",
+  "authors": [
+    "Raphael Rubino",
+    "Tommi Pirinen",
+    "Miquel Esplà-Gomis",
+    "Nikola Ljubešić",
+    "Sergio Ortiz-Rojas",
+    "Vassilis Papavassiliou",
+    "Prokopis Prokopidis",
+    "Antonio Toral"
+  ],
+  "languages": [
+    "English",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W15-3022",
+  "acl_url": "https://aclanthology.org/W15-3022/"
+}

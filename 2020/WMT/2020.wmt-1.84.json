@@ -1,0 +1,23 @@
+{
+  "title": "Alibaba's Submission for the WMT 2020 APE Shared Task: Improving Automatic Post-Editing with Pre-trained Conditional Cross-Lingual BERT",
+  "authors": [
+    "Jiayi Wang",
+    "Ke Wang",
+    "Kai Fan",
+    "Yuqi Zhang",
+    "Jun Lu",
+    "Xin Ge",
+    "Yangbin Shi",
+    "Yu Zhao"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2020.wmt-1.84",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.84/"
+}

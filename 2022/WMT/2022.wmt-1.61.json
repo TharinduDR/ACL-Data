@@ -1,0 +1,37 @@
+{
+  "title": "CrossQE: HW-TSC 2022 Submission for the Quality Estimation Shared Task",
+  "authors": [
+    "Shimin Tao",
+    "Chang Su",
+    "Miaomiao Ma",
+    "Hao Yang",
+    "Min Zhang",
+    "Xiang Geng",
+    "Shujian Huang",
+    "Jiaxin Guo",
+    "Minghan Wang",
+    "Yinglu Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Russian",
+    "German",
+    "Marathi",
+    "Estonian",
+    "Nepali",
+    "Romanian",
+    "Sinhala",
+    "Czech",
+    "Japanese",
+    "Khmer",
+    "Pashto"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.wmt-1.61",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.61/"
+}

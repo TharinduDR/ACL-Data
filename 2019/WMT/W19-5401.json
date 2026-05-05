@@ -1,0 +1,22 @@
+{
+  "title": "Findings of the WMT 2019 Shared Tasks on Quality Estimation",
+  "authors": [
+    "Erick Fonseca",
+    "Lisa Yankovskaya",
+    "André F. T. Martins",
+    "Mark Fishel",
+    "Christian Federmann"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W19-5401",
+  "acl_url": "https://aclanthology.org/W19-5401/"
+}

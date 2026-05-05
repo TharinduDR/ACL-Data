@@ -1,0 +1,29 @@
+{
+  "title": "Witcherses at SemEval-2023 Task 12: Ensemble Learning for African Sentiment Analysis",
+  "authors": [
+    "Monil Gokani",
+    "K V Aditya Srivatsa",
+    "Radhika Mamidi"
+  ],
+  "languages": [
+    "Amharic",
+    "Algerian Arabic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Darija",
+    "Nigerian Pidgin",
+    "Mozambican Portuguese",
+    "Swahili",
+    "Xitsonga",
+    "Twi",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.semeval-1.48",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.48/"
+}

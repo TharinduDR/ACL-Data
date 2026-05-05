@@ -1,0 +1,30 @@
+{
+  "title": "BERGAMOT-LATTE Submissions for the WMT20 Quality Estimation Shared Task",
+  "authors": [
+    "Marina Fomicheva",
+    "Shuo Sun",
+    "Lisa Yankovskaya",
+    "Frédéric Blain",
+    "Vishrav Chaudhary",
+    "Mark Fishel",
+    "Francisco Guzmán",
+    "Lucia Specia"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Sinhala",
+    "Nepalese",
+    "Estonian",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.116",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.116/"
+}

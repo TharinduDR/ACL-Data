@@ -1,0 +1,37 @@
+{
+  "title": "DAMO-NLP at SemEval-2022 Task 11: A Knowledge-based System for Multilingual Named Entity Recognition",
+  "authors": [
+    "Xinyu Wang",
+    "Yongliang Shen",
+    "Jiong Cai",
+    "Tao Wang",
+    "Xiaobin Wang",
+    "Pengjun Xie",
+    "Fei Huang",
+    "Weiming Lu",
+    "Yuetting Zhuang",
+    "Kewei Tu",
+    "Wei Lu",
+    "Yong Jiang"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Dutch",
+    "Russian",
+    "Turkish",
+    "Korean",
+    "Persian",
+    "German",
+    "Chinese",
+    "Hindi",
+    "Bangla"
+  ],
+  "research_areas": [
+    "T11",
+    "T13",
+    "T14"
+  ],
+  "paper_id": "2022.semeval-1.200",
+  "acl_url": "https://aclanthology.org/2022.semeval-1.200/"
+}

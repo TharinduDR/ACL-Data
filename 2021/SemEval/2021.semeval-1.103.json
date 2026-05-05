@@ -1,0 +1,23 @@
+{
+  "title": "LIORI at SemEval-2021 Task 2: Span Prediction and Binary Classification approaches to Word-in-Context Disambiguation",
+  "authors": [
+    "Adis Davletov",
+    "Nikolay Arefyev",
+    "Denis Gordeev",
+    "Alexey Rey"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2021.semeval-1.103",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.103/"
+}

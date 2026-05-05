@@ -1,0 +1,25 @@
+{
+  "title": "IIT-TUDA at SemEval-2016 Task 5: Beyond Sentiment Lexicon: Combining Domain Dependency and Distributional Semantics Features for Aspect Based Sentiment Analysis",
+  "authors": [
+    "Ayush Kumar",
+    "Sarah Kohail",
+    "Amit Kumar",
+    "Asif Ekbal",
+    "Chris Biemann"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "French",
+    "Spanish",
+    "Russian",
+    "Turkish",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "S16-1174",
+  "acl_url": "https://aclanthology.org/S16-1174/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "TakeLab at SemEval-2019 Task 4: Hyperpartisan News Detection",
+  "authors": [
+    "Niko Palić",
+    "Juraj Vladika",
+    "Dominik Čubelić",
+    "Ivan Lovrenčić",
+    "Maja Buljan",
+    "Jan Šnajder"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "S19-2172",
+  "acl_url": "https://aclanthology.org/S19-2172/"
+}

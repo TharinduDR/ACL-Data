@@ -1,0 +1,21 @@
+{
+  "title": "NLPR@SRPOL at SemEval-2019 Task 6: Linguistically enhanced deep learning offensive sentence classifier",
+  "authors": [
+    "Alessandro Seganti",
+    "Helena Sobol",
+    "Iryna Orlova",
+    "Hannam Kim",
+    "Jakub Staniszewski",
+    "Tymoteusz Krumholc",
+    "Krystian Koziel"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "S19-2126",
+  "acl_url": "https://aclanthology.org/S19-2126/"
+}

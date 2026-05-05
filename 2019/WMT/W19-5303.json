@@ -1,0 +1,27 @@
+{
+  "title": "Findings of the First Shared Task on Machine Translation Robustness",
+  "authors": [
+    "Xian Li",
+    "Paul Michel",
+    "Antonios Anastasopoulos",
+    "Yonatan Belinkov",
+    "Nadir Durrani",
+    "Orhan Firat",
+    "Philipp Koehn",
+    "Graham Neubig",
+    "Juan Pino",
+    "Hassan Sajjad"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T23 Social Media Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W19-5303",
+  "acl_url": "https://aclanthology.org/W19-5303/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The LMU Munich Unsupervised Machine Translation System for WMT19",
+  "authors": [
+    "Dario Stojanovski",
+    "Viktor Hangya",
+    "Matthias Huck",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "German",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W19-5344",
+  "acl_url": "https://aclanthology.org/W19-5344/"
+}

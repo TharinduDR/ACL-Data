@@ -1,0 +1,17 @@
+{
+  "title": "BERT with Lemma Information for MCL-WiC Task",
+  "authors": [
+    "Wanying Xie"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2021.semeval-1.92",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.92/"
+}

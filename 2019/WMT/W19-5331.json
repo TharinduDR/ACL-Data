@@ -1,0 +1,17 @@
+{
+  "title": "PROMT Systems for WMT 2019 Shared Translation Task",
+  "authors": [
+    "Alexander Molchanov"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W19-5331",
+  "acl_url": "https://aclanthology.org/W19-5331/"
+}

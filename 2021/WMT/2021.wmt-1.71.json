@@ -1,0 +1,32 @@
+{
+  "title": "Findings of the WMT 2021 Shared Task on Quality Estimation",
+  "authors": [
+    "Lucia Specia",
+    "Frédéric Blain",
+    "Marina Fomicheva",
+    "Chrysoula Zerva",
+    "Zhenhao Li",
+    "Vishrav Chaudhary",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Russian",
+    "Romanian",
+    "Estonian",
+    "Sinhala",
+    "Nepali",
+    "Czech",
+    "Japanese",
+    "Pashto",
+    "Khmer"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.wmt-1.71",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.71/"
+}

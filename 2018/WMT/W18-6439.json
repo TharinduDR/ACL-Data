@@ -1,0 +1,27 @@
+{
+  "title": "The MeMAD Submission to the WMT18 Multimodal Translation Task",
+  "authors": [
+    "Stig-Arne Grönroos",
+    "Benoit Huet",
+    "Mikko Kurimo",
+    "Jorma Laaksonen",
+    "Bernard Merialdo",
+    "Phu Pham",
+    "Mats Sjöberg",
+    "Umut Sulubacak",
+    "Jörg Tiedemann",
+    "Raphael Troncy",
+    "Raúl Vázquez"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "W18-6439",
+  "acl_url": "https://aclanthology.org/W18-6439/"
+}

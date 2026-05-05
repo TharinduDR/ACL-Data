@@ -1,0 +1,22 @@
+{
+  "title": "PAW at SemEval-2021 Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation: Exploring Cross Lingual Transfer, Augmentations and Adversarial Training",
+  "authors": [
+    "Harsh Goyal",
+    "Aadarsh Singh",
+    "Priyanshu Kumar"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "French",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.semeval-1.98",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.98/"
+}

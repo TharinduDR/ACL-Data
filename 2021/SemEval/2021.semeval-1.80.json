@@ -1,0 +1,18 @@
+{
+  "title": "CSECU-DSG at SemEval-2021 Task 1: Fusion of Transformer Models for Lexical Complexity Prediction",
+  "authors": [
+    "Abdul Aziz",
+    "MD. Akram Hossain",
+    "Abu Nowshed Chy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.semeval-1.80",
+  "acl_url": "https://aclanthology.org/2021.semeval-1.80/"
+}

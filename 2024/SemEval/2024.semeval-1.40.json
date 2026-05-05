@@ -1,0 +1,19 @@
+{
+  "title": "NCL_NLP at SemEval-2024 Task 7: CoT-NumHG: A CoT-Based SFT Training Strategy with Large Language Models for Number-Focused Headline Generation",
+  "authors": [
+    "Junzhe Zhao",
+    "Yingxi Wang",
+    "Huizhi Liang",
+    "Nicolay Rusnachenko"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.semeval-1.40",
+  "acl_url": "https://aclanthology.org/2024.semeval-1.40/"
+}

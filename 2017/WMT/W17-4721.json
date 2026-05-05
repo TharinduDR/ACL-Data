@@ -1,0 +1,21 @@
+{
+  "title": "LIMSI@WMT'17",
+  "authors": [
+    "Franck Burlot",
+    "Pooyan Safari",
+    "Matthieu Labeau",
+    "Alexandre Allauzen",
+    "François Yvon"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Latvian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W17-4721",
+  "acl_url": "https://aclanthology.org/W17-4721/"
+}

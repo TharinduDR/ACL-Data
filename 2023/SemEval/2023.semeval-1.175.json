@@ -1,0 +1,26 @@
+{
+  "title": "QCon at SemEval-2023 Task 10: Data Augmentation and Model Ensembling for Detection of Online Sexism",
+  "authors": [
+    "Weston Feely",
+    "Prabhakar Gupta",
+    "Manas Mohanty",
+    "Timothy Chon",
+    "Tuhin Kundu",
+    "Vijit Singh",
+    "Sandeep Atluri",
+    "Tanya Roosta",
+    "Viviane Ghaderi",
+    "Peter Schulam",
+    "Heba Elfardy"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.semeval-1.175",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.175/"
+}

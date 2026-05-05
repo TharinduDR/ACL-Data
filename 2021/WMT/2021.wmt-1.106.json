@@ -1,0 +1,19 @@
+{
+  "title": "Language model pre-training and transfer learning for very low resource languages",
+  "authors": [
+    "Jyotsana Khatri",
+    "Rudra Murthy V",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "German",
+    "Upper Sorbian",
+    "Lower Sorbian"
+  ],
+  "research_areas": [
+    "T14",
+    "T16"
+  ],
+  "paper_id": "2021.wmt-1.106",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.106/"
+}

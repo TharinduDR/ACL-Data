@@ -1,0 +1,29 @@
+{
+  "title": "HW-TSC's Submissions to the WMT21 Biomedical Translation Task",
+  "authors": [
+    "Hao Yang",
+    "Zhanglin Wu",
+    "Zhengze Yu",
+    "Xiaoyu Chen",
+    "Daimeng Wei",
+    "Zongyao Li",
+    "Hengchao Shang",
+    "Jiaxin Guo",
+    "Minghan Wang",
+    "Lizhi Lei",
+    "Chuanfei Xu",
+    "Min Zhang",
+    "Ying Qin"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2021.wmt-1.90",
+  "acl_url": "https://aclanthology.org/2021.wmt-1.90/"
+}

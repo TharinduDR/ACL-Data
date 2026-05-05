@@ -1,0 +1,22 @@
+{
+  "title": "Mitigating Gender Bias in Machine Translation with Target Gender Annotations",
+  "authors": [
+    "Artūrs Stafanovičs",
+    "Toms Bergmanis",
+    "Mārcis Pinnis"
+  ],
+  "languages": [
+    "English",
+    "Latvian",
+    "German",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.wmt-1.73",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.73/"
+}

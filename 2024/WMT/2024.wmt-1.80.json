@@ -1,0 +1,27 @@
+{
+  "title": "Chitravanud: Adapting Multi-Lingual LLMs for Multimodal Translation",
+  "authors": [
+    "Shaharukh Khan",
+    "Ayush Tarun",
+    "Ali Faraz",
+    "Palash Kamble",
+    "Vivek Dahiya",
+    "Praveen Pokala",
+    "Ashish Kulkarni",
+    "Chandra Khatri",
+    "Abhinav Ravi",
+    "Shubham Agarwal"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.wmt-1.80",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.80/"
+}

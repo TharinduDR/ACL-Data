@@ -1,0 +1,21 @@
+{
+  "title": "CUNI-LMU Submissions in WMT2016: Chimera Constrained and Beaten",
+  "authors": [
+    "Aleš Tamchyna",
+    "Roman Sudarikov",
+    "Ondřej Bojar",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W16-2325",
+  "acl_url": "https://aclanthology.org/W16-2325/"
+}

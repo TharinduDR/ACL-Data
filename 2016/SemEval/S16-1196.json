@@ -1,0 +1,21 @@
+{
+  "title": "ULISBOA at SemEval-2016 Task 12: Extraction of temporal expressions, clinical events and relations using IBEnt",
+  "authors": [
+    "Marcia Barros",
+    "Andre Lamurias",
+    "Gonçalo Figueiro",
+    "Marta Antunes",
+    "Joana Teixeira",
+    "Alexandre Pinheiro",
+    "Francisco M. Couto"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "S16-1196",
+  "acl_url": "https://aclanthology.org/S16-1196/"
+}

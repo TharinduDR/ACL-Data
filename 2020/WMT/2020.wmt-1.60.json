@@ -1,0 +1,21 @@
+{
+  "title": "Tencent AI Lab Machine Translation Systems for WMT20 Chat Translation Task",
+  "authors": [
+    "Longyue Wang",
+    "Zhaopeng Tu",
+    "Xing Wang",
+    "Li Ding",
+    "Liang Ding",
+    "Shuming Shi"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2020.wmt-1.60",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.60/"
+}

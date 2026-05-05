@@ -1,0 +1,20 @@
+{
+  "title": "D2KLab at SemEval-2023 Task 2: Leveraging T-NER to Develop a Fine-Tuned Multilingual Model for Complex Named Entity Recognition",
+  "authors": [
+    "Thibault Ehrhart",
+    "Raphaël Troncy",
+    "Julien Plu"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Persian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2023.semeval-1.115",
+  "acl_url": "https://aclanthology.org/2023.semeval-1.115/"
+}

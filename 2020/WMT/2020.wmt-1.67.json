@@ -1,0 +1,19 @@
+{
+  "title": "Paraphrase Generation as Zero-Shot Multilingual Translation: Disentangling Semantic Similarity from Lexical and Syntactic Diversity",
+  "authors": [
+    "Brian Thompson",
+    "Matt Post"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.wmt-1.67",
+  "acl_url": "https://aclanthology.org/2020.wmt-1.67/"
+}

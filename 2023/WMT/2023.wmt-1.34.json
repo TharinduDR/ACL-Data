@@ -1,0 +1,28 @@
+{
+  "title": "Machine Translation for Nko: Tools, Corpora and Baseline Results",
+  "authors": [
+    "Moussa Kouliko Bala Doumbouya",
+    "Baba Mamadi Diané",
+    "Solo Farabado Cissé",
+    "Djibrila Diané",
+    "Abdoulaye Sow",
+    "Séré Moussa Doumbouya",
+    "Daouda Bangoura",
+    "Fodé Moriba Bayo",
+    "Ibrahima Sory 2. Condé",
+    "Kalo Mory Diané",
+    "Chris Piech",
+    "Christopher Manning"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Bambara"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.wmt-1.34",
+  "acl_url": "https://aclanthology.org/2023.wmt-1.34/"
+}

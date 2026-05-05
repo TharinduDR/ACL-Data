@@ -1,0 +1,36 @@
+{
+  "title": "Samsung Research Philippines - Datasaur AI's Submission for the WMT22 Large Scale Multilingual Translation Task",
+  "authors": [
+    "Jan Christian Blaise Cruz",
+    "Lintang Sutawika"
+  ],
+  "languages": [
+    "English",
+    "Afrikaans",
+    "Amharic",
+    "Fulani",
+    "Hausa",
+    "Igbo",
+    "Kamba",
+    "Kinyarwanda",
+    "Luganda",
+    "Luo",
+    "Ndebele",
+    "Nyanja",
+    "Oromo",
+    "Sesotho",
+    "Somali",
+    "Swahili",
+    "Tsonga",
+    "Tswana",
+    "Xhosa",
+    "Yoruba",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.wmt-1.100",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.100/"
+}

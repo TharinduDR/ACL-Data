@@ -1,0 +1,29 @@
+{
+  "title": "Teaching Unseen Low-resource Languages to Large Translation Models",
+  "authors": [
+    "Maali Tars",
+    "Taido Purason",
+    "Andre Tättar"
+  ],
+  "languages": [
+    "English",
+    "Livonian",
+    "Estonian",
+    "Finnish",
+    "Latvian",
+    "Norwegian",
+    "Võro",
+    "North Sami",
+    "South Sami",
+    "Inari Sami",
+    "Skolt Sami",
+    "Lule Sami"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.wmt-1.33",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.33/"
+}

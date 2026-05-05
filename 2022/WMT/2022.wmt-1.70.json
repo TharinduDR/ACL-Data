@@ -1,0 +1,24 @@
+{
+  "title": "Findings of the WMT 2022 Shared Task on Chat Translation",
+  "authors": [
+    "Ana C. Farinha",
+    "M. Amin Farajian",
+    "Marianna Buchicchio",
+    "Patrick Fernandes",
+    "José G. C. de Souza",
+    "Helena Moniz",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.wmt-1.70",
+  "acl_url": "https://aclanthology.org/2022.wmt-1.70/"
+}
