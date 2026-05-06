@@ -1,0 +1,19 @@
+{
+  "title": "Bridging the Gap between Subword and Character Segmentation in Pretrained Language Models",
+  "authors": [
+    "Shun Kiyono",
+    "Sho Takase",
+    "Shengzhe Li",
+    "Toshinori Sato"
+  ],
+  "languages": [
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.ranlp-1.62",
+  "acl_url": "https://aclanthology.org/2023.ranlp-1.62/"
+}

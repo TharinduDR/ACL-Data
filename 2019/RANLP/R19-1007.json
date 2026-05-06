@@ -1,0 +1,21 @@
+{
+  "title": "Supervised Morphological Segmentation Using Rich Annotated Lexicon",
+  "authors": [
+    "Ebrahim Ansari",
+    "Zdeněk Žabokrtský",
+    "Mohammad Mahmoudi",
+    "Hamid Haghdoust",
+    "Jonáš Vidra"
+  ],
+  "languages": [
+    "Persian",
+    "Czech",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "R19-1007",
+  "acl_url": "https://aclanthology.org/R19-1007/"
+}

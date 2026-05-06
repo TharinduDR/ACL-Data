@@ -1,0 +1,30 @@
+{
+  "title": "Simultaneous Machine Translation with Large Language Models",
+  "authors": [
+    "Minghan Wang",
+    "Thuy-Trang Vu",
+    "Jinming Zhao",
+    "Fatemeh Shiri",
+    "Ehsan Shareghi",
+    "Gholamreza Haffari"
+  ],
+  "languages": [
+    "Chinese",
+    "Czech",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.alta-1.7",
+  "acl_url": "https://aclanthology.org/2024.alta-1.7/"
+}

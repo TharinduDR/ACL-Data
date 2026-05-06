@@ -1,0 +1,17 @@
+{
+  "title": "Does an LSTM forget more than a CNN? An empirical study of catastrophic forgetting in NLP",
+  "authors": [
+    "Gaurav Arora",
+    "Afshin Rahimi",
+    "Timothy Baldwin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "U19-1011",
+  "acl_url": "https://aclanthology.org/U19-1011/"
+}

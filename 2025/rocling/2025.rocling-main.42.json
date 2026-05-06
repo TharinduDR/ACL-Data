@@ -1,0 +1,18 @@
+{
+  "title": "CYUT-NLP at ROCLING-2025 Shared Task: Valence-Arousal Prediction in Physicians' Texts Using BERT, RAG, and Multi-Teacher Pseudo-Labeling",
+  "authors": [
+    "JIAN, YI-MIN",
+    "HSIAO An Yu",
+    "Shih-Hung Wu*"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.rocling-main.42",
+  "acl_url": "https://aclanthology.org/2025.rocling-main.42/"
+}

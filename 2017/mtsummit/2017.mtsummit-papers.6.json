@@ -1,0 +1,19 @@
+{
+  "title": "The Microsoft Speech Language Translation (MSLT) Corpus for Chinese and Japanese: Conversational Test data for Machine Translation and Speech Recognition",
+  "authors": [
+    "Christian Federmann",
+    "William D. Lewis"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2017.mtsummit-papers.6",
+  "acl_url": "https://aclanthology.org/2017.mtsummit-papers.6/"
+}

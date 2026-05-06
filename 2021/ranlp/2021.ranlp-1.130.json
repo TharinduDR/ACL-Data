@@ -1,0 +1,18 @@
+{
+  "title": "Multi-label Diagnosis Classification of Swedish Discharge Summaries – ICD-10 Code Assignment Using KB-BERT",
+  "authors": [
+    "Sonja Remmer",
+    "Anastasios Lamproudias",
+    "Hercules Dalianis"
+  ],
+  "languages": [
+    "Swedish",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2021.ranlp-1.130",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.130/"
+}

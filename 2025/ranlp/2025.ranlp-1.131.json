@@ -1,0 +1,40 @@
+{
+  "title": "Cross-Lingual Fact Verification: Analyzing LLM Performance Patterns Across Languages",
+  "authors": [
+    "Hanna Shcharbakova",
+    "Tatiana Anikina",
+    "Natalia Skachkova",
+    "Josef van Genabith"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Indonesian",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Serbian",
+    "Spanish",
+    "Turkish",
+    "Albanian",
+    "Azerbaijani",
+    "Bengali",
+    "Dutch",
+    "French",
+    "Gujarati",
+    "Marathi",
+    "Norwegian",
+    "Persian",
+    "Punjabi",
+    "Russian",
+    "Sinhala",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ranlp-1.131",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.131/"
+}

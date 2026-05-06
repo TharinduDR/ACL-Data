@@ -1,0 +1,23 @@
+{
+  "title": "Domain Knowledge Distillation for Multilingual Sentence Encoders in Cross-lingual Sentence Similarity Estimation",
+  "authors": [
+    "Risa Kondo",
+    "Hiroki Yamauchi",
+    "Tomoyuki Kajiwara",
+    "Marie Katsurai",
+    "Takashi Ninomiya"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2025.ranlp-1.67",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.67/"
+}

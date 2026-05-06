@@ -1,0 +1,19 @@
+{
+  "title": "Exploring the Feasibility of Multilingual Grammatical Error Correction with a Single LLM up to 9B parameters: A Comparative Study of 17 Models",
+  "authors": [
+    "Dawid Wisniewski",
+    "Antoni Solarski",
+    "Artur Nowakowski"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T29"
+  ],
+  "paper_id": "2025.mtsummit-1.18",
+  "acl_url": "https://aclanthology.org/2025.mtsummit-1.18/"
+}

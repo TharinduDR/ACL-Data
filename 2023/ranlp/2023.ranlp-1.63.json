@@ -1,0 +1,19 @@
+{
+  "title": "Evaluating Data Augmentation for Medication Identification in Clinical Notes",
+  "authors": [
+    "Jordan Koontz",
+    "Maite Oronoz",
+    "Alicia Pérez"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2023.ranlp-1.63",
+  "acl_url": "https://aclanthology.org/2023.ranlp-1.63/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "The Devil is in the Details: Assessing the Effects of Machine-Translation on LLM Performance in Domain-Specific Texts",
+  "authors": [
+    "Javier Osorio",
+    "Afraa Alshammari",
+    "Naif Alatrush",
+    "Dagmar Heintze",
+    "Amber Converse",
+    "Sultan Alsarra",
+    "Latifur Khan",
+    "Patrick T. Brandt",
+    "Vito D'Orazio"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.mtsummit-1.24",
+  "acl_url": "https://aclanthology.org/2025.mtsummit-1.24/"
+}

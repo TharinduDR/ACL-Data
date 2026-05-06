@@ -1,0 +1,21 @@
+{
+  "title": "Training Automatic Transliteration Models on DBpedia Data",
+  "authors": [
+    "Velislava Todorova",
+    "Kiril Simov"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "R15-1084",
+  "acl_url": "https://aclanthology.org/R15-1084/"
+}

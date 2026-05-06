@@ -1,0 +1,23 @@
+{
+  "title": "XFEVER: Exploring Fact Verification across Languages",
+  "authors": [
+    "Yi-Chen Chang",
+    "Canasai Kruengkrai",
+    "Junichi Yamagishi"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Indonesian",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.rocling-1.1",
+  "acl_url": "https://aclanthology.org/2023.rocling-1.1/"
+}

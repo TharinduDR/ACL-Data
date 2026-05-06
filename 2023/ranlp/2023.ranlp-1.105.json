@@ -1,0 +1,23 @@
+{
+  "title": "Cross-Lingual Speaker Identification for Indian Languages",
+  "authors": [
+    "Amaan Rizvi",
+    "Anupam Jamatia",
+    "Dwijen Rudrapal",
+    "Kunal Chakma",
+    "Björn Gambäck"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2023.ranlp-1.105",
+  "acl_url": "https://aclanthology.org/2023.ranlp-1.105/"
+}

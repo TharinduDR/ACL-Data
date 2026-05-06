@@ -1,0 +1,24 @@
+{
+  "title": "Contextual Cues in Machine Translation: Investigating the Potential of Multi-Source Input Strategies in LLMs and NMT Systems",
+  "authors": [
+    "Lia Shahnazaryan",
+    "Patrick Simianer",
+    "Joern Wuebker"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Portuguese",
+    "Spanish",
+    "French",
+    "Italian",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ranlp-1.127",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.127/"
+}

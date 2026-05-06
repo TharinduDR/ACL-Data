@@ -1,0 +1,40 @@
+{
+  "title": "ParaCrawl: Web-scale parallel corpora for the languages of the EU",
+  "authors": [
+    "M. Esplà-Gomis",
+    "M.L. Forcada",
+    "G. Ramírez-Sánchez",
+    "H. Hoang"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Estonian",
+    "French",
+    "Finnish",
+    "German",
+    "Greek",
+    "Hungarian",
+    "Irish",
+    "Italian",
+    "Latvian",
+    "Lithuanian",
+    "Maltese",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Slovak",
+    "Slovenian",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W19-6721",
+  "acl_url": "https://aclanthology.org/W19-6721/"
+}

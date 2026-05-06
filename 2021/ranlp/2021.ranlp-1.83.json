@@ -1,0 +1,26 @@
+{
+  "title": "Multilingual Multi-Domain NMT for Indian Languages",
+  "authors": [
+    "Sourav Kumar",
+    "Salil Aggarwal",
+    "Dipt Misra"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Punjabi",
+    "Gujarati",
+    "Marathi",
+    "Bengali",
+    "Oriya",
+    "Kannada",
+    "Malayalam",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.ranlp-1.83",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.83/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "A Pre-trained Transformer and CNN model with Joint Language ID and Part-of-Speech Tagging for Code-Mixed Social-Media Text",
+  "authors": [
+    "Suman Dowlagar",
+    "Radhika Mamidi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2021.ranlp-1.42",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.42/"
+}

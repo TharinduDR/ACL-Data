@@ -1,0 +1,26 @@
+{
+  "title": "Isolating LLM Performance Gains in Pre-training versus Instruction-tuning for Mid-resource Languages: The Ukrainian Benchmark Study",
+  "authors": [
+    "Yurii Paniv"
+  ],
+  "languages": [
+    "Ukrainian",
+    "English",
+    "Polish",
+    "Russian",
+    "Romanian",
+    "German",
+    "Czech",
+    "Hungarian",
+    "Slovak",
+    "Crimean Tatar"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.ranlp-1.100",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.100/"
+}

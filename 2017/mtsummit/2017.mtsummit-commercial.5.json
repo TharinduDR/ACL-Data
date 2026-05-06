@@ -1,0 +1,21 @@
+{
+  "title": "Toward a full-scale neural machine translation in production: the Booking.com use case",
+  "authors": [
+    "Pavel Levin",
+    "Nishikant Dhanuka",
+    "Talaat Khalil",
+    "Fedor Kovalev",
+    "Maxim Khalilov"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2017.mtsummit-commercial.5",
+  "acl_url": "https://aclanthology.org/2017.mtsummit-commercial.5/"
+}

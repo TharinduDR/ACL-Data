@@ -1,0 +1,18 @@
+{
+  "title": "Sequential Graph Dependency Parser",
+  "authors": [
+    "Sean Welleck",
+    "Kyunghyun Cho"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Ancient Greek"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "R19-1153",
+  "acl_url": "https://aclanthology.org/R19-1153/"
+}

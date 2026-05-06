@@ -1,0 +1,22 @@
+{
+  "title": "Fine-Tuning and Evaluation of Question Generation for Slovak Language",
+  "authors": [
+    "Ondrej Megela",
+    "Daniel Hladek",
+    "Matúš Pleva",
+    "Ján Staš",
+    "Ming-Hsiang Su",
+    "Yuan-Fu Liao"
+  ],
+  "languages": [
+    "Slovak",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.rocling-1.20",
+  "acl_url": "https://aclanthology.org/2023.rocling-1.20/"
+}

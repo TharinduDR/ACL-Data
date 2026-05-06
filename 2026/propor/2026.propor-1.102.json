@@ -1,0 +1,23 @@
+{
+  "title": "A Math Reasoning Benchmark for European and Brazilian Portuguese",
+  "authors": [
+    "Tiago Teixeira",
+    "Ana Carolina Erthal",
+    "Juan Belieni",
+    "Beatriz Canaverde",
+    "Diego Mesquita",
+    "Miguel Faria",
+    "Eliezer de Souza da Silva",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2026.propor-1.102",
+  "acl_url": "https://aclanthology.org/2026.propor-1.102/"
+}

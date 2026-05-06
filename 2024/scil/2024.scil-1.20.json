@@ -1,0 +1,29 @@
+{
+  "title": "Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches",
+  "authors": [
+    "Damir Cavar",
+    "Zoran Tiganj",
+    "Ludovic Veta Mompelat",
+    "Billy Dickson"
+  ],
+  "languages": [
+    "Croatian",
+    "German",
+    "English",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Polish",
+    "Russian",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.scil-1.20",
+  "acl_url": "https://aclanthology.org/2024.scil-1.20/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "On the Contribution of Per-ICD Attention Mechanisms to Classify Health Records in Languages With Fewer Resources than English",
+  "authors": [
+    "Alberto Blanco",
+    "Sonja Remmer",
+    "Alicia Pérez",
+    "Hercules Dalianis",
+    "Arantza Casillas"
+  ],
+  "languages": [
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.ranlp-1.20",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.20/"
+}

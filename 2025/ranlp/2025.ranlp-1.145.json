@@ -1,0 +1,19 @@
+{
+  "title": "Building a Clean Bartangi Language Corpus and Training Word Embeddings for Low-Resource Language Modeling",
+  "authors": [
+    "Warda Tariq",
+    "Victor Popov",
+    "Vasiliy Gromov"
+  ],
+  "languages": [
+    "Bartangi",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.ranlp-1.145",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.145/"
+}

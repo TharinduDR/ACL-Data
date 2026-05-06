@@ -1,0 +1,33 @@
+{
+  "title": "Generating Feature Vectors from Phonetic Transcriptions in Cross-Linguistic Data Formats",
+  "authors": [
+    "Arne Rubehn",
+    "Jessica Nieder",
+    "Robert Forkel",
+    "Johann-Mattis List"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T24 Speech Resources and Processing",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.scil-1.19",
+  "acl_url": "https://aclanthology.org/2024.scil-1.19/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Data Augmentation with Diversified Rephrasing for Low-Resource Neural Machine Translation",
+  "authors": [
+    "Yuan Gao",
+    "Feng Hou",
+    "Huia Jahnke",
+    "Ruili Wang"
+  ],
+  "languages": [
+    "English",
+    "Vietnamese",
+    "Hebrew",
+    "Turkish",
+    "Romanian",
+    "Russian",
+    "Finnish",
+    "Latvian",
+    "Korean"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2023.mtsummit-research.4",
+  "acl_url": "https://aclanthology.org/2023.mtsummit-research.4/"
+}

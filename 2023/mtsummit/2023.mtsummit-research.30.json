@@ -1,0 +1,21 @@
+{
+  "title": "Character-level NMT and language similarity",
+  "authors": [
+    "Josef Jon",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "Czech",
+    "German",
+    "Hungarian",
+    "Slovak",
+    "Spanish",
+    "Croatian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.mtsummit-research.30",
+  "acl_url": "https://aclanthology.org/2023.mtsummit-research.30/"
+}

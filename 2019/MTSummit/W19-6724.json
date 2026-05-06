@@ -1,0 +1,18 @@
+{
+  "title": "Neural machine translation system for the Kazakh language",
+  "authors": [
+    "Ualsher Tukeyev",
+    "Zhandos Zhumanov"
+  ],
+  "languages": [
+    "Kazakh",
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W19-6724",
+  "acl_url": "https://aclanthology.org/W19-6724/"
+}

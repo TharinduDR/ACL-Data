@@ -1,0 +1,21 @@
+{
+  "title": "Chinese Movie Dialogue Question Answering Dataset",
+  "authors": [
+    "Shang-Bao Luo",
+    "Cheng-Chung Fan",
+    "Kuan-Yu Chen",
+    "Yu Tsao",
+    "Hsin-Min Wang",
+    "Keh-Yih Su"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03",
+    "T10",
+    "T08"
+  ],
+  "paper_id": "2022.rocling-1.2",
+  "acl_url": "https://aclanthology.org/2022.rocling-1.2/"
+}

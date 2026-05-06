@@ -1,0 +1,20 @@
+{
+  "title": "Porting Multilingual Morphological Resources to OntoLex-Lemon",
+  "authors": [
+    "Thierry Declerck",
+    "Stefania Racioppa"
+  ],
+  "languages": [
+    "German",
+    "Spanish",
+    "Italian",
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T13",
+    "T21"
+  ],
+  "paper_id": "R19-1027",
+  "acl_url": "https://aclanthology.org/R19-1027/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "A Call for Prudent Choice of Subword Merge Operations in Neural Machine Translation",
+  "authors": [
+    "Shuoyang Ding",
+    "Adithya Renduchintala",
+    "Kevin Duh"
+  ],
+  "languages": [
+    "Arabic",
+    "Czech",
+    "French",
+    "German",
+    "Portuguese",
+    "Hebrew",
+    "Russian",
+    "Turkish",
+    "Polish",
+    "Hungarian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W19-6620",
+  "acl_url": "https://aclanthology.org/W19-6620/"
+}

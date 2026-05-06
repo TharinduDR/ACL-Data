@@ -1,0 +1,18 @@
+{
+  "title": "Efficient Fine-Tuning Methods for Portuguese Question Answering: A Comparative Study of PEFT on BERTimbau and Exploratory Evaluation of Generative LLMs",
+  "authors": [
+    "Mariela M. Nina",
+    "Caio Veloso Costa",
+    "Lilian Berton",
+    "Didier A. Vega-Oliveros"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.propor-1.91",
+  "acl_url": "https://aclanthology.org/2026.propor-1.91/"
+}

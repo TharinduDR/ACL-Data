@@ -1,0 +1,29 @@
+{
+  "title": "Feature Extraction for Native Language Identification Using Language Modeling",
+  "authors": [
+    "Vincent Kriz",
+    "Martin Holub",
+    "Pavel Pecina"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "French",
+    "German",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Spanish",
+    "Telugu",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 Authorship Attribution",
+    "T29 NLP for education"
+  ],
+  "paper_id": "R15-1040",
+  "acl_url": "https://aclanthology.org/R15-1040/"
+}

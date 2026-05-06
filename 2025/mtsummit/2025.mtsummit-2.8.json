@@ -1,0 +1,26 @@
+{
+  "title": "SpeechT: Findings of the First Mentorship in Speech Translation",
+  "authors": [
+    "Yasmin Moslem",
+    "Juan Julián Cea Morán",
+    "Mariano Gonzalez-Gomez",
+    "Muhammad Hazim Al Farouq",
+    "Farah Abdou",
+    "Satarupa Deb"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Galician",
+    "Indonesian",
+    "Japanese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.mtsummit-2.8",
+  "acl_url": "https://aclanthology.org/2025.mtsummit-2.8/"
+}

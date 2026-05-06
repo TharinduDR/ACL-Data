@@ -1,0 +1,18 @@
+{
+  "title": "HAQA and QUQA: Constructing two Arabic Question-Answering Corpora for the Quran and Hadith",
+  "authors": [
+    "Sarah Alnefaie",
+    "Eric Atwell",
+    "Mohammad Ammar Alsalka"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.ranlp-1.10",
+  "acl_url": "https://aclanthology.org/2023.ranlp-1.10/"
+}

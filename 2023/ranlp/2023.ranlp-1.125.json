@@ -1,0 +1,20 @@
+{
+  "title": "NoHateBrazil: A Brazilian Portuguese Text Offensiveness Analysis System",
+  "authors": [
+    "Francielle Vargas",
+    "Isabelle Carvalho",
+    "Wolfgang S. Schmeisser-Nieto",
+    "Fabricio Benevenuto",
+    "Thiago A. S. Pardo"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T20",
+    "T23",
+    "T12"
+  ],
+  "paper_id": "2023.ranlp-1.125",
+  "acl_url": "https://aclanthology.org/2023.ranlp-1.125/"
+}

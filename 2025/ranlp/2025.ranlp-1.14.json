@@ -1,0 +1,22 @@
+{
+  "title": "chakoshi: A Customizable Guardrail for LLMs with a Focus on Japanese-Language Moderation",
+  "authors": [
+    "Kazuhiro Arai",
+    "Ryota Matsui",
+    "Kenji Miyama",
+    "Yudai Yamamoto",
+    "Ren Shibamiya",
+    "Kaito Sugimoto",
+    "Yoshimasa Iwase"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.ranlp-1.14",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.14/"
+}

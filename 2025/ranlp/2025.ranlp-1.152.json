@@ -1,0 +1,18 @@
+{
+  "title": "Aspect-Sentiment Quad Prediction with Distilled Large Language Models",
+  "authors": [
+    "Filippos Ventirozos",
+    "Peter Appleby",
+    "Matthew Shardlow"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.ranlp-1.152",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.152/"
+}

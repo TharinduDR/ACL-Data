@@ -1,0 +1,33 @@
+{
+  "title": "AVASAG: A German Sign Language Translation System for Public Services",
+  "authors": [
+    "Fabrizio Nunnari",
+    "Judith Bauerdiek",
+    "Lucas Bernhard",
+    "Cristina España-Bonet",
+    "Corinna Jäger",
+    "Amelie Unger",
+    "Kristoffer Waldow",
+    "Sonja Wecker",
+    "Elisabeth André",
+    "Stephan Busemann",
+    "Christian Dold",
+    "Arnulph Fuhrmann",
+    "Patrick Gebhard",
+    "Yasser Hamidullah",
+    "Marcel Hauck",
+    "Yvonne Kossel",
+    "Martin Misiak",
+    "Dieter Wallach",
+    "Alexander Stricker"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2021.mtsummit-at4ssl.5",
+  "acl_url": "https://aclanthology.org/2021.mtsummit-at4ssl.5/"
+}

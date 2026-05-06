@@ -1,0 +1,22 @@
+{
+  "title": "Microsyntactic Unit Detection using Word Embedding Models: Experiments on Slavic Languages",
+  "authors": [
+    "Iuliia Zaitova",
+    "Irina Stenger",
+    "Tania Avgustinova"
+  ],
+  "languages": [
+    "Belarusian",
+    "Bulgarian",
+    "Czech",
+    "Polish",
+    "Russian",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.ranlp-1.134",
+  "acl_url": "https://aclanthology.org/2023.ranlp-1.134/"
+}

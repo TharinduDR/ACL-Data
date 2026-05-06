@@ -1,0 +1,21 @@
+{
+  "title": "Frozen Pretrained Transformers for Neural Sign Language Translation",
+  "authors": [
+    "Mathieu De Coster",
+    "Karel D'Oosterlinck",
+    "Marija Pizurica",
+    "Paloma Rabaey",
+    "Severine Verlinden",
+    "Mieke Van Herreweghe",
+    "Joni Dambre"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2021.mtsummit-at4ssl.10",
+  "acl_url": "https://aclanthology.org/2021.mtsummit-at4ssl.10/"
+}

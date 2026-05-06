@@ -1,0 +1,21 @@
+{
+  "title": "T2KG: Transforming Multimodal Document to Knowledge Graph",
+  "authors": [
+    "Santiago Galiano",
+    "Rafael Muñoz",
+    "Yon Gutiérrez",
+    "Andrés Montoyo",
+    "Jose I. Abreu",
+    "L. Alfonso Ureña"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.ranlp-1.43",
+  "acl_url": "https://aclanthology.org/2023.ranlp-1.43/"
+}

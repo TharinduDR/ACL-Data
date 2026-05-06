@@ -1,0 +1,20 @@
+{
+  "title": "MAGMATIC: A Multi-domain Academic Gold Standard with Manual Annotation of Terminology for Machine Translation Evaluation",
+  "authors": [
+    "Randy Scansani",
+    "Luisa Bentivogli",
+    "Silvia Bernardini",
+    "Adriano Ferraresi"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "W19-6608",
+  "acl_url": "https://aclanthology.org/W19-6608/"
+}

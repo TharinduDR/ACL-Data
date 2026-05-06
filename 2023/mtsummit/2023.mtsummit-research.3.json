@@ -1,0 +1,21 @@
+{
+  "title": "A Study of Multilingual versus Meta-Learning for Language Model Pre-Training for Adaptation to Unseen Low Resource Languages",
+  "authors": [
+    "Jyotsana Khatri",
+    "Rudra Murthy",
+    "Amar Prakash Azad",
+    "Pushpak Bhattacharyya"
+  ],
+  "languages": [
+    "Oriya",
+    "Punjabi",
+    "Assamese",
+    "Nepali"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2023.mtsummit-research.3",
+  "acl_url": "https://aclanthology.org/2023.mtsummit-research.3/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "KG-IQES: An Interpretable Quality Estimation System for Machine Translation Based on Knowledge Graph",
+  "authors": [
+    "Junhao Zhu",
+    "Min Zhang",
+    "Hao Yang",
+    "Song Peng",
+    "Zhanglin Wu",
+    "Yanfei Jiang",
+    "Xijun Qiu",
+    "Weiqiang Pan",
+    "Ming Zhu",
+    "Miaomiao Ma",
+    "Weidong Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.mtsummit-users.15",
+  "acl_url": "https://aclanthology.org/2023.mtsummit-users.15/"
+}

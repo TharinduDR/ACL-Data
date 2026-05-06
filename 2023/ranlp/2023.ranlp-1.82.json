@@ -1,0 +1,23 @@
+{
+  "title": "TreeSwap: Data Augmentation for Machine Translation via Dependency Subtree Swapping",
+  "authors": [
+    "Attila Nagy",
+    "Dorina Lakatos",
+    "Botond Barta",
+    "Judit Ács"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hebrew",
+    "Vietnamese",
+    "Hungarian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.ranlp-1.82",
+  "acl_url": "https://aclanthology.org/2023.ranlp-1.82/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "WhisperHakka: A Hybrid Architecture Speech Recognition System for Low-Resource Taiwanese Hakka",
+  "authors": [
+    "Ming-Hsiu Chiang",
+    "Chien-Hung Lai",
+    "Hsuan-Sheng Chiu"
+  ],
+  "languages": [
+    "Taiwanese Hakka",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2023.rocling-1.51",
+  "acl_url": "https://aclanthology.org/2023.rocling-1.51/"
+}

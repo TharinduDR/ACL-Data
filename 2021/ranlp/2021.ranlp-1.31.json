@@ -1,0 +1,16 @@
+{
+  "title": "Character-based Thai Word Segmentation with Multiple Attentions",
+  "authors": [
+    "Thodsaporn Chay-intr",
+    "Hidetaka Kamigaito",
+    "Manabu Okumura"
+  ],
+  "languages": [
+    "Thai"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.ranlp-1.31",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.31/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Enhancing Phrase-Based Statistical Machine Translation by Learning Phrase Representations Using Long Short-Term Memory Network",
+  "authors": [
+    "Benyamin Ahmadnia",
+    "Bonnie J. Dorr"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Persian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "R19-1004",
+  "acl_url": "https://aclanthology.org/R19-1004/"
+}

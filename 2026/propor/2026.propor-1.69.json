@@ -1,0 +1,24 @@
+{
+  "title": "ALBA: A European Portuguese Benchmark for Evaluating Language and Linguistic Dimensions in Generative LLMs",
+  "authors": [
+    "Inês Vieira",
+    "Inês Calvo",
+    "Iago Paulo",
+    "James Furtado",
+    "Rafael Ferreira",
+    "Diogo Tavares",
+    "Diogo Glória-Silva",
+    "David Semedo",
+    "João Magalhães"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2026.propor-1.69",
+  "acl_url": "https://aclanthology.org/2026.propor-1.69/"
+}

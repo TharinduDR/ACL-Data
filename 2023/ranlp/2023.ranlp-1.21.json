@@ -1,0 +1,29 @@
+{
+  "title": "Generative Models For Indic Languages: Evaluating Content Generation Capabilities",
+  "authors": [
+    "Savita Bhat",
+    "Vasudeva Varma",
+    "Niranjan Pedanekar"
+  ],
+  "languages": [
+    "English",
+    "Assamese",
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Odia",
+    "Punjabi",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.ranlp-1.21",
+  "acl_url": "https://aclanthology.org/2023.ranlp-1.21/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "CURUPIRA: Clever guard for harm and linguistic prompt mitigation in Brazilian Portuguese",
+  "authors": [
+    "Rogério Sousa",
+    "William Alberto Cruz-Castañeda",
+    "José Roberto Homeli da Silva",
+    "Marcellus Amadeus"
+  ],
+  "languages": [
+    "Portuguese",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2026.propor-1.107",
+  "acl_url": "https://aclanthology.org/2026.propor-1.107/"
+}

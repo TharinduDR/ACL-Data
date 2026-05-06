@@ -1,0 +1,18 @@
+{
+  "title": "利用遮罩增強的語言模型校正技術提升中文醫療語音的自動語音識別效果 (Enhancing Automatic Speech Recognition for Chinese Medical Speech Using Masking-Enhanced Language Model Correction)",
+  "authors": [
+    "林璟芸 Jing-Yun Lin",
+    "李旭清 Xu-Qing Li",
+    "鍾聖倫 Sheng-Luen Chung"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.rocling-1.14",
+  "acl_url": "https://aclanthology.org/2024.rocling-1.14/"
+}

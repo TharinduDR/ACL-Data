@@ -1,0 +1,21 @@
+{
+  "title": "Retrieval-Augmented Generation and Knowledge Graphs in Portuguese-Language Legal Documents",
+  "authors": [
+    "Vinícius Teles de Oliveira",
+    "Deivison Oliveira da Silva",
+    "Mateus de Almeida Souza",
+    "Maurício Rodrigues Lima",
+    "Sávio Salvarino Teles de Oliveira",
+    "Thierson Couto Rosa"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2026.propor-1.1",
+  "acl_url": "https://aclanthology.org/2026.propor-1.1/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "From Constituency to UD-Style Dependency: Building the First Conversion Tool of Turkish",
+  "authors": [
+    "Ash Kuzgun",
+    "Oğuz Kerem Yıldız",
+    "Neslihan Cesur",
+    "Büşra Marşan",
+    "Arife Betül Yenice",
+    "Ezgi Sanıyar",
+    "Oğuzhan Kuyrukçu",
+    "Bilge Nas Arıcan",
+    "Olçay Taner Yıldız"
+  ],
+  "languages": [
+    "Turkish",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2021.ranlp-1.87",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.87/"
+}

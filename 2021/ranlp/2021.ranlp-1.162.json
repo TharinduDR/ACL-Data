@@ -1,0 +1,23 @@
+{
+  "title": "Comparative Analysis of Fine-tuned Deep Learning Language Models for ICD-10 classification task for Bulgarian Language",
+  "authors": [
+    "Boris Velichkov",
+    "Sylvia Vassileva",
+    "Simeon Gerginov",
+    "Boris Kraychev",
+    "Ivaylo Ivanov",
+    "Philip Ivanov",
+    "Ivan Koychev",
+    "Svetla Boytcheva"
+  ],
+  "languages": [
+    "Bulgarian",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2021.ranlp-1.162",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.162/"
+}

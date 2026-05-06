@@ -1,0 +1,30 @@
+{
+  "title": "A Flexible and Extensible Framework for Multiple Answer Modes Question Answering",
+  "authors": [
+    "Cheng-Chung Fan",
+    "Shang-Bao Luo",
+    "Kuang-Yu Chang",
+    "Meng-Tse Wu",
+    "Tzu-Man Wu",
+    "Chao-Chun Liang",
+    "Kuan-Yu Chen",
+    "Keh-Yih Su",
+    "Chia-Chih Kuo",
+    "Pei-Jun Liao",
+    "Chiao-Wei Hsu",
+    "Shih-Hong Tsai",
+    "Aleksandra Smolka",
+    "Hsin-Min Wang",
+    "Yu Tsao"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2021.rocling-1.5",
+  "acl_url": "https://aclanthology.org/2021.rocling-1.5/"
+}

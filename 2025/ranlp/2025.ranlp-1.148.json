@@ -1,0 +1,20 @@
+{
+  "title": "PoliStance-TR: A Dataset for Turkish Stance Detection in Political Domain",
+  "authors": [
+    "Muhammed Cihat Ünal",
+    "Yasemin Sarkan",
+    "Alper Karamanlıoğlu",
+    "Berkcan Demirel"
+  ],
+  "languages": [
+    "Turkish",
+    "English"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ranlp-1.148",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.148/"
+}

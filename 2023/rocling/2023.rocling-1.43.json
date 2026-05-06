@@ -1,0 +1,21 @@
+{
+  "title": "CrowNER at ROCLING 2023 MultiNER-Health Task: Enhancing NER Task with GPT Paraphrase Augmentation on Sparsely Labeled Data",
+  "authors": [
+    "Yin-Chieh Wang",
+    "Wen-Hong Wu",
+    "Feng-Yu Kuo",
+    "Han-Chun Wu",
+    "Te-Yu Chi",
+    "Shih Chen",
+    "Jyh-Shing Roger Jang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.rocling-1.43",
+  "acl_url": "https://aclanthology.org/2023.rocling-1.43/"
+}

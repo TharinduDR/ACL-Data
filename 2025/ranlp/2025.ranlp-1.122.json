@@ -1,0 +1,23 @@
+{
+  "title": "When Does Language Transfer Help? Sequential Fine-Tuning for Cross-Lingual Euphemism Detection",
+  "authors": [
+    "Julia Sammartino",
+    "Libby Barak",
+    "Jing Peng",
+    "Anna Feldman"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Chinese",
+    "Turkish",
+    "Yorùbá"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2025.ranlp-1.122",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.122/"
+}

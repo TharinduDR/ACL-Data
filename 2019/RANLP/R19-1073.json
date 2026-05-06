@@ -1,0 +1,19 @@
+{
+  "title": "Semantic Role Labeling with Pretrained Language Models for Known and Unknown Predicates",
+  "authors": [
+    "Daniil Larionov",
+    "Artem Shelmanov",
+    "Elena Chistova",
+    "Ivan Smirnov"
+  ],
+  "languages": [
+    "Russian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "R19-1073",
+  "acl_url": "https://aclanthology.org/R19-1073/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Surprise Language Challenge: Developing a Neural Machine Translation System between Pashto and English in Two Months",
+  "authors": [
+    "Alexandra Birch",
+    "Barry Haddow",
+    "Antonio Valerio Miceli Barone",
+    "Jindřich Helcl",
+    "Jonas Waldendorf",
+    "Felipe Sánchez-Martínez",
+    "Mikel L. Forcada",
+    "Miquel Esplà-Gomis",
+    "Víctor M. Sánchez-Cartagena",
+    "Juan Antonio Pérez-Ortiz",
+    "Wilker Aziz",
+    "Lina Murady",
+    "Sevi Sariisik",
+    "Peggy van der Kreeft",
+    "Kay MacQuarrie"
+  ],
+  "languages": [
+    "Pashto",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.mtsummit-research.8",
+  "acl_url": "https://aclanthology.org/2021.mtsummit-research.8/"
+}

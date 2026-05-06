@@ -1,0 +1,17 @@
+{
+  "title": "YNU-HPCC at ROCLING 2022 Shared Task: A Transformer-based Model with Focal Loss and Regularization Dropout for Chinese Healthcare Named Entity Recognition",
+  "authors": [
+    "Xiang Luo",
+    "Jin Wang",
+    "Xuejie Zhang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2022.rocling-1.42",
+  "acl_url": "https://aclanthology.org/2022.rocling-1.42/"
+}

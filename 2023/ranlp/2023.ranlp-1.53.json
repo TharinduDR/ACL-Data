@@ -1,0 +1,20 @@
+{
+  "title": "Improving Translation Quality for Low-Resource Inuktitut with Various Preprocessing Techniques",
+  "authors": [
+    "Mathias Hans Erik Stenlund",
+    "Matilde Nanni",
+    "Micaella Bruton",
+    "Meriem Beloucif"
+  ],
+  "languages": [
+    "Inuktitut",
+    "English",
+    "Hungarian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.ranlp-1.53",
+  "acl_url": "https://aclanthology.org/2023.ranlp-1.53/"
+}

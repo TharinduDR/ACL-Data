@@ -1,0 +1,22 @@
+{
+  "title": "MONPA: 中文命名實體及斷詞與詞性同步標註系統",
+  "authors": [
+    "葉文照",
+    "Wen-Chao Yeh",
+    "謝育倫",
+    "Yu-Lun Hsieh",
+    "張詠淳",
+    "Yung-Chun Chang",
+    "許聞廉",
+    "Wen-Lian Hsu"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11",
+    "T21"
+  ],
+  "paper_id": "2019.rocling-1.23",
+  "acl_url": "https://aclanthology.org/2019.rocling-1.23/"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "MICE",
+  "authors": [
+    "Joachim Van den Bogaert",
+    "Heidi Depraetere",
+    "Tom Vanallemeersch",
+    "Frederic Everaert",
+    "Koen Van Winckel",
+    "Katri Tammsaar",
+    "Ingmar Vali",
+    "Tambet Artma",
+    "Piret Saartee",
+    "Laura Katariina Teder",
+    "Artūrs Vasiļevskis",
+    "Valters Sics",
+    "Johan Haelterman",
+    "David Bienfait"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "French",
+    "Estonian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "W19-6720",
+  "acl_url": "https://aclanthology.org/W19-6720/"
+}

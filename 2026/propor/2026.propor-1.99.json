@@ -1,0 +1,20 @@
+{
+  "title": "Improving Machine Translation of Idioms: A Spanish–Galician Parallel Dataset and Synthetic Augmentation Approach",
+  "authors": [
+    "Lúa Santamaría Montesinos",
+    "Saúl Buján",
+    "Daniel Bardanca",
+    "Pablo Gamallo"
+  ],
+  "languages": [
+    "Spanish",
+    "Galician"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2026.propor-1.99",
+  "acl_url": "https://aclanthology.org/2026.propor-1.99/"
+}

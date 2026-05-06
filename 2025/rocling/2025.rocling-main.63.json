@@ -1,0 +1,22 @@
+{
+  "title": "The NPTU ASR System for FSR2025 Hakka Character/Pinyin Recognition: Whisper with mBART Post-Editing and RNNLM Rescoring",
+  "authors": [
+    "Yi-Chin Huang",
+    "Yu-Heng Chen",
+    "Jian-Hua Wang",
+    "Hsiu-Chi Wu",
+    "Chih-Chung Kuo",
+    "Chao-Shih Huang",
+    "Yuan-Fu Liao"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2025.rocling-main.63",
+  "acl_url": "https://aclanthology.org/2025.rocling-main.63/"
+}

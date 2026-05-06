@@ -1,0 +1,20 @@
+{
+  "title": "Kāraka-Based Answer Retrieval for Question Answering in Indic Languages",
+  "authors": [
+    "Devika Verma",
+    "Ramprasad Joshi",
+    "Aiman Shivani",
+    "Rohan Gupta"
+  ],
+  "languages": [
+    "Hindi",
+    "Marathi"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.ranlp-1.129",
+  "acl_url": "https://aclanthology.org/2023.ranlp-1.129/"
+}

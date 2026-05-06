@@ -1,0 +1,19 @@
+{
+  "title": "Improved Beam Search with Constrained Softmax for NMT",
+  "authors": [
+    "Xiaoguang Hu",
+    "Wei Li",
+    "Xiang Lan",
+    "Hua Wu",
+    "Haifeng Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2015.mtsummit-papers.23",
+  "acl_url": "https://aclanthology.org/2015.mtsummit-papers.23/"
+}

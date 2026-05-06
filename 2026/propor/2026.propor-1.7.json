@@ -1,0 +1,19 @@
+{
+  "title": "CLARIN-PT-LDB: An Open LLM Leaderboard for Portuguese to assess Language, Culture and Civility",
+  "authors": [
+    "João Silva",
+    "Luís Gomes",
+    "António Branco"
+  ],
+  "languages": [
+    "Portuguese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T01 Bias, Guardrails, filters",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2026.propor-1.7",
+  "acl_url": "https://aclanthology.org/2026.propor-1.7/"
+}

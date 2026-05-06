@@ -1,0 +1,23 @@
+{
+  "title": "Quantifying the Overlap: Attribution Maps and Linguistic Heuristics in Encoder-Decoder Machine Translation Models",
+  "authors": [
+    "Aria Nourbakhsh",
+    "Salima Lamsiyah",
+    "Christoph Schommer"
+  ],
+  "languages": [
+    "French",
+    "English",
+    "Spanish",
+    "Italian",
+    "German",
+    "Danish"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.ranlp-1.94",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.94/"
+}

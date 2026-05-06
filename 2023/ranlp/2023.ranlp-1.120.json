@@ -1,0 +1,19 @@
+{
+  "title": "LeSS: A Computationally-Light Lexical Simplifier for Spanish",
+  "authors": [
+    "Sanja Štajner",
+    "Daniel Ibáñez",
+    "Horacio Saggion"
+  ],
+  "languages": [
+    "Spanish",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.ranlp-1.120",
+  "acl_url": "https://aclanthology.org/2023.ranlp-1.120/"
+}

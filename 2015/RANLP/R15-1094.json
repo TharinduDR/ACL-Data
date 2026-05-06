@@ -1,0 +1,24 @@
+{
+  "title": "One Tree is not Enough: Cross-lingual Accumulative Structure Transfer for Semantic Indeterminacy",
+  "authors": [
+    "Patrick Ziering",
+    "Lonneke van der Plas"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Dutch",
+    "Danish",
+    "Portuguese",
+    "Spanish",
+    "Greek"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "R15-1094",
+  "acl_url": "https://aclanthology.org/R15-1094/"
+}

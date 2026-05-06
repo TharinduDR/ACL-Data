@@ -1,0 +1,21 @@
+{
+  "title": "Fine-tuning mBART50 with French and Farsi data to improve the translation of Farsi dislocations into English and French.",
+  "authors": [
+    "Behnoosh Namdarzadeh",
+    "Sadaf Mohseni",
+    "Lichao Zhu",
+    "Guillaume Wisniewski",
+    "Nicolas Ballier"
+  ],
+  "languages": [
+    "Persian",
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T16",
+    "T21"
+  ],
+  "paper_id": "2023.mtsummit-users.14",
+  "acl_url": "https://aclanthology.org/2023.mtsummit-users.14/"
+}

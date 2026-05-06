@@ -1,0 +1,21 @@
+{
+  "title": "Sentiment-Aware Measure (SAM) for Evaluating Sentiment Transfer by Machine Translation Systems",
+  "authors": [
+    "Hadeel Saadany",
+    "Constantin Orăsan",
+    "Emad Mohamed",
+    "Ashraf Tantavy"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.ranlp-1.137",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.137/"
+}

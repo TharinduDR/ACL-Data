@@ -1,0 +1,26 @@
+{
+  "title": "Robust Document Representations for Cross-Lingual Information Retrieval in Low-Resource Settings",
+  "authors": [
+    "Mahsa Yarmohammadi",
+    "Xutai Ma",
+    "Sorami Hisamoto",
+    "Muhammad Rahman",
+    "Yiming Wang",
+    "Hainan Xu",
+    "Daniel Povey",
+    "Philipp Koehn",
+    "Kevin Duh"
+  ],
+  "languages": [
+    "English",
+    "Somali",
+    "Swahili",
+    "Tagalog"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W19-6602",
+  "acl_url": "https://aclanthology.org/W19-6602/"
+}

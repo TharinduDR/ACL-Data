@@ -1,0 +1,17 @@
+{
+  "title": "Fine-Tuning for Neural Machine Translation with Limited Degradation across In- and Out-of-Domain Data",
+  "authors": [
+    "Praveen Dakwale",
+    "Christof Monz"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2017.mtsummit-papers.13",
+  "acl_url": "https://aclanthology.org/2017.mtsummit-papers.13/"
+}

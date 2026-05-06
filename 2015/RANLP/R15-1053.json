@@ -1,0 +1,28 @@
+{
+  "title": "Norwegian Native Language Identification",
+  "authors": [
+    "Shervin Malmasi",
+    "Mark Dras",
+    "Irina Temnikova"
+  ],
+  "languages": [
+    "Norwegian",
+    "English",
+    "German",
+    "Dutch",
+    "Polish",
+    "Russian",
+    "Serbian",
+    "Spanish",
+    "Vietnamese",
+    "Albanian",
+    "Somali"
+  ],
+  "research_areas": [
+    "T28",
+    "T21",
+    "T15"
+  ],
+  "paper_id": "R15-1053",
+  "acl_url": "https://aclanthology.org/R15-1053/"
+}

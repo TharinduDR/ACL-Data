@@ -1,0 +1,17 @@
+{
+  "title": "Augmenting a BiLSTM Tagger with a Morphological Lexicon and a Lexical Category Identification Step",
+  "authors": [
+    "Steinpór Steingrímsson",
+    "Örvar Kárason",
+    "Hrafn Loftsson"
+  ],
+  "languages": [
+    "Icelandic"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "R19-1133",
+  "acl_url": "https://aclanthology.org/R19-1133/"
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Character-Aware Decoder for Translation into Morphologically Rich Languages",
+  "authors": [
+    "Adithya Renduchintala",
+    "Pamela Shapiro",
+    "Kevin Duh",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "Chinese",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Greek",
+    "Hungarian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Latvian",
+    "Lithuanian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Serbian",
+    "Slovak",
+    "Slovenian",
+    "Spanish",
+    "Swedish",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Welsh",
+    "Yiddish"
+  ],
+  "research_areas": [
+    "T16",
+    "T21"
+  ],
+  "paper_id": "W19-6624",
+  "acl_url": "https://aclanthology.org/W19-6624/"
+}

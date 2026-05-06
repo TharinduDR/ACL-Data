@@ -1,0 +1,42 @@
+{
+  "title": "Large-scale Machine Translation Evaluation of the iADAATPA Project",
+  "authors": [
+    "Sheila Castillo",
+    "Natália Resende",
+    "Federico Gaspari",
+    "Andy Way",
+    "Tony O'Dowd",
+    "Marek Mazur",
+    "Manuel Herranz",
+    "Alex Helle",
+    "Gema Ramírez-Sánchez",
+    "Víctor Sánchez-Cartagena",
+    "Márcis Pinnis",
+    "Valters Šics"
+  ],
+  "languages": [
+    "English",
+    "Bulgarian",
+    "Dutch",
+    "French",
+    "German",
+    "Irish",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Spanish",
+    "Catalan",
+    "Basque",
+    "Galician",
+    "Estonian",
+    "Latvian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W19-6732",
+  "acl_url": "https://aclanthology.org/W19-6732/"
+}

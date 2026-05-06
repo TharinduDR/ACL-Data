@@ -1,0 +1,20 @@
+{
+  "title": "Neural Machine Translation Model with a Large Vocabulary Selected by Branching Entropy",
+  "authors": [
+    "Zi Long",
+    "Ryuichiro Kimura",
+    "Takehito Utsuro",
+    "Tomoharu Mitsuhashi",
+    "Mikio Yamamoto"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2017.mtsummit-papers.18",
+  "acl_url": "https://aclanthology.org/2017.mtsummit-papers.18/"
+}

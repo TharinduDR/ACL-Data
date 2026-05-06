@@ -1,0 +1,23 @@
+{
+  "title": "RoBERTaLexPT: A Legal RoBERTa Model pretrained with deduplication for Portuguese",
+  "authors": [
+    "Eduardo Garcia",
+    "Nadia Silva",
+    "Felipe Siqueira",
+    "Juliana Gomes",
+    "Hidelberg O. Albuquerque",
+    "Ellen Souza",
+    "Eliomar Lima",
+    "André de Carvalho"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T25 Legal NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.propor-1.38",
+  "acl_url": "https://aclanthology.org/2024.propor-1.38/"
+}

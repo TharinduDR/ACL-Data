@@ -1,0 +1,30 @@
+{
+  "title": "Software for Automatic Speech Recognition via Whisper models applied to Oral History interviews in the Portuguese language",
+  "authors": [
+    "Edgleide de Oliveira Clemente da Silva",
+    "Fernando Rezende Zagatti",
+    "Filipe Loyola Lopes",
+    "Anderson Dias Duarte",
+    "Rodrigo Bonacin",
+    "Angela Maria Alves"
+  ],
+  "languages": [
+    "Portuguese",
+    "Dutch",
+    "Spanish",
+    "Korean",
+    "Italian",
+    "German",
+    "Thai",
+    "Russian",
+    "Polish",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.propor-1.30",
+  "acl_url": "https://aclanthology.org/2026.propor-1.30/"
+}

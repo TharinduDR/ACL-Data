@@ -1,0 +1,19 @@
+{
+  "title": "From Word Segmentation to POS Tagging for Vietnamese",
+  "authors": [
+    "Dat Quoc Nguyen",
+    "Thanh Vu",
+    "Dai Quoc Nguyen",
+    "Mark Dras",
+    "Mark Johnson"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "U17-1013",
+  "acl_url": "https://aclanthology.org/U17-1013/"
+}

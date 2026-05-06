@@ -1,0 +1,21 @@
+{
+  "title": "Image Caption Generation for Low-Resource Assamese Language",
+  "authors": [
+    "Prachurya Nath",
+    "Prottay Kumar Adhikary",
+    "Pankaj Dadure",
+    "Partha Pakray",
+    "Riyanka Manna",
+    "Sivaji Bandyopadhyay"
+  ],
+  "languages": [
+    "Assamese",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.rocling-1.33",
+  "acl_url": "https://aclanthology.org/2022.rocling-1.33/"
+}

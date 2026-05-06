@@ -1,0 +1,31 @@
+{
+  "title": "Leveraging Multilingual Knowledge Graph to Boost Domain-specific Entity Translation of ChatGPT",
+  "authors": [
+    "Min Zhang",
+    "Limin Liu",
+    "Yanqing Zhao",
+    "Xiaosong Qiao",
+    "Chang Su",
+    "Xiaofeng Zhao",
+    "Junhao Zhu",
+    "Ming Zhu",
+    "Song Peng",
+    "Yinglu Li",
+    "Yilun Liu",
+    "Wenbing Ma",
+    "Mengyao Piao",
+    "Shimin Tao",
+    "Hao Yang",
+    "Yanfei Jiang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2023.mtsummit-users.7",
+  "acl_url": "https://aclanthology.org/2023.mtsummit-users.7/"
+}

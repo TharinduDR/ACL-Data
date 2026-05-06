@@ -1,0 +1,24 @@
+{
+  "title": "NEREL: A Russian Dataset with Nested Named Entities, Relations and Events",
+  "authors": [
+    "Natalia Loukachevitch",
+    "Ekaterina Artemova",
+    "Tatiana Batura",
+    "Pavel Braslavski",
+    "Ilia Denisov",
+    "Vladimir Ivanov",
+    "Suresh Manandhar",
+    "Alexander Pugachev",
+    "Elena Tutubalina"
+  ],
+  "languages": [
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.ranlp-1.100",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.100/"
+}

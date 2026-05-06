@@ -1,0 +1,19 @@
+{
+  "title": "Improving Japanese-English Patent Claim Translation with Clause Segmentation Models based on Word Alignment",
+  "authors": [
+    "Masato Nishimura",
+    "Kosei Buma",
+    "Takehito Utsuro",
+    "Masaaki Nagata"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.mtsummit-1.25",
+  "acl_url": "https://aclanthology.org/2025.mtsummit-1.25/"
+}

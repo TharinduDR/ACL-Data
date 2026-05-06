@@ -1,0 +1,23 @@
+{
+  "title": "Enhancing Textual Understanding: Automated Claim Span Identification in English, Hindi, Bengali, and CodeMix",
+  "authors": [
+    "Rudra Roy",
+    "Pritam Pal",
+    "Dipankar Das",
+    "Saptarshi Ghosh",
+    "Biswajit Paul"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "CodeMix"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.ranlp-1.118",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.118/"
+}

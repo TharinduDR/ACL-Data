@@ -1,0 +1,20 @@
+{
+  "title": "Turkish Tweet Classification with Transformer Encoder",
+  "authors": [
+    "Atif Emre Yüksel",
+    "Yaşar Alim Türkmen",
+    "Arzucan Özgür",
+    "Ayşe Berna Altınel"
+  ],
+  "languages": [
+    "Turkish",
+    "English"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "R19-1158",
+  "acl_url": "https://aclanthology.org/R19-1158/"
+}

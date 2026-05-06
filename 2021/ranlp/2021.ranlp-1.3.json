@@ -1,0 +1,26 @@
+{
+  "title": "Efficient Multilingual Text Classification for Indian Languages",
+  "authors": [
+    "Salil Aggarwal",
+    "Sourav Kumar",
+    "Radhika Mamidi"
+  ],
+  "languages": [
+    "Punjabi",
+    "Gujarati",
+    "Marathi",
+    "Odia",
+    "Bangla",
+    "Tamil",
+    "Telugu",
+    "Malayalam",
+    "Kannada"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2021.ranlp-1.3",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.3/"
+}

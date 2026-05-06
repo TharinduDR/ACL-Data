@@ -1,0 +1,38 @@
+{
+  "title": "PyEuroVoc: A Tool for Multilingual Legal Document Classification with EuroVoc Descriptors",
+  "authors": [
+    "Andrei-Marius Avram",
+    "Vasile Păiș",
+    "Dan Tufiș"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Romanian",
+    "Slovene",
+    "Maltese",
+    "Croatian",
+    "Bulgarian",
+    "Czech",
+    "Lithuanian",
+    "Latvian",
+    "Slovak",
+    "Hungarian",
+    "Estonian",
+    "Finnish",
+    "Polish",
+    "Danish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2021.ranlp-1.12",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.12/"
+}

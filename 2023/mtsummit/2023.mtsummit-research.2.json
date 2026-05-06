@@ -1,0 +1,22 @@
+{
+  "title": "Joint Dropout: Improving Generalizability in Low-Resource Neural Machine Translation through Phrase Pair Variables",
+  "authors": [
+    "Ali Araabi",
+    "Vlad Niculae",
+    "Christof Monz"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Belarusian",
+    "Galician",
+    "Slovak",
+    "Slovenian",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.mtsummit-research.2",
+  "acl_url": "https://aclanthology.org/2023.mtsummit-research.2/"
+}

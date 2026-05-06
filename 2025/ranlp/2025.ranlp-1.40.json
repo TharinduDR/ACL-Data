@@ -1,0 +1,17 @@
+{
+  "title": "PerSpaCor: Correcting Space and ZWNJ Errors in Persian Text with Transformer Models",
+  "authors": [
+    "Matin Ebrahimkhani",
+    "Ebrahim Ansari"
+  ],
+  "languages": [
+    "Persian"
+  ],
+  "research_areas": [
+    "T29",
+    "T14",
+    "T21"
+  ],
+  "paper_id": "2025.ranlp-1.40",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.40/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Assessing the Eligibility of Backtranslated Samples Based on Semantic Similarity for the Paraphrase Identification Task",
+  "authors": [
+    "Jean-Philippe Corbeil",
+    "Hadi Abdi Ghavidel"
+  ],
+  "languages": [
+    "Chinese",
+    "Spanish",
+    "Arabic",
+    "Japanese",
+    "Telugu",
+    "Javanese",
+    "Korean",
+    "Vietnamese",
+    "Turkish",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.ranlp-1.35",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.35/"
+}

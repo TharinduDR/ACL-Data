@@ -1,0 +1,19 @@
+{
+  "title": "BanglaClickBERT: Bangla Clickbait Detection from News Headlines using Domain Adaptive BanglaBERT and MLP Techniques",
+  "authors": [
+    "Saman Sarker Joy",
+    "Tanusree Das Aishi",
+    "Naima Tahsin Nodi",
+    "Annajiat Alim Rasel"
+  ],
+  "languages": [
+    "Bangla",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.alta-1.1",
+  "acl_url": "https://aclanthology.org/2023.alta-1.1/"
+}

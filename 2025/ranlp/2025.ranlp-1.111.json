@@ -1,0 +1,19 @@
+{
+  "title": "Analysis of Vocabulary and Subword Tokenization Settings for Optimal Fine-tuning of MT: A Case Study of In-domain Translation",
+  "authors": [
+    "Javad Pourmostafa Roshan Sharami",
+    "Dimitar Shterionov",
+    "Pieter Spronck"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ranlp-1.111",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.111/"
+}

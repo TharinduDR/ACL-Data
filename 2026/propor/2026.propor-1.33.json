@@ -1,0 +1,24 @@
+{
+  "title": "UlyssesLegalNER-Br: from Legislative to Legal, a comprehensive corpus of Brazilian legal documents for Named Entity Recognition",
+  "authors": [
+    "Hidelberg O. Albuquerque",
+    "Ellen Souza",
+    "Danilo C.G. Lucena",
+    "Héldon J.O. Albuquerque",
+    "Nádia F.F. da Silva",
+    "Márcio de S. Dias",
+    "Rafael O. Nunes",
+    "Adriano L.I. Oliveira",
+    "André C.P.L.F. de Carvalho"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2026.propor-1.33",
+  "acl_url": "https://aclanthology.org/2026.propor-1.33/"
+}

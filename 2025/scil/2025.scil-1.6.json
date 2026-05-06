@@ -1,0 +1,19 @@
+{
+  "title": "A LSTM language model learns Hindi-Urdu case-agreement interactions, and has a linear encoding of case",
+  "authors": [
+    "Satoru Ozaki",
+    "Rajesh Bhatt",
+    "Brian Dillon"
+  ],
+  "languages": [
+    "Hindi",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.scil-1.6",
+  "acl_url": "https://aclanthology.org/2025.scil-1.6/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Patent Claim Translation based on Sublanguage-specific Sentence Structure",
+  "authors": [
+    "Masaru Fuji",
+    "Atsushi Fujita",
+    "Masao Utiyama",
+    "Eiichiro Sumita",
+    "Yuji Matsumoto"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2015.mtsummit-papers.1",
+  "acl_url": "https://aclanthology.org/2015.mtsummit-papers.1/"
+}

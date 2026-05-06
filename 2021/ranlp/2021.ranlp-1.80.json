@@ -1,0 +1,35 @@
+{
+  "title": "Multilingual Image Corpus: Annotation Protocol",
+  "authors": [
+    "Svetla Koeva"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Croatian",
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "Greek",
+    "Italian",
+    "Lithuanian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Slovak",
+    "Slovene",
+    "Spanish",
+    "Swedish",
+    "Albanian",
+    "Icelandic",
+    "Hebrew",
+    "Serbian"
+  ],
+  "research_areas": [
+    "T13",
+    "T17"
+  ],
+  "paper_id": "2021.ranlp-1.80",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.80/"
+}

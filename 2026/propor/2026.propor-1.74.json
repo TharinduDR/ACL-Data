@@ -1,0 +1,21 @@
+{
+  "title": "Avaliação End-to-End de um Sistema RAG para Documentos Hospitalares em Português",
+  "authors": [
+    "Murilo Vargas da Cunha",
+    "Marília Rosa Silveira",
+    "César Brasil Sperb",
+    "Brenda Salenave Santana",
+    "Larissa Astrogildo Freitas",
+    "Ulisses Brisolara Corrêa"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.propor-1.74",
+  "acl_url": "https://aclanthology.org/2026.propor-1.74/"
+}

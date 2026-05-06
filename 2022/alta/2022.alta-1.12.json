@@ -1,0 +1,22 @@
+{
+  "title": "Generating Code-Switched Text from Monolingual Text with Dependency Tree",
+  "authors": [
+    "Bryan Gregorius",
+    "Takeshi Okadome"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Chinese",
+    "Korean",
+    "Thai",
+    "Indonesian",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T16",
+    "T21"
+  ],
+  "paper_id": "2022.alta-1.12",
+  "acl_url": "https://aclanthology.org/2022.alta-1.12/"
+}

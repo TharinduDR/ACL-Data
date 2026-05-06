@@ -1,0 +1,25 @@
+{
+  "title": "Developing automatic verbatim transcripts for international multilingual meetings: an end-to-end solution",
+  "authors": [
+    "Akshat Dewan",
+    "Michal Ziemski",
+    "Henri Meylan",
+    "Lorenzo Concina",
+    "Bruno Pouliquen"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "French",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2023.mtsummit-users.18",
+  "acl_url": "https://aclanthology.org/2023.mtsummit-users.18/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Monolingual backtranslation in a medical speech translation system for diagnostic interviews - a NMT approach",
+  "authors": [
+    "Jonathan Mutal",
+    "Pierrette Bouillon",
+    "Johanna Gerlach",
+    "Paula Estrella",
+    "Hervé Spechbach"
+  ],
+  "languages": [
+    "French",
+    "Arabic",
+    "Albanian",
+    "Persian",
+    "Spanish",
+    "Tigrinya",
+    "French Swiss Sign Language"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "W19-6734",
+  "acl_url": "https://aclanthology.org/W19-6734/"
+}

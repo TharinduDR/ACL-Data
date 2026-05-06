@@ -1,0 +1,19 @@
+{
+  "title": "Developing a Clinical Language Model for Swedish: Continued Pretraining of Generic BERT with In-Domain Data",
+  "authors": [
+    "Anastasios Lamproudis",
+    "Aron Henriksson",
+    "Hercules Dalianis"
+  ],
+  "languages": [
+    "Swedish",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2021.ranlp-1.90",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.90/"
+}

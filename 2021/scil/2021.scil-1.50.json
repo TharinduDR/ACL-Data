@@ -1,0 +1,27 @@
+{
+  "title": "Multilingual BERT, ergativity, and grammatical subjecthood",
+  "authors": [
+    "Isabel Papadimitriou",
+    "Ethan A. Chi",
+    "Richard Futrell",
+    "Kyle Mahowald"
+  ],
+  "languages": [
+    "Chinese",
+    "French",
+    "Hindi",
+    "Indonesian",
+    "Japanese",
+    "Basque",
+    "Urdu",
+    "Finnish",
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2021.scil-1.50",
+  "acl_url": "https://aclanthology.org/2021.scil-1.50/"
+}

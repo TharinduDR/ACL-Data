@@ -1,0 +1,26 @@
+{
+  "title": "Grounded in Law: A Multi-Stage Anti-Hallucination Pipeline for Legal RAG Systems in Brazilian Portuguese",
+  "authors": [
+    "Arla Figueiredo",
+    "João Lucas",
+    "Tatiana Ribeiro",
+    "Caio Nery",
+    "Alan Rios",
+    "Caio Hebert",
+    "Luiza Florentino",
+    "Arthur Silva",
+    "Ícaro Feyerabend",
+    "Pedro Vidal",
+    "Bruno Cabral Escavador"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2026.propor-2.9",
+  "acl_url": "https://aclanthology.org/2026.propor-2.9/"
+}

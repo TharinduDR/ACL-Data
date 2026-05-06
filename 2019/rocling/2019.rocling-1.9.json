@@ -1,0 +1,22 @@
+{
+  "title": "A Hybrid Approach of Deep Semantic Matching and Deep Rank for Context Aware Question Answer System",
+  "authors": [
+    "Shu-Yi Xie",
+    "Chia-Hao Chang",
+    "Zhi Zhang",
+    "Yang Mo",
+    "Lian-Xin Jiang",
+    "Yu-Sheng Huang",
+    "Jian-Ping Shen"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2019.rocling-1.9",
+  "acl_url": "https://aclanthology.org/2019.rocling-1.9/"
+}

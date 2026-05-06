@@ -1,0 +1,23 @@
+{
+  "title": "Enhancing Translation of Myanmar Sign Language by Transfer Learning and Self-Training",
+  "authors": [
+    "Hlaing Myat Nwe",
+    "Kiyoaiki Shirai",
+    "Natthawut Kertkeidkachorn",
+    "Thanaruk Theeramunkong",
+    "Ye Kyaw Thu",
+    "Thepchai Supnithi",
+    "Natsuda Kaothanthong"
+  ],
+  "languages": [
+    "English",
+    "Myanmar Written Language",
+    "Myanmar Sign Language"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.mtsummit-research.10",
+  "acl_url": "https://aclanthology.org/2023.mtsummit-research.10/"
+}

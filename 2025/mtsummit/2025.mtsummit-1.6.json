@@ -1,0 +1,23 @@
+{
+  "title": "Optimizing the Training Schedule of Multilingual NMT using Reinforcement Learning",
+  "authors": [
+    "Alexis Allemann",
+    "Àlex R. Atrio",
+    "Andrei Popescu-Belis"
+  ],
+  "languages": [
+    "Belarusian",
+    "Azerbaijani",
+    "Galician",
+    "Slovak",
+    "Russian",
+    "Turkish",
+    "Portuguese",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.mtsummit-1.6",
+  "acl_url": "https://aclanthology.org/2025.mtsummit-1.6/"
+}

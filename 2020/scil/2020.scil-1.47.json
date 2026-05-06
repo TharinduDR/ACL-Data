@@ -1,0 +1,22 @@
+{
+  "title": "BLiMP: A Benchmark of Linguistic Minimal Pairs for English",
+  "authors": [
+    "Alex Warstadt",
+    "Alicia Parrish",
+    "Haokun Liu",
+    "Anhad Mohananey",
+    "Wei Peng",
+    "Sheng-Fu Wang",
+    "Samuel R. Bowman"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.scil-1.47",
+  "acl_url": "https://aclanthology.org/2020.scil-1.47/"
+}

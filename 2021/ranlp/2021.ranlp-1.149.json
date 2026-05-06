@@ -1,0 +1,21 @@
+{
+  "title": "Czert – Czech BERT-like Model for Language Representation",
+  "authors": [
+    "Jakub Sido",
+    "Ondřej Pražák",
+    "Pavel Přibáň",
+    "Jan Pašek",
+    "Michal Seják",
+    "Miloslav Konopík"
+  ],
+  "languages": [
+    "Czech",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.ranlp-1.149",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.149/"
+}

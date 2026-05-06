@@ -1,0 +1,32 @@
+{
+  "title": "Wiktionary-Based Word Embeddings",
+  "authors": [
+    "Gerard de Melo"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Latin",
+    "Spanish",
+    "French",
+    "German",
+    "Finnish",
+    "Portuguese",
+    "Russian",
+    "Serbo-Croatian",
+    "Chinese",
+    "Japanese",
+    "Polish",
+    "Dutch",
+    "Swedish",
+    "Hungarian",
+    "Danish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2015.mtsummit-papers.27",
+  "acl_url": "https://aclanthology.org/2015.mtsummit-papers.27/"
+}

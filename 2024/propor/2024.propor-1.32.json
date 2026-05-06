@@ -1,0 +1,20 @@
+{
+  "title": "Aspect-based sentiment analysis in comments on political debates in Portuguese: evaluating the potential of ChatGPT",
+  "authors": [
+    "Eloize R. M. Seno",
+    "Lucas G. T. Silva",
+    "Helena M. Caseli",
+    "Fábio S. I. Anno",
+    "Fabiano M. Rocha Junior"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.propor-1.32",
+  "acl_url": "https://aclanthology.org/2024.propor-1.32/"
+}

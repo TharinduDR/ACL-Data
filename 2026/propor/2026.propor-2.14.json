@@ -1,0 +1,20 @@
+{
+  "title": "A RAG Chatbot with Incremental Context Retrieval based on Local LLMs for Hospital Documents",
+  "authors": [
+    "Murilo Vargas da Cunha",
+    "Marília Rosa Silveira",
+    "César Brasil Sperb",
+    "Larissa Astrogildo Freitas",
+    "Ulisses Brisolara Corrêa"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2026.propor-2.14",
+  "acl_url": "https://aclanthology.org/2026.propor-2.14/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "A Multilingual Dataset for Investigating Stereotypes and Negative Attitudes Towards Migrant Groups in Large Language Models",
+  "authors": [
+    "Danielly Sorato",
+    "Carme Colominas Ventura",
+    "Diana Zavala-Rojas"
+  ],
+  "languages": [
+    "Catalan",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.propor-1.1",
+  "acl_url": "https://aclanthology.org/2024.propor-1.1/"
+}

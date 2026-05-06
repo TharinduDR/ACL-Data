@@ -1,0 +1,20 @@
+{
+  "title": "A Culturally Rich Romanian NLP Dataset from 'Who Wants to Be a Millionaire?' Videos",
+  "authors": [
+    "Alexandru-Gabriel Ganea",
+    "Antonia-Adelina Popovici",
+    "Adrian Marius Dumitran"
+  ],
+  "languages": [
+    "Romanian",
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ranlp-1.46",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.46/"
+}

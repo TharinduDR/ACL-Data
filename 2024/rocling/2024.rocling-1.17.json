@@ -1,0 +1,22 @@
+{
+  "title": "Design of a mSUD Taiwan Taigi Treebank Aligned on Mandarin and Teochew Translations",
+  "authors": [
+    "Pierre Magistry",
+    "Ilaine Wang",
+    "Chen Siman",
+    "Chen Xinlei",
+    "Li Zhongjie",
+    "Wen Yu-Chieh",
+    "Zhang Weiqi"
+  ],
+  "languages": [
+    "Chinese",
+    "Teochew"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.rocling-1.17",
+  "acl_url": "https://aclanthology.org/2024.rocling-1.17/"
+}

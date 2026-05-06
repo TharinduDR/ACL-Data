@@ -1,0 +1,20 @@
+{
+  "title": "A Syntax-Aware Edit-based System for Text Simplification",
+  "authors": [
+    "Oscar M. Cumbicus-Pineda",
+    "Itziar Gonzalez-Dios",
+    "Aitor Soroa"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.ranlp-1.38",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.38/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Multi-Domain Adaptation in Neural Machine Translation Through Multidimensional Tagging",
+  "authors": [
+    "Emmanouil Stergiadis",
+    "Satendra Kumar",
+    "Fedor Kovalev",
+    "Pavel Levin"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.mtsummit-up.27",
+  "acl_url": "https://aclanthology.org/2021.mtsummit-up.27/"
+}

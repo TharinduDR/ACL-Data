@@ -1,0 +1,25 @@
+{
+  "title": "A comparison of translation performance between DeepL and Supertext",
+  "authors": [
+    "Alex Flückiger",
+    "Chantal Amrhein",
+    "Tim Graf",
+    "Frédéric Odermatt",
+    "Martin Pömsl",
+    "Philippe Schläpfer",
+    "Florian Schottmann",
+    "Samuel Läubli"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.mtsummit-2.6",
+  "acl_url": "https://aclanthology.org/2025.mtsummit-2.6/"
+}

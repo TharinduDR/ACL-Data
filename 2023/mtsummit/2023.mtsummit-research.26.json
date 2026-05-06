@@ -1,0 +1,20 @@
+{
+  "title": "Target Language Monolingual Translation Memory based NMT by Cross-lingual Retrieval of Similar Translations and Reranking",
+  "authors": [
+    "Takuya Tamura",
+    "Xiaotian Wang",
+    "Takehito Utsuro",
+    "Masaaki Nagata"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.mtsummit-research.26",
+  "acl_url": "https://aclanthology.org/2023.mtsummit-research.26/"
+}

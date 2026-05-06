@@ -1,0 +1,24 @@
+{
+  "title": "Integrating Unsupervised Data Generation into Self-Supervised Neural Machine Translation for Low-Resource Languages",
+  "authors": [
+    "Dana Ruiter",
+    "Dietrich Klakow",
+    "Josef van Genabith",
+    "Cristina España-Bonet"
+  ],
+  "languages": [
+    "English",
+    "Afrikaans",
+    "Kannada",
+    "Burmese",
+    "Nepali",
+    "Swahili",
+    "Yorùbá"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.mtsummit-research.7",
+  "acl_url": "https://aclanthology.org/2021.mtsummit-research.7/"
+}

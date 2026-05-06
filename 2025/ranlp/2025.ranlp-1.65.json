@@ -1,0 +1,20 @@
+{
+  "title": "Instruction-Tuning LLaMA for Synthetic Medical Note Generation in Swedish and English",
+  "authors": [
+    "Lotta Kiefer",
+    "Jesujoba O. Alabi",
+    "Thomas Vakili",
+    "Hercules Dalianis",
+    "Dietrich Klakow"
+  ],
+  "languages": [
+    "English",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.ranlp-1.65",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.65/"
+}

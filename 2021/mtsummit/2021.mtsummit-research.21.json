@@ -1,0 +1,22 @@
+{
+  "title": "Optimizing Word Alignments with Better Subword Tokenization",
+  "authors": [
+    "Anh Khoa Ngo Ho",
+    "François Yvon"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Romanian",
+    "Czech",
+    "Japanese",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.mtsummit-research.21",
+  "acl_url": "https://aclanthology.org/2021.mtsummit-research.21/"
+}

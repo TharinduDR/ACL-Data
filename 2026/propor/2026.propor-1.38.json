@@ -1,0 +1,37 @@
+{
+  "title": "AMALIA: A Fully Open Large Language Model for European Portuguese",
+  "authors": [
+    "Afonso Simplício",
+    "Gonçalo Vinagre",
+    "Miguel Moura Ramos",
+    "Diogo Tavares",
+    "Rafael Ferreira",
+    "Giuseppe Attanasio",
+    "Duarte M. Alves",
+    "Inês Calvo",
+    "Inês Vieira",
+    "Rui Guerra",
+    "James Furtado",
+    "Beatriz Canaverde",
+    "Iago Paulo",
+    "Vasco Ramos",
+    "Diogo Glória-Silva",
+    "Miguel Faria",
+    "Marcos Treviso",
+    "Daniel Gomes",
+    "Pedro Gomes",
+    "David Semedo",
+    "André Martins",
+    "João Magalhães"
+  ],
+  "languages": [
+    "Portuguese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.propor-1.38",
+  "acl_url": "https://aclanthology.org/2026.propor-1.38/"
+}

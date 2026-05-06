@@ -1,0 +1,25 @@
+{
+  "title": "Culture-aware machine translation: the case study of low-resource language pair Catalan-Chinese",
+  "authors": [
+    "Xixian Liao",
+    "Carlos Escolano",
+    "Audrey Mash",
+    "Francesca De Luca Fornaciari",
+    "Javier García Gilabert",
+    "Miguel Claramunt Argote",
+    "Ella Bohman",
+    "Maite Melero"
+  ],
+  "languages": [
+    "Catalan",
+    "Chinese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.mtsummit-1.12",
+  "acl_url": "https://aclanthology.org/2025.mtsummit-1.12/"
+}

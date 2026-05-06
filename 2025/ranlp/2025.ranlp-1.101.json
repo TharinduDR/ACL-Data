@@ -1,0 +1,21 @@
+{
+  "title": "Evaluating LLMs on Deceptive Text Across Cultures",
+  "authors": [
+    "Katerina Papantoniou",
+    "Panagiotis Papadakos",
+    "Dimitris Plexousakis"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Spanish",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.ranlp-1.101",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.101/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Top Ten From Lakhs: A Transformer-based Retrieval System for Identifying Previously Fact-Checked Claims Across Multiple Languages",
+  "authors": [
+    "Srijani Deb Nath",
+    "Pritam Pal",
+    "Dipankar Das"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Thai",
+    "German",
+    "Modern Standard Arabic",
+    "Arabic",
+    "Polish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.ranlp-1.33",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.33/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Seeing, Signing, and Saying: A Vision-Language Model-Assisted Pipeline for Sign Language Data Acquisition and Curation from Social Media",
+  "authors": [
+    "Shakib Yazdani",
+    "Yasser Hamidullah",
+    "Cristina España-Bonet",
+    "Josef van Genabith"
+  ],
+  "languages": [
+    "American Sign Language",
+    "British Sign Language",
+    "Chinese",
+    "French",
+    "German",
+    "Italian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T23 Social Media Processing",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.ranlp-1.159",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.159/"
+}

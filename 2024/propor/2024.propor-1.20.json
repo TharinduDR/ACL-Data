@@ -1,0 +1,21 @@
+{
+  "title": "TransAlign: An Automated Corpus Generation through Cross-Linguistic Data Alignment for Open Information Extraction",
+  "authors": [
+    "Alan Melo",
+    "Bruno Cabral",
+    "Daniela Barreiro Claro",
+    "Rerisson Cavalcante",
+    "Marlo Souza"
+  ],
+  "languages": [
+    "English",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.propor-1.20",
+  "acl_url": "https://aclanthology.org/2024.propor-1.20/"
+}

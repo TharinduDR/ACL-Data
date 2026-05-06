@@ -1,0 +1,20 @@
+{
+  "title": "Multilingual Sentence-Level Bias Detection in Wikipedia",
+  "authors": [
+    "Desislava Aleksandrova",
+    "François Lareau",
+    "Pierre-André Ménard"
+  ],
+  "languages": [
+    "Bulgarian",
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "R19-1006",
+  "acl_url": "https://aclanthology.org/R19-1006/"
+}

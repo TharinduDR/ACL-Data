@@ -1,0 +1,20 @@
+{
+  "title": "Williams College's Submission for the Coco4MT 2023 Shared Task",
+  "authors": [
+    "Alex Root",
+    "Mark Hopkins"
+  ],
+  "languages": [
+    "German",
+    "Indonesian",
+    "Korean",
+    "French",
+    "Gujarati",
+    "Burmese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.mtsummit-coco4mt.4",
+  "acl_url": "https://aclanthology.org/2023.mtsummit-coco4mt.4/"
+}

@@ -1,0 +1,48 @@
+{
+  "title": "NLP Tools for African Languages: Overview",
+  "authors": [
+    "Joaquim Mussandi",
+    "Andreas Wichert"
+  ],
+  "languages": [
+    "English",
+    "Swahili",
+    "Zulu",
+    "Xhosa",
+    "Afrikaans",
+    "Chichewa",
+    "Shona",
+    "Setswana",
+    "Ndebele",
+    "Sepedi",
+    "Yoruba",
+    "Swati",
+    "Venda",
+    "Sotho",
+    "Tsonga",
+    "Luganda",
+    "Fongbe",
+    "Ewe",
+    "Tunisian Arabic",
+    "Wolof",
+    "Kinyarwanda",
+    "Kikongo",
+    "Umbundu",
+    "Kimbundu",
+    "Basaa",
+    "Myene",
+    "Emboshi",
+    "Emakhuwa",
+    "Lingala"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.propor-2.11",
+  "acl_url": "https://aclanthology.org/2024.propor-2.11/"
+}

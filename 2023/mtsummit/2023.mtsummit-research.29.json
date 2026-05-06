@@ -1,0 +1,29 @@
+{
+  "title": "Pivot Translation for Zero-resource Language Pairs Based on a Multilingual Pretrained Model",
+  "authors": [
+    "Kenji Imamura",
+    "Masao Utiyama",
+    "Eiichiro Sumita"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Bengali",
+    "Indonesian",
+    "Khmer",
+    "Lao",
+    "Malay",
+    "Myanmar",
+    "Thai",
+    "Tagalog",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2023.mtsummit-research.29",
+  "acl_url": "https://aclanthology.org/2023.mtsummit-research.29/"
+}

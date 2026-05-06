@@ -1,0 +1,18 @@
+{
+  "title": "Improving Low-Resource Speech Recognition through Multilingual Fine-Tuning with Language Identifiers and Self-Training",
+  "authors": [
+    "Karol Nowakowski",
+    "Michal Ptaszynski"
+  ],
+  "languages": [
+    "Ainu",
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2023.rocling-1.8",
+  "acl_url": "https://aclanthology.org/2023.rocling-1.8/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Enabling Multi-Source Neural Machine Translation By Concatenating Source Sentences In Multiple Languages",
+  "authors": [
+    "Raj Dabre",
+    "Fabien Cromieres",
+    "Sadao Kurohashi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Arabic",
+    "Czech",
+    "Hindi",
+    "Bengali",
+    "Marathi",
+    "Telugu",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2017.mtsummit-papers.8",
+  "acl_url": "https://aclanthology.org/2017.mtsummit-papers.8/"
+}

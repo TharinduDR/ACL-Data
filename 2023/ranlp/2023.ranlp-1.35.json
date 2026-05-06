@@ -1,0 +1,25 @@
+{
+  "title": "Identifying Semantic Argument Types in Predication and Copredication Contexts: A Zero-Shot Cross-Lingual Approach",
+  "authors": [
+    "Deniz Ekin Yavas",
+    "Laura Kallmeyer",
+    "Rainer Osswald",
+    "Elisabetta Jezek",
+    "Marta Ricchiardi",
+    "Long Chen"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Italian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.ranlp-1.35",
+  "acl_url": "https://aclanthology.org/2023.ranlp-1.35/"
+}

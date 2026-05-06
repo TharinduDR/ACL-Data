@@ -1,0 +1,22 @@
+{
+  "title": "JabuticaBERT: Modern Portuguese Encoders from Scratch with RTD and Long-Context Training",
+  "authors": [
+    "Thiago Porto",
+    "Gabriel Gomes",
+    "Alexandre Bender",
+    "Ulisses Corrêa",
+    "Larissa Freitas",
+    "William Cruz",
+    "Marcellus Amadeus"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.propor-1.93",
+  "acl_url": "https://aclanthology.org/2026.propor-1.93/"
+}

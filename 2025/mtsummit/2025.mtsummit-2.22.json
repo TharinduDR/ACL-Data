@@ -1,0 +1,33 @@
+{
+  "title": "MaTOS: Machine Translation for Open Science",
+  "authors": [
+    "Rachel Bawden",
+    "Maud Bénard",
+    "Éric de la Clergerie",
+    "José Cornejo Cárcamo",
+    "Nicolas Dahan",
+    "Manon Delorme",
+    "Mathilde Huguin",
+    "Natalie Kübler",
+    "Paul Lerner",
+    "Alexandra Mestivier",
+    "Joachim Minder",
+    "Jean-François Nominé",
+    "Ziqian Peng",
+    "Laurent Romary",
+    "Panagiotis Tsalakis",
+    "Lichao Zhu",
+    "François Yvon"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.mtsummit-2.22",
+  "acl_url": "https://aclanthology.org/2025.mtsummit-2.22/"
+}

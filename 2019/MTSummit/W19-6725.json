@@ -1,0 +1,26 @@
+{
+  "title": "Leveraging Rule-Based Machine Translation Knowledge for Under-Resourced Neural Machine Translation Models",
+  "authors": [
+    "Daniel Torregrosa",
+    "Nivranshu Pasricha",
+    "Bharathi Raja Chakravarthi",
+    "Maraim Masoud",
+    "Mihael Arcan",
+    "Juan Alonso",
+    "Noe Casas"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Basque",
+    "Irish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W19-6725",
+  "acl_url": "https://aclanthology.org/W19-6725/"
+}

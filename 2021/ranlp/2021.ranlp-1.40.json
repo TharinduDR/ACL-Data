@@ -1,0 +1,19 @@
+{
+  "title": "Event Prominence Extraction Combining a Knowledge-Based Syntactic Parser and a BERT Classifier for Dutch",
+  "authors": [
+    "Thierry Desot",
+    "Orphée De Clercq",
+    "Veronique Hoste"
+  ],
+  "languages": [
+    "Dutch",
+    "English"
+  ],
+  "research_areas": [
+    "T11",
+    "T21",
+    "T14"
+  ],
+  "paper_id": "2021.ranlp-1.40",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.40/"
+}

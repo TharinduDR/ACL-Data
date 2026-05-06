@@ -1,0 +1,22 @@
+{
+  "title": "Clinical Text Classification to SNOMED CT Codes using Transformers Trained on Linked Open Medical Ontologies",
+  "authors": [
+    "Anton Hristov",
+    "Petar Ivanov",
+    "Anna Aksenova",
+    "Tsvetan Asamov",
+    "Pavlin Gyurov",
+    "Todor Primov",
+    "Svetla Boytcheva"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2023.ranlp-1.57",
+  "acl_url": "https://aclanthology.org/2023.ranlp-1.57/"
+}

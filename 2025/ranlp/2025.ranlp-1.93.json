@@ -1,0 +1,42 @@
+{
+  "title": "A Survey on Small Language Models",
+  "authors": [
+    "Chien Van Nguyen",
+    "Xuan Shen",
+    "Ryan Aponte",
+    "Yu Xia",
+    "Samyadeep Basu",
+    "Zhengmian Hu",
+    "Jian Chen",
+    "Mihir Parmar",
+    "Sasidhar Kunapuli",
+    "Joe Barrow",
+    "Junda Wu",
+    "Ashish Singh",
+    "Yu Wang",
+    "Jiuxiang Gu",
+    "Nesreen K. Ahmed",
+    "Nedim Lipka",
+    "Ruiyi Zhang",
+    "Xiang Chen",
+    "Tong Yu",
+    "Sungchul Kim",
+    "Hanieh Deilamsalehy",
+    "Namyoung Park",
+    "Mike Rimer",
+    "Zhehao Zhang",
+    "Huanrui Yang",
+    "Puneet Mathur",
+    "Gang Wu",
+    "Franck Dernoncourt",
+    "Ryan A. Rossi",
+    "Thien Huu Nguyen"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.ranlp-1.93",
+  "acl_url": "https://aclanthology.org/2025.ranlp-1.93/"
+}

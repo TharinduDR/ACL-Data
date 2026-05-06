@@ -1,0 +1,32 @@
+{
+  "title": "Improving Character-Aware Neural Language Model by Warming Up Character Encoder under Skip-gram Architecture",
+  "authors": [
+    "Yukun Feng",
+    "Chenlong Hu",
+    "Hidetaka Kamigaito",
+    "Hiroya Takamura",
+    "Manabu Okumura"
+  ],
+  "languages": [
+    "Chinese",
+    "Japanese",
+    "Portuguese",
+    "English",
+    "Spanish",
+    "Hebrew",
+    "German",
+    "Arabic",
+    "Czech",
+    "Russian",
+    "Estonian",
+    "Finnish",
+    "Korean",
+    "Kannada"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2021.ranlp-1.48",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.48/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Transformer-Based Language Models for Bulgarian",
+  "authors": [
+    "Iva Marinova",
+    "Kiril Simov",
+    "Petya Osenova"
+  ],
+  "languages": [
+    "Bulgarian",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2023.ranlp-1.77",
+  "acl_url": "https://aclanthology.org/2023.ranlp-1.77/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "An Alignment-Based Approach to Semi-Supervised Bilingual Lexicon Induction with Small Parallel Corpora",
+  "authors": [
+    "Kelly Marchisio",
+    "Conghao Xiong",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Italian",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.mtsummit-research.24",
+  "acl_url": "https://aclanthology.org/2021.mtsummit-research.24/"
+}

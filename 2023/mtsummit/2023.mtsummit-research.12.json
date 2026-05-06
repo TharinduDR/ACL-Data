@@ -1,0 +1,21 @@
+{
+  "title": "Boosting Unsupervised Machine Translation with Pseudo-Parallel Data",
+  "authors": [
+    "Ivana Kvapilíková",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "English",
+    "Ukrainian",
+    "Kazakh",
+    "Georgian",
+    "German",
+    "Upper Sorbian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2023.mtsummit-research.12",
+  "acl_url": "https://aclanthology.org/2023.mtsummit-research.12/"
+}

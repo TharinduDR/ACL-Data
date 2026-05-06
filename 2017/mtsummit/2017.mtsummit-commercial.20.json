@@ -1,0 +1,34 @@
+{
+  "title": "Recent Developments",
+  "authors": [
+    "Joss Moorkens",
+    "Yota Georgakopoulou",
+    "Sheila Castilho",
+    "Federico Gaspari",
+    "Andy Way",
+    "Maria Gialama",
+    "Rico Sennrich",
+    "Antonio Valerio Miceli Barone",
+    "Valia Kordoni",
+    "Markus Egg",
+    "Maja Popović",
+    "Vilemini Sosoni",
+    "Iris Hendrickx",
+    "Menno van Zaanen"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Greek",
+    "Portuguese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2017.mtsummit-commercial.20",
+  "acl_url": "https://aclanthology.org/2017.mtsummit-commercial.20/"
+}

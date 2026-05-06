@@ -1,0 +1,25 @@
+{
+  "title": "Collecting domain specific data for MT: an evaluation of the ParaCrawl pipeline",
+  "authors": [
+    "Arne Defauw",
+    "Tom Vanallemeersch",
+    "Sara Szoc",
+    "Frederic Everaert",
+    "Koen Van Winckel",
+    "Kim Scholte",
+    "Joris Brabers",
+    "Joachim Van den Bogaert"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Irish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "W19-6733",
+  "acl_url": "https://aclanthology.org/W19-6733/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "ConfiBERT-Arabic: A Pre-trained Arabic Language Model for Politics, Conflicts and Violence",
+  "authors": [
+    "Sultan Alsarra",
+    "Luay Abdeljaber",
+    "Wooseong Yang",
+    "Niamat Zawad",
+    "Latifur Khan",
+    "Patrick T. Brandt",
+    "Javier Osorio",
+    "Vito J. D'Orazio"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2023.ranlp-1.11",
+  "acl_url": "https://aclanthology.org/2023.ranlp-1.11/"
+}

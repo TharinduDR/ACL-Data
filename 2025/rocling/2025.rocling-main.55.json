@@ -1,0 +1,16 @@
+{
+  "title": "A Compact Whisper+LoRA Baseline for Taiwanese Hakka ASR in FSR-2025",
+  "authors": [
+    "Hung-Ting Hsieh"
+  ],
+  "languages": [
+    "Chinese",
+    "Pinyin"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.rocling-main.55",
+  "acl_url": "https://aclanthology.org/2025.rocling-main.55/"
+}

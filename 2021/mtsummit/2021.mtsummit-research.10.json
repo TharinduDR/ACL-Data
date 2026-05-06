@@ -1,0 +1,26 @@
+{
+  "title": "Investigating Softmax Tempering for Training Neural Machine Translation Models",
+  "authors": [
+    "Raj Dabre",
+    "Atsushi Fujita"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Filipino",
+    "Indonesian",
+    "Japanese",
+    "Khmer",
+    "Lao",
+    "Malay",
+    "Burmese",
+    "Thai",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.mtsummit-research.10",
+  "acl_url": "https://aclanthology.org/2021.mtsummit-research.10/"
+}

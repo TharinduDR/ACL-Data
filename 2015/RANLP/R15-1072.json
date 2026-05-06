@@ -1,0 +1,25 @@
+{
+  "title": "bRol: The Parser of Syntactic and Semantic Dependencies for Basque",
+  "authors": [
+    "Haritz Salaberri",
+    "Olatz Arregi",
+    "Beñat Zapirain"
+  ],
+  "languages": [
+    "Basque",
+    "Catalan",
+    "Chinese",
+    "Czech",
+    "English",
+    "German",
+    "Japanese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "R15-1072",
+  "acl_url": "https://aclanthology.org/R15-1072/"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Using C-LARA to evaluate GPT-4's multilingual processing",
+  "authors": [
+    "ChatGPT C-LARA-Instance",
+    "Belinda Chiera",
+    "Cathy Chua",
+    "Chadi Raheb",
+    "Manny Rayner",
+    "Annika Simonsen",
+    "Zhengkang Xiang",
+    "Rina Zviel-Girshin"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Swedish",
+    "Persian",
+    "Chinese",
+    "Russian",
+    "Faroese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.alta-1.3",
+  "acl_url": "https://aclanthology.org/2023.alta-1.3/"
+}

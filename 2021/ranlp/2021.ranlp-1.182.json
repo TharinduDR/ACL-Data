@@ -1,0 +1,32 @@
+{
+  "title": "Delexicalized Cross-lingual Dependency Parsing for Xibe",
+  "authors": [
+    "He Zhou",
+    "Sandra Kübler"
+  ],
+  "languages": [
+    "Xibe",
+    "Japanese",
+    "Turkish",
+    "Korean",
+    "Chinese",
+    "Finnish",
+    "Slovenian",
+    "Korean",
+    "Czech",
+    "Norwegian",
+    "Spanish",
+    "Latvian",
+    "Hindi",
+    "Indonesian",
+    "English",
+    "Russian",
+    "Persian",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.ranlp-1.182",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.182/"
+}

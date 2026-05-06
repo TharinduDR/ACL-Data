@@ -1,0 +1,22 @@
+{
+  "title": "SenZi: A Sentiment Analysis Lexicon for the Latinised Arabic (Arabizi)",
+  "authors": [
+    "Taha Tobaili",
+    "Miriam Fernandez",
+    "Harith Alani",
+    "Sanaa Sharafeddine",
+    "Hazem Hajj",
+    "Goran Glavaš"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "R19-1138",
+  "acl_url": "https://aclanthology.org/R19-1138/"
+}

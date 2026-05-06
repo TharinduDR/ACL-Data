@@ -1,0 +1,26 @@
+{
+  "title": "Not All Linearizations Are Equally Data-Hungry in Sequence Labeling Parsing",
+  "authors": [
+    "Alberto Muñoz-Ortiz",
+    "Michalina Strzyz",
+    "David Vilares"
+  ],
+  "languages": [
+    "German",
+    "Czech",
+    "Russian",
+    "Persian",
+    "Estonian",
+    "Romanian",
+    "Korean",
+    "Ancient Greek",
+    "Hindi",
+    "Latvian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.ranlp-1.111",
+  "acl_url": "https://aclanthology.org/2021.ranlp-1.111/"
+}
