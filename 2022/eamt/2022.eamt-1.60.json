@@ -1,0 +1,29 @@
+{
+  "title": "Curated Multilingual Language Resources for CEF AT (CURLICAT): Overall View",
+  "authors": [
+    "Tamás Váradi",
+    "Marko Tadić",
+    "Svetla Koeva",
+    "Maciej Ogrodniczuk",
+    "Dan Tufiș",
+    "Radovan Garabík",
+    "Simon Krek",
+    "Andraž Repar"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Croatian",
+    "Hungarian",
+    "Polish",
+    "Romanian",
+    "Slovak",
+    "Slovenian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2022.eamt-1.60",
+  "acl_url": "https://aclanthology.org/2022.eamt-1.60/"
+}

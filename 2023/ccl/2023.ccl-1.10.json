@@ -1,0 +1,19 @@
+{
+  "title": "基于端到端预训练模型的藏文生成式文本摘要",
+  "authors": [
+    "黄硕",
+    "闫晓东",
+    "欧阳新鹏",
+    "杨金朋"
+  ],
+  "languages": [
+    "Tibetan",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14",
+    "T18"
+  ],
+  "paper_id": "2023.ccl-1.10",
+  "acl_url": "https://aclanthology.org/2023.ccl-1.10/"
+}

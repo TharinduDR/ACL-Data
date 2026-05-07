@@ -1,0 +1,26 @@
+{
+  "title": "ReSeTOX: Re-learning attention weights for toxicity mitigation in machine translation",
+  "authors": [
+    "Javier García Gilabert",
+    "Carlos Escolano",
+    "Marta R. Costa-Jussà"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Portuguese",
+    "Spanish",
+    "Turkish",
+    "Italian",
+    "Russian",
+    "Chinese",
+    "Kinyarwanda",
+    "Chinese Simplified"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.eamt-1.8",
+  "acl_url": "https://aclanthology.org/2024.eamt-1.8/"
+}

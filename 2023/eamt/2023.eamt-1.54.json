@@ -1,0 +1,20 @@
+{
+  "title": "GoSt-ParC-Sign: Gold Standard Parallel Corpus of Sign and spoken language",
+  "authors": [
+    "Mirella De Sisto",
+    "Vincent Vandeghinste",
+    "Lien Soetemans",
+    "Caro Brosens",
+    "Dimitar Shterionov"
+  ],
+  "languages": [
+    "Dutch",
+    "Flemish Sign Language"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.eamt-1.54",
+  "acl_url": "https://aclanthology.org/2023.eamt-1.54/"
+}

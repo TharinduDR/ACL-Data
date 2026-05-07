@@ -1,0 +1,48 @@
+{
+  "title": "XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs",
+  "authors": [
+    "Federico Martelli",
+    "Andrei Stefan Bejgu",
+    "Cesare Campagnano",
+    "Jaka Čibej",
+    "Rute Costa",
+    "Apolonija Gantar",
+    "Jelena Kallas",
+    "Svetla Koeva",
+    "Kristina Koppel",
+    "Simon Krek",
+    "Margit Langemets",
+    "Veronika Lipp",
+    "Sanni Nimb",
+    "Sussi Olsen",
+    "Bolette Sandford Pedersen",
+    "Valeria Quochi",
+    "Ana Salgado",
+    "László Simon",
+    "Carole Tiberius",
+    "Rafael-J Ureña-Ruiz",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Chinese",
+    "Danish",
+    "Dutch",
+    "Estonian",
+    "Hungarian",
+    "Italian",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.clicit-1.34",
+  "acl_url": "https://aclanthology.org/2023.clicit-1.34/"
+}

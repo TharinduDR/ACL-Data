@@ -1,0 +1,18 @@
+{
+  "title": "Investigating the Translation Performance of a Large Multilingual Language Model: the Case of BLOOM",
+  "authors": [
+    "Rachel Bawden",
+    "François Yvon"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.eamt-1.16",
+  "acl_url": "https://aclanthology.org/2023.eamt-1.16/"
+}

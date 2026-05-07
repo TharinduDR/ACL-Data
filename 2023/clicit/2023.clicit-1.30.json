@@ -1,0 +1,20 @@
+{
+  "title": "End-to-end Dependency Parsing via Auto-regressive Large Language Models",
+  "authors": [
+    "Claudiu Daniel Hromei",
+    "Danilo Croce",
+    "Roberto Basili"
+  ],
+  "languages": [
+    "Italian",
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.clicit-1.30",
+  "acl_url": "https://aclanthology.org/2023.clicit-1.30/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "A Comparison of Data Filtering Methods for Neural Machine Translation",
+  "authors": [
+    "Fred Bane",
+    "Celia Soler Uguet",
+    "Wiktor Stribizew",
+    "Anna Zaretskaya"
+  ],
+  "languages": [
+    "German",
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.amta-upg.22",
+  "acl_url": "https://aclanthology.org/2022.amta-upg.22/"
+}

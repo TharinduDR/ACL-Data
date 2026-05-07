@@ -1,0 +1,22 @@
+{
+  "title": "AutoRG: 一种大小模型协同的自动报告生成框架",
+  "authors": [
+    "张京",
+    "舒江明",
+    "张宇翔",
+    "吴斌",
+    "王巍",
+    "于剑",
+    "桑基韬"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.ccl-1.42",
+  "acl_url": "https://aclanthology.org/2024.ccl-1.42/"
+}

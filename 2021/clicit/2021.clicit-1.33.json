@@ -1,0 +1,26 @@
+{
+  "title": "Investigating Continued Pretraining for Zero-Shot Cross-Lingual Spoken Language Understanding",
+  "authors": [
+    "Samuel Louvan",
+    "Silvia Casola",
+    "Bernardo Magnini"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Portuguese",
+    "Hindi",
+    "Japanese",
+    "Chinese",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2021.clicit-1.33",
+  "acl_url": "https://aclanthology.org/2021.clicit-1.33/"
+}

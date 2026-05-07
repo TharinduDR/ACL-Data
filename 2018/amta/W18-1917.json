@@ -1,0 +1,25 @@
+{
+  "title": "Leveraging Data Resources for Cross-Linguistic Information Retrieval Using Statistical Machine Translation",
+  "authors": [
+    "Steve Sloto",
+    "Ann Clifton",
+    "Greg Hanneman",
+    "Patrick Porter",
+    "Donna Gates",
+    "Almut Silja Hildebrand",
+    "Anish Kumar"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "Czech",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W18-1917",
+  "acl_url": "https://aclanthology.org/W18-1917/"
+}

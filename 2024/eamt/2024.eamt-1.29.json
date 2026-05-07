@@ -1,0 +1,28 @@
+{
+  "title": "MTUncertainty: Assessing the Need for Post-editing of Machine Translation Outputs by Fine-tuning OpenAI LLMs",
+  "authors": [
+    "Serge Gladkoff",
+    "Lifeng Han",
+    "Gleb Erofeev",
+    "Irina Sorokina",
+    "Goran Nenadic"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "German",
+    "French",
+    "Japanese",
+    "Dutch",
+    "Portuguese",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.eamt-1.29",
+  "acl_url": "https://aclanthology.org/2024.eamt-1.29/"
+}

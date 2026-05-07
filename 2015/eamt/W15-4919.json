@@ -1,0 +1,22 @@
+{
+  "title": "Unsupervised training of maximum-entropy models for lexical selection in rule-based machine translation",
+  "authors": [
+    "Francis M. Tyers",
+    "Felipe Sánchez-Martínez",
+    "Mikel L. Forcada"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Breton",
+    "French",
+    "Macedonian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W15-4919",
+  "acl_url": "https://aclanthology.org/W15-4919/"
+}

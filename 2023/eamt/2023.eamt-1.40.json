@@ -1,0 +1,23 @@
+{
+  "title": "Incorporating Human Translator Style into English-Turkish Literary Machine Translation",
+  "authors": [
+    "Zeynep Yirmibeşoğlu",
+    "Olgun Dursun",
+    "Harun Dalli",
+    "Mehmet Şahin",
+    "Ena Hodzik",
+    "Sabri Gürses",
+    "Tunga Güngör"
+  ],
+  "languages": [
+    "English",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eamt-1.40",
+  "acl_url": "https://aclanthology.org/2023.eamt-1.40/"
+}

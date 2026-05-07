@@ -1,0 +1,33 @@
+{
+  "title": "Building Machine Translation Tools for Patent Language: A Data Generation Strategy at the European Patent Office",
+  "authors": [
+    "Matthias Wirth",
+    "Volker D. Hähnke",
+    "Franco Mascia",
+    "Arnaud Wéry",
+    "Konrad Vowinckel",
+    "Marco del Rey",
+    "Raúl Mohedano del Pozo",
+    "Pau Montes",
+    "Alexander Klenner-Bajaja"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Dutch",
+    "Spanish",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eamt-1.46",
+  "acl_url": "https://aclanthology.org/2023.eamt-1.46/"
+}

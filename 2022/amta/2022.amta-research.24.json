@@ -1,0 +1,37 @@
+{
+  "title": "Consistent Human Evaluation of Machine Translation across Language Pairs",
+  "authors": [
+    "Daniel Licht",
+    "Cynthia Gao",
+    "Janice Lam",
+    "Francisco Guzmán",
+    "Mona Diab",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "Arabic",
+    "Estonian",
+    "Indonesian",
+    "Mongolian",
+    "Spanish",
+    "Tamil",
+    "Amharic",
+    "Azerbaijani",
+    "Bosnian",
+    "Georgian",
+    "Hindi",
+    "Romanian",
+    "Sindhi",
+    "Slovenian",
+    "Swahili",
+    "Urdu",
+    "Zulu",
+    "Brazilian Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.amta-research.24",
+  "acl_url": "https://aclanthology.org/2022.amta-research.24/"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Europarl Datasets with Demographic Speaker Information",
+  "authors": [
+    "Eva Vanmassenhove",
+    "Christian Hardmeier"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Greek",
+    "Spanish",
+    "Estonian",
+    "Finnish",
+    "Hungarian",
+    "Italian",
+    "Latvian",
+    "Lithuanian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Slovak",
+    "Slovenian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2018.eamt-main.59",
+  "acl_url": "https://aclanthology.org/2018.eamt-main.59/"
+}

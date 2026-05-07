@@ -1,0 +1,19 @@
+{
+  "title": "CoreNLP-it: A UD pipeline for Italian based on Stanford CoreNLP",
+  "authors": [
+    "Alessandro Bondielli",
+    "Lucia C. Passaro",
+    "Alessandro Lenci"
+  ],
+  "languages": [
+    "Italian",
+    "Spanish",
+    "French"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2018.clicit-1.12",
+  "acl_url": "https://aclanthology.org/2018.clicit-1.12/"
+}

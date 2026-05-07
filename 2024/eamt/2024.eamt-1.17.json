@@ -1,0 +1,24 @@
+{
+  "title": "Iterative Translation Refinement with Large Language Models",
+  "authors": [
+    "Pinzhen Chen",
+    "Zhicheng Guo",
+    "Barry Haddow",
+    "Kenneth Heafield"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "French",
+    "Japanese",
+    "Ukrainian",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.eamt-1.17",
+  "acl_url": "https://aclanthology.org/2024.eamt-1.17/"
+}

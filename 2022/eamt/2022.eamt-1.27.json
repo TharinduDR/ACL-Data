@@ -1,0 +1,30 @@
+{
+  "title": "Pre-training Synthetic Cross-lingual Decoder for Multilingual Samples Adaptation in E-Commerce Neural Machine Translation",
+  "authors": [
+    "Kamal Kumar Gupta",
+    "Soumya Chennabasavaraj",
+    "Nikesh Garera",
+    "Asif Ekbal"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Hindi",
+    "Bengali",
+    "Gujarati",
+    "Marathi",
+    "Punjabi",
+    "Malayalam",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.eamt-1.27",
+  "acl_url": "https://aclanthology.org/2022.eamt-1.27/"
+}

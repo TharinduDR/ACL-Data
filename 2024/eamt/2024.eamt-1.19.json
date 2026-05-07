@@ -1,0 +1,44 @@
+{
+  "title": "Assessing Translation Capabilities of Large Language Models involving English and Indian Languages",
+  "authors": [
+    "Vandan Mujadia",
+    "Ashok Urlana",
+    "Yash Bhaskar",
+    "Penumalla Aditya Pavani",
+    "Kukkapalli Shravya",
+    "Parameswari Krishnamurthy",
+    "Dipti Misra Sharma"
+  ],
+  "languages": [
+    "English",
+    "Assamese",
+    "Bengali",
+    "Bodo",
+    "Dogri",
+    "Konkani",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Kashmiri",
+    "Maithili",
+    "Malayalam",
+    "Marathi",
+    "Meitei",
+    "Nepali",
+    "Odia",
+    "Punjabi",
+    "Sanskrit",
+    "Santali",
+    "Sindhi",
+    "Tamil",
+    "Telugu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.eamt-1.19",
+  "acl_url": "https://aclanthology.org/2024.eamt-1.19/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "English-Russian Data Augmentation for Neural Machine Translation",
+  "authors": [
+    "Nikita Teslenko Grygoryev",
+    "Mercedes García Martínez",
+    "Francisco Casacuberta Nolla",
+    "Amando Estela Pastor",
+    "Manuel Herranz"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.amta-coco4mt.1",
+  "acl_url": "https://aclanthology.org/2022.amta-coco4mt.1/"
+}

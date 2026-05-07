@@ -1,0 +1,29 @@
+{
+  "title": "Sentences and Documents in Native Language Identification",
+  "authors": [
+    "Andrea Cimino",
+    "Felice Dell'Orletta",
+    "Dominique Brunato",
+    "Giulia Venturi"
+  ],
+  "languages": [
+    "Chinese",
+    "German",
+    "Japanese",
+    "Korean",
+    "Hindi",
+    "Telugu",
+    "French",
+    "Italian",
+    "Arabic",
+    "Spanish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2018.clicit-1.23",
+  "acl_url": "https://aclanthology.org/2018.clicit-1.23/"
+}

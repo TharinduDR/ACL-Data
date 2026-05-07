@@ -1,0 +1,20 @@
+{
+  "title": "基于跨语言双语预训练及Bi-LSTM的汉-越平行句对抽取方法",
+  "authors": [
+    "刘畅",
+    "高盛祥",
+    "余正涛",
+    "黄于欣",
+    "尤丛丛"
+  ],
+  "languages": [
+    "Chinese",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16",
+    "T15"
+  ],
+  "paper_id": "2020.ccl-1.42",
+  "acl_url": "https://aclanthology.org/2020.ccl-1.42/"
+}

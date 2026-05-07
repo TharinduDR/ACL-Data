@@ -1,0 +1,27 @@
+{
+  "title": "PERSEID - Perspectivist Irony Detection: A CALAMITA Challenge",
+  "authors": [
+    "Valerio Basile",
+    "Silvia Casola",
+    "Simona Frenda",
+    "Soda Marem Lo"
+  ],
+  "languages": [
+    "Arabic",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Hindi",
+    "Italian",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.clicit-1.118",
+  "acl_url": "https://aclanthology.org/2024.clicit-1.118/"
+}

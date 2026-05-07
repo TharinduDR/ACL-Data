@@ -1,0 +1,32 @@
+{
+  "title": "Community-driven machine translation for the Catalan language at Softcatalà",
+  "authors": [
+    "Xavi Ivars-Ribes",
+    "Jordi Mas",
+    "Marc Riera Jaume Ortolà",
+    "David Cànovas",
+    "Mikel L. Forcada"
+  ],
+  "languages": [
+    "Catalan",
+    "Spanish",
+    "French",
+    "English",
+    "Italian",
+    "Dutch",
+    "Galician",
+    "German",
+    "Japanese",
+    "Portuguese",
+    "Romanian",
+    "Aragonese",
+    "Occitan"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.eamt-2.23",
+  "acl_url": "https://aclanthology.org/2024.eamt-2.23/"
+}

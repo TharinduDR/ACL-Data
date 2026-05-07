@@ -1,0 +1,26 @@
+{
+  "title": "A Novel Real-World Dataset of Italian Clinical Notes for NLP-based Decision Support in Low Back Pain Treatment",
+  "authors": [
+    "Agnese Bonfigli",
+    "Ruben Piperno",
+    "Luca Bacco",
+    "Felice Dell'Orletta",
+    "Dominique Brunato",
+    "Filippo Crispino",
+    "Giuseppe Francesco Papalia",
+    "Fabrizio Russo",
+    "Gianluca Vadala",
+    "Rocco Papalia",
+    "Mario Merone",
+    "Leandro Pecchia"
+  ],
+  "languages": [
+    "Italian"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.clicit-1.12",
+  "acl_url": "https://aclanthology.org/2025.clicit-1.12/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Construction of Chinese Sentence-Level Gender-Unbiased Data Set and Evaluation of Gender Bias in Pre-Training Language Model",
+  "authors": [
+    "Jishun Zhao",
+    "Bingjie Du",
+    "Shucheng Zhu",
+    "Pengyuan Liu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.ccl-1.51",
+  "acl_url": "https://aclanthology.org/2021.ccl-1.51/"
+}

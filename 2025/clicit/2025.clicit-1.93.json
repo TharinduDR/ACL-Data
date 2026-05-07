@@ -1,0 +1,21 @@
+{
+  "title": "IMB: An Italian Medical Benchmark for Question Answering",
+  "authors": [
+    "Antonio Romano",
+    "Giuseppe Riccio",
+    "Mariano Barone",
+    "Marco Postiglione",
+    "Vincenzo Moscato"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.clicit-1.93",
+  "acl_url": "https://aclanthology.org/2025.clicit-1.93/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "TAN-IBE: Neural Machine Translation for the romance languages of the Iberian Peninsula",
+  "authors": [
+    "Antoni Oliver",
+    "Mercè Vázquez",
+    "Marta Coll-Florit",
+    "Sergi Álvarez",
+    "Víctor Suárez",
+    "Claudi Aventín-Boya",
+    "Cristina Valdés",
+    "Mar Font",
+    "Alejandro Pardos"
+  ],
+  "languages": [
+    "Spanish",
+    "Asturian",
+    "Aragonese",
+    "Aranese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2023.eamt-1.50",
+  "acl_url": "https://aclanthology.org/2023.eamt-1.50/"
+}

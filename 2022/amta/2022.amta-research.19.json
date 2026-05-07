@@ -1,0 +1,21 @@
+{
+  "title": "A Neural Machine Translation Approach to Translate Text to Pictographs in a Medical Speech Translation System - The BabelDr Use Case",
+  "authors": [
+    "Jonathan Mutal",
+    "Pierrette Bouillon",
+    "Johanna Gerlach",
+    "Magali Norré",
+    "Lucía Ormaechea Grijalba"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
+  ],
+  "paper_id": "2022.amta-research.19",
+  "acl_url": "https://aclanthology.org/2022.amta-research.19/"
+}

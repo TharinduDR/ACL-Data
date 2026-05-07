@@ -1,0 +1,17 @@
+{
+  "title": "A Contextual Language Model to Improve Machine Translation of Pronouns by Re-ranking Translation Hypotheses",
+  "authors": [
+    "Ngoc-Quang LUONG",
+    "Andrei POPESCU-BELIS"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "W16-3416",
+  "acl_url": "https://aclanthology.org/W16-3416/"
+}

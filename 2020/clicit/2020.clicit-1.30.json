@@ -1,0 +1,24 @@
+{
+  "title": "The E3C Project: Collection and Annotation of a Multilingual Corpus of Clinical Cases",
+  "authors": [
+    "Bernardo Magnini",
+    "Begoña Altuna",
+    "Alberto Lavelli",
+    "Manuela Speranza",
+    "Roberto Zanoli"
+  ],
+  "languages": [
+    "Italian",
+    "English",
+    "French",
+    "Spanish",
+    "Basque"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2020.clicit-1.30",
+  "acl_url": "https://aclanthology.org/2020.clicit-1.30/"
+}

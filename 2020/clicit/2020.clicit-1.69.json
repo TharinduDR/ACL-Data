@@ -1,0 +1,20 @@
+{
+  "title": "A deep learning model for the analysis of medical reports in ICD-10 clinical coding task",
+  "authors": [
+    "Marco Polignano",
+    "Pierpaolo Basile",
+    "Marco de Gemmis",
+    "Pasquale Lops",
+    "Giovanni Semeraro"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2020.clicit-1.69",
+  "acl_url": "https://aclanthology.org/2020.clicit-1.69/"
+}

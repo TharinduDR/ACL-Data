@@ -1,0 +1,22 @@
+{
+  "title": "Constructing a Multimodal, Multilingual Translation and Interpreting Corpus: A Modular Pipeline and an Evaluation of ASR for Verbatim Transcription",
+  "authors": [
+    "Alice Fedotova",
+    "Adriano Ferraresi",
+    "Maja Miličević Petrović",
+    "Alberto Barrón-Cedeño"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "French",
+    "Slovenian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.clicit-1.42",
+  "acl_url": "https://aclanthology.org/2024.clicit-1.42/"
+}

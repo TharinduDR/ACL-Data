@@ -1,0 +1,25 @@
+{
+  "title": "How Effective is Synthetic Data and Instruction Fine-tuning for Translation with Markup using LLMs?",
+  "authors": [
+    "Raj Dabre",
+    "Haiyue Song",
+    "Miriam Exel",
+    "Bianka Buschbeck",
+    "Johannes Eschbach-Dymanus",
+    "Hideki Tanaka"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Dutch",
+    "Finnish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.amta-research.8",
+  "acl_url": "https://aclanthology.org/2024.amta-research.8/"
+}

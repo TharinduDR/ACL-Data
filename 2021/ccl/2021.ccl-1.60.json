@@ -1,0 +1,17 @@
+{
+  "title": "SaGE: 基于句法感知图卷积神经网络和ELECTRA的中文隐喻识别模型",
+  "authors": [
+    "张声龙",
+    "刘颖",
+    "马艳军"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.ccl-1.60",
+  "acl_url": "https://aclanthology.org/2021.ccl-1.60/"
+}

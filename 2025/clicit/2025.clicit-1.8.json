@@ -1,0 +1,24 @@
+{
+  "title": "BLiMP-IT: Harnessing Automatic Minimal Pair Generation for Italian Language Model Evaluation",
+  "authors": [
+    "Matilde Barbini",
+    "Maria Letizia Piccini Bianchessi",
+    "Veronica Bressan",
+    "Achille Fusco",
+    "Sofia Neri",
+    "Sarah Rossi",
+    "Tommaso Sgrizzi",
+    "Cristiano Chesi"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.clicit-1.8",
+  "acl_url": "https://aclanthology.org/2025.clicit-1.8/"
+}

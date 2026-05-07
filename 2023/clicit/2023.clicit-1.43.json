@@ -1,0 +1,23 @@
+{
+  "title": "Prompting LLMs in Italian language for Text-to-SQL translation",
+  "authors": [
+    "Federico Ranaldi",
+    "Elena Sofia Ruzzetti",
+    "Leonardo Ranaldi",
+    "Davide Venditti",
+    "Cristina Giannone",
+    "Andrea Favalli",
+    "Raniero Romagnoli",
+    "Fabio Massimo Zanzotto"
+  ],
+  "languages": [
+    "Italian"
+  ],
+  "research_areas": [
+    "T10",
+    "T14",
+    "T27"
+  ],
+  "paper_id": "2023.clicit-1.43",
+  "acl_url": "https://aclanthology.org/2023.clicit-1.43/"
+}

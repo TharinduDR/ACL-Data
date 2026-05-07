@@ -1,0 +1,20 @@
+{
+  "title": "基于BERT与柱搜索的中文释义生成",
+  "authors": [
+    "范齐楠",
+    "孔存良",
+    "杨麟儿",
+    "杨尔弘"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.ccl-1.32",
+  "acl_url": "https://aclanthology.org/2020.ccl-1.32/"
+}

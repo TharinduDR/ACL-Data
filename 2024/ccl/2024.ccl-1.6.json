@@ -1,0 +1,31 @@
+{
+  "title": "SpanCS: 面向跨语言代码生成的片段级语码转换",
+  "authors": [
+    "朱庆福",
+    "周士祺",
+    "王硕",
+    "张致铭",
+    "王昊钰",
+    "陈麒光",
+    "车万翔"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Portuguese",
+    "Russian",
+    "Japanese",
+    "Korean",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.ccl-1.6",
+  "acl_url": "https://aclanthology.org/2024.ccl-1.6/"
+}

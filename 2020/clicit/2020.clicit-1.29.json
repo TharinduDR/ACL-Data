@@ -1,0 +1,21 @@
+{
+  "title": "Simple Data Augmentation for Multilingual NLU in Task Oriented Dialogue Systems",
+  "authors": [
+    "Samuel Louvan",
+    "Bernardo Magnini"
+  ],
+  "languages": [
+    "Italian",
+    "Hindi",
+    "Turkish",
+    "Spanish",
+    "Thai"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2020.clicit-1.29",
+  "acl_url": "https://aclanthology.org/2020.clicit-1.29/"
+}

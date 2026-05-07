@@ -1,0 +1,21 @@
+{
+  "title": "CHED: A Cross-Historical Dataset with a Logical Event Schema for Classical Chinese Event Detection",
+  "authors": [
+    "Congcong Wei",
+    "Zhenbing Feng",
+    "Shutan Huang",
+    "Wei Li",
+    "Yanqiu Shao"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2023.ccl-1.74",
+  "acl_url": "https://aclanthology.org/2023.ccl-1.74/"
+}

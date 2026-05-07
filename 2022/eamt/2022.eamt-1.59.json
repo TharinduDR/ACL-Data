@@ -1,0 +1,35 @@
+{
+  "title": "GoURMET – Machine Translation for Low-Resourced Languages",
+  "authors": [
+    "Peggy van der Kreeft",
+    "Alexandra Birch",
+    "Sevi Sariisik",
+    "Felipe Sánchez-Martínez",
+    "Wilker Aziz"
+  ],
+  "languages": [
+    "Amharic",
+    "Bulgarian",
+    "Burmese",
+    "Gujarati",
+    "Hausa",
+    "Igbo",
+    "Kyrgyz",
+    "Macedonian",
+    "Pashto",
+    "Serbian",
+    "Swahili",
+    "Tamil",
+    "Tigrinya",
+    "Turkish",
+    "Urdu",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2022.eamt-1.59",
+  "acl_url": "https://aclanthology.org/2022.eamt-1.59/"
+}

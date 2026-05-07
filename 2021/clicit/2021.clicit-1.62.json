@@ -1,0 +1,22 @@
+{
+  "title": "KERMIT for Sentiment Analysis in Italian Healthcare Reviews",
+  "authors": [
+    "Leonardo Ranaldi",
+    "Michele Mastromattei",
+    "Dario Onorati",
+    "Elena Sofia Ruzzetti",
+    "Francesca Fallucchi",
+    "Fabio Massimo Zanzotto"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2021.clicit-1.62",
+  "acl_url": "https://aclanthology.org/2021.clicit-1.62/"
+}

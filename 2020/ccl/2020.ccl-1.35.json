@@ -1,0 +1,19 @@
+{
+  "title": "基于阅读理解框架的中文事件论元抽取",
+  "authors": [
+    "陈敏",
+    "吴凡",
+    "王中卿",
+    "李培峰",
+    "朱巧明"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2020.ccl-1.35",
+  "acl_url": "https://aclanthology.org/2020.ccl-1.35/"
+}

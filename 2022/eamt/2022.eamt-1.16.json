@@ -1,0 +1,24 @@
+{
+  "title": "Auxiliary Subword Segmentations as Related Languages for Low Resource Multilingual Translation",
+  "authors": [
+    "Nishant Kambhatla",
+    "Logan Born",
+    "Anoop Sarkar"
+  ],
+  "languages": [
+    "Azerbaijani",
+    "Belarusian",
+    "Galician",
+    "Slovak",
+    "Turkish",
+    "Russian",
+    "Portuguese",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16",
+    "T14"
+  ],
+  "paper_id": "2022.eamt-1.16",
+  "acl_url": "https://aclanthology.org/2022.eamt-1.16/"
+}

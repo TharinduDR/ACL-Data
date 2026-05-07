@@ -1,0 +1,21 @@
+{
+  "title": "Measuring bias in Instruction-Following models with ItaP-AT for the Italian Language",
+  "authors": [
+    "Dario Onorati",
+    "Davide Venditti",
+    "Elena Sofia Ruzzetti",
+    "Federico Ranaldi",
+    "Leonardo Ranaldi",
+    "Fabio Massimo Zanzotto"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.clicit-1.76",
+  "acl_url": "https://aclanthology.org/2024.clicit-1.76/"
+}

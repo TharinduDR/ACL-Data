@@ -1,0 +1,18 @@
+{
+  "title": "基于多头注意力和 BiLSTM 改进 DAM 模型的中文问答匹配方法",
+  "authors": [
+    "秦汉忠",
+    "于重重",
+    "姜伟杰",
+    "赵霞"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03",
+    "T10"
+  ],
+  "paper_id": "2020.ccl-1.30",
+  "acl_url": "https://aclanthology.org/2020.ccl-1.30/"
+}

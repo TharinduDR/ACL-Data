@@ -1,0 +1,37 @@
+{
+  "title": "MODERN: Modeling Discourse Entities and Relations for Coherent Machine Translation",
+  "authors": [
+    "A. POPESCU-BELIS",
+    "J. EVERS-VERMEUL",
+    "M. FISHEL",
+    "C. GRISOT",
+    "M. GROEN",
+    "J. HOEK",
+    "S. LOAICIGA",
+    "N.Q. LUONG",
+    "L. MASCARELL",
+    "T. MEYER",
+    "L. MICULICICH",
+    "J. MOESCHLER",
+    "X. PU",
+    "A. RIOS",
+    "T. SANDERS",
+    "M. VOLK",
+    "S. ZUFFEREY"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Dutch",
+    "Arabic",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T05 Discourse and Pragmatics"
+  ],
+  "paper_id": "2016.eamt-2.22",
+  "acl_url": "https://aclanthology.org/2016.eamt-2.22/"
+}

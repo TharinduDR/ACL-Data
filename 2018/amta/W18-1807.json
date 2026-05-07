@@ -1,0 +1,19 @@
+{
+  "title": "How Robust Are Character-Based Word Embeddings in Tagging and MT Against Wrod Scrambling or Randdm Nouse?",
+  "authors": [
+    "Georg Heigold",
+    "Stalin Varanasi",
+    "Günter Neumann",
+    "Josef van Genabith"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W18-1807",
+  "acl_url": "https://aclanthology.org/W18-1807/"
+}

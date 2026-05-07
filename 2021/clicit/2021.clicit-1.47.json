@@ -1,0 +1,21 @@
+{
+  "title": "Extracting Relations from Italian Wikipedia Using Self-Training",
+  "authors": [
+    "Lucia Siciliani",
+    "Pierluigi Cassotti",
+    "Pierpaolo Basile",
+    "Marco de Gemmis",
+    "Pasquale Lops",
+    "Giovanni Semeraro"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.clicit-1.47",
+  "acl_url": "https://aclanthology.org/2021.clicit-1.47/"
+}

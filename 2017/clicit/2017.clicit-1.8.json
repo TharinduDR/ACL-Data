@@ -1,0 +1,19 @@
+{
+  "title": "Bi-directional LSTM-CNNs-CRF for Italian Sequence Labeling",
+  "authors": [
+    "Pierpaolo Basile",
+    "Giovanni Semeraro",
+    "Pierluigi Cassotti"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T11",
+    "T21",
+    "T23"
+  ],
+  "paper_id": "2017.clicit-1.8",
+  "acl_url": "https://aclanthology.org/2017.clicit-1.8/"
+}

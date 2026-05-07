@@ -1,0 +1,24 @@
+{
+  "title": "Using Large Speech Models for Feature Extraction in Cross-Lingual Speech Emotion Recognition",
+  "authors": [
+    "Federico D'Asaro",
+    "Juan José Márquez Villacís",
+    "Giuseppe Rizzo",
+    "Andrea Bottino"
+  ],
+  "languages": [
+    "Greek",
+    "French",
+    "Italian",
+    "German",
+    "Spanish",
+    "Egyptian Arabic",
+    "Persian"
+  ],
+  "research_areas": [
+    "T24",
+    "T20"
+  ],
+  "paper_id": "2024.clicit-1.31",
+  "acl_url": "https://aclanthology.org/2024.clicit-1.31/"
+}

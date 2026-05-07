@@ -1,0 +1,18 @@
+{
+  "title": "MCLS: A Large-Scale Multimodal Cross-Lingual Summarization Dataset",
+  "authors": [
+    "Xiaorui Shi"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "French"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.ccl-1.73",
+  "acl_url": "https://aclanthology.org/2023.ccl-1.73/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "SRL for low resource languages isn't needed for semantic SMT",
+  "authors": [
+    "Meriem Beloucif",
+    "Dekai Wu"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "Uyghur",
+    "Tigrinya",
+    "Oromo",
+    "Somali",
+    "Uzbek"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2018.eamt-main.6",
+  "acl_url": "https://aclanthology.org/2018.eamt-main.6/"
+}

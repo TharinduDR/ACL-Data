@@ -1,0 +1,19 @@
+{
+  "title": "Training an NMT system for legal texts of a low-resource language variety (South Tyrolean German – Italian)",
+  "authors": [
+    "Antoni Oliver",
+    "Sergi Álvarez",
+    "Egon W. Stemle",
+    "Elena Chiocchetti"
+  ],
+  "languages": [
+    "Italian",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2024.eamt-1.47",
+  "acl_url": "https://aclanthology.org/2024.eamt-1.47/"
+}

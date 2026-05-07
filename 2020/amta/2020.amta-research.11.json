@@ -1,0 +1,24 @@
+{
+  "title": "THUMT: An Open-Source Toolkit for Neural Machine Translation",
+  "authors": [
+    "Zhixing Tan",
+    "Jiacheng Zhang",
+    "Xuancheng Huang",
+    "Gang Chen",
+    "Shuo Wang",
+    "Maosong Sun",
+    "Huanbo Luan",
+    "Yang Liu"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.amta-research.11",
+  "acl_url": "https://aclanthology.org/2020.amta-research.11/"
+}

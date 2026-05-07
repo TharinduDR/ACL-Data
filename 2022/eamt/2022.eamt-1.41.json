@@ -1,0 +1,34 @@
+{
+  "title": "MaCoCu: Massive collection and curation of monolingual and bilingual data: focus on under-resourced languages",
+  "authors": [
+    "Marta Bañón",
+    "Miquel Esplà-Gomis",
+    "Mikel L. Forcada",
+    "Cristian García-Romero",
+    "Taja Kuzman",
+    "Nikola Ljubešić",
+    "Rik van Noord",
+    "Leopoldo Pla Sempere",
+    "Gema Ramírez-Sánchez",
+    "Peter Rupnik",
+    "Vit Suchomel",
+    "Antonio Toral",
+    "Tobias van der Werff",
+    "Jaume Zaragoza"
+  ],
+  "languages": [
+    "Turkish",
+    "Bulgarian",
+    "Croatian",
+    "Slovene",
+    "Macedonian",
+    "Icelandic",
+    "Maltese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.eamt-1.41",
+  "acl_url": "https://aclanthology.org/2022.eamt-1.41/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "An Empirical Study of Leveraging Knowledge Distillation for Compressing Multilingual Neural Machine Translation Models",
+  "authors": [
+    "Varun Gumma",
+    "Raj Dabre",
+    "Pratyush Kumar"
+  ],
+  "languages": [
+    "English",
+    "Assamese",
+    "Odia",
+    "Punjabi",
+    "Gujarati",
+    "Marathi",
+    "Kannada",
+    "Telugu",
+    "Tamil",
+    "Malayalam",
+    "Bengali",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T16",
+    "T14"
+  ],
+  "paper_id": "2023.eamt-1.11",
+  "acl_url": "https://aclanthology.org/2023.eamt-1.11/"
+}

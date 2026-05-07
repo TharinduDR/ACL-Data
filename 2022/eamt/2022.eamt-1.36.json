@@ -1,0 +1,23 @@
+{
+  "title": "EMBEDDIA project: Cross-Lingual Embeddings for Less- Represented Languages in European News Media",
+  "authors": [
+    "Senja Pollak",
+    "Andraž Pelicon"
+  ],
+  "languages": [
+    "Estonian",
+    "Croatian",
+    "Russian",
+    "Latvian",
+    "Finnish",
+    "Slovenian",
+    "Lithuanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2022.eamt-1.36",
+  "acl_url": "https://aclanthology.org/2022.eamt-1.36/"
+}

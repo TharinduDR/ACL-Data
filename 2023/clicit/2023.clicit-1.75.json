@@ -1,0 +1,20 @@
+{
+  "title": "Investigating Gender Bias in Large Language Models for the Italian Language",
+  "authors": [
+    "Elena Sofia Ruzzetti",
+    "Dario Onorati",
+    "Leonardo Ranaldi",
+    "Davide Venditti",
+    "Fabio Massimo Zanzotto"
+  ],
+  "languages": [
+    "Italian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.clicit-1.75",
+  "acl_url": "https://aclanthology.org/2023.clicit-1.75/"
+}

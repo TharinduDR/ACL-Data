@@ -1,0 +1,29 @@
+{
+  "title": "CEFAT4Cities, a Natural Language Layer for the ISA² Core Public Service Vocabulary",
+  "authors": [
+    "Joachim Van den Bogaert",
+    "Arne Defauw",
+    "Sara Szoc",
+    "Frederic Everaert",
+    "Koen Van Winckel",
+    "Alina Kramchaninova",
+    "Anna Bardadym",
+    "Tom Vanallemeersch"
+  ],
+  "languages": [
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Slovenian",
+    "Croatian",
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T13",
+    "T16"
+  ],
+  "paper_id": "2020.eamt-1.63",
+  "acl_url": "https://aclanthology.org/2020.eamt-1.63/"
+}

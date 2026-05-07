@@ -1,0 +1,23 @@
+{
+  "title": "TectoMT – a Deep-Linguistic Core of the Combined Chimera MT system",
+  "authors": [
+    "Martin POPEL",
+    "Roman SUDARIKOV",
+    "Ondřej BOJAR",
+    "Rudolf ROSA",
+    "Jan HAJIČ"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Dutch",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2016.eamt-2.1",
+  "acl_url": "https://aclanthology.org/2016.eamt-2.1/"
+}

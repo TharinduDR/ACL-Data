@@ -1,0 +1,19 @@
+{
+  "title": "LiveQA: A Question Answering Dataset over Sports Live",
+  "authors": [
+    "Qianying Liu",
+    "Sicong Jiang",
+    "Yizhong Wang",
+    "Sujian Li"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2020.ccl-1.98",
+  "acl_url": "https://aclanthology.org/2020.ccl-1.98/"
+}

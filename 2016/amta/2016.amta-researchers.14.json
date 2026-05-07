@@ -1,0 +1,20 @@
+{
+  "title": "Automatic Construction of Morphologically Motivated Translation Models for Highly Inflected, Low-Resource Languages",
+  "authors": [
+    "John Hewitt",
+    "Matt Post",
+    "David Yarowsky"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Czech",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16",
+    "T21"
+  ],
+  "paper_id": "2016.amta-researchers.14",
+  "acl_url": "https://aclanthology.org/2016.amta-researchers.14/"
+}

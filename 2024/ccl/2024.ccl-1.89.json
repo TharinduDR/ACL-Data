@@ -1,0 +1,22 @@
+{
+  "title": "DialectMoE: An End-to-End Multi-Dialect Speech Recognition Model with Mixture-of-Experts",
+  "authors": [
+    "Jie Zhou",
+    "Shengxiang Gao",
+    "Zhengtao Yu",
+    "Ling Dong",
+    "Wenjun Wang"
+  ],
+  "languages": [
+    "Chinese",
+    "Sichuan",
+    "Yunnan",
+    "Hubei",
+    "Henan"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.ccl-1.89",
+  "acl_url": "https://aclanthology.org/2024.ccl-1.89/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "FinBART: A Pre-trained Seq2seq Language Model for Chinese Financial Tasks",
+  "authors": [
+    "Hongyuan Dong",
+    "Wanxiang Che",
+    "Xiaoyu He",
+    "Guidong Zheng",
+    "Junjie Wen"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2023.ccl-1.77",
+  "acl_url": "https://aclanthology.org/2023.ccl-1.77/"
+}

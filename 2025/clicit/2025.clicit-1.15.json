@@ -1,0 +1,20 @@
+{
+  "title": "BES4RAG: A Framework for Embedding Model Selection in Retrieval-Augmented Generation",
+  "authors": [
+    "Lorenzo Canale",
+    "Stefano Scotta",
+    "Alberto Messina",
+    "Laura Farinetti"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.clicit-1.15",
+  "acl_url": "https://aclanthology.org/2025.clicit-1.15/"
+}

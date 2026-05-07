@@ -1,0 +1,34 @@
+{
+  "title": "MTEE: Open Machine Translation Platform for Estonian Government",
+  "authors": [
+    "Toms Bergmanis",
+    "Märts Pinnis",
+    "Roberts Rozis",
+    "Jānis Šlapiņš",
+    "Valters Šics",
+    "Berta Bernāne",
+    "Guntars Pužulis",
+    "Endijs Titomers",
+    "Andre Tättar",
+    "Taido Purason",
+    "Hele-Andra Kuumets",
+    "Agnes Luhtar",
+    "Liisa Rätsep",
+    "Maali Tars",
+    "Annika Laumets-Tättar",
+    "Mark Fishel"
+  ],
+  "languages": [
+    "Estonian",
+    "English",
+    "German",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.eamt-1.44",
+  "acl_url": "https://aclanthology.org/2022.eamt-1.44/"
+}

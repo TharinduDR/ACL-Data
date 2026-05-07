@@ -1,0 +1,26 @@
+{
+  "title": "Cross-Lingual Dependency Parsing via Self-Training",
+  "authors": [
+    "Meishan Zhang",
+    "Yue Zhang"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Vietnamese",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2020.ccl-1.75",
+  "acl_url": "https://aclanthology.org/2020.ccl-1.75/"
+}

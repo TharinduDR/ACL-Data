@@ -1,0 +1,20 @@
+{
+  "title": "Constructing an Annotated Resource for Part-Of-Speech Tagging of Mishnaic Hebrew",
+  "authors": [
+    "Emiliano Giovannetti",
+    "Davide Albanesi",
+    "Andrea Bellandi",
+    "Simone Marchi",
+    "Alessandra Pecchioli"
+  ],
+  "languages": [
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2018.clicit-1.39",
+  "acl_url": "https://aclanthology.org/2018.clicit-1.39/"
+}

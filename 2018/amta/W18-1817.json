@@ -1,0 +1,21 @@
+{
+  "title": "OpenNMT: Neural Machine Translation Toolkit",
+  "authors": [
+    "Guillaume Klein",
+    "Yoon Kim",
+    "Yuntian Deng",
+    "Vincent Nguyen",
+    "Jean Senellart",
+    "Alexander M. Rush"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "W18-1817",
+  "acl_url": "https://aclanthology.org/W18-1817/"
+}

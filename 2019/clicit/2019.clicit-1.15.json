@@ -1,0 +1,22 @@
+{
+  "title": "PESInet: Automatic Recognition of Italian Statements, Questions, and Exclamations With Neural Networks",
+  "authors": [
+    "Sonia Cenceschi",
+    "Licia Sbattella",
+    "Roberto Tedesco",
+    "Davide Losio",
+    "Mauro Luchetti"
+  ],
+  "languages": [
+    "Italian",
+    "Chinese",
+    "Vietnamese",
+    "Mandarin"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2019.clicit-1.15",
+  "acl_url": "https://aclanthology.org/2019.clicit-1.15/"
+}

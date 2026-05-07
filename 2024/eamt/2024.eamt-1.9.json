@@ -1,0 +1,21 @@
+{
+  "title": "Using Machine Translation to Augment Multilingual Classification",
+  "authors": [
+    "Adam King"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T20 Opinion & Argument Mining"
+  ],
+  "paper_id": "2024.eamt-1.9",
+  "acl_url": "https://aclanthology.org/2024.eamt-1.9/"
+}

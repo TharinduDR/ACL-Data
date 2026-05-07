@@ -1,0 +1,19 @@
+{
+  "title": "Building hybrid machine translation systems by using an EBMT preprocessor to create partial translations",
+  "authors": [
+    "Mikel Artetxe",
+    "Gorka Labaka",
+    "Kepa Sarasola"
+  ],
+  "languages": [
+    "Spanish",
+    "Basque",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2015.eamt-1.3",
+  "acl_url": "https://aclanthology.org/2015.eamt-1.3/"
+}

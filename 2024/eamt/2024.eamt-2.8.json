@@ -1,0 +1,26 @@
+{
+  "title": "MULTILINGTOOL, Development of an Automatic Multilingual Subtitling and Dubbing System",
+  "authors": [
+    "Ander Corral",
+    "Xabier Sarasola",
+    "Iker Manterola",
+    "Josu Murua",
+    "Itziar Cortes",
+    "Igor Leturia",
+    "Xabier Saralegi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Catalan",
+    "Galician",
+    "Basque"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.eamt-2.8",
+  "acl_url": "https://aclanthology.org/2024.eamt-2.8/"
+}

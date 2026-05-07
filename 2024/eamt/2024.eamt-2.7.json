@@ -1,0 +1,23 @@
+{
+  "title": "The MAKE-NMTViz Project: Meaningful, Accurate and Knowledge-limited Explanations of NMT Systems for Translators",
+  "authors": [
+    "Gabriela Gonzalez-Saez",
+    "Fabien Lopez",
+    "Mariam Nakhle",
+    "Marco Dinarelli",
+    "Emmanuelle Esperança-Rodier",
+    "Sui He",
+    "Caroline Rossi",
+    "Didier Schwab",
+    "Jun Yang",
+    "James Robert Turner",
+    "Nicolas Ballier"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.eamt-2.7",
+  "acl_url": "https://aclanthology.org/2024.eamt-2.7/"
+}

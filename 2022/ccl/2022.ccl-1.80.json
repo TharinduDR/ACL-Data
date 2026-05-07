@@ -1,0 +1,22 @@
+{
+  "title": "TCM-SD: A Benchmark for Probing Syndrome Differentiation via Natural Language Processing",
+  "authors": [
+    "Mucheng Ren",
+    "Heyan Huang",
+    "Yuxiang Zhou",
+    "Qianwen Cao",
+    "Yuan Bu",
+    "Yang Gao"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.ccl-1.80",
+  "acl_url": "https://aclanthology.org/2022.ccl-1.80/"
+}

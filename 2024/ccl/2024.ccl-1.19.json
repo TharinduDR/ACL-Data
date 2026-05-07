@@ -1,0 +1,19 @@
+{
+  "title": "TiLamb: A Tibetan Large Language Model Based on Incremental Pre-training",
+  "authors": [
+    "Wenhao Zhuang",
+    "Yuan Sun",
+    "Xiaobing Zhao"
+  ],
+  "languages": [
+    "Tibetan",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.ccl-1.19",
+  "acl_url": "https://aclanthology.org/2024.ccl-1.19/"
+}

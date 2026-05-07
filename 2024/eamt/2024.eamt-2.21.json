@@ -1,0 +1,31 @@
+{
+  "title": "Multilinguality in the VIGILANT project",
+  "authors": [
+    "Brendan Spillane",
+    "Carolina Scarton",
+    "Robert Moro",
+    "Petar Ivanov",
+    "Andrey Tagarev",
+    "Jakub Smiko",
+    "Ibrahim Abu Farha",
+    "Gary Munnelly",
+    "Filip Uhlárik",
+    "Freddy Heppell"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Estonian",
+    "Catalan",
+    "Greek",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.eamt-2.21",
+  "acl_url": "https://aclanthology.org/2024.eamt-2.21/"
+}

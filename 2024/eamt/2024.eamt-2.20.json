@@ -1,0 +1,28 @@
+{
+  "title": "ExU: AI Models for Examining Multilingual Disinformation Narratives and Understanding their Spread",
+  "authors": [
+    "Jake Vasilakes",
+    "Zhixue Zhao",
+    "Ivan Vykopál",
+    "Michal Gregor",
+    "Martin Hyben",
+    "Carolina Scarton"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Portuguese",
+    "French",
+    "Czech",
+    "Slovak",
+    "Polish",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.eamt-2.20",
+  "acl_url": "https://aclanthology.org/2024.eamt-2.20/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "基于图神经网络的汉语依存分析和语义组合计算联合模型",
+  "authors": [
+    "汪凯",
+    "刘明童",
+    "陈圆梦",
+    "张玉洁",
+    "徐金安",
+    "陈钰枫"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2020.ccl-1.19",
+  "acl_url": "https://aclanthology.org/2020.ccl-1.19/"
+}

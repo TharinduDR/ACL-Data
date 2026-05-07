@@ -1,0 +1,43 @@
+{
+  "title": "SMUGRI-MT - Machine Translation System for Low-Resource Finno-Ugric Languages",
+  "authors": [
+    "Taido Purason",
+    "Aleksei Ivanov",
+    "Lisa Yankovskaya",
+    "Mark Fishel"
+  ],
+  "languages": [
+    "English",
+    "Estonian",
+    "Finnish",
+    "Hungarian",
+    "Latvian",
+    "Norwegian",
+    "Russian",
+    "Mansi",
+    "Khanty",
+    "Komi",
+    "Komi-Permyak",
+    "Udmurt",
+    "Meadow Mari",
+    "Hill Mari",
+    "North Sami",
+    "South Sami",
+    "Inari Sami",
+    "Lule Sami",
+    "Skolt Sami",
+    "Erzya",
+    "Moksha",
+    "Ludian",
+    "Proper Karelian",
+    "Võro",
+    "Veps",
+    "Livvi Karelian",
+    "Livonian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.eamt-2.16",
+  "acl_url": "https://aclanthology.org/2024.eamt-2.16/"
+}

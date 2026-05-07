@@ -1,0 +1,18 @@
+{
+  "title": "Synthetic Data Generation for Multilingual Domain-Adaptable Question Answering Systems",
+  "authors": [
+    "Alina Kramchaninova",
+    "Arne Defauw"
+  ],
+  "languages": [
+    "English",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.eamt-1.18",
+  "acl_url": "https://aclanthology.org/2022.eamt-1.18/"
+}

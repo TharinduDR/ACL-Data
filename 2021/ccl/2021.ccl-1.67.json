@@ -1,0 +1,20 @@
+{
+  "title": "A Joint Model with Multi-Granularity Features of Low-resource Language POS Tagging and Dependency Parsing",
+  "authors": [
+    "Shan Lu",
+    "Cunli Mao",
+    "Zhengtao Yu",
+    "Shengxiang Gao",
+    "Yuxin Huang",
+    "Zhenhan Wang"
+  ],
+  "languages": [
+    "Thai",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.ccl-1.67",
+  "acl_url": "https://aclanthology.org/2021.ccl-1.67/"
+}

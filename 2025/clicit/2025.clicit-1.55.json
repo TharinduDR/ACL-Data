@@ -1,0 +1,21 @@
+{
+  "title": "MedBench-IT: A Comprehensive Benchmark for Evaluating Large Language Models on Italian Medical Entrance Examinations",
+  "authors": [
+    "Ruggero Marino Lazzaroni",
+    "Alessandro Angioi",
+    "Michelangelo Puliga",
+    "Davide Sanna",
+    "Roberto Marras"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.clicit-1.55",
+  "acl_url": "https://aclanthology.org/2025.clicit-1.55/"
+}

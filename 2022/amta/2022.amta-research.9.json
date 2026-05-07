@@ -1,0 +1,20 @@
+{
+  "title": "How Effective is Byte Pair Encoding for Out-Of-Vocabulary Words in Neural Machine Translation?",
+  "authors": [
+    "Ali Araabi",
+    "Christof Monz",
+    "Vlad Niculae"
+  ],
+  "languages": [
+    "German",
+    "Russian",
+    "Romanian",
+    "Kazakh"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.amta-research.9",
+  "acl_url": "https://aclanthology.org/2022.amta-research.9/"
+}

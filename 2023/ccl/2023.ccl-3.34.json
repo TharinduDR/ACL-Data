@@ -1,0 +1,23 @@
+{
+  "title": "System Report for CCL23-Eval Task 9: HUST1037 Explore Proper Prompt Strategy for LLM in MRC Task",
+  "authors": [
+    "Xiao Liu",
+    "Junfeng Yu",
+    "Yibo He",
+    "Lujun Zhang",
+    "Kaiyichen Wei",
+    "Hongbo Sun",
+    "Gang Tu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.ccl-3.34",
+  "acl_url": "https://aclanthology.org/2023.ccl-3.34/"
+}

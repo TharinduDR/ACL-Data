@@ -1,0 +1,24 @@
+{
+  "title": "Minerva LLMs: The First Family of Large Language Models Trained from Scratch on Italian Data",
+  "authors": [
+    "Riccardo Orlando",
+    "Luca Moroni",
+    "Pere-Lluis Huguet Cabot",
+    "Edoardo Barba",
+    "Simone Conia",
+    "Sergio Orlandini",
+    "Giuseppe Fiameni",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2024.clicit-1.77",
+  "acl_url": "https://aclanthology.org/2024.clicit-1.77/"
+}

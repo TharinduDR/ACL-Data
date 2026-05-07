@@ -1,0 +1,17 @@
+{
+  "title": "How good is NLLB-200 for low-resource languages? A study on Genoese",
+  "authors": [
+    "Davide Buscaldi",
+    "Paolo Rosso"
+  ],
+  "languages": [
+    "Genoese",
+    "Italian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.clicit-1.61",
+  "acl_url": "https://aclanthology.org/2023.clicit-1.61/"
+}

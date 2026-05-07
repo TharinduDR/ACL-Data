@@ -1,0 +1,25 @@
+{
+  "title": "Portable speech-to-speech translation on an Android smartphone: The MFLTS system",
+  "authors": [
+    "Ralf Meermeier",
+    "Sean Colbath",
+    "Martha Lillie"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "W18-1923",
+  "acl_url": "https://aclanthology.org/W18-1923/"
+}

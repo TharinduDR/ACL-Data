@@ -1,0 +1,25 @@
+{
+  "title": "DeepSPIN: Deep Structured Prediction for Natural Language Processing",
+  "authors": [
+    "André F. T. Martins",
+    "Ben Peters",
+    "Chrysoula Zerva",
+    "Chunchuan Lyu",
+    "Gonçalo Correia",
+    "Marcos Treviso",
+    "Pedro Martins",
+    "Tsvetomila Mihaylova"
+  ],
+  "languages": [
+    "German",
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.eamt-1.53",
+  "acl_url": "https://aclanthology.org/2022.eamt-1.53/"
+}

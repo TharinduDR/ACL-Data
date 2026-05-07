@@ -1,0 +1,23 @@
+{
+  "title": "Neural Semantic Role Labeling using Verb Sense Disambiguation",
+  "authors": [
+    "Domenico Alfano",
+    "Roberto Abbruzzese",
+    "Donato Cappetta"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Catalan",
+    "Chinese",
+    "German",
+    "Japanese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2019.clicit-1.62",
+  "acl_url": "https://aclanthology.org/2019.clicit-1.62/"
+}

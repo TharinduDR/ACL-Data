@@ -1,0 +1,21 @@
+{
+  "title": "基于大语言模型的中文医学命名实体识别",
+  "authors": [
+    "吕腾啸",
+    "罗凌",
+    "吕慧怡",
+    "孙媛媛",
+    "王健",
+    "林鸿飞"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.ccl-1.9",
+  "acl_url": "https://aclanthology.org/2025.ccl-1.9/"
+}

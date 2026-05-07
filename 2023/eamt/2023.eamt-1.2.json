@@ -1,0 +1,30 @@
+{
+  "title": "Tailoring Domain Adaptation for Machine Translation Quality Estimation",
+  "authors": [
+    "Javad Pourmostafa",
+    "Roshan Sharami",
+    "Dimitar Shterionov",
+    "Frédéric Blain",
+    "Eva Vanmassenhove",
+    "Mirella De Sisto",
+    "Chris Emmery",
+    "Pieter Spronck"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Italian",
+    "Czech",
+    "Japanese",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eamt-1.2",
+  "acl_url": "https://aclanthology.org/2023.eamt-1.2/"
+}

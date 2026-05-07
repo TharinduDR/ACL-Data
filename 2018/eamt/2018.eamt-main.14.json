@@ -1,0 +1,25 @@
+{
+  "title": "Neural Machine Translation of Basque",
+  "authors": [
+    "Thierry Etchegoyhen",
+    "Eva Martínez Garcia",
+    "Andoni Azpeitia",
+    "Gorka Labaka",
+    "Iñaki Alegria",
+    "Itziar Cortes Etxabe",
+    "Amaia Jauregi Carrera",
+    "Igor Ellakuria Santos",
+    "Maite Martin",
+    "Eusebi Calonge"
+  ],
+  "languages": [
+    "Basque",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2018.eamt-main.14",
+  "acl_url": "https://aclanthology.org/2018.eamt-main.14/"
+}

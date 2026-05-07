@@ -1,0 +1,38 @@
+{
+  "title": "ELITR: European Live Translator",
+  "authors": [
+    "Ondřej Bojar",
+    "Dominik Macháček",
+    "Sangeet Sagar",
+    "Otakar Smrž",
+    "Jonáš Kratochvíl",
+    "Peter Polák",
+    "Ebrahim Ansari",
+    "Dario Franceschini",
+    "Chiara Canton",
+    "Ivan Simonini",
+    "Thai-Son Nguyen",
+    "Felix Schneider",
+    "Sebastian Stüker",
+    "Alex Waibel",
+    "Barry Haddow",
+    "Rico Sennrich",
+    "Philip Williams"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Italian",
+    "French",
+    "Spanish",
+    "Czech"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2020.eamt-1.53",
+  "acl_url": "https://aclanthology.org/2020.eamt-1.53/"
+}

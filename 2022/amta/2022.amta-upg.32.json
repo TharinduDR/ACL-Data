@@ -1,0 +1,19 @@
+{
+  "title": "Robust Translation of French Live Speech Transcripts",
+  "authors": [
+    "Elise Bertin-Lemée",
+    "Guillaume Klein",
+    "Josep Crego",
+    "Jean Senellart"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.amta-upg.32",
+  "acl_url": "https://aclanthology.org/2022.amta-upg.32/"
+}

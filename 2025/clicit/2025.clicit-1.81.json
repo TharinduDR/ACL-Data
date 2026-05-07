@@ -1,0 +1,25 @@
+{
+  "title": "FAMA: The First Large-Scale Open-Science Speech Foundation Model for English and Italian",
+  "authors": [
+    "Sara Papi",
+    "Marco Gaido",
+    "Luisa Bentivogli",
+    "Alessio Brutti",
+    "Mauro Cettolo",
+    "Roberto Gretter",
+    "Marco Matassoni",
+    "Mohamed Nabih",
+    "Matteo Negri"
+  ],
+  "languages": [
+    "English",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2025.clicit-1.81",
+  "acl_url": "https://aclanthology.org/2025.clicit-1.81/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "System Report for CCL23-Eval Task 3: UIR-ISC Pre-trained Language Model for Chinese Frame Semantic Parsing",
+  "authors": [
+    "Yingxuan Guan",
+    "Xunyuan Liu",
+    "Lu Zhang",
+    "Zexian Xie",
+    "Binyang Li"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.ccl-3.13",
+  "acl_url": "https://aclanthology.org/2023.ccl-3.13/"
+}

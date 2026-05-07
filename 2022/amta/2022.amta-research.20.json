@@ -1,0 +1,20 @@
+{
+  "title": "Embedding-Enhanced GIZA++: Improving Word Alignment Using Embeddings",
+  "authors": [
+    "Kelly Marchisio",
+    "Conghao Xiong",
+    "Philipp Koehn"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "French",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.amta-research.20",
+  "acl_url": "https://aclanthology.org/2022.amta-research.20/"
+}

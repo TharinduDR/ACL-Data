@@ -1,0 +1,27 @@
+{
+  "title": "Direct Speech Translation Toward High-Quality, Inclusive, and Augmented Systems",
+  "authors": [
+    "Marco Gaido",
+    "Marco Turchi",
+    "Matteo Negri"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Chinese",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T01 Bias, Guardrails, filters",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.eamt-1.2",
+  "acl_url": "https://aclanthology.org/2024.eamt-1.2/"
+}

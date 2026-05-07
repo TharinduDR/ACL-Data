@@ -1,0 +1,24 @@
+{
+  "title": "Poor man's lemmatisation for automatic error classification",
+  "authors": [
+    "Maja Popović",
+    "Mihael Arčan",
+    "Eleftherios Avramidis",
+    "Aljoscha Burchardt",
+    "Arle Lommel"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Czech",
+    "Slovenian",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2015.eamt-1.15",
+  "acl_url": "https://aclanthology.org/2015.eamt-1.15/"
+}

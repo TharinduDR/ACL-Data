@@ -1,0 +1,27 @@
+{
+  "title": "Empirical Assessment of kNN-MT for Real-World Translation Scenarios",
+  "authors": [
+    "Pedro Henrique Martins",
+    "João Alves",
+    "Tânia Vaz",
+    "Madalena Gonçalves",
+    "Beatriz Silva",
+    "Marianna Buchicchio",
+    "José G. C. de Souza",
+    "André F. T. Martins"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Korean",
+    "German",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eamt-1.12",
+  "acl_url": "https://aclanthology.org/2023.eamt-1.12/"
+}

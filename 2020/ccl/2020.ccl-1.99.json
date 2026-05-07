@@ -1,0 +1,20 @@
+{
+  "title": "Chinese and English Elementary Discourse Units Recognition based on Bi-LSTM-CRF Model",
+  "authors": [
+    "Yancui Li",
+    "Chunxiao Lai",
+    "Jike Feng",
+    "Hongyu Feng"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T02",
+    "T11",
+    "T21"
+  ],
+  "paper_id": "2020.ccl-1.99",
+  "acl_url": "https://aclanthology.org/2020.ccl-1.99/"
+}

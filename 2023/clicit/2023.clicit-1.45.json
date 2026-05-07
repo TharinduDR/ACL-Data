@@ -1,0 +1,18 @@
+{
+  "title": "Blaze-IT: a lightweight BERT model for the Italian language",
+  "authors": [
+    "Francesco Russo",
+    "Michele Filannino"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.clicit-1.45",
+  "acl_url": "https://aclanthology.org/2023.clicit-1.45/"
+}

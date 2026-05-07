@@ -1,0 +1,29 @@
+{
+  "title": "XNMT: The eXtensible Neural Machine Translation Toolkit",
+  "authors": [
+    "Graham Neubig",
+    "Matthias Sperber",
+    "Xinyi Wang",
+    "Matthieu Felix",
+    "Austin Matthews",
+    "Sarguna Padmanabhan",
+    "Ye Qi",
+    "Devendra Singh Sachan",
+    "Philip Arthur",
+    "Pierre Godard",
+    "John Hewitt",
+    "Rachid Riad",
+    "Liming Wang"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W18-1818",
+  "acl_url": "https://aclanthology.org/W18-1818/"
+}

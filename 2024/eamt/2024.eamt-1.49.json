@@ -1,0 +1,20 @@
+{
+  "title": "CANTONMT: Cantonese to English NMT Platform with Fine-Tuned Models using Real and Synthetic Back-Translation Data",
+  "authors": [
+    "Kung Yin Hong",
+    "Lifeng Han",
+    "Riza Batista-Navarro",
+    "Goran Nenadic"
+  ],
+  "languages": [
+    "Cantonese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.eamt-1.49",
+  "acl_url": "https://aclanthology.org/2024.eamt-1.49/"
+}

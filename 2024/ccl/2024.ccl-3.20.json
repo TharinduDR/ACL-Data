@@ -1,0 +1,19 @@
+{
+  "title": "System Report for CCL24-Eval Task 5: Multi-Model Classical Chinese Event Trigger Word Recognition Driven by Incremental Pre-training",
+  "authors": [
+    "Litao Lin",
+    "Mengcheng Wu",
+    "Xueying Shen",
+    "Jiaxin Zhou",
+    "Shiyan Ou"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.ccl-3.20",
+  "acl_url": "https://aclanthology.org/2024.ccl-3.20/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Prompting Large Language Models with Human Error Markings for Self-Correcting Machine Translation",
+  "authors": [
+    "Nathaniel Berger",
+    "Stefan Riezler",
+    "Miriam Exel",
+    "Matthias Huck"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.eamt-1.54",
+  "acl_url": "https://aclanthology.org/2024.eamt-1.54/"
+}

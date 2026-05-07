@@ -1,0 +1,24 @@
+{
+  "title": "How Much Data is Enough Data? Fine-Tuning Large Language Models for In-House Translation: Performance Evaluation Across Multiple Dataset Sizes",
+  "authors": [
+    "Inacio Vieira",
+    "Will Allred",
+    "Seamus Lankford",
+    "Sheila Castilho",
+    "Andy Way"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Czech",
+    "German",
+    "Finnish",
+    "Korean"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2024.amta-research.20",
+  "acl_url": "https://aclanthology.org/2024.amta-research.20/"
+}

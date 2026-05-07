@@ -1,0 +1,32 @@
+{
+  "title": "An experiment in error analysis of real-time speech machine translation using the example of the European Parliament's Innovation Partnership",
+  "authors": [
+    "Elisa Di Nuovo"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Italian",
+    "Romanian",
+    "Dutch",
+    "Portuguese",
+    "Bulgarian",
+    "Czech",
+    "Slovak",
+    "Croatian",
+    "Lithuanian",
+    "Finnish",
+    "Hungarian",
+    "Swedish",
+    "Slovenian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.clicit-1.24",
+  "acl_url": "https://aclanthology.org/2023.clicit-1.24/"
+}

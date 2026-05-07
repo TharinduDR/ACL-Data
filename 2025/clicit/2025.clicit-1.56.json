@@ -1,0 +1,24 @@
+{
+  "title": "MuLTA-Telegram: A Fine-Grained Italian and Polish Dataset for Hate Speech and Target Detection",
+  "authors": [
+    "Elisa Leonardelli",
+    "Camilla Casula",
+    "Sebastiano Vecellio Salto",
+    "Joanna Ewa Bak",
+    "Elisa Muratore",
+    "Anna Kolos",
+    "Thomas Louf",
+    "Sara Tonelli"
+  ],
+  "languages": [
+    "Italian",
+    "Polish"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.clicit-1.56",
+  "acl_url": "https://aclanthology.org/2025.clicit-1.56/"
+}

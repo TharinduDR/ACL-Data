@@ -1,0 +1,23 @@
+{
+  "title": "Exploiting large pre-trained models for low-resource neural machine translation",
+  "authors": [
+    "Aarón Galiano-Jiménez",
+    "Felipe Sánchez-Martínez",
+    "Víctor M. Sánchez-Cartagena",
+    "Juan Antonio Pérez-Ortiz"
+  ],
+  "languages": [
+    "English",
+    "Swahili",
+    "Kyrgyz",
+    "Burmese",
+    "Macedonian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2023.eamt-1.7",
+  "acl_url": "https://aclanthology.org/2023.eamt-1.7/"
+}

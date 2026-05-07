@@ -1,0 +1,23 @@
+{
+  "title": "A BERT-based Approach for Part-of-Speech Tagging in the Low-Resource Context of Sardinian",
+  "authors": [
+    "Salvatore Mario Carta",
+    "Filippo Concasa",
+    "Gianni Fenu",
+    "Alessandro Giuliani",
+    "Marco Manolo Manca",
+    "Mirko Marras",
+    "Piergiorgio Mura",
+    "Simone Pisano"
+  ],
+  "languages": [
+    "Sardinian",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.clicit-1.18",
+  "acl_url": "https://aclanthology.org/2025.clicit-1.18/"
+}

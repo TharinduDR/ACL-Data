@@ -1,0 +1,21 @@
+{
+  "title": "Incorporating External Annotation to improve Named Entity Translation in NMT",
+  "authors": [
+    "Maciej Modrzejewski",
+    "Thanh-Le Ha",
+    "Alexander Waibel",
+    "Miriam Exel",
+    "Bianka Buschbeck"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2020.eamt-1.6",
+  "acl_url": "https://aclanthology.org/2020.eamt-1.6/"
+}

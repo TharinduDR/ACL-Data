@@ -1,0 +1,19 @@
+{
+  "title": "INVALSI - Mathematical and Language Understanding in Italian: A CALAMITA Challenge",
+  "authors": [
+    "Giovanni Puccetti",
+    "Maria Cassese",
+    "Andrea Esuli"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.clicit-1.129",
+  "acl_url": "https://aclanthology.org/2024.clicit-1.129/"
+}

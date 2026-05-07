@@ -1,0 +1,21 @@
+{
+  "title": "Bootstrapping Pre-trained Word Embedding Models for Sign Language Gloss Translation",
+  "authors": [
+    "Euan McGill",
+    "Luis Chiruzzo",
+    "Horacio Saggion"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Dutch",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.eamt-1.13",
+  "acl_url": "https://aclanthology.org/2024.eamt-1.13/"
+}

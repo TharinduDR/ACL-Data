@@ -1,0 +1,35 @@
+{
+  "title": "First WMT Shared Task on Sign Language Translation (WMT-SLT22)",
+  "authors": [
+    "Mathias Müller",
+    "Sarah Ebling",
+    "Eleftherios Avramidis",
+    "Alessia Battisti",
+    "Michèle Berger",
+    "Richard Bowden",
+    "Annelies Braffort",
+    "Necati Cihan Camgöz",
+    "Cristina España-Bonet",
+    "Roman Grundkiewicz",
+    "Zifan Jiang",
+    "Oscar Koller",
+    "Amit Moryossef",
+    "Regula Perrollaz",
+    "Sabine Reinhard",
+    "Annette Rios",
+    "Dimitar Shterionov",
+    "Sandra Sidler-Miserez",
+    "Katja Tissi",
+    "Davy Van Landuyt"
+  ],
+  "languages": [
+    "Swiss German Sign Language",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.eamt-1.56",
+  "acl_url": "https://aclanthology.org/2023.eamt-1.56/"
+}

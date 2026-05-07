@@ -1,0 +1,24 @@
+{
+  "title": "Automatic Discrimination of Human and Neural Machine Translation in Multilingual Scenarios",
+  "authors": [
+    "Malina Chichirau",
+    "Rik van Noord",
+    "Antonio Toral"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Chinese",
+    "Finnish",
+    "Gujarati",
+    "Kazakh",
+    "Lithuanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2023.eamt-1.21",
+  "acl_url": "https://aclanthology.org/2023.eamt-1.21/"
+}

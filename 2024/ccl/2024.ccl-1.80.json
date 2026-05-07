@@ -1,0 +1,19 @@
+{
+  "title": "Multi-features Enhanced Multi-task Learning for Vietnamese Treebank Conversion",
+  "authors": [
+    "Zhenguo Zhang",
+    "Jianjian Liu",
+    "Ying Li"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.ccl-1.80",
+  "acl_url": "https://aclanthology.org/2024.ccl-1.80/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Iterative Data Augmentation for Neural Machine Translation: a Low Resource Case Study for English–Telugu",
+  "authors": [
+    "Sandipan Dandapat",
+    "Christian Federmann"
+  ],
+  "languages": [
+    "English",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2018.eamt-main.29",
+  "acl_url": "https://aclanthology.org/2018.eamt-main.29/"
+}

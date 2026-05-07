@@ -1,0 +1,20 @@
+{
+  "title": "Improving Neural Machine Translation on resource-limited pairs using auxiliary data of a third language",
+  "authors": [
+    "Ander Martínez",
+    "Yuji Matsumoto"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Czech",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16",
+    "T14"
+  ],
+  "paper_id": "2016.amta-researchers.11",
+  "acl_url": "https://aclanthology.org/2016.amta-researchers.11/"
+}
