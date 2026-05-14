@@ -1,0 +1,23 @@
+{
+  "title": "HMIST: Hierarchical Multilingual Isometric Speech Translation using Multi-Task Learning Framework for Automatic Dubbing",
+  "authors": [
+    "Nidhir Bhavsar",
+    "Aakash Bhatnagar",
+    "Muskaan Singh",
+    "Petr Motlicek"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.paclic-1.61",
+  "acl_url": "https://aclanthology.org/2022.paclic-1.61/"
+}

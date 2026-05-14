@@ -1,0 +1,24 @@
+{
+  "title": "KSAA-RD Shared Task: Arabic Reverse Dictionary",
+  "authors": [
+    "Rawan Al-Matham",
+    "Waad Alshammari",
+    "Abdulrahman AlOsaimy",
+    "Sarah Alhumoud",
+    "Asma Al Wazrah",
+    "Afrah Altamimi",
+    "Halah Alharbi",
+    "Abdullah Alfaifi"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.arabicnlp-1.39",
+  "acl_url": "https://aclanthology.org/2023.arabicnlp-1.39/"
+}

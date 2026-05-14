@@ -1,0 +1,19 @@
+{
+  "title": "Danish Clinical Named Entity Recognition and Relation Extraction",
+  "authors": [
+    "Martin Sundahl Laursen",
+    "Jannik Skyttegaard Pedersen",
+    "Rasmus Søgaard Hansen",
+    "Thiusius Rajeeth Savarimuthu",
+    "Pernille Just Vinholt"
+  ],
+  "languages": [
+    "Danish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2023.nodalida-1.65",
+  "acl_url": "https://aclanthology.org/2023.nodalida-1.65/"
+}

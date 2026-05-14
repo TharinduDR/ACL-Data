@@ -1,0 +1,21 @@
+{
+  "title": "AlcLaM: Arabic Dialectal Language Model",
+  "authors": [
+    "Murtadha Ahmed",
+    "Saghir Alfasy",
+    "Wenbo",
+    "Jamaal Qasem",
+    "Mohammed Ahmed",
+    "Yunfeng Liu"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.arabicnlp-1.14",
+  "acl_url": "https://aclanthology.org/2024.arabicnlp-1.14/"
+}

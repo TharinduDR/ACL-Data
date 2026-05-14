@@ -1,0 +1,21 @@
+{
+  "title": "Non-English Code Generation with Cross-Lingual Chain of Thought",
+  "authors": [
+    "Yuha Nishigata",
+    "Waka Ito",
+    "Kimio Kuramitsu"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Vietnamese",
+    "Korean"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2025.paclic-1.40",
+  "acl_url": "https://aclanthology.org/2025.paclic-1.40/"
+}

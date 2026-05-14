@@ -1,0 +1,20 @@
+{
+  "title": "Yes-MT's Submission to the Low-Resource Indic Language Translation Shared Task in WMT 2024",
+  "authors": [
+    "Yash Bhaskar",
+    "Parameswari Krishnamurthy"
+  ],
+  "languages": [
+    "English",
+    "Assamese",
+    "Mizo",
+    "Khasi",
+    "Manipuri"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.wmt-1.71",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.71/"
+}

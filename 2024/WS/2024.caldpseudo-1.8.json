@@ -1,0 +1,23 @@
+{
+  "title": "Data Anonymization for Privacy-Preserving Large Language Model Fine-Tuning on Call Transcripts",
+  "authors": [
+    "Nathan Zhang",
+    "Anne Paling",
+    "Preston Thomas",
+    "Tania Habib",
+    "Mahsa Azizi",
+    "Shayna Gardiner",
+    "Kevin Humphreys",
+    "Frédéric Mailhot"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.caldpseudo-1.8",
+  "acl_url": "https://aclanthology.org/2024.caldpseudo-1.8/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Few-shot Question Generation for Reading Comprehension",
+  "authors": [
+    "Yin Poon",
+    "John S. Y. Lee",
+    "Yu Yan Lam",
+    "Wing Lam Suen",
+    "Elsie Li Chen Ong",
+    "Samuel Kai Wah Chu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.sighan-1.3",
+  "acl_url": "https://aclanthology.org/2024.sighan-1.3/"
+}

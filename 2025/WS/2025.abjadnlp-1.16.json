@@ -1,0 +1,22 @@
+{
+  "title": "Evaluating RAG Pipelines for Arabic Lexical Information Retrieval: A Comparative Study of Embedding and Generation Models",
+  "authors": [
+    "Raghad Al-Rasheed",
+    "Abdullah Al Muaddi",
+    "Hawra Aljasim",
+    "Rawan Al-Matham",
+    "Muneera Alhoshan",
+    "Asma Al Wazrah",
+    "Abdulrahman AlOsaimy"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.abjadnlp-1.16",
+  "acl_url": "https://aclanthology.org/2025.abjadnlp-1.16/"
+}

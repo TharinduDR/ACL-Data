@@ -1,0 +1,21 @@
+{
+  "title": "Morphologically-informed Somali Lemmatization Corpus built with a Web-based Crowdsourcing Platform",
+  "authors": [
+    "Abdifatah A. Gedi",
+    "Shafie A. Mohamed",
+    "Yusuf A. Yusuf",
+    "Muhidin A. Mohamed",
+    "Fuad M. Hassan",
+    "Houssein A. Assoweh"
+  ],
+  "languages": [
+    "Somali"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2026.africanlp-main.17",
+  "acl_url": "https://aclanthology.org/2026.africanlp-main.17/"
+}

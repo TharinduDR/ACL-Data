@@ -1,0 +1,20 @@
+{
+  "title": "Winning ClimateCheck: A Multi-Stage System with BM25, BGE-Reranker Ensembles, and LLM-based Analysis for Scientific Abstract Retrieval",
+  "authors": [
+    "Wang Junjun",
+    "Chen Kunlong",
+    "Chen Zhaoqun",
+    "He Peng",
+    "Zheng Wenlu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.sdp-1.25",
+  "acl_url": "https://aclanthology.org/2025.sdp-1.25/"
+}

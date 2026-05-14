@@ -1,0 +1,24 @@
+{
+  "title": "PerLTQA: A Personal Long-Term Memory Dataset for Memory Classification, Retrieval, and Fusion in Question Answering",
+  "authors": [
+    "Yiming Du",
+    "Hongru Wang",
+    "Zhengyi Zhao",
+    "Bin Liang",
+    "Baojun Wang",
+    "Wanjun Zhong",
+    "Zezhong Wang",
+    "Kam-Fai Wong"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T02",
+    "T10",
+    "T13"
+  ],
+  "paper_id": "2024.sighan-1.18",
+  "acl_url": "https://aclanthology.org/2024.sighan-1.18/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "FedCliMask: Context-Aware Federated Learning with Ontology-Guided Semantic Masking for Clinical NLP",
+  "authors": [
+    "Srijit Paul",
+    "Sajeeb Das",
+    "Ucchas Muhury",
+    "Akib Jayed Islam",
+    "Dhruba Jyoti Barua",
+    "Sultanus Salehin",
+    "Prasun Datta"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.globalnlp-1.19",
+  "acl_url": "https://aclanthology.org/2025.globalnlp-1.19/"
+}

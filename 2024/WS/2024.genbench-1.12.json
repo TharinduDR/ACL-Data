@@ -1,0 +1,22 @@
+{
+  "title": "OmniDialog: A Multimodal Benchmark for Generalization Across Text, Visual, and Audio Modalities",
+  "authors": [
+    "Anton Razzhigaev",
+    "Maxim Kurkin",
+    "Elizaveta Goncharova",
+    "Irina Abdullaeva",
+    "Anastasia Lysenko",
+    "Alexander Panchenko",
+    "Denis Dimitrov",
+    "Andrey Kuznetsov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.genbench-1.12",
+  "acl_url": "https://aclanthology.org/2024.genbench-1.12/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Neural at ArchEHR-QA 2025: Agentic Prompt Optimization for Evidence-Grounded Clinical Question Answering",
+  "authors": [
+    "Sai Prasanna Teja Reddy",
+    "Abrar Majeedi",
+    "Viswanatha Reddy Gajjala",
+    "Zhuoyan Xu",
+    "Siddhant Rai",
+    "Vaishnav Potlapalli"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.bionlp-share.13",
+  "acl_url": "https://aclanthology.org/2025.bionlp-share.13/"
+}

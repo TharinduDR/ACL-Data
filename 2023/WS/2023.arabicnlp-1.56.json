@@ -1,0 +1,18 @@
+{
+  "title": "AAST-NLP at ArAI Eval Shared Task: Tackling Persuasion Technique and Disinformation Detection using Pre-Trained Language Models On Imbalanced Datasets",
+  "authors": [
+    "Ahmed El-Sayed",
+    "Omar Nasr",
+    "Nour El-din El-madany"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T23 Social Media Processing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.arabicnlp-1.56",
+  "acl_url": "https://aclanthology.org/2023.arabicnlp-1.56/"
+}

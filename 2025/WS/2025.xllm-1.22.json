@@ -1,0 +1,20 @@
+{
+  "title": "DiaDP@XLMM25: Advancing Chinese Dialogue Parsing via Unified Pretrained Language Models and Biaffine Dependency Scoring",
+  "authors": [
+    "Shuoqiu Duan",
+    "Xiaoliang Chen",
+    "Duoqian Miao",
+    "Xu Gu",
+    "Xianyong Li",
+    "Yajun Du"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.xllm-1.22",
+  "acl_url": "https://aclanthology.org/2025.xllm-1.22/"
+}

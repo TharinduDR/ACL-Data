@@ -1,0 +1,19 @@
+{
+  "title": "Text Filter Based on Automatically Acquired Vocabularies for Multilingual Machine Translation",
+  "authors": [
+    "Kenji Imamura",
+    "Masao Utiyama"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Pashto",
+    "Khmer"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2026.loresmt-1.3",
+  "acl_url": "https://aclanthology.org/2026.loresmt-1.3/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Killing Two Flies with One Stone: An Attempt to Break LLMs Using English→Icelandic Idioms and Proper Names",
+  "authors": [
+    "Bjarki Ármannsson",
+    "Hinrik Hafsteinsson",
+    "Atli Jasonarson",
+    "Steinpór Steingríмsson"
+  ],
+  "languages": [
+    "English",
+    "Icelandic"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.31",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.31/"
+}

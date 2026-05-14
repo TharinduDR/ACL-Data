@@ -1,0 +1,23 @@
+{
+  "title": "LlamaMTS: Optimizing Metastasis Detection with Llama Instruction Tuning and BERT-Based Ensemble in Italian Clinical Reports",
+  "authors": [
+    "Livia Lilli",
+    "Stefano Patarnello",
+    "Carlotta Masciocchi",
+    "Valeria Masiello",
+    "Fabio Marazzi",
+    "Luca Tagliaferri",
+    "Nikola Dino Capocchiano"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.clinicalnlp-1.13",
+  "acl_url": "https://aclanthology.org/2024.clinicalnlp-1.13/"
+}

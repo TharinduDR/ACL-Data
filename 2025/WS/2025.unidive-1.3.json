@@ -1,0 +1,24 @@
+{
+  "title": "Typology-aware Multilingual Morphosyntactic Parsing with Functional Node Filtering",
+  "authors": [
+    "Kutay Acar",
+    "Gülşen Eryiğit"
+  ],
+  "languages": [
+    "Chinese",
+    "Czech",
+    "English",
+    "Hebrew",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Serbian",
+    "Swedish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.unidive-1.3",
+  "acl_url": "https://aclanthology.org/2025.unidive-1.3/"
+}

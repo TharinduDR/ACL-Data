@@ -1,0 +1,25 @@
+{
+  "title": "CUNI at WMT24 General Translation Task: LLMs, (Q)LoRA, CPO and Model Merging",
+  "authors": [
+    "Miroslav Hrabal",
+    "Josef Jon",
+    "Martin Popel",
+    "Nam H. Luu",
+    "Danil Semin",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2024.wmt-1.16",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.16/"
+}

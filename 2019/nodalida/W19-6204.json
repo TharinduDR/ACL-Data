@@ -1,0 +1,24 @@
+{
+  "title": "Is Multilingual BERT Fluent in Language Generation?",
+  "authors": [
+    "Samuel Rönnqvist",
+    "Jenna Kanerva",
+    "Tapio Salakoski",
+    "Filip Ginter"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Danish",
+    "Finnish",
+    "Norwegian (Bokmål)",
+    "Norwegian (Nynorsk)",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W19-6204",
+  "acl_url": "https://aclanthology.org/W19-6204/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "CS-Sum: A Benchmark for Code-Switching Dialogue Summarization and the Limits of Large Language Models",
+  "authors": [
+    "Sathya Krishnan Suresh",
+    "Tanmay Surana",
+    "Lim Zhi Hao",
+    "Eng Siong Chng"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Tamil",
+    "Malay"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.newsum-main.3",
+  "acl_url": "https://aclanthology.org/2025.newsum-main.3/"
+}

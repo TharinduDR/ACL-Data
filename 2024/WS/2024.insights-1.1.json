@@ -1,0 +1,27 @@
+{
+  "title": "MoSECroT: Model Stitching with Static Word Embeddings for Crosslingual Zero-shot Transfer",
+  "authors": [
+    "Haotian Ye",
+    "Yihong Liu",
+    "Chunlan Ma",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Chinese",
+    "Faroese",
+    "Maltese",
+    "Eastern Low German",
+    "Sakha",
+    "Tatar"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.insights-1.1",
+  "acl_url": "https://aclanthology.org/2024.insights-1.1/"
+}

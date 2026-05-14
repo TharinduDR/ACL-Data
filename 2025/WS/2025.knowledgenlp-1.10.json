@@ -1,0 +1,20 @@
+{
+  "title": "RouteNator: A Router-Based Multi-Modal Architecture for Generating Synthetic Training Data for Function Calling LLMs",
+  "authors": [
+    "Vibha Belavadi",
+    "Tushar Vatsa",
+    "Dewang Sultania",
+    "Suhas Suresha",
+    "Ishita Verma",
+    "Cheng Chen",
+    "Tracy Holloway King",
+    "Michael Friedrich"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2025.knowledgenlp-1.10",
+  "acl_url": "https://aclanthology.org/2025.knowledgenlp-1.10/"
+}

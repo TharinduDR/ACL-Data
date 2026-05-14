@@ -1,0 +1,19 @@
+{
+  "title": "Combining Automated and Manual Data for Effective Downstream Fine-Tuning of Transformers for Low-Resource Language Applications",
+  "authors": [
+    "Ulyana Isaeva",
+    "Danil Astafurov",
+    "Nikita Martynov"
+  ],
+  "languages": [
+    "Udmurt",
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.xllm-1.9",
+  "acl_url": "https://aclanthology.org/2025.xllm-1.9/"
+}

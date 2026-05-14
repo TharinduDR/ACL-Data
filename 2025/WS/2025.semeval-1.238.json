@@ -1,0 +1,25 @@
+{
+  "title": "Deerlu at SemEval-2025 Task 2: Wikidata-Driven Entity-Aware Translation: Boosting LLMs with External Knowledge",
+  "authors": [
+    "Lu Xu"
+  ],
+  "languages": [
+    "Chinese",
+    "Arabic",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.semeval-1.238",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.238/"
+}

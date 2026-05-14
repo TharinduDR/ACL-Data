@@ -1,0 +1,23 @@
+{
+  "title": "Breaking NLP: Using Morphosyntax, Semantics, Pragmatics and World Knowledge to Fool Sentiment Analysis Systems",
+  "authors": [
+    "Taylor Mahler",
+    "Willy Cheung",
+    "Micha Elsner",
+    "David King",
+    "Marie-Catherine de Marneffe",
+    "Cory Shain",
+    "Symon Stevens-Guille",
+    "Michael White"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "W17-5405",
+  "acl_url": "https://aclanthology.org/W17-5405/"
+}

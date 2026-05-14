@@ -1,0 +1,19 @@
+{
+  "title": "TableKV: KV Cache Compression for In-Context Table Processing",
+  "authors": [
+    "Giulio Corallo",
+    "Elia Faure-Rolland",
+    "Miriam Lamari",
+    "Paolo Papotti"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.trl-1.13",
+  "acl_url": "https://aclanthology.org/2025.trl-1.13/"
+}

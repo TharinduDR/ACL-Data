@@ -1,0 +1,25 @@
+{
+  "title": "MAC: A Multi-Agent Framework for Interactive User Clarification in Multi-turn Conversations",
+  "authors": [
+    "Emre Can Acikgoz",
+    "Jinoh Oh",
+    "Joo Hyuk Jeon",
+    "Jie Hao",
+    "Heng Ji",
+    "Dilek Hakkani-Tür",
+    "Gokhan Tur",
+    "Xiang Li",
+    "Chengyuan Ma",
+    "Xing Fan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.iwsds-1.1",
+  "acl_url": "https://aclanthology.org/2026.iwsds-1.1/"
+}

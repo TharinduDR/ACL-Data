@@ -1,0 +1,18 @@
+{
+  "title": "Hybrid Neural-LLM Pipeline for Morphological Glossing in Endangered Language Documentation: A Case Study of Jungar Tuvan",
+  "authors": [
+    "Siyu Liang",
+    "Talant Mawkanuli",
+    "Gina-Anne Levow"
+  ],
+  "languages": [
+    "Tuvan"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.fieldmatters-1.3",
+  "acl_url": "https://aclanthology.org/2026.fieldmatters-1.3/"
+}

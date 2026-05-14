@@ -1,0 +1,34 @@
+{
+  "title": "Benchmarking LLaMA-3 on Arabic Language Generation Tasks",
+  "authors": [
+    "Md Tawkat Islam Khondaker",
+    "Numaan Naeem",
+    "Fatimah Lyba Khan",
+    "AbdelRahim A. Elmadany",
+    "Muhammad Abdul-Mageed"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French",
+    "Russian",
+    "Hebrew",
+    "Japanese",
+    "Russian",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.arabicnlp-1.24",
+  "acl_url": "https://aclanthology.org/2024.arabicnlp-1.24/"
+}

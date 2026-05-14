@@ -1,0 +1,27 @@
+{
+  "title": "On the Robustness of Neural Models for Full Sentence Transformation",
+  "authors": [
+    "Michael Ginn",
+    "Ali Marashian",
+    "Bhargav Shandilya",
+    "Claire Benet Post",
+    "Enora Rice",
+    "Juan Vasquez",
+    "Marie McGregor",
+    "Matt Buchholz",
+    "Mans Hulden",
+    "Alexis Palmer"
+  ],
+  "languages": [
+    "Bribri",
+    "Yukatek Maya",
+    "Guaraní"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2024.americasnlp-1.19",
+  "acl_url": "https://aclanthology.org/2024.americasnlp-1.19/"
+}

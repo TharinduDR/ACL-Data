@@ -1,0 +1,22 @@
+{
+  "title": "CrossIn: An Efficient Instruction Tuning Approach for Cross-Lingual Knowledge Alignment",
+  "authors": [
+    "Geyu Lin",
+    "Bin Wang",
+    "Zhengyuan Liu",
+    "Nancy F. Chen"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.sumeval-2.2",
+  "acl_url": "https://aclanthology.org/2025.sumeval-2.2/"
+}

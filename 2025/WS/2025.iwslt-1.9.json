@@ -1,0 +1,24 @@
+{
+  "title": "Kuvost: A Large-Scale Human-Annotated English to Central Kurdish Speech Translation Dataset Driven from English Common Voice",
+  "authors": [
+    "Mohammad Mohammadamini",
+    "Daban Jaff",
+    "Sara Jamal",
+    "Ibrahim Ahmed",
+    "Hawkar Omar",
+    "Darya Sabir",
+    "Marie Tahon",
+    "Antoine Laurent"
+  ],
+  "languages": [
+    "English",
+    "Central Kurdish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.iwslt-1.9",
+  "acl_url": "https://aclanthology.org/2025.iwslt-1.9/"
+}

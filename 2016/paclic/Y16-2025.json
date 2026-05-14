@@ -1,0 +1,20 @@
+{
+  "title": "A Pipeline Japanese Entity Linking System with Embedding Features",
+  "authors": [
+    "Shuangshuang Zhou",
+    "Koji Matsuda",
+    "Ran Tian",
+    "Naoaki Okazaki",
+    "Kentaro Inui"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "Y16-2025",
+  "acl_url": "https://aclanthology.org/Y16-2025/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Query-Following vs Context-Anchoring: How LLMs Handle Cross-Turn Language Switching",
+  "authors": [
+    "Kyuhee Kim",
+    "Chengheng Li Chen",
+    "Anna Sotnikova"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Spanish",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2026.mme-main.13",
+  "acl_url": "https://aclanthology.org/2026.mme-main.13/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "AIWolfDial 2024: Summary of Natural Language Division of 6th International AIWolf Contest",
+  "authors": [
+    "Yoshinobu Kano",
+    "Yuto Sahashi",
+    "Neo Watanabe",
+    "Kaito Kagaminuma",
+    "Claus Aranha",
+    "Daisuke Katagami",
+    "Kei Harada",
+    "Michimasa Inaba",
+    "Takeshi Ito",
+    "Hirotaka Osawa",
+    "Takashi Otsuki",
+    "Fujio Toriumi"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.aiwolfdial-1.1",
+  "acl_url": "https://aclanthology.org/2024.aiwolfdial-1.1/"
+}

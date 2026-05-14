@@ -1,0 +1,19 @@
+{
+  "title": "ToolReAGt: Tool Retrieval for LLM-based Complex Task Solution via Retrieval Augmented Generation",
+  "authors": [
+    "Norbert Braunschweiler",
+    "Rama Doddipatla",
+    "Tudor-Catalin Zorila"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.knowllm-1.7",
+  "acl_url": "https://aclanthology.org/2025.knowllm-1.7/"
+}

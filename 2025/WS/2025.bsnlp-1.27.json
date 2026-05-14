@@ -1,0 +1,30 @@
+{
+  "title": "SlavicNLP 2025 Shared Task: Detection and Classification of Persuasion Techniques in Parliamentary Debates and Social Media",
+  "authors": [
+    "Jakub Piskorski",
+    "Dimitar Dimitrov",
+    "Filip Dobranič",
+    "Marina Ernst",
+    "Jacek Haneczok",
+    "Ivan Koychev",
+    "Nikola Ljubešić",
+    "Michał Marcińczuk",
+    "Arkadiusz Modzelewski",
+    "Ivo Moravski",
+    "Roman Yangarber"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Croatian",
+    "Polish",
+    "Russian",
+    "Slovene"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.bsnlp-1.27",
+  "acl_url": "https://aclanthology.org/2025.bsnlp-1.27/"
+}

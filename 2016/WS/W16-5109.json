@@ -1,0 +1,19 @@
+{
+  "title": "Supervised classification of end-of-lines in clinical text with no manual annotation",
+  "authors": [
+    "Pierre Zweigenbaum",
+    "Cyril Grouin",
+    "Thomas Lavergne"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W16-5109",
+  "acl_url": "https://aclanthology.org/W16-5109/"
+}

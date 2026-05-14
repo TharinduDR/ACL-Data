@@ -1,0 +1,21 @@
+{
+  "title": "Using a multilingual literary parallel corpus to train NMT systems",
+  "authors": [
+    "Bojana Mikelenić",
+    "Antoni Oliver"
+  ],
+  "languages": [
+    "Spanish",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Croatian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.ctt-1.1",
+  "acl_url": "https://aclanthology.org/2024.ctt-1.1/"
+}

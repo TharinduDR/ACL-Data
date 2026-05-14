@@ -1,0 +1,30 @@
+{
+  "title": "Pragyaan: Designing and Curating High-Quality Cultural Post-Training Datasets for Indian Languages",
+  "authors": [
+    "Neel Prabhanjan Rachamalla",
+    "Aravind Konakalla",
+    "Gautam Rajeev",
+    "Ashish Kulkarni",
+    "Chandra Khatri",
+    "Shubham Agarwal"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Tamil",
+    "Telugu",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Oriya",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2025.mrl-main.20",
+  "acl_url": "https://aclanthology.org/2025.mrl-main.20/"
+}

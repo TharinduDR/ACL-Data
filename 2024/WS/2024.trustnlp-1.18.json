@@ -1,0 +1,27 @@
+{
+  "title": "Sandwich Attack: Multi-language Mixture Adaptive Attack on LLMs",
+  "authors": [
+    "Bibek Upadhayay",
+    "Vahid Behzadan, Ph.D."
+  ],
+  "languages": [
+    "English",
+    "Vietnamese",
+    "Sanskrit",
+    "Hindi",
+    "Slovenian",
+    "Polish",
+    "Portuguese",
+    "Japanese",
+    "Korean",
+    "Basque",
+    "German"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.trustnlp-1.18",
+  "acl_url": "https://aclanthology.org/2024.trustnlp-1.18/"
+}

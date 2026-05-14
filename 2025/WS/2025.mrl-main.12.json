@@ -1,0 +1,21 @@
+{
+  "title": "Quality-Aware Translation Tagging in Multilingual RAG system",
+  "authors": [
+    "Hoyeon Moon",
+    "Byeolhee Kim",
+    "Nikhil Verma"
+  ],
+  "languages": [
+    "English",
+    "Korean",
+    "Finnish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.mrl-main.12",
+  "acl_url": "https://aclanthology.org/2025.mrl-main.12/"
+}

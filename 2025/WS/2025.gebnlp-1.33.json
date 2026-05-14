@@ -1,0 +1,20 @@
+{
+  "title": "Disentangling Biased Representations: A Causal Intervention Framework for Fairer NLP Models",
+  "authors": [
+    "Yangge Qian",
+    "Yilong Hu",
+    "Siqi Zhang",
+    "Xu Gu",
+    "Xiaolin Qin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.gebnlp-1.33",
+  "acl_url": "https://aclanthology.org/2025.gebnlp-1.33/"
+}

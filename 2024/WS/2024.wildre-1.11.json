@@ -1,0 +1,24 @@
+{
+  "title": "Aalamaram: A Large-Scale Linguistically Annotated Treebank for the Tamil Language",
+  "authors": [
+    "A M Abirami",
+    "Wei Qi Leong",
+    "Hamsawardhini Rengarajan",
+    "D Anitha",
+    "R Suganya",
+    "Himanshu Singh",
+    "Kengatharaiyer Sarveswaran",
+    "William Chandra Tjhi",
+    "Rajiv Ratn Shah"
+  ],
+  "languages": [
+    "Tamil",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.wildre-1.11",
+  "acl_url": "https://aclanthology.org/2024.wildre-1.11/"
+}

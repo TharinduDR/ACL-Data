@@ -1,0 +1,34 @@
+{
+  "title": "DementiaBank-Emotion: A Multi-Rater Emotion Annotation Corpus for Alzheimer's Disease Speech (Version 1.0)",
+  "authors": [
+    "Cheonkam Jeong",
+    "Jessica Liao",
+    "Audrey Lu",
+    "Yutong Song",
+    "Christopher Rashidian",
+    "Donna Krogh",
+    "Erik Krogh",
+    "Mahkameh Rasouli",
+    "Jung-Ah Lee",
+    "Nikil Dutt",
+    "Lisa Gibbs",
+    "David Sultzer",
+    "Julie Rousseau",
+    "Jocelyn Ludlow",
+    "Margaret Galvez",
+    "Alexander Nuth",
+    "Chet Khay",
+    "Sabine Brunswicker",
+    "Adeline Nyamathi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2026.healing-1.28",
+  "acl_url": "https://aclanthology.org/2026.healing-1.28/"
+}

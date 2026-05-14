@@ -1,0 +1,25 @@
+{
+  "title": "Ensembles of Neural Morphological Inflection Models",
+  "authors": [
+    "Ilmari Kylliainen",
+    "Miikka Silfverberg"
+  ],
+  "languages": [
+    "Arabic",
+    "Finnish",
+    "Georgian",
+    "German",
+    "Hindi",
+    "Khaling",
+    "Navajo",
+    "Russian",
+    "Italian",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W19-6132",
+  "acl_url": "https://aclanthology.org/W19-6132/"
+}

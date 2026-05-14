@@ -1,0 +1,20 @@
+{
+  "title": "L3Cube-MahaSent-MD: A Multi-domain Marathi Sentiment Analysis Dataset and Transformer Models",
+  "authors": [
+    "Aabha Pingle",
+    "Aditya Vyawahare",
+    "Isha Joshi",
+    "Rahul Tangsali",
+    "Raviraj Joshi"
+  ],
+  "languages": [
+    "Marathi",
+    "English"
+  ],
+  "research_areas": [
+    "T20",
+    "T23"
+  ],
+  "paper_id": "2023.paclic-1.28",
+  "acl_url": "https://aclanthology.org/2023.paclic-1.28/"
+}

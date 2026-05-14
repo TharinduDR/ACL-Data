@@ -1,0 +1,29 @@
+{
+  "title": "Cross-Genre Native Language Identification with Open-Source Large Language Models",
+  "authors": [
+    "Robin Nicholls",
+    "Kenneth Alperin"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "French",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Spanish",
+    "Telugu",
+    "Turkish",
+    "Chinese",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T14",
+    "T28",
+    "T29"
+  ],
+  "paper_id": "2025.luhme-1.10",
+  "acl_url": "https://aclanthology.org/2025.luhme-1.10/"
+}

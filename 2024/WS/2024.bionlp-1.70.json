@@ -1,0 +1,21 @@
+{
+  "title": "WisPerMed at BioLaySumm: Adapting Autoregressive Large Language Models for Lay Summarization of Scientific Articles",
+  "authors": [
+    "Tabea M. G. Pakull",
+    "Hendrik Damm",
+    "Ahmad Idrissi-Yaghir",
+    "Henning Schäfer",
+    "Peter A. Horn",
+    "Christoph M. Friedrich"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.bionlp-1.70",
+  "acl_url": "https://aclanthology.org/2024.bionlp-1.70/"
+}

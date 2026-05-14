@@ -1,0 +1,21 @@
+{
+  "title": "MSNER: A Multilingual Speech Dataset for Named Entity Recognition",
+  "authors": [
+    "Quentin Meeus",
+    "Marie-Francine Moens",
+    "Hugo Van hamme"
+  ],
+  "languages": [
+    "Dutch",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.isa-1.2",
+  "acl_url": "https://aclanthology.org/2024.isa-1.2/"
+}

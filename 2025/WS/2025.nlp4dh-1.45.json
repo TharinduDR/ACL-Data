@@ -1,0 +1,21 @@
+{
+  "title": "EduPo: Progress and Challenges of Automated Analysis and Generation of Czech Poetry",
+  "authors": [
+    "Rudolf Rosa",
+    "David Mareček",
+    "Tomáš Musil",
+    "Michal Chudoba",
+    "Jakub Landsperský"
+  ],
+  "languages": [
+    "Czech",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.nlp4dh-1.45",
+  "acl_url": "https://aclanthology.org/2025.nlp4dh-1.45/"
+}

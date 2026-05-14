@@ -1,0 +1,19 @@
+{
+  "title": "BanglaMATH: A Bangla benchmark dataset for testing LLM mathematical reasoning at grades 6, 7, and 8",
+  "authors": [
+    "Tabia Tanzin Prama",
+    "Christopher M. Danforth",
+    "Peter Sheridan Dodds"
+  ],
+  "languages": [
+    "Bangla",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.mathnlp-main.10",
+  "acl_url": "https://aclanthology.org/2025.mathnlp-main.10/"
+}

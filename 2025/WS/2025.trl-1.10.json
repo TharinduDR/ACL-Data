@@ -1,0 +1,23 @@
+{
+  "title": "Table Understanding and (Multimodal) LLMs: A Cross-Domain Case Study on Scientific vs. Non-Scientific Data",
+  "authors": [
+    "Ekaterina Borisova",
+    "Fabio Barth",
+    "Nils Feldhus",
+    "Raia Abu Ahmad",
+    "Malte Ostendorff",
+    "Pedro Ortiz Suarez",
+    "Georg Rehm",
+    "Sebastian Moller"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.trl-1.10",
+  "acl_url": "https://aclanthology.org/2025.trl-1.10/"
+}

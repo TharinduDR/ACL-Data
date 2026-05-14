@@ -1,0 +1,20 @@
+{
+  "title": "Synthetic Empathy: Generating and Evaluating Artificial Psychotherapy Dialogues to Detect Empathy in Counseling Sessions",
+  "authors": [
+    "Daniel Cabrera Lozoya",
+    "Eloy Hernández Lúa",
+    "Juan Alberto Barajas Perches",
+    "Mike Conway",
+    "Simon D'Alfonso"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.clpsych-1.13",
+  "acl_url": "https://aclanthology.org/2025.clpsych-1.13/"
+}

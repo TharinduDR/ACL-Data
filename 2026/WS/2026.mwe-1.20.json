@@ -1,0 +1,27 @@
+{
+  "title": "Sahara Tokenizers at MWE-2026 PARSEME 2.0 Subtask 1: Combining Contextual Embeddings with Structural Decoding for Multi-Word Expression Detection",
+  "authors": [
+    "Yunus Karatepe",
+    "Mert Sülük",
+    "Zeynep Tuğçe Kırmlı",
+    "Begüm Özbay"
+  ],
+  "languages": [
+    "French",
+    "English",
+    "Japanese",
+    "Persian",
+    "Romanian",
+    "Slavic",
+    "Semitic",
+    "Kartvelian",
+    "Hellenic"
+  ],
+  "research_areas": [
+    "T11",
+    "T14",
+    "T21"
+  ],
+  "paper_id": "2026.mwe-1.20",
+  "acl_url": "https://aclanthology.org/2026.mwe-1.20/"
+}

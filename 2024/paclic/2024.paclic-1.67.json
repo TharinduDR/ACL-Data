@@ -1,0 +1,19 @@
+{
+  "title": "Effective Prompt-tuning for Correcting Hallucinations in LLM-generated Japanese Sentences",
+  "authors": [
+    "Haruki Hatakeyama",
+    "Masaki Shuzo",
+    "Eisaku Maeda"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.paclic-1.67",
+  "acl_url": "https://aclanthology.org/2024.paclic-1.67/"
+}

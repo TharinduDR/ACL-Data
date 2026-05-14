@@ -1,0 +1,24 @@
+{
+  "title": "Team UAB at Chemotherapy Timelines 2025: Integrating encoders and large language models for chemotherapy timeline generation",
+  "authors": [
+    "Vijay Jain",
+    "Chris Coffee",
+    "Kaiwen He",
+    "Remy Cron",
+    "Micah Cochrane",
+    "Luis Mansilla-Gonzalez",
+    "Danish Murad",
+    "Akhil Nadimpalli",
+    "John D. Osborne"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.clinicalnlp-1.5",
+  "acl_url": "https://aclanthology.org/2025.clinicalnlp-1.5/"
+}

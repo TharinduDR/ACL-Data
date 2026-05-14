@@ -1,0 +1,21 @@
+{
+  "title": "A Comparison of Fine-Tuning and In-Context Learning for Clause-Level Morphosyntactic Alternation",
+  "authors": [
+    "Jim Su",
+    "Justin Ho",
+    "George Aaron Broadwell",
+    "Sarah Moeller",
+    "Bonnie J. Dorr"
+  ],
+  "languages": [
+    "Bribri",
+    "Guaraní",
+    "Maya"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.americasnlp-1.21",
+  "acl_url": "https://aclanthology.org/2024.americasnlp-1.21/"
+}

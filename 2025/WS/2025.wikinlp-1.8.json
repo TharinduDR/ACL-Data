@@ -1,0 +1,20 @@
+{
+  "title": "Proper Noun Diacritization for Arabic Wikipedia: A Benchmark Dataset",
+  "authors": [
+    "Rawan Bondok",
+    "Mayar Nassar",
+    "Salam Khalifa",
+    "Kurt Micallef",
+    "Nizar Habash"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wikinlp-1.8",
+  "acl_url": "https://aclanthology.org/2025.wikinlp-1.8/"
+}

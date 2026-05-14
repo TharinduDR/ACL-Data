@@ -1,0 +1,23 @@
+{
+  "title": "WisPerMed at \"Discharge Me!\": Advancing Text Generation in Healthcare with Large Language Models, Dynamic Expert Selection, and Priming Techniques on MIMIC-IV",
+  "authors": [
+    "Hendrik Damm",
+    "Tabea M. G. Pakull",
+    "Bahadir Eryilmaz",
+    "Helmut Becker",
+    "Ahmad Idrissi-Yaghir",
+    "Henning Schäfer",
+    "Sergej Schultenkämper",
+    "Christoph M. Friedrich"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.bionlp-1.9",
+  "acl_url": "https://aclanthology.org/2024.bionlp-1.9/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "HW-TSC 2024 Submission for the Quality Estimation Shared Task",
+  "authors": [
+    "Weiqiao Shan",
+    "Ming Zhu",
+    "Yuang Li",
+    "Mengyao Piao",
+    "Xiaofeng Zhao",
+    "Chang Su",
+    "Min Zhang",
+    "Hao Yang",
+    "Yanfei Jiang"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Tamil",
+    "Telugu",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.39",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.39/"
+}

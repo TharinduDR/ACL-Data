@@ -1,0 +1,25 @@
+{
+  "title": "HILIGAYNER: A Baseline Named Entity Recognition Model for Hiligaynon",
+  "authors": [
+    "James Ald Teves",
+    "Ray Daniel Cal",
+    "Josh Magdriel Villaluz",
+    "Jean Malolos",
+    "Mico Magtira",
+    "Ramon Rodriguez",
+    "Joseph Marvin Imperial",
+    "Mideth Abisado"
+  ],
+  "languages": [
+    "Hiligaynon",
+    "Cebuano",
+    "Tagalog"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.paclic-1.71",
+  "acl_url": "https://aclanthology.org/2025.paclic-1.71/"
+}

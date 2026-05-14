@@ -1,0 +1,19 @@
+{
+  "title": "Measuring Gender Bias in Language Models in Farsi",
+  "authors": [
+    "Hamidreza Saffari",
+    "Mohammadamin Shafiei",
+    "Donya Rooein",
+    "Debora Nozza"
+  ],
+  "languages": [
+    "Persian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.gebnlp-1.21",
+  "acl_url": "https://aclanthology.org/2025.gebnlp-1.21/"
+}

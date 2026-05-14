@@ -1,0 +1,18 @@
+{
+  "title": "NLPeace@GermEval Shared Task 2025: Fine-Tuned BERT vs. Prompted LLMs for German Hate Speech Detection",
+  "authors": [
+    "Patrick Göttfert",
+    "Raphael Huber",
+    "Fabio Mariani"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T20",
+    "T23"
+  ],
+  "paper_id": "2025.konvens-2.28",
+  "acl_url": "https://aclanthology.org/2025.konvens-2.28/"
+}

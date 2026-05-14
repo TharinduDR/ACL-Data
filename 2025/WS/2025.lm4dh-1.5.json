@@ -1,0 +1,16 @@
+{
+  "title": "A State-of-the-Art Morphosyntactic Parser and Lemmatizer for Ancient Greek",
+  "authors": [
+    "Giuseppe G. A. Celano"
+  ],
+  "languages": [
+    "Ancient Greek"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.lm4dh-1.5",
+  "acl_url": "https://aclanthology.org/2025.lm4dh-1.5/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Literary Translations and Synthetic Data for Machine Translation of Low-resourced Middle Eastern Languages",
+  "authors": [
+    "Sina Ahmadi",
+    "Razhan Hameed",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "English",
+    "Persian",
+    "Luri Bakhtiari",
+    "Gilaki",
+    "Hawrami",
+    "Laki Kurdish",
+    "Mazandarani",
+    "Southern Kurdish",
+    "Talysh",
+    "Zazaki"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.iwslt-1.10",
+  "acl_url": "https://aclanthology.org/2025.iwslt-1.10/"
+}

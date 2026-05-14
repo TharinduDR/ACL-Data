@@ -1,0 +1,23 @@
+{
+  "title": "Reverse Probing: Evaluating Knowledge Transfer via Finetuned Task Embeddings for Coreference Resolution",
+  "authors": [
+    "Tatiana Anikina",
+    "Arne Binder",
+    "David Harbecke",
+    "Stalin Varanasi",
+    "Leonhard Hennig",
+    "Simon Ostermann",
+    "Sebastian Möller",
+    "Josef van Genabith"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.repl4nlp-1.9",
+  "acl_url": "https://aclanthology.org/2025.repl4nlp-1.9/"
+}

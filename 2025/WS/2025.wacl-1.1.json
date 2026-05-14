@@ -1,0 +1,23 @@
+{
+  "title": "ArabicSense: A Benchmark for Evaluating Commonsense Reasoning in Arabic with Large Language Models",
+  "authors": [
+    "Salima Lamsiyah",
+    "Kamyar Zeinalipour",
+    "Samir El Amrany",
+    "Matthias Brust",
+    "Marco Maggini",
+    "Pascal Bouvry",
+    "Christoph Schommer"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.wacl-1.1",
+  "acl_url": "https://aclanthology.org/2025.wacl-1.1/"
+}

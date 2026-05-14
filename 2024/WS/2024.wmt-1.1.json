@@ -1,0 +1,45 @@
+{
+  "title": "Findings of the WMT24 General Machine Translation Shared Task: The LLM Era is Here but MT is Not Solved Yet",
+  "authors": [
+    "Tom Kocmi",
+    "Eleftherios Avramidis",
+    "Rachel Bawden",
+    "Ondřej Bojar",
+    "Anton Dvorkovich",
+    "Christian Federmann",
+    "Mark Fishel",
+    "Markus Freitag",
+    "Thamme Gowda",
+    "Roman Grundkiewicz",
+    "Barry Haddow",
+    "Marzena Karpinska",
+    "Philipp Koehn",
+    "Benjamin Marie",
+    "Christof Monz",
+    "Kenton Murray",
+    "Masaaki Nagata",
+    "Martin Popel",
+    "Maja Popović",
+    "Mariya Shmatova",
+    "Steinpór Steingrímsson",
+    "Vilém Zouhar"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Czech",
+    "Ukrainian",
+    "Japanese",
+    "Hindi",
+    "Icelandic",
+    "Russian",
+    "Spanish",
+    "Latin American Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.1",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.1/"
+}

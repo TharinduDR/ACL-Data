@@ -1,0 +1,23 @@
+{
+  "title": "GRASP at CoMeDi Shared Task: Multi-Strategy Modeling of Annotator Behavior in Multi-Lingual Semantic Judgments",
+  "authors": [
+    "David Alfter",
+    "Mattias Appelgren"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Norwegian",
+    "Russian",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2025.comedi-1.7",
+  "acl_url": "https://aclanthology.org/2025.comedi-1.7/"
+}

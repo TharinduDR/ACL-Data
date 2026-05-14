@@ -1,0 +1,20 @@
+{
+  "title": "Challenges in Adapting Multilingual LLMs to Low-Resource Languages using LoRA PEFT Tuning",
+  "authors": [
+    "Omkar Khade",
+    "Shruti Jagdale",
+    "Abhishek Phaltankar",
+    "Gauri Takalikar",
+    "Raviraj Joshi"
+  ],
+  "languages": [
+    "Marathi",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.chipsal-1.22",
+  "acl_url": "https://aclanthology.org/2025.chipsal-1.22/"
+}

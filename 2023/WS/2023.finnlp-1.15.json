@@ -1,0 +1,23 @@
+{
+  "title": "Jetsons at the FinNLP-2023: Using Synthetic Data and Transfer Learning for Multilingual ESG Issue Classification",
+  "authors": [
+    "Parker Glenn",
+    "Aloika Gon",
+    "Nikhil Kohli",
+    "Sihan Zha",
+    "Parag Pravin Dakle",
+    "Preethi Raghavan"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.finnlp-1.15",
+  "acl_url": "https://aclanthology.org/2023.finnlp-1.15/"
+}

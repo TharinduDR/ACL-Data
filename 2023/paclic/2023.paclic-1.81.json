@@ -1,0 +1,20 @@
+{
+  "title": "Improving Multi-lingual Medical Term Normalization to Address the Long-Tail Problem",
+  "authors": [
+    "Beatrice Portelli",
+    "Simone Scaboro",
+    "Giuseppe Serra"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2023.paclic-1.81",
+  "acl_url": "https://aclanthology.org/2023.paclic-1.81/"
+}

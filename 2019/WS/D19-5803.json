@@ -1,0 +1,23 @@
+{
+  "title": "CALOR-QUEST : generating a training corpus for Machine Reading Comprehension models from shallow semantic annotations",
+  "authors": [
+    "Frédéric Béchet",
+    "Cindy Aloui",
+    "Delphine Charlet",
+    "Géraldine Damnati",
+    "Johannes Heinecke",
+    "Alexis Nasr",
+    "Frédéric Herlédan"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "D19-5803",
+  "acl_url": "https://aclanthology.org/D19-5803/"
+}

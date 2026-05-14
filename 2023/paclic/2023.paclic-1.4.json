@@ -1,0 +1,21 @@
+{
+  "title": "Simultaneous Domain Adaptation of Tokenization and Machine Translation",
+  "authors": [
+    "Taisei Enomoto",
+    "Tosho Hirasawa",
+    "Hwichan Kim",
+    "Teruaki Oka",
+    "Mamoru Komachi"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2023.paclic-1.4",
+  "acl_url": "https://aclanthology.org/2023.paclic-1.4/"
+}

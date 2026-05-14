@@ -1,0 +1,20 @@
+{
+  "title": "Aligning NLP Models with Target Population Perspectives using PAIR: Population-Aligned Instance Replication",
+  "authors": [
+    "Stephanie Eckman",
+    "Bolei Ma",
+    "Christoph Kern",
+    "Rob Chew",
+    "Barbara Plank",
+    "Frauke Kreuter"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.nlperspectives-1.9",
+  "acl_url": "https://aclanthology.org/2025.nlperspectives-1.9/"
+}

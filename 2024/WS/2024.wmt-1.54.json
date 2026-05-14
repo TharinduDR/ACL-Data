@@ -1,0 +1,27 @@
+{
+  "title": "Findings of WMT 2024 Shared Task on Low-Resource Indic Languages Translation",
+  "authors": [
+    "Partha Pakray",
+    "Santanu Pal",
+    "Advaitha Vetagiri",
+    "Reddi Mohana Krishna",
+    "Arnab Kumar Maji",
+    "Sandeep Kumar Dash",
+    "Lenin Laitonjam",
+    "Lyngdoh Sarah",
+    "Riyanka Manna"
+  ],
+  "languages": [
+    "English",
+    "Assamese",
+    "Mizo",
+    "Khasi",
+    "Manipuri"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.54",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.54/"
+}

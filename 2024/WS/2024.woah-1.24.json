@@ -1,0 +1,22 @@
+{
+  "title": "SGHateCheck: Functional Tests for Detecting Hate Speech in Low-Resource Languages of Singapore",
+  "authors": [
+    "Ri Chi Ng",
+    "Nirmalendu Prakash",
+    "Ming Shan Hee",
+    "Kenny Tsu Wei Choo",
+    "Roy Ka-Wei Lee"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Malay",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.woah-1.24",
+  "acl_url": "https://aclanthology.org/2024.woah-1.24/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Automatic Generation of Wiktionary Entries for Finno-Ugric Minority Languages",
+  "authors": [
+    "Zsanett Ferenczi",
+    "Iván Mittelholcz",
+    "Eszter Simon"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Hungarian",
+    "Russian",
+    "Udmurt",
+    "Komi-Permyak",
+    "Komi-Zyrian",
+    "Meadow Mari",
+    "Hill Mari",
+    "Northern Saami"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W18-0204",
+  "acl_url": "https://aclanthology.org/W18-0204/"
+}

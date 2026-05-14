@@ -1,0 +1,24 @@
+{
+  "title": "NAIST Simultaneous Speech Translation System for IWSLT 2025",
+  "authors": [
+    "Haotian Tan",
+    "Ruhiyah Faradishi Widiaputri",
+    "Jan Meyer Saragih",
+    "Yuka Ko",
+    "Katsuhiro Sudoh",
+    "Satoshi Nakamura",
+    "Sakriani Sakti"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.iwslt-1.39",
+  "acl_url": "https://aclanthology.org/2025.iwslt-1.39/"
+}

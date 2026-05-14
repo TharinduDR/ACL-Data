@@ -1,0 +1,21 @@
+{
+  "title": "Building a Turkish Large Language Model via Continual Pre-Training and Parameter-Efficient Adaptation",
+  "authors": [
+    "Alperen Enes Bayar",
+    "Mert Ege",
+    "Gökhan Yurtalan",
+    "Alper Karamanlıoğlu",
+    "Berkan Demirel",
+    "Ramazan Gökberk Cinbis"
+  ],
+  "languages": [
+    "Turkish",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2026.sigturk-1.17",
+  "acl_url": "https://aclanthology.org/2026.sigturk-1.17/"
+}

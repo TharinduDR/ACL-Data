@@ -1,0 +1,25 @@
+{
+  "title": "Unlocking LLM Safeguards for Low-Resource Languages via Reasoning and Alignment with Minimal Training Data",
+  "authors": [
+    "ZhuoWei Chen",
+    "Bowei Zhang",
+    "Nankai Lin",
+    "Tian Hou",
+    "Lianxi Wang"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "Japanese",
+    "Bengali",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.mrl-main.7",
+  "acl_url": "https://aclanthology.org/2025.mrl-main.7/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "MedQwen-PE: Medical Qwen for Parameter-Efficient Multilingual Patient-Centric Summarization, Question Answering and Information Extraction",
+  "authors": [
+    "Vinay Babu Ulli",
+    "Anindita Mondal"
+  ],
+  "languages": [
+    "Assamese",
+    "Bangla",
+    "Dogri",
+    "English",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Marathi",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T10",
+    "T11",
+    "T18"
+  ],
+  "paper_id": "2025.nlpai4health-main.9",
+  "acl_url": "https://aclanthology.org/2025.nlpai4health-main.9/"
+}

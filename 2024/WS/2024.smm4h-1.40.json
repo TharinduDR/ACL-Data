@@ -1,0 +1,42 @@
+{
+  "title": "Overview of the 9th Social Media Mining for Health Applications (#SMM4H) Shared Tasks at ACL 2024 – Large Language Models and Generalizability for Social Media NLP",
+  "authors": [
+    "Dongfang Xu",
+    "Guillermo Lopez-Garcia",
+    "Lisa Raithel",
+    "Roland Roller",
+    "Philippe Thomas",
+    "Eiji Aramaki",
+    "Shoko Wakamiya",
+    "Shuntaro Yada",
+    "Pierre Zweigenbaum",
+    "Karen O'Connor",
+    "Sophia Hernandez",
+    "Sai Tharuni Samineni",
+    "Yao Ge",
+    "Swati Rajwal",
+    "Sudeshna Das",
+    "Abeed Sarker",
+    "Ari Klein",
+    "Ana Lucia Schmidt",
+    "Vishakha Sharma",
+    "Raul Rodriguez-Esteban",
+    "Juan M. Banda",
+    "Ivan Flores Amaro",
+    "Davy Weissenbacher",
+    "Graciela Gonzalez-Hernandez"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2024.smm4h-1.40",
+  "acl_url": "https://aclanthology.org/2024.smm4h-1.40/"
+}

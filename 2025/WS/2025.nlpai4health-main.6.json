@@ -1,0 +1,28 @@
+{
+  "title": "Multilingual Clinical Dialogue Summarization and Information Extraction with Qwen-1.5B LoRA",
+  "authors": [
+    "Kunwar Zaid",
+    "Amit Sangroya",
+    "Jyotsana Khatri"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Tamil",
+    "Telugu",
+    "Marathi",
+    "Gujarati",
+    "Assamese",
+    "Bangla",
+    "Kannada",
+    "Dogri"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T11 Information Extraction",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.nlpai4health-main.6",
+  "acl_url": "https://aclanthology.org/2025.nlpai4health-main.6/"
+}

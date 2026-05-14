@@ -1,0 +1,23 @@
+{
+  "title": "X-Guard: Multilingual Guard Agent for Content Moderation",
+  "authors": [
+    "Bibek Upadhayay",
+    "Vahid Behzadan, Ph.D."
+  ],
+  "languages": [
+    "English",
+    "Nepali",
+    "Maithili",
+    "Persian",
+    "Arabic",
+    "Vietnamese",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.llmsec-1.6",
+  "acl_url": "https://aclanthology.org/2025.llmsec-1.6/"
+}

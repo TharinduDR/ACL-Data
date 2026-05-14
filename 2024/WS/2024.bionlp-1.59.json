@@ -1,0 +1,20 @@
+{
+  "title": "e-Health CSIRO at “Discharge Me!” 2024: Generating Discharge Summary Sections with Fine-tuned Language Models",
+  "authors": [
+    "Jinghui Liu",
+    "Aaron Nicolson",
+    "Jason Dowling",
+    "Bevan Koopman",
+    "Anthony Nguyen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.bionlp-1.59",
+  "acl_url": "https://aclanthology.org/2024.bionlp-1.59/"
+}

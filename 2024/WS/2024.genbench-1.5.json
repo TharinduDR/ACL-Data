@@ -1,0 +1,21 @@
+{
+  "title": "MMLU-SR: A Benchmark for Stress-Testing Reasoning Capability of Large Language Models",
+  "authors": [
+    "Wentian Wang",
+    "Sarthak Jain",
+    "Paul Kantor",
+    "Jacob Feldman",
+    "Lazaros Gallos",
+    "Hao Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2024.genbench-1.5",
+  "acl_url": "https://aclanthology.org/2024.genbench-1.5/"
+}

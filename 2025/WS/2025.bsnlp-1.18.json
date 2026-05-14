@@ -1,0 +1,20 @@
+{
+  "title": "Rubic2: Ensemble Model for Russian Lemmatization",
+  "authors": [
+    "Ilia Afanasev",
+    "Anna Glazkova",
+    "Olga Lyashevskaya",
+    "Dmitry Morozov",
+    "Ivan Smal",
+    "Natalia Vlasova"
+  ],
+  "languages": [
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.bsnlp-1.18",
+  "acl_url": "https://aclanthology.org/2025.bsnlp-1.18/"
+}

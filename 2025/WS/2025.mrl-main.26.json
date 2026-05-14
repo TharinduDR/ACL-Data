@@ -1,0 +1,31 @@
+{
+  "title": "Zero-Shot Cross-Lingual Transfer using Prefix-Based Adaptation",
+  "authors": [
+    "Snegha A",
+    "Sayambhu Sen",
+    "Piyush Singh Pasi",
+    "Abhishek Singhania",
+    "Preethi Jyothi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Estonian",
+    "Swahili",
+    "Bulgarian",
+    "Thai",
+    "Arabic",
+    "German",
+    "Spanish",
+    "Russian",
+    "Turkish",
+    "Chinese",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.mrl-main.26",
+  "acl_url": "https://aclanthology.org/2025.mrl-main.26/"
+}

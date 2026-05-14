@@ -1,0 +1,27 @@
+{
+  "title": "Synthetic Lyrics Detection Across Languages and Genres",
+  "authors": [
+    "Yanis Labrak",
+    "Markus Frohmann",
+    "Gabriel Meseguer-Brocal",
+    "Elena V. Epure"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Turkish",
+    "French",
+    "Portuguese",
+    "Spanish",
+    "Italian",
+    "Arabic",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T28",
+    "T14",
+    "T08"
+  ],
+  "paper_id": "2025.trustnlp-main.34",
+  "acl_url": "https://aclanthology.org/2025.trustnlp-main.34/"
+}

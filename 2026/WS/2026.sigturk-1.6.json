@@ -1,0 +1,22 @@
+{
+  "title": "SarcasTürk: Turkish Context-Aware Sarcasm Detection Dataset",
+  "authors": [
+    "Niyazi Ahmet Metin",
+    "Sevde Yılmaz",
+    "Osman Enes Erdoğan",
+    "Elif Sude Meydan",
+    "Oğul Simer",
+    "Dilara Keküllüoğlu"
+  ],
+  "languages": [
+    "Turkish",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2026.sigturk-1.6",
+  "acl_url": "https://aclanthology.org/2026.sigturk-1.6/"
+}

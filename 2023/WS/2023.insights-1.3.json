@@ -1,0 +1,26 @@
+{
+  "title": "A Data-centric Framework for Improving Domain-specific Machine Reading Comprehension Datasets",
+  "authors": [
+    "Iva Bojic",
+    "Josef Halim",
+    "Verena Suharman",
+    "Sreeja Tar",
+    "Qi Chwen Ong",
+    "Duy Phung",
+    "Mathieu Ravaut",
+    "Shafiq Joty",
+    "Josip Car"
+  ],
+  "languages": [
+    "English",
+    "Catalan",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.insights-1.3",
+  "acl_url": "https://aclanthology.org/2023.insights-1.3/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "BUINUS at IWSLT: Evaluating the Impact of Data Augmentation and QLoRA-based Fine-Tuning for Maltese to English Speech Translation",
+  "authors": [
+    "Filbert Aurelian Tjiaranata",
+    "Vallerie Alexandra Putra",
+    "Eryawan Presma Yulianrifat",
+    "Ikhlasul Akmal Hanif"
+  ],
+  "languages": [
+    "Maltese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.iwslt-1.26",
+  "acl_url": "https://aclanthology.org/2025.iwslt-1.26/"
+}

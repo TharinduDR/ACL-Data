@@ -1,0 +1,26 @@
+{
+  "title": "IASBS at SemEval-2025 Task 11: Ensembling Transformers for Bridging the Gap in Text-Based Emotion Detection",
+  "authors": [
+    "Erfan Mohammadzadeh",
+    "Aydin Mohandesi",
+    "Mehrzad Tareh",
+    "Ebrahim Ansari"
+  ],
+  "languages": [
+    "Arabic",
+    "Amharic",
+    "Chinese",
+    "English",
+    "Spanish",
+    "Hausa",
+    "Igbo",
+    "Emakhuwa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2025.semeval-1.96",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.96/"
+}

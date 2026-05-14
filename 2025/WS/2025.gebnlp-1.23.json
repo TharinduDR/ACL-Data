@@ -1,0 +1,18 @@
+{
+  "title": "ArGAN: Arabic Gender, Ability, and Nationality Dataset for Evaluating Biases in Large Language Models",
+  "authors": [
+    "Ranwa Aly",
+    "Yara Allam",
+    "Rana Gaber",
+    "Christine Basta"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.gebnlp-1.23",
+  "acl_url": "https://aclanthology.org/2025.gebnlp-1.23/"
+}

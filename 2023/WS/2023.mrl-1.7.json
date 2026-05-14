@@ -1,0 +1,22 @@
+{
+  "title": "Adapt and Prune Strategy for Multilingual Speech Foundational Model on Low-resourced Languages",
+  "authors": [
+    "Hyeon Soo Kim",
+    "Chunghyeon Cho",
+    "Hyejin Won",
+    "Kyung Ho Park"
+  ],
+  "languages": [
+    "Korean",
+    "Malayalam",
+    "Japanese",
+    "Swahili",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2023.mrl-1.7",
+  "acl_url": "https://aclanthology.org/2023.mrl-1.7/"
+}

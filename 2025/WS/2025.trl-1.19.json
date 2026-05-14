@@ -1,0 +1,19 @@
+{
+  "title": "Improving Table Retrieval with Question Generation from Partial Tables",
+  "authors": [
+    "Hsing-Ping Liang",
+    "Che-Wei Chang",
+    "Yao-Chung Fan"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.trl-1.19",
+  "acl_url": "https://aclanthology.org/2025.trl-1.19/"
+}

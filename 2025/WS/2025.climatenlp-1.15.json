@@ -1,0 +1,21 @@
+{
+  "title": "CPIQA: Climate Paper Image Question Answering Dataset for Retrieval-Augmented Generation with Context-Based Query Expansion",
+  "authors": [
+    "Rudra Mutalik",
+    "Abiram Panchalingam",
+    "Loitongbam Gyanendro Singh",
+    "Timothy J. Osborn",
+    "Ed Hawkins",
+    "Stuart E. Middleton"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10",
+    "T17",
+    "T08"
+  ],
+  "paper_id": "2025.climatenlp-1.15",
+  "acl_url": "https://aclanthology.org/2025.climatenlp-1.15/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "MilaNLP@Multilingual Counterspeech Generation: Evaluating Translation and Background Knowledge Filtering",
+  "authors": [
+    "Emanuele Moscato",
+    "Arianna Muti",
+    "Debora Nozza"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Spanish",
+    "Basque"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.mcg-1.7",
+  "acl_url": "https://aclanthology.org/2025.mcg-1.7/"
+}

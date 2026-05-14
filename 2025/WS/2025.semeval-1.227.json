@@ -1,0 +1,24 @@
+{
+  "title": "HausaNLP at SemEval-2025 Task 3: Towards a Fine-Grained Model-Aware Hallucination Detection",
+  "authors": [
+    "Maryam Bala",
+    "Amina Imam Abubakar",
+    "Abdulhamid Abubakar",
+    "Abdulkadir Shehu Bichi",
+    "Hafsa Kabir Ahmad",
+    "Sani Abdullahi Sani",
+    "Idris Abdulmumin",
+    "Shamsuddeen Hassan Muhamad",
+    "Ibrahim Said Ahmad"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.semeval-1.227",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.227/"
+}

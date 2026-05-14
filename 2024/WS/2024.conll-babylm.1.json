@@ -1,0 +1,25 @@
+{
+  "title": "Findings of the Second BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora",
+  "authors": [
+    "Michael Y. Hu",
+    "Aaron Mueller",
+    "Candace Ross",
+    "Adina Williams",
+    "Tal Linzen",
+    "Chengxu Zhuang",
+    "Ryan Cotterell",
+    "Leshem Choshen",
+    "Alex Warstadt",
+    "Ethan Gotlieb Wilcox"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.conll-babylm.1",
+  "acl_url": "https://aclanthology.org/2024.conll-babylm.1/"
+}

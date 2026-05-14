@@ -1,0 +1,22 @@
+{
+  "title": "Human-LLM Benchmarks for Bangla Dialect Translation: Sylheti & Chittagonian on the BanglaCHQ-Summ Corpus",
+  "authors": [
+    "Nowshin Mahjabin",
+    "Ahmed Shafin Ruhan",
+    "Mehreen Hossain Chowdhury",
+    "Md Fahim",
+    "Md. Azam Hossain"
+  ],
+  "languages": [
+    "Bangla",
+    "Sylheti",
+    "Chittagonian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.banglalp-1.18",
+  "acl_url": "https://aclanthology.org/2025.banglalp-1.18/"
+}

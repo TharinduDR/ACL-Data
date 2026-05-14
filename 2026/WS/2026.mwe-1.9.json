@@ -1,0 +1,22 @@
+{
+  "title": "Incorporating Multiword Expressions in Galician Neural Machine Translation: Compositionality, Efficiency, and Performance",
+  "authors": [
+    "Daniel Solla",
+    "Paula Pinto-Ferro",
+    "Laura Castro",
+    "Pablo Gamallo",
+    "Marcos Garcia"
+  ],
+  "languages": [
+    "Galician",
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.mwe-1.9",
+  "acl_url": "https://aclanthology.org/2026.mwe-1.9/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "BabyLMs for isiXhosa: Data-Efficient Language Modelling in a Low-Resource Context",
+  "authors": [
+    "Alexis Matzopoulos",
+    "Charl Hendriks",
+    "Hishaam Mahomed",
+    "Francois Meyer"
+  ],
+  "languages": [
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.loreslm-1.19",
+  "acl_url": "https://aclanthology.org/2025.loreslm-1.19/"
+}

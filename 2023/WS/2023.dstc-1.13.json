@@ -1,0 +1,23 @@
+{
+  "title": "Speech-Aware Multi-Domain Dialogue State Generation with ASR Error Correction Modules",
+  "authors": [
+    "Ridong Jiang",
+    "Shi Wei",
+    "Bin Wang",
+    "Chen Zhang",
+    "Yan Zhang",
+    "Chunlei Pan",
+    "Jung Jae Kim",
+    "Haizhou Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.dstc-1.13",
+  "acl_url": "https://aclanthology.org/2023.dstc-1.13/"
+}

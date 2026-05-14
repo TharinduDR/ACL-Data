@@ -1,0 +1,26 @@
+{
+  "title": "A Joint Multitask Model for Morpho-Syntactic Parsing",
+  "authors": [
+    "Demian Inostroza",
+    "Mel Mistica",
+    "Ekaterina Vylomova",
+    "Chris Guest",
+    "Kemal Kurniawan"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Hebrew",
+    "Czech",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Serbian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.unidive-1.2",
+  "acl_url": "https://aclanthology.org/2025.unidive-1.2/"
+}

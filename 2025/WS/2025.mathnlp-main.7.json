@@ -1,0 +1,19 @@
+{
+  "title": "RoMath: A Mathematical Reasoning Benchmark in Romanian",
+  "authors": [
+    "Adrian Cosma",
+    "Ana-Maria Bucur",
+    "Emilian Radoi"
+  ],
+  "languages": [
+    "Romanian",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2025.mathnlp-main.7",
+  "acl_url": "https://aclanthology.org/2025.mathnlp-main.7/"
+}

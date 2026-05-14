@@ -1,0 +1,21 @@
+{
+  "title": "Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations",
+  "authors": [
+    "Aarne Talman",
+    "Antti Suni",
+    "Hande Celikkanat",
+    "Sofoklis Kakouros",
+    "Jörg Tiedemann",
+    "Martti Vainio"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W19-6129",
+  "acl_url": "https://aclanthology.org/W19-6129/"
+}

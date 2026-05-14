@@ -1,0 +1,20 @@
+{
+  "title": "Analysing Translation Artifacts: A Comparative Study of LLMs, NMTs, and Human Translations",
+  "authors": [
+    "Fedor Sizov",
+    "Cristina España-Bonet",
+    "Josef van Genabith",
+    "Roy Xie",
+    "Koel Dutta Chowdhury"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.wmt-1.116",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.116/"
+}

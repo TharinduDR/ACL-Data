@@ -1,0 +1,20 @@
+{
+  "title": "Simultaneous Translation with Offline Speech and LLM Models in CUNI",
+  "authors": [
+    "Dominik Macháček",
+    "Peter Polák"
+  ],
+  "languages": [
+    "Czech",
+    "English",
+    "German",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T16",
+    "T24"
+  ],
+  "paper_id": "2025.iwslt-1.41",
+  "acl_url": "https://aclanthology.org/2025.iwslt-1.41/"
+}

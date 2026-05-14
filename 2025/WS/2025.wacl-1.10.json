@@ -1,0 +1,19 @@
+{
+  "title": "Dialect2SQL: A Novel Text-to-SQL Dataset for Arabic Dialects with a Focus on Moroccan Darija",
+  "authors": [
+    "Salmane Chafik",
+    "Saad Ezzini",
+    "Ismail Berrada"
+  ],
+  "languages": [
+    "English",
+    "Moroccan Darija"
+  ],
+  "research_areas": [
+    "T02",
+    "T16",
+    "T27"
+  ],
+  "paper_id": "2025.wacl-1.10",
+  "acl_url": "https://aclanthology.org/2025.wacl-1.10/"
+}

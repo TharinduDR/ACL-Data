@@ -1,0 +1,21 @@
+{
+  "title": "LTRC_IITH's 2023 Submission for Prompting Large Language Models as Explainable Metrics Task",
+  "authors": [
+    "Pavan Baswani",
+    "Ananya Mukherjee",
+    "Manish Shrivastava"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.eval4nlp-1.13",
+  "acl_url": "https://aclanthology.org/2023.eval4nlp-1.13/"
+}

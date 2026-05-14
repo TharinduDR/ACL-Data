@@ -1,0 +1,22 @@
+{
+  "title": "Retrieval-based Evaluation for LLMs: A Case Study in Korean Legal QA",
+  "authors": [
+    "Cheol Ryu",
+    "Seolhwa Lee",
+    "Subeen Pang",
+    "Chanyel Choi",
+    "Hojun Choi",
+    "Myeonggee Min",
+    "Jy-yong Sohn"
+  ],
+  "languages": [
+    "Korean"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2023.nllp-1.13",
+  "acl_url": "https://aclanthology.org/2023.nllp-1.13/"
+}

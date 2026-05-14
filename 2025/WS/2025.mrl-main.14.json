@@ -1,0 +1,37 @@
+{
+  "title": "How Can We Relate Language Modeling to Morphology?",
+  "authors": [
+    "Wessel Poelman",
+    "Thomas Bauwens",
+    "Miryam de Lhoneux"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Dutch",
+    "Portuguese",
+    "Spanish",
+    "Danish",
+    "Bulgarian",
+    "Swedish",
+    "Greek",
+    "Romanian",
+    "German",
+    "Italian",
+    "Latvian",
+    "Czech",
+    "Polish",
+    "Slovak",
+    "Slovenian",
+    "Lithuanian",
+    "Finnish",
+    "Hungarian",
+    "Estonian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.mrl-main.14",
+  "acl_url": "https://aclanthology.org/2025.mrl-main.14/"
+}

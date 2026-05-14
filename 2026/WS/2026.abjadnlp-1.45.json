@@ -1,0 +1,22 @@
+{
+  "title": "AraLingBench: A Human-Annotated Benchmark for Evaluating Arabic Linguistic Capabilities of Large Language Models",
+  "authors": [
+    "Mohamad Zbib",
+    "Hasan Abed Al Kader Hammoud",
+    "Sina Mukalled",
+    "Nadine Rizk",
+    "Fatima Karnib",
+    "Issam Lakkis",
+    "Ammar Mohanna",
+    "Bernard Ghanem"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2026.abjadnlp-1.45",
+  "acl_url": "https://aclanthology.org/2026.abjadnlp-1.45/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "NLPColab at FigNews 2024 Shared Task: Challenges in Bias and Propaganda Annotation for News Media",
+  "authors": [
+    "Sadaf Abdul Rauf",
+    "Huda Sarfraz",
+    "Saadia Ishtiaq Nauman",
+    "Arooj Fatima",
+    "Sadaf Ziafat",
+    "Momina Ishfaq",
+    "Alishba Abdul Suboor",
+    "Hammad Afzal",
+    "Seemab Latif"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Hebrew",
+    "French",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2024.arabicnlp-1.61",
+  "acl_url": "https://aclanthology.org/2024.arabicnlp-1.61/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Scaling Behavior of Machine Translation with Large Language Models under Prompt Injection Attacks",
+  "authors": [
+    "Zhifan Sun",
+    "Antonio Valerio Miceli-Barone"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Romanian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.scalellm-1.2",
+  "acl_url": "https://aclanthology.org/2024.scalellm-1.2/"
+}

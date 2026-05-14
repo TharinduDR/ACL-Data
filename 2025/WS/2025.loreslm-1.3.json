@@ -1,0 +1,20 @@
+{
+  "title": "Empowering Persian LLMs for Instruction Following: A Novel Dataset and Training Approach",
+  "authors": [
+    "Hojjat Mokhtarabadi",
+    "Ziba Zamani",
+    "Abbas Maazallahi",
+    "Mohammad Hossein Manshahi"
+  ],
+  "languages": [
+    "Persian",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.loreslm-1.3",
+  "acl_url": "https://aclanthology.org/2025.loreslm-1.3/"
+}

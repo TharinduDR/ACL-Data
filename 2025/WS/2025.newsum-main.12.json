@@ -1,0 +1,19 @@
+{
+  "title": "AdvSumm: Adversarial Training for Bias Mitigation in Text Summarization",
+  "authors": [
+    "Mukur Gupta",
+    "Nikhil Reddy Varimalla",
+    "Nicholas Deas",
+    "Melanie Subbiah",
+    "Kathleen McKeown"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.newsum-main.12",
+  "acl_url": "https://aclanthology.org/2025.newsum-main.12/"
+}

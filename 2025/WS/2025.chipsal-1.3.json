@@ -1,0 +1,23 @@
+{
+  "title": "Benchmarking the Performance of Pre-trained LLMs across Urdu NLP Tasks",
+  "authors": [
+    "Munief Hassan Tahir",
+    "Sana Shams",
+    "Layba Fiaz",
+    "Farah Adeeba",
+    "Sarmad Hussain"
+  ],
+  "languages": [
+    "Urdu",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.chipsal-1.3",
+  "acl_url": "https://aclanthology.org/2025.chipsal-1.3/"
+}

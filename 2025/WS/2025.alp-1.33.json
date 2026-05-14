@@ -1,0 +1,20 @@
+{
+  "title": "EvaCun 2025 Shared Task: Lemmatization and Token Prediction in Akkadian and Sumerian using LLMs",
+  "authors": [
+    "Shai Gordin",
+    "Aleksi Sahala",
+    "Shahar Spencer",
+    "Stav Klein"
+  ],
+  "languages": [
+    "Akkadian",
+    "Sumerian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.alp-1.33",
+  "acl_url": "https://aclanthology.org/2025.alp-1.33/"
+}

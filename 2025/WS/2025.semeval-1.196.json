@@ -1,0 +1,23 @@
+{
+  "title": "Tewodros at SemEval-2025 Task 11: Multilingual Emotion Intensity Detection using Small Language Models",
+  "authors": [
+    "Mikiyas Mebiratu",
+    "Wendmnew Sitot Abebaw",
+    "Nida Hafeez",
+    "Fatima Uroosa",
+    "Tewodros Achamaleh",
+    "Grigori Sidorov",
+    "Alexander Gelbukh"
+  ],
+  "languages": [
+    "Amharic",
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.semeval-1.196",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.196/"
+}

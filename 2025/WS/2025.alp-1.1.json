@@ -1,0 +1,21 @@
+{
+  "title": "Automatic Text Segmentation of Ancient and Historic Hebrew",
+  "authors": [
+    "Elisha Rosensweig",
+    "Benjamin Resnick",
+    "Hillel Gershuni",
+    "Joshua Guedalia",
+    "Nachum Dershowitz",
+    "Avi Shmidman"
+  ],
+  "languages": [
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.alp-1.1",
+  "acl_url": "https://aclanthology.org/2025.alp-1.1/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Cross-Lingual Stability of LLM Judges Under Controlled Generation: Evidence from Finno-Ugric Languages",
+  "authors": [
+    "Isaac Chung",
+    "Linda Freienthal"
+  ],
+  "languages": [
+    "Estonian",
+    "Finnish",
+    "Hungarian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2026.mme-main.8",
+  "acl_url": "https://aclanthology.org/2026.mme-main.8/"
+}

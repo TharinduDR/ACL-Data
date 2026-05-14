@@ -1,0 +1,22 @@
+{
+  "title": "CoPara: The First Dravidian Paragraph-level n-way Aligned Corpus",
+  "authors": [
+    "Nikhil E",
+    "Mukund Choudhary",
+    "Radhika Mamidi"
+  ],
+  "languages": [
+    "English",
+    "Kannada",
+    "Malayalam",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.dravidianlangtech-1.12",
+  "acl_url": "https://aclanthology.org/2023.dravidianlangtech-1.12/"
+}

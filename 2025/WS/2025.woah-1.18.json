@@ -1,0 +1,21 @@
+{
+  "title": "Exploring Hate Speech Detection Models for Lithuanian Language",
+  "authors": [
+    "Justina Mandravickaitė",
+    "Eglė Rimkienė",
+    "Mindaugas Petkevičius",
+    "Milita Songailaitė",
+    "Eimantas Zaranka",
+    "Tomas Krilavičius"
+  ],
+  "languages": [
+    "Lithuanian"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.woah-1.18",
+  "acl_url": "https://aclanthology.org/2025.woah-1.18/"
+}

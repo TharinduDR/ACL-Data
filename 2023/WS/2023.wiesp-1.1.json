@@ -1,0 +1,18 @@
+{
+  "title": "Investigating the Impact of Syntax-Enriched Transformers on Quantity Extraction in Scientific Texts",
+  "authors": [
+    "Necva Bölücü",
+    "Maciej Rybinski",
+    "Stephen Wan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.wiesp-1.1",
+  "acl_url": "https://aclanthology.org/2023.wiesp-1.1/"
+}

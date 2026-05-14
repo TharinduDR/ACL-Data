@@ -1,0 +1,19 @@
+{
+  "title": "Image Caption Synthesis for Low Resource Assamese Language using Bi-LSTM with Bilinear Attention",
+  "authors": [
+    "Pankaj Choudhury",
+    "Prithwijit Guha",
+    "Sukumar Nandi"
+  ],
+  "languages": [
+    "Assamese",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.paclic-1.74",
+  "acl_url": "https://aclanthology.org/2023.paclic-1.74/"
+}

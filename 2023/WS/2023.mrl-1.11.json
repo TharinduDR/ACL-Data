@@ -1,0 +1,23 @@
+{
+  "title": "Improving Cross-Lingual Transfer for Open Information Extraction with Linguistic Feature Projection",
+  "authors": [
+    "Youmi Ma",
+    "Bhushan Kotnis",
+    "Carolin Lawrence",
+    "Goran Glavaš",
+    "Naoaki Okazaki"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Arabic",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.mrl-1.11",
+  "acl_url": "https://aclanthology.org/2023.mrl-1.11/"
+}

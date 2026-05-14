@@ -1,0 +1,22 @@
+{
+  "title": "Discourse Relation Recognition by Comparing Various Units of Sentence Expression with Recursive Neural Network",
+  "authors": [
+    "Atsushi Otsuka",
+    "Toru Hirano",
+    "Chiaki Miyazaki",
+    "Ryo Masumura",
+    "Ryuichiro Higashinaka",
+    "Toshiro Makino",
+    "Yoshihiro Matsuo"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T05 Discourse and Pragmatics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "Y15-1008",
+  "acl_url": "https://aclanthology.org/Y15-1008/"
+}

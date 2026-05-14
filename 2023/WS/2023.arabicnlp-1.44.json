@@ -1,0 +1,23 @@
+{
+  "title": "ArAI Eval Shared Task: Persuasion Techniques and Disinformation Detection in Arabic Text",
+  "authors": [
+    "Maram Hasanain",
+    "Firoj Alam",
+    "Hamdy Mubarak",
+    "Samir Abdaljalil",
+    "Wajdi Zaghouani",
+    "Preslav Nakov",
+    "Giovanni Da San Martino",
+    "Abed Alhakim Freihat"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.arabicnlp-1.44",
+  "acl_url": "https://aclanthology.org/2023.arabicnlp-1.44/"
+}

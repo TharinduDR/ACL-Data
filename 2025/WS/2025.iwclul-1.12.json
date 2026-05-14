@@ -1,0 +1,29 @@
+{
+  "title": "Benchmarking Large Language Models for Lemmatization and Translation of Finnic Runosongs",
+  "authors": [
+    "Lidia Pivovarova",
+    "Kati Kallio",
+    "Antti Kanner",
+    "Jakob Lindström",
+    "Eetu Mäkelä",
+    "Liina Saarlo",
+    "Kaarel Vesikis",
+    "Mari Väina"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Estonian",
+    "Karelian",
+    "Ingrian",
+    "Votic",
+    "Ludic"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.iwclul-1.12",
+  "acl_url": "https://aclanthology.org/2025.iwclul-1.12/"
+}

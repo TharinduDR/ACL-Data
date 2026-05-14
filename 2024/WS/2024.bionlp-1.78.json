@@ -1,0 +1,17 @@
+{
+  "title": "HGP-NLP at BioLaySumm: Leveraging LoRA for Lay Summarization of Biomedical Research Articles using Seq2Seq Transformers",
+  "authors": [
+    "Hemang Malik",
+    "Gaurav Pradeep",
+    "Pratinav Seth"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.bionlp-1.78",
+  "acl_url": "https://aclanthology.org/2024.bionlp-1.78/"
+}

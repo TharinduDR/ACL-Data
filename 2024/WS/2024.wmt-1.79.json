@@ -1,0 +1,20 @@
+{
+  "title": "Multimodal Machine Translation for Low-Resource Indic Languages: A Chain-of-Thought Approach Using Large Language Models",
+  "authors": [
+    "Pawan Kumar Rajpoot",
+    "Nagraj N Bhat",
+    "Ashish Shrivastava"
+  ],
+  "languages": [
+    "Hindi",
+    "Bengali",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T16",
+    "T17",
+    "T09"
+  ],
+  "paper_id": "2024.wmt-1.79",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.79/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "No One-Size-Fits-All: Building Systems For Translation to Bashkir, Kazakh, Kyrgyz, Tatar and Chuvash Using Synthetic And Original Data",
+  "authors": [
+    "Dmitry Karpov"
+  ],
+  "languages": [
+    "Bashkir",
+    "Kazakh",
+    "Kyrgyz",
+    "Tatar",
+    "Chuvash"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.loresmt-1.17",
+  "acl_url": "https://aclanthology.org/2026.loresmt-1.17/"
+}

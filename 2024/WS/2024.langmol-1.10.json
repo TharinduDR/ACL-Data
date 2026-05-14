@@ -1,0 +1,23 @@
+{
+  "title": "NLPeople at L+M-24 Shared Task: An Ensembled Approach for Molecule Captioning from SMILES",
+  "authors": [
+    "Shinnosuke Tanaka",
+    "Carol Mak",
+    "Flaviu Cipcigan",
+    "James Barry",
+    "Mohab Elkaref",
+    "Movina Moses",
+    "Vishnudev Kuruvanthodi",
+    "Geeth De Mel"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2024.langmol-1.10",
+  "acl_url": "https://aclanthology.org/2024.langmol-1.10/"
+}

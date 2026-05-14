@@ -1,0 +1,30 @@
+{
+  "title": "CAIDAS at SemEval-2025 Task 7: Enriching Sparse Datasets with LLM-Generated Content for Improved Information Retrieval",
+  "authors": [
+    "Dominik Benchert",
+    "Severin Meßlinger",
+    "Sven Goller",
+    "Jonas Kaiser",
+    "Jan Pfister",
+    "Andreas Hotho"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "French",
+    "German",
+    "Malay",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Thai",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.semeval-1.214",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.214/"
+}

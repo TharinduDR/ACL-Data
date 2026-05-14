@@ -1,0 +1,19 @@
+{
+  "title": "Finetuning Pre-trained Language Models for Bidirectional Sign Language Gloss to Text Translation",
+  "authors": [
+    "Arshia Kermani",
+    "Habib Irani",
+    "Vangelis Metsis"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2025.wslp-main.11",
+  "acl_url": "https://aclanthology.org/2025.wslp-main.11/"
+}

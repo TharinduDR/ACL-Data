@@ -1,0 +1,20 @@
+{
+  "title": "AHJL at Qur'an QA 2023 Shared Task: Enhancing Passage Retrieval using Sentence Transformer and Translation",
+  "authors": [
+    "Hessa A. Alawwad",
+    "Lujain A. Alawwad",
+    "Jamilah Alharbi",
+    "Abdullah I. Alharbi"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.arabicnlp-1.77",
+  "acl_url": "https://aclanthology.org/2023.arabicnlp-1.77/"
+}

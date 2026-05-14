@@ -1,0 +1,23 @@
+{
+  "title": "Automatic Manipulation of Training Corpora to Make Parsers Accept Real-world Text",
+  "authors": [
+    "Hiroshi Kanayama",
+    "Ran Iwamoto",
+    "Masayasu Muraoka",
+    "Takuya Ohko",
+    "Kohtaroh Miyamoto"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.mwe-1.3",
+  "acl_url": "https://aclanthology.org/2024.mwe-1.3/"
+}

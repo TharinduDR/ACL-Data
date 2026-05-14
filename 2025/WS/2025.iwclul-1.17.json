@@ -1,0 +1,22 @@
+{
+  "title": "Evaluating OpenAI GPT Models for Translation of Endangered Uralic Languages: A Comparison of Reasoning and Non-Reasoning Architectures",
+  "authors": [
+    "Yehor Tereshchenko",
+    "Mika Hämäläinen",
+    "Svitlana Myroniuk"
+  ],
+  "languages": [
+    "Finnish",
+    "Komi-Zyrian",
+    "Moksha",
+    "Erzya",
+    "Udmurt"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.iwclul-1.17",
+  "acl_url": "https://aclanthology.org/2025.iwclul-1.17/"
+}

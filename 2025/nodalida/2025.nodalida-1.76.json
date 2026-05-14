@@ -1,0 +1,19 @@
+{
+  "title": "SweClinEval: A Benchmark for Swedish Clinical Natural Language Processing",
+  "authors": [
+    "Thomas Vakili",
+    "Martin Hansson",
+    "Aron Henriksson"
+  ],
+  "languages": [
+    "Swedish",
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.nodalida-1.76",
+  "acl_url": "https://aclanthology.org/2025.nodalida-1.76/"
+}

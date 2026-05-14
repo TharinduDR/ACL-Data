@@ -1,0 +1,23 @@
+{
+  "title": "Towards Resource-Rich Mizo and Khasi in NLP: Resource Development, Synthetic Data Generation and Model Building",
+  "authors": [
+    "Soumyadip Ghosh",
+    "Henry Lalsiam",
+    "Dorothy Marbaniang",
+    "Gracious Mary Temsen",
+    "Rahul Mishra",
+    "Parameswari Krishnamurthy"
+  ],
+  "languages": [
+    "English",
+    "Mizo",
+    "Khasi"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.law-1.18",
+  "acl_url": "https://aclanthology.org/2025.law-1.18/"
+}

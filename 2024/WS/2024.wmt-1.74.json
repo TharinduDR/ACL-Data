@@ -1,0 +1,38 @@
+{
+  "title": "NLIP_Lab-IITH Multilingual MT System for WAT24 MT Shared Task",
+  "authors": [
+    "Maharaj Brahma",
+    "Pramit Sahoo",
+    "Maunendra Sankar Desarkar"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Bodo",
+    "Dogri",
+    "Konkani",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Kashmiri",
+    "Maithili",
+    "Malayalam",
+    "Manipuri",
+    "Marathi",
+    "Nepali",
+    "Odia",
+    "Punjabi",
+    "Sanskrit",
+    "Santali",
+    "Sindhi",
+    "Tamil",
+    "Telugu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.wmt-1.74",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.74/"
+}

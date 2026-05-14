@@ -1,0 +1,22 @@
+{
+  "title": "DUT_IR at SemEval-2025 Task 11: Enhancing Multi-Label Emotion Classification with an Ensemble of Pre-trained Language Models and Large Language Models",
+  "authors": [
+    "Chao Liu",
+    "Junliang Liu",
+    "Tengxiao Lv",
+    "Huayang Li",
+    "Tao Zeng",
+    "Ling Luo*",
+    "Yuanyuan Sun",
+    "Hongfei Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.semeval-1.17",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.17/"
+}

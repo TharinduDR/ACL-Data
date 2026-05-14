@@ -1,0 +1,28 @@
+{
+  "title": "End-to-End Relation Extraction of Pharmacokinetic Estimates from the Scientific Literature",
+  "authors": [
+    "Ferran Gonzalez Hernandez",
+    "Victoria C. Smith",
+    "Quang Nguyen",
+    "José Antonio Cordero",
+    "Maria Rosa Ballester",
+    "Màrius Duran",
+    "Albert Solé",
+    "Palang Chotsiri",
+    "Thanaporn Wattanakul",
+    "Gill Mundin",
+    "Watjana Lilaonitkul",
+    "Joseph F. Standing",
+    "Frank Kloprogge"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.bionlp-1.12",
+  "acl_url": "https://aclanthology.org/2024.bionlp-1.12/"
+}

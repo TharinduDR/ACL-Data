@@ -1,0 +1,39 @@
+{
+  "title": "Neuron-Level Language Tag Injection Improves Zero-Shot Translation Performance",
+  "authors": [
+    "Jay Orten",
+    "Ammon Shurtz",
+    "Nancy Fulda",
+    "Stephen D. Richardson"
+  ],
+  "languages": [
+    "Arabic",
+    "Bulgarian",
+    "Chinese",
+    "Czech",
+    "Dutch",
+    "French",
+    "German",
+    "Greek",
+    "Hungarian",
+    "Italian",
+    "Japanese",
+    "Persian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Slovak",
+    "Slovenian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.acl-srw.13",
+  "acl_url": "https://aclanthology.org/2025.acl-srw.13/"
+}

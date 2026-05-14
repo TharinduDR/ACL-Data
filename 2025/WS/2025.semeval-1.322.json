@@ -1,0 +1,46 @@
+{
+  "title": "SemEval-2025 Task 3: Mu-SHROOM, the Multilingual Shared Task on Hallucinations and Related Observable Overgeneration Mistakes",
+  "authors": [
+    "Raúl Vázquez",
+    "Timothee Mickus",
+    "Elaine Zosa",
+    "Teemu Vahtola",
+    "Jörg Tiedemann",
+    "Aman Sinha",
+    "Vincent Segonne",
+    "Fernando Sánchez-Vega",
+    "Alessandro Raganato",
+    "Jindřich Libovicky",
+    "Jussi Karlgren",
+    "Shaoxiong Ji",
+    "Jindřich Helcl",
+    "Liane Guillou",
+    "Ona de Gibert",
+    "Jaione Bengoetxea",
+    "Joseph Attieh",
+    "Marianna Apidianaki"
+  ],
+  "languages": [
+    "Arabic",
+    "Catalan",
+    "Czech",
+    "German",
+    "English",
+    "Spanish",
+    "Finnish",
+    "French",
+    "Italian",
+    "Swedish",
+    "Chinese",
+    "Persian",
+    "Basque",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.semeval-1.322",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.322/"
+}

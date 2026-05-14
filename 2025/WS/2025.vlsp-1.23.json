@@ -1,0 +1,25 @@
+{
+  "title": "Can Small Language Models Handle Vietnamese Legal Reasoning? Insights from Multi-Task Evaluation",
+  "authors": [
+    "Long S. T. Nguyen",
+    "Hung C. Luu",
+    "Quynh T. N. Vo",
+    "Hy N. G. La",
+    "Hoai M. Tran",
+    "Anh T. D. Dinh",
+    "Tuan H. Nguyen",
+    "Tri N. Ho",
+    "Tho T. Quan"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.vlsp-1.23",
+  "acl_url": "https://aclanthology.org/2025.vlsp-1.23/"
+}

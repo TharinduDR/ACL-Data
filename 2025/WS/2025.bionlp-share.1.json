@@ -1,0 +1,22 @@
+{
+  "title": "ArgHiTZ at ArchEHR-QA 2025: A Two-Step Divide and Conquer Approach to Patient Question Answering for Top Factuality",
+  "authors": [
+    "Adrián Cuadrón",
+    "Aimar Sagasti",
+    "Maitane Urruela",
+    "Iker De la Iglesia",
+    "Ane G Domingo-Aldama",
+    "Aitziber Atutxa",
+    "Josu Goikoetxea",
+    "Ander Barrena"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.bionlp-share.1",
+  "acl_url": "https://aclanthology.org/2025.bionlp-share.1/"
+}

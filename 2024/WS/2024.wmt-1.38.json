@@ -1,0 +1,23 @@
+{
+  "title": "TMU-HIT's Submission for the WMT24 Quality Estimation Shared Task: Is GPT-4 a Good Evaluator for Machine Translation?",
+  "authors": [
+    "Ayako Sato",
+    "Kyotaro Nakajima",
+    "Hwichan Kim",
+    "Zhouxi Chen",
+    "Mamoru Komachi"
+  ],
+  "languages": [
+    "English",
+    "Gujarati",
+    "Hindi",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.38",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.38/"
+}

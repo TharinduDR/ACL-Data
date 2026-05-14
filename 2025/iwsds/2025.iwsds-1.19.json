@@ -1,0 +1,28 @@
+{
+  "title": "A Multilingual Speech-Based Driver Assistant for Basque and English",
+  "authors": [
+    "Antonio Aparicio Akcharov",
+    "Asier López Zorrilla",
+    "Juan Camilo Vasquez-Correa",
+    "Oscar Montserrat",
+    "Jose María Echevarría",
+    "Begoña Arrate",
+    "Joxean Zapirain",
+    "Mikel deVelasco",
+    "Santiago Andrés Moreno-Acevedo",
+    "Ander González-Docasal",
+    "M. Inés Torres",
+    "Aitor Álvarez"
+  ],
+  "languages": [
+    "English",
+    "Basque"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.iwsds-1.19",
+  "acl_url": "https://aclanthology.org/2025.iwsds-1.19/"
+}

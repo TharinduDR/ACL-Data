@@ -1,0 +1,20 @@
+{
+  "title": "Summarization-Based Document IDs for Generative Retrieval with Language Models",
+  "authors": [
+    "Alan Li",
+    "Daniel Cheng",
+    "Phillip Keung",
+    "Jungo Kasai",
+    "Noah A. Smith"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.wikinlp-1.18",
+  "acl_url": "https://aclanthology.org/2024.wikinlp-1.18/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Can Rule-Based Insights Enhance LLMs for Radiology Report Classification? Introducing the RadPrompt Methodology.",
+  "authors": [
+    "Panagiotis Fytas",
+    "Anna Breger",
+    "Ian Selby",
+    "Simon Baker",
+    "Shahab Shahipasand",
+    "Anna Korhonen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.bionlp-1.17",
+  "acl_url": "https://aclanthology.org/2024.bionlp-1.17/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "GAVEL: Generative Attribute-Value Extraction Using LLMs on LLM-Augmented Datasets",
+  "authors": [
+    "Pollawat Hongwimol",
+    "Dong Sheng",
+    "Zhang Li",
+    "Kai Liu",
+    "Xiufei Wang"
+  ],
+  "languages": [
+    "English",
+    "Thai",
+    "Vietnamese",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.knowledgenlp-1.6",
+  "acl_url": "https://aclanthology.org/2025.knowledgenlp-1.6/"
+}

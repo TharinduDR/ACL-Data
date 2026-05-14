@@ -1,0 +1,26 @@
+{
+  "title": "Multilingual Fact-Checking using LLMs",
+  "authors": [
+    "Aryan Singhal",
+    "Thomas Law",
+    "Coby Kassner",
+    "Ayushman Gupta",
+    "Evan Duan",
+    "Aviral Damle",
+    "Ryan Luo Li"
+  ],
+  "languages": [
+    "Spanish",
+    "Portuguese",
+    "Italian",
+    "Turkish",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.nlp4pi-1.2",
+  "acl_url": "https://aclanthology.org/2024.nlp4pi-1.2/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Overview of the MEDIQA-OE 2025 Shared Task on Medical Order Extraction from Doctor-Patient Consultations",
+  "authors": [
+    "Jean-Philippe Corbeil",
+    "Asma Ben Abacha",
+    "Jérôme Tremblay",
+    "Phillip Swazinna",
+    "Akila Jeeson Daniel",
+    "Miguel Del-Agua",
+    "François Beaulieu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.clinicalnlp-1.2",
+  "acl_url": "https://aclanthology.org/2025.clinicalnlp-1.2/"
+}

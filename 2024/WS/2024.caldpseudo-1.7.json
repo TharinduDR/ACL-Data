@@ -1,0 +1,20 @@
+{
+  "title": "Detecting Personal Identifiable Information in Swedish Learner Essays",
+  "authors": [
+    "Maria Irena Szawerna",
+    "Simon Dobnik",
+    "Ricardo Muñoz Sánchez",
+    "Therese Lindström Tiedemann",
+    "Elena Volodina"
+  ],
+  "languages": [
+    "Swedish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2024.caldpseudo-1.7",
+  "acl_url": "https://aclanthology.org/2024.caldpseudo-1.7/"
+}

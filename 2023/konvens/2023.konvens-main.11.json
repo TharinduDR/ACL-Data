@@ -1,0 +1,19 @@
+{
+  "title": "Automatic Dictionary Generation: Could Brothers Grimm Create a Dictionary with BERT?",
+  "authors": [
+    "Hendryk T. Weiland",
+    "Maike Behrendt",
+    "Stefan Harmeling"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.konvens-main.11",
+  "acl_url": "https://aclanthology.org/2023.konvens-main.11/"
+}

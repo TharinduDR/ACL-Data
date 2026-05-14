@@ -1,0 +1,23 @@
+{
+  "title": "FunghiFunghi at SemEval-2025 Task 3: Mu-SHROOM, the Multilingual Shared-task on Hallucinations and Related Observable Overgeneration Mistakes",
+  "authors": [
+    "Tariq Ballout",
+    "Pieter Jansma",
+    "Nander Koops",
+    "Yong Hui Zhou"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian",
+    "French",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.semeval-1.211",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.211/"
+}

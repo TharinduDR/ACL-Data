@@ -1,0 +1,20 @@
+{
+  "title": "Zero at SemEval-2025 Task 11: Multilingual Emotion Classification with BERT Variants: A Comparative Study",
+  "authors": [
+    "Revanth Gundam",
+    "Abhinav Marri",
+    "Radhika Mamidi"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Russian",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.semeval-1.156",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.156/"
+}

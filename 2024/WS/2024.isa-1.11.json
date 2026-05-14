@@ -1,0 +1,19 @@
+{
+  "title": "Less is Enough: Less-Resourced Multilingual AMR Parsing",
+  "authors": [
+    "Bram Vanroy",
+    "Tim Van de Cruys"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.isa-1.11",
+  "acl_url": "https://aclanthology.org/2024.isa-1.11/"
+}

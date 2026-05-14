@@ -1,0 +1,26 @@
+{
+  "title": "Findings of the BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora",
+  "authors": [
+    "Alex Warstadt",
+    "Aaron Mueller",
+    "Leshem Choshen",
+    "Ethan Wilcox",
+    "Chengxu Zhuang",
+    "Juan Ciro",
+    "Rafael Mosquera",
+    "Bhargavi Paranjape",
+    "Adina Williams",
+    "Tal Linzen",
+    "Ryan Cotterell"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.conll-babylm.1",
+  "acl_url": "https://aclanthology.org/2023.conll-babylm.1/"
+}

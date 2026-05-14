@@ -1,0 +1,27 @@
+{
+  "title": "Overview of Shared-task on Abusive Comment Detection in Tamil and Telugu",
+  "authors": [
+    "Ruba Priyadharshini",
+    "Bharathi Raja Chakravarthi",
+    "Malliga Subramanian",
+    "Subalalitha Chinnaudayar Navaneethakrishnan",
+    "Kogilavani Shanmugavadivel",
+    "Premjith B",
+    "Abirami Murugappan",
+    "Prasanna Kumar Kumaresan",
+    "Karnati Sai Prashanth",
+    "Mangamuru Sai Rishith Reddy",
+    "Janakiram Chandu"
+  ],
+  "languages": [
+    "Tamil",
+    "Telugu",
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.dravidianlangtech-1.11",
+  "acl_url": "https://aclanthology.org/2023.dravidianlangtech-1.11/"
+}

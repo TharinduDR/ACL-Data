@@ -1,0 +1,20 @@
+{
+  "title": "Word Boundary Information Isn't Useful for Encoder Language Models",
+  "authors": [
+    "Edward Gow-Smith",
+    "Dylan Phelps",
+    "Harish Tayyar Madabushi",
+    "Carolina Scarton",
+    "Aline Villavicencio"
+  ],
+  "languages": [
+    "English",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.repl4nlp-1.10",
+  "acl_url": "https://aclanthology.org/2024.repl4nlp-1.10/"
+}

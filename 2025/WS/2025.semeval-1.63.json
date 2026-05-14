@@ -1,0 +1,29 @@
+{
+  "title": "ClaimCatchers at SemEval-2025 Task 7: Sentence Transformers for Claim Retrieval",
+  "authors": [
+    "Rrubaa Panchendrarajan",
+    "Rafael Martins Frade",
+    "Arkaitz Zubiaga"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bengali",
+    "Hindi",
+    "Malayalam",
+    "Tamil",
+    "Thai",
+    "Malay",
+    "French",
+    "Spanish",
+    "Arabic",
+    "German"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.semeval-1.63",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.63/"
+}

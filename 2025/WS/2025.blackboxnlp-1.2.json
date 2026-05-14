@@ -1,0 +1,24 @@
+{
+  "title": "Char-mander Use mBackdoor! A Study of Cross-lingual Backdoor Attacks in Multilingual LLMs",
+  "authors": [
+    "Himanshu Beniwal",
+    "Sailesh Panda",
+    "Birudugadda Srivibhav",
+    "Mayank Singh"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Portuguese",
+    "Italian",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.blackboxnlp-1.2",
+  "acl_url": "https://aclanthology.org/2025.blackboxnlp-1.2/"
+}

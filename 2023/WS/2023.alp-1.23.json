@@ -1,0 +1,20 @@
+{
+  "title": "BabyLemmatizer 2.0 – A Neural Pipeline for POS-tagging and Lemmatizing Cuneiform Languages",
+  "authors": [
+    "A. J. Aleksi Sahala",
+    "Krister Lindén"
+  ],
+  "languages": [
+    "Akkadian",
+    "Sumerian",
+    "Urartian",
+    "Ancient Greek",
+    "Latin"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.alp-1.23",
+  "acl_url": "https://aclanthology.org/2023.alp-1.23/"
+}

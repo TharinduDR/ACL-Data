@@ -1,0 +1,23 @@
+{
+  "title": "Domain Meets Typology: Predicting Verb-Final Order from Universal Dependencies for Financial and Blockchain NLP",
+  "authors": [
+    "Zichao Li",
+    "Zong Ke"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Japanese",
+    "Hindi",
+    "Chinese",
+    "Irish",
+    "Classical Arabic"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T25 Legal NLP",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.sigtyp-1.15",
+  "acl_url": "https://aclanthology.org/2025.sigtyp-1.15/"
+}

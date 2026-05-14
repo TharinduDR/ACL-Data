@@ -1,0 +1,20 @@
+{
+  "title": "Can GPT-4 Detect Euphemisms across Multiple Languages?",
+  "authors": [
+    "Todd Firsch",
+    "Anthony Rios"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "Spanish",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.figlang-1.9",
+  "acl_url": "https://aclanthology.org/2024.figlang-1.9/"
+}

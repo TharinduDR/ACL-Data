@@ -1,0 +1,16 @@
+{
+  "title": "HTU at SemEval-2025 Task 11: Divide and Conquer - Multi-Label emotion classification using 6 DziriBERTs submodels with Label-fused Iterative Mask Filling technique for low-resource data augmentation.",
+  "authors": [
+    "Abdallah Saleh",
+    "Mariam Biltawi"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14",
+    "T20"
+  ],
+  "paper_id": "2025.semeval-1.94",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.94/"
+}

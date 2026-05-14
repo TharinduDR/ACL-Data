@@ -1,0 +1,22 @@
+{
+  "title": "A low resource framework for Multi-lingual ESG Impact Type Identification",
+  "authors": [
+    "N Harsha Vardhan",
+    "Sohom Ghosh",
+    "Ponnurangam Kumaraguru",
+    "Sudip Kumar Naskar"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2023.finnlp-2.8",
+  "acl_url": "https://aclanthology.org/2023.finnlp-2.8/"
+}

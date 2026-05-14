@@ -1,0 +1,28 @@
+{
+  "title": "From Languages to Geographies: Towards Evaluating Cultural Bias in Hate Speech Datasets",
+  "authors": [
+    "Manuel Tonneau",
+    "Diyi Liu",
+    "Samuel Fraiberger",
+    "Ralph Schroeder",
+    "Scott A. Hale",
+    "Paul Röttger"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Spanish",
+    "German",
+    "Turkish",
+    "French",
+    "Portuguese",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2024.woah-1.23",
+  "acl_url": "https://aclanthology.org/2024.woah-1.23/"
+}

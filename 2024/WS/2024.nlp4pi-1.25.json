@@ -1,0 +1,23 @@
+{
+  "title": "Crafting Tomorrow's Headlines: Neural News Generation and Detection in English, Turkish, Hungarian, and Persian",
+  "authors": [
+    "Cem Üyük",
+    "Danica Rovó",
+    "Shaghayegh Kolli",
+    "Rabia Varol",
+    "Georg Groh",
+    "Daryna Dementieva"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Hungarian",
+    "Persian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.nlp4pi-1.25",
+  "acl_url": "https://aclanthology.org/2024.nlp4pi-1.25/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "LibVulnWatch: A Deep Assessment Agent System and Leaderboard for Uncovering Hidden Vulnerabilities in Open-Source AI Libraries",
+  "authors": [
+    "Zekun Wu",
+    "Seonglae Cho",
+    "Umar Mohammed",
+    "Cristian Munoz",
+    "Kleyton Costa",
+    "Xin Guan",
+    "Theo King",
+    "Ze Wang",
+    "Emre Kazim",
+    "Adriano Koshiyama"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.acl-srw.40",
+  "acl_url": "https://aclanthology.org/2025.acl-srw.40/"
+}

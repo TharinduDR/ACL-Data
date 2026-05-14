@@ -1,0 +1,20 @@
+{
+  "title": "Dependency Annotation of Ottoman Turkish with Multilingual BERT",
+  "authors": [
+    "Şaziye Betül Özates",
+    "Tarık Emre Tıraş",
+    "Efe Eren Genç",
+    "Esma F. Bilgin Taşdemir"
+  ],
+  "languages": [
+    "Ottoman Turkish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.law-1.18",
+  "acl_url": "https://aclanthology.org/2024.law-1.18/"
+}

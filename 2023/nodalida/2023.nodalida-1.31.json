@@ -1,0 +1,18 @@
+{
+  "title": "MeDa-BERT: A medical Danish pretrained transformer model",
+  "authors": [
+    "Jannik Skyttegaard Pedersen",
+    "Martin Sundahl Laursen",
+    "Pernille Just Vinholt",
+    "Thiusius Rajeeth Savarimuthu"
+  ],
+  "languages": [
+    "Danish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2023.nodalida-1.31",
+  "acl_url": "https://aclanthology.org/2023.nodalida-1.31/"
+}

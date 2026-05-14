@@ -1,0 +1,22 @@
+{
+  "title": "The power of Prompts: Evaluating and Mitigating Gender Bias in MT with LLMs",
+  "authors": [
+    "Aleix Sant",
+    "Carlos Escolano",
+    "Audrey Mash",
+    "Francesca De Luca Fornaciari",
+    "Maite Melero"
+  ],
+  "languages": [
+    "English",
+    "Catalan",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.gebnlp-1.7",
+  "acl_url": "https://aclanthology.org/2024.gebnlp-1.7/"
+}

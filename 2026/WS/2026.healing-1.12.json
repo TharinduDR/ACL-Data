@@ -1,0 +1,21 @@
+{
+  "title": "Who Judges the Judge? Evaluating LLM-as-a-Judge for French Medical open-ended QA",
+  "authors": [
+    "Ikram Belmadani",
+    "Oumaima El Khettari",
+    "Pacôme Constant dit Beaufls",
+    "Richard Dufour",
+    "Benoit Favre"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.healing-1.12",
+  "acl_url": "https://aclanthology.org/2026.healing-1.12/"
+}

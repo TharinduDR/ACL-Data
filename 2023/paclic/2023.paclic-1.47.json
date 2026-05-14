@@ -1,0 +1,19 @@
+{
+  "title": "Enhanced Retrieve-Edit-Rerank Framework with kNN-MT",
+  "authors": [
+    "Xiaotian Wang",
+    "Takuya Tamura",
+    "Takehito Utsuro",
+    "Masaaki Nagata"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.paclic-1.47",
+  "acl_url": "https://aclanthology.org/2023.paclic-1.47/"
+}

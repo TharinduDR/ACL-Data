@@ -1,0 +1,25 @@
+{
+  "title": "Improving Reinforcement Learning Agent Training using Text-based Guidance: A Study using Commands in Dravidian Languages",
+  "authors": [
+    "Nikhil Chowdary Paleti",
+    "Sai Aravind Vadlapudi",
+    "Sai Aashish Menta",
+    "Sai Akhay Menta",
+    "Vishnu Vardhan Gorantla V N S L",
+    "Janakiram Chandu",
+    "Soman K P",
+    "Sachin Kumar S"
+  ],
+  "languages": [
+    "English",
+    "Telugu",
+    "Tamil",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.dravidianlangtech-1.5",
+  "acl_url": "https://aclanthology.org/2023.dravidianlangtech-1.5/"
+}

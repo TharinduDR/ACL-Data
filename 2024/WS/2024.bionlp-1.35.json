@@ -1,0 +1,23 @@
+{
+  "title": "XrayGPT: Chest Radiographs Summarization using Large Medical Vision-Language Models",
+  "authors": [
+    "Omkar Thawakar",
+    "Abdelrahman Shaker",
+    "Sahal Shaji Mullappilly",
+    "Hisham Cholakkal",
+    "Rao Muhammad Anwer",
+    "Salman Khan",
+    "Jorma Laaksonen",
+    "Fahad Shahbaz Khan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.bionlp-1.35",
+  "acl_url": "https://aclanthology.org/2024.bionlp-1.35/"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Exploring Multilingual Probing in Large Language Models: A Cross-Language Analysis",
+  "authors": [
+    "Daoyang Li",
+    "Haiyan Zhao",
+    "Qingcheng Zeng",
+    "Mengnan Du"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Chinese",
+    "Spanish",
+    "Russian",
+    "Indonesian",
+    "Hindi",
+    "Burmese",
+    "Hawaiian",
+    "Kannada",
+    "Tamil",
+    "Telugu",
+    "Kazakh",
+    "Turkmen",
+    "Oriya"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.xllm-1.7",
+  "acl_url": "https://aclanthology.org/2025.xllm-1.7/"
+}

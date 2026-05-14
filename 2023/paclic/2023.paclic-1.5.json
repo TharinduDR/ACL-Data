@@ -1,0 +1,35 @@
+{
+  "title": "UPOS-DEPREL Mismatches: Detecting Annotation Errors and Improving UD Guidelines based on Linguistic Knowledge",
+  "authors": [
+    "Tsy Yih",
+    "Zheyuan Dai"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Czech",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Hindi",
+    "Icelandic",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Thai",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2023.paclic-1.5",
+  "acl_url": "https://aclanthology.org/2023.paclic-1.5/"
+}

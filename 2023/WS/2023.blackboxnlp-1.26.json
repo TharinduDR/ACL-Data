@@ -1,0 +1,23 @@
+{
+  "title": "Memory Injections: Correcting Multi-Hop Reasoning Failures during Inference in Transformer-Based Language Models",
+  "authors": [
+    "Mansi Sakarvadia",
+    "Aswathy Ajith",
+    "Arham Khan",
+    "Daniel Grzenda",
+    "Nathaniel Hudson",
+    "André Bauer",
+    "Kyle Chard",
+    "Ian Foster"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.blackboxnlp-1.26",
+  "acl_url": "https://aclanthology.org/2023.blackboxnlp-1.26/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "A Weakly Supervised Dataset of Fine-Grained Emotions in Portuguese",
+  "authors": [
+    "Diogo Cortiz",
+    "Jefferson O. Silva",
+    "Newton Calegari",
+    "Ana Luísa Freitas",
+    "Ana Angélica Soares",
+    "Carolina Botelho",
+    "Gabriel Gaudencio Rêgo",
+    "Waldir Sampaio",
+    "Paulo Sergio Boggio"
+  ],
+  "languages": [
+    "Portuguese",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2021.stil-1.9",
+  "acl_url": "https://aclanthology.org/2021.stil-1.9/"
+}

@@ -1,0 +1,41 @@
+{
+  "title": "XCOMPS: A Multilingual Benchmark of Conceptual Minimal Pairs",
+  "authors": [
+    "Linyang He",
+    "Ercong Nie",
+    "Sukru Samet Dindar",
+    "Arsalan Firoozi",
+    "Van Nguyen",
+    "Corentin Puffay",
+    "Riki Shimizu",
+    "Haotian Ye",
+    "Jonathan Brennan",
+    "Helmut Schmid",
+    "Hinrich Schütze",
+    "Nima Mesgarani"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Vietnamese",
+    "Hungarian",
+    "Dutch",
+    "Catalan",
+    "French",
+    "German",
+    "Arabic",
+    "Persian",
+    "Russian",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.sigtyp-1.9",
+  "acl_url": "https://aclanthology.org/2025.sigtyp-1.9/"
+}

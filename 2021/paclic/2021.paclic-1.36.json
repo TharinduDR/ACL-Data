@@ -1,0 +1,18 @@
+{
+  "title": "Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-stage Span Labeling",
+  "authors": [
+    "Duc-Vu Nguyen",
+    "Linh-Bao Vo",
+    "Ngoc-Linh Tran",
+    "Kiet Van Nguyen",
+    "Ngan Luu-Thuy Nguyen"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.paclic-1.36",
+  "acl_url": "https://aclanthology.org/2021.paclic-1.36/"
+}

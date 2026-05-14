@@ -1,0 +1,27 @@
+{
+  "title": "Incorporating Hypernym Features for Improving Low-resource Neural Machine Translation",
+  "authors": [
+    "Abhisek Chakrabarty",
+    "Haiyue Song",
+    "Raj Dabre",
+    "Hideki Tanaka",
+    "Masao Utiyama"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Filipino",
+    "Hindi",
+    "Indonesian",
+    "Khmer",
+    "Malay",
+    "Myanmar",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16",
+    "T15"
+  ],
+  "paper_id": "2024.kemt-1.1",
+  "acl_url": "https://aclanthology.org/2024.kemt-1.1/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "A grammatical analyser for Tokelau",
+  "authors": [
+    "Trond Trosterud",
+    "Arnfinn Muruvik Vonen"
+  ],
+  "languages": [
+    "Tokelauan",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.cgmta-1.6",
+  "acl_url": "https://aclanthology.org/2025.cgmta-1.6/"
+}

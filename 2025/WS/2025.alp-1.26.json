@@ -1,0 +1,20 @@
+{
+  "title": "Lemmatization of Cuneiform Languages Using the ByT5 Model",
+  "authors": [
+    "Pengxiu Lu",
+    "Yonglong Huang",
+    "Jing Xu",
+    "Minxuan Feng",
+    "Chao Xu"
+  ],
+  "languages": [
+    "Akkadian",
+    "Sumerian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.alp-1.26",
+  "acl_url": "https://aclanthology.org/2025.alp-1.26/"
+}

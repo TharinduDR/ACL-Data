@@ -1,0 +1,34 @@
+{
+  "title": "Syntactic similarity of the sentences in a multi-lingual parallel corpus based on the Euclidean distance of their dependency trees",
+  "authors": [
+    "Masanori Oya"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Czech",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Thai",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2020.paclic-1.26",
+  "acl_url": "https://aclanthology.org/2020.paclic-1.26/"
+}

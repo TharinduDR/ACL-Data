@@ -1,0 +1,21 @@
+{
+  "title": "Cross-lingual Dependency Transfer: What Matters? Assessing the Impact of Pre- and Post-processing",
+  "authors": [
+    "Ophélie Lacroix",
+    "Guillaume Wisniewski",
+    "François Yvon"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W16-1203",
+  "acl_url": "https://aclanthology.org/W16-1203/"
+}

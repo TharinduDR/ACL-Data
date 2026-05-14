@@ -1,0 +1,39 @@
+{
+  "title": "Untangling the Influence of Typology, Data and Model Architecture on Ranking Transfer Languages for Cross-Lingual POS Tagging",
+  "authors": [
+    "Enora Rice",
+    "Ali Marashian",
+    "Hannah Haynie",
+    "Katharina von der Wense",
+    "Alexis Palmer"
+  ],
+  "languages": [
+    "Basque",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Finnish",
+    "Hindi",
+    "Hungarian",
+    "Indonesian",
+    "Galician",
+    "Italian",
+    "Korean",
+    "Latin",
+    "Latvian",
+    "Turkish",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Catalan",
+    "French",
+    "English",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.lm4uc-1.4",
+  "acl_url": "https://aclanthology.org/2025.lm4uc-1.4/"
+}

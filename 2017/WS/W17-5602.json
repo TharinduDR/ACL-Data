@@ -1,0 +1,26 @@
+{
+  "title": "MultiNews: A Web collection of an Aligned Multimodal and Multilingual Corpus",
+  "authors": [
+    "Haithem Affi",
+    "Pintu Lohar",
+    "Andy Way"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Arabic",
+    "German",
+    "Spanish",
+    "Italian",
+    "Turkish",
+    "Ukrainian",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "W17-5602",
+  "acl_url": "https://aclanthology.org/W17-5602/"
+}

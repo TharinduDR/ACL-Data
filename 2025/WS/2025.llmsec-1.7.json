@@ -1,0 +1,19 @@
+{
+  "title": "RealHarm: A Collection of Real-World Language Model Application Failures",
+  "authors": [
+    "Pierre Le Jeune",
+    "Jiaen Liu",
+    "Luca Rossi",
+    "Matteo Dora"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.llmsec-1.7",
+  "acl_url": "https://aclanthology.org/2025.llmsec-1.7/"
+}

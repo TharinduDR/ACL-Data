@@ -1,0 +1,16 @@
+{
+  "title": "Weakest Link in the Chain: Security Vulnerabilities in Advanced Reasoning Models",
+  "authors": [
+    "Arjun Krishna",
+    "Aaditya Rastogi",
+    "Erick Galinkin"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.llmsec-1.12",
+  "acl_url": "https://aclanthology.org/2025.llmsec-1.12/"
+}

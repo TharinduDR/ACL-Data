@@ -1,0 +1,31 @@
+{
+  "title": "Global Voices: Crossing Borders in Automatic News Summarization",
+  "authors": [
+    "Khanh Nguyen",
+    "Hal Daumé III"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Arabic",
+    "Portuguese",
+    "Russian",
+    "Italian",
+    "Macedonian",
+    "Greek",
+    "Japanese",
+    "Swahili",
+    "Dutch",
+    "Bengali",
+    "Malagasy"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "D19-5411",
+  "acl_url": "https://aclanthology.org/D19-5411/"
+}

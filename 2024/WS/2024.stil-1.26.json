@@ -1,0 +1,22 @@
+{
+  "title": "Segmentação Textual Baseada em Tópicos em Português Utilizando BERTimbau",
+  "authors": [
+    "Luciano A. C. da Silva",
+    "Maiara S. F. Rodrigues",
+    "Adriana P. Archanjo",
+    "Luis Pessoa",
+    "Miguel L. Silva",
+    "Thiago F. de Almeida",
+    "Leonardo Silveira"
+  ],
+  "languages": [
+    "Portuguese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.stil-1.26",
+  "acl_url": "https://aclanthology.org/2024.stil-1.26/"
+}

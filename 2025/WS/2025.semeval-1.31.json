@@ -1,0 +1,29 @@
+{
+  "title": "UWBa at SemEval-2025 Task 7: Multilingual and Crosslingual Fact-Checked Claim Retrieval",
+  "authors": [
+    "Ladislav Lenc",
+    "Daniel Cífka",
+    "Jiří Martínek",
+    "Jakub Šmíd",
+    "Pavel Král"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Portuguese",
+    "Spanish",
+    "Thai",
+    "Arabic",
+    "Turkish",
+    "Polish",
+    "Persian",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.semeval-1.31",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.31/"
+}

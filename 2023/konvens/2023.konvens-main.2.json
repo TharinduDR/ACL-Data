@@ -1,0 +1,25 @@
+{
+  "title": "Comparing Pre-Training Schemes for Luxembourgish BERT Models",
+  "authors": [
+    "Cedric Lothritz",
+    "Saad Ezzini",
+    "Christoph Purschke",
+    "Tegawendé F. Bissyandé",
+    "Jacques Klein",
+    "Isabella Olariu",
+    "Andrey Boytsov",
+    "Clément Lefebvre",
+    "Anne Goujon"
+  ],
+  "languages": [
+    "Luxembourgish",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.konvens-main.2",
+  "acl_url": "https://aclanthology.org/2023.konvens-main.2/"
+}

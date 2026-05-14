@@ -1,0 +1,22 @@
+{
+  "title": "MoFin: A Small Vietnamese Language Model for Financial Reasoning via Reinforcement Learning",
+  "authors": [
+    "Khac-Duy Nguyen",
+    "Vo Quang Tri",
+    "Le Ho Bao Nhat",
+    "Dinh Cong Huy Hoang",
+    "Ngo Quang Huy",
+    "Huy Tien Nguyen"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.vlsp-1.27",
+  "acl_url": "https://aclanthology.org/2025.vlsp-1.27/"
+}

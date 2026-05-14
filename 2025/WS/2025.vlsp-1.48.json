@@ -1,0 +1,24 @@
+{
+  "title": "VLSP 2025 MLQA-TSR Challenge: Vietnamese Multimodal Legal Question Answering on Traffic Sign Regulation",
+  "authors": [
+    "Son T. Luu",
+    "Trung Vo",
+    "Hiep Nguyen",
+    "Khanh Quoc Tran",
+    "Kiet Van Nguyen",
+    "Vu Tran",
+    "Ngan Luu-Thuy Nguyen",
+    "Le-Minh Nguyen"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T25 Legal NLP",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.vlsp-1.48",
+  "acl_url": "https://aclanthology.org/2025.vlsp-1.48/"
+}

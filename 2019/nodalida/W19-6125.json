@@ -1,0 +1,21 @@
+{
+  "title": "Template-free Data-to-Text Generation of Finnish Sports News",
+  "authors": [
+    "Jenna Kanerva",
+    "Samuel Rönnqvist",
+    "Riina Kekki",
+    "Tapio Salakoski",
+    "Filip Ginter"
+  ],
+  "languages": [
+    "Finnish",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "W19-6125",
+  "acl_url": "https://aclanthology.org/W19-6125/"
+}

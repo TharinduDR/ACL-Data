@@ -1,0 +1,28 @@
+{
+  "title": "The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications",
+  "authors": [
+    "Damir Cavar",
+    "Ludovic Vetea Mompelat",
+    "Muhammad Abdo"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Croatian",
+    "German",
+    "Russian",
+    "Ukrainian",
+    "Polish",
+    "Arabic",
+    "Japanese",
+    "Korean",
+    "Navajo",
+    "Kumaoni"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.sigtyp-1.6",
+  "acl_url": "https://aclanthology.org/2024.sigtyp-1.6/"
+}

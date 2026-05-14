@@ -1,0 +1,27 @@
+{
+  "title": "MULBERE: Multilingual Jailbreak Robustness Using Targeted Latent Adversarial Training",
+  "authors": [
+    "Anastasia Dunca",
+    "Maanas Kumar Sharma",
+    "Olivia Raquel Muñoz",
+    "Victor Rosales"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Chinese",
+    "Korean",
+    "Arabic",
+    "Greek",
+    "Swahili",
+    "Amharic",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.winlp-main.27",
+  "acl_url": "https://aclanthology.org/2025.winlp-main.27/"
+}

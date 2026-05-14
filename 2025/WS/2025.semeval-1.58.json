@@ -1,0 +1,22 @@
+{
+  "title": "NCLTeam at SemEval-2025 Task 10: Enhancing Multilingual, multi-class, and Multi-Label Document Classification via Contrastive Learning Augmented Cascaded UNet and Embedding based Approaches",
+  "authors": [
+    "Shu Li",
+    "George Snape",
+    "Huizhi Liang"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Hindi",
+    "Portuguese",
+    "Bulgarian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.semeval-1.58",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.58/"
+}

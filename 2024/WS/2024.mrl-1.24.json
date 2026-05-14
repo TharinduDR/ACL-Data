@@ -1,0 +1,25 @@
+{
+  "title": "Representational Isomorphism and Alignment of Multilingual Large Language Models",
+  "authors": [
+    "Di Wu",
+    "Yibin Lei",
+    "Andrew Yates",
+    "Christof Monz"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "Japanese",
+    "Russian",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.mrl-1.24",
+  "acl_url": "https://aclanthology.org/2024.mrl-1.24/"
+}

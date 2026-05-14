@@ -1,0 +1,18 @@
+{
+  "title": "Fine-tuning Whisper Tiny for Swahili ASR: Challenges and Recommendations for Low-Resource Speech Recognition",
+  "authors": [
+    "Avinash Kumar Sharma",
+    "Manas R Pandya",
+    "Arpit Shukla"
+  ],
+  "languages": [
+    "Swahili",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.africanlp-1.11",
+  "acl_url": "https://aclanthology.org/2025.africanlp-1.11/"
+}

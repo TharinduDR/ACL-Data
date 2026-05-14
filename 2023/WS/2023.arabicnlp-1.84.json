@@ -1,0 +1,17 @@
+{
+  "title": "ELYADATA at WojoonNER Shared Task: Data and Model-centric Approaches for Arabic Flat and Nested NER",
+  "authors": [
+    "Imen Laouirine",
+    "Haroun Elleuch",
+    "Fethi Bougares"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.arabicnlp-1.84",
+  "acl_url": "https://aclanthology.org/2023.arabicnlp-1.84/"
+}

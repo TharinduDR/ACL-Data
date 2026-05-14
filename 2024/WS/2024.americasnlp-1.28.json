@@ -1,0 +1,37 @@
+{
+  "title": "Findings of the AmericasNLP 2024 Shared Task on Machine Translation into Indigenous Languages",
+  "authors": [
+    "Abteen Ebrahimi",
+    "Ona de Gibert",
+    "Raúl Vázquez",
+    "Rolando Coto-Solano",
+    "Pavel Denisov",
+    "Robert Pugh",
+    "Manuel Mager",
+    "Arturo Oncevay",
+    "Luis Chiruzzo",
+    "Katharina von der Wense",
+    "Shruti Rijhwani"
+  ],
+  "languages": [
+    "Spanish",
+    "Asháninka",
+    "Aymara",
+    "Bribri",
+    "Chatino",
+    "Guarani",
+    "Nahuatl",
+    "Otomi",
+    "Quechua",
+    "Rarámuri",
+    "Shipibo-Konibo",
+    "Wixarika"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.americasnlp-1.28",
+  "acl_url": "https://aclanthology.org/2024.americasnlp-1.28/"
+}

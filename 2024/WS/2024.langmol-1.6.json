@@ -1,0 +1,20 @@
+{
+  "title": "Enhanced BioT5+ for Molecule-Text Translation: A Three-Stage Approach with Data Distillation, Diverse Training, and Voting Ensemble",
+  "authors": [
+    "Qizhi Pei",
+    "Lijun Wu",
+    "Kaiyuan Gao",
+    "Jinhua Zhu",
+    "Rui Yan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2024.langmol-1.6",
+  "acl_url": "https://aclanthology.org/2024.langmol-1.6/"
+}

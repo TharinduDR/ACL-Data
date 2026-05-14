@@ -1,0 +1,19 @@
+{
+  "title": "HeSum: a Novel Dataset for Abstractive Text Summarization in Hebrew",
+  "authors": [
+    "Tzuf Paz-Argaman",
+    "Itai Mondshine",
+    "Asaf Achi Mordechai",
+    "Reut Tsarfaty"
+  ],
+  "languages": [
+    "Hebrew",
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.loresmt-1.2",
+  "acl_url": "https://aclanthology.org/2024.loresmt-1.2/"
+}

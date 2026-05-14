@@ -1,0 +1,27 @@
+{
+  "title": "Can dependency parses facilitate generalization in language models? A case study of cross-lingual relation extraction",
+  "authors": [
+    "Ritam Dutt",
+    "Shounak Sural",
+    "Carolyn Penstein Rosé"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Telugu",
+    "Bengali",
+    "Arabic",
+    "Spanish",
+    "German",
+    "Italian",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11",
+    "T21",
+    "T14"
+  ],
+  "paper_id": "2025.knowledgenlp-1.28",
+  "acl_url": "https://aclanthology.org/2025.knowledgenlp-1.28/"
+}

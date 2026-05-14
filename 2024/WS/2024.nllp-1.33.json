@@ -1,0 +1,22 @@
+{
+  "title": "LegalLens Shared Task 2024: Legal Violation Identification in Unstructured Text",
+  "authors": [
+    "Ben Hagag",
+    "Liav Harpaz",
+    "Gil Semo",
+    "Dor Bernsohn",
+    "Rohit Saha",
+    "Pashootan Vaeziipoor",
+    "Kyryl Truskovskyi",
+    "Gerasimos Spanakis"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2024.nllp-1.33",
+  "acl_url": "https://aclanthology.org/2024.nllp-1.33/"
+}

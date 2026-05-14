@@ -1,0 +1,19 @@
+{
+  "title": "Dependency Enhanced Contextual Representations for Japanese Temporal Relation Classification",
+  "authors": [
+    "Chenjing Geng",
+    "Fei Cheng",
+    "Masayuki Asahara",
+    "Lis Kanashiro Pereira",
+    "Ichiro Kobayashi"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.paclic-1.18",
+  "acl_url": "https://aclanthology.org/2021.paclic-1.18/"
+}

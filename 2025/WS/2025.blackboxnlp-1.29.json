@@ -1,0 +1,21 @@
+{
+  "title": "BlackboxNLP-2025 MIB Shared Task: Improving Circuit Faithfulness via Better Edge Selection",
+  "authors": [
+    "Yaniv Nikankin",
+    "Dana Arad",
+    "Itay Itzhak",
+    "Anja Reusch",
+    "Adi Simhi",
+    "Gal Kesten-Pomeranz",
+    "Yonatan Belinkov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.blackboxnlp-1.29",
+  "acl_url": "https://aclanthology.org/2025.blackboxnlp-1.29/"
+}

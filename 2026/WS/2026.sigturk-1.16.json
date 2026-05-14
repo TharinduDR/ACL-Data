@@ -1,0 +1,21 @@
+{
+  "title": "OCRTurk: A Comprehensive OCR Benchmark for Turkish",
+  "authors": [
+    "Deniz Yilmaz",
+    "Evren Ayberk Munis",
+    "Cagri Toraman",
+    "Süha Kağan Köse",
+    "Burak Aktaş",
+    "Mehmet Can Baytekin",
+    "Bilge Kaan Görür"
+  ],
+  "languages": [
+    "Turkish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2026.sigturk-1.16",
+  "acl_url": "https://aclanthology.org/2026.sigturk-1.16/"
+}

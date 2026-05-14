@@ -1,0 +1,29 @@
+{
+  "title": "Expanding the FLORES+ Multilingual Benchmark with Translations for Aragonese, Aranese, Asturian, and Valencian",
+  "authors": [
+    "Juan Antonio Pérez-Ortiz",
+    "Felipe Sánchez-Martínez",
+    "Víctor M. Sánchez-Cartagena",
+    "Miquel Esplà-Gomis",
+    "Aarón Galiano-Jiménez",
+    "Antoni Oliver",
+    "Claudi Aventín-Boya",
+    "Alejandro Pardos",
+    "Cristina Valdés",
+    "Jusèp Loís Sans Soscau",
+    "Juan Pablo Martínez"
+  ],
+  "languages": [
+    "Aragonese",
+    "Aranese",
+    "Asturian",
+    "Valencian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.41",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.41/"
+}

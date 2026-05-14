@@ -1,0 +1,20 @@
+{
+  "title": "PL-Guard: Benchmarking Language Model Safety for Polish",
+  "authors": [
+    "Aleksandra Krasnodębska",
+    "Karolina Seweryn",
+    "Szymon Łukasik",
+    "Wojciech Kusa"
+  ],
+  "languages": [
+    "Polish",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.bsnlp-1.4",
+  "acl_url": "https://aclanthology.org/2025.bsnlp-1.4/"
+}

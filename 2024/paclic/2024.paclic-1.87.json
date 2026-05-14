@@ -1,0 +1,24 @@
+{
+  "title": "CEBBERT: A Lightweight Data-Transparent DistilBERT Model for Cebuano Language Processing Tasks",
+  "authors": [
+    "Gian Carlos Tan",
+    "Jhan Kyle Canlas",
+    "Ren Joseph Ayangco",
+    "Daeschan Blane Gador",
+    "Mico Magtira",
+    "Jean Malolos",
+    "Ramon Rodriguez",
+    "Joseph Marvin Imperial",
+    "Mideth Abisado"
+  ],
+  "languages": [
+    "Cebuano"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T23 Social Media Processing",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.paclic-1.87",
+  "acl_url": "https://aclanthology.org/2024.paclic-1.87/"
+}

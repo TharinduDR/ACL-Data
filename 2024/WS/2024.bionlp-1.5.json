@@ -1,0 +1,22 @@
+{
+  "title": "Open (Clinical) LLMs are Sensitive to Instruction Phrasings",
+  "authors": [
+    "Alberto Mario Ceballos Arroyo",
+    "Monica Munnangi",
+    "Jiuding Sun",
+    "Karen Y.C. Zhang",
+    "Denis Jered McInerney",
+    "Byron C. Wallace",
+    "Silvio Amir"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.bionlp-1.5",
+  "acl_url": "https://aclanthology.org/2024.bionlp-1.5/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Low-resource ICD Coding of Hospital Discharge Summaries",
+  "authors": [
+    "Ashton Williamson",
+    "David de Hilster",
+    "Ammon Meyers",
+    "Nina Hubig",
+    "Amy Apon"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.bionlp-1.45",
+  "acl_url": "https://aclanthology.org/2024.bionlp-1.45/"
+}

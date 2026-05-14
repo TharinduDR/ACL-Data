@@ -1,0 +1,38 @@
+{
+  "title": "TurkBench: A Benchmark for Evaluating Turkish Large Language Models",
+  "authors": [
+    "Çağrı Toraman",
+    "Ahmet Kaan Sever",
+    "Ayse Aysu Cengiz",
+    "Elif Ecem Arslan",
+    "Görkem Sevine",
+    "Mete Mert Birdal",
+    "Yusuf Faruk Güldemir",
+    "Ali Buğra Kanburoğlu",
+    "Sezen Felekoğlu",
+    "Osman Gürlek",
+    "Sarp Kantar",
+    "Birsen Şahin Kütük",
+    "Büşra Tufan",
+    "Elif Genç",
+    "Serkan Coşkun",
+    "Gupse Ekin Demir",
+    "Muhammed Emin Arayıcı",
+    "Olgun Dursun",
+    "Onur Gungor",
+    "Susan Üsküdarlı",
+    "Abdullah Topraksoy",
+    "Esra Darıcı"
+  ],
+  "languages": [
+    "Turkish",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2026.sigturk-1.12",
+  "acl_url": "https://aclanthology.org/2026.sigturk-1.12/"
+}

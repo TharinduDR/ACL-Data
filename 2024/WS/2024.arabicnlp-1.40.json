@@ -1,0 +1,18 @@
+{
+  "title": "BabelBot at AraFinNLP2024: Fine-tuning T5 for Multi-dialect Intent Detection with Synthetic Data and Model Ensembling",
+  "authors": [
+    "Murhaf Fares",
+    "Samia Touileb"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.arabicnlp-1.40",
+  "acl_url": "https://aclanthology.org/2024.arabicnlp-1.40/"
+}

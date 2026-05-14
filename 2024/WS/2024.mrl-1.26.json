@@ -1,0 +1,29 @@
+{
+  "title": "Detecting and Translating Language Ambiguity with Multilingual LLMs",
+  "authors": [
+    "Behrang Mehrparvar",
+    "Sandro Pezzelle"
+  ],
+  "languages": [
+    "English",
+    "Persian",
+    "Italian",
+    "Dutch",
+    "German",
+    "Greek",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Turkish",
+    "Croatian",
+    "Romanian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.mrl-1.26",
+  "acl_url": "https://aclanthology.org/2024.mrl-1.26/"
+}

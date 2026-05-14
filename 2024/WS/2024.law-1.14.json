@@ -1,0 +1,25 @@
+{
+  "title": "Datasets Creation and Empirical Evaluations of Cross-Lingual Learning on Extremely Low-Resource Languages: A Focus on Comorian Dialects",
+  "authors": [
+    "Abdou Mohamed Naira",
+    "Abdessalam Bahafid",
+    "Zakarya Erraji",
+    "Imade Benelallam"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "ShiNgazidja",
+    "ShiMaore",
+    "ShiNdzuani",
+    "ShiMwali",
+    "Swahili"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.law-1.14",
+  "acl_url": "https://aclanthology.org/2024.law-1.14/"
+}

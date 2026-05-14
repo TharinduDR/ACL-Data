@@ -1,0 +1,28 @@
+{
+  "title": "Multilingual NLP for African Healthcare: Bias, Translation, and Explainability Challenges",
+  "authors": [
+    "Ugochi Okafor"
+  ],
+  "languages": [
+    "Swahili",
+    "Yoruba",
+    "Hausa",
+    "Igbo",
+    "Fon",
+    "Tigrinya",
+    "Krio",
+    "English",
+    "French",
+    "Igbo",
+    "Krio",
+    "Shona",
+    "Luganda"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.africanlp-1.32",
+  "acl_url": "https://aclanthology.org/2025.africanlp-1.32/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "DRU at WojoonNER 2024: ICL LLM for Arabic NER",
+  "authors": [
+    "Nancy Hamdan",
+    "Hadi Hamoud",
+    "Chadi Abou Chakra",
+    "Osama Rakan Al Mraikhat",
+    "Doha Albared",
+    "Fadi A. Zaraket"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.arabicnlp-1.106",
+  "acl_url": "https://aclanthology.org/2024.arabicnlp-1.106/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "BeeParser at MWE-2026 PARSEME 2.0 Subtask 1: Can Cross-Lingual Interactions Improve MWE Identification?",
+  "authors": [
+    "Ahmet Erdem",
+    "Oğuzhan Karaarslan"
+  ],
+  "languages": [
+    "Persian",
+    "Japanese",
+    "Polish",
+    "Romanian",
+    "Serbian",
+    "Swedish",
+    "Latvian",
+    "Slovenian"
+  ],
+  "research_areas": [
+    "T11",
+    "T14",
+    "T21"
+  ],
+  "paper_id": "2026.mwe-1.18",
+  "acl_url": "https://aclanthology.org/2026.mwe-1.18/"
+}

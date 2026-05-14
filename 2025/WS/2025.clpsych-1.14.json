@@ -1,0 +1,18 @@
+{
+  "title": "A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG",
+  "authors": [
+    "Arshia Kermani",
+    "Veronica Perez-Rosas",
+    "Vangelis Metsis"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.clpsych-1.14",
+  "acl_url": "https://aclanthology.org/2025.clpsych-1.14/"
+}

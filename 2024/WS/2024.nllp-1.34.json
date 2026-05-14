@@ -1,0 +1,19 @@
+{
+  "title": "DeBERTa Beats Behemoths: A Comparative Analysis of Fine-Tuning, Prompting, and PEFT Approaches on LegalLensNER",
+  "authors": [
+    "Hanh Thi Hong Tran",
+    "Nishan Chatterjee",
+    "Senja Pollak",
+    "Antoine Doucet"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T25 Legal NLP",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.nllp-1.34",
+  "acl_url": "https://aclanthology.org/2024.nllp-1.34/"
+}

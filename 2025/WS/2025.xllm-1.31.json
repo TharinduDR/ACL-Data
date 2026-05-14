@@ -1,0 +1,27 @@
+{
+  "title": "LLMSR@XLLM25: A Language Model-Based Pipeline for Structured Reasoning Data Construction",
+  "authors": [
+    "Hongrui Xing",
+    "Xinzhang Liu",
+    "Zhuo Jiang",
+    "Zhihao Yang",
+    "Yitong Yao",
+    "Zihan Wang",
+    "Wenmin Deng",
+    "Chao Wang",
+    "Shuangyong Song",
+    "Wang Yang",
+    "Zhongjiang He",
+    "Yongxiang Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction",
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.xllm-1.31",
+  "acl_url": "https://aclanthology.org/2025.xllm-1.31/"
+}

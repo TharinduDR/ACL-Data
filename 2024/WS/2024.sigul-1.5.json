@@ -1,0 +1,19 @@
+{
+  "title": "BERTbek: A Pretrained Language Model for Uzbek",
+  "authors": [
+    "Elmurod Kuriyozov",
+    "David Vilares",
+    "Carlos Gómez-Rodríguez"
+  ],
+  "languages": [
+    "Uzbek",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.sigul-1.5",
+  "acl_url": "https://aclanthology.org/2024.sigul-1.5/"
+}

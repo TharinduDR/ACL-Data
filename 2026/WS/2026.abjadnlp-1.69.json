@@ -1,0 +1,25 @@
+{
+  "title": "AbjadAuthorID: Authorship Identification for Arabic-Script Languages at AbjadNLP 2026",
+  "authors": [
+    "Shadi Abdalfa",
+    "Saad Ezzini",
+    "Ahmed Abdelali",
+    "Mustafa Jarrar",
+    "Mo El-Haj",
+    "Nadir Durrani",
+    "Hassan Sajjad",
+    "Farah Adeeba",
+    "Sina Ahmadi"
+  ],
+  "languages": [
+    "Arabic",
+    "Urdu",
+    "Kurdish"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.abjadnlp-1.69",
+  "acl_url": "https://aclanthology.org/2026.abjadnlp-1.69/"
+}

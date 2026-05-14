@@ -1,0 +1,19 @@
+{
+  "title": "DSLR: Document Refinement with Sentence-Level Re-ranking and Reconstruction to Enhance Retrieval-Augmented Generation",
+  "authors": [
+    "Taeho Hwang",
+    "Soyeong Jeong",
+    "Sukmin Cho",
+    "SeungYoon Han",
+    "Jong C. Park"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.knowledgenlp-1.6",
+  "acl_url": "https://aclanthology.org/2024.knowledgenlp-1.6/"
+}

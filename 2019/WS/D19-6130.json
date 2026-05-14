@@ -1,0 +1,24 @@
+{
+  "title": "X-WikiRE: A Large, Multilingual Resource for Relation Extraction as Machine Comprehension",
+  "authors": [
+    "Mostafa Abdou",
+    "Cezar Sas",
+    "Rahul Aralikatte",
+    "Isabelle Augenstein",
+    "Anders Søgaard"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "D19-6130",
+  "acl_url": "https://aclanthology.org/D19-6130/"
+}

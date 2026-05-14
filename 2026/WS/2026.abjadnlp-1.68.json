@@ -1,0 +1,25 @@
+{
+  "title": "AbjadGenEval: Abjad AI Generated Text Detection Shared Task for Languages Using Arabic Script at AbjadNLP 2026",
+  "authors": [
+    "Saad Ezzini",
+    "Irfan Ahmad",
+    "Salmane Chafik",
+    "Shadi Abdalfa",
+    "Mo El-Haj",
+    "Ahmed Abdelali",
+    "Mustafa Jarrar",
+    "Nadir Durrani",
+    "Hassan Sajjad",
+    "Farah Adeeba"
+  ],
+  "languages": [
+    "Arabic",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.abjadnlp-1.68",
+  "acl_url": "https://aclanthology.org/2026.abjadnlp-1.68/"
+}

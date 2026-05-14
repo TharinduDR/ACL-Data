@@ -1,0 +1,21 @@
+{
+  "title": "AIRI at RRG24: LLaVa with specialised encoder and decoder",
+  "authors": [
+    "V. Samokhin",
+    "M. Munkhoeva",
+    "D. Umerenkov",
+    "E. Kuzmina",
+    "I. Oseledets",
+    "D. Dylov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.bionlp-1.51",
+  "acl_url": "https://aclanthology.org/2024.bionlp-1.51/"
+}

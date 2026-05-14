@@ -1,0 +1,18 @@
+{
+  "title": "MinLegal at VLSP2025-LegalSLM: A Two-Stage LoRA-to-Full Fine-tuning Approach for Vietnamese Legal Small Language Models",
+  "authors": [
+    "Ngo Dinh Luan",
+    "Kiet Nguyen Van"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T14 Language Modeling",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.vlsp-1.24",
+  "acl_url": "https://aclanthology.org/2025.vlsp-1.24/"
+}

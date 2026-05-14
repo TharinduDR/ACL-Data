@@ -1,0 +1,23 @@
+{
+  "title": "The Eval4NLP 2023 Shared Task on Prompting Large Language Models as Explainable Metrics",
+  "authors": [
+    "Christoph Leiter",
+    "Juri Opitz",
+    "Daniel Deutsch",
+    "Yang Gao",
+    "Rotem Dror",
+    "Steffen Eger"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.eval4nlp-1.10",
+  "acl_url": "https://aclanthology.org/2023.eval4nlp-1.10/"
+}

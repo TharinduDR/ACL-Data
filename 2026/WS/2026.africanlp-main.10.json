@@ -1,0 +1,29 @@
+{
+  "title": "The Token Tax: Systematic Bias in Multilingual Tokenization",
+  "authors": [
+    "Jessica M. Lundin",
+    "Ada Zhang",
+    "Nihal Karim",
+    "Hamza Louzan",
+    "Victor Wei",
+    "David Ifeoluwa Adelani",
+    "Cody Carroll"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Swahili",
+    "Yoruba",
+    "Zulu",
+    "Amharic",
+    "Hausa",
+    "Nilo-Saharan languages"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2026.africanlp-main.10",
+  "acl_url": "https://aclanthology.org/2026.africanlp-main.10/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Mapping Cross-Lingual Sentence Representations for Low-Resource Language Pairs Using Pre-trained Language Models",
+  "authors": [
+    "Andreea Ioana Tudor",
+    "Tsegaye Misikir Tashu"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "Somali",
+    "Bemba",
+    "Igbo",
+    "Hausa",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.loreslm-1.20",
+  "acl_url": "https://aclanthology.org/2025.loreslm-1.20/"
+}

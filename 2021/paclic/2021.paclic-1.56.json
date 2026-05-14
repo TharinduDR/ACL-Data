@@ -1,0 +1,38 @@
+{
+  "title": "ParaCotta: Synthetic Multilingual Paraphrase Corpora from the Most Diverse Translation Sample Pair",
+  "authors": [
+    "Alham Fikri Aji",
+    "Tirana Noor Fatyanosa",
+    "Radityo Eko Prasojo",
+    "Philip Arthur",
+    "Suci Fitriany",
+    "Salma Qonitah",
+    "Nadhifa Zulfa",
+    "Tomi Santoso",
+    "Mahendra Data"
+  ],
+  "languages": [
+    "Arabic",
+    "Catalan",
+    "Czech",
+    "German",
+    "English",
+    "French",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Dutch",
+    "Romanian",
+    "Russian",
+    "Swedish",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2021.paclic-1.56",
+  "acl_url": "https://aclanthology.org/2021.paclic-1.56/"
+}

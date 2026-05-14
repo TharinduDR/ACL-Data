@@ -1,0 +1,19 @@
+{
+  "title": "RoBiologyDataChoiceQA: A Romanian Dataset for improving Biology understanding of Large Language Models",
+  "authors": [
+    "Dragoș-Dumitru Ghinea",
+    "Adela-Nicoleta Corbeanu",
+    "Marius-Adrian Dumitran"
+  ],
+  "languages": [
+    "Romanian",
+    "English"
+  ],
+  "research_areas": [
+    "T10",
+    "T14",
+    "T29"
+  ],
+  "paper_id": "2025.mrl-main.37",
+  "acl_url": "https://aclanthology.org/2025.mrl-main.37/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "A free/open-source rule-based machine translation system for Crimean Tatar to Turkish",
+  "authors": [
+    "Memduh Gökirmak",
+    "Francis Morton Tyers",
+    "Jonathan North Washington"
+  ],
+  "languages": [
+    "Crimean Tatar",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "W19-6805",
+  "acl_url": "https://aclanthology.org/W19-6805/"
+}

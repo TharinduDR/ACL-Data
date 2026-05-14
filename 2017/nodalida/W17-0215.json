@@ -1,0 +1,25 @@
+{
+  "title": "Machine translation with North Saami as a pivot language",
+  "authors": [
+    "Lene Antonsen",
+    "Ciprian Gerstenberger",
+    "Maja Kappfjell",
+    "Sandra Nystø Rahka",
+    "Marja-Liisa Olthuis",
+    "Trond Trosterud",
+    "Francis M. Tyers"
+  ],
+  "languages": [
+    "Saami",
+    "Finnish",
+    "Norwegian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education"
+  ],
+  "paper_id": "W17-0215",
+  "acl_url": "https://aclanthology.org/W17-0215/"
+}

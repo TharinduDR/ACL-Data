@@ -1,0 +1,20 @@
+{
+  "title": "RusConText Benchmark: A Russian Language Evaluation Benchmark for Understanding Context",
+  "authors": [
+    "Chirkin A.",
+    "Kuznetsova S.",
+    "Volina M.",
+    "Dengina A."
+  ],
+  "languages": [
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.acl-srw.91",
+  "acl_url": "https://aclanthology.org/2025.acl-srw.91/"
+}

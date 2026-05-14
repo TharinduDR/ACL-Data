@@ -1,0 +1,21 @@
+{
+  "title": "Challenge Track: LoRAs in All Directions - Directional Adapters and Noisy-Channel Reranking for Indic MT",
+  "authors": [
+    "Sajay Raj"
+  ],
+  "languages": [
+    "Hindi",
+    "English",
+    "Bhili",
+    "Mundari",
+    "Santali",
+    "Gondi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.mmloso-1.10",
+  "acl_url": "https://aclanthology.org/2025.mmloso-1.10/"
+}

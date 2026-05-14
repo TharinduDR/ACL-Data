@@ -1,0 +1,32 @@
+{
+  "title": "MAIRA at RRG24: A specialised large multimodal model for radiology report generation",
+  "authors": [
+    "Shaury Srivastav",
+    "Mercy Ranjit",
+    "Fernando Pérez-García",
+    "Kenza Bouzid",
+    "Shruthi Bannur",
+    "Daniel C. Castro",
+    "Anton Schwaighofer",
+    "Harshita Sharma",
+    "Maximilian Ilse",
+    "Valentina Salvatelli",
+    "Sam Bond-Taylor",
+    "Fabian Falck",
+    "Anja Thieme",
+    "Hannah Richardson",
+    "Matthew P. Lungren",
+    "Stephanie L. Hyland",
+    "Javier Alvarez-Valle"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.bionlp-1.50",
+  "acl_url": "https://aclanthology.org/2024.bionlp-1.50/"
+}

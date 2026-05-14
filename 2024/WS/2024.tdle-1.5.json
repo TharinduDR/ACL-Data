@@ -1,0 +1,20 @@
+{
+  "title": "A Language Model Trained on Uruguayan Spanish News Text",
+  "authors": [
+    "Juan Pablo Filevich",
+    "Gonzalo Marco",
+    "Santiago Castro",
+    "Luis Chiruzzo",
+    "Aiala Rosá"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2024.tdle-1.5",
+  "acl_url": "https://aclanthology.org/2024.tdle-1.5/"
+}

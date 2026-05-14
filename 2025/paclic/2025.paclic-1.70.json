@@ -1,0 +1,29 @@
+{
+  "title": "IndicSQuAD: A Comprehensive Multilingual Question Answering Dataset for Indic Languages",
+  "authors": [
+    "Sharvi Endait",
+    "Ruturaj Ghatage",
+    "Aditya Kulkarni",
+    "Rajlaxmi Patil",
+    "Raviraj Joshi"
+  ],
+  "languages": [
+    "Hindi",
+    "Punjabi",
+    "Gujarati",
+    "Kannada",
+    "Tamil",
+    "Bengali",
+    "Telugu",
+    "Oriya",
+    "Malayalam",
+    "Marathi"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.paclic-1.70",
+  "acl_url": "https://aclanthology.org/2025.paclic-1.70/"
+}

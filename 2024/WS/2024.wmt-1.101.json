@@ -1,0 +1,24 @@
+{
+  "title": "Optimising LLM-Driven Machine Translation with Context-Aware Sliding Windows",
+  "authors": [
+    "Xinye Yang",
+    "Yida Mu",
+    "Kalina Bontcheva",
+    "Xingyi Song"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Portuguese",
+    "Korean",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.101",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.101/"
+}

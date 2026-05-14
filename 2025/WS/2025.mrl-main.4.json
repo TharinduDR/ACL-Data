@@ -1,0 +1,35 @@
+{
+  "title": "Cross-lingual Transfer Dynamics in BLOOMZ: Insights into Multilingual Generalization",
+  "authors": [
+    "Sabyasachi Samantaray",
+    "Preethi Jyothi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Odia",
+    "Punjabi",
+    "Persian",
+    "Gujarati",
+    "Kannada",
+    "Malayalam",
+    "Indonesian",
+    "Xhosa",
+    "Finnish",
+    "Swedish",
+    "Thai",
+    "Turkish",
+    "Bengali",
+    "Assamese",
+    "Hindi",
+    "Marathi",
+    "Nepali"
+  ],
+  "research_areas": [
+    "T10",
+    "T14",
+    "T12"
+  ],
+  "paper_id": "2025.mrl-main.4",
+  "acl_url": "https://aclanthology.org/2025.mrl-main.4/"
+}

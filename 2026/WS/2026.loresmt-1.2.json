@@ -1,0 +1,20 @@
+{
+  "title": "Tao–Filipino Neural Machine Translation: Strategies for Ultra–Low-Resource Settings",
+  "authors": [
+    "Adrian Denzel Macayan",
+    "Luis Andrew Madridijo",
+    "Ellexandre Esponilla",
+    "Zachary Mitchell Francisco"
+  ],
+  "languages": [
+    "English",
+    "Tao",
+    "Tagalog"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.loresmt-1.2",
+  "acl_url": "https://aclanthology.org/2026.loresmt-1.2/"
+}

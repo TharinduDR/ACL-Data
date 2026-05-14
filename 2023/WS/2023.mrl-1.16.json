@@ -1,0 +1,23 @@
+{
+  "title": "Code-switching as a cross-lingual Training Signal: an Example with Unsupervised Bilingual Embedding",
+  "authors": [
+    "Félix Gaschi",
+    "Ilias El Baamrani",
+    "Barbara Gendron",
+    "Parisa Rastin",
+    "Yannick Toussaint"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Russian",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2023.mrl-1.16",
+  "acl_url": "https://aclanthology.org/2023.mrl-1.16/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "The 2nd Automated Verification of Textual Claims (AVeriTeC) Shared Task: Open-weights, Reproducible and Efficient Systems",
+  "authors": [
+    "Mubashara Akhtar",
+    "Rami Aly",
+    "Yulong Chen",
+    "Zhenyun Deng",
+    "Michael Schlichtkrull",
+    "Chenxi Whitehouse",
+    "Andreas Vlachos"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.fever-1.15",
+  "acl_url": "https://aclanthology.org/2025.fever-1.15/"
+}

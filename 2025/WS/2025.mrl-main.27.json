@@ -1,0 +1,33 @@
+{
+  "title": "Exploring the Role of Transliteration in In-Context Learning for Low-resource Languages Written in Non-Latin Scripts",
+  "authors": [
+    "Chunlan Ma",
+    "Yihong Liu",
+    "Haotian Ye",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "Chinese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian",
+    "Cyrillic",
+    "Hangul",
+    "Tamil",
+    "Bengali",
+    "Odia",
+    "Devanagari",
+    "Thai",
+    "Georgian"
+  ],
+  "research_areas": [
+    "T11",
+    "T14",
+    "T16"
+  ],
+  "paper_id": "2025.mrl-main.27",
+  "acl_url": "https://aclanthology.org/2025.mrl-main.27/"
+}

@@ -1,0 +1,41 @@
+{
+  "title": "YNU-HPCC at SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Using Multiple Prediction Headers",
+  "authors": [
+    "Hao Yang",
+    "Jin Wang",
+    "Xuejie Zhang"
+  ],
+  "languages": [
+    "English",
+    "Afrikaans",
+    "Amharic",
+    "German",
+    "Spanish",
+    "Hindi",
+    "Marathi",
+    "Oromo",
+    "Portuguese",
+    "Russian",
+    "Somali",
+    "Tatar",
+    "Tigrinya",
+    "Arabic",
+    "Chinese",
+    "Hausa",
+    "Kinyarwanda",
+    "Nigerian Pidgin",
+    "Swahili",
+    "Swedish",
+    "Ukrainian",
+    "Emakhuwa",
+    "Yoruba",
+    "Igbo",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.semeval-1.13",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.13/"
+}

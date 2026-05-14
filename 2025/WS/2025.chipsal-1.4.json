@@ -1,0 +1,22 @@
+{
+  "title": "Bengali ChartSumm: A Benchmark Dataset and Study on Feasibility of Large Language Models on Bengali Chart to Text Summarization",
+  "authors": [
+    "Nahida Akter Tanjila",
+    "Afrin Sultana Poushi",
+    "Sazid Abdullah Farhan",
+    "Abu Raihan Mostofa Kamal",
+    "Md. Azam Hossain",
+    "Md. Hamjajul Ashmafee"
+  ],
+  "languages": [
+    "Bengali",
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.chipsal-1.4",
+  "acl_url": "https://aclanthology.org/2025.chipsal-1.4/"
+}

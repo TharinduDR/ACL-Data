@@ -1,0 +1,40 @@
+{
+  "title": "Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization",
+  "authors": [
+    "Alexandra Chronopoulou",
+    "Jonas Pfeiffer",
+    "Joshua Maynez",
+    "Xinyi Wang",
+    "Sebastian Ruder",
+    "Priyanka Agrawal"
+  ],
+  "languages": [
+    "Arabic",
+    "Bengali",
+    "Chinese",
+    "English",
+    "Japanese",
+    "Korean",
+    "Indonesian",
+    "Swahili",
+    "Russian",
+    "Telugu",
+    "Thai",
+    "Turkish",
+    "Marathi",
+    "Gujarati",
+    "Sinhala",
+    "Somali",
+    "Vietnamese",
+    "Yoruba",
+    "Ukrainian",
+    "Persian"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.mrl-1.7",
+  "acl_url": "https://aclanthology.org/2024.mrl-1.7/"
+}

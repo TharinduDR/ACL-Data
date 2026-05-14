@@ -1,0 +1,19 @@
+{
+  "title": "Dissecting Biases in Relation Extraction: A Cross-Dataset Analysis on People's Gender and Origin",
+  "authors": [
+    "Marco Antonio Stranisci",
+    "Pere-Lluis Huguet Cabot",
+    "Elisa Bassignana",
+    "Roberto Navigli"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.gebnlp-1.12",
+  "acl_url": "https://aclanthology.org/2024.gebnlp-1.12/"
+}

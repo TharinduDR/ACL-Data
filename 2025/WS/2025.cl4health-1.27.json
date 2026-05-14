@@ -1,0 +1,18 @@
+{
+  "title": "Bias in Danish Medical Notes: Infection Classification of Long Texts Using Transformer and LSTM Architectures Coupled with BERT",
+  "authors": [
+    "Mehdi Parviz",
+    "Rudi Agius",
+    "Carsten Utoft Niemann",
+    "Rob van der Goot"
+  ],
+  "languages": [
+    "Danish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.cl4health-1.27",
+  "acl_url": "https://aclanthology.org/2025.cl4health-1.27/"
+}

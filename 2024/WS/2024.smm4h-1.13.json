@@ -1,0 +1,22 @@
+{
+  "title": "HBUT at #SMM4H 2024 Task2: Cross-lingual Few-shot Medical Entity Extraction using a Large Language Model",
+  "authors": [
+    "Yuanzhi Ke",
+    "Zhangju Yin",
+    "Xinyun Wu",
+    "Caiquan Xiong"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2024.smm4h-1.13",
+  "acl_url": "https://aclanthology.org/2024.smm4h-1.13/"
+}

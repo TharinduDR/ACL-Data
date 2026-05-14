@@ -1,0 +1,23 @@
+{
+  "title": "Morphology Matters: Probing the Cross-linguistic Morphological Generalization Abilities of Large Language Models through a Wug Test",
+  "authors": [
+    "Anh Dang",
+    "Limor Raviv",
+    "Lukas Galke"
+  ],
+  "languages": [
+    "Vietnamese",
+    "French",
+    "Spanish",
+    "Romanian",
+    "Portuguese",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2024.cmcl-1.15",
+  "acl_url": "https://aclanthology.org/2024.cmcl-1.15/"
+}

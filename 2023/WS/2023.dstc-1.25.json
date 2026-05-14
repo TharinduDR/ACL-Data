@@ -1,0 +1,24 @@
+{
+  "title": "Speech Aware Dialog System Technology Challenge (DSTC11)",
+  "authors": [
+    "Hagen Soltau",
+    "Izhak Shafran",
+    "Mingqiu Wang",
+    "Abhinav Rastogi",
+    "Jeffrey Zhao",
+    "Ye Jia",
+    "Wei Han",
+    "Yuan Cao",
+    "Aramys Miranda"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2023.dstc-1.25",
+  "acl_url": "https://aclanthology.org/2023.dstc-1.25/"
+}

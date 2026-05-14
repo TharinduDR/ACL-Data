@@ -1,0 +1,21 @@
+{
+  "title": "Language Model Re-rankers are Fooled by Lexical Similarities",
+  "authors": [
+    "Lovisa Hagström",
+    "Ercong Nie",
+    "Ruben Halifa",
+    "Helmut Schmid",
+    "Richard Johansson",
+    "Alexander Junge"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2025.fever-1.2",
+  "acl_url": "https://aclanthology.org/2025.fever-1.2/"
+}

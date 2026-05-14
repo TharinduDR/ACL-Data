@@ -1,0 +1,20 @@
+{
+  "title": "Hidden Forms: A Dataset to Fill Masked Interfaces from Language Commands",
+  "authors": [
+    "Anirudh Sundar",
+    "Christopher Richardson",
+    "William Gay",
+    "Benjamin Reichman",
+    "Larry Heck"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.realm-1.7",
+  "acl_url": "https://aclanthology.org/2025.realm-1.7/"
+}

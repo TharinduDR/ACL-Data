@@ -1,0 +1,23 @@
+{
+  "title": "Cross-Lingual Document Recommendations with Transformer-Based Representations: Evaluating Multilingual Models and Mapping Techniques",
+  "authors": [
+    "Tsegaye Misikir Tashu",
+    "Eduard R. Kontos",
+    "Matthia Sabatelli",
+    "Matias Valdenegro-Toro"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Dutch",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2025.sumeval-2.4",
+  "acl_url": "https://aclanthology.org/2025.sumeval-2.4/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Enhanced Zero-Shot Machine Translation via Fixed Prefix Pair Bootstrapping",
+  "authors": [
+    "Van-Hien Tran",
+    "Masao Utiyama"
+  ],
+  "languages": [
+    "English",
+    "Irish",
+    "Vietnamese",
+    "Italian",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.loresmt-1.2",
+  "acl_url": "https://aclanthology.org/2025.loresmt-1.2/"
+}

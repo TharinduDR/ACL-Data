@@ -1,0 +1,39 @@
+{
+  "title": "When Scale Meets Diversity: Evaluating Language Models on Fine-Grained Multilingual Claim Verification",
+  "authors": [
+    "Hanna Shcharbakova",
+    "Tatiana Anikina",
+    "Natalia Skachkova",
+    "Josef van Genabith"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bengali",
+    "Dutch",
+    "French",
+    "German",
+    "Gujarati",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Marathi",
+    "Norwegian",
+    "Persian",
+    "Portuguese",
+    "Punjabi",
+    "Romanian",
+    "Russian",
+    "Serbian",
+    "Sinhala",
+    "Spanish",
+    "Tamil",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.fever-1.5",
+  "acl_url": "https://aclanthology.org/2025.fever-1.5/"
+}

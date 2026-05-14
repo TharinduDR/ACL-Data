@@ -1,0 +1,26 @@
+{
+  "title": "LATE-GIL-nlp at Semeval-2025 Task 10: Exploring LLMs and transformers for Characterization and extraction of narratives from online news",
+  "authors": [
+    "Ivan Díaz",
+    "Fredin Vázquez",
+    "Christian Luna",
+    "Aldair Conde",
+    "Gerardo Sierra",
+    "Helena Gómez-Adorno",
+    "Gemma Bel-Enguix"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Russian",
+    "Bulgarian",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.semeval-1.92",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.92/"
+}

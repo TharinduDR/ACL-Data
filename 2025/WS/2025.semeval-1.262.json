@@ -1,0 +1,20 @@
+{
+  "title": "indiDataMiner at SemEval-2025 Task 11: From Text to Emotion: Transformer-Based Models for Emotions Detection in Indian Languages",
+  "authors": [
+    "Saurabh Kumar",
+    "Sujit Kumar",
+    "Sanasam Ranbir Singh",
+    "Sukumar Nandi"
+  ],
+  "languages": [
+    "Hindi",
+    "Marathi",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.semeval-1.262",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.262/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "TextGraphs 2024 Shared Task on Text-Graph Representations for Knowledge Graph Question Answering",
+  "authors": [
+    "Andrey Sakhovskiy",
+    "Mikhail Salnikov",
+    "Irina Nikishina",
+    "Aida Usmanova",
+    "Angelie Kraft",
+    "Cedric Möller",
+    "Debayan Banerjee",
+    "Junbo Huang",
+    "Longquan Jiang",
+    "Rana Abdullah",
+    "Xi Yan",
+    "Dmitry Ustalov",
+    "Elena Tutubalina",
+    "Ricardo Usbeck",
+    "Alexander Panchenko"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10",
+    "T13",
+    "T08"
+  ],
+  "paper_id": "2024.textgraphs-1.9",
+  "acl_url": "https://aclanthology.org/2024.textgraphs-1.9/"
+}

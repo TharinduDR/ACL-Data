@@ -1,0 +1,21 @@
+{
+  "title": "Unsupervised Text Representation Learning via Instruction-Tuning for Zero-Shot Dense Retrieval",
+  "authors": [
+    "Qiuhai Zeng",
+    "Zimeng Qiu",
+    "Dae Yon Hwang",
+    "Xin He",
+    "William M. Campbell"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.mrl-1.22",
+  "acl_url": "https://aclanthology.org/2024.mrl-1.22/"
+}

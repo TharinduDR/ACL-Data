@@ -1,0 +1,24 @@
+{
+  "title": "SOMD 2025: Fine-tuning ModernBERT for In- and Out-of-Distribution NER and Relation Extraction of Software Mentions in Scientific Texts",
+  "authors": [
+    "Projan Shakya",
+    "Kristina Ghimire",
+    "Kashish Bataju",
+    "Ashwini Mandal",
+    "Sadikshya Gyawali",
+    "Manish Dahal",
+    "Manish Awale",
+    "Shital Adhikari",
+    "Sanjay Rijal",
+    "Vaghawan Ojha"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.sdp-1.15",
+  "acl_url": "https://aclanthology.org/2025.sdp-1.15/"
+}

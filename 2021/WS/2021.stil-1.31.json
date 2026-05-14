@@ -1,0 +1,19 @@
+{
+  "title": "Uma revisão breve sobre perguntas complexas em bases de conhecimento para sistemas de perguntas e respostas",
+  "authors": [
+    "Jorão Gomes Jr.",
+    "Rômulo Chrispim de Mello",
+    "Ana Beatriz Kapps dos Reis",
+    "Victor Ströele",
+    "Jairo Francisco de Souza"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2021.stil-1.31",
+  "acl_url": "https://aclanthology.org/2021.stil-1.31/"
+}

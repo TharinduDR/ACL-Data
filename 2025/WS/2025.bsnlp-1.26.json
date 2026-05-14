@@ -1,0 +1,22 @@
+{
+  "title": "Multilabel Classification of Persuasion Techniques with self-improving LLM agent: SlavicNLP 2025 Shared Task",
+  "authors": [
+    "Marcin Sawiński",
+    "Krzysztof Węcel",
+    "Ewelina Księżniak"
+  ],
+  "languages": [
+    "Slovenian",
+    "Polish",
+    "Russian",
+    "Bulgarian",
+    "Croatian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.bsnlp-1.26",
+  "acl_url": "https://aclanthology.org/2025.bsnlp-1.26/"
+}

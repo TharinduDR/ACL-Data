@@ -1,0 +1,35 @@
+{
+  "title": "Lexical Resources for Low-Resource PoS Tagging in Neural Times",
+  "authors": [
+    "Barbara Plank",
+    "Sigrid Klerke"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Greek",
+    "Hebrew",
+    "Hungarian",
+    "Italian",
+    "Norwegian",
+    "Persian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W19-6103",
+  "acl_url": "https://aclanthology.org/W19-6103/"
+}

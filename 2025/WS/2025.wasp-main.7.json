@@ -1,0 +1,19 @@
+{
+  "title": "Bridging the Gap: Instruction-Tuned LLMs for Scientific Named Entity Recognition",
+  "authors": [
+    "Necva Bölücü",
+    "Maciej Rybinski",
+    "Stephen Wan"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.wasp-main.7",
+  "acl_url": "https://aclanthology.org/2025.wasp-main.7/"
+}

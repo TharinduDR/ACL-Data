@@ -1,0 +1,20 @@
+{
+  "title": "ERGO: Entropy-guided Resetting for Generation Optimization in Multi-turn Language Models",
+  "authors": [
+    "Haziq Mohammad Khalid",
+    "Athikash Jeyaganthan",
+    "Timothy Do",
+    "Yicheng Fu",
+    "Sean O'Brien",
+    "Vasu Sharma",
+    "Kevin Zhu"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.uncertainlp-main.23",
+  "acl_url": "https://aclanthology.org/2025.uncertainlp-main.23/"
+}

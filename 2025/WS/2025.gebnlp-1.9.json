@@ -1,0 +1,22 @@
+{
+  "title": "Assessing the Reliability of LLMs Annotations in the Context of Demographic Bias and Model Explanation",
+  "authors": [
+    "Hadi Mohammadi",
+    "Tina Shahedi",
+    "Pablo Mosteiro",
+    "Massimo Poesio",
+    "Ayoub Bagheri",
+    "Anastasia Giachanou"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.gebnlp-1.9",
+  "acl_url": "https://aclanthology.org/2025.gebnlp-1.9/"
+}

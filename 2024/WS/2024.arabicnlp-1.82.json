@@ -1,0 +1,19 @@
+{
+  "title": "NLP_DI at NADI 2024 shared task: Multi-label Arabic Dialect Classifications with an Unsupervised Cross-Encoder",
+  "authors": [
+    "Vani Kanjirangat",
+    "Tanja Samardžić",
+    "Ljiljana Dolamic",
+    "Fabio Rinaldi"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.arabicnlp-1.82",
+  "acl_url": "https://aclanthology.org/2024.arabicnlp-1.82/"
+}

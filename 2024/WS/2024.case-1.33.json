@@ -1,0 +1,33 @@
+{
+  "title": "Stance and Hate Event Detection in Tweets Related to Climate Activism - Shared Task at CASE 2024",
+  "authors": [
+    "Surendrabikram Thapa",
+    "Kritesh Rauniyar",
+    "Farhan Ahmad Jafri",
+    "Shuvam Shiwalkoti",
+    "Hariram Veeramani",
+    "Raghav Jain",
+    "Guneet Singh Kohli",
+    "Ali Hürriyetoğlu",
+    "Usman Naseem"
+  ],
+  "languages": [
+    "English",
+    "Xhosa",
+    "Lao",
+    "Yoruba",
+    "Somali",
+    "Kinyarwanda",
+    "Zulu",
+    "Oromo",
+    "Shona",
+    "Tsonga"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.case-1.33",
+  "acl_url": "https://aclanthology.org/2024.case-1.33/"
+}

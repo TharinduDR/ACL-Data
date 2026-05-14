@@ -1,0 +1,20 @@
+{
+  "title": "Enhancing Arabic Automated Essay Scoring with Synthetic Data and Error Injection",
+  "authors": [
+    "Chatrine Qwaider",
+    "Bashar Alhafni",
+    "Kirill Chirkunov",
+    "Nizar Habash",
+    "Ted Briscoe"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.bea-1.40",
+  "acl_url": "https://aclanthology.org/2025.bea-1.40/"
+}

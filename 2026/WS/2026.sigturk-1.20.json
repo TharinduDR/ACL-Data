@@ -1,0 +1,20 @@
+{
+  "title": "Overview of the SIGTURK 2026 Shared Task: Terminology-Aware Machine Translation for English-Turkish Scientific Texts",
+  "authors": [
+    "Ali Gebeçse",
+    "Abdulfattah Safa",
+    "Ege Uğur Amasya",
+    "Gözde Gül Şahin"
+  ],
+  "languages": [
+    "English",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.sigturk-1.20",
+  "acl_url": "https://aclanthology.org/2026.sigturk-1.20/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "TenseLoC: Tense Localization and Control in a Multilingual LLM",
+  "authors": [
+    "Ariun-Erdene Tumurchuluun",
+    "Yusser Al Ghussin",
+    "David Mareček",
+    "Josef van Genabith",
+    "Koel Dutta Chowdhury"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Spanish",
+    "Hindi",
+    "Thai"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.mrl-main.17",
+  "acl_url": "https://aclanthology.org/2025.mrl-main.17/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "UNSC-Bench: Evaluating LLM Diplomatic Role-Playing Through UN Security Council Vote Prediction",
+  "authors": [
+    "Ayush Nangia",
+    "Aman Gokrani",
+    "Ruggero Marino Lazzaroni"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "Russian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2026.mme-main.10",
+  "acl_url": "https://aclanthology.org/2026.mme-main.10/"
+}

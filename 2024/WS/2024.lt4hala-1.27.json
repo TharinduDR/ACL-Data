@@ -1,0 +1,23 @@
+{
+  "title": "Overview of EvaHan2024: The First International Evaluation on Ancient Chinese Sentence Segmentation and Punctuation",
+  "authors": [
+    "Bin Li",
+    "Bolin Chang",
+    "Zhixing Xu",
+    "Minxuan Feng",
+    "Chao Xu",
+    "Weiguang Qu",
+    "Si Shen",
+    "Dongbo Wang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.lt4hala-1.27",
+  "acl_url": "https://aclanthology.org/2024.lt4hala-1.27/"
+}

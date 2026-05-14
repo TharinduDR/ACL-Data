@@ -1,0 +1,23 @@
+{
+  "title": "EthioMT: Parallel Corpus for Low-resource Ethiopian Languages",
+  "authors": [
+    "Atnafu Lambebo Tonja",
+    "Olga Kolesnikova",
+    "Alexander Gelbukh",
+    "Jugal Kalita"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "Afaan Oromo",
+    "Tigrinya",
+    "Somali"
+  ],
+  "research_areas": [
+    "T02",
+    "T16",
+    "T08"
+  ],
+  "paper_id": "2024.rail-1.12",
+  "acl_url": "https://aclanthology.org/2024.rail-1.12/"
+}

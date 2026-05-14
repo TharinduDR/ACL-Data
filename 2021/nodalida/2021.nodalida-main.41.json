@@ -1,0 +1,31 @@
+{
+  "title": "Multilingual ELMo and the Effects of Corpus Sampling",
+  "authors": [
+    "Vinit Ravishankar",
+    "Andrey Kutuzov",
+    "Lilja Øvrelid",
+    "Erik Velldal"
+  ],
+  "languages": [
+    "Arabic",
+    "Basque",
+    "Chinese",
+    "English",
+    "Finnish",
+    "Hebrew",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Swedish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2021.nodalida-main.41",
+  "acl_url": "https://aclanthology.org/2021.nodalida-main.41/"
+}

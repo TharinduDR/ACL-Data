@@ -1,0 +1,34 @@
+{
+  "title": "AILS-NTUA at SemEval-2025 Task 3: Leveraging Large Language Models and Translation Strategies for Multilingual Hallucination Detection",
+  "authors": [
+    "Dimitra Karkani",
+    "Maria Lymperaiou",
+    "Giorgos Filandrianos",
+    "Nikolaos Spanos",
+    "Athanasios Voulodimos",
+    "Giorgos Stamou"
+  ],
+  "languages": [
+    "Arabic",
+    "Catalan",
+    "Czech",
+    "German",
+    "English",
+    "Spanish",
+    "Basque",
+    "Persian",
+    "Finnish",
+    "French",
+    "Hindi",
+    "Italian",
+    "Swedish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T28",
+    "T16",
+    "T08"
+  ],
+  "paper_id": "2025.semeval-1.172",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.172/"
+}

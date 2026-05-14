@@ -1,0 +1,25 @@
+{
+  "title": "Translation systems for low-resource Colombian Indigenous languages, a first step towards cultural preservation",
+  "authors": [
+    "Juan C. Prieto",
+    "Cristian A. Martinez",
+    "Melissa Robles",
+    "Alberto Moreno",
+    "Sara Palacios",
+    "Rubén Manrique"
+  ],
+  "languages": [
+    "Spanish",
+    "Wayuunaiki",
+    "Arhuaco",
+    "Inga",
+    "Nasa Yuwe"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.americasnlp-1.2",
+  "acl_url": "https://aclanthology.org/2024.americasnlp-1.2/"
+}

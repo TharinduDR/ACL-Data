@@ -1,0 +1,22 @@
+{
+  "title": "Extracting Multi-Word Expressions Representing Technical Terms and Proper Nouns in Log Messages",
+  "authors": [
+    "Kilian Dangendorf",
+    "Sven-Ove Hänsel",
+    "Jannik Rosendahl",
+    "Felix Heine",
+    "Carsten Kleiner",
+    "Christian Wartena"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T11",
+    "T21",
+    "T13"
+  ],
+  "paper_id": "2026.mwe-1.7",
+  "acl_url": "https://aclanthology.org/2026.mwe-1.7/"
+}

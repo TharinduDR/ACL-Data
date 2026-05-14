@@ -1,0 +1,34 @@
+{
+  "title": "The MultiGEC-2025 Shared Task on Multilingual Grammatical Error Correction at NLP4CALL",
+  "authors": [
+    "Arianna Masciolini",
+    "Andrew Caines",
+    "Orphée De Clercq",
+    "Joni Kruijssbergen",
+    "Murathan Kurfali",
+    "Ricardo Muñoz Sánchez",
+    "Elena Volodina",
+    "Robert Östling"
+  ],
+  "languages": [
+    "Czech",
+    "English",
+    "Estonian",
+    "German",
+    "Greek",
+    "Icelandic",
+    "Italian",
+    "Latvian",
+    "Russian",
+    "Slovene",
+    "Swedish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T18 Text Summarization",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.nlp4call-1.1",
+  "acl_url": "https://aclanthology.org/2025.nlp4call-1.1/"
+}

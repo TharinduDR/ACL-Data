@@ -1,0 +1,26 @@
+{
+  "title": "AILLA-OCR: A First Textual and Structural Post-OCR Dataset for 8 Indigenous Languages of Latin America",
+  "authors": [
+    "Milind Agarwal",
+    "Antonios Anastasopoulos"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Chiquián Quechua",
+    "Mam",
+    "Chuj",
+    "Mískito",
+    "Chimalapa Zoque",
+    "Tzeltal",
+    "Sharanahua",
+    "South Bolivian Quechua"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.computel-main.13",
+  "acl_url": "https://aclanthology.org/2025.computel-main.13/"
+}

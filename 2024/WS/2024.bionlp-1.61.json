@@ -1,0 +1,22 @@
+{
+  "title": "EPFL-MAKE at \"Discharge Me!\": An LLM System for Automatically Generating Discharge Summaries of Clinical Electronic Health Record",
+  "authors": [
+    "Haotian Wu",
+    "Paul Boulenger",
+    "Antonin Faure",
+    "Berta Céspedes",
+    "Farouk Boukil",
+    "Nastasia Morel",
+    "Zeming Chen",
+    "Antoine Bosselut"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.bionlp-1.61",
+  "acl_url": "https://aclanthology.org/2024.bionlp-1.61/"
+}

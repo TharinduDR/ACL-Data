@@ -1,0 +1,28 @@
+{
+  "title": "JHARNA-MT: A Copy-Augmented Hybrid of LoRA-Tuned NLLB and Lexical SMT with Minimum Bayes Risk Decoding for Low-Resource Indic Languages",
+  "authors": [
+    "Huynh Trung Kiet",
+    "Dao Sy Duy Minh",
+    "Tran Chi Nguyen",
+    "Nguyen Lam Phu Quy",
+    "Pham Phu Hoa",
+    "Nguyen Dinh Ha Duong",
+    "Dinh Dien",
+    "Nguyen Hong Buu Long"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bhili",
+    "Gondi",
+    "Mundari",
+    "Santali"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.mmloso-1.13",
+  "acl_url": "https://aclanthology.org/2025.mmloso-1.13/"
+}

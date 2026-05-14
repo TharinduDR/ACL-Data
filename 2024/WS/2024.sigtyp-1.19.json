@@ -1,0 +1,35 @@
+{
+  "title": "Findings of the SIGTYP 2024 Shared Task on Word Embedding Evaluation for Ancient and Historical Languages",
+  "authors": [
+    "Oksana Dereza",
+    "Adrian Doyle",
+    "Priya Rani",
+    "Atul Kr. Ojha",
+    "Pádraic Moran",
+    "John P. McCrae"
+  ],
+  "languages": [
+    "Ancient Greek",
+    "Ancient Hebrew",
+    "Classical Chinese",
+    "Coptic",
+    "Gothic",
+    "Medieval Icelandic",
+    "Classical & Late Latin",
+    "Medieval Latin",
+    "Old Church Slavonic",
+    "Old East Slavic",
+    "Old French",
+    "Vedic Sanskrit",
+    "Old Hungarian",
+    "Old Irish",
+    "Middle Irish",
+    "Early Modern Irish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.sigtyp-1.19",
+  "acl_url": "https://aclanthology.org/2024.sigtyp-1.19/"
+}

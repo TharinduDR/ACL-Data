@@ -1,0 +1,20 @@
+{
+  "title": "IndoNLP 2025 Shared Task: Romanized Sinhala to Sinhala Reverse Transliteration Using BERT",
+  "authors": [
+    "Sameera Perera",
+    "Lahiru Prabhath",
+    "T.G.D.K. Sumanathilaka",
+    "Isuri Anuradha"
+  ],
+  "languages": [
+    "Sinhala",
+    "English"
+  ],
+  "research_areas": [
+    "T16",
+    "T14",
+    "T08"
+  ],
+  "paper_id": "2025.indonlp-1.16",
+  "acl_url": "https://aclanthology.org/2025.indonlp-1.16/"
+}

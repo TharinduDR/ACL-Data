@@ -1,0 +1,26 @@
+{
+  "title": "When Every Token Counts: Optimal Segmentation for Low-Resource Language Models",
+  "authors": [
+    "Bharath Raj S",
+    "Garvit Suri",
+    "Vikrant Dewangan",
+    "Raghav Sonavane"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "Malay",
+    "Finnish",
+    "Telugu",
+    "Tamil",
+    "Hindi",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.loreslm-1.24",
+  "acl_url": "https://aclanthology.org/2025.loreslm-1.24/"
+}

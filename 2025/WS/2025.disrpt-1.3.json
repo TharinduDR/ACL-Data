@@ -1,0 +1,41 @@
+{
+  "title": "CLaC at DISRPT 2025: Hierarchical Adapters for Cross-Framework Multi-lingual Discourse Relation Classification",
+  "authors": [
+    "Nawar Turk",
+    "Daniele Comitogiani",
+    "Leila Kosseim"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Czech",
+    "Basque",
+    "Polish",
+    "Dutch",
+    "Arabic",
+    "Indonesian",
+    "Korean",
+    "Japanese",
+    "Vietnamese",
+    "Hindi",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T05 Discourse and Pragmatics",
+    "T14 Language Modeling",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.disrpt-1.3",
+  "acl_url": "https://aclanthology.org/2025.disrpt-1.3/"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Data Contamination Report from the 2024 CONDA Shared Task",
+  "authors": [
+    "Oscar Sainz",
+    "Iker García-Ferrero",
+    "Alon Jacovi",
+    "Jon Ander Campos",
+    "Yanai Elazar",
+    "Eneko Agirre",
+    "Yoav Goldberg",
+    "Wei-Lin Chen",
+    "Jenny Chim",
+    "Leshem Choshen",
+    "Luca D'Amico-Wong",
+    "Melissa Dell",
+    "Run-Ze Fan",
+    "Shahriar Golchin",
+    "Yucheng Li",
+    "Pengfei Liu",
+    "Bhavish Pahwa",
+    "Ameya Prabhu",
+    "Suryansh Sharma",
+    "Emily Silcock",
+    "Kateryna Solonko",
+    "David Stap",
+    "Mihai Surdeanu",
+    "Yu-Min Tseng",
+    "Vishaal Udandarao",
+    "Zengzhi Wang",
+    "Ruijie Xu",
+    "Jinglin Yang"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.conda-1.4",
+  "acl_url": "https://aclanthology.org/2024.conda-1.4/"
+}

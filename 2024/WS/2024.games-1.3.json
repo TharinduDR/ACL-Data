@@ -1,0 +1,22 @@
+{
+  "title": "Hostomytho: A GWAP for Synthetic Clinical Texts Evaluation and Annotation",
+  "authors": [
+    "Nicolas Hiebel",
+    "Bertrand Remy",
+    "Bruno Guillaume",
+    "Olivier Ferret",
+    "Aurélie Névèol",
+    "Karën Fort"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T26 Clinical/biomedical NLP",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2024.games-1.3",
+  "acl_url": "https://aclanthology.org/2024.games-1.3/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Statistical Semantic Change Detection via Usage Similarities",
+  "authors": [
+    "Taichi Aida",
+    "Daichi Mochihashi",
+    "Hiroya Takamura",
+    "Toshinobu Ogiso",
+    "Mamoru Komachi"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Latin",
+    "Spanish",
+    "Chinese",
+    "Italian",
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.lchange-1.2",
+  "acl_url": "https://aclanthology.org/2026.lchange-1.2/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "MONAPipe: Modes of Narration and Attribution Pipeline for German Computational Literary Studies and Language Analysis in spaCy",
+  "authors": [
+    "Tillmann Dönicke",
+    "Florian Barth",
+    "Hanna Varachkina",
+    "Caroline Sporleder"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2022.konvens-1.2",
+  "acl_url": "https://aclanthology.org/2022.konvens-1.2/"
+}

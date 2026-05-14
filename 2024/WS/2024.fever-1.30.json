@@ -1,0 +1,17 @@
+{
+  "title": "FactGenius: Combining Zero-Shot Prompting and Fuzzy Relation Mining to Improve Fact Verification with Knowledge Graphs",
+  "authors": [
+    "Sushant Gautam",
+    "Roxana Pop"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.fever-1.30",
+  "acl_url": "https://aclanthology.org/2024.fever-1.30/"
+}

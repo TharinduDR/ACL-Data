@@ -1,0 +1,21 @@
+{
+  "title": "Fine-tuning LLMs to Extract Epilepsy Seizure Frequency Data from Health Records",
+  "authors": [
+    "Ben Holgate",
+    "Joe Davies",
+    "Shichao Fang",
+    "Joel S. Winston",
+    "James T. Teo",
+    "Mark P. Richardson"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.bionlp-1.5",
+  "acl_url": "https://aclanthology.org/2025.bionlp-1.5/"
+}

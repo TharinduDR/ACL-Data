@@ -1,0 +1,22 @@
+{
+  "title": "Human-Centered Design Recommendations for LLM-as-a-Judge",
+  "authors": [
+    "Qian Pan",
+    "Zahra Ashktorab",
+    "Michael Desmond",
+    "Martin Santillan Cooper",
+    "James Johnson",
+    "Rahul Nair",
+    "Elizabeth Daly",
+    "Werner Geyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.hucllm-1.2",
+  "acl_url": "https://aclanthology.org/2024.hucllm-1.2/"
+}

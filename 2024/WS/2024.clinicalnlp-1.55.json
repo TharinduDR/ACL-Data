@@ -1,0 +1,24 @@
+{
+  "title": "Overview of the MEDIQA-M3G 2024 Shared Task on Multilingual Multimodal Medical Answer Generation",
+  "authors": [
+    "Wen-wai Yim",
+    "Asma Ben Abacha",
+    "Yujuan Fu",
+    "Zhaoyi Sun",
+    "Fei Xia",
+    "Meliha Yetisgen",
+    "Martin Krallinger"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.clinicalnlp-1.55",
+  "acl_url": "https://aclanthology.org/2024.clinicalnlp-1.55/"
+}

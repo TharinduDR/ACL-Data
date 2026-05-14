@@ -1,0 +1,26 @@
+{
+  "title": "What an Elegant Bridge: Multilingual LLMs are Biased Similarly in Different Languages",
+  "authors": [
+    "Viktor Mihaylov",
+    "Aleksandar Shtedritski"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Czech",
+    "French",
+    "German",
+    "Greek",
+    "Hindi",
+    "Italian",
+    "Latvian",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.mrl-1.2",
+  "acl_url": "https://aclanthology.org/2024.mrl-1.2/"
+}

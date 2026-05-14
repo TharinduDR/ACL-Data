@@ -1,0 +1,34 @@
+{
+  "title": "UB_Tel-U at SemEval-2025 Task 11: Emotions Without Borders - A Unified Framework for Multilingual Classification Using Augmentation and Ensemble",
+  "authors": [
+    "Tirana Noor Fatyanosa",
+    "Putra Pandu Adikara",
+    "Rochmanu Purnomohadi Erfitra",
+    "Muhammad Rajendra Alkautsar Dikna",
+    "Sari Dewi Budiwati",
+    "Cahyana"
+  ],
+  "languages": [
+    "English",
+    "Afrikaans",
+    "Chinese",
+    "Hindi",
+    "Marathi",
+    "Portuguese",
+    "Russian",
+    "Ukrainian",
+    "Amharic",
+    "Spanish",
+    "Arabic",
+    "French",
+    "Yoruba",
+    "Emakhuwa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2025.semeval-1.253",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.253/"
+}

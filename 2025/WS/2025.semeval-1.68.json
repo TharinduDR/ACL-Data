@@ -1,0 +1,17 @@
+{
+  "title": "MRT at SemEval-2025 Task 8: Maximizing Recovery from Tables with Multiple Steps",
+  "authors": [
+    "Maximiliano Hormazábal Lagos",
+    "Álvaro Bueno Sáez",
+    "Héctor Cerezo-Costas",
+    "Pedro Alonso Doval",
+    "Jorge Alcalde Vesteiro"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2025.semeval-1.68",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.68/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "A Dataset for ICD-10 Coding of Death Certificates: Creation and Usage",
+  "authors": [
+    "Thomas Lavergne",
+    "Aurélie Névél",
+    "Aude Robert",
+    "Cyril Grouin",
+    "Grégoire Rey",
+    "Pierre Zweigenbaum"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W16-5107",
+  "acl_url": "https://aclanthology.org/W16-5107/"
+}

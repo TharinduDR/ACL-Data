@@ -1,0 +1,24 @@
+{
+  "title": "An Unsupervised Query Rewriting Approach Using N-gram Co-occurrence Statistics to Find Similar Phrases in Large Text Corpora",
+  "authors": [
+    "Hans Moen",
+    "Laura-Maria Peltonen",
+    "Henry Suhonen",
+    "Hanna-Maria Matinolli",
+    "Riitta Mieronkoski",
+    "Kirsi Telen",
+    "Kirsi Terho",
+    "Tapio Salakoski",
+    "Sanna Salanterä"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "W19-6114",
+  "acl_url": "https://aclanthology.org/W19-6114/"
+}

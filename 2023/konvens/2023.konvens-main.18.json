@@ -1,0 +1,20 @@
+{
+  "title": "Evaluating Data Augmentation Techniques for the Training of Luxembourgish Language Models",
+  "authors": [
+    "Isabella Olariu",
+    "Cedric Lothritz",
+    "Tegawendé F. Bissyandé",
+    "Jacques Klein"
+  ],
+  "languages": [
+    "Luxembourgish",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.konvens-main.18",
+  "acl_url": "https://aclanthology.org/2023.konvens-main.18/"
+}

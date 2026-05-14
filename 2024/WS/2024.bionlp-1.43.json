@@ -1,0 +1,23 @@
+{
+  "title": "Extracting Epilepsy Patient Data with Llama 2",
+  "authors": [
+    "Ben Holgate",
+    "Shichao Fang",
+    "Anthony Shek",
+    "Matthew McWilliam",
+    "Pedro Viana",
+    "Joel S. Winston",
+    "James T. Teo",
+    "Mark P. Richardson"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.bionlp-1.43",
+  "acl_url": "https://aclanthology.org/2024.bionlp-1.43/"
+}

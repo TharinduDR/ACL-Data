@@ -1,0 +1,21 @@
+{
+  "title": "A Computational Study of Matrix Decomposition Methods for Compression of Pre-trained Transformers",
+  "authors": [
+    "Viktoria Chekalina",
+    "Daniil Moskovskiy",
+    "Sergey Pletenev",
+    "Mikhail Seleznov",
+    "Sergey Zagoruyko",
+    "Alexander Panchenko"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T20 Sentiment Analysis"
+  ],
+  "paper_id": "2023.paclic-1.73",
+  "acl_url": "https://aclanthology.org/2023.paclic-1.73/"
+}

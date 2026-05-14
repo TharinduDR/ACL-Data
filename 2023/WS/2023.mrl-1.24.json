@@ -1,0 +1,41 @@
+{
+  "title": "Findings of the 1st Shared Task on Multi-lingual Multi-task Information Retrieval at MRL 2023",
+  "authors": [
+    "Francesco Tinner",
+    "David Ifeoluwa Adelani",
+    "Chris Emezue",
+    "Mammad Hajili",
+    "Omer Goldman",
+    "Muhammad Farid Adilazuarda",
+    "Muhammad Dehan Al Kautsar",
+    "Aziza Mirsaidova",
+    "Müge Kural",
+    "Dylan Massey",
+    "Chiamaka Chukwuneke",
+    "Chinedu Mbonu",
+    "Damilola Oluwaseun Oloyede",
+    "Kayode Olaleye",
+    "Jonathan Atala",
+    "Benjamin A. Ajibade",
+    "Saksham Bassi",
+    "Rahul Aralikatte",
+    "Najoung Kim",
+    "Duygu Ataman"
+  ],
+  "languages": [
+    "Azerbaijani",
+    "Igbo",
+    "Indonesian",
+    "Swiss German",
+    "Turkish",
+    "Uzbek",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.mrl-1.24",
+  "acl_url": "https://aclanthology.org/2023.mrl-1.24/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "BiaSWE: An Expert Annotated Dataset for Misogyny Detection in Swedish",
+  "authors": [
+    "Kätriin Kukk",
+    "Danila Petrelli",
+    "Judit Casademont",
+    "Eric J. W. Orłowski",
+    "Michał Dzieliński",
+    "Maria Jacobson"
+  ],
+  "languages": [
+    "Swedish",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.nodalida-1.33",
+  "acl_url": "https://aclanthology.org/2025.nodalida-1.33/"
+}

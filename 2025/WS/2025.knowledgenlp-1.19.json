@@ -1,0 +1,25 @@
+{
+  "title": "HEAL: Hierarchical Embedding Alignment Loss for Improved Retrieval and Representation Learning",
+  "authors": [
+    "Manish Bhattacharai",
+    "Ryan Barron",
+    "Maksim Eren",
+    "Minh Vu",
+    "Vesselin Grantcharov",
+    "Ismael Boureima",
+    "Valentin Stanev",
+    "Cynthia Matuszek",
+    "Vladimir Valtchinov",
+    "Kim Rasmussen",
+    "Boian Alexandrov"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.knowledgenlp-1.19",
+  "acl_url": "https://aclanthology.org/2025.knowledgenlp-1.19/"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "SALT-31: A Machine Translation Benchmark Dataset for 31 Ugandan Languages",
+  "authors": [
+    "Solomon Nsumba",
+    "Benjamin Akera",
+    "Evelyn Nafula Ouma",
+    "Medadi Ssentanda",
+    "Deo Kawalya",
+    "Engineer Bainomugisha",
+    "Ernest Tonny Mwebaze",
+    "John Quinn"
+  ],
+  "languages": [
+    "English",
+    "Luganda",
+    "Lusoga",
+    "Runyankole",
+    "Rutooro",
+    "Acholi",
+    "Lango",
+    "Ateso",
+    "Lugbara",
+    "Ma'di"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.africanlp-main.21",
+  "acl_url": "https://aclanthology.org/2026.africanlp-main.21/"
+}

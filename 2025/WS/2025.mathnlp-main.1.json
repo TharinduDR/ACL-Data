@@ -1,0 +1,18 @@
+{
+  "title": "Syntactic Blind Spots: How Misalignment Leads to LLMs' Mathematical Errors",
+  "authors": [
+    "Dane Williamson",
+    "Yangfeng Ji",
+    "Matthew Dwyer"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.mathnlp-main.1",
+  "acl_url": "https://aclanthology.org/2025.mathnlp-main.1/"
+}

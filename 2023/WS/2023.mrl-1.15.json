@@ -1,0 +1,30 @@
+{
+  "title": "CAPIVARA: Cost-Efficient Approach for Improving Multilingual CLIP Performance on Low-Resource Languages",
+  "authors": [
+    "Gabriel Oliveira dos Santos",
+    "Diego A. B. Moreira",
+    "Alef Iury Ferreira",
+    "Jhessica Silva",
+    "Luiz Pereira",
+    "Pedro Bueno",
+    "Thiago Sousa",
+    "Helena Maia",
+    "Nádia da Silva",
+    "Esther Colombini",
+    "Helio Pedrini",
+    "Sandra Avila"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Xhosa",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.mrl-1.15",
+  "acl_url": "https://aclanthology.org/2023.mrl-1.15/"
+}

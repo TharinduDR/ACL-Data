@@ -1,0 +1,21 @@
+{
+  "title": "Evaluating Text Style Transfer Evaluation: Are There Any Reliable Metrics?",
+  "authors": [
+    "Sourabrata Mukherjee",
+    "Atul Kr. Ojha",
+    "John P. McCrae",
+    "Ondřej Dušek"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.naacl-srw.41",
+  "acl_url": "https://aclanthology.org/2025.naacl-srw.41/"
+}

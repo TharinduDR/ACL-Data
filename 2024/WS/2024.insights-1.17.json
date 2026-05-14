@@ -1,0 +1,22 @@
+{
+  "title": "The Ups and Downs of Large Language Model Inference with Vocabulary Trimming by Language Heuristics",
+  "authors": [
+    "Nikolay Bogoychev",
+    "Pinzhen Chen",
+    "Barry Haddow",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Chinese",
+    "English",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.insights-1.17",
+  "acl_url": "https://aclanthology.org/2024.insights-1.17/"
+}

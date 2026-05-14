@@ -1,0 +1,18 @@
+{
+  "title": "Applying and Sharing pre-trained BERT-models for Named Entity Recognition and Classification in Swedish Electronic Patient Records",
+  "authors": [
+    "Mila Grancharova",
+    "Hercules Dalianis"
+  ],
+  "languages": [
+    "Swedish",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2021.nodalida-main.23",
+  "acl_url": "https://aclanthology.org/2021.nodalida-main.23/"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Uncertainty in Semantic Language Modeling with PIXELS",
+  "authors": [
+    "Stefania Radu",
+    "Marco Zullich",
+    "Matias Valdenegro-Toro"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bengali",
+    "Finnish",
+    "Indonesian",
+    "Korean",
+    "Russian",
+    "Swahili",
+    "Telugu",
+    "Amharic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Luganda",
+    "Luo",
+    "Nigerian-Pidgin",
+    "Swahili",
+    "Wolof",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T11",
+    "T12",
+    "T14"
+  ],
+  "paper_id": "2025.uncertainlp-main.11",
+  "acl_url": "https://aclanthology.org/2025.uncertainlp-main.11/"
+}

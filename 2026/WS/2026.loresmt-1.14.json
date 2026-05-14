@@ -1,0 +1,21 @@
+{
+  "title": "Can Linguistically Related Languages Guide LLM Translation in Low-Resource Settings?",
+  "authors": [
+    "Aishwarya Ramasethu",
+    "Rohin Garg",
+    "Niyathi Allu",
+    "Harshwardhan Fartale",
+    "Dun Li Chan"
+  ],
+  "languages": [
+    "English",
+    "Konkani",
+    "Tunisian Arabic"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2026.loresmt-1.14",
+  "acl_url": "https://aclanthology.org/2026.loresmt-1.14/"
+}

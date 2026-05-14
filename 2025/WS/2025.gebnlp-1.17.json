@@ -1,0 +1,22 @@
+{
+  "title": "Can Explicit Gender Information Improve Zero-Shot Machine Translation?",
+  "authors": [
+    "Van-Hien Tran",
+    "Huy Hien Vu",
+    "Hideki Tanaka",
+    "Masao Utiyama"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.gebnlp-1.17",
+  "acl_url": "https://aclanthology.org/2025.gebnlp-1.17/"
+}

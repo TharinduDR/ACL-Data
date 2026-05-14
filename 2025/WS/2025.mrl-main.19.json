@@ -1,0 +1,22 @@
+{
+  "title": "Alif: Advancing Urdu Large Language Models via Multilingual Synthetic Data Distillation",
+  "authors": [
+    "Muhammad Ali Shafique",
+    "Kanwal Mehreen",
+    "Muhammad Arham",
+    "Maaz Amjad",
+    "Sabur Butt",
+    "Hamza Farooq"
+  ],
+  "languages": [
+    "Urdu",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.mrl-main.19",
+  "acl_url": "https://aclanthology.org/2025.mrl-main.19/"
+}

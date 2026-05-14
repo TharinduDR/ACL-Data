@@ -1,0 +1,37 @@
+{
+  "title": "The Propositional Idea Densities of Different Languages in Multi-Lingual Parallel Corpus",
+  "authors": [
+    "Yuka Kaise",
+    "Yuto Tsuchiya",
+    "Masanori Oya"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Czech",
+    "German",
+    "English",
+    "Spanish",
+    "Finnish",
+    "French",
+    "Galician",
+    "Hindi",
+    "Indonesian",
+    "Icelandic",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Swedish",
+    "Thai",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2025.paclic-1.25",
+  "acl_url": "https://aclanthology.org/2025.paclic-1.25/"
+}

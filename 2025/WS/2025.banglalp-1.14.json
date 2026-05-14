@@ -1,0 +1,23 @@
+{
+  "title": "BLUCK: A Benchmark Dataset for Bengali Linguistic Understanding and Cultural Knowledge",
+  "authors": [
+    "Daeen Kabir",
+    "Minhajur Rahman Chowdhury Mahim",
+    "Sheikh Shafayat",
+    "Adnan Sadik",
+    "Arian Ahmed",
+    "Eunsu Kim",
+    "Alice Oh"
+  ],
+  "languages": [
+    "Bengali",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.banglalp-1.14",
+  "acl_url": "https://aclanthology.org/2025.banglalp-1.14/"
+}

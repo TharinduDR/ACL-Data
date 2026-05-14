@@ -1,0 +1,22 @@
+{
+  "title": "From Text to Multi-Modal: Advancing Low-Resource-Language Translation through Synthetic Data Generation and Cross-Modal Alignments",
+  "authors": [
+    "Bushi Xiao",
+    "Qian Shen",
+    "Daisy Zhe Wang"
+  ],
+  "languages": [
+    "English",
+    "Hausa",
+    "Kanuri",
+    "Tigrinya",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.loresmt-1.4",
+  "acl_url": "https://aclanthology.org/2025.loresmt-1.4/"
+}

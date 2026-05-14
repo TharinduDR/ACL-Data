@@ -1,0 +1,25 @@
+{
+  "title": "Reasoning Beyond Labels: Measuring LLM Sentiment in Low-Resource, Culturally Nuanced Contexts",
+  "authors": [
+    "Millicent Ochieng",
+    "Anja Thieme",
+    "Ignatius Ezeani",
+    "Risa Ueno",
+    "Samuel Maina",
+    "Keshet Ronen",
+    "Javier González",
+    "Jacki O'Neill"
+  ],
+  "languages": [
+    "English",
+    "Swahili",
+    "Sheng"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2026.africanlp-main.7",
+  "acl_url": "https://aclanthology.org/2026.africanlp-main.7/"
+}

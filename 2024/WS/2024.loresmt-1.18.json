@@ -1,0 +1,45 @@
+{
+  "title": "Benchmarking Low-Resource Machine Translation Systems",
+  "authors": [
+    "Ana Alexandra Morim da Silva",
+    "Nikit Srivastava",
+    "Tatiana Moteu Ngoli",
+    "Michael Röder",
+    "Diego Moussallem",
+    "Axel-Cyrille Ngonga Ngomo"
+  ],
+  "languages": [
+    "French",
+    "German",
+    "Japanese",
+    "Dutch",
+    "Finnish",
+    "Hindi",
+    "Italian",
+    "Korean",
+    "Russian",
+    "Bengali",
+    "Bulgarian",
+    "Estonian",
+    "Hebrew",
+    "Indonesian",
+    "Lithuanian",
+    "Romanian",
+    "Thai",
+    "Ukrainian",
+    "Irish",
+    "Xhosa",
+    "Macedonian",
+    "Malayalam",
+    "Nepali",
+    "Norwegian Bokmål",
+    "Telugu",
+    "Sinhala"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.loresmt-1.18",
+  "acl_url": "https://aclanthology.org/2024.loresmt-1.18/"
+}

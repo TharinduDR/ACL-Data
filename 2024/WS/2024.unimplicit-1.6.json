@@ -1,0 +1,32 @@
+{
+  "title": "Exposing propaganda: an analysis of stylistic cues comparing human annotations and machine classification",
+  "authors": [
+    "Géraud Faye",
+    "Benjamin Icard",
+    "Morgane Casanova",
+    "Julien Chanson",
+    "François Maine",
+    "François Bancilhon",
+    "Guillaume Gadek",
+    "Guillaume Gravier",
+    "Paul Égré"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Russian",
+    "Spanish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.unimplicit-1.6",
+  "acl_url": "https://aclanthology.org/2024.unimplicit-1.6/"
+}

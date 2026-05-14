@@ -1,0 +1,29 @@
+{
+  "title": "Atlas-Chat: Adapting Large Language Models for Low-Resource Moroccan Arabic Dialect",
+  "authors": [
+    "Guokan Shang",
+    "Hadi Abdine",
+    "Yousef Khourbane",
+    "Amr Mohamed",
+    "Yassine Abbahaddou",
+    "Sofiane Ennadir",
+    "Imane Momayiz",
+    "Xuguang Ren",
+    "Eric Moulines",
+    "Preslav Nakov",
+    "Michalis Vazirgiannis",
+    "Eric Xing"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.loreslm-1.2",
+  "acl_url": "https://aclanthology.org/2025.loreslm-1.2/"
+}

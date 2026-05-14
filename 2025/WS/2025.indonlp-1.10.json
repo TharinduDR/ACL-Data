@@ -1,0 +1,21 @@
+{
+  "title": "ExMute: A Context-Enriched Multimodal Dataset for Hateful Memes",
+  "authors": [
+    "Riddhiman Swanan Deb Nath",
+    "Nahian Beente Firuj",
+    "Abdul Wadud Shakib",
+    "Sadia Sultana",
+    "Md Saiful Islam"
+  ],
+  "languages": [
+    "Bengali",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.indonlp-1.10",
+  "acl_url": "https://aclanthology.org/2025.indonlp-1.10/"
+}

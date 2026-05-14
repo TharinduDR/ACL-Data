@@ -1,0 +1,22 @@
+{
+  "title": "Practical Approaches for Low-Resource Named Entity Recognition of Filipino Telecommunications Domain",
+  "authors": [
+    "Kyle Chan",
+    "Kaye Ann Delas Alas",
+    "Charles Orcena",
+    "Dan John Velasco",
+    "Qyle John San Juan",
+    "Charibeth Cheng"
+  ],
+  "languages": [
+    "English",
+    "Filipino"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.paclic-1.24",
+  "acl_url": "https://aclanthology.org/2023.paclic-1.24/"
+}

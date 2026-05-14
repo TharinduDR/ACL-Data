@@ -1,0 +1,20 @@
+{
+  "title": "Synthetic AI Data Pipeline for Domain-Specific Speech-to-Text Solutions",
+  "authors": [
+    "Anderson Luiz Karl",
+    "Guilherme Sales Fernandes",
+    "Leonardo Augusto Pires",
+    "Yvens R. Serpa",
+    "Carlos Caminha"
+  ],
+  "languages": [
+    "Portuguese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2024.stil-1.2",
+  "acl_url": "https://aclanthology.org/2024.stil-1.2/"
+}

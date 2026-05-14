@@ -1,0 +1,27 @@
+{
+  "title": "APE: Active Learning-based Tooling for Finding Informative Few-shot Examples for LLM-based Entity Matching",
+  "authors": [
+    "Kun Qian",
+    "Yisi Sang",
+    "Farima Fatahi Bayat",
+    "Anton Belyi",
+    "Xianqi Chu",
+    "Yash Govind",
+    "Samira Khorshidi",
+    "Rahul Khot",
+    "Katherine Luna",
+    "Azadeh Nikfarjam",
+    "Xiaoguang Qi",
+    "Fei Wu",
+    "Xianhan Zhang",
+    "Yunyao Li"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2024.dash-1.1",
+  "acl_url": "https://aclanthology.org/2024.dash-1.1/"
+}

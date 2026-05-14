@@ -1,0 +1,19 @@
+{
+  "title": "What changes when you randomly choose BPE merge operations? Not much.",
+  "authors": [
+    "Jonne Sälevä",
+    "Constantine Lignos"
+  ],
+  "languages": [
+    "Finnish",
+    "Estonian",
+    "German",
+    "Uzbek"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.insights-1.7",
+  "acl_url": "https://aclanthology.org/2023.insights-1.7/"
+}

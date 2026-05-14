@@ -1,0 +1,28 @@
+{
+  "title": "Exploring the traditional NMT model and Large Language Model for chat translation",
+  "authors": [
+    "Jinlong Yang",
+    "Hengchao Shang",
+    "Daimeng Wei",
+    "Jiaxin Guo",
+    "Zongyao Li",
+    "Zhanglin Wu",
+    "Zhiqiang Rao",
+    "Shaojun Li",
+    "Yuhao Xie",
+    "Yuanchang Luo",
+    "Jiawei Zheng",
+    "Bin Wei",
+    "Hao Yang"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.wmt-1.105",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.105/"
+}

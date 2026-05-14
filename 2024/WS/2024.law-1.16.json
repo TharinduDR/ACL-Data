@@ -1,0 +1,33 @@
+{
+  "title": "PropBank goes Public: Incorporation into Wikidata",
+  "authors": [
+    "Elizabeth Spaulding",
+    "Kathryn Conger",
+    "Anatole Gershman",
+    "Mahir Morshed",
+    "Susan Windisch Brown",
+    "James Pustejovsky",
+    "Rosario Uceda-Sosa",
+    "Sijia Ge",
+    "Martha Palmer"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Swahili",
+    "Zulu",
+    "Xhosa",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.law-1.16",
+  "acl_url": "https://aclanthology.org/2024.law-1.16/"
+}

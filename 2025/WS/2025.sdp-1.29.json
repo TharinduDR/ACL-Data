@@ -1,0 +1,24 @@
+{
+  "title": "Overview of the SciHal25 Shared Task on Hallucination Detection for Scientific Content",
+  "authors": [
+    "Dan Li",
+    "Bogdan Palfi",
+    "Colin Kehang Zhang",
+    "Jaiganesh Subramanian",
+    "Adrian Raudaschl",
+    "Yoshiko Kakita",
+    "Anita De Waard",
+    "Zubair Afzal",
+    "Georgios Tsatsaronis"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.sdp-1.29",
+  "acl_url": "https://aclanthology.org/2025.sdp-1.29/"
+}

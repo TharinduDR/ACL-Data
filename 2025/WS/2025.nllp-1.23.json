@@ -1,0 +1,26 @@
+{
+  "title": "LeMAJ (Legal LLM-as-a-Judge): Bridging Legal Reasoning and LLM Evaluation",
+  "authors": [
+    "Joseph Enguehard",
+    "Morgane Van Ermengem",
+    "Kate Atkinson",
+    "Sujeong Cha",
+    "Arijit Ghosh Chowdhury",
+    "Prashanth Kallur Ramaswamy",
+    "Jeremy Roghair",
+    "Hannah R Marlowe",
+    "Carina Suzana Negreanu",
+    "Kitty Boxall",
+    "Diana Mincu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2025.nllp-1.23",
+  "acl_url": "https://aclanthology.org/2025.nllp-1.23/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "BERT-based Idiom Identification using Language Translation and Word Cohesion",
+  "authors": [
+    "Arnav Yayavaram",
+    "Siddharth Yayavaram",
+    "Prajna Upadhyay",
+    "Apurba Das"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.mwe-1.26",
+  "acl_url": "https://aclanthology.org/2024.mwe-1.26/"
+}

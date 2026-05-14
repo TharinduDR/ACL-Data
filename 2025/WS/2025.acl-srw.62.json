@@ -1,0 +1,32 @@
+{
+  "title": "Only for the Unseen Languages, Say the Llamas: On the Efficacy of Language Adapters for Cross-lingual Transfer in English-centric LLMs",
+  "authors": [
+    "Julian Schlenker",
+    "Jenny Kunz",
+    "Tatiana Anikina",
+    "Günter Neumann",
+    "Simon Ostermann"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Afrikaans",
+    "Dutch",
+    "Swedish",
+    "Danish",
+    "Icelandic",
+    "Portuguese",
+    "Catalan",
+    "Galician",
+    "Finnish",
+    "Hungarian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.acl-srw.62",
+  "acl_url": "https://aclanthology.org/2025.acl-srw.62/"
+}

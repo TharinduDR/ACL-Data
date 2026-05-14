@@ -1,0 +1,24 @@
+{
+  "title": "AbjadStyleTransfer: Authorship Style Transfer for Arabic-Script Languages at AbjadNLP 2026",
+  "authors": [
+    "Shadi Abdalfala",
+    "Saad Ezzini",
+    "Ahmed Abdelali",
+    "Mustafa Jarrar",
+    "Mo El-Haj",
+    "Nadir Durrani",
+    "Hassan Sajjad",
+    "Farah Adeeba"
+  ],
+  "languages": [
+    "Arabic",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.abjadnlp-1.70",
+  "acl_url": "https://aclanthology.org/2026.abjadnlp-1.70/"
+}

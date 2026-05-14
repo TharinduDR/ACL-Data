@@ -1,0 +1,23 @@
+{
+  "title": "Replacing OOV Words For Dependency Parsing With Distributional Semantics",
+  "authors": [
+    "Prasanth Kolachina",
+    "Martin Riedl",
+    "Chris Biemann"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French",
+    "German",
+    "Hindi",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W17-0202",
+  "acl_url": "https://aclanthology.org/W17-0202/"
+}

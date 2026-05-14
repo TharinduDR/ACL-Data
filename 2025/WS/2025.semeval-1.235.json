@@ -1,0 +1,40 @@
+{
+  "title": "McGill-NLP at SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection",
+  "authors": [
+    "Vivek Verma",
+    "David Ifeoluwa Adelani"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Amharic",
+    "Algerian Arabic",
+    "Moroccan Arabic",
+    "Chinese",
+    "German",
+    "English",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Marathi",
+    "Oromo",
+    "Nigerian-Pidgin",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Somali",
+    "Sundanese",
+    "Swahili",
+    "Swedish",
+    "Tatar",
+    "Tigrinya",
+    "Ukrainian",
+    "Emakhuwa",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.semeval-1.235",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.235/"
+}

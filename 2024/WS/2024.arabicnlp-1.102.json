@@ -1,0 +1,20 @@
+{
+  "title": "muNERa at WojooodNER 2024: Multi-tasking NER Approach",
+  "authors": [
+    "Nouf M. Alotaibi",
+    "Haneen Alhomoud",
+    "Hanan Murayshid",
+    "Waad Alshammari",
+    "Nouf Alshalawi",
+    "Sakhar Alkhareyf"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.arabicnlp-1.102",
+  "acl_url": "https://aclanthology.org/2024.arabicnlp-1.102/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "SKPD Emergency@NLU of Devanagari Script Languages 2025: Devanagari Script Classification using CBOW Embeddings with Attention-Enhanced BiLSTM",
+  "authors": [
+    "Shubham Shakya",
+    "Saral Sainju",
+    "Subham Krishna Shrestha",
+    "Prekshya Dawadi",
+    "Shreya Khatiwada"
+  ],
+  "languages": [
+    "Nepali",
+    "Marathi",
+    "Sanskrit",
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.chipsal-1.40",
+  "acl_url": "https://aclanthology.org/2025.chipsal-1.40/"
+}

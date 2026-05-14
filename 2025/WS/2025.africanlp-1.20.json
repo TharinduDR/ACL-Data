@@ -1,0 +1,37 @@
+{
+  "title": "YodiV3: NLP for Togolese Languages with Eyaa-Tom Dataset and the Lom Metric",
+  "authors": [
+    "Justin E. Bakoubolo",
+    "Catherine Nana Nyaah Essuman",
+    "Messian Agbobli, PhD",
+    "Ahoefa Kansiwer, PhD",
+    "Kpona Sekpane Kpatika",
+    "Notou Your Timibe, PhD",
+    "Agossou, PhD",
+    "Guedela Bakouya, PhD",
+    "Bruno Koukoudjoe, PhD",
+    "Samuel Kossi Mawouena Afola",
+    "et al."
+  ],
+  "languages": [
+    "French",
+    "English",
+    "Ewe",
+    "Kabye",
+    "Tem",
+    "Moba",
+    "Lamba",
+    "Adja",
+    "Mina",
+    "Bassar",
+    "Nawdm",
+    "Konkomba"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.africanlp-1.20",
+  "acl_url": "https://aclanthology.org/2025.africanlp-1.20/"
+}

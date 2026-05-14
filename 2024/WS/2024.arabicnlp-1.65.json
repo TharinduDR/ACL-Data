@@ -1,0 +1,24 @@
+{
+  "title": "BiasGanda at FIGNEWS 2024 Shared Task: A Quest to Uncover Biased Views in News Coverage",
+  "authors": [
+    "Al Manar Al Wardi",
+    "Blqees Al Busaidi",
+    "Malath Al-Sibani",
+    "Hiba Salim Mohammed Al-Siyabi",
+    "Najma Al Zidjaly"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "French",
+    "Hebrew",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.arabicnlp-1.65",
+  "acl_url": "https://aclanthology.org/2024.arabicnlp-1.65/"
+}

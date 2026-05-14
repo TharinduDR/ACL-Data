@@ -1,0 +1,18 @@
+{
+  "title": "Towards Improving Low-Resource Machine Translation with Lightweight Training and Synthetic Data: Case Study of Vietnamese - Khmer",
+  "authors": [
+    "Trong Huy Nguyen",
+    "Thanh Huong Le",
+    "Que Nhu Tran"
+  ],
+  "languages": [
+    "Vietnamese",
+    "Khmer"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.paclic-1.4",
+  "acl_url": "https://aclanthology.org/2025.paclic-1.4/"
+}

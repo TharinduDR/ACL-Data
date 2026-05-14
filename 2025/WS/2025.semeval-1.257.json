@@ -1,0 +1,33 @@
+{
+  "title": "UCSC at SemEval-2025 Task 3: Context, Models and Prompt Optimization for Automated Hallucination Detection in LLM Output",
+  "authors": [
+    "Sicong Huang",
+    "Jincheng He",
+    "Shiyuan Huang",
+    "Karthik Raja Anandam",
+    "Arkajyoti Chakraborty",
+    "Ian Lane"
+  ],
+  "languages": [
+    "Arabic",
+    "Catalan",
+    "Chinese",
+    "Czech",
+    "German",
+    "English",
+    "Estonian",
+    "Farsi",
+    "French",
+    "Hindi",
+    "Italian",
+    "Swedish",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.semeval-1.257",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.257/"
+}

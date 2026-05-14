@@ -1,0 +1,32 @@
+{
+  "title": "SambaLingo: Teaching Large Language Models New Languages",
+  "authors": [
+    "Zoltan Csaki",
+    "Bo Li",
+    "Jonathan Li",
+    "Qiantong Xu",
+    "Pian Pawakapan Leon Zhang",
+    "Yun Du",
+    "Hengyu Zhao",
+    "Changran Hu",
+    "Urmish Thakker"
+  ],
+  "languages": [
+    "Arabic",
+    "Thai",
+    "Turkish",
+    "Japanese",
+    "Hungarian",
+    "Russian",
+    "Bulgarian",
+    "Serbian",
+    "Slovenian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.mrl-1.1",
+  "acl_url": "https://aclanthology.org/2024.mrl-1.1/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "GRex: A Graph Neural Network-Based Rerank-then-Expand Method for Detecting Conflicts Among Legal Articles in Korean Criminal Law",
+  "authors": [
+    "Seonho An",
+    "Yeong-Yik Rhim",
+    "Min-Soo Kim"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2025.nllp-1.30",
+  "acl_url": "https://aclanthology.org/2025.nllp-1.30/"
+}

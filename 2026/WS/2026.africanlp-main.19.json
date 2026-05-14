@@ -1,0 +1,24 @@
+{
+  "title": "Full Fine-Tuning vs. Parameter-Efficient Adaptation for Low-Resource African ASR: A Controlled Study with Whisper-Small",
+  "authors": [
+    "Sukairaj Hafiz Imam",
+    "Muhammad Yahuza Bello",
+    "Hadiza Ali Umar",
+    "Tadesse Destaw Belay",
+    "Idris Abdulmumin",
+    "Seid Muhie Yimam",
+    "Shamsuddeen Hassan Muhammad"
+  ],
+  "languages": [
+    "Hausa",
+    "Yoruba",
+    "Igbo"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.africanlp-main.19",
+  "acl_url": "https://aclanthology.org/2026.africanlp-main.19/"
+}

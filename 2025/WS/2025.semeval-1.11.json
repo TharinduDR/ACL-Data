@@ -1,0 +1,30 @@
+{
+  "title": "keepitsimple at SemEval-2025 Task 3: LLM-Uncertainty based Approach for Multilingual Hallucination Span Detection",
+  "authors": [
+    "Saketh Reddy Vemula",
+    "Parameswari Krishnamurthy"
+  ],
+  "languages": [
+    "Arabic",
+    "Catalan",
+    "Czech",
+    "German",
+    "English",
+    "Spanish",
+    "Basque",
+    "Farsi",
+    "Finnish",
+    "French",
+    "Hindi",
+    "Italian",
+    "Swedish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T28",
+    "T14",
+    "T08"
+  ],
+  "paper_id": "2025.semeval-1.11",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.11/"
+}

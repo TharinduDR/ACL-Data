@@ -1,0 +1,19 @@
+{
+  "title": "PetEVAL: A veterinary free text electronic health records benchmark",
+  "authors": [
+    "Sean Farrell",
+    "Alan Radford",
+    "Noura Al Moubayed",
+    "Peter-John Mäntylä Noble"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.bionlp-1.29",
+  "acl_url": "https://aclanthology.org/2025.bionlp-1.29/"
+}

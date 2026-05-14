@@ -1,0 +1,22 @@
+{
+  "title": "DEMON at SemEval-2025 Task 10: Fine-tuning LLaMA-3 for Multilingual Entity Framing",
+  "authors": [
+    "Matteo Fenu",
+    "Manuela Sanguinetti",
+    "Maurizio Atzori"
+  ],
+  "languages": [
+    "English",
+    "Bulgarian",
+    "Hindi",
+    "Portuguese",
+    "Russian"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.semeval-1.192",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.192/"
+}

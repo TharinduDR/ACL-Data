@@ -1,0 +1,19 @@
+{
+  "title": "Sentence Embedding Models for Ancient Greek Using Multilingual Knowledge Distillation",
+  "authors": [
+    "Kevin Krahn",
+    "Derrick Tate",
+    "Andrew C. Lamicela"
+  ],
+  "languages": [
+    "Ancient Greek",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.alp-1.2",
+  "acl_url": "https://aclanthology.org/2023.alp-1.2/"
+}

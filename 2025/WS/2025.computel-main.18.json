@@ -1,0 +1,16 @@
+{
+  "title": "Data augmentation for low-resource bilingual ASR from Tira linguistic elicitation using Whisper",
+  "authors": [
+    "Mark Simmons"
+  ],
+  "languages": [
+    "English",
+    "Tira"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.computel-main.18",
+  "acl_url": "https://aclanthology.org/2025.computel-main.18/"
+}

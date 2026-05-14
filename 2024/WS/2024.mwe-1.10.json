@@ -1,0 +1,30 @@
+{
+  "title": "Overcoming Early Saturation on Low-Resource Languages in Multilingual Dependency Parsing",
+  "authors": [
+    "Jiannan Mao",
+    "Chenchen Ding",
+    "Hour Kaing",
+    "Hideki Tanaka",
+    "Masao Utiyama",
+    "Tadahiro Matsumoto"
+  ],
+  "languages": [
+    "Armenian",
+    "Belarusian",
+    "Hungarian",
+    "Kazakh",
+    "Lithuanian",
+    "Marathi",
+    "Tamil",
+    "Breton",
+    "Faroese",
+    "Tagalog",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.mwe-1.10",
+  "acl_url": "https://aclanthology.org/2024.mwe-1.10/"
+}

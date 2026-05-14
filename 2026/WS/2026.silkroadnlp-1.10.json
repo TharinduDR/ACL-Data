@@ -1,0 +1,20 @@
+{
+  "title": "One Language, Three of Its Voices: Evaluating Multilingual LLMs Across Persian, Dari, and Tajiki on Translation and Understanding Tasks",
+  "authors": [
+    "Noor Mairukh Khan Arnob",
+    "Abu Bakar Siddique Mahi"
+  ],
+  "languages": [
+    "Persian",
+    "Dari",
+    "Tajiki"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2026.silkroadnlp-1.10",
+  "acl_url": "https://aclanthology.org/2026.silkroadnlp-1.10/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Event Causality Identification - Shared Task 3, CASE 2023",
+  "authors": [
+    "Fiona Anting Tan",
+    "Hansi Hettiarachchi",
+    "Ali Hürriyetoğlu",
+    "Nelleke Oostdijk",
+    "Onur Uca",
+    "Surendrabikram Thapa",
+    "Farhana Ferdousi Liza"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.case-1.19",
+  "acl_url": "https://aclanthology.org/2023.case-1.19/"
+}

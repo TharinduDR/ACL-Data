@@ -1,0 +1,25 @@
+{
+  "title": "Multilingual Multimodal Machine Translation for Dravidian Languages utilizing Phonetic Transcription",
+  "authors": [
+    "Bharathi Raja Chakravarthi",
+    "Bernardo Stearns",
+    "Mihael Arcan",
+    "Manel Zarrouk",
+    "John P. McCrae",
+    "Ruba Priyadharshini",
+    "Arun Jayapal",
+    "S. Sridevy"
+  ],
+  "languages": [
+    "English",
+    "Tamil",
+    "Kannada",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "W19-6809",
+  "acl_url": "https://aclanthology.org/W19-6809/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "CL-HumanEval: A Benchmark for Evaluating Cross-Lingual Transfer through Code Generation",
+  "authors": [
+    "Miyu Sato",
+    "Yui Obara",
+    "Nao Souma",
+    "Kimio Kuramitsu"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.paclic-1.62",
+  "acl_url": "https://aclanthology.org/2024.paclic-1.62/"
+}

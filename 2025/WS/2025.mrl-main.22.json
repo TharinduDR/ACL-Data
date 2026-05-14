@@ -1,0 +1,20 @@
+{
+  "title": "When Scripts Diverge: Strengthening Low-Resource Neural Machine Translation Through Phonetic Cross-Lingual Transfer",
+  "authors": [
+    "Ammon Shurtz",
+    "Christian Richardson",
+    "Stephen D. Richardson"
+  ],
+  "languages": [
+    "Thai",
+    "Lao",
+    "Khmer",
+    "English"
+  ],
+  "research_areas": [
+    "T16",
+    "T14"
+  ],
+  "paper_id": "2025.mrl-main.22",
+  "acl_url": "https://aclanthology.org/2025.mrl-main.22/"
+}

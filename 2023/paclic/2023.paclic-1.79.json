@@ -1,0 +1,22 @@
+{
+  "title": "CEBUANER: A New Baseline Cebuano Named Entity Recognition Model",
+  "authors": [
+    "Ma. Beatrice Emanuela Pilar",
+    "Ellyza Mari Papas",
+    "Mary Loise Buenaventura",
+    "Dane Dedoroy",
+    "Myron Darrel Montefalcon",
+    "Jay Rhald Padilla",
+    "Mideth Abisado",
+    "Joseph Marvin Imperial"
+  ],
+  "languages": [
+    "Cebuano"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.paclic-1.79",
+  "acl_url": "https://aclanthology.org/2023.paclic-1.79/"
+}

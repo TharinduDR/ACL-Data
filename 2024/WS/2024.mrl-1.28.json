@@ -1,0 +1,24 @@
+{
+  "title": "McGill NLP Group Submission to the MRL 2024 Shared Task: Ensembling Enhances Effectiveness of Multilingual Small LMs",
+  "authors": [
+    "Senyu Li",
+    "Hao Yu",
+    "Jessica Ojo",
+    "David Ifeoluwa Adelani"
+  ],
+  "languages": [
+    "English",
+    "Igbo",
+    "Swiss German",
+    "Turkish",
+    "Azerbaijani",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T10",
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2024.mrl-1.28",
+  "acl_url": "https://aclanthology.org/2024.mrl-1.28/"
+}

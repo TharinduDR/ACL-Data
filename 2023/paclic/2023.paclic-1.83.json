@@ -1,0 +1,21 @@
+{
+  "title": "ViPubmedDeBERTa: A Pre-trained Model for Vietnamese Biomedical Text",
+  "authors": [
+    "Manh Tran-Tien",
+    "Huu-Loi Le",
+    "Dang Nhat Minh",
+    "T. Tran Khang",
+    "Huy-The Vu",
+    "Minh-Tien Nguyen"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2023.paclic-1.83",
+  "acl_url": "https://aclanthology.org/2023.paclic-1.83/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "InstructAlign: High-and-Low Resource Language Alignment via Continual Crosslingual Instruction Tuning",
+  "authors": [
+    "Samuel Cahyawijaya",
+    "Holy Lovenia",
+    "Tiezheng Yu",
+    "Willy Chung",
+    "Pascale Fung"
+  ],
+  "languages": [
+    "English",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14",
+    "T16",
+    "T20"
+  ],
+  "paper_id": "2023.sealp-1.5",
+  "acl_url": "https://aclanthology.org/2023.sealp-1.5/"
+}

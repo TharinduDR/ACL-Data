@@ -1,0 +1,23 @@
+{
+  "title": "Enhancing Retrieval for ESGLLM via ESG-CID: A Disclosure Content Index Finetuning Dataset for Mapping GRI and ESRS",
+  "authors": [
+    "Shafiuddin Rehan Ahmed",
+    "Ankit Parag Shah",
+    "Quan Hung Tran",
+    "Vivek Khetan",
+    "Sukryool Kang",
+    "Ankit Mehta",
+    "Yujia Bao",
+    "Wei Wei"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.climatenlp-1.1",
+  "acl_url": "https://aclanthology.org/2025.climatenlp-1.1/"
+}

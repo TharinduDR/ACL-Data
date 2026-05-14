@@ -1,0 +1,20 @@
+{
+  "title": "HalluRAG-RUG at SemEval-2025 Task 3: Using Retrieval-Augmented Generation for Hallucination Detection in Model Outputs",
+  "authors": [
+    "Silvana Abdi",
+    "Mahrokh Hassani",
+    "Rosalien Kinds",
+    "Timo Strijbis",
+    "Roman Terpstra"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.semeval-1.116",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.116/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Simple Named Entity Recognition (NER) System with RoBERTa for Ancient Chinese",
+  "authors": [
+    "Yunmeng Zhang",
+    "Meiling Liu",
+    "Hanqi Tang",
+    "Shige Lu",
+    "Lang Xue"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2025.alp-1.27",
+  "acl_url": "https://aclanthology.org/2025.alp-1.27/"
+}

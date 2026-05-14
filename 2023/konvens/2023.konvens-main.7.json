@@ -1,0 +1,22 @@
+{
+  "title": "Steps towards Addressing Text Classification in Low-Resource Languages",
+  "authors": [
+    "Maximilian Weissenbacher",
+    "Udo Kruschwitz"
+  ],
+  "languages": [
+    "Marathi",
+    "Malayalam",
+    "English",
+    "Hindi",
+    "Bengali",
+    "Tamil"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2023.konvens-main.7",
+  "acl_url": "https://aclanthology.org/2023.konvens-main.7/"
+}

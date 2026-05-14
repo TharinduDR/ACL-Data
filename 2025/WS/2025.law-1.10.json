@@ -1,0 +1,20 @@
+{
+  "title": "Bootstrapping UMRs from Universal Dependencies for Scalable Multilingual Annotation",
+  "authors": [
+    "Federica Gamba",
+    "Alexis Palmer",
+    "Daniel Zeman"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Italian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.law-1.10",
+  "acl_url": "https://aclanthology.org/2025.law-1.10/"
+}

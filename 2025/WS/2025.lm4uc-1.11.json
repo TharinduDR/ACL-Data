@@ -1,0 +1,27 @@
+{
+  "title": "Nayana OCR: A Scalable Framework for Document OCR in Low-Resource Languages",
+  "authors": [
+    "Adithya S Kolavi",
+    "Samarth P",
+    "Vyoman Jain"
+  ],
+  "languages": [
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Odia",
+    "Punjabi",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2025.lm4uc-1.11",
+  "acl_url": "https://aclanthology.org/2025.lm4uc-1.11/"
+}

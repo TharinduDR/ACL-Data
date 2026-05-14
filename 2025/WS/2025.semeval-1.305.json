@@ -1,0 +1,27 @@
+{
+  "title": "RAGthoven at SemEval 2025 - Task 2: Enhancing Entity-Aware Machine Translation with Large Language Models, Retrieval Augmented Generation and Function Calling",
+  "authors": [
+    "Demetris Skottis",
+    "Gregor Karetka",
+    "Marek Šuppa"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Thai",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.semeval-1.305",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.305/"
+}

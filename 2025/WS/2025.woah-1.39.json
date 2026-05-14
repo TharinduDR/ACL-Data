@@ -1,0 +1,25 @@
+{
+  "title": "Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study",
+  "authors": [
+    "Faeze Ghorbanpour",
+    "Daryna Dementieva",
+    "Alexander Fraser"
+  ],
+  "languages": [
+    "Arabic",
+    "French",
+    "German",
+    "Hindi",
+    "Italian",
+    "Portuguese",
+    "Spanish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T20",
+    "T14",
+    "T08"
+  ],
+  "paper_id": "2025.woah-1.39",
+  "acl_url": "https://aclanthology.org/2025.woah-1.39/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "GenCodeSearchNet: A Benchmark Test Suite for Evaluating Generalization in Programming Language Understanding",
+  "authors": [
+    "Andor Diera",
+    "Abdelhalim Dahou",
+    "Lukas Galke",
+    "Fabian Karl",
+    "Florian Sihler",
+    "Ansgar Scherp"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.genbench-1.2",
+  "acl_url": "https://aclanthology.org/2023.genbench-1.2/"
+}

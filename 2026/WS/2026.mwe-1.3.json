@@ -1,0 +1,29 @@
+{
+  "title": "Swedish Multiword Expression Corpora in PARSEME",
+  "authors": [
+    "Sara Stymne",
+    "Astrid Berntsson Ingelstam",
+    "Eva Pettersson"
+  ],
+  "languages": [
+    "Swedish",
+    "Turkish",
+    "Arabic",
+    "English",
+    "French",
+    "Portuguese",
+    "Galician",
+    "Irish",
+    "Estonian",
+    "Persian",
+    "Cantonese",
+    "German"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2026.mwe-1.3",
+  "acl_url": "https://aclanthology.org/2026.mwe-1.3/"
+}

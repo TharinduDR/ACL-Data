@@ -1,0 +1,23 @@
+{
+  "title": "KU-DMIS at EHRSQL 2024: Generating SQL query via question templatization in EHR",
+  "authors": [
+    "Hajung Kim",
+    "Chanwhi Kim",
+    "Hoonick Lee",
+    "Kyochul Jang",
+    "Jiwoo Lee",
+    "Kyungjae Lee",
+    "Gangwoo Kim",
+    "Jaewoo Kang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.clinicalnlp-1.64",
+  "acl_url": "https://aclanthology.org/2024.clinicalnlp-1.64/"
+}

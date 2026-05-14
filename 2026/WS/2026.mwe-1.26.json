@@ -1,0 +1,33 @@
+{
+  "title": "MorphoFiltered-Gemini at MWE-2026 PARSEME 2.0 Subtask 1: Tackling LLM Overgeneration via Universal POS-based Constraints",
+  "authors": [
+    "Irina Moise",
+    "Sergiu Nisioi"
+  ],
+  "languages": [
+    "Dutch",
+    "Egyptian",
+    "French",
+    "Georgian",
+    "Greek (Ancient)",
+    "Greek (Modern)",
+    "Hebrew",
+    "Japanese",
+    "Latvian",
+    "Persian",
+    "Polish",
+    "Brazilian Portuguese",
+    "Romanian",
+    "Serbian",
+    "Slovene",
+    "Swedish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2026.mwe-1.26",
+  "acl_url": "https://aclanthology.org/2026.mwe-1.26/"
+}

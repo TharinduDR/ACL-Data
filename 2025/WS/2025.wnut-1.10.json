@@ -1,0 +1,20 @@
+{
+  "title": "FaBERT: Pre-training BERT on Persian Blogs",
+  "authors": [
+    "Mostafa Masumi",
+    "Seyed Soroush Majd",
+    "Mehrnoush Shamsfard",
+    "Hamid Beigy"
+  ],
+  "languages": [
+    "Persian",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.wnut-1.10",
+  "acl_url": "https://aclanthology.org/2025.wnut-1.10/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Optimizing Multilingual Euphemism Detection using Low-Rank Adaptation Within and Across Languages",
+  "authors": [
+    "Nicholas Hankins"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Chinese",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.figlang-1.2",
+  "acl_url": "https://aclanthology.org/2024.figlang-1.2/"
+}

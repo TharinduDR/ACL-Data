@@ -1,0 +1,18 @@
+{
+  "title": "Evaluating the Performance of Transformers in Translating Low-Resource Languages through Akkadian",
+  "authors": [
+    "Daniel Jones",
+    "Ruslan Mitkov"
+  ],
+  "languages": [
+    "Akkadian",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.r2lm-1.5",
+  "acl_url": "https://aclanthology.org/2025.r2lm-1.5/"
+}

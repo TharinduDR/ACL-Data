@@ -1,0 +1,22 @@
+{
+  "title": "Investigating and Addressing Hallucinations of LLMs in Tasks Involving Negation",
+  "authors": [
+    "Neeraj Varshney",
+    "Satyam Raj",
+    "Venkatesh Mishra",
+    "Agneet Chatterjee",
+    "Amir Saeidi",
+    "Ritika Sarkar",
+    "Chitta Baral"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.trustnlp-main.37",
+  "acl_url": "https://aclanthology.org/2025.trustnlp-main.37/"
+}

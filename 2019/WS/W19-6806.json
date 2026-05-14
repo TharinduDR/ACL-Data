@@ -1,0 +1,25 @@
+{
+  "title": "Developing a Neural Machine Translation System for Irish",
+  "authors": [
+    "Arne Defauw",
+    "Sara Szoc",
+    "Tom Vanallemeersch",
+    "Anna Bardadym",
+    "Joris Brabers",
+    "Frederic Everaert",
+    "Kim Scholte",
+    "Koen Van Winckel",
+    "Joachim Van den Bogaert"
+  ],
+  "languages": [
+    "English",
+    "Irish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "W19-6806",
+  "acl_url": "https://aclanthology.org/W19-6806/"
+}

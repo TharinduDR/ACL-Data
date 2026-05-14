@@ -1,0 +1,24 @@
+{
+  "title": "Aspect-Based Sentiment Analysis of Clothing Reviews in Vietnamese E-commerce",
+  "authors": [
+    "Pham Quoc-Hung",
+    "Dinh Van-Dan",
+    "Le Huu-Loi",
+    "Le Thi-Viet-Huong",
+    "Nguyen Thu-Ha",
+    "Phan Xuan-Hieu",
+    "Nguyen Minh-Tien",
+    "Pham Ngoc-Hung"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.paclic-1.22",
+  "acl_url": "https://aclanthology.org/2024.paclic-1.22/"
+}

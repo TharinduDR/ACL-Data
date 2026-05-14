@@ -1,0 +1,25 @@
+{
+  "title": "EstBERT: A Pretrained Language-Specific BERT for Estonian",
+  "authors": [
+    "Hasan Tanvir",
+    "Claudia Kittask",
+    "Sandra Eiche",
+    "Kairit Sirts"
+  ],
+  "languages": [
+    "Estonian",
+    "Chinese",
+    "French",
+    "Finnish",
+    "Dutch",
+    "Russian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14",
+    "T21",
+    "T20"
+  ],
+  "paper_id": "2021.nodalida-main.2",
+  "acl_url": "https://aclanthology.org/2021.nodalida-main.2/"
+}

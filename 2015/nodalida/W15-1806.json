@@ -1,0 +1,23 @@
+{
+  "title": "Supersense tagging for Danish",
+  "authors": [
+    "Héctor Martínez Alonso",
+    "Anders Johannsen",
+    "Sussi Olsen",
+    "Sanni Nimb",
+    "Nicolai Hartvig Sørensen",
+    "Anna Braasch",
+    "Anders Søgaard",
+    "Bolette Sandford Pedersen"
+  ],
+  "languages": [
+    "Danish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "W15-1806",
+  "acl_url": "https://aclanthology.org/W15-1806/"
+}

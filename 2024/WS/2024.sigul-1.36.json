@@ -1,0 +1,25 @@
+{
+  "title": "Resource Acquisition for Understudied Languages: Extracting Wordlists from Dictionaries for Computer-Assisted Language Comparison",
+  "authors": [
+    "Frederic Blum",
+    "Johannes Englisch",
+    "Alba Hermida-Rodríguez",
+    "Rik van Gijn",
+    "Johann-Mattis List"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Portuguese",
+    "Swahili",
+    "Amawaka",
+    "Daakaka"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.sigul-1.36",
+  "acl_url": "https://aclanthology.org/2024.sigul-1.36/"
+}

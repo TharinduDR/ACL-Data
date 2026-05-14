@@ -1,0 +1,21 @@
+{
+  "title": "ReSpAct: Harmonizing Reasoning, Speaking, and Acting Towards Building Large Language Model-Based Conversational AI Agents",
+  "authors": [
+    "Vardhan Dongre",
+    "Xiaocheng Yang",
+    "Emre Can Acikgoz",
+    "Suvodip Dey",
+    "Gokhan Tur",
+    "Dilek Hakkani-Tür"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.iwsds-1.7",
+  "acl_url": "https://aclanthology.org/2025.iwsds-1.7/"
+}

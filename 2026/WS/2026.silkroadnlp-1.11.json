@@ -1,0 +1,18 @@
+{
+  "title": "PersianPunc: A Large-Scale Dataset and BERT-Based Approach for Persian Punctuation Restoration",
+  "authors": [
+    "Mohammad Javad Ranjbar Kalahroodi",
+    "Heshaam Faili",
+    "Azadeh Shakery"
+  ],
+  "languages": [
+    "Persian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2026.silkroadnlp-1.11",
+  "acl_url": "https://aclanthology.org/2026.silkroadnlp-1.11/"
+}

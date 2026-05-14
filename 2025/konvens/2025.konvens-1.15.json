@@ -1,0 +1,24 @@
+{
+  "title": "HICC: A Dataset for German Hate Speech in Conversational Context",
+  "authors": [
+    "Lars Schmid",
+    "Pius von Däniken",
+    "Patrick Giedemann",
+    "Don Tuggener",
+    "Judith Bühler",
+    "Maria Kamenowski",
+    "Katja Girschik",
+    "Laurent Sedano",
+    "Dirk Baier",
+    "Mark Cieliebak"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.konvens-1.15",
+  "acl_url": "https://aclanthology.org/2025.konvens-1.15/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Team NLPeers at Chemotimelines 2024: Evaluation of two timeline extraction methods, can generative LLM do it all or is smaller model fine-tuning still relevant ?",
+  "authors": [
+    "Nesrine Bannour",
+    "Judith Jeyafreeda Andrew",
+    "Marc Vincent"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.clinicalnlp-1.39",
+  "acl_url": "https://aclanthology.org/2024.clinicalnlp-1.39/"
+}

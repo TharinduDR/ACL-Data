@@ -1,0 +1,17 @@
+{
+  "title": "Extracting General-use Transformers for Low-resource Languages via Knowledge Distillation",
+  "authors": [
+    "Jan Christian Blaise Cruz",
+    "Alham Fikri Aji"
+  ],
+  "languages": [
+    "Tagalog"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.loreslm-1.17",
+  "acl_url": "https://aclanthology.org/2025.loreslm-1.17/"
+}

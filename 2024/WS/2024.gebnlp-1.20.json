@@ -1,0 +1,28 @@
+{
+  "title": "Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP",
+  "authors": [
+    "Vagrant Gautam",
+    "Arjun Subramonian",
+    "Anne Lauscher",
+    "Os Keyes"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Persian",
+    "Portuguese",
+    "Swahili",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.gebnlp-1.20",
+  "acl_url": "https://aclanthology.org/2024.gebnlp-1.20/"
+}

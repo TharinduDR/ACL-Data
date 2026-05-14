@@ -1,0 +1,26 @@
+{
+  "title": "Overview of the BioLaySumm 2025 Shared Task on Lay Summarization of Biomedical Research Articles and Radiology Reports",
+  "authors": [
+    "Chenghao Xiao",
+    "Kun Zhao",
+    "Xiao Wang",
+    "Siwei Wu",
+    "Sixing Yan",
+    "Tomas Goldsack",
+    "Sophia Ananiadou",
+    "Noura Al Moubayed",
+    "Zhan Liang",
+    "William Cheung",
+    "Chenghua Lin"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.bionlp-1.31",
+  "acl_url": "https://aclanthology.org/2025.bionlp-1.31/"
+}

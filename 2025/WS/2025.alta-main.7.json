@@ -1,0 +1,29 @@
+{
+  "title": "Understanding Multilingual ASR Systems: The Role of Language Families and Typological Features in Seamless and Whisper",
+  "authors": [
+    "Simon Gonzalez",
+    "Tao Hoang",
+    "Maria Myung-Hee Kim",
+    "Bradley Donnelly",
+    "Jennifer Biggs",
+    "Tim Cawley"
+  ],
+  "languages": [
+    "Korean",
+    "Serbian",
+    "Swedish",
+    "Uralic",
+    "Indo-European",
+    "Afro-Asiatic",
+    "Austronesian",
+    "Austro-Asiatic",
+    "Dravidian",
+    "Altaic"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.alta-main.7",
+  "acl_url": "https://aclanthology.org/2025.alta-main.7/"
+}

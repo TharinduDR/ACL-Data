@@ -1,0 +1,21 @@
+{
+  "title": "Empirical Evaluation of Language Agnostic Filtering of Parallel Data for Low Resource Languages",
+  "authors": [
+    "Praveen Dakwale",
+    "Talaat Khalil",
+    "Brandon Denis"
+  ],
+  "languages": [
+    "Khmer",
+    "Pashto",
+    "Sinhalese",
+    "Nepali",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2022.paclic-1.38",
+  "acl_url": "https://aclanthology.org/2022.paclic-1.38/"
+}

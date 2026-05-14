@@ -1,0 +1,23 @@
+{
+  "title": "1-800-SHARED-TASKS @ NLU of Devanagari Script Languages 2025: Detection of Language, Hate Speech, and Targets using LLMs",
+  "authors": [
+    "Jebish Purbey",
+    "Siddartha Pullakhandam",
+    "Kanwal Mehreen",
+    "Muhammad Arham",
+    "Drishti Sharma",
+    "Ashay Srivastava",
+    "Ram Mohan Rao Kadiyala"
+  ],
+  "languages": [
+    "Hindi",
+    "Nepali"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.chipsal-1.23",
+  "acl_url": "https://aclanthology.org/2025.chipsal-1.23/"
+}

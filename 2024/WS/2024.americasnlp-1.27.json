@@ -1,0 +1,31 @@
+{
+  "title": "Findings of the AmericasNLP 2024 Shared Task on the Creation of Educational Materials for Indigenous Languages",
+  "authors": [
+    "Luis Chiruzzo",
+    "Pavel Denisov",
+    "Alejandro Molina-Villegas",
+    "Silvia Fernandez-Sabido",
+    "Rolando Coto-Solano",
+    "Marvin Agüero-Torales",
+    "Aldo Alvarez",
+    "Samuel Canul-Yah",
+    "Lorena Hau-Ucán",
+    "Abteen Ebrahimi",
+    "Robert Pugh",
+    "Arturo Oncevay",
+    "Shruti Rijhwani",
+    "Katharina von der Wense",
+    "Manuel Mager"
+  ],
+  "languages": [
+    "Bribri",
+    "Maya",
+    "Guarani"
+  ],
+  "research_areas": [
+    "T29 NLP for education",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.americasnlp-1.27",
+  "acl_url": "https://aclanthology.org/2024.americasnlp-1.27/"
+}

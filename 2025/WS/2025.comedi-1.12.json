@@ -1,0 +1,24 @@
+{
+  "title": "ABDN-NLP at CoMeDi Shared Task: Predicting the Aggregated Human Judgment via Weighted Few-Shot Prompting",
+  "authors": [
+    "Ying Xuan Loke",
+    "Dominik Schlechtweg",
+    "Wei Zhao"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Norwegian",
+    "Russian",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.comedi-1.12",
+  "acl_url": "https://aclanthology.org/2025.comedi-1.12/"
+}

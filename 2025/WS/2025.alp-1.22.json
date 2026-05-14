@@ -1,0 +1,19 @@
+{
+  "title": "Named Entity Recognition in Context: Edit_Dunhuang team Technical Report for EvaHan2025 NER Competition",
+  "authors": [
+    "Colin Brisson",
+    "Ayoub Kahfy",
+    "Marc Bui",
+    "Frédéric Constant"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.alp-1.22",
+  "acl_url": "https://aclanthology.org/2025.alp-1.22/"
+}

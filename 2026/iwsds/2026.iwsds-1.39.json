@@ -1,0 +1,25 @@
+{
+  "title": "WER is Unaware: Assessing How ASR Errors Distort Clinical Understanding in Patient Facing Dialogue",
+  "authors": [
+    "Zachary Ellis",
+    "Jared Joselowitz",
+    "Yash Deo",
+    "Yajie He",
+    "Anna Kalygina",
+    "Aisling Higham",
+    "Mana Rahimzadeh",
+    "Yan Jia",
+    "Ibrahim Habli",
+    "Ernest Lim"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.iwsds-1.39",
+  "acl_url": "https://aclanthology.org/2026.iwsds-1.39/"
+}

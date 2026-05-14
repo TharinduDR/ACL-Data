@@ -1,0 +1,20 @@
+{
+  "title": "SmartWrite: Extracting Chinese Lexical Grammar Patterns Using Dependency Parsing",
+  "authors": [
+    "Cheng-Cyuan Peng",
+    "Ching-Yu Yang",
+    "Jhih-Jie Chen",
+    "Jason S. Chang"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "Y18-1062",
+  "acl_url": "https://aclanthology.org/Y18-1062/"
+}

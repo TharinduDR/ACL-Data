@@ -1,0 +1,29 @@
+{
+  "title": "Conditions for Catastrophic Forgetting in Multilingual Translation",
+  "authors": [
+    "Danni Liu",
+    "Jan Niehues"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Icelandic",
+    "Russian",
+    "Chinese",
+    "Hebrew",
+    "Japanese",
+    "Ukrainian",
+    "Javanese",
+    "Malay",
+    "Tagalog",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.mrl-main.23",
+  "acl_url": "https://aclanthology.org/2025.mrl-main.23/"
+}

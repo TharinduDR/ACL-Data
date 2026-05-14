@@ -1,0 +1,22 @@
+{
+  "title": "LLM Dependency Parsing with Symbolic Rules",
+  "authors": [
+    "Michael Ginn",
+    "Alexis Palmer"
+  ],
+  "languages": [
+    "Bambara",
+    "Bhojpuri",
+    "Cantonese",
+    "Erzya",
+    "Kiche",
+    "Komi Zyrian",
+    "Nigerian Pidgin",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.xllm-1.17",
+  "acl_url": "https://aclanthology.org/2025.xllm-1.17/"
+}

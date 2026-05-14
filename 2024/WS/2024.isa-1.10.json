@@ -1,0 +1,19 @@
+{
+  "title": "Tiny But Mighty: A Crowdsourced Benchmark Dataset for Triple Extraction from Unstructured Text",
+  "authors": [
+    "Muhammad Salman",
+    "Armin Haller",
+    "Sergio J. Rodríguez Méndez",
+    "Usman Naseem"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.isa-1.10",
+  "acl_url": "https://aclanthology.org/2024.isa-1.10/"
+}

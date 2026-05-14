@@ -1,0 +1,20 @@
+{
+  "title": "RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models",
+  "authors": [
+    "Mohammed Abdul Khaliq",
+    "Paul Yu-Chun Chang",
+    "Mingyang Ma",
+    "Bernhard Pflugfelder",
+    "Filip Miletic"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.fever-1.29",
+  "acl_url": "https://aclanthology.org/2024.fever-1.29/"
+}

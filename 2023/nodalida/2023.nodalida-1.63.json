@@ -1,0 +1,40 @@
+{
+  "title": "GiellaLT — a stable infrastructure for Nordic minority languages and beyond",
+  "authors": [
+    "Flammie A Pirinen",
+    "Sjur N. Moshagen",
+    "Katri Hiovain-Asikainen"
+  ],
+  "languages": [
+    "Sámi languages",
+    "Faroese",
+    "Finnish",
+    "Greenlandic",
+    "Norwegian",
+    "Swedish",
+    "Udmurt",
+    "Moksha",
+    "Livvi",
+    "Kven",
+    "Komi-Zyrian",
+    "Inari Sámi",
+    "Lule Sámi",
+    "North Sámi",
+    "South Sámi",
+    "Pite Sámi",
+    "Skolt Sámi",
+    "Vorú",
+    "Western Mari",
+    "Erzya",
+    "Eastern Mari",
+    "Norwegian Nynorsk",
+    "Norwegian Bokmål"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2023.nodalida-1.63",
+  "acl_url": "https://aclanthology.org/2023.nodalida-1.63/"
+}

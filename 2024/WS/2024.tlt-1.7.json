@@ -1,0 +1,29 @@
+{
+  "title": "A Multilingual Parallel Corpus for Coreference Resolution and Information Status in the Literary Domain",
+  "authors": [
+    "Andrew Dyer",
+    "Ruveyda Betul Bahceci",
+    "Maryam Rajestari",
+    "Andreas Rouvalis",
+    "Aarushi Singhal",
+    "Yuliya Stodolinska",
+    "Syahidah Asma Umniyati",
+    "Helena Rodrigues Menezes de Oliveira Vaz"
+  ],
+  "languages": [
+    "English",
+    "Ukrainian",
+    "Modern Greek",
+    "Portuguese",
+    "Hindi",
+    "Turkish",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.tlt-1.7",
+  "acl_url": "https://aclanthology.org/2024.tlt-1.7/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "GuRE: Generative Query REwriter for Legal Passage Retrieval",
+  "authors": [
+    "Daehui Kim",
+    "Deokhyung Kang",
+    "Jonghwi Kim",
+    "Sangwon Ryu",
+    "Gary Geunbae Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T25 Legal NLP",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.nllp-1.31",
+  "acl_url": "https://aclanthology.org/2025.nllp-1.31/"
+}

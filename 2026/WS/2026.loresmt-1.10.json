@@ -1,0 +1,21 @@
+{
+  "title": "Improving Indigenous Language Machine Translation with Synthetic Data and Language-Specific Preprocessing",
+  "authors": [
+    "Aashish Dhawan",
+    "Christopher Driggers-Ellis",
+    "Christian Grant",
+    "Daisy Wang"
+  ],
+  "languages": [
+    "Aymara",
+    "Guarani",
+    "Quechua"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.loresmt-1.10",
+  "acl_url": "https://aclanthology.org/2026.loresmt-1.10/"
+}

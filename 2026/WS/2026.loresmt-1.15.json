@@ -1,0 +1,25 @@
+{
+  "title": "CTC Regularization for Low-Resource Speech-to-Text Translation",
+  "authors": [
+    "Zachary Hopton",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "Ainu",
+    "Beja",
+    "Ruuli",
+    "Sumi Naga",
+    "Tondano",
+    "Catalan",
+    "German",
+    "Spanish",
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2026.loresmt-1.15",
+  "acl_url": "https://aclanthology.org/2026.loresmt-1.15/"
+}

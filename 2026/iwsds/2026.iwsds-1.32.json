@@ -1,0 +1,25 @@
+{
+  "title": "SpeakRL: Synergizing Reasoning, Speaking, and Acting in Language Models with Reinforcement Learning",
+  "authors": [
+    "Emre Can Acikgoz",
+    "Jinoh Oh",
+    "Jie Hao",
+    "Joo Hyuk Jeon",
+    "Heng Ji",
+    "Dilek Hakkani-Tür",
+    "Gokhan Tur",
+    "Xiang Li",
+    "Chengyuan Ma",
+    "Xing Fan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2026.iwsds-1.32",
+  "acl_url": "https://aclanthology.org/2026.iwsds-1.32/"
+}

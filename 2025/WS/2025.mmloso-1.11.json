@@ -1,0 +1,20 @@
+{
+  "title": "Challenge Track: Breaking Language Barriers: Adapting NLLB-200 and mBART for Bhilli, Gondi, Mundari, and Santali Without Source Language Proficiency",
+  "authors": [
+    "Paul Nganga Kamau"
+  ],
+  "languages": [
+    "English",
+    "Bhilli",
+    "Gondi",
+    "Mundari",
+    "Santali"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.mmloso-1.11",
+  "acl_url": "https://aclanthology.org/2025.mmloso-1.11/"
+}

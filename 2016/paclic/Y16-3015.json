@@ -1,0 +1,28 @@
+{
+  "title": "Resources for Philippine Languages: Collection, Annotation, and Modeling",
+  "authors": [
+    "Nathaniel Oco",
+    "Leif Romeritch Syliongka",
+    "Tod Allman",
+    "Rachel Edita Roxas"
+  ],
+  "languages": [
+    "English",
+    "Filipino",
+    "Bikol",
+    "Cebuano",
+    "Hiligaynon",
+    "Ilokano",
+    "Kapampangan",
+    "Pangasinense",
+    "Tagalog",
+    "Waray"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "Y16-3015",
+  "acl_url": "https://aclanthology.org/Y16-3015/"
+}

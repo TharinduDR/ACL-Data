@@ -1,0 +1,25 @@
+{
+  "title": "Language Models are Universal Embedders",
+  "authors": [
+    "Xin Zhang",
+    "Zehan Li",
+    "Yanzhao Zhang",
+    "Dingkun Long",
+    "Pengjun Xie",
+    "Meishan Zhang",
+    "Min Zhang"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.xllm-1.21",
+  "acl_url": "https://aclanthology.org/2025.xllm-1.21/"
+}

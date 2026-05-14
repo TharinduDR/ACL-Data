@@ -1,0 +1,43 @@
+{
+  "title": "Health Sentinel: An AI Pipeline For Real-time Disease Outbreak Detection",
+  "authors": [
+    "Devesh Pant",
+    "Rishi Raj Grandhe",
+    "Jatin Agrawal",
+    "Jushaan Singh Kalra",
+    "Sudhir Kumar",
+    "Saransh Khanna",
+    "Vipin Samaria",
+    "Mukul Paul",
+    "Dr. Satish V Khalikar",
+    "Vipin Garg",
+    "Dr. Himanshu Chauhan",
+    "Dr. Pranay Verma",
+    "Akhil VSSG",
+    "Neha Khandelwal",
+    "Soma S Dhavala",
+    "Minesh Mathew"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Telugu",
+    "Kannada",
+    "Gujarati",
+    "Tamil",
+    "Punjabi",
+    "Bengali",
+    "Marathi",
+    "Malayalam",
+    "Oriya",
+    "Assamese",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.nlp4pi-1.3",
+  "acl_url": "https://aclanthology.org/2025.nlp4pi-1.3/"
+}

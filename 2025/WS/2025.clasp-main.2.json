@@ -1,0 +1,17 @@
+{
+  "title": "EventHopNLI: A Functional Dataset for Systematically Diagnosing Logical Failures in LLM Temporal Reasoning",
+  "authors": [
+    "Ved Mathai",
+    "Janet B. Pierrehumbert"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.clasp-main.2",
+  "acl_url": "https://aclanthology.org/2025.clasp-main.2/"
+}

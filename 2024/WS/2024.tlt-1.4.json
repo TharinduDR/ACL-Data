@@ -1,0 +1,22 @@
+{
+  "title": "LuxBank: The First Universal Dependency Treebank for Luxembourgish",
+  "authors": [
+    "Alistair Plum",
+    "Caroline Döhmer",
+    "Emilia Milano",
+    "Anne-Marie Lutgen",
+    "Christoph Purschke"
+  ],
+  "languages": [
+    "Luxembourgish",
+    "German",
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.tlt-1.4",
+  "acl_url": "https://aclanthology.org/2024.tlt-1.4/"
+}

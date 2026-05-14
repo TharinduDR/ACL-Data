@@ -1,0 +1,23 @@
+{
+  "title": "Memorization is Language-Sensitive: Analyzing Memorization and Inference Risks of LLMs in a Multilingual Setting",
+  "authors": [
+    "Ali Satvaty",
+    "Anna Visman",
+    "Daniel Seidel",
+    "Suzan Verberne",
+    "Fatih Turkmen"
+  ],
+  "languages": [
+    "English",
+    "Dutch",
+    "Slovenian",
+    "Polish",
+    "Czech"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.l2m2-1.9",
+  "acl_url": "https://aclanthology.org/2025.l2m2-1.9/"
+}

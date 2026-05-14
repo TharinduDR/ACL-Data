@@ -1,0 +1,23 @@
+{
+  "title": "Fine-tuning after Prompting: an Explainable Way for Classification",
+  "authors": [
+    "Zezhong Wang",
+    "Luyao Ye",
+    "Hongru Wang",
+    "Boyang Xue",
+    "Yiming Du",
+    "Bin Liang",
+    "Kam-Fai Wong"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2024.sighan-1.16",
+  "acl_url": "https://aclanthology.org/2024.sighan-1.16/"
+}

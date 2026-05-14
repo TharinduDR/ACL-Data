@@ -1,0 +1,29 @@
+{
+  "title": "Towards the semantic annotation of SR-ELEXIS corpus: Insights into Multiword Expressions and Named Entities",
+  "authors": [
+    "Cvetana Krstev",
+    "Ranka Stanković",
+    "Aleksandra Marković",
+    "Teodora Mihajlov"
+  ],
+  "languages": [
+    "English",
+    "Serbian",
+    "Bulgarian",
+    "Danish",
+    "Spanish",
+    "Estonian",
+    "Hungarian",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Slovenian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.mwe-1.15",
+  "acl_url": "https://aclanthology.org/2024.mwe-1.15/"
+}

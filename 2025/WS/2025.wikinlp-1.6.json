@@ -1,0 +1,20 @@
+{
+  "title": "WETBench: A Benchmark for Detecting Task-Specific Machine-Generated Text on Wikipedia",
+  "authors": [
+    "Gerrit Quaremba",
+    "Elizabeth Black",
+    "Denny Vrandečić",
+    "Elena Simperl"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T28",
+    "T08"
+  ],
+  "paper_id": "2025.wikinlp-1.6",
+  "acl_url": "https://aclanthology.org/2025.wikinlp-1.6/"
+}

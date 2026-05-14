@@ -1,0 +1,20 @@
+{
+  "title": "MRQA 2019 Shared Task: Evaluating Generalization in Reading Comprehension",
+  "authors": [
+    "Adam Fisch",
+    "Alon Talmor",
+    "Robin Jia",
+    "Minjoon Seo",
+    "Eunsol Choi",
+    "Danqi Chen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "D19-5801",
+  "acl_url": "https://aclanthology.org/D19-5801/"
+}

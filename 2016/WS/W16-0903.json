@@ -1,0 +1,20 @@
+{
+  "title": "Machine Translation of Non-Contiguous Multiword Units",
+  "authors": [
+    "Anabela Barreiro",
+    "Fernando Batista"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "French",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W16-0903",
+  "acl_url": "https://aclanthology.org/W16-0903/"
+}

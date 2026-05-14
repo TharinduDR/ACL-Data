@@ -1,0 +1,19 @@
+{
+  "title": "System Description of BV-SLP for Sindhi-English Machine Translation in MultiIndic22MT 2024 Shared Task",
+  "authors": [
+    "Nisheeth Joshi",
+    "Pragya Katyayan",
+    "Palak Arora",
+    "Bharti Nathani"
+  ],
+  "languages": [
+    "Sindhi",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.wmt-1.72",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.72/"
+}

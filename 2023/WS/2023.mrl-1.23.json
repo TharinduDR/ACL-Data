@@ -1,0 +1,47 @@
+{
+  "title": "CUNI Submission to MRL 2023 Shared Task on Multi-lingual Multi-task Information Retrieval",
+  "authors": [
+    "Jindřich Helcl",
+    "Jindřich Libovický"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "Hausa",
+    "Igbo",
+    "Kinyarwanda",
+    "Luganda",
+    "Luo",
+    "Pichwara",
+    "Swahili",
+    "Wolof",
+    "Yoruba",
+    "Bambara",
+    "Biblical Hebrew",
+    "Ewe",
+    "Fon",
+    "Igbo",
+    "Kinyarwanda",
+    "Luganda",
+    "Mossi",
+    "Nyanja",
+    "Pichwara",
+    "Sena",
+    "Swahili",
+    "Twi",
+    "Wolof",
+    "Xhosa",
+    "Zulu",
+    "Alsatian",
+    "Azerbaijani",
+    "Turkish",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.mrl-1.23",
+  "acl_url": "https://aclanthology.org/2023.mrl-1.23/"
+}

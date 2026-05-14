@@ -1,0 +1,20 @@
+{
+  "title": "The Unreasonable Effectiveness of Model Merging for Cross-Lingual Transfer in LLMs",
+  "authors": [
+    "Lucas Bandarkar",
+    "Nanyun Peng"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Swahili",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.mrl-main.10",
+  "acl_url": "https://aclanthology.org/2025.mrl-main.10/"
+}

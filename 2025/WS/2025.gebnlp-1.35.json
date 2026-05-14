@@ -1,0 +1,30 @@
+{
+  "title": "Towards Massive Multilingual Holistic Bias",
+  "authors": [
+    "Xiaoqing Ellen Tan",
+    "Prangthip Hansanti",
+    "Arina Turkatenko",
+    "Joe Chuang",
+    "Carleigh Wood",
+    "Bokai Yu",
+    "Christophe Ropers",
+    "Marta R. Costa-jussà"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Portuguese",
+    "Spanish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.gebnlp-1.35",
+  "acl_url": "https://aclanthology.org/2025.gebnlp-1.35/"
+}

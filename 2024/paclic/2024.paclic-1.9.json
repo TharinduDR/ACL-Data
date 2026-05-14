@@ -1,0 +1,21 @@
+{
+  "title": "Evaluating LlaMA-2's Adaptation to Social Context in Japanese Emails via Fine-Tuning",
+  "authors": [
+    "Muxuan Liu",
+    "Tatsuya Ishigaki",
+    "Yusuke Miyao",
+    "Hiroya Takamura",
+    "Ichiro Kobayashi"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T05 Discourse and Pragmatics"
+  ],
+  "paper_id": "2024.paclic-1.9",
+  "acl_url": "https://aclanthology.org/2024.paclic-1.9/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "A Novel Multi-Document Retrieval Benchmark: Journalist Source-Selection in Newswriting",
+  "authors": [
+    "Alexander Spangher",
+    "Tenghao Huang",
+    "Yiqin Huang",
+    "Lucas Spangher",
+    "Sewon Min",
+    "Mark Dredze"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T05 Discourse and Pragmatics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.knowledgenlp-1.18",
+  "acl_url": "https://aclanthology.org/2025.knowledgenlp-1.18/"
+}

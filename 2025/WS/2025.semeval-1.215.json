@@ -1,0 +1,23 @@
+{
+  "title": "NarrativeMiners at SemEval-2025 Task 10: Combating Manipulative Narratives in Online News",
+  "authors": [
+    "Muhammad Khubaib",
+    "Muhammad Shoaib Khursheed",
+    "Muminah Khurram",
+    "Sandesh Kumar",
+    "Abdul Samad"
+  ],
+  "languages": [
+    "English",
+    "Bulgarian",
+    "Hindi",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.semeval-1.215",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.215/"
+}

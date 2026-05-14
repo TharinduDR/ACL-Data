@@ -1,0 +1,26 @@
+{
+  "title": "Multi-step Entity-centric Information Retrieval for Multi-Hop Question Answering",
+  "authors": [
+    "Ameya Godbole",
+    "Dilip Kavarthapu",
+    "Rajarshi Das",
+    "Zhiyu Gong",
+    "Abhishek Singhal",
+    "Hamed Zamani",
+    "Mo Yu",
+    "Tian Gao",
+    "Xiaoxiao Guo",
+    "Manzil Zaheer",
+    "Andrew McCallum"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "D19-5816",
+  "acl_url": "https://aclanthology.org/D19-5816/"
+}

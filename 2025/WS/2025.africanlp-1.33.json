@@ -1,0 +1,25 @@
+{
+  "title": "Beyond Metrics: Evaluating LLMs' Effectiveness in Culturally Nuanced, Low-Resource Real-World Scenarios",
+  "authors": [
+    "Millicent Ochieng",
+    "Varun Gumma",
+    "Sunayana Sitaram",
+    "Jindong Wang",
+    "Vishrav Chaudhary",
+    "Keshet Ronen",
+    "Kalika Bali",
+    "Jacki O'Neill"
+  ],
+  "languages": [
+    "English",
+    "Swahili",
+    "Sheng"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.africanlp-1.33",
+  "acl_url": "https://aclanthology.org/2025.africanlp-1.33/"
+}

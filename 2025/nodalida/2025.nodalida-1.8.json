@@ -1,0 +1,19 @@
+{
+  "title": "Investigating the effectiveness of Data Augmentation and Contrastive Learning for Named Entity Recognition",
+  "authors": [
+    "Noel Chia",
+    "Ines Rehbein",
+    "Simone Paolo Ponzetto"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Zulu"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.nodalida-1.8",
+  "acl_url": "https://aclanthology.org/2025.nodalida-1.8/"
+}

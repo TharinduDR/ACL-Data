@@ -1,0 +1,23 @@
+{
+  "title": "CIOL at SemEval-2025 Task 11: Multilingual Pre-trained Model Fusion for Text-based Emotion Recognition",
+  "authors": [
+    "Md. Iqramul Hoque",
+    "Mahfuz Ahmed Anik",
+    "Abdur Rahman",
+    "Azmine Toushik Wasi"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Russian",
+    "Chinese",
+    "Spanish",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.semeval-1.29",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.29/"
+}

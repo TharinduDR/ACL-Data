@@ -1,0 +1,23 @@
+{
+  "title": "Instant Annotations – Applying NLP Methods to the Annotation of Spoken Language Documentation Corpora",
+  "authors": [
+    "Ciprian Gerstenberger",
+    "Niko Partanen",
+    "Michael Rießler",
+    "Joshua Wilbur"
+  ],
+  "languages": [
+    "Saami",
+    "Komi",
+    "Khanty",
+    "Selkup",
+    "Nenets"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "W17-0604",
+  "acl_url": "https://aclanthology.org/W17-0604/"
+}

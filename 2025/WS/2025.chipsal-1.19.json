@@ -1,0 +1,20 @@
+{
+  "title": "EmoTa: A Tamil Emotional Speech Dataset",
+  "authors": [
+    "Jubeerathan Thevakumar",
+    "Luxshan Thavarasa",
+    "Thanikan Sivatheepan",
+    "Sajeev Kugarajah",
+    "Uthayasanker Thayasivam"
+  ],
+  "languages": [
+    "Tamil",
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.chipsal-1.19",
+  "acl_url": "https://aclanthology.org/2025.chipsal-1.19/"
+}

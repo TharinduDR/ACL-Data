@@ -1,0 +1,23 @@
+{
+  "title": "Robustness of LLMs to Transliteration Perturbations in Bangla",
+  "authors": [
+    "Fabiba Haider",
+    "Md Farhan Ishmam",
+    "Fariha Tanjim Shifat",
+    "Md Tasnim Rahman",
+    "Md Fahim",
+    "Md Farhad Alam Bhuiyan"
+  ],
+  "languages": [
+    "Bangla",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.banglalp-1.27",
+  "acl_url": "https://aclanthology.org/2025.banglalp-1.27/"
+}

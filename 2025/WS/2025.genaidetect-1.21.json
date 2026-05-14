@@ -1,0 +1,23 @@
+{
+  "title": "LuxVeri at GenAI Detection Task 1: Inverse Perplexity Weighted Ensemble for Robust Detection of AI-Generated Text across English and Multilingual Contexts",
+  "authors": [
+    "Md Kamrujjaman Mobin",
+    "Md Saiful Islam"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Bulgarian",
+    "German",
+    "Italian",
+    "Indonesian",
+    "Urdu",
+    "Arabic",
+    "Russian"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.genaidetect-1.21",
+  "acl_url": "https://aclanthology.org/2025.genaidetect-1.21/"
+}

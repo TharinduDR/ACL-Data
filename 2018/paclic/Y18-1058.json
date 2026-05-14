@@ -1,0 +1,23 @@
+{
+  "title": "Improving Japanese semantic-role-labeling performance with transfer learning as case for limited resources of tagged corpora on aggregated language",
+  "authors": [
+    "Takuya Okamura",
+    "Koichi Takeuchi",
+    "Yasuhiro Ishihara",
+    "Masahiro Taguchi",
+    "Yoshihiko Inada",
+    "Masaya Iizuka",
+    "Tatsuhiko Abo",
+    "Hitoshi Ueda"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "Y18-1058",
+  "acl_url": "https://aclanthology.org/Y18-1058/"
+}

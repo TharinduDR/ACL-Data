@@ -1,0 +1,33 @@
+{
+  "title": "LLMs as Span Annotators: A Comparative Study of LLMs and Humans",
+  "authors": [
+    "Zdeněk Kasner",
+    "Vilém Zouhar",
+    "Patrícia Schmidтовá",
+    "Ivan Kartáč",
+    "Kristýna Onderková",
+    "Ondřej Plátek",
+    "Dimitra Gkatzia",
+    "Saad Mahamood",
+    "Ondřej Dušek",
+    "Simone Balocco"
+  ],
+  "languages": [
+    "Chinese",
+    "Czech",
+    "German",
+    "Hindi",
+    "Icelandic",
+    "Japanese",
+    "Russian",
+    "Spanish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.mme-main.1",
+  "acl_url": "https://aclanthology.org/2026.mme-main.1/"
+}

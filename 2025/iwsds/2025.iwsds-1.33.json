@@ -1,0 +1,21 @@
+{
+  "title": "Developing Classifiers for Affirmative and Negative User Responses with Limited Target Domain Data for Dialogue System Development Tools",
+  "authors": [
+    "Yunosuke Kubo",
+    "Ryo Yanagimoto",
+    "Mikio Nakano",
+    "Kenta Yamamoto",
+    "Ryu Takeda",
+    "Kazunori Komatani"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.iwsds-1.33",
+  "acl_url": "https://aclanthology.org/2025.iwsds-1.33/"
+}

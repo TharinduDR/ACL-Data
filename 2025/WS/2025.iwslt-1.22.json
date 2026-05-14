@@ -1,0 +1,22 @@
+{
+  "title": "KIT's Offline Speech Translation and Instruction Following Submission for IWSLT 2025",
+  "authors": [
+    "Sai Koneru",
+    "Maike Züfle",
+    "Thai-Binh Nguyen",
+    "Seymanur Akti",
+    "Jan Niehues",
+    "Alexander Waibel"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T16",
+    "T24",
+    "T18"
+  ],
+  "paper_id": "2025.iwslt-1.22",
+  "acl_url": "https://aclanthology.org/2025.iwslt-1.22/"
+}

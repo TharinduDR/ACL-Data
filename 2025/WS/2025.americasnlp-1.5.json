@@ -1,0 +1,28 @@
+{
+  "title": "Py-Elotl: A Python NLP package for the languages of Mexico",
+  "authors": [
+    "Ximena Gutierrez-Vasques",
+    "Robert Pugh",
+    "Victor Mijangos",
+    "Diego Alberto Barriga Martinez",
+    "Paul Aguilar",
+    "Mikel Segura",
+    "Paola Innes",
+    "Javier Santillan",
+    "Cynthia Montaño",
+    "Francis M. Tyers"
+  ],
+  "languages": [
+    "Nahuatl",
+    "Otomi",
+    "Mixtec",
+    "Huave"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.americasnlp-1.5",
+  "acl_url": "https://aclanthology.org/2025.americasnlp-1.5/"
+}

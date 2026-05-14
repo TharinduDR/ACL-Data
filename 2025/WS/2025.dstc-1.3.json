@@ -1,0 +1,29 @@
+{
+  "title": "Overview of Dialog System Evaluation Track: Dimensionality, Language, Culture and Safety at DSTC 12",
+  "authors": [
+    "John Mendonça",
+    "Lining Zhang",
+    "Rahul Mallidi",
+    "Alon Lavie",
+    "Isabel Trancoso",
+    "Luis Fernando D’Haro",
+    "João Sedoc"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Japanese",
+    "Portuguese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.dstc-1.3",
+  "acl_url": "https://aclanthology.org/2025.dstc-1.3/"
+}

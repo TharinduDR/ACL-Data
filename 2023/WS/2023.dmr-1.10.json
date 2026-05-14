@@ -1,0 +1,28 @@
+{
+  "title": "UMR Annotation of Multiword Expressions",
+  "authors": [
+    "Julia Bonn",
+    "Andrew Cowell",
+    "Jan Hajič",
+    "Alexis Palmer",
+    "Martha Palmer",
+    "James Pustejovsky",
+    "Haibo Sun",
+    "Zdenka Urešová",
+    "Shira Wein",
+    "Nianwen Xue",
+    "Jin Zhao"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Czech"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2023.dmr-1.10",
+  "acl_url": "https://aclanthology.org/2023.dmr-1.10/"
+}

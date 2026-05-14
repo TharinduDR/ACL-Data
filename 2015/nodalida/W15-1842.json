@@ -1,0 +1,20 @@
+{
+  "title": "Extracting Semantic Frames using hfst-pmatch",
+  "authors": [
+    "Sam Hardwick",
+    "Miikka Silfverberg",
+    "Krister Lindén"
+  ],
+  "languages": [
+    "Swedish",
+    "Finnish",
+    "English"
+  ],
+  "research_areas": [
+    "T11",
+    "T15",
+    "T21"
+  ],
+  "paper_id": "W15-1842",
+  "acl_url": "https://aclanthology.org/W15-1842/"
+}

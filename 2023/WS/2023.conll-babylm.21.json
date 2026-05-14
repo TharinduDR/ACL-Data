@@ -1,0 +1,22 @@
+{
+  "title": "WhisBERT: Multimodal Text-Audio Language Modeling on 100M Words",
+  "authors": [
+    "Lukas Wolf",
+    "Klemen Kotar",
+    "Greta Tuckute",
+    "Eghbal Hosseini",
+    "Tamar I. Regev",
+    "Ethan Gotlieb Wilcox",
+    "Alex Warstadt"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2023.conll-babylm.21",
+  "acl_url": "https://aclanthology.org/2023.conll-babylm.21/"
+}

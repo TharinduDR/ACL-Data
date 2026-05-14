@@ -1,0 +1,21 @@
+{
+  "title": "Pretrained Language Models v. Court Ruling Predictions: A Case Study on a Small Dataset of French Court of Appeal Rulings",
+  "authors": [
+    "Olivia Vaudaux",
+    "Caroline Bazzoli",
+    "Maximin Coavoux",
+    "Géraldine Vial",
+    "Étienne Vergès"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.nllp-1.5",
+  "acl_url": "https://aclanthology.org/2023.nllp-1.5/"
+}

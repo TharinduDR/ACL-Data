@@ -1,0 +1,26 @@
+{
+  "title": "KaPQA: Knowledge-Augmented Product Question-Answering",
+  "authors": [
+    "Swetha Eppalapally",
+    "Daksh Dangi",
+    "Chaithra Bhat",
+    "Ankita Gupta",
+    "Ruiyi Zhang",
+    "Shubham Agarwal",
+    "Karishma Bagga",
+    "Seunghyun Yoon",
+    "Nedim Lipka",
+    "Ryan A. Rossi",
+    "Franck Dernoncourt"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.knowledgenlp-1.2",
+  "acl_url": "https://aclanthology.org/2024.knowledgenlp-1.2/"
+}

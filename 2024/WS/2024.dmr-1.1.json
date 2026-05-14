@@ -1,0 +1,21 @@
+{
+  "title": "PropBank-Powered Data Creation: Utilizing Sense-Role Labelling to Generate Disaster Scenario Data",
+  "authors": [
+    "Mollie Shichman",
+    "Claire Bonial",
+    "Taylor Hudson",
+    "Austin Blodgett",
+    "Francis Ferraro",
+    "Rachel Rudinger"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.dmr-1.1",
+  "acl_url": "https://aclanthology.org/2024.dmr-1.1/"
+}

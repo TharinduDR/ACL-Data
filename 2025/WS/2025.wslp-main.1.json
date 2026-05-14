@@ -1,0 +1,24 @@
+{
+  "title": "Proceedings of the First Workshop on Sign Language Processing (WSLP)",
+  "authors": [
+    "Sanjeet Singh",
+    "Abhinav Joshi",
+    "Keren Artiaga",
+    "Mohammed Hasanuzzaman",
+    "Facundo Manuel Quiroga",
+    "Sabyasachi Kamila",
+    "Ashutosh Modi"
+  ],
+  "languages": [
+    "English",
+    "Indian Sign Language",
+    "Odia"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.wslp-main.1",
+  "acl_url": "https://aclanthology.org/2025.wslp-main.1/"
+}

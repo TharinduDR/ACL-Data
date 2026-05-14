@@ -1,0 +1,18 @@
+{
+  "title": "Ehime-U System with Judge and Refinement, Specialized Prompting, and Few-shot for the Patent Claim Translation Task at WAT 2025",
+  "authors": [
+    "Taishi Edamatsu",
+    "Isao Goto",
+    "Takashi Ninomiya"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.wat-1.2",
+  "acl_url": "https://aclanthology.org/2025.wat-1.2/"
+}

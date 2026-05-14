@@ -1,0 +1,33 @@
+{
+  "title": "DSLCCM: A Multimodal Human-Machine Dialogue Corpus Built through Competitions",
+  "authors": [
+    "Ryuichiro Higashinaka",
+    "Tetsuro Takahashi",
+    "Shinya Iizuka",
+    "Sota Horiuchi",
+    "Michimasa Inaba",
+    "Zhiyang Qi",
+    "Yuta Sasaki",
+    "Kotaro Funakoshi",
+    "Shoji Moriya",
+    "Shiki Sato",
+    "Takashi Minato",
+    "Kurima Sakai",
+    "Tomo Funayama",
+    "Masato Komuro",
+    "Hiroyuki Nishikawa",
+    "Ryosaku Makino",
+    "Hirofumi Kikuchi",
+    "Mayumi Usami"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.iwsds-1.29",
+  "acl_url": "https://aclanthology.org/2025.iwsds-1.29/"
+}

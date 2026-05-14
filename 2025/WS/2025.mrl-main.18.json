@@ -1,0 +1,30 @@
+{
+  "title": "Reversible Disentanglement of Meaning and Language Representations from Multilingual Sentence Encoders",
+  "authors": [
+    "Keita Fukushima",
+    "Tomoyuki Kajiwara",
+    "Takashi Ninomiya"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese",
+    "Romanian",
+    "Estonian",
+    "Nepali",
+    "Sinhalese",
+    "Arabic",
+    "Turkish",
+    "Spanish",
+    "French",
+    "Italian",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.mrl-main.18",
+  "acl_url": "https://aclanthology.org/2025.mrl-main.18/"
+}

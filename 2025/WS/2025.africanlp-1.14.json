@@ -1,0 +1,27 @@
+{
+  "title": "SabiYarn: Advancing Low Resource Languages with Multitask NLP Pretraining",
+  "authors": [
+    "Jeffrey Otoibhi",
+    "Oduguwa Damilola",
+    "Okpare David"
+  ],
+  "languages": [
+    "English",
+    "Yoruba",
+    "Igbo",
+    "Hausa",
+    "Pidgin English",
+    "Fulani",
+    "Fulfulde",
+    "Urhobo",
+    "EfiK"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T20 Sentiment Analysis",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2025.africanlp-1.14",
+  "acl_url": "https://aclanthology.org/2025.africanlp-1.14/"
+}

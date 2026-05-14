@@ -1,0 +1,21 @@
+{
+  "title": "AAVENUE: Detecting LLM Biases on NLU Tasks in AAVE via a Novel Benchmark",
+  "authors": [
+    "Abhay Gupta",
+    "Ece Yurtseven",
+    "Philip Meng",
+    "Sean O'Brien",
+    "Kevin Zhu"
+  ],
+  "languages": [
+    "English",
+    "African American Vernacular English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.nlp4pi-1.28",
+  "acl_url": "https://aclanthology.org/2024.nlp4pi-1.28/"
+}

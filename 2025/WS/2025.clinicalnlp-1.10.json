@@ -1,0 +1,18 @@
+{
+  "title": "MasonNLP at MEDIQA-WV 2025: Multimodal Retrieval-Augmented Generation with Large Language Models for Medical VQA",
+  "authors": [
+    "A H M Rezaul Karim",
+    "Özlem Uzuner"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.clinicalnlp-1.10",
+  "acl_url": "https://aclanthology.org/2025.clinicalnlp-1.10/"
+}

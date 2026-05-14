@@ -1,0 +1,18 @@
+{
+  "title": "RAG based Question Answering of Korean Laws and Precedents",
+  "authors": [
+    "Kiho Seo",
+    "Takehito Utsuro"
+  ],
+  "languages": [
+    "Korean",
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T10 Question Answering",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.fever-1.7",
+  "acl_url": "https://aclanthology.org/2025.fever-1.7/"
+}

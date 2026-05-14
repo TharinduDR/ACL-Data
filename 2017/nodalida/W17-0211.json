@@ -1,0 +1,18 @@
+{
+  "title": "A Multilingual Entity Linker Using PageRank and Semantic Graphs",
+  "authors": [
+    "Anton Södergren",
+    "Pierre Nugues"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "W17-0211",
+  "acl_url": "https://aclanthology.org/W17-0211/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "When the Dictionary Strikes Back: A Case Study on Slovak Migration Location Term Extraction and NER via Rule-Based vs. LLM Methods",
+  "authors": [
+    "Miroslav Blšták",
+    "Jaroslav Kopčan",
+    "Marek Šuppa",
+    "Samuel Harvan",
+    "Andrej Findor",
+    "Martin Takáč",
+    "Marián Šimko"
+  ],
+  "languages": [
+    "Slovak",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.bsnlp-1.11",
+  "acl_url": "https://aclanthology.org/2025.bsnlp-1.11/"
+}

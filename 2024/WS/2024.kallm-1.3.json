@@ -1,0 +1,20 @@
+{
+  "title": "Analysis of LLM's \"Spurious\" Correct Answers Using Evidence Information of Multi-hop QA Datasets",
+  "authors": [
+    "Ai Ishii",
+    "Naoya Inoue",
+    "Hisami Suzuki",
+    "Satoshi Sekine"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.kallm-1.3",
+  "acl_url": "https://aclanthology.org/2024.kallm-1.3/"
+}

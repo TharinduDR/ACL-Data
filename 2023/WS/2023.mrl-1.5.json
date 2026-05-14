@@ -1,0 +1,38 @@
+{
+  "title": "Zero-Shot Cross-Lingual Sentiment Classification under Distribution Shift: an Exploratory Study",
+  "authors": [
+    "Maarten De Raedt",
+    "Semere Kiros Bitew",
+    "Frédéric Godin",
+    "Thomas Demeester",
+    "Chris Develder"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "French",
+    "German",
+    "Spanish",
+    "Japanese",
+    "Arabic",
+    "Hindi",
+    "Portuguese",
+    "Russian",
+    "Turkish",
+    "Dutch",
+    "Italian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2023.mrl-1.5",
+  "acl_url": "https://aclanthology.org/2023.mrl-1.5/"
+}

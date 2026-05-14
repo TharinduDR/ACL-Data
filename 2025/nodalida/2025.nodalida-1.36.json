@@ -1,0 +1,21 @@
+{
+  "title": "SweSAT-1.0: The Swedish University Entrance Exam as a Benchmark for Large Language Models",
+  "authors": [
+    "Murathan Kurfah",
+    "Shorouq Zahra",
+    "Evangelia Gogoulou",
+    "Luise Dürlich",
+    "Fredrik Carlsson",
+    "Joakim Nivre"
+  ],
+  "languages": [
+    "Swedish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2025.nodalida-1.36",
+  "acl_url": "https://aclanthology.org/2025.nodalida-1.36/"
+}

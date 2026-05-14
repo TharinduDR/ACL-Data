@@ -1,0 +1,21 @@
+{
+  "title": "RealPersonaChat: A Realistic Persona Chat Corpus with Interlocutors' Own Personalities",
+  "authors": [
+    "Sanae Yamashita",
+    "Koji Inoue",
+    "Ao Guo",
+    "Shota Mochizuki",
+    "Tatsuya Kawahara",
+    "Ryuichiro Higashinaka"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
+  ],
+  "paper_id": "2023.paclic-1.85",
+  "acl_url": "https://aclanthology.org/2023.paclic-1.85/"
+}

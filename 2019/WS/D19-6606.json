@@ -1,0 +1,17 @@
+{
+  "title": "Unsupervised Natural Question Answering with a Small Model",
+  "authors": [
+    "Martin Andrews",
+    "Sam Witteveen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "D19-6606",
+  "acl_url": "https://aclanthology.org/D19-6606/"
+}

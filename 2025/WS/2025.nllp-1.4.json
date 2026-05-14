@@ -1,0 +1,19 @@
+{
+  "title": "Translating Tax Law to Code with LLMs: A Benchmark and Evaluation Framework",
+  "authors": [
+    "Gabriele Lorenzo",
+    "Aldo Pietromatera",
+    "Nils Holzenberger"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.nllp-1.4",
+  "acl_url": "https://aclanthology.org/2025.nllp-1.4/"
+}

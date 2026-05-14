@@ -1,0 +1,21 @@
+{
+  "title": "Y-NQ: English-Yorùbá Evaluation dataset for Open-Book Reading Comprehension with Open-Ended Questions",
+  "authors": [
+    "Marta R. Costa-jussà",
+    "Joy Chen",
+    "Ifeoluwanimi Adebara",
+    "Joe Chuang",
+    "Christophe Ropers",
+    "Eduardo Sánchez"
+  ],
+  "languages": [
+    "English",
+    "Yorùbá"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.africanlp-1.34",
+  "acl_url": "https://aclanthology.org/2025.africanlp-1.34/"
+}

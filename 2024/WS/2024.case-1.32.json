@@ -1,0 +1,21 @@
+{
+  "title": "Overview of the Hate Speech Detection in Turkish and Arabic Tweets (HSD-2Lang) Shared Task at CASE 2024",
+  "authors": [
+    "Gökçe Uludoğan",
+    "Somaiyeh Dehghan",
+    "İnanç Arın",
+    "Elif Erol",
+    "Berrin Yanikoglu",
+    "Arzucan Özgür"
+  ],
+  "languages": [
+    "Turkish",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2024.case-1.32",
+  "acl_url": "https://aclanthology.org/2024.case-1.32/"
+}

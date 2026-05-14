@@ -1,0 +1,19 @@
+{
+  "title": "Benchmarking Offensive Language Detection in Persian and Pashto",
+  "authors": [
+    "Zahra Bokaei",
+    "Bonnie Webber",
+    "Walid Magdy"
+  ],
+  "languages": [
+    "Persian",
+    "Pashto"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.silkroadnlp-1.2",
+  "acl_url": "https://aclanthology.org/2026.silkroadnlp-1.2/"
+}

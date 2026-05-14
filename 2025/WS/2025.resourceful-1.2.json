@@ -1,0 +1,18 @@
+{
+  "title": "Fine-Tuning Cross-Lingual LLMs for POS Tagging in Code-Switched Contexts",
+  "authors": [
+    "Shayaan Absar"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.resourceful-1.2",
+  "acl_url": "https://aclanthology.org/2025.resourceful-1.2/"
+}

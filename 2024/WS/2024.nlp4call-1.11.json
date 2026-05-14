@@ -1,0 +1,22 @@
+{
+  "title": "Jingle BERT, Frozen All the Way: Freezing Layers to Identify CEFR Levels of Second Language Learners Using BERT",
+  "authors": [
+    "Ricardo Muñoz Sánchez",
+    "David Alfter",
+    "Simon Dobnik",
+    "Maria Irena Szawerna",
+    "Elena Volodina"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2024.nlp4call-1.11",
+  "acl_url": "https://aclanthology.org/2024.nlp4call-1.11/"
+}

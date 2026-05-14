@@ -1,0 +1,21 @@
+{
+  "title": "LLM-Assisted Translation of Legacy FORTRAN Codes to C++: A Cross-Platform Study",
+  "authors": [
+    "Nishath Rajiv Ranasinghe",
+    "Shawn M. Jones",
+    "Michal Kucer",
+    "Ayan Biswas",
+    "Daniel O'Malley",
+    "Alexander Buschmann Most",
+    "Selma Liliane Wanna",
+    "Ajay Sreekumar"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.aisd-main.6",
+  "acl_url": "https://aclanthology.org/2025.aisd-main.6/"
+}

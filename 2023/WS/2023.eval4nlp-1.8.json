@@ -1,0 +1,27 @@
+{
+  "title": "Large Language Models As Annotators: A Preliminary Evaluation For Annotating Low-Resource Language Content",
+  "authors": [
+    "Savita Bhat",
+    "Vasudeva Varma"
+  ],
+  "languages": [
+    "Assamese",
+    "Bengali",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Marathi",
+    "Odia",
+    "Punjabi",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.eval4nlp-1.8",
+  "acl_url": "https://aclanthology.org/2023.eval4nlp-1.8/"
+}

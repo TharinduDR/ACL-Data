@@ -1,0 +1,18 @@
+{
+  "title": "Balancing Privacy and Utility in Personal LLM Writing Tasks: An Automated Pipeline for Evaluating Anonymizations",
+  "authors": [
+    "Stefan Pasch",
+    "Min Chul Cha"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.privatenlp-main.3",
+  "acl_url": "https://aclanthology.org/2025.privatenlp-main.3/"
+}

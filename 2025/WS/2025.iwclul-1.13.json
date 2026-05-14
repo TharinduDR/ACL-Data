@@ -1,0 +1,18 @@
+{
+  "title": "Fine-Tuning Whisper for Kildin Sami",
+  "authors": [
+    "Enzo Gamboni"
+  ],
+  "languages": [
+    "Kildin Sami",
+    "Russian",
+    "Finnish",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.iwclul-1.13",
+  "acl_url": "https://aclanthology.org/2025.iwclul-1.13/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "ArithmAttack: Evaluating Robustness of LLMs to Noisy Context in Math Problem Solving",
+  "authors": [
+    "Zain Ul Abedin",
+    "Shahzeb Qamar",
+    "Lucie Flek",
+    "Akbar Karimi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.llmsec-1.5",
+  "acl_url": "https://aclanthology.org/2025.llmsec-1.5/"
+}

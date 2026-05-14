@@ -1,0 +1,30 @@
+{
+  "title": "From English-Centric to Effective Bilingual: LLMs with Custom Tokenizers for Underrepresented Languages",
+  "authors": [
+    "Artur Kiulian",
+    "Anton Polishko",
+    "Mykola Khandoga",
+    "Yevhen Kostiuk",
+    "Guillermo Gabrielli",
+    "Łukasz Gagala",
+    "Fadi Zaraket",
+    "Qusai Abu Obaida",
+    "Hrishikesh Garud",
+    "Wendy Wing Yee Mak",
+    "Dmytro Chaplynskyi",
+    "Selma Belhadj Amor",
+    "Grigol Peradze"
+  ],
+  "languages": [
+    "English",
+    "Ukrainian",
+    "Arabic",
+    "Georgian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.unlp-1.1",
+  "acl_url": "https://aclanthology.org/2025.unlp-1.1/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "OZemi at SemEval-2025 Task 11: Multilingual Emotion Detection and Intensity",
+  "authors": [
+    "Hidetsune Takahashi",
+    "Sumiko Teng",
+    "Jina Lee",
+    "Wenxiao Hu",
+    "Rio Obe",
+    "Chuen Shin Yong",
+    "Emily Ohman"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Chinese",
+    "Somali",
+    "Sundanese",
+    "Amharic",
+    "Tigrinya"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.semeval-1.16",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.16/"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "An Empirical Study of Language Relatedness for Transfer Learning in Neural Machine Translation",
+  "authors": [
+    "Raj Dabre",
+    "Tetsuji Nakagawa",
+    "Hideto Kazawa"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Hindi",
+    "Indonesian",
+    "Turkish",
+    "Luxembourgish",
+    "Hausa",
+    "Somali",
+    "Malayalam",
+    "Punjabi",
+    "Kazakh",
+    "Javanese",
+    "Sundanese",
+    "Marathi",
+    "Uzbek"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "Y17-1038",
+  "acl_url": "https://aclanthology.org/Y17-1038/"
+}

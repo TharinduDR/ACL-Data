@@ -1,0 +1,20 @@
+{
+  "title": "Synthetic Voice Data for Automatic Speech Recognition in African Languages",
+  "authors": [
+    "Brian DeRenzi",
+    "Anna Dixon",
+    "Mohamed Aymane Farhi",
+    "Christian Resch"
+  ],
+  "languages": [
+    "Hausa",
+    "Dholuo",
+    "Chichewa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.lowresnlp-1.16",
+  "acl_url": "https://aclanthology.org/2025.lowresnlp-1.16/"
+}

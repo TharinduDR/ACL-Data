@@ -1,0 +1,25 @@
+{
+  "title": "Non-Determinism of \"Deterministic\" LLM System Settings in Hosted Environments",
+  "authors": [
+    "Berk Atil",
+    "Sarp Aykent",
+    "Alexa Chittams",
+    "Lisheng Fu",
+    "Rebecca J. Passonneau",
+    "Evan Radcliffe",
+    "Guru Rajan Rajagopal",
+    "Adam Sloan",
+    "Tomasz Tudrej",
+    "Ferhan Ture",
+    "Zhe Wu",
+    "Lixinyu Xu",
+    "Breck Baldwin"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.eval4nlp-1.12",
+  "acl_url": "https://aclanthology.org/2025.eval4nlp-1.12/"
+}

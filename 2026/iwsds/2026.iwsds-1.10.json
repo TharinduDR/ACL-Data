@@ -1,0 +1,23 @@
+{
+  "title": "Effects of Dialogue Corpora Properties on Fine-Tuning a Moshi-Based Spoken Dialogue Model",
+  "authors": [
+    "Yuto Abe",
+    "Mao Saeki",
+    "Atsumoto Ohashi",
+    "Shinnosuke Takamichi",
+    "Shiyna Fujie",
+    "Tetsunori Kobayashi",
+    "Tetsuji Ogawa",
+    "Ryuichiro Higashinaka"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2026.iwsds-1.10",
+  "acl_url": "https://aclanthology.org/2026.iwsds-1.10/"
+}

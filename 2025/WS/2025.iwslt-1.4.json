@@ -1,0 +1,24 @@
+{
+  "title": "The Warmup Dilemma: How Learning Rate Strategies Impact Speech-to-Text Model Convergence",
+  "authors": [
+    "Marco Gaido",
+    "Sara Papi",
+    "Luisa Bentivogli",
+    "Alessio Bruttì",
+    "Mauro Cettolo",
+    "Roberto Gretter",
+    "Marco Matassoni",
+    "Mohamed Nabih",
+    "Matteo Negri"
+  ],
+  "languages": [
+    "English",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.iwslt-1.4",
+  "acl_url": "https://aclanthology.org/2025.iwslt-1.4/"
+}

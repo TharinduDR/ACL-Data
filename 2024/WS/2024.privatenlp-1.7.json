@@ -1,0 +1,19 @@
+{
+  "title": "PII-Compass: Guiding LLM training data extraction prompts towards the target PII via grounding",
+  "authors": [
+    "Krishna Kanth Nakka",
+    "Ahmed Frikha",
+    "Ricardo Mendes",
+    "Xue Jiang",
+    "Xuebing Zhou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2024.privatenlp-1.7",
+  "acl_url": "https://aclanthology.org/2024.privatenlp-1.7/"
+}

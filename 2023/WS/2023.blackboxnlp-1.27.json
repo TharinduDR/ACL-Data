@@ -1,0 +1,18 @@
+{
+  "title": "Systematic Generalization by Finetuning? Analyzing Pretrained Language Models Using Constituency Tests",
+  "authors": [
+    "Aishik Chakraborty",
+    "Jackie CK Cheung",
+    "Timothy J. O'Donnell"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.blackboxnlp-1.27",
+  "acl_url": "https://aclanthology.org/2023.blackboxnlp-1.27/"
+}

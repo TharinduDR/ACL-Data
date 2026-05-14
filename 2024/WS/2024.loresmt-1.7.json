@@ -1,0 +1,24 @@
+{
+  "title": "Enhancing Low-Resource NMT with a Multilingual Encoder and Knowledge Distillation: A Case Study",
+  "authors": [
+    "Aniruddha Roy",
+    "Pretam Ray",
+    "Ayush Maheshwari",
+    "Sudeshna Sarkar",
+    "Pawan Goyal"
+  ],
+  "languages": [
+    "Hindi",
+    "Kannada",
+    "Punjabi",
+    "Telugu",
+    "Bengali",
+    "Marathi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.loresmt-1.7",
+  "acl_url": "https://aclanthology.org/2024.loresmt-1.7/"
+}

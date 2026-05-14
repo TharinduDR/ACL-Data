@@ -1,0 +1,21 @@
+{
+  "title": "A Dialogue System for Semi-Structured Interviews by LLMs and its Evaluation on Persona Information Collection",
+  "authors": [
+    "Ryo Hasegawa",
+    "Yijie Hua",
+    "Takehito Utsuro",
+    "Ekai Hashimoto",
+    "Mikio Nakano",
+    "Shun Shiramatsu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.iwsds-1.5",
+  "acl_url": "https://aclanthology.org/2025.iwsds-1.5/"
+}

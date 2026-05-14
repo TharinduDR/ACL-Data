@@ -1,0 +1,21 @@
+{
+  "title": "Investigating Linguistic Abilities of LLMs for Native Language Identification",
+  "authors": [
+    "Ahmet Yavuz Uluslu",
+    "Gerold Schneider"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 Authorship Attribution",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.nlp4call-1.7",
+  "acl_url": "https://aclanthology.org/2025.nlp4call-1.7/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Pointer-Generator Networks for Low-Resource Machine Translation: Don't Copy That!",
+  "authors": [
+    "Niyati Bafna",
+    "Philipp Koehn",
+    "David Yarowsky"
+  ],
+  "languages": [
+    "Hindi",
+    "Bhojpuri",
+    "Marathi",
+    "Spanish",
+    "Catalan",
+    "French"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.insights-1.9",
+  "acl_url": "https://aclanthology.org/2024.insights-1.9/"
+}

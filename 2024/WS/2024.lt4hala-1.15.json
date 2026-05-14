@@ -1,0 +1,21 @@
+{
+  "title": "LLM-based Machine Translation and Summarization for Latin",
+  "authors": [
+    "Martin Volk",
+    "Dominic P. Fischer",
+    "Lukas Fischer",
+    "Patricia Scheurer",
+    "Phillip B. Ströbel"
+  ],
+  "languages": [
+    "Latin",
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2024.lt4hala-1.15",
+  "acl_url": "https://aclanthology.org/2024.lt4hala-1.15/"
+}

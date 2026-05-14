@@ -1,0 +1,27 @@
+{
+  "title": "Using LLMs to Build a Database of Climate Extreme Impacts",
+  "authors": [
+    "Ni Li",
+    "Shorouq Zahra",
+    "Mariana Madruga de Brito",
+    "Clare Marie Flynn",
+    "Olof Görnerup",
+    "Koffi Worou",
+    "Murathan Kurfali",
+    "Chanjuan Meng",
+    "Wim Thiery",
+    "Jakob Zscheischler",
+    "Gabriele Messori",
+    "Joakim Nivre"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.climatenlp-1.7",
+  "acl_url": "https://aclanthology.org/2024.climatenlp-1.7/"
+}

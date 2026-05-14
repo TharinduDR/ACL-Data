@@ -1,0 +1,20 @@
+{
+  "title": "Unsupervised and Lightly Supervised Part-of-Speech Tagging Using Recurrent Neural Networks",
+  "authors": [
+    "Othman Zennaki",
+    "Nasredine Semmar",
+    "Laurent Besacier"
+  ],
+  "languages": [
+    "French",
+    "German",
+    "Greek",
+    "Spanish",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "Y15-1016",
+  "acl_url": "https://aclanthology.org/Y15-1016/"
+}

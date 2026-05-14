@@ -1,0 +1,27 @@
+{
+  "title": "Benchmarking Multilingual Temporal Reasoning in LLMs: The Temporal Reasoning Dataset",
+  "authors": [
+    "Vittorio Mazzia",
+    "Sandro Pollastrini",
+    "Davide Bernardi",
+    "Chiara Rubagotti",
+    "Daniele Amberti"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Hindi",
+    "Arabic",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2026.iwsds-1.19",
+  "acl_url": "https://aclanthology.org/2026.iwsds-1.19/"
+}

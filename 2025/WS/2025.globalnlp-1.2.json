@@ -1,0 +1,22 @@
+{
+  "title": "Prompt Balance Matters: Understanding How Imbalanced Few-Shot Learning Affects Multilingual Sense Disambiguation in LLMs",
+  "authors": [
+    "Deshan Sumanathilaka",
+    "Nicholas Micallef",
+    "Julian Hough"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.globalnlp-1.2",
+  "acl_url": "https://aclanthology.org/2025.globalnlp-1.2/"
+}

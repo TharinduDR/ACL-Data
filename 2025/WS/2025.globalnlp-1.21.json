@@ -1,0 +1,28 @@
+{
+  "title": "Checklist Engineering Empowers Multilingual LLM Judges",
+  "authors": [
+    "Mohammad Ghiasvand Mohammadhkani",
+    "Hamid Beigy"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Russian",
+    "Chinese",
+    "Bengali",
+    "Japanese",
+    "Thai",
+    "Swahili",
+    "Cantonese",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.globalnlp-1.21",
+  "acl_url": "https://aclanthology.org/2025.globalnlp-1.21/"
+}

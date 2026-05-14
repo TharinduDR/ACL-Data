@@ -1,0 +1,23 @@
+{
+  "title": "The SETU-ADAPT Submissions for WMT24 Biomedical Shared Task",
+  "authors": [
+    "Antonio Castaldo",
+    "Maria Zafar",
+    "Prashanth Nayak",
+    "Rejwanul Haque",
+    "Andy Way",
+    "Johanna Monti"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.wmt-1.53",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.53/"
+}

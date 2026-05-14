@@ -1,0 +1,29 @@
+{
+  "title": "ITUNLP at MWE-2026 AdMIRE 2: A Zero-Shot LLM Pipeline for Multimodal Idiom Understanding and Ranking",
+  "authors": [
+    "Atakan Site",
+    "Oğuz Ali Arslan",
+    "Gülşen Eryiğit"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Galician",
+    "Greek",
+    "Norwegian",
+    "Turkish",
+    "Brazilian Portuguese",
+    "Serbian",
+    "Slovak",
+    "Slovenian",
+    "Ecuadorian Spanish",
+    "Igbo"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.mwe-1.30",
+  "acl_url": "https://aclanthology.org/2026.mwe-1.30/"
+}

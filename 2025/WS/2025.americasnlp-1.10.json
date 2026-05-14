@@ -1,0 +1,29 @@
+{
+  "title": "Machine Translation Using Grammar Materials for LLM Post-Correction",
+  "authors": [
+    "Jonathan Hus",
+    "Nathaniel Krasner",
+    "Antonios Anastasopoulos"
+  ],
+  "languages": [
+    "Spanish",
+    "Aymara",
+    "Bribri",
+    "Chatino",
+    "Guarani",
+    "Huichol",
+    "Nahuatl",
+    "Otomí",
+    "Quechua",
+    "Shípibo-Konibo",
+    "Tarahumara",
+    "Wayuu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.americasnlp-1.10",
+  "acl_url": "https://aclanthology.org/2025.americasnlp-1.10/"
+}

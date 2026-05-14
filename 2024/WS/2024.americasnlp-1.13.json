@@ -1,0 +1,18 @@
+{
+  "title": "Wav2pos: Exploring syntactic analysis from audio for Highland Puebla Nahuatl",
+  "authors": [
+    "Robert Pugh",
+    "Varun Sreedhar",
+    "Francis Tyers"
+  ],
+  "languages": [
+    "Nahuatl"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2024.americasnlp-1.13",
+  "acl_url": "https://aclanthology.org/2024.americasnlp-1.13/"
+}

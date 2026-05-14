@@ -1,0 +1,22 @@
+{
+  "title": "Extremely low-resource machine translation for closely related languages",
+  "authors": [
+    "Maali Tars",
+    "Andre Tättar",
+    "Mark Fišel"
+  ],
+  "languages": [
+    "Estonian",
+    "Finnish",
+    "Võro",
+    "North Saami",
+    "South Saami"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2021.nodalida-main.5",
+  "acl_url": "https://aclanthology.org/2021.nodalida-main.5/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Language technology for the minority Finnic languages",
+  "authors": [
+    "Flammie A Pirinen",
+    "Trond Trosterud",
+    "Jack Rueter"
+  ],
+  "languages": [
+    "Finnish",
+    "Estonian",
+    "Karelian",
+    "Livvi",
+    "Ludic",
+    "Veps",
+    "Ingrian",
+    "Votic",
+    "Livonian",
+    "Meänkieli",
+    "Kven",
+    "Võro",
+    "Seto"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.iwclul-1.6",
+  "acl_url": "https://aclanthology.org/2025.iwclul-1.6/"
+}

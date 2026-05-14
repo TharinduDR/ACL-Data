@@ -1,0 +1,24 @@
+{
+  "title": "fact check AI at SemEval-2025 Task 7: Multilingual and Crosslingual Fact-checked Claim Retrieval",
+  "authors": [
+    "Pranshu Rastogi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Malay",
+    "Portuguese",
+    "Spanish",
+    "Thai",
+    "Arabic",
+    "Polish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.semeval-1.306",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.306/"
+}

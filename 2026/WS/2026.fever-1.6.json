@@ -1,0 +1,19 @@
+{
+  "title": "The Automatic Verification of Image-Text Claims (AVerImaTeC) Shared Task",
+  "authors": [
+    "Rui Cao",
+    "Zhenyun Deng",
+    "Yulong Chen",
+    "Michael Schlichtkrull",
+    "Andreas Vlachos"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2026.fever-1.6",
+  "acl_url": "https://aclanthology.org/2026.fever-1.6/"
+}

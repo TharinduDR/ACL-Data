@@ -1,0 +1,19 @@
+{
+  "title": "Adapt and Decompose: Efficient Generalization of Text-to-SQL via Domain Adapted Least-To-Most Prompting",
+  "authors": [
+    "Aseem Arora",
+    "Shabbirhussain Bhaisaheb",
+    "Harshit Nigam",
+    "Manasi Patwardhan",
+    "Lovekesh Vig",
+    "Gautam Shroff"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.genbench-1.3",
+  "acl_url": "https://aclanthology.org/2023.genbench-1.3/"
+}

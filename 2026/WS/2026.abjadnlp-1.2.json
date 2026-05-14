@@ -1,0 +1,21 @@
+{
+  "title": "Orthographic Structure Matters: Tokenization Failures in Arabic-Script and Related Languages",
+  "authors": [
+    "Manodnya K H",
+    "Luc De Nardi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Nepali",
+    "Urdu",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2026.abjadnlp-1.2",
+  "acl_url": "https://aclanthology.org/2026.abjadnlp-1.2/"
+}

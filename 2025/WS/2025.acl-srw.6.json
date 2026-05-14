@@ -1,0 +1,32 @@
+{
+  "title": "HYPEROFA: Expanding LLM Vocabulary to New Languages via Hypernetwork-Based Embedding Initialization",
+  "authors": [
+    "Enes Özeren",
+    "Yihong Liu",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Persian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.acl-srw.6",
+  "acl_url": "https://aclanthology.org/2025.acl-srw.6/"
+}

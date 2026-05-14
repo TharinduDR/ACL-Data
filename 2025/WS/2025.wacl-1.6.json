@@ -1,0 +1,19 @@
+{
+  "title": "Dial2MSA-Verified: A Multi-Dialect Arabic Social Media Dataset for Neural Machine Translation to Modern Standard Arabic",
+  "authors": [
+    "Abdullah Khered",
+    "Youcef Benkhedda",
+    "Riza Batista-Navarro"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T23 Social Media Processing",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2025.wacl-1.6",
+  "acl_url": "https://aclanthology.org/2025.wacl-1.6/"
+}

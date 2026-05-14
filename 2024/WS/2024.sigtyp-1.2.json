@@ -1,0 +1,36 @@
+{
+  "title": "GUIDE: Creating Semantic Domain Dictionaries for Low-Resource Languages",
+  "authors": [
+    "Jonathan Janetzki",
+    "Gerard de Melo",
+    "Joshua Nemecek",
+    "Daniel Whitenack"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "Hindi",
+    "Indonesian",
+    "Malayalam",
+    "Nepali",
+    "Portuguese",
+    "Spanish",
+    "Swahili",
+    "German",
+    "Hiri Motu",
+    "Igbo",
+    "Mina-Gen",
+    "Motu",
+    "South Azerbaijani",
+    "Tok Pisin",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.sigtyp-1.2",
+  "acl_url": "https://aclanthology.org/2024.sigtyp-1.2/"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "GT-NLP at SemEval-2025 Task 11: EmoRationale, Evidence-Based Emotion Detection via Retrieval-Augmented Generation",
+  "authors": [
+    "Daniel Saeedi",
+    "Alireza Kheirandish",
+    "Sirwe Saeedi",
+    "Hossein Sahour",
+    "Aliakbar Panahi",
+    "Iman Ahmadi Naeeni"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Portuguese",
+    "German",
+    "Arabic",
+    "Swedish",
+    "Ukrainian",
+    "Chinese",
+    "Indonesian",
+    "Hindi",
+    "Spanish",
+    "French",
+    "Afrikaans",
+    "Moroccan Arabic",
+    "Algerian Arabic",
+    "Hausa",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.semeval-1.90",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.90/"
+}

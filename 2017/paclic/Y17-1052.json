@@ -1,0 +1,19 @@
+{
+  "title": "Japanese all-words WSD system using the Kyoto Text Analysis ToolKit",
+  "authors": [
+    "Hiroyuki Shinnou",
+    "Kanako Komiya",
+    "Minoru Sasaki",
+    "Shinsuke Mori"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "Y17-1052",
+  "acl_url": "https://aclanthology.org/Y17-1052/"
+}

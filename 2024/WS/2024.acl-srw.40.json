@@ -1,0 +1,28 @@
+{
+  "title": "CoVoSwitch: Machine Translation of Synthetic Code-Switched Text Based on Intonation Units",
+  "authors": [
+    "Yeeun Kang"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Catalan",
+    "Welsh",
+    "German",
+    "Estonian",
+    "Persian",
+    "Indonesian",
+    "Latvian",
+    "Mongolian",
+    "Slovenian",
+    "Swedish",
+    "Tamil",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.acl-srw.40",
+  "acl_url": "https://aclanthology.org/2024.acl-srw.40/"
+}

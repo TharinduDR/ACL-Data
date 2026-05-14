@@ -1,0 +1,22 @@
+{
+  "title": "CST5: Data Augmentation for Code-Switched Semantic Parsing",
+  "authors": [
+    "Anmol Agarwal",
+    "Jigar Gupta",
+    "Rahul Goel",
+    "Shyam Upadhyay",
+    "Pankaj Joshi",
+    "Rengarajan Aravamudhan"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.tllm-1.1",
+  "acl_url": "https://aclanthology.org/2023.tllm-1.1/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Vocabulary Replacement in SentencePiece for Domain Adaptation",
+  "authors": [
+    "Teruno Kajiura",
+    "Shiho Takano",
+    "Tatsuya Hiraoka",
+    "Kimio Kuramitsu"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2023.paclic-1.64",
+  "acl_url": "https://aclanthology.org/2023.paclic-1.64/"
+}

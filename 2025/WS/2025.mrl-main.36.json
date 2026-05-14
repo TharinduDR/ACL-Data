@@ -1,0 +1,33 @@
+{
+  "title": "jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval",
+  "authors": [
+    "Michael Günther",
+    "Saba Sturua",
+    "Mohammad Kalim Akram",
+    "Isabelle Mohr",
+    "Andrei Ungureanu",
+    "Bo Wang",
+    "Sedigheh Eslami",
+    "Scott Martens",
+    "Maximilian Werk",
+    "Nan Wang",
+    "Han Xiao"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Italian",
+    "Dutch",
+    "Hindi",
+    "Russian"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.mrl-main.36",
+  "acl_url": "https://aclanthology.org/2025.mrl-main.36/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Leveraging Adapters for Improved Cross-Lingual Transfer for Low-Resource Creole MT",
+  "authors": [
+    "Marcell Fekete",
+    "Ernests Lavrinovics",
+    "Nathaniel R. Robinson",
+    "Heather Lent",
+    "Raj Dabre",
+    "Johannes Bjerva"
+  ],
+  "languages": [
+    "English",
+    "Haitian Creole"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.mrl-1.17",
+  "acl_url": "https://aclanthology.org/2024.mrl-1.17/"
+}

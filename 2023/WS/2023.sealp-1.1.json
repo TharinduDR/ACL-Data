@@ -1,0 +1,23 @@
+{
+  "title": "Towards Automatic Construction of Filipino WordNet: Word Sense Induction and Synset Induction Using Sentence Embeddings",
+  "authors": [
+    "Dan John Velasco",
+    "Axel Alba",
+    "Trisha Gail Pelagio",
+    "Bryce Anthony Ramirez",
+    "Unisse Chua",
+    "Brian Paul Samson",
+    "Jan Christian Blaise Cruz",
+    "Charibeth Cheng"
+  ],
+  "languages": [
+    "Filipino"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.sealp-1.1",
+  "acl_url": "https://aclanthology.org/2023.sealp-1.1/"
+}

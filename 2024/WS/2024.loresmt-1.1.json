@@ -1,0 +1,23 @@
+{
+  "title": "Tuning LLMs with Contrastive Alignment Instructions for Machine Translation in Unseen, Low-resource Languages",
+  "authors": [
+    "Zhuoyuan Mao",
+    "Yen Yu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "German",
+    "Dutch",
+    "Russian",
+    "Arabic",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.loresmt-1.1",
+  "acl_url": "https://aclanthology.org/2024.loresmt-1.1/"
+}

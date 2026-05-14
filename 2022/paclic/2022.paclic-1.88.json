@@ -1,0 +1,20 @@
+{
+  "title": "UIT-ViCoV19QA: A Dataset for COVID-19 Community-based Question Answering on Vietnamese Language",
+  "authors": [
+    "Triet Minh Thai",
+    "Ngan Ha-Thao Chu",
+    "Anh Tuan Vo",
+    "Son T. Luu"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2022.paclic-1.88",
+  "acl_url": "https://aclanthology.org/2022.paclic-1.88/"
+}

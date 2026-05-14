@@ -1,0 +1,17 @@
+{
+  "title": "TartuNLP at SemEval-2025 Task 5: Subject Tagging as Two-Stage Information Retrieval",
+  "authors": [
+    "Aleksei Dorkin",
+    "Kairit Sirts"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.semeval-1.319",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.319/"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "AraModernBERT: Transtokenized Initialization and Long-Context Encoder Modeling for Arabic",
+  "authors": [
+    "Omar Elshehy",
+    "Omer Nacar",
+    "Abdelbasset Djamai",
+    "Muhammed Ragab",
+    "Khloud Al Jallad",
+    "Mona Abdelazim"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2026.abjadnlp-1.39",
+  "acl_url": "https://aclanthology.org/2026.abjadnlp-1.39/"
+}

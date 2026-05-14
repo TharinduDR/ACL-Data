@@ -1,0 +1,22 @@
+{
+  "title": "LLM-as-a-qualitative-judge: automating error analysis in natural language generation",
+  "authors": [
+    "Nadezhda Chirkova",
+    "Tunde Oluwaseyi Ajayi",
+    "Seth Aycock",
+    "Zain Muhammad Mujahid",
+    "Vladana Perlić",
+    "Ekaterina Borisova",
+    "Markarit Vartampetian"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2026.mme-main.7",
+  "acl_url": "https://aclanthology.org/2026.mme-main.7/"
+}

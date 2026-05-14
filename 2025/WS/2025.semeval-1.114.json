@@ -1,0 +1,31 @@
+{
+  "title": "QUST_NLP at SemEval-2025 Task 7: A Three-Stage Retrieval Framework for Monolingual and Crosslingual Fact-Checked Claim Retrieval",
+  "authors": [
+    "Youzheng Liu",
+    "Jiyan Liu",
+    "Xiaoman Xu",
+    "Taihang Wang",
+    "Yimin Wang",
+    "Ye Jiang"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Portuguese",
+    "French",
+    "Arabic",
+    "Malay",
+    "Thai",
+    "Polish",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.semeval-1.114",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.114/"
+}

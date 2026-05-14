@@ -1,0 +1,25 @@
+{
+  "title": "Evaluating the Impact of Text De-Identification on Downstream NLP Tasks",
+  "authors": [
+    "Cedric Lothritz",
+    "Bertrand Lebichot",
+    "Kevin Allix",
+    "Saad Ezzini",
+    "Tegawendé F. Bissyandé",
+    "Jacques Klein",
+    "Andrey Boytsov",
+    "Clément Lefebvre",
+    "Anne Goujon"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.nodalida-1.2",
+  "acl_url": "https://aclanthology.org/2023.nodalida-1.2/"
+}

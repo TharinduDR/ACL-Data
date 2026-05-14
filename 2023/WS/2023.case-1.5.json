@@ -1,0 +1,19 @@
+{
+  "title": "BoschAI @ Causal News Corpus 2023: Robust Cause-Effect Span Extraction using Multi-Layer Sequence Tagging and Data Augmentation",
+  "authors": [
+    "Timo Pierre Schrader",
+    "Simon Razniewski",
+    "Lukas Lange",
+    "Annemarie Friedrich"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.case-1.5",
+  "acl_url": "https://aclanthology.org/2023.case-1.5/"
+}

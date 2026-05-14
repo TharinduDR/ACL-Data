@@ -1,0 +1,19 @@
+{
+  "title": "ManWav: The First Manchu ASR Model",
+  "authors": [
+    "Jean Seo",
+    "Minha Kang",
+    "Sungjoo Byun",
+    "Sangah Lee"
+  ],
+  "languages": [
+    "Manchu",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2024.fieldmatters-1.2",
+  "acl_url": "https://aclanthology.org/2024.fieldmatters-1.2/"
+}

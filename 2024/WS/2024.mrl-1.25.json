@@ -1,0 +1,41 @@
+{
+  "title": "Generalization Measures for Zero-Shot Cross-Lingual Transfer",
+  "authors": [
+    "Saksham Bassi",
+    "Duygu Ataman",
+    "Kyunghyun Cho"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Bulgarian",
+    "German",
+    "Greek",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Urdu",
+    "Vietnamese",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.mrl-1.25",
+  "acl_url": "https://aclanthology.org/2024.mrl-1.25/"
+}

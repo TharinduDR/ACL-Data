@@ -1,0 +1,22 @@
+{
+  "title": "Small Languages, Big Models: A Study of Continual Training on Languages of Norway",
+  "authors": [
+    "David Samuel",
+    "Vladislav Mikhailov",
+    "Erik Veldal",
+    "Lilja Øvrelid",
+    "Lucas Charpentier",
+    "Andrey Kutuzov",
+    "Stephan Oepen"
+  ],
+  "languages": [
+    "Norwegian",
+    "Northern Sámi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.nodalida-1.61",
+  "acl_url": "https://aclanthology.org/2025.nodalida-1.61/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Adapting LLMs to New Domains: A Comparative Study of Fine-Tuning and RAG strategies for Portuguese QA Tasks",
+  "authors": [
+    "Leandro Yamachita da Costa",
+    "João Baptista de Oliveira e Souza Filho"
+  ],
+  "languages": [
+    "Portuguese",
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.stil-1.22",
+  "acl_url": "https://aclanthology.org/2024.stil-1.22/"
+}

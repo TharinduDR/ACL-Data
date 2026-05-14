@@ -1,0 +1,20 @@
+{
+  "title": "VRCP: Vocabulary Replacement Continued Pretraining for Efficient Multilingual Language Models",
+  "authors": [
+    "Yuta Nozaki",
+    "Dai Nakashima",
+    "Ryo Sato",
+    "Naoki Asaba",
+    "Shintaro Kawamura"
+  ],
+  "languages": [
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.sumeval-2.5",
+  "acl_url": "https://aclanthology.org/2025.sumeval-2.5/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Multilingual Relative Clause Attachment Ambiguity Resolution in Large Language Models",
+  "authors": [
+    "So Young Lee",
+    "Russell Scheinberg",
+    "Amber Shore",
+    "Ameeta Agrawal"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Japanese",
+    "Korean"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
+  ],
+  "paper_id": "2024.paclic-1.42",
+  "acl_url": "https://aclanthology.org/2024.paclic-1.42/"
+}

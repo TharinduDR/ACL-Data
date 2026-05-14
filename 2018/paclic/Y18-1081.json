@@ -1,0 +1,17 @@
+{
+  "title": "VietSentiLex: a sentiment dictionary that considers the polarity of ambiguous sentiment words",
+  "authors": [
+    "Vo Huynh Quoc Viet",
+    "Kazuhide Yamamoto"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "Y18-1081",
+  "acl_url": "https://aclanthology.org/Y18-1081/"
+}

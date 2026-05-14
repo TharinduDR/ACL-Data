@@ -1,0 +1,32 @@
+{
+  "title": "Tokenisation of Turkic Copula Constructions in Universal Dependencies",
+  "authors": [
+    "Çağrı Çöltekin",
+    "Furkan Akkurt",
+    "Bermet Chontaeva",
+    "Soudabeh Eslami",
+    "Sardana Ivanova",
+    "Gulnur Dzhumalieva",
+    "Aida Kasieva",
+    "Nikolett Mus",
+    "Jonathan Washington"
+  ],
+  "languages": [
+    "Turkish",
+    "Azerbaijani",
+    "Kazakh",
+    "Kyrgyz",
+    "Qaraqalpaq",
+    "Sakha",
+    "Tatar",
+    "Tuvan",
+    "Uzbek"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2026.sigturk-1.14",
+  "acl_url": "https://aclanthology.org/2026.sigturk-1.14/"
+}

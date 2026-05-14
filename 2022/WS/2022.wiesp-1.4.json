@@ -1,0 +1,19 @@
+{
+  "title": "PICO Corpus: A Publicly Available Corpus to Support Automatic Data Extraction from Biomedical Literature",
+  "authors": [
+    "Faith Wavinya Mutinda",
+    "Kongmeng Liew",
+    "Shuntaro Yada",
+    "Shoko Wakamiya",
+    "Eiji Aramaki"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2022.wiesp-1.4",
+  "acl_url": "https://aclanthology.org/2022.wiesp-1.4/"
+}

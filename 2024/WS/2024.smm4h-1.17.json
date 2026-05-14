@@ -1,0 +1,22 @@
+{
+  "title": "PolyuCBS at SMM4H 2024: LLM-based Medical Disorder and Adverse Drug Event Detection with Low-rank Adaptation",
+  "authors": [
+    "Yu Zhai",
+    "Xiaoyi Bao",
+    "Emmanuele Chersoni",
+    "Beatrice Portelli",
+    "Sophia Yat Mei Lee",
+    "Jinghang Gu",
+    "Chu-Ren Huang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.smm4h-1.17",
+  "acl_url": "https://aclanthology.org/2024.smm4h-1.17/"
+}

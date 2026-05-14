@@ -1,0 +1,19 @@
+{
+  "title": "HalluTree: Explainable Multi-Hop Hallucination Detection for Abstractive Summarization",
+  "authors": [
+    "Oskar Oomen",
+    "Daniel Orshansky",
+    "Naaisha Agrawal",
+    "Ryan Lagasse"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.newsum-main.9",
+  "acl_url": "https://aclanthology.org/2025.newsum-main.9/"
+}

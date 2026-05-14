@@ -1,0 +1,24 @@
+{
+  "title": "Exploration of the CycleGN Framework for Low-Resource Languages",
+  "authors": [
+    "Sören Dréano",
+    "Derek Molloy",
+    "Noel Murphy"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Aragonese",
+    "Asturian",
+    "Assamese",
+    "Khasi",
+    "Manipuri",
+    "Mizo"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.wmt-1.66",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.66/"
+}

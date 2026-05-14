@@ -1,0 +1,22 @@
+{
+  "title": "PANDA – Paired Anti-hate Narratives Dataset from Asia: Using an LLM-as-a-Judge to Create the First Chinese Counterspeech Dataset",
+  "authors": [
+    "Michael Bennie",
+    "Demi Zhang",
+    "Bushi Xiao",
+    "Jing Cao",
+    "Chryseis Xinyi Liu",
+    "Jian Meng",
+    "Alayo Tripp"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.mcg-1.1",
+  "acl_url": "https://aclanthology.org/2025.mcg-1.1/"
+}

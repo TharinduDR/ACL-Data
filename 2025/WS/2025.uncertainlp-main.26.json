@@ -1,0 +1,19 @@
+{
+  "title": "DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability",
+  "authors": [
+    "Yunzhen He",
+    "Yusuke Takase",
+    "Yoichi Ishibashi",
+    "Hidetoshi Shimodaira"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.uncertainlp-main.26",
+  "acl_url": "https://aclanthology.org/2025.uncertainlp-main.26/"
+}

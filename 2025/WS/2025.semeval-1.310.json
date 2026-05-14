@@ -1,0 +1,26 @@
+{
+  "title": "silp_nlp at SemEval-2025 Task 2: An Effect of Entity Awareness in Machine Translation Using LLM",
+  "authors": [
+    "Sumit Singh",
+    "Pankaj Kumar Goyal",
+    "Uma Shanker Tiwary"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Thai",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.semeval-1.310",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.310/"
+}

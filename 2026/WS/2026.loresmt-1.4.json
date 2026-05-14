@@ -1,0 +1,22 @@
+{
+  "title": "Comparing LLM-Based Translation Approaches for Extremely Low-Resource Languages",
+  "authors": [
+    "Jared Coleman",
+    "Ruben Rosales",
+    "Kira Toal",
+    "Diego Cuadros",
+    "Nicholas Leeds",
+    "Bhaskar Krishnamachari",
+    "Khalil Iskarous"
+  ],
+  "languages": [
+    "English",
+    "Owens Valley Paiute"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.loresmt-1.4",
+  "acl_url": "https://aclanthology.org/2026.loresmt-1.4/"
+}

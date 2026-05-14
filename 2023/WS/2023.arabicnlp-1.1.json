@@ -1,0 +1,21 @@
+{
+  "title": "Violet: A Vision-Language Model for Arabic Image Captioning with Gemini Decoder",
+  "authors": [
+    "Abdelrahman Mohamed",
+    "Fakhraddin Alwajih",
+    "El Moatez Billah Nagoudi",
+    "Alcides Alcoba Inciarte",
+    "Muhammad Abdul-Mageed"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2023.arabicnlp-1.1",
+  "acl_url": "https://aclanthology.org/2023.arabicnlp-1.1/"
+}

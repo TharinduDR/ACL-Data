@@ -1,0 +1,24 @@
+{
+  "title": "Gradient Flush at Slavic NLP 2025 Task: Leveraging Slavic BERT and Translation for Persuasion Techniques Classification",
+  "authors": [
+    "Sergey Senichev",
+    "Aleksandr Boriskin",
+    "Nikita Krayko",
+    "Daria Galimzianova"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Croatian",
+    "Polish",
+    "Russian",
+    "Slovene",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T20 Opinion & Argument Mining"
+  ],
+  "paper_id": "2025.bsnlp-1.19",
+  "acl_url": "https://aclanthology.org/2025.bsnlp-1.19/"
+}

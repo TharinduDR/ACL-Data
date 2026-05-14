@@ -1,0 +1,23 @@
+{
+  "title": "PahGen: Generating Ancient Pahlavi Text via Grammar-guided Zero-shot Translation",
+  "authors": [
+    "Farhan Farsi",
+    "Parnian Fazel",
+    "Farzaneh Goshtasb",
+    "Nadia Hajipour",
+    "Sadra Sabouri",
+    "Ehsaneddin Asgari",
+    "Hossein Sameti"
+  ],
+  "languages": [
+    "English",
+    "Pahlavi"
+  ],
+  "research_areas": [
+    "T16",
+    "T14",
+    "T15"
+  ],
+  "paper_id": "2025.loresmt-1.16",
+  "acl_url": "https://aclanthology.org/2025.loresmt-1.16/"
+}

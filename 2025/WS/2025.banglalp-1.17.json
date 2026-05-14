@@ -1,0 +1,21 @@
+{
+  "title": "LP-FT-LoRA: A Three-Stage PEFT Framework for Efficient Domain Adaptation in Bangla NLP Tasks",
+  "authors": [
+    "Tasnimul Hossain Tomal",
+    "Anam Borhan Uddin",
+    "Intesar Tahmid",
+    "Mir Sazzat Hossain",
+    "Md Fahim",
+    "Md Farhad Alam"
+  ],
+  "languages": [
+    "Bangla"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.banglalp-1.17",
+  "acl_url": "https://aclanthology.org/2025.banglalp-1.17/"
+}

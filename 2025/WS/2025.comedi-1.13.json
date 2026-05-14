@@ -1,0 +1,22 @@
+{
+  "title": "Automating Annotation Guideline Improvements using LLMs: A Case Study",
+  "authors": [
+    "Adrien Bibal",
+    "Nathaniel Gerlek",
+    "Goran Murić",
+    "Elizabeth Boschee",
+    "Steven Fincke",
+    "Mike Ross",
+    "Steven N. Minton"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.comedi-1.13",
+  "acl_url": "https://aclanthology.org/2025.comedi-1.13/"
+}

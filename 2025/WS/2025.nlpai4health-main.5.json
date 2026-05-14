@@ -1,0 +1,34 @@
+{
+  "title": "Patient-Centric Question Answering: Overview of the Shared Task on Multilingual Healthcare Communication at the Second Workshop on NLP and AI",
+  "authors": [
+    "Arun Zechariah",
+    "Balu Krishna S",
+    "Dipti Misra Sharma",
+    "Hannah Mary Thomas T",
+    "Joy Mammen",
+    "Parameswari Krishnamurthy",
+    "Priyanka Dasari",
+    "Vandan Mujadia",
+    "Vishnuraj Arjunaswamy"
+  ],
+  "languages": [
+    "English",
+    "Assamese",
+    "Bangla",
+    "Dogri",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Marathi",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T11 Information Extraction"
+  ],
+  "paper_id": "2025.nlpai4health-main.5",
+  "acl_url": "https://aclanthology.org/2025.nlpai4health-main.5/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Multilingual Bias Detection and Mitigation for Indian Languages",
+  "authors": [
+    "Ankita Maity",
+    "Anubhav Sharma",
+    "Rudra Dhar",
+    "Tushar Abhishek",
+    "Manish Gupta",
+    "Vasudeva Varma"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Marathi",
+    "Bengali",
+    "Gujarati",
+    "Tamil",
+    "Telugu",
+    "Kannada"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.wildre-1.4",
+  "acl_url": "https://aclanthology.org/2024.wildre-1.4/"
+}

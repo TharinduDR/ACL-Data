@@ -1,0 +1,30 @@
+{
+  "title": "UDParse @ SIGTYP 2024 Shared Task: Modern Language Models for Historical Languages",
+  "authors": [
+    "Johannes Heinecke"
+  ],
+  "languages": [
+    "Ancient Greek",
+    "Ancient Hebrew",
+    "Classical Chinese",
+    "Coptic",
+    "Gothic",
+    "Medieval Icelandic",
+    "Classical and Late Latin",
+    "Medieval Latin",
+    "Old Church Slavonic",
+    "Old East Slavic",
+    "Old French",
+    "Vedic Sanskrit",
+    "Old Hungarian",
+    "Old Irish",
+    "Middle Irish",
+    "Early Modern Irish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.sigtyp-1.17",
+  "acl_url": "https://aclanthology.org/2024.sigtyp-1.17/"
+}

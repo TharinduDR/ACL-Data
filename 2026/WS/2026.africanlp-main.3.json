@@ -1,0 +1,20 @@
+{
+  "title": "InstructLR: A Scalable Approach to Create Instruction Dataset for Under-Resourced Languages",
+  "authors": [
+    "Mamadou K. KEITA",
+    "Sebastien Diarra",
+    "Christopher Homan",
+    "Seydou Diallo"
+  ],
+  "languages": [
+    "Zarma",
+    "Bambara",
+    "Fulfulde"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.africanlp-main.3",
+  "acl_url": "https://aclanthology.org/2026.africanlp-main.3/"
+}

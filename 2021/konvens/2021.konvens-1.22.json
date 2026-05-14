@@ -1,0 +1,17 @@
+{
+  "title": "MobIE: A German Dataset for Named Entity Recognition, Entity Linking and Relation Extraction in the Mobility Domain",
+  "authors": [
+    "Leonhard Hennig",
+    "Phuc Tran Truong",
+    "Aleksandra Gabryszak"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2021.konvens-1.22",
+  "acl_url": "https://aclanthology.org/2021.konvens-1.22/"
+}

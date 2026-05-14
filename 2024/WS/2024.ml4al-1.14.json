@@ -1,0 +1,21 @@
+{
+  "title": "CuReD: Deep Learning Optical Character Recognition for Cuneiform Text Editions and Legacy Materials",
+  "authors": [
+    "Shai Gordin",
+    "Morris Alper",
+    "Avital Romach",
+    "Luis Sáenz",
+    "Naama Yochai",
+    "Roey Lalazar"
+  ],
+  "languages": [
+    "Akkadian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2024.ml4al-1.14",
+  "acl_url": "https://aclanthology.org/2024.ml4al-1.14/"
+}

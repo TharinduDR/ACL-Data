@@ -1,0 +1,26 @@
+{
+  "title": "MLAN: Language-Based Instruction Tuning Preserves and Transfers Knowledge in Multimodal Language Models",
+  "authors": [
+    "Jianhong Tu",
+    "Zhuohao Ni",
+    "Nicholas Crispino",
+    "Zihao Yu",
+    "Michael Bendersky",
+    "Beliz Gunel",
+    "Ruoxi Jia",
+    "Xin Liu",
+    "Lingjuan Lyu",
+    "Dawn Song",
+    "Chenguang Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.knowllm-1.6",
+  "acl_url": "https://aclanthology.org/2025.knowllm-1.6/"
+}

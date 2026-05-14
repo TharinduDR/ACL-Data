@@ -1,0 +1,25 @@
+{
+  "title": "A Hybrid Multilingual Approach to Sentiment Analysis for Uralic and Low-Resource Languages: Combining Extractive and Abstractive Techniques",
+  "authors": [
+    "Mikhail Krasitskii",
+    "Olga Kolesnikova",
+    "Grigori Sidorov",
+    "Alexander Gelbukh"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Hungarian",
+    "Estonian",
+    "Komi",
+    "Udmurt",
+    "North Sámi"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.iwclul-1.5",
+  "acl_url": "https://aclanthology.org/2025.iwclul-1.5/"
+}

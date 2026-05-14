@@ -1,0 +1,38 @@
+{
+  "title": "L3Cube-IndicQuest: A Benchmark Question Answering Dataset for Evaluating Knowledge of LLMs in Indic Context",
+  "authors": [
+    "Pritika Rohera",
+    "Chaitrali Ginimav",
+    "Akanksha Salunke",
+    "Gayatri Sawant",
+    "Raviraj Joshi"
+  ],
+  "languages": [
+    "English",
+    "Assamese",
+    "Bengali",
+    "Dogri",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Konkani",
+    "Maithili",
+    "Malayalam",
+    "Marathi",
+    "Meitei (Manipuri)",
+    "Nepali",
+    "Odia",
+    "Punjabi",
+    "Sanskrit",
+    "Sindhi",
+    "Tamil",
+    "Telugu",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T10",
+    "T08"
+  ],
+  "paper_id": "2024.paclic-1.93",
+  "acl_url": "https://aclanthology.org/2024.paclic-1.93/"
+}

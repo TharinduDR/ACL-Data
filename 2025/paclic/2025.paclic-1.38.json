@@ -1,0 +1,18 @@
+{
+  "title": "L3Cube-MahaEmotions: A Marathi Emotion Recognition Dataset with Synthetic Annotations using CoTR prompting and Large Language Models",
+  "authors": [
+    "Nidhi Kowtal",
+    "Raviraj Joshi"
+  ],
+  "languages": [
+    "Marathi",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.paclic-1.38",
+  "acl_url": "https://aclanthology.org/2025.paclic-1.38/"
+}

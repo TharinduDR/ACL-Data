@@ -1,0 +1,33 @@
+{
+  "title": "Mitigating the Linguistic Gap with Phonemic Representations for Robust Cross-lingual Transfer",
+  "authors": [
+    "Haeji Jung",
+    "Changdae Oh",
+    "Jooeon Kang",
+    "Jimin Sohn",
+    "Kyungwoo Song",
+    "Jinkyu Kim",
+    "David R. Mortensen"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Russian",
+    "Italian",
+    "Hungarian",
+    "Ukrainian",
+    "Korean",
+    "Turkish",
+    "Finnish",
+    "Hindi",
+    "Swahili",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T11",
+    "T14",
+    "T16"
+  ],
+  "paper_id": "2024.mrl-1.16",
+  "acl_url": "https://aclanthology.org/2024.mrl-1.16/"
+}

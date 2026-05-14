@@ -1,0 +1,25 @@
+{
+  "title": "MultiPragEval: Multilingual Pragmatic Evaluation of Large Language Models",
+  "authors": [
+    "Dojun Park",
+    "Jiwoo Lee",
+    "Hyeyun Jeong",
+    "Seohyun Park",
+    "Youngeun Koo",
+    "Soonha Hwang",
+    "Seonwoo Park",
+    "Sungeun Lee"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Korean",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T05 Discourse and Pragmatics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.genbench-1.7",
+  "acl_url": "https://aclanthology.org/2024.genbench-1.7/"
+}

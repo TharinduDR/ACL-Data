@@ -1,0 +1,21 @@
+{
+  "title": "Large-Scale Japanese Metaphor Corpus Construction: Expanding BCCWJ-Metaphor with Automated Annotation",
+  "authors": [
+    "Hang Zhu",
+    "Rowan Hall Maudslay",
+    "Kanako Komiya",
+    "Sachi Kato",
+    "Masayuki Asahara"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.paclic-1.16",
+  "acl_url": "https://aclanthology.org/2025.paclic-1.16/"
+}

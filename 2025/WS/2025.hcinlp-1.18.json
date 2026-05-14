@@ -1,0 +1,26 @@
+{
+  "title": "Culturally-Aware Conversations: A Framework & Benchmark for LLMs",
+  "authors": [
+    "Shreya Havaldar",
+    "Sunny Rai",
+    "Young-Min Cho",
+    "Lyle Ungar"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "Korean",
+    "Nigerian",
+    "Mexican",
+    "Indian",
+    "Dutch"
+  ],
+  "research_areas": [
+    "T03",
+    "T08",
+    "T22"
+  ],
+  "paper_id": "2025.hcinlp-1.18",
+  "acl_url": "https://aclanthology.org/2025.hcinlp-1.18/"
+}

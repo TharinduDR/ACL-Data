@@ -1,0 +1,18 @@
+{
+  "title": "From In-Distribution to Out-of-Distribution: Joint Loss for Improving Generalization in Software Mention and Relation Extraction",
+  "authors": [
+    "Stasa Mandic",
+    "Georg Niess",
+    "Roman Kern"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.sdp-1.14",
+  "acl_url": "https://aclanthology.org/2025.sdp-1.14/"
+}

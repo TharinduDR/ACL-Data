@@ -1,0 +1,22 @@
+{
+  "title": "Masking Latent Gender Knowledge for Debiasing Image Captioning",
+  "authors": [
+    "Fan Yang",
+    "Shalini Ghosh",
+    "Kechen Qin",
+    "Prashan Wanigasekara",
+    "Emre Barut",
+    "Chengwei Su",
+    "Rahul Gupta",
+    "Weitong Ruan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
+  ],
+  "paper_id": "2024.trustnlp-1.19",
+  "acl_url": "https://aclanthology.org/2024.trustnlp-1.19/"
+}

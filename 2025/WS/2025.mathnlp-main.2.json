@@ -1,0 +1,29 @@
+{
+  "title": "STEP-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback",
+  "authors": [
+    "Yen-Ting Lin",
+    "Di Jin",
+    "Tengyu Xu",
+    "Tianhao Wu",
+    "Sainbayar Sukhbaatar",
+    "Chen Zhu",
+    "Yun He",
+    "Yun-Nung Chen",
+    "Jason Weston",
+    "Yuandong Tian",
+    "Arash Rahnama",
+    "Sinong Wang",
+    "Hao Ma",
+    "Han Fang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2025.mathnlp-main.2",
+  "acl_url": "https://aclanthology.org/2025.mathnlp-main.2/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "LHS712_ADENotGood at #SMM4H 2024 Task 1: Deep-LLMADEminer: A deep learning and LLM pharmacovigilance pipeline for extraction and normalization of adverse drug event mentions on Twitter",
+  "authors": [
+    "Yifan Zheng",
+    "Jun Gong",
+    "Shushun Ren",
+    "Dalton Simancek",
+    "V.G. Vinod Vydiswaran"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.smm4h-1.30",
+  "acl_url": "https://aclanthology.org/2024.smm4h-1.30/"
+}

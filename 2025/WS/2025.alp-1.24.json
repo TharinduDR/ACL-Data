@@ -1,0 +1,20 @@
+{
+  "title": "GRoWE: A GujiRoBERTa-Enhanced Approach to Ancient Chinese NER via Word-Word Relation Classification and Model Ensembling",
+  "authors": [
+    "Tian Xia",
+    "Yilin Wang",
+    "Xinkai Wang",
+    "Yahe Yang",
+    "Qun Zhao",
+    "Menghui Yang"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.alp-1.24",
+  "acl_url": "https://aclanthology.org/2025.alp-1.24/"
+}

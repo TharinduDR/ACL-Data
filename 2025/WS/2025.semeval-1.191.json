@@ -1,0 +1,26 @@
+{
+  "title": "SyntaxMind at SemEval-2025 Task 11: BERT Base Multi-label Emotion Detection Using Gated Recurrent Unit",
+  "authors": [
+    "Md. Shihab Uddin Riad",
+    "Mohammad Aman Ullah"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "German",
+    "Hindi",
+    "Portuguese",
+    "Russian",
+    "Swahili",
+    "Sundanese",
+    "Ukrainian",
+    "Tatar",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.semeval-1.191",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.191/"
+}

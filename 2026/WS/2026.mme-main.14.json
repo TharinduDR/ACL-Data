@@ -1,0 +1,26 @@
+{
+  "title": "Generating Difficult-to-Translate Texts",
+  "authors": [
+    "Vilém Zouhar",
+    "Wenda Xu",
+    "Parker Riley",
+    "Juraj Juraska",
+    "Mara Finkelstein",
+    "Markus Freitag",
+    "Daniel Deutsch"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Chinese",
+    "Vietnamese",
+    "Polish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.mme-main.14",
+  "acl_url": "https://aclanthology.org/2026.mme-main.14/"
+}

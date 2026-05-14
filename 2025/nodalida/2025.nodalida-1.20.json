@@ -1,0 +1,28 @@
+{
+  "title": "OpusDistillery: A Configurable End-to-End Pipeline for Systematic Multilingual Distillation of Open NMT Models",
+  "authors": [
+    "Ona de Gibert",
+    "Tommi Nieminen",
+    "Yves Scherrer",
+    "Jörg Tiedemann"
+  ],
+  "languages": [
+    "English",
+    "Finnish",
+    "Estonian",
+    "Hungarian",
+    "Catalan",
+    "Spanish",
+    "Occitan",
+    "Ukrainian",
+    "Russian",
+    "Belarusian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
+  ],
+  "paper_id": "2025.nodalida-1.20",
+  "acl_url": "https://aclanthology.org/2025.nodalida-1.20/"
+}

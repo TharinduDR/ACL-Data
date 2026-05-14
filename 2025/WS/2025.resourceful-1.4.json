@@ -1,0 +1,17 @@
+{
+  "title": "Second language Korean Universal Dependency treebank v1.2: Focus on data augmentation and annotation scheme refinement",
+  "authors": [
+    "Hakyung Sung",
+    "Gyu-Ho Shin"
+  ],
+  "languages": [
+    "Korean"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.resourceful-1.4",
+  "acl_url": "https://aclanthology.org/2025.resourceful-1.4/"
+}

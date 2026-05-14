@@ -1,0 +1,24 @@
+{
+  "title": "Multi-Lingual ESG Issue Identification",
+  "authors": [
+    "Chung-Chi Chen",
+    "Yu-Min Tseng",
+    "Juyeon Kang",
+    "Anais Lhuissier",
+    "Min-Yuh Day",
+    "Teng-Tsai Tu",
+    "Hsin-Hsi Chen"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.finnlp-1.11",
+  "acl_url": "https://aclanthology.org/2023.finnlp-1.11/"
+}

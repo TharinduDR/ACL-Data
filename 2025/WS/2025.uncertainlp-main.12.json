@@ -1,0 +1,21 @@
+{
+  "title": "Confidence Calibration in Large Language Model-Based Entity Matching",
+  "authors": [
+    "Iris Kamsteeg",
+    "Juan Cardenas-Cartagena",
+    "Floris van Beers",
+    "Gineke ten Holt",
+    "Tsegaye Misikir Tashu",
+    "Matias Valdenegro-Toro"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.uncertainlp-main.12",
+  "acl_url": "https://aclanthology.org/2025.uncertainlp-main.12/"
+}

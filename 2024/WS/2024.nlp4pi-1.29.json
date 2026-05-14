@@ -1,0 +1,23 @@
+{
+  "title": "DiversityMedQA: A Benchmark for Assessing Demographic Biases in Medical Diagnosis using Large Language Models",
+  "authors": [
+    "Rajat Rawat",
+    "Hudson McBride",
+    "Rajarshi Ghosh",
+    "Dhiyaan Nirmal",
+    "Jong Moon",
+    "Dhruv Alamuri",
+    "Sean O'Brien",
+    "Kevin Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.nlp4pi-1.29",
+  "acl_url": "https://aclanthology.org/2024.nlp4pi-1.29/"
+}

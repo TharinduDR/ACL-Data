@@ -1,0 +1,21 @@
+{
+  "title": "Annotating and Classifying Direct Speech in Historical Danish and Norwegian Literary Texts",
+  "authors": [
+    "Ali Al-Laith",
+    "Alexander Conroy",
+    "Kirstine Nielsen Degn",
+    "Jens Bjerring-Hansen",
+    "Daniel Hershcovich"
+  ],
+  "languages": [
+    "Danish",
+    "Norwegian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.nodalida-1.1",
+  "acl_url": "https://aclanthology.org/2025.nodalida-1.1/"
+}

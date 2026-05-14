@@ -1,0 +1,26 @@
+{
+  "title": "Evaluating Large Language Models for In-Context Learning of Linguistic Patterns In Unseen Low Resource Languages",
+  "authors": [
+    "Hongpu Zhu",
+    "Yuqi Liang",
+    "Wenjing Xu",
+    "Hongzhi Xu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T16",
+    "T21",
+    "T08"
+  ],
+  "paper_id": "2025.loreslm-1.31",
+  "acl_url": "https://aclanthology.org/2025.loreslm-1.31/"
+}

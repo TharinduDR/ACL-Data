@@ -1,0 +1,23 @@
+{
+  "title": "Paramananda@NLU of Devanagari Script Languages 2025: Detection of Language, Hate Speech and Targets using FastText and BERT",
+  "authors": [
+    "Darwin Acharya",
+    "Sundeep Dawadi",
+    "Shivram Saud",
+    "Sunil Regmi"
+  ],
+  "languages": [
+    "Nepali",
+    "Marathi",
+    "Sanskrit",
+    "Bhojpuri",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.chipsal-1.39",
+  "acl_url": "https://aclanthology.org/2025.chipsal-1.39/"
+}

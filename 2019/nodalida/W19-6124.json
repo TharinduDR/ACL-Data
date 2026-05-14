@@ -1,0 +1,19 @@
+{
+  "title": "Projecting named entity recognizers without annotated or parallel corpora",
+  "authors": [
+    "Jue Hou",
+    "Maximilian W. Koppatz",
+    "José María Hoya Quecedo",
+    "Roman Yangarber"
+  ],
+  "languages": [
+    "English",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W19-6124",
+  "acl_url": "https://aclanthology.org/W19-6124/"
+}

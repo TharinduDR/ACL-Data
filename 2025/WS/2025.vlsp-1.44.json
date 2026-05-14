@@ -1,0 +1,21 @@
+{
+  "title": "MT Shared Task 2025: Medical domain Machine Translation with Limited-Pretraining models",
+  "authors": [
+    "Tran Hong Viet",
+    "Nguyen Tien Khoi",
+    "Tran Duy Long",
+    "Nguyen Minh Quy",
+    "Nguyen Van Vinh"
+  ],
+  "languages": [
+    "English",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T26 Clinical/biomedical NLP",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.vlsp-1.44",
+  "acl_url": "https://aclanthology.org/2025.vlsp-1.44/"
+}

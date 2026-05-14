@@ -1,0 +1,20 @@
+{
+  "title": "Towards Trustworthy Summarization of Cardiovascular Articles: A Factuality-and-Uncertainty-Aware Biomedical LLM Approach",
+  "authors": [
+    "Eleni Partalidou",
+    "Tatiana Passali",
+    "Chrysoula Zerva",
+    "Grigorios Tsoumakas",
+    "Sophia Ananiadou"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.uncertainlp-main.18",
+  "acl_url": "https://aclanthology.org/2025.uncertainlp-main.18/"
+}

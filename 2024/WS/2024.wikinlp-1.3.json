@@ -1,0 +1,22 @@
+{
+  "title": "BORDIRLINES: A Dataset for Evaluating Cross-lingual Retrieval-Augmented Generation",
+  "authors": [
+    "Bryan Li",
+    "Samar Haider",
+    "Fiona Luo",
+    "Adwait Agashe",
+    "Chris Callison-Burch"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wikinlp-1.3",
+  "acl_url": "https://aclanthology.org/2024.wikinlp-1.3/"
+}

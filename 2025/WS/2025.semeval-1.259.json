@@ -1,0 +1,41 @@
+{
+  "title": "Empaths at SemEval-2025 Task 11: Retrieval-Augmented Approach to Perceived Emotions Prediction",
+  "authors": [
+    "Lev Morozov",
+    "Aleksandr Mogilevskii",
+    "Alexander Shyrin"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Amharic",
+    "German",
+    "English",
+    "Hindi",
+    "Marathi",
+    "Oromo",
+    "Portuguese",
+    "Russian",
+    "Somali",
+    "Sundanese",
+    "Tatar",
+    "Tigrinya",
+    "Arabic",
+    "Chinese",
+    "Kinyarwanda",
+    "Nigerian Pidgin",
+    "Swahili",
+    "Swedish",
+    "Ukrainian",
+    "Emakhuwa",
+    "Yoruba",
+    "Igbo",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.semeval-1.259",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.259/"
+}

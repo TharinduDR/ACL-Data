@@ -1,0 +1,22 @@
+{
+  "title": "Multimodal Retrieval-Augmented Generation: Unified Information Processing Across Text, Image, Table, and Video Modalities",
+  "authors": [
+    "Nazarii Drushchak",
+    "Nataliya Polyakovska",
+    "Maryna Bautina",
+    "Taras Semenchenko",
+    "Jakub Koscielecki",
+    "Wojciech Sykala",
+    "Michal Wegrzynowski"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.magmar-1.5",
+  "acl_url": "https://aclanthology.org/2025.magmar-1.5/"
+}

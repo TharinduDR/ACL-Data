@@ -1,0 +1,17 @@
+{
+  "title": "Statement Segmentation for German Easy Language Using BERT and Dependency Parsing",
+  "authors": [
+    "Andreas Säuberli",
+    "Niclas Bodenmann"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T19",
+    "T21"
+  ],
+  "paper_id": "2024.germeval-1.3",
+  "acl_url": "https://aclanthology.org/2024.germeval-1.3/"
+}

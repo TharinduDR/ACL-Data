@@ -1,0 +1,24 @@
+{
+  "title": "An End-to-End Multilingual System for Automatic Minuting of Multi-Party Dialogues",
+  "authors": [
+    "Aakash Bhatnagar",
+    "Nidhir Bhavsar",
+    "Muskaan Singh",
+    "Petr Motliecek"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Italian",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2022.paclic-1.64",
+  "acl_url": "https://aclanthology.org/2022.paclic-1.64/"
+}

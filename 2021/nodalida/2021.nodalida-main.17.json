@@ -1,0 +1,41 @@
+{
+  "title": "Neural Morphology Dataset and Models for Multiple Languages, from the Large to the Endangered",
+  "authors": [
+    "Mika Hämäläinen",
+    "Niko Partanen",
+    "Jack Rueter",
+    "Khalid Alnajjar"
+  ],
+  "languages": [
+    "German",
+    "Kven",
+    "Komi-Zyrian",
+    "Moksha",
+    "Mansi",
+    "Erzya",
+    "Norwegian Bokmål",
+    "Russian",
+    "South Sami",
+    "Lule Sami",
+    "Skolt Sami",
+    "Võro",
+    "Finnish",
+    "Komi-Permyak",
+    "Latvian",
+    "Eastern Mari",
+    "Western Mari",
+    "Nanomuito",
+    "Olonts-Karelian",
+    "Pite Sami",
+    "Northern Sami",
+    "Inari Sami",
+    "Udmurt"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2021.nodalida-main.17",
+  "acl_url": "https://aclanthology.org/2021.nodalida-main.17/"
+}

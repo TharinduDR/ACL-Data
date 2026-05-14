@@ -1,0 +1,26 @@
+{
+  "title": "SmurfCat at SemEval-2025 Task 3: Bridging External Knowledge and Model Uncertainty for Enhanced Hallucination Detection",
+  "authors": [
+    "Elisei Rykov",
+    "Valerii Olisov",
+    "Maksim Savkin",
+    "Artem Vazhentsev",
+    "Kseniia Titova",
+    "Alexander Panchenko",
+    "Vasily Kononov",
+    "Julia Belikova"
+  ],
+  "languages": [
+    "Arabic",
+    "Catalan",
+    "Finnish",
+    "Italian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.semeval-1.137",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.137/"
+}

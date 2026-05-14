@@ -1,0 +1,20 @@
+{
+  "title": "SampoNLP: A Self-Referential Toolkit for Morphological Analysis of Subword Tokenizers",
+  "authors": [
+    "Iaroslav Chelombitko",
+    "Ekaterina Chelombitko",
+    "Aleksey Komissarov"
+  ],
+  "languages": [
+    "Finnish",
+    "Hungarian",
+    "Estonian"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.iwclul-1.8",
+  "acl_url": "https://aclanthology.org/2025.iwclul-1.8/"
+}

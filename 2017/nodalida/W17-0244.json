@@ -1,0 +1,23 @@
+{
+  "title": "Services for Text Simplification and Analysis",
+  "authors": [
+    "Johan Falkenjack",
+    "Evelina Rennes",
+    "Daniel Fahlborg",
+    "Vida Johansson",
+    "Arne Jönsson"
+  ],
+  "languages": [
+    "Swedish",
+    "English",
+    "Portuguese",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "W17-0244",
+  "acl_url": "https://aclanthology.org/W17-0244/"
+}

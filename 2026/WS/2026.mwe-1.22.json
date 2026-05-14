@@ -1,0 +1,28 @@
+{
+  "title": "PMI MWE Scorer at PARSEME 2.0 Subtask 1: identifying multi-word expressions using pointwise mutual information and universal dependencies",
+  "authors": [
+    "Anna Bogdanova",
+    "Ileana Bucur"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "French",
+    "Hebrew",
+    "Japanese",
+    "Latvian",
+    "Dutch",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Swedish",
+    "Sorani",
+    "Kashmiri"
+  ],
+  "research_areas": [
+    "T11",
+    "T21"
+  ],
+  "paper_id": "2026.mwe-1.22",
+  "acl_url": "https://aclanthology.org/2026.mwe-1.22/"
+}

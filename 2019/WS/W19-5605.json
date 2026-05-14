@@ -1,0 +1,19 @@
+{
+  "title": "Text Segmentation Using N-grams to Annotate Hadith Corpus",
+  "authors": [
+    "Shatha Altammami",
+    "Eric Atwell",
+    "Ammar Alsalka"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "W19-5605",
+  "acl_url": "https://aclanthology.org/W19-5605/"
+}

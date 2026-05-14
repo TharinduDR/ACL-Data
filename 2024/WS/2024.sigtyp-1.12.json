@@ -1,0 +1,21 @@
+{
+  "title": "Compounds in Universal Dependencies: A Survey in Five European Languages",
+  "authors": [
+    "Emil Svoboda",
+    "Magda Ševčíková"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Czech",
+    "Latin",
+    "Russian"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.sigtyp-1.12",
+  "acl_url": "https://aclanthology.org/2024.sigtyp-1.12/"
+}

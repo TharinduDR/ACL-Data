@@ -1,0 +1,21 @@
+{
+  "title": "AutoPsyC: Automatic Recognition of Psychodynamic Conflicts from Semi-structured Interviews with Large Language Models",
+  "authors": [
+    "Sayed Muddashir Hossain",
+    "Simon Ostermann",
+    "Patrick Gebhard",
+    "Cord Benecke",
+    "Josef van Genabith",
+    "Philipp Müller"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T18 Text Summarization",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2025.clpsych-1.2",
+  "acl_url": "https://aclanthology.org/2025.clpsych-1.2/"
+}

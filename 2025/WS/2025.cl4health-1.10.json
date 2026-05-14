@@ -1,0 +1,22 @@
+{
+  "title": "MeDiSumQA: Patient-Oriented Question-Answer Generation from Discharge Letters",
+  "authors": [
+    "Amin Dada",
+    "Osman Alperen Koraş",
+    "Marie Bauer",
+    "Amanda Butler Contreras",
+    "Kaleb E Smith",
+    "Jens Kleesiek",
+    "Julian Friedrich"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.cl4health-1.10",
+  "acl_url": "https://aclanthology.org/2025.cl4health-1.10/"
+}

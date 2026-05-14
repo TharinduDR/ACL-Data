@@ -1,0 +1,27 @@
+{
+  "title": "Multilingual coreference resolution: Adapt and Generate",
+  "authors": [
+    "Tatiana Anikina",
+    "Natalia Skachkova",
+    "Anna Mokhova"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "French",
+    "Hungarian",
+    "Norwegian",
+    "Polish",
+    "Russian",
+    "Spanish",
+    "Turkish",
+    "Lithuanian"
+  ],
+  "research_areas": [
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2023.crac-sharedtask.2",
+  "acl_url": "https://aclanthology.org/2023.crac-sharedtask.2/"
+}

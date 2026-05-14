@@ -1,0 +1,31 @@
+{
+  "title": "Diversity patterns run deep: Impact of diversity intake on multiword expression identification",
+  "authors": [
+    "Mathilde Deletombe",
+    "Manon Scholivet",
+    "Louis Estève",
+    "Thomas Lavergne",
+    "Agata Savary"
+  ],
+  "languages": [
+    "Chinese",
+    "French",
+    "German",
+    "Greek",
+    "Hebrew",
+    "Hindi",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Swedish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.mwe-1.13",
+  "acl_url": "https://aclanthology.org/2026.mwe-1.13/"
+}

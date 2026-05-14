@@ -1,0 +1,30 @@
+{
+  "title": "Lattice @MultiGEC-2025: A Spitful Multilingual Language Error Correction System Using LLaMA",
+  "authors": [
+    "Olga Seminck",
+    "Yoann Dupont",
+    "Mathieu Dehouck",
+    "Qi Wang",
+    "Noé Durandard",
+    "Margo Novikov"
+  ],
+  "languages": [
+    "Czech",
+    "English",
+    "Estonian",
+    "German",
+    "Greek",
+    "Icelandic",
+    "Italian",
+    "Latvian",
+    "Russian",
+    "Slovene",
+    "Swedish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T29"
+  ],
+  "paper_id": "2025.nlp4call-1.2",
+  "acl_url": "https://aclanthology.org/2025.nlp4call-1.2/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "LLMs as Medical Safety Judges: Evaluating Alignment with Human Annotation in Patient-Facing QA",
+  "authors": [
+    "Yella Leonie Diekmann",
+    "Chase M. Fensore",
+    "Rodrigo M. Carrillo-Larco",
+    "Eduard R. Castejon Rosales",
+    "Sakshi Shiromani",
+    "Rima Pai",
+    "Megha Shah",
+    "Joyce C. Ho"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.bionlp-1.19",
+  "acl_url": "https://aclanthology.org/2025.bionlp-1.19/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "LeGen: Complex Information Extraction from Legal sentences using Generative Models",
+  "authors": [
+    "Chaitra C R",
+    "Sankalp Kulkarni",
+    "Sai Rama Akash Varma Sagi",
+    "Shashank Pandey",
+    "Rohit Yalavarthy",
+    "Dipanjan Chakraborty",
+    "Prajna Upadhyay"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2024.nllp-1.1",
+  "acl_url": "https://aclanthology.org/2024.nllp-1.1/"
+}

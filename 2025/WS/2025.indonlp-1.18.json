@@ -1,0 +1,29 @@
+{
+  "title": "Investigating the Effect of Backtranslation for Indic Languages",
+  "authors": [
+    "Sudhansu Bala Das",
+    "Samujjal Choudhury",
+    "Tapas Kumar Mishra",
+    "Bidyut Kr. Patra"
+  ],
+  "languages": [
+    "English",
+    "Odia",
+    "Assamese",
+    "Punjabi",
+    "Gujarati",
+    "Marathi",
+    "Kannada",
+    "Tamil",
+    "Telugu",
+    "Malayalam",
+    "Bengali",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.indonlp-1.18",
+  "acl_url": "https://aclanthology.org/2025.indonlp-1.18/"
+}

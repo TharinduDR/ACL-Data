@@ -1,0 +1,23 @@
+{
+  "title": "OMAN-SPEECH: A Multi-Layer Annotated Speech Corpus for Omani Arabic Dialects",
+  "authors": [
+    "Rayyan Al Khadhuri",
+    "Firas Al Mahrouqi",
+    "Salim Al Mandhari",
+    "Amir Al Khathiri",
+    "Omar Alshahri",
+    "Ghassab Alsaqr",
+    "Badri Mudhsh",
+    "Tarek Fatnassi"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2026.abjadnlp-1.31",
+  "acl_url": "https://aclanthology.org/2026.abjadnlp-1.31/"
+}

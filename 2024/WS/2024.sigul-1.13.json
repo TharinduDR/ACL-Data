@@ -1,0 +1,22 @@
+{
+  "title": "Forget NLI, Use a Dictionary: Zero-Shot Topic Classification for Low-Resource Languages with Application to Luxembourgish",
+  "authors": [
+    "Fred Philipp",
+    "Shohreh Haddadan",
+    "Siwen Guo"
+  ],
+  "languages": [
+    "Luxembourgish",
+    "English",
+    "French",
+    "German",
+    "Portuguese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2024.sigul-1.13",
+  "acl_url": "https://aclanthology.org/2024.sigul-1.13/"
+}

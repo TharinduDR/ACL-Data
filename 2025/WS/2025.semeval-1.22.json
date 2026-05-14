@@ -1,0 +1,26 @@
+{
+  "title": "DKE-Research at SemEval-2025 Task 7: A Unified Multilingual Framework for Cross-Lingual and Monolingual Retrieval with Efficient Language-specific Adaptation",
+  "authors": [
+    "Yuqi Wang",
+    "Kangshi Wang"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Portuguese",
+    "French",
+    "Arabic",
+    "Malay",
+    "Thai",
+    "Polish",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2025.semeval-1.22",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.22/"
+}

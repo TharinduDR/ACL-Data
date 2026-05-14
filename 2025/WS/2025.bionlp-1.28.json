@@ -1,0 +1,20 @@
+{
+  "title": "Overcoming Data Scarcity in Named Entity Recognition: Synthetic Data Generation with Large Language Models",
+  "authors": [
+    "Tuan An Dao",
+    "Hiroki Teranishi",
+    "Yuji Matsumoto",
+    "Florian Boudin",
+    "Akiko Aizawa"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.bionlp-1.28",
+  "acl_url": "https://aclanthology.org/2025.bionlp-1.28/"
+}

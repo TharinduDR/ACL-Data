@@ -1,0 +1,18 @@
+{
+  "title": "DocIE@XLLM25: ZeroSemble - Robust and Efficient Zero-Shot Document Information Extraction with Heterogeneous Large Language Model Ensembles",
+  "authors": [
+    "Nguyen Pham Hoang Le",
+    "An Dinh Thien",
+    "Son T. Luu",
+    "Kiet Van Nguyen"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.xllm-1.25",
+  "acl_url": "https://aclanthology.org/2025.xllm-1.25/"
+}

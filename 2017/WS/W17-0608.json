@@ -1,0 +1,20 @@
+{
+  "title": "A morphological analyser for Kven",
+  "authors": [
+    "Sindre Trosterud",
+    "Trond Trosterud",
+    "Anna-Kaisa Räisänen",
+    "Leena Niiranen",
+    "Mervi Haavisto",
+    "Kaisa Maliniemi"
+  ],
+  "languages": [
+    "Kven"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W17-0608",
+  "acl_url": "https://aclanthology.org/W17-0608/"
+}

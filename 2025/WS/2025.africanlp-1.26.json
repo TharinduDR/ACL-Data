@@ -1,0 +1,21 @@
+{
+  "title": "In-Domain African Languages Translation Using LLMs and Multi-armed Bandits",
+  "authors": [
+    "Pratik Rakesh Singh",
+    "Kritarth Prasad",
+    "Mohammadi Zaki",
+    "Pankaj Wasnik"
+  ],
+  "languages": [
+    "English",
+    "Yoruba",
+    "Swahili",
+    "Igbo"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.africanlp-1.26",
+  "acl_url": "https://aclanthology.org/2025.africanlp-1.26/"
+}

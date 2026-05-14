@@ -1,0 +1,27 @@
+{
+  "title": "LLODIA: A Linguistic Linked Open Data Model for Diachronic Analysis",
+  "authors": [
+    "Florentina Armaselu",
+    "Chaya Liebeskind",
+    "Paola Marongiu",
+    "Barbara McGillivray",
+    "Giedre Valunaite Oleskeviciene",
+    "Elena-Simona Apostol",
+    "Ciprian-Octavian Truică",
+    "Daniela Gifu"
+  ],
+  "languages": [
+    "French",
+    "Hebrew",
+    "Latin",
+    "Lithuanian",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.ldl-1.1",
+  "acl_url": "https://aclanthology.org/2024.ldl-1.1/"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "A Hybrid of Rule-based and Transformer-based Approaches for Relation Extraction in Biodiversity Literature",
+  "authors": [
+    "Roselyn Gabud",
+    "Portia Lapitan",
+    "Vladimir Mariano",
+    "Eduardo Mendoza",
+    "Nelson Pampolina",
+    "Maria Art Antonette Clariño",
+    "Riza Batista-Navarro"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.pandl-1.10",
+  "acl_url": "https://aclanthology.org/2023.pandl-1.10/"
+}

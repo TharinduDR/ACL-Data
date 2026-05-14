@@ -1,0 +1,20 @@
+{
+  "title": "Understanding Transformers for Information Extraction with Limited Data",
+  "authors": [
+    "Minh-Tien Nguyen",
+    "Dung Tien Le",
+    "Nguyen Hong Son",
+    "Bui Cong Minh",
+    "Do Hoang Thai Duong",
+    "Le Thai Linh"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.paclic-1.55",
+  "acl_url": "https://aclanthology.org/2020.paclic-1.55/"
+}

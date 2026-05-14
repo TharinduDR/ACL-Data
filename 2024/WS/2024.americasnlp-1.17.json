@@ -1,0 +1,23 @@
+{
+  "title": "BSC Submission to the AmericasNLP 2024 Shared Task",
+  "authors": [
+    "Javier García Gilbert",
+    "Aleix Sant Savall",
+    "Carlos Escolano",
+    "Francesca De Luca Fornaciari",
+    "Audrey Mash",
+    "Maite Melero"
+  ],
+  "languages": [
+    "Spanish",
+    "Quechua",
+    "Guarani"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.americasnlp-1.17",
+  "acl_url": "https://aclanthology.org/2024.americasnlp-1.17/"
+}

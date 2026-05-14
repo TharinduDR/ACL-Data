@@ -1,0 +1,19 @@
+{
+  "title": "Rosetta Balcanica: Deriving a \"Gold Standard\" Neural Machine Translation (NMT) Parallel Dataset for Western Balkan Languages",
+  "authors": [
+    "Edmon Begoli",
+    "Maria Mahbub",
+    "Sudarshan Srinivasan"
+  ],
+  "languages": [
+    "English",
+    "Macedonian",
+    "Shqip"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.loresmt-1.19",
+  "acl_url": "https://aclanthology.org/2024.loresmt-1.19/"
+}

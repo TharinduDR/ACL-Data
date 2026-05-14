@@ -1,0 +1,42 @@
+{
+  "title": "University of Indonesia at SemEval-2025 Task 11: Evaluating State-of-the-Art Encoders for Multi-Label Emotion Detection",
+  "authors": [
+    "Ikhlasul Akmal Hanif",
+    "Eryawan Presma Yulianrifat",
+    "Jaycent Gunawan Ongris",
+    "Eduardus Tjitrahardja",
+    "Muhammad Falensi Azmi",
+    "Rahmat Bryan Naufal",
+    "Alfan Farizki Wicaksono"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "English",
+    "Spanish",
+    "Hindi",
+    "Marathi",
+    "Russian",
+    "Somali",
+    "Tamil",
+    "Tigrinya",
+    "Armenian",
+    "Chinese",
+    "Hausa",
+    "Kinyarwanda",
+    "Punjabi",
+    "Swahili",
+    "Swedish",
+    "Ukrainian",
+    "Uyghur",
+    "Yoruba",
+    "Igbo",
+    "Romanian"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.semeval-1.279",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.279/"
+}

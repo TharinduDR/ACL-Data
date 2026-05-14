@@ -1,0 +1,23 @@
+{
+  "title": "Beyond Words: Multilingual and Multimodal Red Teaming of MLLMs",
+  "authors": [
+    "Erik Derner",
+    "Kristina Batistič"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "German",
+    "Spanish",
+    "French",
+    "Slovenian",
+    "Valencian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.llmsec-1.15",
+  "acl_url": "https://aclanthology.org/2025.llmsec-1.15/"
+}

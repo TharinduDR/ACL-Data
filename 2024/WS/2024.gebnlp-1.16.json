@@ -1,0 +1,23 @@
+{
+  "title": "Beyond Binary Gender Labels: Revealing Gender Biases in LLMs through Gender-Neutral Name Predictions",
+  "authors": [
+    "Zhiwen You",
+    "HaeJin Lee",
+    "Shubhanshu Mishra",
+    "Sullam Jeoung",
+    "Apratim Mishra",
+    "Jinseok Kim",
+    "Jana Diesner"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.gebnlp-1.16",
+  "acl_url": "https://aclanthology.org/2024.gebnlp-1.16/"
+}

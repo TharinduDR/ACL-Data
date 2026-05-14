@@ -1,0 +1,19 @@
+{
+  "title": "Extracting position titles from unstructured historical job advertisements",
+  "authors": [
+    "Klara Venglarova",
+    "Raven Adam",
+    "Georg Vogeler"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2024.nlp4dh-1.8",
+  "acl_url": "https://aclanthology.org/2024.nlp4dh-1.8/"
+}

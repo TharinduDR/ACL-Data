@@ -1,0 +1,22 @@
+{
+  "title": "VeReaFine: Iterative Verification Reasoning Refinement RAG for Hallucination-Resistant on Open-Ended Clinical QA",
+  "authors": [
+    "Pakawat Phasook",
+    "Rapepong Pitijaroonpong",
+    "Jiramet Kinchagawat",
+    "Amrest Chinkamol",
+    "Kiartnarin Udomlapsakul",
+    "Tossaporn Saengja",
+    "Jitkapat Sawatphol",
+    "Piyalitt Ittichaiwong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.bionlp-share.34",
+  "acl_url": "https://aclanthology.org/2025.bionlp-share.34/"
+}

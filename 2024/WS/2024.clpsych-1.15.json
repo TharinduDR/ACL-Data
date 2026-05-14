@@ -1,0 +1,23 @@
+{
+  "title": "Overview of the CLPsych 2024 Shared Task: Leveraging Large Language Models to Identify Evidence of Suicidality Risk in Online Posts",
+  "authors": [
+    "Jenny Chim",
+    "Adam Tsakalidis",
+    "Dimitris Gkoumas",
+    "Dana Atzil-Slonim",
+    "Yaakov Ophir",
+    "Ayah Zirikly",
+    "Philip Resnik",
+    "Maria Liakata"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T18 Text Summarization",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2024.clpsych-1.15",
+  "acl_url": "https://aclanthology.org/2024.clpsych-1.15/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "MITRA-zh-eval: Using a Buddhist Chinese Language Evaluation Dataset to Assess Machine Translation and Evaluation Metrics",
+  "authors": [
+    "Sebastian Nehrdich",
+    "Avery Chen",
+    "Marcus Bingenheimer",
+    "Lu Huang",
+    "Rouying Tang",
+    "Xiang Wei",
+    "Leijie Zhu",
+    "Kurt Keutzer"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.nlp4dh-1.12",
+  "acl_url": "https://aclanthology.org/2025.nlp4dh-1.12/"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages",
+  "authors": [
+    "Wenxuan Zhang",
+    "Hou Pong Chan",
+    "Yiran Zhao",
+    "Mahani Aljunied",
+    "Jianyu Wang",
+    "Chaoqun Liu",
+    "Yue Deng",
+    "Zhiqiang Hu",
+    "Weiwenn Xu",
+    "Yew Ken Chia",
+    "Xin Li",
+    "Lidong Bing"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Indonesian",
+    "Vietnamese",
+    "Thai",
+    "Malay",
+    "Burmese",
+    "Khmer",
+    "Lao",
+    "Tamil",
+    "Javanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.naacl-demo.10",
+  "acl_url": "https://aclanthology.org/2025.naacl-demo.10/"
+}

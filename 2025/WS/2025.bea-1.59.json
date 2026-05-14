@@ -1,0 +1,23 @@
+{
+  "title": "Verb Placement Error Detection Datasets for Learners of Germanic Languages",
+  "authors": [
+    "Noah-Manuel Michael",
+    "Andrea Horbach"
+  ],
+  "languages": [
+    "Afrikaans",
+    "German",
+    "Dutch",
+    "Faroese",
+    "Icelandic",
+    "Danish",
+    "Norwegian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.bea-1.59",
+  "acl_url": "https://aclanthology.org/2025.bea-1.59/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "BBPOS: BERT-based Part-of-Speech Tagging for Uzbek",
+  "authors": [
+    "Latofat Bobojonova",
+    "Arofat Akhundjanova",
+    "Phil Ostheimer",
+    "Sophie Fellenz"
+  ],
+  "languages": [
+    "Uzbek"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.loreslm-1.23",
+  "acl_url": "https://aclanthology.org/2025.loreslm-1.23/"
+}

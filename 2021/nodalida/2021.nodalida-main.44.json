@@ -1,0 +1,22 @@
+{
+  "title": "Grammatical Error Generation Based on Translated Fragments",
+  "authors": [
+    "Eetu Sjöblom",
+    "Mathias Creutz",
+    "Teemu Vahtola"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "French",
+    "Japanese",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T14",
+    "T29"
+  ],
+  "paper_id": "2021.nodalida-main.44",
+  "acl_url": "https://aclanthology.org/2021.nodalida-main.44/"
+}

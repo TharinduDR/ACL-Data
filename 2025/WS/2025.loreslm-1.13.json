@@ -1,0 +1,25 @@
+{
+  "title": "Improving LLM Abilities in Idiomatic Translation",
+  "authors": [
+    "Sundesh Donthi",
+    "Maximilian Spencer",
+    "Om Patel",
+    "Joon Young Doh",
+    "Eid Rodan",
+    "Kevin Zhu",
+    "Sean O'Brien"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Urdu",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.loreslm-1.13",
+  "acl_url": "https://aclanthology.org/2025.loreslm-1.13/"
+}

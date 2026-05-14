@@ -1,0 +1,23 @@
+{
+  "title": "U-MIRAGE: Benchmarking Chain-of-Thought Reasoning for Urdu Medical QA",
+  "authors": [
+    "Ali Faheem",
+    "Faizad Ullah",
+    "Muhammad Hammad",
+    "Ahmed Hassan",
+    "Muhammad Sohaib Ayub",
+    "Asim Karim"
+  ],
+  "languages": [
+    "English",
+    "Urdu",
+    "Roman Urdu"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2026.abjadnlp-1.55",
+  "acl_url": "https://aclanthology.org/2026.abjadnlp-1.55/"
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Corpus Building for Low Resource Languages in the DARPA LORELEI Program",
+  "authors": [
+    "Jennifer Tracey",
+    "Stephanie Strassel",
+    "Ann Bies",
+    "Zhiyi Song",
+    "Michael Arrigo",
+    "Kira Griffitt",
+    "Dana Delgado",
+    "Dave Graff",
+    "Seth Kulick",
+    "Justin Mott",
+    "Neil Kuster"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Amharic",
+    "Bengali",
+    "Farsi",
+    "Hungarian",
+    "Indonesian",
+    "Mandarin",
+    "Russian",
+    "Somali",
+    "Spanish",
+    "Swahili",
+    "Tagalog",
+    "Tamil",
+    "Thai",
+    "Vietnamese",
+    "Yoruba",
+    "Zulu",
+    "Uyghur",
+    "Oromo",
+    "Sinhala",
+    "Tigrinya",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "W19-6808",
+  "acl_url": "https://aclanthology.org/W19-6808/"
+}

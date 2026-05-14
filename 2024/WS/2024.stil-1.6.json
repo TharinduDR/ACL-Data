@@ -1,0 +1,21 @@
+{
+  "title": "TableRAG: A Novel Approach for Augmenting LLMs with Information from Retrieved Tables",
+  "authors": [
+    "Elvis A. de Souza",
+    "Patricia F. da Silva",
+    "Diogo Gomes",
+    "Vitor Batista",
+    "Evelyn Batista",
+    "Marco Pacheco"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages"
+  ],
+  "paper_id": "2024.stil-1.6",
+  "acl_url": "https://aclanthology.org/2024.stil-1.6/"
+}

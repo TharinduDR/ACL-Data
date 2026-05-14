@@ -1,0 +1,22 @@
+{
+  "title": "LLM Internal States Reveal Hallucination Risk Faced With a Query",
+  "authors": [
+    "Ziwei Ji",
+    "Delong Chen",
+    "Etsuko Ishii",
+    "Samuel Cahyawijaya",
+    "Yejin Bang",
+    "Bryan Wilie",
+    "Pascale Fung"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.blackboxnlp-1.6",
+  "acl_url": "https://aclanthology.org/2024.blackboxnlp-1.6/"
+}

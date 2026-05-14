@@ -1,0 +1,23 @@
+{
+  "title": "BIRDTurk: Adaptation of the BIRD Text-to-SQL Dataset to Turkish",
+  "authors": [
+    "Burak Aktaş",
+    "Mehmet Can Baytekin",
+    "Süha Kağan Köse",
+    "Ömer İlbilgi",
+    "Elif Özge Yılmaz",
+    "Çağrı Toraman",
+    "Bilge Kaan Görür"
+  ],
+  "languages": [
+    "English",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2026.sigturk-1.13",
+  "acl_url": "https://aclanthology.org/2026.sigturk-1.13/"
+}

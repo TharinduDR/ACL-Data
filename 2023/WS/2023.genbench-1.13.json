@@ -1,0 +1,20 @@
+{
+  "title": "Blackbird Language Matrices Tasks for Generalization",
+  "authors": [
+    "Paola Merlo",
+    "Chunyang Jiang",
+    "Giuseppe Samo",
+    "Vivi Nastase"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.genbench-1.13",
+  "acl_url": "https://aclanthology.org/2023.genbench-1.13/"
+}

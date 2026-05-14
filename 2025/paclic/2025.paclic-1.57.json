@@ -1,0 +1,19 @@
+{
+  "title": "Dependency-Aware Word Prediction Integrated with Incremental Parsing",
+  "authors": [
+    "Hiroki Unno",
+    "Tomohiro Ohno",
+    "Koichiro Ito",
+    "Shigeki Matsubara"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.paclic-1.57",
+  "acl_url": "https://aclanthology.org/2025.paclic-1.57/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "TYPED-RAG: Type-Aware Decomposition of Non-Factoid Questions for Retrieval-Augmented Generation",
+  "authors": [
+    "DongGeon Lee",
+    "Ahjeong Park",
+    "Hyeri Lee",
+    "Hyeonseo Nam",
+    "Yunho Maeng"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.xllm-1.14",
+  "acl_url": "https://aclanthology.org/2025.xllm-1.14/"
+}

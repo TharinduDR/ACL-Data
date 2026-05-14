@@ -1,0 +1,23 @@
+{
+  "title": "A Privacy-Preserving Corpus for Occupational Health in Spanish: Evaluation for NER and Classification Tasks",
+  "authors": [
+    "Claudio Aracena",
+    "Luis Miranda",
+    "Thomas Vakili",
+    "Fabían Villena",
+    "Tamara Quiroga",
+    "Fredy Núñez-Torres",
+    "Victor Rocco",
+    "Jocelyn Dunstan"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.clinicalnlp-1.11",
+  "acl_url": "https://aclanthology.org/2024.clinicalnlp-1.11/"
+}

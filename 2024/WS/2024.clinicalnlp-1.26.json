@@ -1,0 +1,24 @@
+{
+  "title": "Leveraging Prompt-Learning for Structured Information Extraction from Crohn's Disease Radiology Reports in a Low-Resource Language",
+  "authors": [
+    "Liam Hazan",
+    "Gili Focht",
+    "Naama Gavrielov",
+    "Roi Reichart",
+    "Talar Hagopian",
+    "Mary-Louise C. Greer",
+    "Ruth Cyter Kuint",
+    "Dan Turner",
+    "Moti Freeman"
+  ],
+  "languages": [
+    "Hebrew"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.clinicalnlp-1.26",
+  "acl_url": "https://aclanthology.org/2024.clinicalnlp-1.26/"
+}

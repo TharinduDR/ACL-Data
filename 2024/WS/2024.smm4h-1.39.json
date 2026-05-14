@@ -1,0 +1,28 @@
+{
+  "title": "Overview of #SMM4H 2024 – Task 2: Cross-Lingual Few-Shot Relation Extraction for Pharmacovigilance in French, German, and Japanese",
+  "authors": [
+    "Lisa Raithel",
+    "Philippe Thomas",
+    "Bhuvanesh Verma",
+    "Roland Roller",
+    "Hui-Syuan Yeh",
+    "Shuntaro Yada",
+    "Cyril Grouin",
+    "Shoko Wakamiya",
+    "Eiji Aramaki",
+    "Sebastian Möller",
+    "Pierre Zweigenbaum"
+  ],
+  "languages": [
+    "French",
+    "German",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T23 Social Media Processing",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.smm4h-1.39",
+  "acl_url": "https://aclanthology.org/2024.smm4h-1.39/"
+}

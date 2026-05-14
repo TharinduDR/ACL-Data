@@ -1,0 +1,20 @@
+{
+  "title": "Machine Reading Comprehension for Vietnamese Customer Reviews: Task, Corpus and Baseline Models",
+  "authors": [
+    "Tinh Pham Phuc Do",
+    "Ngoc Dinh Duy Cao",
+    "Nhan Thanh Nguyen",
+    "Tin Van Huynh",
+    "Kiet Van Nguyen"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2023.paclic-1.3",
+  "acl_url": "https://aclanthology.org/2023.paclic-1.3/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "DKITNLP at ArchEHR-QA 2025: A Retrieval Augmented LLM Pipeline for Evidence-Based Patient Question Answering",
+  "authors": [
+    "Provia Kadusabe",
+    "Abhishek Kaushik",
+    "Fiona Lawless"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.bionlp-share.20",
+  "acl_url": "https://aclanthology.org/2025.bionlp-share.20/"
+}

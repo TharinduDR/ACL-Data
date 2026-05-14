@@ -1,0 +1,23 @@
+{
+  "title": "UMass-BioNLP at MEDIQA-M3G 2024: DermPrompt - A Systematic Exploration of Prompt Engineering with GPT-4V for Dermatological Diagnosis",
+  "authors": [
+    "Parth Vashisht",
+    "Abhilasha Lodha",
+    "Mukta Maddipatla",
+    "Zonghai Yao",
+    "Avijit Mitra",
+    "Zhichao Yang",
+    "Junda Wang",
+    "Sunjae Kwon",
+    "Hong Yu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.clinicalnlp-1.50",
+  "acl_url": "https://aclanthology.org/2024.clinicalnlp-1.50/"
+}

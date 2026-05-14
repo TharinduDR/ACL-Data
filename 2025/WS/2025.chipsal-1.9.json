@@ -1,0 +1,20 @@
+{
+  "title": "Sandhi Splitting in Tamil and Telugu: A Sequence-to-Sequence Approach Leveraging Transformer Models",
+  "authors": [
+    "Priyanka Dasari",
+    "Nagaraju Vuppala",
+    "Mupparapu Sohan Gupta",
+    "Pruthwik Mishra",
+    "Parameswari Krishnamurthy"
+  ],
+  "languages": [
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.chipsal-1.9",
+  "acl_url": "https://aclanthology.org/2025.chipsal-1.9/"
+}

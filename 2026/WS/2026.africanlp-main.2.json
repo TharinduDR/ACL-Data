@@ -1,0 +1,28 @@
+{
+  "title": "M-MiniGPT4: Multilingual VLLM Alignment via Translated Data",
+  "authors": [
+    "Seung Hun Han",
+    "Youssef Mohamed",
+    "Mohamed Elhoseiny"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Hindi",
+    "Spanish",
+    "French",
+    "Arabic",
+    "Bengali",
+    "Russian",
+    "Japanese",
+    "Korean",
+    "Urdu"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T17 Multimodality, Cross-modality",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2026.africanlp-main.2",
+  "acl_url": "https://aclanthology.org/2026.africanlp-main.2/"
+}

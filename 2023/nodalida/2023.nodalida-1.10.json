@@ -1,0 +1,39 @@
+{
+  "title": "Microservices at Your Service: Bridging the Gap between NLP Research and Industry",
+  "authors": [
+    "Tiina Lindh-Knuutila",
+    "Hrafn Loftsson",
+    "Pedro Alonso Doval",
+    "Sebastian Andersson",
+    "Bjarni Barkarson",
+    "Héctor Cerezo-Costas",
+    "Jón Guðnason",
+    "Jökull Snær Gylfason",
+    "Jarmo Hemminki",
+    "Heiki-Jaan Kaalep"
+  ],
+  "languages": [
+    "English",
+    "Estonian",
+    "Faroese",
+    "Finnish",
+    "Galician",
+    "Basque",
+    "Icelandic",
+    "Komi",
+    "Latvian",
+    "Lithuanian",
+    "Northern Sami",
+    "Norwegian",
+    "Portuguese",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.nodalida-1.10",
+  "acl_url": "https://aclanthology.org/2023.nodalida-1.10/"
+}

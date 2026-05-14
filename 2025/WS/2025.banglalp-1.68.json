@@ -1,0 +1,19 @@
+{
+  "title": "Code_Gen at BLP-2025 Task 2: BanglaCode: A Crosslingual Benchmark for Code Generation with Translation and Assertion Strategies",
+  "authors": [
+    "Abhishek Agarwala",
+    "Shifat Islam",
+    "Emon Ghosh"
+  ],
+  "languages": [
+    "Bangla",
+    "English"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.banglalp-1.68",
+  "acl_url": "https://aclanthology.org/2025.banglalp-1.68/"
+}

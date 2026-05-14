@@ -1,0 +1,24 @@
+{
+  "title": "CHIE: Generative MRC Evaluation for in-context QA with Correctness, Helpfulness, Irrelevancy, and Extraneousness Aspects",
+  "authors": [
+    "Wannaphong Phatthiyaphaibun",
+    "Surapon Nonesung",
+    "Peerat Limkonchotiwat",
+    "Can Udomcharoenchaikit",
+    "Jitkapat Sawatphol",
+    "Ekapol Chuangsuwanich",
+    "Sarana Nutanong"
+  ],
+  "languages": [
+    "English",
+    "Thai",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.genbench-1.10",
+  "acl_url": "https://aclanthology.org/2024.genbench-1.10/"
+}

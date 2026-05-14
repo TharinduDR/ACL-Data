@@ -1,0 +1,20 @@
+{
+  "title": "ZEFYS2025: A German Historical Newspaper Dataset for Named Entity Recognition and Entity Linking",
+  "authors": [
+    "Sophie Schneider",
+    "Ulrike Förstel",
+    "Kai Labusch",
+    "Jörg Lehmann",
+    "Clemens Neudecker"
+  ],
+  "languages": [
+    "German"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.konvens-1.5",
+  "acl_url": "https://aclanthology.org/2025.konvens-1.5/"
+}

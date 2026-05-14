@@ -1,0 +1,28 @@
+{
+  "title": "AnonyMate: A Toolkit for Anonymizing Unstructured Chat Data",
+  "authors": [
+    "Allison Adams",
+    "Eric Aili",
+    "Daniel Aioanei",
+    "Rebecca Jonsson",
+    "Lina Mickelsson",
+    "Dagmar Mikmekova",
+    "Fred Roberts",
+    "Javier Fernandez Valencia",
+    "Roger Wechsler"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "W19-6501",
+  "acl_url": "https://aclanthology.org/W19-6501/"
+}

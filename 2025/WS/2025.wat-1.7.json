@@ -1,0 +1,19 @@
+{
+  "title": "CycleDistill: Bootstrapping Machine Translation using LLMs with Cyclic Distillation",
+  "authors": [
+    "Deepon Halder",
+    "Thanmay Jayakumar",
+    "Raj Dabre"
+  ],
+  "languages": [
+    "Hindi",
+    "Bengali",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation"
+  ],
+  "paper_id": "2025.wat-1.7",
+  "acl_url": "https://aclanthology.org/2025.wat-1.7/"
+}

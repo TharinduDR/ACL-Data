@@ -1,0 +1,24 @@
+{
+  "title": "JBBQ: Japanese Bias Benchmark for Analyzing Social Biases in Large Language Models",
+  "authors": [
+    "Hitomi Yanaka",
+    "Namgi Han",
+    "Ryoma Kumon",
+    "Jie Lu",
+    "Masashi Takeshita",
+    "Ryo Sekizawa",
+    "Taisei Katō",
+    "Hiromi Arai"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.gebnlp-1.1",
+  "acl_url": "https://aclanthology.org/2025.gebnlp-1.1/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Large Language Model Data Generation for Enhanced Intent Recognition in German Speech",
+  "authors": [
+    "Theresa Pekarek Rosin",
+    "Burak Can Kaplan",
+    "Stefan Wermter"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2025.konvens-1.30",
+  "acl_url": "https://aclanthology.org/2025.konvens-1.30/"
+}

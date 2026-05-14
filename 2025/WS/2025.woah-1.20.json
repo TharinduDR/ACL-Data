@@ -1,0 +1,20 @@
+{
+  "title": "RAG and Recall: Multilingual Hate Speech Detection with Semantic Memory",
+  "authors": [
+    "Khouloud Mnassri",
+    "Reza Farahbakhsh",
+    "Noel Crespi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.woah-1.20",
+  "acl_url": "https://aclanthology.org/2025.woah-1.20/"
+}

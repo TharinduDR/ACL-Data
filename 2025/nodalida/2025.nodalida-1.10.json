@@ -1,0 +1,18 @@
+{
+  "title": "GliLem: Leveraging GliNER for Contextualized Lemmatization in Estonian",
+  "authors": [
+    "Aleksei Dorkin",
+    "Kairit Sirts"
+  ],
+  "languages": [
+    "Estonian",
+    "English"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
+  ],
+  "paper_id": "2025.nodalida-1.10",
+  "acl_url": "https://aclanthology.org/2025.nodalida-1.10/"
+}

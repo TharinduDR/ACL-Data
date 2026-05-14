@@ -1,0 +1,35 @@
+{
+  "title": "FORTIFY: Generative Model Fine-tuning with ORPO for Retrieval Expansion of Informal Noisy Text",
+  "authors": [
+    "Dan DeGenaro",
+    "Eugene Yang",
+    "David Etter",
+    "Cameron Carpenter",
+    "Kate Sanders",
+    "Alexander Martin",
+    "Kenton Murray",
+    "Reno Kriz"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Arabic",
+    "Korean",
+    "Russian",
+    "Spanish",
+    "Portuguese",
+    "Indonesian",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2025.magmar-1.13",
+  "acl_url": "https://aclanthology.org/2025.magmar-1.13/"
+}

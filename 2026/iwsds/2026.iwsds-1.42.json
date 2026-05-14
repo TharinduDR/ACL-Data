@@ -1,0 +1,23 @@
+{
+  "title": "CoVaPh: A Vision-Language Multi-Agent Dialogue System for Tool-Augmented Pharmacogenetic Reasoning and Personalized Guidance",
+  "authors": [
+    "Shang-Chun Luke Lu",
+    "Hsin Yang",
+    "Hui-Hsin Xue",
+    "Ping Lin Tsai",
+    "Yu Jing Weng",
+    "Shiou-Chi Li",
+    "Jen-Wei Huang",
+    "Hui Hua Chang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2026.iwsds-1.42",
+  "acl_url": "https://aclanthology.org/2026.iwsds-1.42/"
+}

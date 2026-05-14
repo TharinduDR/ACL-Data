@@ -1,0 +1,34 @@
+{
+  "title": "MWE-2026 Shared Task: AdMIRe 2 Advancing Multimodal Idiomaticity Representation",
+  "authors": [
+    "Doçukan Arslan",
+    "Rodrigo Wilkens",
+    "Wei He",
+    "Dilara Torunoçlu Selamet",
+    "Thomas Pickard",
+    "Aline Villavicencio",
+    "Adriana Pagano",
+    "Gülçen Eryïtç"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Chinese",
+    "Kazakh",
+    "Norwegian",
+    "Russian",
+    "Serbian",
+    "Slovak",
+    "Slovenian",
+    "Spanish",
+    "Turkish",
+    "Uzbek"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.mwe-1.34",
+  "acl_url": "https://aclanthology.org/2026.mwe-1.34/"
+}

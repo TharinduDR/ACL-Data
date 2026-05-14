@@ -1,0 +1,22 @@
+{
+  "title": "Language Modeling with Syntactic and Semantic Representation for Sentence Acceptability Predictions",
+  "authors": [
+    "Adam Ek",
+    "Jean-Philippe Bernardy",
+    "Shalom Lappin"
+  ],
+  "languages": [
+    "English",
+    "Norwegian",
+    "Spanish",
+    "Chinese",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "W19-6108",
+  "acl_url": "https://aclanthology.org/W19-6108/"
+}

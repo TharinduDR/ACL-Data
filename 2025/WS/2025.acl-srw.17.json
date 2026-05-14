@@ -1,0 +1,27 @@
+{
+  "title": "Reasoning for Translation: Comparative Analysis of Chain-of-Thought and Tree-of-Thought Prompting for LLM Translation",
+  "authors": [
+    "Lam Nguyen",
+    "Yang Xu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Japanese",
+    "German",
+    "Vietnamese",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.acl-srw.17",
+  "acl_url": "https://aclanthology.org/2025.acl-srw.17/"
+}

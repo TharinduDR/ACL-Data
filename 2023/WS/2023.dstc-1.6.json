@@ -1,0 +1,19 @@
+{
+  "title": "DORIC: Domain Robust Fine-Tuning for Open Intent Clustering through Dependency Parsing",
+  "authors": [
+    "Ji-hyun Lee",
+    "Seungyeon Seo",
+    "Yunsu Kim",
+    "Gary Geunbae Lee"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2023.dstc-1.6",
+  "acl_url": "https://aclanthology.org/2023.dstc-1.6/"
+}

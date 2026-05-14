@@ -1,0 +1,25 @@
+{
+  "title": "Empowering Persuasion Detection in Slavic Texts through Two-Stage Generative Reasoning",
+  "authors": [
+    "Xin Zou",
+    "Chuhan Wang",
+    "Dailin Li",
+    "Yanan Wang",
+    "Jian Wang",
+    "Hongfei Lin"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Croatian",
+    "Polish",
+    "Slovenian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.bsnlp-1.20",
+  "acl_url": "https://aclanthology.org/2025.bsnlp-1.20/"
+}

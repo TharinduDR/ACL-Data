@@ -1,0 +1,22 @@
+{
+  "title": "DataBees at SemEval-2025 Task 11: Challenges and Limitations in Multi-Label Emotion Detection",
+  "authors": [
+    "Sowmya Anand",
+    "Tanisha Sriram",
+    "Rajalakshmi Sivanaiah",
+    "Angel Deborah",
+    "Mirnalinee TT"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.semeval-1.33",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.33/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "MuLMS: A Multi-Layer Annotated Text Corpus for Information Extraction in the Materials Science Domain",
+  "authors": [
+    "Timo Pierre Schrader",
+    "Matteo Finco",
+    "Stefan Grünewald",
+    "Felix Hildebrand",
+    "Annemarie Friedrich"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.wiesp-1.11",
+  "acl_url": "https://aclanthology.org/2023.wiesp-1.11/"
+}

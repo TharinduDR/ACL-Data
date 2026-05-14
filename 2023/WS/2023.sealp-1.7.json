@@ -1,0 +1,20 @@
+{
+  "title": "IndoToD: A Multi-Domain Indonesian Benchmark For End-to-End Task-Oriented Dialogue Systems",
+  "authors": [
+    "Muhammad Dehan Al Kautsar",
+    "Rahmah Khoirussyifa' Nurdini",
+    "Samuel Cahyawijaya",
+    "Genta Indra Winata",
+    "Ayu Purwarianti"
+  ],
+  "languages": [
+    "English",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.sealp-1.7",
+  "acl_url": "https://aclanthology.org/2023.sealp-1.7/"
+}

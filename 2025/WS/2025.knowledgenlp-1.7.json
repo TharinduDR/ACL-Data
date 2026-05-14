@@ -1,0 +1,19 @@
+{
+  "title": "Leveraging Domain Knowledge at Inference Time for LLM Translation: Retrieval versus Generation",
+  "authors": [
+    "Bryan Li",
+    "Jiaming Luo",
+    "Eleftheria Briakou",
+    "Colin Cherry"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.knowledgenlp-1.7",
+  "acl_url": "https://aclanthology.org/2025.knowledgenlp-1.7/"
+}

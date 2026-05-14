@@ -1,0 +1,34 @@
+{
+  "title": "Exploring Very Low-Resource Translation with LLMs: The University of Edinburgh's Submission to AmericasNLP 2024 Translation Task",
+  "authors": [
+    "Vivek Iyer",
+    "Bhavitva Malik",
+    "Wenhao Zhu",
+    "Pavel Stepachev",
+    "Pinzhen Chen",
+    "Barry Haddow",
+    "Alexandra Birch"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Aymara",
+    "Bribri",
+    "Ashaninka",
+    "Chatino",
+    "Guarani",
+    "Huichol",
+    "Nahuatl",
+    "Otomi",
+    "Quechua",
+    "Shipibo-Konibo",
+    "Tarahumara"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality"
+  ],
+  "paper_id": "2024.americasnlp-1.25",
+  "acl_url": "https://aclanthology.org/2024.americasnlp-1.25/"
+}

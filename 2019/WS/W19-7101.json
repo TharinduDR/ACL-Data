@@ -1,0 +1,20 @@
+{
+  "title": "WordNet Gloss Translation for Under-resourced Languages using Multilingual Neural Machine Translation",
+  "authors": [
+    "Bharathi Raja Chakravarthi",
+    "Mihael Arcan",
+    "John P. McCrae"
+  ],
+  "languages": [
+    "English",
+    "Tamil",
+    "Telugu",
+    "Kannada"
+  ],
+  "research_areas": [
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "W19-7101",
+  "acl_url": "https://aclanthology.org/W19-7101/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "NUST Titans at SemEval-2025 Task 11: AfroEmo: Multilingual Emotion Detection with Adaptive Afro-XLM-R",
+  "authors": [
+    "Mehwish Fatima",
+    "Maham Khan",
+    "Hajra Binte Naeem",
+    "Faiza Khan",
+    "Laiba Rana",
+    "Seemab Latif",
+    "Raja Khurram Shahzad"
+  ],
+  "languages": [
+    "Amharic",
+    "Hausa",
+    "Igbo",
+    "Sundanese",
+    "Swahili",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.semeval-1.289",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.289/"
+}

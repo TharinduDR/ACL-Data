@@ -1,0 +1,19 @@
+{
+  "title": "Vuyko Mistral: Adapting LLMs for Low-Resource Dialectal Translation",
+  "authors": [
+    "Roman Kyslyi",
+    "Yuliia Maksymiuk",
+    "Ihor Pysmenyi"
+  ],
+  "languages": [
+    "Ukrainian",
+    "Hutsul"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T13 Knowledge discovery/representation"
+  ],
+  "paper_id": "2025.unlp-1.10",
+  "acl_url": "https://aclanthology.org/2025.unlp-1.10/"
+}

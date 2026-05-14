@@ -1,0 +1,21 @@
+{
+  "title": "FactDebug at SemEval-2025 Task 7: Hybrid Retrieval Pipeline for Identifying Previously Fact-Checked Claims Across Multiple Languages",
+  "authors": [
+    "Evgenii Nikolaev",
+    "Ivan Bondarenko",
+    "Islam Aushev",
+    "Vasiliy Krikunov",
+    "Andrei Glinskii",
+    "Vasily Konovalov",
+    "Julia Belikova"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.semeval-1.284",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.284/"
+}

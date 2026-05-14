@@ -1,0 +1,20 @@
+{
+  "title": "Jamo-Level Subword Tokenization in Low-Resource Korean Machine Translation",
+  "authors": [
+    "Junyoung Lee",
+    "Marco Cognetta",
+    "Sangwhan Moon",
+    "Naoaki Okazaki"
+  ],
+  "languages": [
+    "Korean",
+    "English",
+    "Jeju-eo"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.loresmt-1.8",
+  "acl_url": "https://aclanthology.org/2025.loresmt-1.8/"
+}

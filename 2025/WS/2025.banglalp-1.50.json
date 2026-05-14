@@ -1,0 +1,21 @@
+{
+  "title": "PentaML at BLP-2025 Task 1: Linear Probing of Pre-trained Transformer-based Models for Bangla Hate Speech Detection",
+  "authors": [
+    "Intesar Tahmid",
+    "Rafid Ahmed",
+    "Md Mahir Jawad",
+    "Anam Borhan Uddin",
+    "Md Fahim",
+    "Md Farhad Alam Bhuiyan"
+  ],
+  "languages": [
+    "Bangla"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.banglalp-1.50",
+  "acl_url": "https://aclanthology.org/2025.banglalp-1.50/"
+}

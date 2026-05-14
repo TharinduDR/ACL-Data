@@ -1,0 +1,30 @@
+{
+  "title": "Real-Time Spoken Instruction Following and Translation in Ugandan Languages",
+  "authors": [
+    "Benjamin Akera",
+    "Tim Wenjie Hu",
+    "Patrick Walukagga",
+    "Evelyn Nafula Ouma",
+    "Gilbert Yiga",
+    "Engineer Bainomugisha",
+    "Ernest Tonny Mwebaze",
+    "John Quinn"
+  ],
+  "languages": [
+    "English",
+    "Luganda",
+    "Acholi",
+    "Lugbara",
+    "Runyankole",
+    "Lusoga",
+    "Swahili",
+    "Kinyarwanda"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
+  ],
+  "paper_id": "2026.africanlp-main.20",
+  "acl_url": "https://aclanthology.org/2026.africanlp-main.20/"
+}

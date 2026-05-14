@@ -1,0 +1,30 @@
+{
+  "title": "Mitigating Semantic Leakage in Cross-lingual Embeddings via Orthogonality Constraint",
+  "authors": [
+    "Dayeon Ki",
+    "Cheonbok Park",
+    "Hyunjoong Kim"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Portuguese",
+    "Italian",
+    "Spanish",
+    "French",
+    "Chinese",
+    "Arabic",
+    "Japanese",
+    "Dutch",
+    "Romanian",
+    "Guarani",
+    "Aymara"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2024.repl4nlp-1.19",
+  "acl_url": "https://aclanthology.org/2024.repl4nlp-1.19/"
+}

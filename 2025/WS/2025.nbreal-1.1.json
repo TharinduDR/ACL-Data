@@ -1,0 +1,27 @@
+{
+  "title": "Towards Multilingual LLM Evaluation for Baltic and Nordic languages: A study on Lithuanian History",
+  "authors": [
+    "Yevhen Kostiuk",
+    "Oxana Vitman",
+    "Łukasz Gagala",
+    "Artur Kiulian"
+  ],
+  "languages": [
+    "English",
+    "Lithuanian",
+    "Danish",
+    "Finnish",
+    "Swedish",
+    "Estonian",
+    "Latvian",
+    "Ukrainian",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.nbreal-1.1",
+  "acl_url": "https://aclanthology.org/2025.nbreal-1.1/"
+}

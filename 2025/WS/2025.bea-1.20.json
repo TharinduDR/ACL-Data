@@ -1,0 +1,27 @@
+{
+  "title": "LEVOS: Leveraging Vocabulary Overlap with Sanskrit to Generate Technical Lexicons in Indian Languages",
+  "authors": [
+    "Karthika N J",
+    "Krishnakant Bhatt",
+    "Ganesh Ramakrishnan",
+    "Preethi Jyothi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Marathi",
+    "Gujarati",
+    "Kannada",
+    "Tamil",
+    "Odia",
+    "Punjabi",
+    "Malayalam"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2025.bea-1.20",
+  "acl_url": "https://aclanthology.org/2025.bea-1.20/"
+}

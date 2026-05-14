@@ -1,0 +1,23 @@
+{
+  "title": "LLM-C3MOD: A Human-LLM Collaborative System for Cross-Cultural Hate Speech Moderation",
+  "authors": [
+    "Junyeong Park",
+    "Seogyeong Jeong",
+    "Seyoung Song",
+    "Yohan Lee",
+    "Alice Oh"
+  ],
+  "languages": [
+    "Korean",
+    "English",
+    "Indonesian",
+    "German"
+  ],
+  "research_areas": [
+    "T20",
+    "T16",
+    "T02"
+  ],
+  "paper_id": "2025.c3nlp-1.7",
+  "acl_url": "https://aclanthology.org/2025.c3nlp-1.7/"
+}

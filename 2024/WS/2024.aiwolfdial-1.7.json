@@ -1,0 +1,19 @@
+{
+  "title": "An Implementation of Werewolf Agent That does not Truly Trust LLMs",
+  "authors": [
+    "Takehiro Sato",
+    "Shintaro Ozaki",
+    "Daisaku Yokoyama"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "research_areas": [
+    "T03",
+    "T14",
+    "T09"
+  ],
+  "paper_id": "2024.aiwolfdial-1.7",
+  "acl_url": "https://aclanthology.org/2024.aiwolfdial-1.7/"
+}

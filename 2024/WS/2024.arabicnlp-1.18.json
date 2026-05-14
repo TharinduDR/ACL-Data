@@ -1,0 +1,21 @@
+{
+  "title": "John vs. Ahmed: Debate-Induced Bias in Multilingual LLMs",
+  "authors": [
+    "Anastasiia Demidova",
+    "Hanin Atwany",
+    "Nour Rabih",
+    "Sanad Shaban",
+    "Muhammad Abdul-Mageed"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "Russian"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.arabicnlp-1.18",
+  "acl_url": "https://aclanthology.org/2024.arabicnlp-1.18/"
+}

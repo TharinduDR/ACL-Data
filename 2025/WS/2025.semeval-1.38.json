@@ -1,0 +1,32 @@
+{
+  "title": "UZH at SemEval-2025 Task 3: Token-Level Self-Consistency for Hallucination Detection",
+  "authors": [
+    "Michelle Wastl",
+    "Jannis Vamvas",
+    "Rico Sennrich"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "English",
+    "French",
+    "Finnish",
+    "German",
+    "Hindi",
+    "Italian",
+    "Persian",
+    "Spanish",
+    "Swedish",
+    "Catalan",
+    "Basque",
+    "Czech",
+    "Farsi"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering",
+    "T28 AI-Generated Text Detection and Provenance"
+  ],
+  "paper_id": "2025.semeval-1.38",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.38/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "CMI-AIGCX at GenAI Detection Task 2: Leveraging Multilingual Proxy LLMs for Machine-Generated Text Detection in Academic Essays",
+  "authors": [
+    "Kaijie Jiao",
+    "Xingyu Yao",
+    "Shixuan Ma",
+    "Sifan Fang",
+    "Zikang Guo",
+    "Benfeng Xu",
+    "Licheng Zhang",
+    "Quan Wang",
+    "Yongdong Zhang",
+    "Zhendong Mao"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "research_areas": [
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.genaidetect-1.32",
+  "acl_url": "https://aclanthology.org/2025.genaidetect-1.32/"
+}

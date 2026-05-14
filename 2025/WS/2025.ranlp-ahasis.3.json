@@ -1,0 +1,18 @@
+{
+  "title": "Fine-tuning AraBERT model for arabic sentiment detection",
+  "authors": [
+    "Mustapha Jaballah",
+    "Dhaou Ghoul",
+    "Ammar Mars"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T14",
+    "T20",
+    "T23"
+  ],
+  "paper_id": "2025.ranlp-ahasis.3",
+  "acl_url": "https://aclanthology.org/2025.ranlp-ahasis.3/"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "RAGTurk: Best Practices for Retrieval Augmented Generation in Turkish",
+  "authors": [
+    "Süha Kağan Köse",
+    "Mehmet Can Baytekin",
+    "Burak Aktaş",
+    "Bilge Kaan Görür",
+    "Evren Ayberk Munis",
+    "Deniz Yılmaz",
+    "Muhammed Yusuf Kartal",
+    "Çağrı Toraman"
+  ],
+  "languages": [
+    "Turkish"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.sigturk-1.15",
+  "acl_url": "https://aclanthology.org/2026.sigturk-1.15/"
+}

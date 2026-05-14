@@ -1,0 +1,20 @@
+{
+  "title": "Robustness of Fine-Tuned Models for Machine Translation with Varying Noise Levels: Insights for Asturian, Aragonese and Aranese",
+  "authors": [
+    "Martin Bär",
+    "Elisa Forcada Rodríguez",
+    "María García-Abadillo Velasco"
+  ],
+  "languages": [
+    "Asturian",
+    "Aragonese",
+    "Aranese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.89",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.89/"
+}

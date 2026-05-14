@@ -1,0 +1,44 @@
+{
+  "title": "An Extensible Massively Multilingual Lexical Simplification Pipeline Dataset using the MultiLS Framework",
+  "authors": [
+    "Matthew Shardlow",
+    "Fernando Alva-Manchego",
+    "Riza Batista-Navarro",
+    "Stefan Bott",
+    "Saul Calderon Ramirez",
+    "Rémi Cardon",
+    "Thomas François",
+    "Akio Hayakawa",
+    "Andrea Horbach",
+    "Anna Hülsgen",
+    "Yusuke Ide",
+    "Joseph Marvin Imperial",
+    "Adam Nohejl",
+    "Kai North",
+    "Laura Occhipinti",
+    "Nelson Pérez Rojas",
+    "Nishat Raihan",
+    "Tharindu Ranasinghe",
+    "Martin Solis Salazar",
+    "Marcos Zampieri",
+    "Horacio Saggion"
+  ],
+  "languages": [
+    "Catalan",
+    "English",
+    "Filipino",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Portuguese",
+    "Sinhala",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
+  ],
+  "paper_id": "2024.readi-1.4",
+  "acl_url": "https://aclanthology.org/2024.readi-1.4/"
+}

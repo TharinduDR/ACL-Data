@@ -1,0 +1,25 @@
+{
+  "title": "Evaluating Language Models in Location Referring Expression Extraction from Early Modern and Contemporary Japanese Texts",
+  "authors": [
+    "Ayuki Katayama",
+    "Shohei Higashiyama",
+    "Hiroki Ouchi",
+    "Yusuke Sakai",
+    "Ayano Takeuchi",
+    "Ryo Bando",
+    "Yuta Hashimoto",
+    "Toshinobu Ogiso",
+    "Taro Watanabe"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2024.nlp4dh-1.33",
+  "acl_url": "https://aclanthology.org/2024.nlp4dh-1.33/"
+}

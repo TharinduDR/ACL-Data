@@ -1,0 +1,24 @@
+{
+  "title": "Bridge the GAP: Multi-lingual Models For Ambiguous Pronominal Coreference Resolution in South Asian Languages",
+  "authors": [
+    "Rahothvarman P",
+    "Adith John Rajeev",
+    "Kaveri Anuranjana",
+    "Radhika Mamidi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Tamil",
+    "Malayalam",
+    "Kannada",
+    "Bengali"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T15 Lexicon and Semantics",
+    "T16 Machine Translation and Translation Aids"
+  ],
+  "paper_id": "2025.chipsal-1.10",
+  "acl_url": "https://aclanthology.org/2025.chipsal-1.10/"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "FENJI at SemEval-2025 Task 3: Retrieval-Augmented Generation and Hallucination Span Detection",
+  "authors": [
+    "Flor Alberts",
+    "Ivo Bruinier",
+    "Nathalie de Palm",
+    "Justin Paetzelt",
+    "Erik Varecha"
+  ],
+  "languages": [
+    "Arabic",
+    "Catalan",
+    "Czech",
+    "German",
+    "English",
+    "Spanish",
+    "Basque",
+    "Farsi",
+    "Finnish",
+    "French",
+    "Hindi",
+    "Italian",
+    "Swedish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.semeval-1.151",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.151/"
+}

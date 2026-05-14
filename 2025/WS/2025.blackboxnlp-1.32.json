@@ -1,0 +1,20 @@
+{
+  "title": "Findings of the BlackboxNLP 2025 Shared Task: Localizing Circuits and Causal Variables in Language Models",
+  "authors": [
+    "Dana Arad",
+    "Yonatan Belinkov",
+    "Hanjie Chen",
+    "Najoung Kim",
+    "Hosein Mohebbi",
+    "Aaron Mueller",
+    "Gabriele Sarti",
+    "Martin Tutek"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.blackboxnlp-1.32",
+  "acl_url": "https://aclanthology.org/2025.blackboxnlp-1.32/"
+}

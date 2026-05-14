@@ -1,0 +1,20 @@
+{
+  "title": "Script Correction and Synthetic Pivoting: Adapting Tencent HY-MT for Low-Resource Turkic Translation",
+  "authors": [
+    "Bolgov Maxim"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Kazakh",
+    "Bashkir",
+    "Chuvash"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2026.loresmt-1.20",
+  "acl_url": "https://aclanthology.org/2026.loresmt-1.20/"
+}

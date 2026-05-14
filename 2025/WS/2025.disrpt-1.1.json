@@ -1,0 +1,25 @@
+{
+  "title": "The DISRPT 2025 Shared Task on Elementary Discourse Unit Segmentation, Connective Detection, and Relation Classification",
+  "authors": [
+    "Chloé Braud",
+    "Amir Zeldes",
+    "Chuyuan Li",
+    "Yang Janet Liu",
+    "Philippe Muller"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Chinese",
+    "Czech",
+    "Polish",
+    "Nigerian Pidgin"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T05 Discourse and Pragmatics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.disrpt-1.1",
+  "acl_url": "https://aclanthology.org/2025.disrpt-1.1/"
+}

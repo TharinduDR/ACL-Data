@@ -1,0 +1,21 @@
+{
+  "title": "SentMix-3L: A Bangla-English-Hindi Code-Mixed Dataset for Sentiment Analysis",
+  "authors": [
+    "Md Nishat Raihan",
+    "Dhiman Goswami",
+    "Antara Mahmud",
+    "Antonios Anastasopoulos",
+    "Marcos Zampieri"
+  ],
+  "languages": [
+    "Bangla",
+    "English",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.sealp-1.6",
+  "acl_url": "https://aclanthology.org/2023.sealp-1.6/"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "nanoT5: A PyTorch Framework for Pre-training and Fine-tuning T5-style Models with Limited Resources",
+  "authors": [
+    "Piotr Nawrot"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.nlposs-1.11",
+  "acl_url": "https://aclanthology.org/2023.nlposs-1.11/"
+}

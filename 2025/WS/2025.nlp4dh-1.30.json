@@ -1,0 +1,28 @@
+{
+  "title": "Modern Models, Medieval Texts: A POS Tagging Study of Old Occitan",
+  "authors": [
+    "Matthias Schöffel",
+    "Marinus Wiedner",
+    "Esteban Garces Arias",
+    "Paula Ruppert",
+    "Christian Heumann",
+    "Matthias Abenmacher"
+  ],
+  "languages": [
+    "Old Occitan",
+    "French",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Romanian",
+    "Arabic",
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2025.nlp4dh-1.30",
+  "acl_url": "https://aclanthology.org/2025.nlp4dh-1.30/"
+}

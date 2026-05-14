@@ -1,0 +1,21 @@
+{
+  "title": "Transforming Causal LLM into MLM Encoder for Detecting Social Media Manipulation in Telegram",
+  "authors": [
+    "Anton Bazdyrev",
+    "Ivan Bashtoyvi",
+    "Ivan Havlytskyi",
+    "Oleksandr Kharytonov",
+    "Artur Khodakovskiy"
+  ],
+  "languages": [
+    "Ukrainian",
+    "Russian"
+  ],
+  "research_areas": [
+    "T23 Social Media Processing",
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.unlp-1.13",
+  "acl_url": "https://aclanthology.org/2025.unlp-1.13/"
+}

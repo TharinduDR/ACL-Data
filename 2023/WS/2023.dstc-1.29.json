@@ -1,0 +1,23 @@
+{
+  "title": "Task-Oriented Conversational Modeling with Subjective Knowledge Track in DSTC11",
+  "authors": [
+    "Seokhwan Kim",
+    "Spandana Gella",
+    "Chao Zhao",
+    "Di Jin",
+    "Alexandros Papangelis",
+    "Behnam Hedayatnia",
+    "Yang Liu",
+    "Dilek Hakkani-Tur"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2023.dstc-1.29",
+  "acl_url": "https://aclanthology.org/2023.dstc-1.29/"
+}

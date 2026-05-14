@@ -1,0 +1,18 @@
+{
+  "title": "YNU-HPCC at SemEval-2025 Task 5: Contrastive Learning for GND Subject Tagging with Multilingual Sentence-BERT",
+  "authors": [
+    "Hong Jiang",
+    "Jin Wang",
+    "Xuejie Zhang"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2025.semeval-1.318",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.318/"
+}

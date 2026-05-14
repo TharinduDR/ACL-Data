@@ -1,0 +1,19 @@
+{
+  "title": "Introducing the NewsPaLM MBR and QE Dataset: LLM-Generated High-Quality Parallel Data Outperforms Traditional Web-Crawled Data",
+  "authors": [
+    "Mara Finkelstein",
+    "David Vilar",
+    "Markus Freitag"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.126",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.126/"
+}

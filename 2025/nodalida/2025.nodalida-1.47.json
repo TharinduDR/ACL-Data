@@ -1,0 +1,19 @@
+{
+  "title": "How to Tune a Multilingual Encoder Model for Germanic Languages: A Study of PEFT, Full Fine-Tuning, and Language Adapters",
+  "authors": [
+    "Romina Oji",
+    "Jenny Kunz"
+  ],
+  "languages": [
+    "German",
+    "Swedish",
+    "Icelandic"
+  ],
+  "research_areas": [
+    "T10",
+    "T11",
+    "T14"
+  ],
+  "paper_id": "2025.nodalida-1.47",
+  "acl_url": "https://aclanthology.org/2025.nodalida-1.47/"
+}

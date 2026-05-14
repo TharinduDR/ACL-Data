@@ -1,0 +1,21 @@
+{
+  "title": "Towards large-scale speech foundation models for a low-resource minority language",
+  "authors": [
+    "Yaroslav Getman",
+    "Tamás Grósz",
+    "Katri Hiovain-Asikainen",
+    "Tommi Lehtonen",
+    "Mikko Kurimo"
+  ],
+  "languages": [
+    "Northern Sámi",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.nodalida-1.19",
+  "acl_url": "https://aclanthology.org/2025.nodalida-1.19/"
+}

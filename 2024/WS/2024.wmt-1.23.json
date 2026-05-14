@@ -1,0 +1,28 @@
+{
+  "title": "Occiglot at WMT24: European Open-source Large Language Models evaluated on Translation",
+  "authors": [
+    "Eleftherios Avramidis",
+    "Annika Grützner-Zahn",
+    "Manuel Brack",
+    "Patrick Schramowski",
+    "Pedro Ortiz Suarez",
+    "Malte Ostendorff",
+    "Fabio Barth",
+    "Shushen Manakhimova",
+    "Vivien Macketanz",
+    "Georg Rehm",
+    "Kristian Kersting"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.23",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.23/"
+}

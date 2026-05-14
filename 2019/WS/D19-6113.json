@@ -1,0 +1,24 @@
+{
+  "title": "From Monolingual to Multilingual FAQ Assistant using Multilingual Co-training",
+  "authors": [
+    "Mayur Patidar",
+    "Surabhi Kumari",
+    "Manasi Patwardhan",
+    "Shirish Karande",
+    "Puneet Agarwal",
+    "Lovekesh Vig",
+    "Gautam Shroff"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Spanish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T10 Question Answering"
+  ],
+  "paper_id": "D19-6113",
+  "acl_url": "https://aclanthology.org/D19-6113/"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "TeleChat: An Open-source Bilingual Large Language Model",
+  "authors": [
+    "Zihan Wang",
+    "XinZhang Liu",
+    "Shixuan Liu",
+    "Yitong Yao",
+    "Yuyao Huang",
+    "Mengxiang Li",
+    "Zhongjiang He",
+    "Yongxiang Li",
+    "Luwen Pu",
+    "Huinan Xu",
+    "Chao Wang",
+    "Shuangyong Song"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.sighan-1.2",
+  "acl_url": "https://aclanthology.org/2024.sighan-1.2/"
+}

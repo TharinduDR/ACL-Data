@@ -1,0 +1,26 @@
+{
+  "title": "Gender Bias Evaluation in Machine Translation for Amharic, Tigrinya, and Afaan Oromoo",
+  "authors": [
+    "Walelign Tewabe Sewunetie",
+    "Atnafu Lambebo Tonja",
+    "Tadesse Destaw Belay",
+    "Hellina Hailu Nigatu",
+    "Gashaw Kidanu",
+    "Zewdie Mossie",
+    "Hussien Seid",
+    "Seid Muhie Yimam"
+  ],
+  "languages": [
+    "English",
+    "Amharic",
+    "Tigrinya",
+    "Afaan Oromoo"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.gitt-1.1",
+  "acl_url": "https://aclanthology.org/2024.gitt-1.1/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Allen Institute for AI @ SIGTYP 2024 Shared Task on Word Embedding Evaluation for Ancient and Historical Languages",
+  "authors": [
+    "Lester James V. Miranda"
+  ],
+  "languages": [
+    "Old Church Slavonic",
+    "Coptic",
+    "Old French",
+    "Gothic",
+    "Ancient Greek",
+    "Ancient Hebrew",
+    "Medieval Icelandic",
+    "Classical and Late Latin",
+    "Medieval Latin",
+    "Classical Chinese",
+    "Old Hungarian",
+    "Old East Slavic",
+    "Vedic Sanskrit"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.sigtyp-1.18",
+  "acl_url": "https://aclanthology.org/2024.sigtyp-1.18/"
+}

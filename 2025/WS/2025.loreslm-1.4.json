@@ -1,0 +1,21 @@
+{
+  "title": "BNSENTMIX: A Diverse Bengali-English Code-Mixed Dataset for Sentiment Analysis",
+  "authors": [
+    "Sadia Alam",
+    "Md Farhan Ishmam",
+    "Navid Hasin Alvee",
+    "Md Shahnewaz Siddique",
+    "Abu Raihan Mostofa Kamal",
+    "Md Azam Hossain"
+  ],
+  "languages": [
+    "Bengali",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.loreslm-1.4",
+  "acl_url": "https://aclanthology.org/2025.loreslm-1.4/"
+}

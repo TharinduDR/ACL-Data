@@ -1,0 +1,20 @@
+{
+  "title": "Gen-mABSA-T5: A Multilingual Zero-Shot Generative Framework for Aspect-Based Sentiment Analysis",
+  "authors": [
+    "Shabrina Akter Shahana",
+    "Nuzhat Nairy Afrin",
+    "Md. Musique Anwar",
+    "Israt Jahan"
+  ],
+  "languages": [
+    "English",
+    "Bangla"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.banglalp-1.12",
+  "acl_url": "https://aclanthology.org/2025.banglalp-1.12/"
+}

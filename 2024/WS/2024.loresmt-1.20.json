@@ -1,0 +1,19 @@
+{
+  "title": "Irish-based Large Language Model with Extreme Low-Resource Settings in Machine Translation",
+  "authors": [
+    "Khanh-Tung Tran",
+    "Barry O'Sullivan",
+    "Hoang D. Nguyen"
+  ],
+  "languages": [
+    "English",
+    "Irish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.loresmt-1.20",
+  "acl_url": "https://aclanthology.org/2024.loresmt-1.20/"
+}

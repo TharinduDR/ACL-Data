@@ -1,0 +1,18 @@
+{
+  "title": "AIC CTU system at AVeriTeC: Re-framing automated fact-checking as a simple RAG task",
+  "authors": [
+    "Herbert Ullrich",
+    "Tomáš Mlynář",
+    "Jan Drchal"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.fever-1.16",
+  "acl_url": "https://aclanthology.org/2024.fever-1.16/"
+}

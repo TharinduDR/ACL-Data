@@ -1,0 +1,21 @@
+{
+  "title": "UD-KSL Treebank v1.3: A semi-automated framework for aligning XPOS-extracted units with UPOS tags",
+  "authors": [
+    "Hakyung Sung",
+    "Gyu-Ho Shin",
+    "Chanyoung Lee",
+    "You Kyung Sung",
+    "Boo Kyung Jung"
+  ],
+  "languages": [
+    "Korean",
+    "English",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.law-1.9",
+  "acl_url": "https://aclanthology.org/2025.law-1.9/"
+}

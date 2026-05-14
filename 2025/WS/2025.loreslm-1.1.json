@@ -1,0 +1,50 @@
+{
+  "title": "Overview of the First Workshop on Language Models for Low-Resource Languages (LoResLM 2025)",
+  "authors": [
+    "Hansi Hettiarachchi",
+    "Tharindu Ranasinghe",
+    "Paul Rayson",
+    "Ruslan Mitkov",
+    "Mohamed Gaber",
+    "Damith Premasiri",
+    "Fiona Anting Tan",
+    "Lasitha Uyangodage"
+  ],
+  "languages": [
+    "Arabic",
+    "Hausa",
+    "Filipino",
+    "Tagalog",
+    "German",
+    "Old English",
+    "Ancient Greek",
+    "Bengali",
+    "Marathi",
+    "Persian",
+    "Sinhala",
+    "Urdu",
+    "Italian",
+    "Medieval Latin",
+    "Monégasque",
+    "Portuguese",
+    "Basque",
+    "Korean",
+    "isiXhosa",
+    "isiZulu",
+    "Moore",
+    "Swahili",
+    "Cantonese",
+    "Kazakh",
+    "Kyrgyz",
+    "Turkish",
+    "Turkmen",
+    "Uzbek"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.loreslm-1.1",
+  "acl_url": "https://aclanthology.org/2025.loreslm-1.1/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "RAG-RLRC-LaySum at BioLaySumm: Integrating Retrieval-Augmented Generation and Readability Control for Layman Summarization of Biomedical Texts",
+  "authors": [
+    "Yuelyu Ji",
+    "Zhuochun Li",
+    "Rui Meng",
+    "Sonish Sivarajkumar",
+    "Yanshan Wang",
+    "Zeshui Yu",
+    "Hui Ji",
+    "Yushui Han",
+    "Hanyu Zeng",
+    "Daqing He"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2024.bionlp-1.75",
+  "acl_url": "https://aclanthology.org/2024.bionlp-1.75/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Neural End-to-End Coreference Resolution using Morphological Information",
+  "authors": [
+    "Tuğba Pamay Arslan",
+    "Kutay Acar",
+    "Gülşen Eryiğit"
+  ],
+  "languages": [
+    "Catalan",
+    "Hungarian",
+    "Turkish",
+    "Spanish",
+    "French",
+    "Lithuanian",
+    "Polish",
+    "Norwegian",
+    "German",
+    "English"
+  ],
+  "research_areas": [
+    "T11",
+    "T21"
+  ],
+  "paper_id": "2023.crac-sharedtask.3",
+  "acl_url": "https://aclanthology.org/2023.crac-sharedtask.3/"
+}

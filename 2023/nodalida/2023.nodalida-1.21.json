@@ -1,0 +1,20 @@
+{
+  "title": "BRENT: Bidirectional Retrieval Enhanced Norwegian Transformer",
+  "authors": [
+    "Lucas Georges Gabriel Charpentier",
+    "Sondre Wold",
+    "David Samuel",
+    "Egil Rønningstad"
+  ],
+  "languages": [
+    "Norwegian",
+    "English"
+  ],
+  "research_areas": [
+    "T14",
+    "T10",
+    "T21"
+  ],
+  "paper_id": "2023.nodalida-1.21",
+  "acl_url": "https://aclanthology.org/2023.nodalida-1.21/"
+}

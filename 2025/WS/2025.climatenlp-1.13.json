@@ -1,0 +1,19 @@
+{
+  "title": "ClimateEval: A Comprehensive Benchmark for NLP Tasks Related to Climate Change",
+  "authors": [
+    "Murathan Kurfali",
+    "Shorouq Zahra",
+    "Joakim Nivre",
+    "Gabriele Messori"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.climatenlp-1.13",
+  "acl_url": "https://aclanthology.org/2025.climatenlp-1.13/"
+}

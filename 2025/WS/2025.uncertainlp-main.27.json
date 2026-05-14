@@ -1,0 +1,20 @@
+{
+  "title": "Investigating Factuality in Long-Form Text Generation: The Roles of Self-Known and Self-Unknown",
+  "authors": [
+    "Lifu Tu",
+    "Rui Meng",
+    "Shafiq Joty",
+    "Yingbo Zhou",
+    "Semih Yavuz"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2025.uncertainlp-main.27",
+  "acl_url": "https://aclanthology.org/2025.uncertainlp-main.27/"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Towards Zero-resource Cross-lingual Entity Linking",
+  "authors": [
+    "Shuyan Zhou",
+    "Shruti Rijhwani",
+    "Graham Neubig"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Tigrinya",
+    "Oromo",
+    "Kinyarwanda",
+    "Sinhala"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "D19-6127",
+  "acl_url": "https://aclanthology.org/D19-6127/"
+}

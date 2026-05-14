@@ -1,0 +1,19 @@
+{
+  "title": "UIUC_BioNLP at BioLaySumm: An Extract-then-Summarize Approach Augmented with Wikipedia Knowledge for Biomedical Lay Summarization",
+  "authors": [
+    "Zhiwen You",
+    "Shruthan Radhakrishna",
+    "Shufan Ming",
+    "Halil Kilicoglu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.bionlp-1.11",
+  "acl_url": "https://aclanthology.org/2024.bionlp-1.11/"
+}

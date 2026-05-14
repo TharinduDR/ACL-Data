@@ -1,0 +1,25 @@
+{
+  "title": "NLP4Health: Multilingual Clinical Dialogue Summarization and QA with mT5 and LoRA",
+  "authors": [
+    "Moutushi Roy",
+    "Dipankar Das"
+  ],
+  "languages": [
+    "English",
+    "Assamese",
+    "Bangla",
+    "Gujarati",
+    "Hindi",
+    "Kannada",
+    "Marathi",
+    "Tamil",
+    "Telugu"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T10 Question Answering",
+    "T26 Clinical/biomedical NLP"
+  ],
+  "paper_id": "2025.nlpai4health-main.10",
+  "acl_url": "https://aclanthology.org/2025.nlpai4health-main.10/"
+}

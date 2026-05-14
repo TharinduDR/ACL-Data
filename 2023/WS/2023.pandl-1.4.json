@@ -1,0 +1,22 @@
+{
+  "title": "Generating Irish Text with a Flexible Plug-and-Play Architecture",
+  "authors": [
+    "Simon Mille",
+    "Elaine Uí Dhonnchadha",
+    "Lauren Cassidy",
+    "Brian Davis",
+    "Stamatia Dasiopoulou",
+    "Anya Belz"
+  ],
+  "languages": [
+    "Irish",
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.pandl-1.4",
+  "acl_url": "https://aclanthology.org/2023.pandl-1.4/"
+}

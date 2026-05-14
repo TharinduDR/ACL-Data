@@ -1,0 +1,22 @@
+{
+  "title": "MORSED: Morphological Segmentation of Danish and its Effect on Language Modeling",
+  "authors": [
+    "Rob van der Goot",
+    "Anette Jensen",
+    "Emil Allerslev Schledermann",
+    "Mikkel Wildner Kildeberg",
+    "Nicolaj Larsen",
+    "Mike Zhang",
+    "Elisa Bassignana"
+  ],
+  "languages": [
+    "Danish",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2025.nodalida-1.23",
+  "acl_url": "https://aclanthology.org/2025.nodalida-1.23/"
+}

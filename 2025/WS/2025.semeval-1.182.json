@@ -1,0 +1,26 @@
+{
+  "title": "Word2winners at SemEval-2025 Task 7: Multilingual and Crosslingual Fact-Checked Claim Retrieval",
+  "authors": [
+    "Amirmohammad Azadi",
+    "Sina Zamani",
+    "Mohammadmostafa Rostamkhani",
+    "Sauleh Etemadi"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Arabic",
+    "Portuguese",
+    "Thai",
+    "Malay"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T18 Text Summarization",
+    "T23 Social Media Processing"
+  ],
+  "paper_id": "2025.semeval-1.182",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.182/"
+}

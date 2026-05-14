@@ -1,0 +1,35 @@
+{
+  "title": "Evaluating the Interplay of Information Status and Information Content in a Multilingual Parallel Corpus",
+  "authors": [
+    "Julius Steuer",
+    "Andrew Dyer",
+    "Toshiaki Nakai",
+    "Luigi Talamo",
+    "Annemarie Verkerk"
+  ],
+  "languages": [
+    "Chinese",
+    "Greek",
+    "Hindi",
+    "Indonesian",
+    "Portuguese",
+    "Turkish",
+    "Ukrainian",
+    "Albanian",
+    "Basque",
+    "Finnish",
+    "Georgian",
+    "Irish",
+    "Japanese",
+    "Lithuanian",
+    "Persian",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2026.sigtyp-main.3",
+  "acl_url": "https://aclanthology.org/2026.sigtyp-main.3/"
+}

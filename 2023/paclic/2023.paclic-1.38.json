@@ -1,0 +1,25 @@
+{
+  "title": "ViASR: A Novel Benchmark Dataset and Methods for Vietnamese Automatic Speech Recognition",
+  "authors": [
+    "Son Thanh Huynh",
+    "Khanh Quoc Tran",
+    "An Tran-Hoai Le",
+    "An Trong Nguyen",
+    "Tung Tran Nguyen Doan",
+    "An Phan Thi Thuy",
+    "Thanh Nguyen Le",
+    "Nghia Nguyen Hieu",
+    "Dang T. Huynh",
+    "Binh T. Nguyen"
+  ],
+  "languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "research_areas": [
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.paclic-1.38",
+  "acl_url": "https://aclanthology.org/2023.paclic-1.38/"
+}

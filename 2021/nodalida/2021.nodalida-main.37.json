@@ -1,0 +1,19 @@
+{
+  "title": "Boosting Neural Machine Translation from Finnish to Northern Sámi with Rule-Based Backtranslation",
+  "authors": [
+    "Mikko Aulamo",
+    "Sami Virpioja",
+    "Yves Scherrer",
+    "Jörg Tiedemann"
+  ],
+  "languages": [
+    "Finnish",
+    "Northern Sámi"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2021.nodalida-main.37",
+  "acl_url": "https://aclanthology.org/2021.nodalida-main.37/"
+}

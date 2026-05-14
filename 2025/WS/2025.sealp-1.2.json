@@ -1,0 +1,30 @@
+{
+  "title": "NusaBERT: Teaching IndoBERT to be Multilingual and Multicultural",
+  "authors": [
+    "Wilson Wongso",
+    "David Samuel Setiawan",
+    "Steven Limcorn",
+    "Ananto Joyoadikusumo"
+  ],
+  "languages": [
+    "Indonesian",
+    "Acehnese",
+    "Balinese",
+    "Banjarese",
+    "Banyumasan",
+    "Buginese",
+    "Gorontalo",
+    "Minangkabau",
+    "Malay",
+    "Nias",
+    "Sundanese",
+    "Tetum"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.sealp-1.2",
+  "acl_url": "https://aclanthology.org/2025.sealp-1.2/"
+}

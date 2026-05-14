@@ -1,0 +1,27 @@
+{
+  "title": "Introducing OmniGEC: A Silver Multilingual Dataset for Grammatical Error Correction",
+  "authors": [
+    "Roman Kovalchuk",
+    "Mariana Romanysyn",
+    "Petro Ivaniuk"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "Estonian",
+    "German",
+    "Greek",
+    "Icelandic",
+    "Italian",
+    "Latvian",
+    "Slovene",
+    "Swedish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T29",
+    "T14"
+  ],
+  "paper_id": "2025.unlp-1.17",
+  "acl_url": "https://aclanthology.org/2025.unlp-1.17/"
+}

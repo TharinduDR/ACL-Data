@@ -1,0 +1,25 @@
+{
+  "title": "Intersectional Bias in Japanese Large Language Models from a Contextualized Perspective",
+  "authors": [
+    "Hitomi Yanaka",
+    "Xinqi He",
+    "Jie Lu",
+    "Namgi Han",
+    "Sunjin Oh",
+    "Ryoma Kumon",
+    "Yuma Matsuoka",
+    "Katsuhiko Watabe",
+    "Yuko Itatsu"
+  ],
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.gebnlp-1.2",
+  "acl_url": "https://aclanthology.org/2025.gebnlp-1.2/"
+}

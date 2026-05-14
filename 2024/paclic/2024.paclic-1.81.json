@@ -1,0 +1,22 @@
+{
+  "title": "Aganittyam: Learning Tamil Grammar through Knowledge Graph based Templated Question Answering",
+  "authors": [
+    "Mithilesh K",
+    "Amarjit Madhumalararungeethayan",
+    "Dharanish Rahul S",
+    "Abhijith Balan",
+    "C Oswald",
+    "Hrishikesh Terdalkar"
+  ],
+  "languages": [
+    "Tamil",
+    "English"
+  ],
+  "research_areas": [
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.paclic-1.81",
+  "acl_url": "https://aclanthology.org/2024.paclic-1.81/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "BANHATE: An Up-to-Date and Fine-Grained Bangla Hate Speech Dataset",
+  "authors": [
+    "Faisal Hossain Raquib",
+    "Akm Moshir Rahman Mazumder",
+    "Md Tahmid Hasan Fuad",
+    "Md Farhan Ishmam",
+    "Md Fahim"
+  ],
+  "languages": [
+    "Bangla"
+  ],
+  "research_areas": [
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.banglalp-1.19",
+  "acl_url": "https://aclanthology.org/2025.banglalp-1.19/"
+}

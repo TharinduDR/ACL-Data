@@ -1,0 +1,20 @@
+{
+  "title": "LKAU23 at Qur'an QA 2023: Using Transformer Models for Retrieving Passages and Finding Answers to Questions from the Qur'an",
+  "authors": [
+    "Sarah Alnefaie",
+    "Abdullah N. Alsaleh",
+    "Eric Atwell",
+    "Mohammed Ammar Alsalka",
+    "Abdulrahman Altahhan"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2023.arabicnlp-1.80",
+  "acl_url": "https://aclanthology.org/2023.arabicnlp-1.80/"
+}

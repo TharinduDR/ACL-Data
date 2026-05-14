@@ -1,0 +1,21 @@
+{
+  "title": "A Unified Turkic Idiom Understanding Benchmark: Idiom Detection and Semantic Retrieval Across Five Turkic Languages",
+  "authors": [
+    "Gözde Aslantaş",
+    "Tunga Gündör"
+  ],
+  "languages": [
+    "Turkish",
+    "Azerbaijani",
+    "Turkmen",
+    "Gagauz",
+    "Uzbek"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2026.sigturk-1.4",
+  "acl_url": "https://aclanthology.org/2026.sigturk-1.4/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "A Scalable and Adaptive System to Infer the Industry Sectors of Companies: Prompt + Model Tuning of Generative Language Models",
+  "authors": [
+    "Lele Cao",
+    "Vilhelm von Ehrenheim",
+    "Astrid Berghult",
+    "Cecilia Henje",
+    "Richard Anselmo Stahl",
+    "Joar Wandborg",
+    "Sebastian Stan",
+    "Armin Catovic",
+    "Erik Ferm",
+    "Hannes Ingelhag"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.finnlp-1.5",
+  "acl_url": "https://aclanthology.org/2023.finnlp-1.5/"
+}

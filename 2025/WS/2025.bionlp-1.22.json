@@ -1,0 +1,19 @@
+{
+  "title": "CaseReportCollective: A Large-Scale LLM-Extracted Dataset for Structured Medical Case Reports",
+  "authors": [
+    "Xiao Yu Cindy Zhang",
+    "Wyeth Wasserman",
+    "Melissa Fong",
+    "Jian Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.bionlp-1.22",
+  "acl_url": "https://aclanthology.org/2025.bionlp-1.22/"
+}

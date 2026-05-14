@@ -1,0 +1,19 @@
+{
+  "title": "MiDRED: An Annotated Corpus for Microbiome Knowledge Base Construction",
+  "authors": [
+    "William Hogan",
+    "Andrew Bartko",
+    "Jingbo Shang",
+    "Chun-Nan Hsu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.bionlp-1.31",
+  "acl_url": "https://aclanthology.org/2024.bionlp-1.31/"
+}

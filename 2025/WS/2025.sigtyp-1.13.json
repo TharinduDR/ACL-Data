@@ -1,0 +1,23 @@
+{
+  "title": "Construction-Based Reduction of Translationese for Low-Resource Languages: A Pilot Study on Bavarian",
+  "authors": [
+    "Peiqin Lin",
+    "Marion Thaler",
+    "Daniela Goschala",
+    "Amir Hossein Kargaran",
+    "Yihong Liu",
+    "André F. T. Martins",
+    "Hinrich Schütze"
+  ],
+  "languages": [
+    "German",
+    "Bavarian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.sigtyp-1.13",
+  "acl_url": "https://aclanthology.org/2025.sigtyp-1.13/"
+}

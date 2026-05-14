@@ -1,0 +1,31 @@
+{
+  "title": "Semi-Automatic Topic Discovery and Classification for Epidemic Intelligence via Large Language Models",
+  "authors": [
+    "Federico Borazio",
+    "Danilo Croce",
+    "Giorgio Gambosi",
+    "Roberto Basili",
+    "Daniele Margiotta",
+    "Antonio Scaiella",
+    "Martina Del Manso",
+    "Daniele Petrone",
+    "Andrea Cannone",
+    "Alberto Mateo Urdiales",
+    "Chiara Sacco",
+    "Patrizio Pezzotti",
+    "Flavia Riccardo",
+    "Daniele Mipatrini",
+    "Federica Ferraro",
+    "Sobha Pilati"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2024.politicalnlp-1.8",
+  "acl_url": "https://aclanthology.org/2024.politicalnlp-1.8/"
+}

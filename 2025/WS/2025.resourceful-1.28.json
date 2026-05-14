@@ -1,0 +1,39 @@
+{
+  "title": "Assessing the Similarity of Cross-Lingual Seq2Seq Sentence Embeddings Using Low-Resource Spectral Clustering",
+  "authors": [
+    "Nelson Moll",
+    "Tahseen Rabbani"
+  ],
+  "languages": [
+    "French",
+    "Italian",
+    "Portuguese",
+    "Spanish",
+    "German",
+    "Russian",
+    "Polish",
+    "Ukrainian",
+    "Bengali",
+    "Hindi",
+    "Kannada",
+    "Gujarati",
+    "Swedish",
+    "Danish",
+    "Norwegian Bokmål",
+    "Icelandic",
+    "Tatar",
+    "Kazakh",
+    "Kyrgyz",
+    "Swahili",
+    "Luganda",
+    "Kirundi",
+    "Kinyarwanda"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.resourceful-1.28",
+  "acl_url": "https://aclanthology.org/2025.resourceful-1.28/"
+}

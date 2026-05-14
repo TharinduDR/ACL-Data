@@ -1,0 +1,21 @@
+{
+  "title": "MUNTTs: A Text-to-Speech System for Mundari",
+  "authors": [
+    "Varun Gumma",
+    "Rishav Hada",
+    "Aditya Yadavalli",
+    "Pamir Gogoi",
+    "Ishani Mondal",
+    "Vivek Seshadri",
+    "Kalika Bali"
+  ],
+  "languages": [
+    "Mundari"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2024.computel-1.11",
+  "acl_url": "https://aclanthology.org/2024.computel-1.11/"
+}

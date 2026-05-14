@@ -1,0 +1,23 @@
+{
+  "title": "SQLong: Enhanced NL2SQL for Longer Contexts with LLMs",
+  "authors": [
+    "Dai Quoc Nguyen",
+    "Cong Duy Vu Hoang",
+    "Duy Vu",
+    "Gioacchino Tangari",
+    "Thanh Tien Vu",
+    "Don Dharmasiri",
+    "Yuan-Fang Li",
+    "Long Duong"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.trl-1.5",
+  "acl_url": "https://aclanthology.org/2025.trl-1.5/"
+}

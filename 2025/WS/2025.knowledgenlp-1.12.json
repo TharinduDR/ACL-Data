@@ -1,0 +1,19 @@
+{
+  "title": "STOC-ToT: Stochastic Tree-of-Thought with Constrained Decoding for Complex Reasoning in Multi-Hop Question Answering",
+  "authors": [
+    "Zhenyu Bi",
+    "Daniel Hajialigol",
+    "Zhongkai Sun",
+    "Jie Hao",
+    "Xuan Wang"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning"
+  ],
+  "paper_id": "2025.knowledgenlp-1.12",
+  "acl_url": "https://aclanthology.org/2025.knowledgenlp-1.12/"
+}

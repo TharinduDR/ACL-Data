@@ -1,0 +1,39 @@
+{
+  "title": "Tue-JMS at SemEval-2025 Task 11: KReLaX: An Ensemble-Based Approach for Multilingual Emotion Detection and Addressing Data Imbalance",
+  "authors": [
+    "Jingyu Han",
+    "Megan Horikawa",
+    "Suvi Lehtosalo"
+  ],
+  "languages": [
+    "Amharic",
+    "Arabic",
+    "Chinese",
+    "German",
+    "English",
+    "Hausa",
+    "Hindi",
+    "Indonesian",
+    "Marathi",
+    "Russian",
+    "Spanish",
+    "Tatar",
+    "Turkish",
+    "Ukrainian",
+    "Zulu",
+    "Xhosa",
+    "Somali",
+    "Sudanese",
+    "Tigrinya",
+    "Portuguese",
+    "Persian",
+    "Punjabi",
+    "Uyghur"
+  ],
+  "research_areas": [
+    "T20",
+    "T14"
+  ],
+  "paper_id": "2025.semeval-1.113",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.113/"
+}

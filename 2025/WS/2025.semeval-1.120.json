@@ -1,0 +1,36 @@
+{
+  "title": "HausaNLP at SemEval-2025 Task 2: Entity-Aware Fine-tuning vs. Prompt Engineering in Entity-Aware Machine Translation",
+  "authors": [
+    "Abdulhamid Abubakar",
+    "Hamidatu Abdulkadir",
+    "Ibrahim Rabi'u Abdullahi",
+    "Abubakar Auwal Khalid",
+    "Ahmad Mustapha Wali",
+    "Amina Aminu Umar",
+    "Maryam Bala",
+    "Sani Abdullahi Sani",
+    "Ibrahim Said Ahmad",
+    "Shamsuddeen Hassan Muhammad",
+    "Idris Abdulmumin",
+    "Vukosi Marivate"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Thai",
+    "Turkish",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.semeval-1.120",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.120/"
+}

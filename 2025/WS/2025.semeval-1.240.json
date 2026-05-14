@@ -1,0 +1,27 @@
+{
+  "title": "TeleAI at SemEval-2025 Task 8: Advancing Table Reasoning Framework with Large Language Models",
+  "authors": [
+    "Sishi Xiong",
+    "Mengxiang Li",
+    "Dakai Wang",
+    "Yu Zhao",
+    "Jie Zhang",
+    "Changzai Pan",
+    "Haowei He",
+    "Xiangyu Li",
+    "Wenhan Chang",
+    "Zhongjiang He",
+    "Shuangyong Song",
+    "Yongxiang Li"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.semeval-1.240",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.240/"
+}

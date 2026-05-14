@@ -1,0 +1,35 @@
+{
+  "title": "Findings of the 2nd Shared Task on Multi-lingual Multi-task Information Retrieval at MRL 2024",
+  "authors": [
+    "Francesco Tinner",
+    "Raghav Mantri",
+    "Mammad Hajili",
+    "Chiamaka Chukwuneke",
+    "Dylan Massey",
+    "Benjamin A. Ajibade",
+    "Bilge Deniz Kocak",
+    "Abolade Dawud",
+    "Jonathan Atala",
+    "Hale Sirin",
+    "Kayode Olaleye",
+    "Anar Rzayev",
+    "Jafar Isbarov",
+    "Dursun Dashdamirov",
+    "David Adelani",
+    "Duygu Ataman"
+  ],
+  "languages": [
+    "Azerbaijani",
+    "Igbo",
+    "Swiss German",
+    "Turkish",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
+  ],
+  "paper_id": "2024.mrl-1.30",
+  "acl_url": "https://aclanthology.org/2024.mrl-1.30/"
+}

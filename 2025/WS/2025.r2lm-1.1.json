@@ -1,0 +1,21 @@
+{
+  "title": "CoVeGAT: A Hybrid LLM Graph Attention Pipeline for Accurate Citation Aligned Claim Verification",
+  "authors": [
+    "Max Bader",
+    "Akshatha Arunkumar",
+    "Ohan Ahmad",
+    "Maruf Hassen",
+    "Charles Duong",
+    "Kevin Zhu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
+  ],
+  "paper_id": "2025.r2lm-1.1",
+  "acl_url": "https://aclanthology.org/2025.r2lm-1.1/"
+}

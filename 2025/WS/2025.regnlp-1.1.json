@@ -1,0 +1,19 @@
+{
+  "title": "Shared Task RIRAG-2025: Regulatory Information Retrieval and Answer Generation",
+  "authors": [
+    "Tuba Gokhan",
+    "Kexin Wang",
+    "Iryna Gurevych",
+    "Ted Briscoe"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering",
+    "T25 Legal NLP"
+  ],
+  "paper_id": "2025.regnlp-1.1",
+  "acl_url": "https://aclanthology.org/2025.regnlp-1.1/"
+}

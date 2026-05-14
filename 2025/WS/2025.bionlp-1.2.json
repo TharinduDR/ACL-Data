@@ -1,0 +1,20 @@
+{
+  "title": "Effect of Multilingual and Domain-adapted Continual Pre-training on Few-shot Promptability",
+  "authors": [
+    "Ken Yano",
+    "Makoto Miwa"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T16 Machine Translation",
+    "T18 Text Summarization"
+  ],
+  "paper_id": "2025.bionlp-1.2",
+  "acl_url": "https://aclanthology.org/2025.bionlp-1.2/"
+}

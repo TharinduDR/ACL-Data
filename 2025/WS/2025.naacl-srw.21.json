@@ -1,0 +1,20 @@
+{
+  "title": "How many words does it take to understand a low-resource language?",
+  "authors": [
+    "Emily Chang",
+    "Dr. Nada Basit"
+  ],
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "German",
+    "Turkish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.naacl-srw.21",
+  "acl_url": "https://aclanthology.org/2025.naacl-srw.21/"
+}

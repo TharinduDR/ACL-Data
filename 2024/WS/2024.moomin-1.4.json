@@ -1,0 +1,37 @@
+{
+  "title": "The Impact of Language Adapters in Cross-Lingual Transfer for NLU",
+  "authors": [
+    "Jenny Kunz",
+    "Oskar Holmström"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Greek",
+    "Spanish",
+    "French",
+    "Hindi",
+    "Russian",
+    "Swahili",
+    "Thai",
+    "Turkish",
+    "Urdu",
+    "Vietnamese",
+    "Chinese",
+    "English",
+    "Japanese",
+    "Korean",
+    "Indonesian",
+    "Italian",
+    "Eastern Apurimac Quechua",
+    "Kiswahili",
+    "Tamil",
+    "Mandarin Chinese"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.moomin-1.4",
+  "acl_url": "https://aclanthology.org/2024.moomin-1.4/"
+}

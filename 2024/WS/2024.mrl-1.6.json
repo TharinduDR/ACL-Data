@@ -1,0 +1,20 @@
+{
+  "title": "Tagengo: A Multilingual Chat Dataset",
+  "authors": [
+    "Peter Devine"
+  ],
+  "languages": [
+    "Chinese",
+    "French",
+    "German",
+    "Japanese",
+    "Russian",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.mrl-1.6",
+  "acl_url": "https://aclanthology.org/2024.mrl-1.6/"
+}

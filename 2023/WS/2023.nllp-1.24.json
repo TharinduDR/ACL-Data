@@ -1,0 +1,20 @@
+{
+  "title": "AsyLex: A Dataset for Legal Language Processing of Refugee Claims",
+  "authors": [
+    "Claire Barale",
+    "Mark Klaisoongnoen",
+    "Pasquale Minervini",
+    "Michael Rovatsos",
+    "Nehal Bhuta"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T25 Legal NLP",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2023.nllp-1.24",
+  "acl_url": "https://aclanthology.org/2023.nllp-1.24/"
+}

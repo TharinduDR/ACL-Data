@@ -1,0 +1,28 @@
+{
+  "title": "When Tom Eats Kimchi: Evaluating Cultural Bias of Multimodal Large Language Models in Cultural Mixture Contexts",
+  "authors": [
+    "Jun Seong Kim",
+    "Kyaw Ye Thu",
+    "Javad Ismayilzada",
+    "Junyeong Park",
+    "Eunsu Kim",
+    "Huzama Ahmad",
+    "Na Min An",
+    "James Thorne",
+    "Alice Oh"
+  ],
+  "languages": [
+    "English",
+    "Korean",
+    "Azerbaijani",
+    "Burmese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T01 Bias, Guardrails, filters"
+  ],
+  "paper_id": "2025.c3nlp-1.11",
+  "acl_url": "https://aclanthology.org/2025.c3nlp-1.11/"
+}

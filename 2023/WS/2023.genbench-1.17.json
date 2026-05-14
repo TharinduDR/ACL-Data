@@ -1,0 +1,22 @@
+{
+  "title": "On Using Distribution-Based Compositionality Assessment to Evaluate Compositional Generalisation in Machine Translation",
+  "authors": [
+    "Anssi Moisio",
+    "Mathias Creutz",
+    "Mikko Kurimo"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Greek",
+    "Finnish"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.genbench-1.17",
+  "acl_url": "https://aclanthology.org/2023.genbench-1.17/"
+}

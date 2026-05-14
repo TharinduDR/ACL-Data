@@ -1,0 +1,36 @@
+{
+  "title": "A Large-scale Study of Statistical Machine Translation Methods for Khmer Language",
+  "authors": [
+    "Ye Kyaw Thu",
+    "Vichet Chea",
+    "Andrew Finch",
+    "Masao Utiyama",
+    "Eiichiro Sumita"
+  ],
+  "languages": [
+    "Arabic",
+    "Danish",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Malay",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Vietnamese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "Y15-1030",
+  "acl_url": "https://aclanthology.org/Y15-1030/"
+}

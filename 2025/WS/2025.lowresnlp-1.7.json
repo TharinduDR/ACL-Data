@@ -1,0 +1,18 @@
+{
+  "title": "IfGPT: A Dataset in Bulgarian for Large Language Models",
+  "authors": [
+    "Svetla Koeva",
+    "Ivelina Stoyanova",
+    "Jordan Kralev"
+  ],
+  "languages": [
+    "Bulgarian",
+    "English"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.lowresnlp-1.7",
+  "acl_url": "https://aclanthology.org/2025.lowresnlp-1.7/"
+}

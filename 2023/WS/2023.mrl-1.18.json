@@ -1,0 +1,36 @@
+{
+  "title": "Contrastive Learning for Universal Zero-Shot NLI with Cross-Lingual Sentence Embeddings",
+  "authors": [
+    "Md. Kowsher",
+    "Md. Shohanur Islam Sobuj",
+    "Nusrat Jahan Prottasha",
+    "Mohammad Shamsul Arefin",
+    "Yasuhiko Morimoto"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Chinese",
+    "French",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Malay",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Thai",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T14",
+    "T15",
+    "T09"
+  ],
+  "paper_id": "2023.mrl-1.18",
+  "acl_url": "https://aclanthology.org/2023.mrl-1.18/"
+}

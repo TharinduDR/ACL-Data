@@ -1,0 +1,17 @@
+{
+  "title": "Inferring morphological rules from small examples using 0/1 linear programming",
+  "authors": [
+    "Ann Lillieström",
+    "Koen Claessen",
+    "Nicholas Smallbone"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "W19-6118",
+  "acl_url": "https://aclanthology.org/W19-6118/"
+}

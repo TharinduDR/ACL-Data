@@ -1,0 +1,22 @@
+{
+  "title": "KSTC: Keyphrase-driven Sentence Embedding and Task Independent Prompting for Filling Slot in the Generation of Theme Label",
+  "authors": [
+    "Sua Kim",
+    "Taeyoung Jeong",
+    "Seokyoung Hong",
+    "Seongjun Kim",
+    "Jeongpil Lee",
+    "Du-Seong Chang",
+    "Myoung-Wan Koo"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
+  ],
+  "paper_id": "2025.dstc-1.5",
+  "acl_url": "https://aclanthology.org/2025.dstc-1.5/"
+}

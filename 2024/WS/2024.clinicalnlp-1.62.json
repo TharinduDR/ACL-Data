@@ -1,0 +1,19 @@
+{
+  "title": "Overview of the EHRSQL 2024 Shared Task on Reliable Text-to-SQL Modeling on Electronic Health Records",
+  "authors": [
+    "Gyubok Lee",
+    "Sunjun Kweon",
+    "Seongsu Bae",
+    "Edward Choi"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2024.clinicalnlp-1.62",
+  "acl_url": "https://aclanthology.org/2024.clinicalnlp-1.62/"
+}

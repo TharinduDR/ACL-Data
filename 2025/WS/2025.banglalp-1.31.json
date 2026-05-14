@@ -1,0 +1,23 @@
+{
+  "title": "Overview of BLP-2025 Task 2: Code Generation in Bangla",
+  "authors": [
+    "Nishat Raihan",
+    "Mohammad Anas Jawad",
+    "Md Mezbaur Rahman",
+    "Noshin Ulfat",
+    "Pranav Gupta",
+    "Mehrab Mustafy Rahman",
+    "Shubhra Kanti Karmakar",
+    "Marcos Zampieri"
+  ],
+  "languages": [
+    "Bangla"
+  ],
+  "research_areas": [
+    "T27 Code generation and programming languages",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.banglalp-1.31",
+  "acl_url": "https://aclanthology.org/2025.banglalp-1.31/"
+}

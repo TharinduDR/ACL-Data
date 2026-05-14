@@ -1,0 +1,16 @@
+{
+  "title": "Less is More—Achieving SOTA at PolEval 2025 Task 2a: Gender-inclusive LLMs for Polish (Proofreading) with LoRA and Qwen3-8B",
+  "authors": [
+    "Adam Majczyk"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.poleval-main.7",
+  "acl_url": "https://aclanthology.org/2025.poleval-main.7/"
+}

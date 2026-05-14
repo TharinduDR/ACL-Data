@@ -1,0 +1,26 @@
+{
+  "title": "Multilingual Symptom Detection on Social Media: Enhancing Health-related Fact-checking with LLMs",
+  "authors": [
+    "Sa'idah Zahrotul Jannah",
+    "Elyanah Aco",
+    "Shaowen Peng",
+    "Shoko Wakamiya",
+    "Eiji Aramaki"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Japanese",
+    "Arabic",
+    "Indonesian",
+    "Filipino"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T23 Social Media Processing",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.fever-1.4",
+  "acl_url": "https://aclanthology.org/2025.fever-1.4/"
+}

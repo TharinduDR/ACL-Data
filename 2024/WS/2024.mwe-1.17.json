@@ -1,0 +1,24 @@
+{
+  "title": "Universal Feature-based Morphological Trees",
+  "authors": [
+    "Federica Gamba",
+    "Abishek Stephen",
+    "Zdeněk Žabokrtský"
+  ],
+  "languages": [
+    "English",
+    "Czech",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Hungarian",
+    "Catalan",
+    "Latin"
+  ],
+  "research_areas": [
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2024.mwe-1.17",
+  "acl_url": "https://aclanthology.org/2024.mwe-1.17/"
+}

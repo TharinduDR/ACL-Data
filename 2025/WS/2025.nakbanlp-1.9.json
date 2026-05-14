@@ -1,0 +1,21 @@
+{
+  "title": "Multilingual Propaganda Detection: Exploring Transformer-Based Models mBERT, XLM-RoBERTa, and mT5",
+  "authors": [
+    "Mohamed Ibrahim Ragab",
+    "Ensaf Hussein Mohamed",
+    "Walaa Medhat"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "Hebrew",
+    "French",
+    "Hindi"
+  ],
+  "research_areas": [
+    "T20",
+    "T23"
+  ],
+  "paper_id": "2025.nakbanlp-1.9",
+  "acl_url": "https://aclanthology.org/2025.nakbanlp-1.9/"
+}

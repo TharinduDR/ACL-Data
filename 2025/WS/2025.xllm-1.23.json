@@ -1,0 +1,23 @@
+{
+  "title": "LLMSR@XLLM25: Less is More: Enhancing Structured Multi-Agent Reasoning via Quality-Guided Distillation",
+  "authors": [
+    "Jiahao Yuan",
+    "Xingzhe Sun",
+    "Xing Yu",
+    "Jingwen Wang",
+    "Dehui Du",
+    "Zhiqing Cui",
+    "Zixiang Di"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T09 Inference and Reasoning",
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
+  ],
+  "paper_id": "2025.xllm-1.23",
+  "acl_url": "https://aclanthology.org/2025.xllm-1.23/"
+}

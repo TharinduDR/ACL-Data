@@ -1,0 +1,44 @@
+{
+  "title": "Machine Translation for Low-resource Finno-Ugric Languages",
+  "authors": [
+    "Lisa Yankovskaya",
+    "Maali Tars",
+    "Andre Tättar",
+    "Mark Fishel"
+  ],
+  "languages": [
+    "English",
+    "Estonian",
+    "Finnish",
+    "Hungarian",
+    "Russian",
+    "Komi",
+    "Udmurt",
+    "Mansi",
+    "Erzya",
+    "Moksha",
+    "Livvi Karelian",
+    "Veps",
+    "Karelian",
+    "Ludian",
+    "Võro",
+    "Livonian",
+    "Sami",
+    "North Sami",
+    "South Sami",
+    "Inari Sami",
+    "Lule Sami",
+    "Skolt Sami",
+    "Meadow Mari",
+    "Hill Mari",
+    "Komi Permyak",
+    "Khanty"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.nodalida-1.77",
+  "acl_url": "https://aclanthology.org/2023.nodalida-1.77/"
+}

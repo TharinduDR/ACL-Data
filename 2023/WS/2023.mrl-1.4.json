@@ -1,0 +1,21 @@
+{
+  "title": "A General-Purpose Multilingual Document Encoder",
+  "authors": [
+    "Onur Galoğlu",
+    "Robert Litschko",
+    "Goran Glavaš"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Finnish",
+    "Russian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
+  ],
+  "paper_id": "2023.mrl-1.4",
+  "acl_url": "https://aclanthology.org/2023.mrl-1.4/"
+}

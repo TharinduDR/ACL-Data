@@ -1,0 +1,20 @@
+{
+  "title": "Building a Better Bitext for Structurally Different Languages Through Self-training",
+  "authors": [
+    "Jungyeul Park",
+    "Loïc Dugast",
+    "Jeen-Pyo Hong",
+    "Chang-Uk Shin",
+    "Jeong-Won Cha"
+  ],
+  "languages": [
+    "English",
+    "Korean"
+  ],
+  "research_areas": [
+    "T16",
+    "T02"
+  ],
+  "paper_id": "W17-5601",
+  "acl_url": "https://aclanthology.org/W17-5601/"
+}

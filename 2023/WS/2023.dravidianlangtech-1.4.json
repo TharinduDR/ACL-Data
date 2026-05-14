@@ -1,0 +1,20 @@
+{
+  "title": "Transformer-based Context Aware Morphological Analyzer for Telugu",
+  "authors": [
+    "Priyanka Dasari",
+    "Abhijith Chelpuri",
+    "Nagaraju Vuppala",
+    "Mounika Marreddy",
+    "Parameswari Krishnamurthy",
+    "Radhika Mamidi"
+  ],
+  "languages": [
+    "Telugu"
+  ],
+  "research_areas": [
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.dravidianlangtech-1.4",
+  "acl_url": "https://aclanthology.org/2023.dravidianlangtech-1.4/"
+}

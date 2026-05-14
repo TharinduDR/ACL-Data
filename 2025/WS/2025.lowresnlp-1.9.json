@@ -1,0 +1,20 @@
+{
+  "title": "Roman Urdu as a Low-Resource Language: Building the First IR Dataset and Baseline",
+  "authors": [
+    "Umer Butt",
+    "Stalin Varanasi",
+    "Günter Neumann"
+  ],
+  "languages": [
+    "English",
+    "Urdu",
+    "Roman Urdu"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.lowresnlp-1.9",
+  "acl_url": "https://aclanthology.org/2025.lowresnlp-1.9/"
+}

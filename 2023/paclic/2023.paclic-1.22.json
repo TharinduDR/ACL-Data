@@ -1,0 +1,27 @@
+{
+  "title": "Improving Zero-Shot Dependency Parsing by Unsupervised Learning",
+  "authors": [
+    "Jiannan Mao",
+    "Chenchen Ding",
+    "Hour Kaing",
+    "Hideki Tanaka",
+    "Masao Utiyama",
+    "Tadahiro Matsumoto"
+  ],
+  "languages": [
+    "Breton",
+    "Armenian",
+    "Czech",
+    "Hungarian",
+    "Kazakh",
+    "Upper Sorbian",
+    "Tagalog",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2023.paclic-1.22",
+  "acl_url": "https://aclanthology.org/2023.paclic-1.22/"
+}

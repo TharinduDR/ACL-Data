@@ -1,0 +1,20 @@
+{
+  "title": "WisPerMed at ArchEHR-QA 2025: A Modular, Relevance-First Approach for Grounded Question Answering on Electronic Health Records",
+  "authors": [
+    "Jan-Henning Büns",
+    "Hendrik Damm",
+    "Tabea M. G. Pakull",
+    "Felix Nensa",
+    "Elisabeth Livingstone"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
+  ],
+  "paper_id": "2025.bionlp-share.5",
+  "acl_url": "https://aclanthology.org/2025.bionlp-share.5/"
+}

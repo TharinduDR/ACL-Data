@@ -1,0 +1,27 @@
+{
+  "title": "OVQA: A Dataset for Visual Question Answering and Multimodal Research in Odia Language",
+  "authors": [
+    "Shantipriya Parida",
+    "Shashikanta Sahoo",
+    "Sambit Sekhar",
+    "Kalyanamalini Sahoo",
+    "Ketan Kotwal",
+    "Sonal Khosla",
+    "Satya Ranjan Dash",
+    "Aneesh Bose",
+    "Guneet Singh Kohli",
+    "Smruti Smita Lenka",
+    "Ondřej Bojar"
+  ],
+  "languages": [
+    "English",
+    "Odia"
+  ],
+  "research_areas": [
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.indonlp-1.7",
+  "acl_url": "https://aclanthology.org/2025.indonlp-1.7/"
+}

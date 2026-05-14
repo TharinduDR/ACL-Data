@@ -1,0 +1,24 @@
+{
+  "title": "Low-Resource Cross-Lingual Summarization through Few-Shot Learning with Large Language Models",
+  "authors": [
+    "Gyutae Park",
+    "Seojin Hwang",
+    "Hwanhee Lee"
+  ],
+  "languages": [
+    "English",
+    "Thai",
+    "Gujarati",
+    "Marathi",
+    "Pashto",
+    "Burmese",
+    "Sinhala"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T16 Machine Translation",
+    "T14 Language Modeling"
+  ],
+  "paper_id": "2024.loresmt-1.6",
+  "acl_url": "https://aclanthology.org/2024.loresmt-1.6/"
+}

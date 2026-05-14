@@ -1,0 +1,29 @@
+{
+  "title": "Team Cantharellus at SemEval-2025 Task 3: Hallucination Span Detection with Fine-Tuning on Weakly Supervised Synthetic Data",
+  "authors": [
+    "Xinyuan Mo",
+    "Nikolay Vorontsov",
+    "Tiankai Zang"
+  ],
+  "languages": [
+    "Arabic",
+    "German",
+    "Spanish",
+    "Finnish",
+    "French",
+    "Hindi",
+    "Italian",
+    "Chinese",
+    "Czech",
+    "Catalan",
+    "Basque",
+    "Persian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T28 AI-Generated Text Detection and Provenance",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.semeval-1.226",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.226/"
+}

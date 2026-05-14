@@ -1,0 +1,18 @@
+{
+  "title": "Lang2Mol-Diff: A Diffusion-Based Generative Model for Language-to-Molecule Translation Leveraging SELFIES Molecular String Representation",
+  "authors": [
+    "Nguyen Doan Hieu Nguyen",
+    "Nhat Truong Pham",
+    "Duong Thanh Tran",
+    "Balachandran Manavalan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14",
+    "T17"
+  ],
+  "paper_id": "2024.langmol-1.15",
+  "acl_url": "https://aclanthology.org/2024.langmol-1.15/"
+}

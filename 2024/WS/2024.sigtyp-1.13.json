@@ -1,0 +1,29 @@
+{
+  "title": "Predicting positive transfer for improved low-resource speech recognition using acoustic pseudo-tokens",
+  "authors": [
+    "Nay San",
+    "Georgios Paraskevopoulos",
+    "Aryaman Arora",
+    "Xiluo He",
+    "Prabhjot Kaur",
+    "Oliver Adams",
+    "Dan Jurafsky"
+  ],
+  "languages": [
+    "Punjabi",
+    "Hindi",
+    "Urdu",
+    "Gujarati",
+    "Marathi",
+    "Odia",
+    "Tamil",
+    "Malayalam",
+    "Bengali"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2024.sigtyp-1.13",
+  "acl_url": "https://aclanthology.org/2024.sigtyp-1.13/"
+}

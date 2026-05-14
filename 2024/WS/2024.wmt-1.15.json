@@ -1,0 +1,22 @@
+{
+  "title": "GTCom and DLUT's Neural Machine Translation Systems for WMT24",
+  "authors": [
+    "Hao Zong",
+    "Chao Bei",
+    "Conghu Yuan",
+    "Wentao Chen",
+    "Huan Liu",
+    "Degen Huang"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Chinese"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2024.wmt-1.15",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.15/"
+}

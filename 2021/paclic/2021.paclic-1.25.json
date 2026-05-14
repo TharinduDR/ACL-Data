@@ -1,0 +1,20 @@
+{
+  "title": "Can Monolingual Pre-trained Encoder-Decoder Improve NMT for Distant Language Pairs?",
+  "authors": [
+    "Hwichan Kim",
+    "Mamoru Komachi"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Korean",
+    "French"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "2021.paclic-1.25",
+  "acl_url": "https://aclanthology.org/2021.paclic-1.25/"
+}

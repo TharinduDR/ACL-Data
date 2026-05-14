@@ -1,0 +1,40 @@
+{
+  "title": "Multi-EuP: The Multilingual European Parliament Dataset for Analysis of Bias in Information Retrieval",
+  "authors": [
+    "Jinrui Yang",
+    "Timothy Baldwin",
+    "Trevor Cohn"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Spanish",
+    "Polish",
+    "Romanian",
+    "Dutch",
+    "Greek",
+    "Hungarian",
+    "Portuguese",
+    "Czech",
+    "Swedish",
+    "Bulgarian",
+    "Danish",
+    "Finnish",
+    "Slovak",
+    "Lithuanian",
+    "Croatian",
+    "Slovene",
+    "Estonian",
+    "Latvian",
+    "Maltese",
+    "Irish"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.mrl-1.21",
+  "acl_url": "https://aclanthology.org/2023.mrl-1.21/"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Scaling Laws of Decoder-Only Models on the Multilingual Machine Translation Task",
+  "authors": [
+    "Gaëtan Caillaut",
+    "Raheel Qader",
+    "Mariam Nakhlé",
+    "Jingshu Liu",
+    "Jean-Gabriel Barthélemy"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Portuguese",
+    "Swedish"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.wmt-1.124",
+  "acl_url": "https://aclanthology.org/2024.wmt-1.124/"
+}

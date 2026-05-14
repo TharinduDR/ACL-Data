@@ -1,0 +1,47 @@
+{
+  "title": "Bootstrapping UD treebanks for Delexicalized Parsing",
+  "authors": [
+    "Prasanth Kolachina",
+    "Aarne Ranta"
+  ],
+  "languages": [
+    "Afrikaans",
+    "Arabic",
+    "Basque",
+    "Bulgarian",
+    "Catalan",
+    "Chinese",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Greek",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Latin",
+    "Latvian",
+    "Norwegian (bokmål)",
+    "Norwegian (nynorsk)",
+    "Persian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Urdu",
+    "Thai",
+    "Icelandic"
+  ],
+  "research_areas": [
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
+  ],
+  "paper_id": "W19-6102",
+  "acl_url": "https://aclanthology.org/W19-6102/"
+}

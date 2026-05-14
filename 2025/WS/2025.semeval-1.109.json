@@ -1,0 +1,18 @@
+{
+  "title": "GOLDX at SemEval-2025 Task 11: RoBERTa for Text-Based Emotion Detection",
+  "authors": [
+    "Bill Clinton"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2025.semeval-1.109",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.109/"
+}

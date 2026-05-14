@@ -1,0 +1,20 @@
+{
+  "title": "Bias A-head? Analyzing Bias in Transformer-Based Language Model Attention Heads",
+  "authors": [
+    "Yi Yang",
+    "Hanyu Duan",
+    "Ahmed Abbasi",
+    "John P. Lalor",
+    "Kar Yan Tam"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T01 Bias, Guardrails, filters",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2025.trustnlp-main.18",
+  "acl_url": "https://aclanthology.org/2025.trustnlp-main.18/"
+}

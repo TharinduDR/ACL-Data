@@ -1,0 +1,20 @@
+{
+  "title": "ToolReflection: Improving Large Language Models for Real-World API Calls with Self-Generated Data",
+  "authors": [
+    "Gregory Polyakov",
+    "Ilseyar Alimova",
+    "Dmitry Abulkhanov",
+    "Ivan Sedykh",
+    "Andrey Bout",
+    "Sergey Nikolenko",
+    "Irina Piontkovskaya"
+  ],
+  "languages": [],
+  "research_areas": [
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
+  ],
+  "paper_id": "2025.realm-1.14",
+  "acl_url": "https://aclanthology.org/2025.realm-1.14/"
+}

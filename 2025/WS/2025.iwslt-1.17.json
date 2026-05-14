@@ -1,0 +1,23 @@
+{
+  "title": "NAVER LABS Europe Submission to the Instruction-following Track",
+  "authors": [
+    "Beomseok Lee",
+    "Marcelly Zanon Boito",
+    "Laurent Besacier",
+    "Ioan Calapodescu"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Italian",
+    "German"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T17 Multimodality, Cross-modality",
+    "T24 Speech Resources and Processing"
+  ],
+  "paper_id": "2025.iwslt-1.17",
+  "acl_url": "https://aclanthology.org/2025.iwslt-1.17/"
+}

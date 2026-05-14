@@ -1,0 +1,28 @@
+{
+  "title": "Team A at SemEval-2025 Task 11: Breaking Language Barriers in Emotion Detection with Multilingual Models",
+  "authors": [
+    "P Sam Sahil",
+    "Anupam Jamatia"
+  ],
+  "languages": [
+    "Amharic",
+    "Arabic",
+    "Chinese",
+    "English",
+    "German",
+    "Hausa",
+    "Hindi",
+    "Marathi",
+    "Oromo",
+    "Romanian",
+    "Russian",
+    "Spanish",
+    "Ukrainian"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T20 Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.semeval-1.12",
+  "acl_url": "https://aclanthology.org/2025.semeval-1.12/"
+}

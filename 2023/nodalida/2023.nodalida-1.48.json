@@ -1,0 +1,18 @@
+{
+  "title": "Quasi: a synthetic Question-Answering dataset in Swedish using GPT-3 and zero-shot learning",
+  "authors": [
+    "Dmytro Kalpakchi",
+    "Johan Boye"
+  ],
+  "languages": [
+    "Swedish",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T10 Question Answering",
+    "T29 NLP for education"
+  ],
+  "paper_id": "2023.nodalida-1.48",
+  "acl_url": "https://aclanthology.org/2023.nodalida-1.48/"
+}

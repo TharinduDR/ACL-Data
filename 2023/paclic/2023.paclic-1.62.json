@@ -1,0 +1,26 @@
+{
+  "title": "Mukhyansh: A Headline Generation Dataset for Indic Languages",
+  "authors": [
+    "Lokesh Madasu",
+    "Gopichand Kanumolu",
+    "Nirmal Surange",
+    "Manish Shrivastava"
+  ],
+  "languages": [
+    "Telugu",
+    "Tamil",
+    "Kannada",
+    "Malayalam",
+    "Hindi",
+    "Bengali",
+    "Marathi",
+    "Gujarati"
+  ],
+  "research_areas": [
+    "T18 Text Summarization",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2023.paclic-1.62",
+  "acl_url": "https://aclanthology.org/2023.paclic-1.62/"
+}

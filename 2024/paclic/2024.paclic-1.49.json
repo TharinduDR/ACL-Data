@@ -1,0 +1,23 @@
+{
+  "title": "KALAH: A handcrafted, grassroots cultural LLM evaluation suite for Filipino",
+  "authors": [
+    "Jann Railey Montalan",
+    "Jian Gang Ngui",
+    "Wei Qi Leong",
+    "Yosephine Susanto",
+    "Hamsawardhini Rengarajan",
+    "Alham Fikri Aji",
+    "William Chandra Tjhi"
+  ],
+  "languages": [
+    "Filipino",
+    "English"
+  ],
+  "research_areas": [
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
+  ],
+  "paper_id": "2024.paclic-1.49",
+  "acl_url": "https://aclanthology.org/2024.paclic-1.49/"
+}

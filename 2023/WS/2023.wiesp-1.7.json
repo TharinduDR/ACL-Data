@@ -1,0 +1,39 @@
+{
+  "title": "AstroLLaMA: Towards Specialized Foundation Models in Astronomy",
+  "authors": [
+    "Tuan Dung Nguyen",
+    "Yuan-Sen Ting",
+    "Ioana Ciucă",
+    "Charles O'Neill",
+    "Ze-Chang Sun",
+    "Maja Jabłońka",
+    "Sandro Kruk",
+    "Ernest Perkowski",
+    "Jack Miller",
+    "Jason Jingshi Li",
+    "Josh Peek",
+    "Kartheik Iyer",
+    "Tomasz Różąński",
+    "Pranav Khetarpal",
+    "Sharaf Zaman",
+    "David Brodrick",
+    "Sergio J. Rodríguez Méndez",
+    "Thang Bui",
+    "Alyssa Goodman",
+    "Alberto Accomazzi",
+    "Jill Naiman",
+    "Jesse Cranney",
+    "Kevin Schawinski",
+    "Roberta Râileanu"
+  ],
+  "languages": [
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T18 Text Summarization",
+    "T10 Question Answering"
+  ],
+  "paper_id": "2023.wiesp-1.7",
+  "acl_url": "https://aclanthology.org/2023.wiesp-1.7/"
+}

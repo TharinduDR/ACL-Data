@@ -1,0 +1,25 @@
+{
+  "title": "Adapting Multilingual LLMs to Low-Resource Languages using Continued Pre-training and Synthetic Corpus: A Case Study for Hindi LLMs",
+  "authors": [
+    "Raviraj Joshi",
+    "Kanishk Singla",
+    "Anusha Kamath",
+    "Raunak Kalani",
+    "Rakesh Paul",
+    "Utkarsh Vaidya",
+    "Sanjay Singh Chauhan",
+    "Niranjan Wartikar",
+    "Eileen Long"
+  ],
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T16 Machine Translation",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2025.indonlp-1.6",
+  "acl_url": "https://aclanthology.org/2025.indonlp-1.6/"
+}

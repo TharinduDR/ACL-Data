@@ -1,0 +1,34 @@
+{
+  "title": "Comparing LLM prompting with Cross-lingual transfer performance on Indigenous and Low-resource Brazilian Languages",
+  "authors": [
+    "David Ifeoluwa Adelani",
+    "A. Seza Doğruöz",
+    "André Coneglian",
+    "Atul Kr. Ojha"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Apurinã",
+    "Akuntsu",
+    "Karo",
+    "Bororo",
+    "Guajajara",
+    "Madi-Jarawara",
+    "Makurap",
+    "Munduruku",
+    "Tupinamba",
+    "Kaapor",
+    "Xavante",
+    "Nheengatu",
+    "Wolof",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
+  ],
+  "paper_id": "2024.americasnlp-1.5",
+  "acl_url": "https://aclanthology.org/2024.americasnlp-1.5/"
+}

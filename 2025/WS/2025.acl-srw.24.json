@@ -1,0 +1,48 @@
+{
+  "title": "small Models, BIG Impact: Efficient Corpus and Graph-Based Adaptation of Small Multilingual Language Models for Low-Resource Languages",
+  "authors": [
+    "Daniil Gurgurov",
+    "Ivan Vykopál",
+    "Josef van Genabith",
+    "Simon Ostermann"
+  ],
+  "languages": [
+    "Thai",
+    "Romanian",
+    "Bulgarian",
+    "Danish",
+    "Greek",
+    "Hebrew",
+    "Slovak",
+    "Slovenian",
+    "Latvian",
+    "Indonesian",
+    "Georgian",
+    "Bengali",
+    "Azerbaijani",
+    "Urdu",
+    "Macedonian",
+    "Telugu",
+    "Nepali",
+    "Marathi",
+    "Swahili",
+    "Welsh",
+    "Uzbek",
+    "Javanese",
+    "Sundanese",
+    "Sinhala",
+    "Amharic",
+    "Kurdish",
+    "Uyghur",
+    "Maltese",
+    "Tibetan",
+    "Yoruba"
+  ],
+  "research_areas": [
+    "T14 Language Modeling",
+    "T11 Information Extraction",
+    "T20 Opinion & Argument Mining, Sentiment Analysis, Emotion Recognition/Generation"
+  ],
+  "paper_id": "2025.acl-srw.24",
+  "acl_url": "https://aclanthology.org/2025.acl-srw.24/"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Gender-specific Machine Translation with Large Language Models",
+  "authors": [
+    "Eduardo Sánchez",
+    "Pierre Andrews",
+    "Pontus Stenetorp",
+    "Mikel Artetxe",
+    "Marta R. Costa-jussà"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Russian",
+    "Swedish",
+    "Ukrainian",
+    "Chinese",
+    "Cantonese",
+    "Persian",
+    "Punjabi",
+    "Uyghur",
+    "Zulu",
+    "Xhosa",
+    "Indonesian"
+  ],
+  "research_areas": [
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
+  ],
+  "paper_id": "2024.mrl-1.10",
+  "acl_url": "https://aclanthology.org/2024.mrl-1.10/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Utilizing BERT for Question Retrieval in Vietnamese E-commerce Sites",
+  "authors": [
+    "Thi-Thanh Ha",
+    "Van-Nha Nguyen",
+    "Kim-Anh Nguyen",
+    "Kiem-Hieu Nguyen",
+    "Tien-Thanh Nguyen"
+  ],
+  "languages": [
+    "Vietnamese"
+  ],
+  "research_areas": [
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
+  ],
+  "paper_id": "2020.paclic-1.11",
+  "acl_url": "https://aclanthology.org/2020.paclic-1.11/"
+}
