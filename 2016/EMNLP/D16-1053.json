@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T14",
-    "T20",
-    "T09"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T09 Inference and Reasoning"
   ],
   "paper_id": "D16-1053",
   "acl_url": "https://aclanthology.org/D16-1053/"

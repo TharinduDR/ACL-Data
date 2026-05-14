@@ -8,9 +8,9 @@
     "English"
   ],
   "research_areas": [
-    "T08",
-    "T10",
-    "T20"
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
   ],
   "paper_id": "C16-1260",
   "acl_url": "https://aclanthology.org/C16-1260/"

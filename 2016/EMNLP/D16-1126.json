@@ -10,9 +10,9 @@
     "English"
   ],
   "research_areas": [
-    "T14",
-    "T15",
-    "T28"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
   ],
   "paper_id": "D16-1126",
   "acl_url": "https://aclanthology.org/D16-1126/"

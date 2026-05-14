@@ -11,10 +11,10 @@
     "English"
   ],
   "research_areas": [
-    "T03",
-    "T11",
-    "T13",
-    "T26"
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
   ],
   "paper_id": "L16-1505",
   "acl_url": "https://aclanthology.org/L16-1505/"

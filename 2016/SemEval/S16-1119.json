@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T12",
-    "T14",
-    "T15"
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics"
   ],
   "paper_id": "S16-1119",
   "acl_url": "https://aclanthology.org/S16-1119/"

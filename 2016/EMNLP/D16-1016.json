@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T10",
-    "T17",
-    "T21"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "D16-1016",
   "acl_url": "https://aclanthology.org/D16-1016/"

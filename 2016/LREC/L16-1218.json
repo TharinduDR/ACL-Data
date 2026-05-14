@@ -8,7 +8,6 @@
     "French",
     "English",
     "Greek",
-    "Latin",
     "Occitan",
     "Old French",
     "Italian",
@@ -29,7 +28,7 @@
   ],
   "research_areas": [
     "T15 Lexicon and Semantics",
-    "T13 Knowledge discovery/representation",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "L16-1218",

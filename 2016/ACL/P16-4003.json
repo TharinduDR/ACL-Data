@@ -12,9 +12,9 @@
     "Russian"
   ],
   "research_areas": [
-    "T13",
-    "T11",
-    "T21"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "P16-4003",
   "acl_url": "https://aclanthology.org/P16-4003/"

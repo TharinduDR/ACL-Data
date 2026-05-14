@@ -11,9 +11,9 @@
     "English"
   ],
   "research_areas": [
-    "T10",
-    "T11",
-    "T15"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics"
   ],
   "paper_id": "D16-1014",
   "acl_url": "https://aclanthology.org/D16-1014/"
