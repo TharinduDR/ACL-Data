@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T11",
-    "T13",
-    "T25"
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T25 Legal NLP"
   ],
   "paper_id": "N15-3005",
   "acl_url": "https://aclanthology.org/N15-3005/"

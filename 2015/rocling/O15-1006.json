@@ -15,9 +15,9 @@
     "Chinese"
   ],
   "research_areas": [
-    "T10",
-    "T12",
-    "T29"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "O15-1006",
   "acl_url": "https://aclanthology.org/O15-1006/"

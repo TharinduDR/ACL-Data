@@ -10,10 +10,10 @@
     "English"
   ],
   "research_areas": [
-    "T02",
-    "T11",
-    "T15",
-    "T21"
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "S15-2142",
   "acl_url": "https://aclanthology.org/S15-2142/"

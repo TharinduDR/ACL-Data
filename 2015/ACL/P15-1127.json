@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T11",
-    "T13",
-    "T21"
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "P15-1127",
   "acl_url": "https://aclanthology.org/P15-1127/"

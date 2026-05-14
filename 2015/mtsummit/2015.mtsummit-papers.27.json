@@ -6,14 +6,13 @@
   "languages": [
     "English",
     "Italian",
-    "Latin",
     "Spanish",
     "French",
     "German",
     "Finnish",
     "Portuguese",
     "Russian",
-    "Serbo-Croatian",
+    "Serbian",
     "Chinese",
     "Japanese",
     "Polish",
@@ -23,9 +22,9 @@
     "Danish"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T15 Lexicon and Semantics",
-    "T16 Machine Translation and Translation Aids"
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "2015.mtsummit-papers.27",
   "acl_url": "https://aclanthology.org/2015.mtsummit-papers.27/"

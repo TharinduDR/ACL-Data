@@ -11,8 +11,8 @@
     "Spanish"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
     "T18 Text Summarization"
   ],
   "paper_id": "N15-1042",

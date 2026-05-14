@@ -11,9 +11,9 @@
     "English"
   ],
   "research_areas": [
-    "T13",
-    "T14",
-    "T23"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T23 Social Media Processing"
   ],
   "paper_id": "N15-1131",
   "acl_url": "https://aclanthology.org/N15-1131/"

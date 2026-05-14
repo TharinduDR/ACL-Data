@@ -7,13 +7,12 @@
     "English",
     "French",
     "German",
-    "Danish",
-    "American English"
+    "Danish"
   ],
   "research_areas": [
-    "T20",
-    "T23",
-    "T28"
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
   ],
   "paper_id": "P15-1073",
   "acl_url": "https://aclanthology.org/P15-1073/"
