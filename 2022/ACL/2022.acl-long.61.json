@@ -9,12 +9,12 @@
     "Chinese",
     "English",
     "Maltese",
-    "Achinese",
+    "Acehnese",
     "Bashkir",
-    "Crimean Turkish",
-    "Hakka Chinese",
+    "Crimean Tatar",
+    "Hakka",
     "Igbo",
-    "Ilokano",
+    "Ilocano",
     "Kinyarwanda",
     "Eastern Mari",
     "Maori",
@@ -29,7 +29,7 @@
     "Erzya"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T15 Lexicon and Semantics",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],

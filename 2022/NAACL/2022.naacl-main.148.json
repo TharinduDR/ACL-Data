@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T29",
-    "T10",
-    "T27"
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages"
   ],
   "paper_id": "2022.naacl-main.148",
   "acl_url": "https://aclanthology.org/2022.naacl-main.148/"

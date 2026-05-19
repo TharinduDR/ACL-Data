@@ -15,8 +15,8 @@
   ],
   "research_areas": [
     "T09 Inference and Reasoning",
-    "T14 Language Modeling",
-    "T29 NLP for education"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "2022.findings-emnlp.79",
   "acl_url": "https://aclanthology.org/2022.findings-emnlp.79/"

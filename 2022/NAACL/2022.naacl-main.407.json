@@ -11,10 +11,10 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T27 Code generation and programming languages",
     "T25 Legal NLP",
-    "T26 Clinical/biomedical NLP",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
     "T23 Social Media Processing"
   ],
   "paper_id": "2022.naacl-main.407",

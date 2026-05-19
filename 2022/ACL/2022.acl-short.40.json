@@ -15,12 +15,11 @@
     "Korean",
     "Russian",
     "Swahili",
-    "Telugu",
-    "Kiswahili"
+    "Telugu"
   ],
   "research_areas": [
-    "T10 Question Answering",
-    "T16 Machine Translation and Translation Aids"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "2022.acl-short.40",
   "acl_url": "https://aclanthology.org/2022.acl-short.40/"

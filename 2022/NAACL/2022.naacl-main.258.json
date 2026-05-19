@@ -15,9 +15,9 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
-    "T19 Text Summarization"
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
   ],
   "paper_id": "2022.naacl-main.258",
   "acl_url": "https://aclanthology.org/2022.naacl-main.258/"

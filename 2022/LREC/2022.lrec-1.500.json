@@ -7,12 +7,12 @@
     "Barbara Schuppler"
   ],
   "languages": [
-    "Austrian German"
+    "German"
   ],
   "research_areas": [
-    "T24 Speech Resources and Processing",
-    "T14 Language Modeling",
-    "T13 Knowledge discovery/representation"
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
   ],
   "paper_id": "2022.lrec-1.500",
   "acl_url": "https://aclanthology.org/2022.lrec-1.500/"

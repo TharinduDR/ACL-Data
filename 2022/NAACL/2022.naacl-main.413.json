@@ -10,8 +10,8 @@
   ],
   "research_areas": [
     "T09 Inference and Reasoning",
-    "T14 Language Modeling",
-    "T28 AI-Generated Text Detection and Provenance"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
   ],
   "paper_id": "2022.naacl-main.413",
   "acl_url": "https://aclanthology.org/2022.naacl-main.413/"

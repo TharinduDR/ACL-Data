@@ -13,9 +13,9 @@
     "Chinese"
   ],
   "research_areas": [
-    "T14",
-    "T20",
-    "T18"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T18 Text Summarization"
   ],
   "paper_id": "2022.findings-emnlp.312",
   "acl_url": "https://aclanthology.org/2022.findings-emnlp.312/"

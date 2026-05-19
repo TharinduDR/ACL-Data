@@ -9,9 +9,9 @@
     "Arabic"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T20 Opinion & Argument Mining",
-    "T29 NLP for education"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "2022.paclic-1.54",
   "acl_url": "https://aclanthology.org/2022.paclic-1.54/"

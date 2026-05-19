@@ -42,12 +42,9 @@
     "Nepali",
     "Odia",
     "Gujarati",
-    "Bengali",
     "Basque",
     "Catalan",
-    "Vietnamese",
-    "Chinese (simplified)",
-    "Chinese (traditional)"
+    "Vietnamese"
   ],
   "research_areas": [
     "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
