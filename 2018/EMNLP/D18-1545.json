@@ -11,13 +11,13 @@
     "Telugu",
     "Coptic",
     "Irish",
-    "North Sami",
+    "Northern Sami",
     "Hungarian",
     "Vietnamese",
     "Turkish",
     "Greek",
     "Gothic",
-    "Old Slavic",
+    "Old Church Slavonic",
     "Afrikaans",
     "Latvian",
     "Danish",
@@ -26,7 +26,7 @@
     "Ukrainian"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "D18-1545",

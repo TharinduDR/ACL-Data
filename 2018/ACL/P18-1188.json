@@ -14,8 +14,8 @@
   ],
   "research_areas": [
     "T18 Text Summarization",
-    "T10 Question Answering",
-    "T17 Multimodality, Cross-modality"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
   ],
   "paper_id": "P18-1188",
   "acl_url": "https://aclanthology.org/P18-1188/"

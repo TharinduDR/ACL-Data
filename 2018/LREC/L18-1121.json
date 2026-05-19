@@ -9,11 +9,11 @@
     "English"
   ],
   "research_areas": [
-    "T02",
-    "T03",
-    "T17",
-    "T24",
-    "T29"
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "L18-1121",
   "acl_url": "https://aclanthology.org/L18-1121/"

@@ -22,7 +22,7 @@
     "Portuguese",
     "Romanian",
     "Slovak",
-    "Slovene",
+    "Slovenian",
     "Swedish",
     "Bulgarian",
     "Czech",
@@ -33,8 +33,8 @@
     "Lithuanian"
   ],
   "research_areas": [
-    "T13",
-    "T16"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "L18-1149",
   "acl_url": "https://aclanthology.org/L18-1149/"

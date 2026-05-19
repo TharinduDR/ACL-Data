@@ -11,9 +11,9 @@
     "Portuguese"
   ],
   "research_areas": [
-    "T11",
-    "T20",
-    "T28"
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
   ],
   "paper_id": "P18-1174",
   "acl_url": "https://aclanthology.org/P18-1174/"

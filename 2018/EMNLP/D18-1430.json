@@ -10,8 +10,8 @@
     "Chinese"
   ],
   "research_areas": [
-    "T14",
-    "T28"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
   ],
   "paper_id": "D18-1430",
   "acl_url": "https://aclanthology.org/D18-1430/"

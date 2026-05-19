@@ -14,7 +14,6 @@
     "German",
     "Chinese",
     "French",
-    "Brazilian Portuguese",
     "Persian",
     "Punjabi",
     "Uyghur",
@@ -23,9 +22,9 @@
     "Indonesian"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T15 Lexicon and Semantics",
-    "T16 Machine Translation and Translation Aids"
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "L18-1211",
   "acl_url": "https://aclanthology.org/L18-1211/"

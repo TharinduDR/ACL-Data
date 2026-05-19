@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T14",
-    "T21",
-    "T29"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "D18-1472",
   "acl_url": "https://aclanthology.org/D18-1472/"

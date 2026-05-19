@@ -6,12 +6,10 @@
   ],
   "languages": [
     "Arabic",
-    "Azeri",
+    "Azerbaijani",
     "Bashkir",
     "Basque",
-    "Classical-Syriac",
     "Croatian",
-    "Crimean-Tatar",
     "Finnish",
     "Friulian",
     "French",
@@ -34,7 +32,7 @@
     "Macedonian",
     "Malay",
     "Malayalam",
-    "Mandarin",
+    "Chinese",
     "Marathi",
     "Mongolian",
     "Nepali",
@@ -60,7 +58,7 @@
     "Zulu"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "K18-3014",

@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T11",
-    "T21",
-    "T24"
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
   ],
   "paper_id": "C18-1143",
   "acl_url": "https://aclanthology.org/C18-1143/"

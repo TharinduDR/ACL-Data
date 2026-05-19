@@ -11,9 +11,9 @@
     "English"
   ],
   "research_areas": [
-    "T11",
-    "T21",
-    "T20"
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
   ],
   "paper_id": "K18-2002",
   "acl_url": "https://aclanthology.org/K18-2002/"

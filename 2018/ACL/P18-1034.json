@@ -15,9 +15,9 @@
     "English"
   ],
   "research_areas": [
-    "T10",
-    "T21",
-    "T27"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T27 Code generation and programming languages"
   ],
   "paper_id": "P18-1034",
   "acl_url": "https://aclanthology.org/P18-1034/"

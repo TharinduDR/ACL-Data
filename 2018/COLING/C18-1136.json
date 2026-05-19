@@ -5,7 +5,6 @@
     "Liviu P. Dinu"
   ],
   "languages": [
-    "Latin",
     "French",
     "Italian",
     "Spanish",
@@ -13,9 +12,9 @@
     "Romanian"
   ],
   "research_areas": [
-    "T01",
-    "T08",
-    "T22"
+    "T01 Bias, Guardrails, filters",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
   ],
   "paper_id": "C18-1136",
   "acl_url": "https://aclanthology.org/C18-1136/"

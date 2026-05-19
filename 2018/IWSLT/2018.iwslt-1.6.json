@@ -9,9 +9,9 @@
     "Spanish"
   ],
   "research_areas": [
-    "T16",
-    "T14",
-    "T08"
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],
   "paper_id": "2018.iwslt-1.6",
   "acl_url": "https://aclanthology.org/2018.iwslt-1.6/"

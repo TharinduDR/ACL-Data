@@ -11,9 +11,9 @@
     "German"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T18 Text Summarization",
-    "T16 Machine Translation"
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "D18-1406",
   "acl_url": "https://aclanthology.org/D18-1406/"

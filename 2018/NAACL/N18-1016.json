@@ -12,9 +12,9 @@
     "English"
   ],
   "research_areas": [
-    "T14",
-    "T18",
-    "T05"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization",
+    "T05 Discourse and Pragmatics"
   ],
   "paper_id": "N18-1016",
   "acl_url": "https://aclanthology.org/N18-1016/"

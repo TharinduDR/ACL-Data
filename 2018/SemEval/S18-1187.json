@@ -11,8 +11,8 @@
   ],
   "research_areas": [
     "T09 Inference and Reasoning",
-    "T10 Question Answering",
-    "T20 Opinion & Argument Mining"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
   ],
   "paper_id": "S18-1187",
   "acl_url": "https://aclanthology.org/S18-1187/"

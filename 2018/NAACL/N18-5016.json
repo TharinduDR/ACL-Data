@@ -14,9 +14,9 @@
     "English"
   ],
   "research_areas": [
-    "T11",
-    "T20",
-    "T13"
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
   ],
   "paper_id": "N18-5016",
   "acl_url": "https://aclanthology.org/N18-5016/"

@@ -30,9 +30,9 @@
     "Yoruba"
   ],
   "research_areas": [
-    "T11",
-    "T13",
-    "T16"
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "N18-5009",
   "acl_url": "https://aclanthology.org/N18-5009/"

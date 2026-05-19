@@ -11,8 +11,8 @@
     "Vietnamese"
   ],
   "research_areas": [
-    "T14",
-    "T21"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "D18-1217",
   "acl_url": "https://aclanthology.org/D18-1217/"

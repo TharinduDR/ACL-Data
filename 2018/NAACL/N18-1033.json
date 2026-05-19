@@ -13,9 +13,9 @@
     "French"
   ],
   "research_areas": [
-    "T14",
-    "T16",
-    "T18"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T18 Text Summarization"
   ],
   "paper_id": "N18-1033",
   "acl_url": "https://aclanthology.org/N18-1033/"

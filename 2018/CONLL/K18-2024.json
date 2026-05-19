@@ -23,7 +23,7 @@
     "Danish",
     "Czech",
     "Faroese",
-    "Naija",
+    "Nigerian Pidgin",
     "Swedish",
     "Thai",
     "Upper Sorbian",
@@ -39,10 +39,9 @@
     "Indonesian",
     "Irish",
     "Italian",
-    "Kurmanji",
-    "Latin",
+    "Kurdish",
     "Latvian",
-    "North Sami",
+    "Northern Sami",
     "Norwegian",
     "Old Church Slavonic",
     "Old French",
@@ -54,9 +53,7 @@
     "Slovak",
     "Slovenian",
     "Spanish",
-    "Swedish",
-    "Ukrainian",
-    "Mixed Language"
+    "Ukrainian"
   ],
   "research_areas": [
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"

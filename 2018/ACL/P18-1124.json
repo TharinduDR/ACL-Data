@@ -10,9 +10,9 @@
     "English"
   ],
   "research_areas": [
-    "T03",
-    "T10",
-    "T27"
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T27 Code generation and programming languages"
   ],
   "paper_id": "P18-1124",
   "acl_url": "https://aclanthology.org/P18-1124/"

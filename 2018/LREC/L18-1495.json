@@ -10,9 +10,9 @@
     "Icelandic"
   ],
   "research_areas": [
-    "T24 Speech Resources and Processing",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
     "T15 Lexicon and Semantics",
-    "T14 Language Modeling"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
   ],
   "paper_id": "L18-1495",
   "acl_url": "https://aclanthology.org/L18-1495/"

@@ -11,8 +11,8 @@
   ],
   "research_areas": [
     "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
-    "T14 Language Modeling",
-    "T29 NLP for education"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "D18-1257",
   "acl_url": "https://aclanthology.org/D18-1257/"

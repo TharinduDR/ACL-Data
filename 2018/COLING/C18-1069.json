@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T10",
-    "T11",
-    "T21"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "C18-1069",
   "acl_url": "https://aclanthology.org/C18-1069/"

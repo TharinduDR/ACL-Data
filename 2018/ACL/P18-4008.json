@@ -11,18 +11,18 @@
     "Zulu",
     "Xhosa",
     "Ndebele",
-    "Swati",
+    "Swazi",
     "Sesotho",
     "Setswana",
-    "Sesotho sa Leboa",
-    "Tshivenda",
+    "Northern Sotho",
+    "Venda",
     "Tsonga",
     "Afrikaans"
   ],
   "research_areas": [
-    "T02",
-    "T11",
-    "T21"
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "P18-4008",
   "acl_url": "https://aclanthology.org/P18-4008/"
