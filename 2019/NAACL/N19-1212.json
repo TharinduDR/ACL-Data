@@ -7,9 +7,9 @@
     "English"
   ],
   "research_areas": [
-    "T14",
-    "T15",
-    "T08"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],
   "paper_id": "N19-1212",
   "acl_url": "https://aclanthology.org/N19-1212/"

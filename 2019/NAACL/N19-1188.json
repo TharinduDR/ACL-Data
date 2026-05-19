@@ -33,15 +33,12 @@
     "Zulu",
     "Xhosa",
     "Swahili",
-    "Cantonese",
-    "Mandarin Chinese",
-    "Chinese (Simplified)",
-    "Chinese (Traditional)"
+    "Cantonese"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T15 Lexicon and Semantics",
-    "T16 Machine Translation and Translation Aids"
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "N19-1188",
   "acl_url": "https://aclanthology.org/N19-1188/"

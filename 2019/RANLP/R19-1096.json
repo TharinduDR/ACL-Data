@@ -12,9 +12,9 @@
     "English"
   ],
   "research_areas": [
-    "T13",
-    "T11",
-    "T06"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
   ],
   "paper_id": "R19-1096",
   "acl_url": "https://aclanthology.org/R19-1096/"

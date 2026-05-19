@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T14",
-    "T18",
-    "T29"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "P19-1597",
   "acl_url": "https://aclanthology.org/P19-1597/"

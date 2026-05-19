@@ -11,9 +11,9 @@
     "English"
   ],
   "research_areas": [
-    "T11",
-    "T13",
-    "T09"
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T09 Inference and Reasoning"
   ],
   "paper_id": "N19-1107",
   "acl_url": "https://aclanthology.org/N19-1107/"

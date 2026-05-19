@@ -10,8 +10,8 @@
     "English"
   ],
   "research_areas": [
-    "T14",
-    "T27"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
   ],
   "paper_id": "D19-1677",
   "acl_url": "https://aclanthology.org/D19-1677/"

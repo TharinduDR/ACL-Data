@@ -11,9 +11,9 @@
     "Chinese"
   ],
   "research_areas": [
-    "T14",
-    "T13",
-    "T29"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "P19-1193",
   "acl_url": "https://aclanthology.org/P19-1193/"

@@ -16,12 +16,11 @@
     "German",
     "Japanese",
     "Russian",
-    "Chinese",
-    "Finnish-Japanese"
+    "Chinese"
   ],
   "research_areas": [
-    "T02",
-    "T16"
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "W19-5212",
   "acl_url": "https://aclanthology.org/W19-5212/"

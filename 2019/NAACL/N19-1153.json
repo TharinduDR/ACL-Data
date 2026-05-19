@@ -10,14 +10,13 @@
     "French",
     "German",
     "Dutch",
-    "Latin",
-    "Slovene",
+    "Slovenian",
     "Middle Low German",
     "Old French"
   ],
   "research_areas": [
     "T15 Lexicon and Semantics",
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "N19-1153",

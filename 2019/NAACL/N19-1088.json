@@ -10,8 +10,8 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T28 Authorship Attribution",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
     "T12 Interpretability/explainability of language models and language and speech processing tools"
   ],
   "paper_id": "N19-1088",

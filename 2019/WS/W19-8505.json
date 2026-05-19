@@ -5,13 +5,11 @@
     "Marco Passarotti",
     "Francesco Mambrini"
   ],
-  "languages": [
-    "Latin"
-  ],
+  "languages": [],
   "research_areas": [
-    "T13",
-    "T15",
-    "T21"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "W19-8505",
   "acl_url": "https://aclanthology.org/W19-8505/"

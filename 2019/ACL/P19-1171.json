@@ -15,13 +15,12 @@
     "Swahili",
     "Japanese",
     "Ojibwa",
-    "Hmong",
-    "Austronesian languages"
+    "Hmong"
   ],
   "research_areas": [
     "T15 Lexicon and Semantics",
     "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
-    "T14 Language Modeling"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
   ],
   "paper_id": "P19-1171",
   "acl_url": "https://aclanthology.org/P19-1171/"

@@ -9,9 +9,9 @@
     "Italian"
   ],
   "research_areas": [
-    "T10",
-    "T15",
-    "T13"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T15 Lexicon and Semantics",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
   ],
   "paper_id": "2019.clicit-1.18",
   "acl_url": "https://aclanthology.org/2019.clicit-1.18/"

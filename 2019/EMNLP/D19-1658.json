@@ -14,9 +14,9 @@
     "Russian"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T20 Opinion & Argument Mining, Sentiment Analysis",
-    "T16 Machine Translation and Translation Aids"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "D19-1658",
   "acl_url": "https://aclanthology.org/D19-1658/"

@@ -12,13 +12,13 @@
     "Hungarian",
     "Icelandic",
     "Portuguese",
-    "Slovene",
+    "Slovenian",
     "Swedish"
   ],
   "research_areas": [
-    "T14",
-    "T04",
-    "T08"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],
   "paper_id": "D19-6112",
   "acl_url": "https://aclanthology.org/D19-6112/"

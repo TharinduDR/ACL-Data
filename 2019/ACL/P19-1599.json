@@ -10,9 +10,9 @@
     "English"
   ],
   "research_areas": [
-    "T14",
-    "T21",
-    "T18"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T18 Text Summarization"
   ],
   "paper_id": "P19-1599",
   "acl_url": "https://aclanthology.org/P19-1599/"
