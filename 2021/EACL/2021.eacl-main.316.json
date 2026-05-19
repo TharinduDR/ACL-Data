@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T10 Question Answering",
-    "T14 Language Modeling",
-    "T13 Knowledge discovery/representation"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
   ],
   "paper_id": "2021.eacl-main.316",
   "acl_url": "https://aclanthology.org/2021.eacl-main.316/"

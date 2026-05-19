@@ -10,9 +10,9 @@
     "German"
   ],
   "research_areas": [
-    "T16",
-    "T20",
-    "T11"
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
   ],
   "paper_id": "2021.findings-acl.209",
   "acl_url": "https://aclanthology.org/2021.findings-acl.209/"

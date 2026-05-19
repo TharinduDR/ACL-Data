@@ -10,9 +10,9 @@
     "English"
   ],
   "research_areas": [
-    "T11",
-    "T14",
-    "T20"
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
   ],
   "paper_id": "2021.paclic-1.13",
   "acl_url": "https://aclanthology.org/2021.paclic-1.13/"

@@ -11,8 +11,8 @@
     "Chinese"
   ],
   "research_areas": [
-    "T14",
-    "T21"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "2021.ccl-1.61",
   "acl_url": "https://aclanthology.org/2021.ccl-1.61/"

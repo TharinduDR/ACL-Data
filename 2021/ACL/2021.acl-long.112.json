@@ -8,9 +8,9 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T15 Lexicon and Semantics",
-    "T10 Question Answering"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
   ],
   "paper_id": "2021.acl-long.112",
   "acl_url": "https://aclanthology.org/2021.acl-long.112/"

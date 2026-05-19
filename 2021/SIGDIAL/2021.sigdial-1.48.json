@@ -8,9 +8,9 @@
     "English"
   ],
   "research_areas": [
-    "T03",
-    "T10",
-    "T18"
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization"
   ],
   "paper_id": "2021.sigdial-1.48",
   "acl_url": "https://aclanthology.org/2021.sigdial-1.48/"

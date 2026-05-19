@@ -10,9 +10,9 @@
     "English"
   ],
   "research_areas": [
-    "T13",
-    "T15",
-    "T03"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
   ],
   "paper_id": "2021.ranlp-1.2",
   "acl_url": "https://aclanthology.org/2021.ranlp-1.2/"

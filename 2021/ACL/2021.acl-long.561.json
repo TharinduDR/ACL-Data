@@ -14,16 +14,15 @@
     "German",
     "Hungarian",
     "Italian",
-    "Latin",
     "Norwegian",
     "Portuguese",
     "Spanish",
     "Swedish"
   ],
   "research_areas": [
-    "T14",
-    "T16",
-    "T04"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
   ],
   "paper_id": "2021.acl-long.561",
   "acl_url": "https://aclanthology.org/2021.acl-long.561/"

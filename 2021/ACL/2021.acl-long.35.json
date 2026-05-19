@@ -10,8 +10,8 @@
   ],
   "research_areas": [
     "T18 Text Summarization",
-    "T14 Language Modeling",
-    "T13 Knowledge discovery/representation"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
   ],
   "paper_id": "2021.acl-long.35",
   "acl_url": "https://aclanthology.org/2021.acl-long.35/"

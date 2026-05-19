@@ -12,9 +12,9 @@
     "French"
   ],
   "research_areas": [
-    "T13",
-    "T15",
-    "T09"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T15 Lexicon and Semantics",
+    "T09 Inference and Reasoning"
   ],
   "paper_id": "2021.starsem-1.8",
   "acl_url": "https://aclanthology.org/2021.starsem-1.8/"

@@ -10,16 +10,16 @@
     "Russian",
     "Romanian",
     "Estonian",
-    "Sinhalese",
-    "Nepalese",
+    "Sinhala",
+    "Nepali",
     "Czech",
     "Japanese",
     "Pashto",
     "Khmer"
   ],
   "research_areas": [
-    "T16",
-    "T08"
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],
   "paper_id": "2021.wmt-1.91",
   "acl_url": "https://aclanthology.org/2021.wmt-1.91/"

@@ -11,9 +11,9 @@
     "English"
   ],
   "research_areas": [
-    "T10",
-    "T15",
-    "T21"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T15 Lexicon and Semantics",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "2021.paclic-1.79",
   "acl_url": "https://aclanthology.org/2021.paclic-1.79/"

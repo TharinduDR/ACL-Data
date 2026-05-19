@@ -12,9 +12,9 @@
     "English"
   ],
   "research_areas": [
-    "T24",
-    "T11",
-    "T21"
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "2021.acl-long.15",
   "acl_url": "https://aclanthology.org/2021.acl-long.15/"

@@ -24,9 +24,9 @@
     "Xhosa"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
-    "T16 Machine Translation and Translation Aids"
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "2021.findings-emnlp.279",
   "acl_url": "https://aclanthology.org/2021.findings-emnlp.279/"

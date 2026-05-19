@@ -9,10 +9,10 @@
     "English"
   ],
   "research_areas": [
-    "T12",
-    "T20",
-    "T21",
-    "T22"
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
   ],
   "paper_id": "2021.paclic-1.4",
   "acl_url": "https://aclanthology.org/2021.paclic-1.4/"
