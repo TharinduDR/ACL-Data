@@ -12,9 +12,9 @@
     "English"
   ],
   "research_areas": [
-    "T10",
-    "T15",
-    "T08"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T15 Lexicon and Semantics",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],
   "paper_id": "2020.starsem-1.2",
   "acl_url": "https://aclanthology.org/2020.starsem-1.2/"

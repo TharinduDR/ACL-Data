@@ -9,9 +9,8 @@
     "French",
     "English",
     "Portuguese",
-    "Mandarin Chinese",
-    "Cantonese",
     "Chinese",
+    "Cantonese",
     "Russian",
     "Spanish",
     "Vietnamese",
@@ -21,8 +20,8 @@
     "Malayalam"
   ],
   "research_areas": [
-    "T24 Speech Resources and Processing",
-    "T29 NLP for education"
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "2020.lrec-1.815",
   "acl_url": "https://aclanthology.org/2020.lrec-1.815/"

@@ -10,9 +10,9 @@
     "English"
   ],
   "research_areas": [
-    "T11",
-    "T20",
-    "T15"
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T15 Lexicon and Semantics"
   ],
   "paper_id": "2020.lrec-1.259",
   "acl_url": "https://aclanthology.org/2020.lrec-1.259/"

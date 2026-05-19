@@ -11,11 +11,11 @@
     "Hungarian",
     "Icelandic",
     "Portuguese",
-    "Slovene"
+    "Slovenian"
   ],
   "research_areas": [
     "T15 Lexicon and Semantics",
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
   ],
   "paper_id": "2020.acl-main.650",

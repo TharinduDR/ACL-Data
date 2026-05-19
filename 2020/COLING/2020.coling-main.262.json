@@ -8,9 +8,9 @@
     "Chinese"
   ],
   "research_areas": [
-    "T10 Question Answering",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
-    "T29 NLP for education"
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "2020.coling-main.262",
   "acl_url": "https://aclanthology.org/2020.coling-main.262/"

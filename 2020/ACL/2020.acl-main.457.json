@@ -10,8 +10,8 @@
   ],
   "research_areas": [
     "T18 Text Summarization",
-    "T13 Knowledge discovery/representation",
-    "T10 Question Answering"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
   ],
   "paper_id": "2020.acl-main.457",
   "acl_url": "https://aclanthology.org/2020.acl-main.457/"

@@ -7,7 +7,7 @@
   ],
   "languages": [
     "Amharic",
-    "Tigrigna",
+    "Tigrinya",
     "Oromo",
     "Wolaytta",
     "Korean",
@@ -31,11 +31,10 @@
     "Hausa",
     "Persian",
     "Indonesian",
-    "Mandarin",
     "English"
   ],
   "research_areas": [
-    "T24 Speech Resources and Processing",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
     "T15 Lexicon and Semantics",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
