@@ -11,9 +11,9 @@
     "English"
   ],
   "research_areas": [
-    "T10",
-    "T13",
-    "T29"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "I17-4032",
   "acl_url": "https://aclanthology.org/I17-4032/"

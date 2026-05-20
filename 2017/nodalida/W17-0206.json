@@ -9,9 +9,9 @@
     "German"
   ],
   "research_areas": [
-    "T01",
-    "T11",
-    "T21"
+    "T01 Bias, Guardrails, filters",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "W17-0206",
   "acl_url": "https://aclanthology.org/W17-0206/"

@@ -3,12 +3,10 @@
   "authors": [
     "Yu-Chu Chang"
   ],
-  "languages": [
-    "Taiwanese"
-  ],
+  "languages": [],
   "research_areas": [
-    "T13",
-    "T24"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
   ],
   "paper_id": "O17-1001",
   "acl_url": "https://aclanthology.org/O17-1001/"

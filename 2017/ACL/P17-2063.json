@@ -6,21 +6,17 @@
   ],
   "languages": [
     "Bosnian",
-    "Argentine Spanish",
-    "Peninsular Spanish",
-    "Mexican Spanish",
-    "Canadian French",
-    "Hexagonal French",
+    "Spanish",
+    "French",
     "Croatian",
     "Indonesian",
     "Malay",
-    "Brazilian Portuguese",
-    "European Portuguese",
+    "Portuguese",
     "Serbian"
   ],
   "research_areas": [
-    "T08",
-    "T16"
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "P17-2063",
   "acl_url": "https://aclanthology.org/P17-2063/"

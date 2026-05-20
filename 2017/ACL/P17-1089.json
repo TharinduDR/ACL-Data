@@ -11,9 +11,9 @@
     "English"
   ],
   "research_areas": [
-    "T11",
-    "T21",
-    "T29"
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "P17-1089",
   "acl_url": "https://aclanthology.org/P17-1089/"

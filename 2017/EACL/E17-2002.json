@@ -14,20 +14,17 @@
     "English",
     "French",
     "Romanian",
-    "Hindi",
     "Tamil",
     "Telugu",
     "Malagasy",
     "Kazakh",
     "German",
-    "Swedish",
-    "French",
-    "Malagasy"
+    "Swedish"
   ],
   "research_areas": [
-    "T13",
-    "T14",
-    "T21"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "E17-2002",
   "acl_url": "https://aclanthology.org/E17-2002/"

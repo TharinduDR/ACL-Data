@@ -12,9 +12,9 @@
   ],
   "research_areas": [
     "T06 Information Retrieval and Cross-lingual Retrieval",
-    "T10 Question Answering",
-    "T11 Information Extraction",
-    "T29 NLP for education"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "I17-1097",
   "acl_url": "https://aclanthology.org/I17-1097/"

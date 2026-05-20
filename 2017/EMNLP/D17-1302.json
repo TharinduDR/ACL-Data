@@ -23,9 +23,9 @@
     "Hungarian"
   ],
   "research_areas": [
-    "T11",
-    "T14",
-    "T21"
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "D17-1302",
   "acl_url": "https://aclanthology.org/D17-1302/"

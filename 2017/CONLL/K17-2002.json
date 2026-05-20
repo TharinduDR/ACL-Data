@@ -16,7 +16,6 @@
     "Czech",
     "Danish",
     "Dutch",
-    "English",
     "Estonian",
     "Finnish",
     "French",
@@ -50,8 +49,8 @@
     "Yiddish"
   ],
   "research_areas": [
-    "T14",
-    "T21"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "K17-2002",
   "acl_url": "https://aclanthology.org/K17-2002/"
