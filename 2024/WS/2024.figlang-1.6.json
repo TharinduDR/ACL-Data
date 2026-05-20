@@ -9,15 +9,14 @@
     "German",
     "Russian",
     "French",
-    "Latin",
     "Chinese",
     "Czech",
     "Japanese"
   ],
   "research_areas": [
-    "T13",
-    "T14",
-    "T22"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories"
   ],
   "paper_id": "2024.figlang-1.6",
   "acl_url": "https://aclanthology.org/2024.figlang-1.6/"

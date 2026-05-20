@@ -10,9 +10,9 @@
     "English"
   ],
   "research_areas": [
-    "T10",
-    "T14",
-    "T19"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
   ],
   "paper_id": "2024.nlp4pi-1.16",
   "acl_url": "https://aclanthology.org/2024.nlp4pi-1.16/"

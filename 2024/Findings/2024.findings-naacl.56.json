@@ -8,9 +8,9 @@
     "English"
   ],
   "research_areas": [
-    "T14",
-    "T08",
-    "T06"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
   ],
   "paper_id": "2024.findings-naacl.56",
   "acl_url": "https://aclanthology.org/2024.findings-naacl.56/"

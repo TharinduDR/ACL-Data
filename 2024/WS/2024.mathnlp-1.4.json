@@ -10,9 +10,9 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T10 Question Answering",
-    "T29 NLP for education"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "2024.mathnlp-1.4",
   "acl_url": "https://aclanthology.org/2024.mathnlp-1.4/"

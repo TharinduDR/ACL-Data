@@ -14,7 +14,7 @@
     "Cantonese",
     "Erzya",
     "Faroese",
-    "Komi Ziryan",
+    "Komi-Zyrian",
     "Livvi",
     "Upper Sorbian",
     "Uyghur",
@@ -23,7 +23,6 @@
     "Kinyarwanda",
     "Luganda",
     "Luo",
-    "Nigerian-Pidgin",
     "Swahili",
     "Wolof",
     "Yoruba",
@@ -32,8 +31,8 @@
     "Norwegian"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T17 Multimodality, Cross-modality",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "2024.lrec-main.983",

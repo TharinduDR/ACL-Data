@@ -8,11 +8,11 @@
   "languages": [
     "Wolof",
     "Pulaar",
-    "Sereer"
+    "Seereer"
   ],
   "research_areas": [
-    "T24 Speech Resources and Processing",
-    "T13 Knowledge discovery/representation"
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
   ],
   "paper_id": "2024.rail-1.2",
   "acl_url": "https://aclanthology.org/2024.rail-1.2/"

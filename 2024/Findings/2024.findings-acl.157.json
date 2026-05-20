@@ -15,12 +15,12 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T10 Question Answering",
-    "T11 Information Extraction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
     "T18 Text Summarization",
-    "T20 Sentiment Analysis",
-    "T26 Clinical/biomedical NLP"
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
   ],
   "paper_id": "2024.findings-acl.157",
   "acl_url": "https://aclanthology.org/2024.findings-acl.157/"

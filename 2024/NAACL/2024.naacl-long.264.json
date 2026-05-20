@@ -13,9 +13,9 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T17 Multimodality, Cross-modality",
-    "T10 Question Answering"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
   ],
   "paper_id": "2024.naacl-long.264",
   "acl_url": "https://aclanthology.org/2024.naacl-long.264/"

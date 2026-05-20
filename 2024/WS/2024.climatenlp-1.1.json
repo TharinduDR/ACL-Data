@@ -11,8 +11,8 @@
     "Spanish"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T11 Information Extraction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
     "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms"
   ],
   "paper_id": "2024.climatenlp-1.1",

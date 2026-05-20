@@ -10,9 +10,9 @@
     "English"
   ],
   "research_areas": [
-    "T10",
-    "T20",
-    "T03"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
   ],
   "paper_id": "2024.findings-acl.248",
   "acl_url": "https://aclanthology.org/2024.findings-acl.248/"

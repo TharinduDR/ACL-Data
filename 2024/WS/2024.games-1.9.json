@@ -8,9 +8,9 @@
     "English"
   ],
   "research_areas": [
-    "T14",
-    "T09",
-    "T08"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T09 Inference and Reasoning",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],
   "paper_id": "2024.games-1.9",
   "acl_url": "https://aclanthology.org/2024.games-1.9/"

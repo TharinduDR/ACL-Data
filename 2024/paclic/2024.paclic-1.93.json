@@ -19,7 +19,7 @@
     "Maithili",
     "Malayalam",
     "Marathi",
-    "Meitei (Manipuri)",
+    "Manipuri",
     "Nepali",
     "Odia",
     "Punjabi",
@@ -30,8 +30,8 @@
     "Urdu"
   ],
   "research_areas": [
-    "T10",
-    "T08"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],
   "paper_id": "2024.paclic-1.93",
   "acl_url": "https://aclanthology.org/2024.paclic-1.93/"

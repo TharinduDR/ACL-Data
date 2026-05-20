@@ -10,14 +10,12 @@
   ],
   "languages": [
     "English",
-    "Irish",
-    "Jewish",
-    "Puerto Rican"
+    "Irish"
   ],
   "research_areas": [
     "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
     "T15 Lexicon and Semantics",
-    "T24 Social Media Processing"
+    "T23 Social Media Processing"
   ],
   "paper_id": "2024.nlpcss-1.4",
   "acl_url": "https://aclanthology.org/2024.nlpcss-1.4/"

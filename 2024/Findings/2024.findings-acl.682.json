@@ -11,9 +11,9 @@
     "English"
   ],
   "research_areas": [
-    "T10",
-    "T12",
-    "T28"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
   ],
   "paper_id": "2024.findings-acl.682",
   "acl_url": "https://aclanthology.org/2024.findings-acl.682/"

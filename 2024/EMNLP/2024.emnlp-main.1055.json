@@ -8,7 +8,6 @@
   "languages": [
     "Arabic",
     "Amharic",
-    "Arabic, Egyptian",
     "Belarusian",
     "Danish",
     "German",
@@ -17,9 +16,8 @@
     "French",
     "Ancient Greek",
     "Hebrew",
-    "Hebrew, Unvocalized",
     "Hungarian",
-    "Eastern Armenian",
+    "Armenian",
     "Italian",
     "Japanese",
     "Georgian",
@@ -28,14 +26,14 @@
     "Navajo",
     "Russian",
     "Sanskrit",
-    "Sami",
+    "Northern Sami",
     "Spanish",
     "Albanian",
     "Swahili",
     "Turkish"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "2024.emnlp-main.1055",

@@ -16,11 +16,11 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
     "T27 Code generation and programming languages",
-    "T26 Clinical/biomedical NLP",
-    "T10 Question Answering"
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
   ],
   "paper_id": "2024.emnlp-industry.34",
   "acl_url": "https://aclanthology.org/2024.emnlp-industry.34/"

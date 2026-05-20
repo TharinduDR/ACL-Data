@@ -11,9 +11,9 @@
     "Chinese"
   ],
   "research_areas": [
-    "T11",
-    "T20",
-    "T21"
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "2024.findings-acl.966",
   "acl_url": "https://aclanthology.org/2024.findings-acl.966/"

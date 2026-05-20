@@ -10,17 +10,16 @@
     "Filipino",
     "English",
     "Cebuano",
-    "Bikolano",
+    "Bikol",
     "Hiligaynon",
-    "Ilokano",
+    "Ilocano",
     "Kapampangan",
     "Pangasinan",
-    "Tausug",
-    "Waray-Waray"
+    "Tausug"
   ],
   "research_areas": [
-    "T24 Speech Resources and Processing",
-    "T29 NLP for education"
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "2024.sigul-1.32",
   "acl_url": "https://aclanthology.org/2024.sigul-1.32/"

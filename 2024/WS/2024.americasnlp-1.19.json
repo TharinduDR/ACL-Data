@@ -14,13 +14,13 @@
   ],
   "languages": [
     "Bribri",
-    "Yukatek Maya",
-    "Guaraní"
+    "Yucatec",
+    "Guarani"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
-    "T29 NLP for education"
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "2024.americasnlp-1.19",
   "acl_url": "https://aclanthology.org/2024.americasnlp-1.19/"

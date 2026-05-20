@@ -9,8 +9,8 @@
   ],
   "research_areas": [
     "T06 Information Retrieval and Cross-lingual Retrieval",
-    "T11 Information Extraction",
-    "T10 Question Answering"
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
   ],
   "paper_id": "2024.findings-emnlp.428",
   "acl_url": "https://aclanthology.org/2024.findings-emnlp.428/"

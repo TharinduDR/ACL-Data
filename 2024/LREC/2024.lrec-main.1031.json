@@ -13,7 +13,6 @@
     "Assamese",
     "Awadhi",
     "Bhojpuri",
-    "Bengali",
     "Chhattisgarhi",
     "Kannada",
     "Kashmiri",
@@ -21,7 +20,7 @@
     "Maithili",
     "Malayalam",
     "Marathi",
-    "Meitei",
+    "Manipuri",
     "Burmese",
     "Nepali",
     "Odia",
@@ -36,8 +35,7 @@
     "Tajik",
     "Uyghur",
     "Urdu",
-    "Uzbek",
-    "Latin"
+    "Uzbek"
   ],
   "research_areas": [
     "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",

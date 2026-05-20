@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T26 Clinical/biomedical NLP",
-    "T10 Question Answering"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
   ],
   "paper_id": "2022.coling-1.123",
   "acl_url": "https://aclanthology.org/2022.coling-1.123/"

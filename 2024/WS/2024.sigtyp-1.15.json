@@ -7,7 +7,7 @@
   "languages": [
     "Ancient Greek",
     "Ancient Hebrew",
-    "Classical Chinese",
+    "Chinese",
     "Coptic",
     "Gothic",
     "Medieval Icelandic",
@@ -23,7 +23,7 @@
     "Early Modern Irish"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "2024.sigtyp-1.15",

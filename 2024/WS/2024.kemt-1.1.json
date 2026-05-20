@@ -15,12 +15,12 @@
     "Indonesian",
     "Khmer",
     "Malay",
-    "Myanmar",
+    "Burmese",
     "Vietnamese"
   ],
   "research_areas": [
-    "T16",
-    "T15"
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics"
   ],
   "paper_id": "2024.kemt-1.1",
   "acl_url": "https://aclanthology.org/2024.kemt-1.1/"

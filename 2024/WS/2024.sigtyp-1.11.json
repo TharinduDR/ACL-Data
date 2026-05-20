@@ -15,14 +15,12 @@
     "Danish",
     "Swedish",
     "Chinese",
-    "Korean",
-    "Polynesian",
-    "Ob-Ugrian"
+    "Korean"
   ],
   "research_areas": [
-    "T08",
-    "T22",
-    "T24"
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
   ],
   "paper_id": "2024.sigtyp-1.11",
   "acl_url": "https://aclanthology.org/2024.sigtyp-1.11/"

@@ -13,9 +13,9 @@
     "English"
   ],
   "research_areas": [
-    "T10",
-    "T17",
-    "T18"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T18 Text Summarization"
   ],
   "paper_id": "2024.findings-emnlp.384",
   "acl_url": "https://aclanthology.org/2024.findings-emnlp.384/"

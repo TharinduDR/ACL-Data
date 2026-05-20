@@ -11,9 +11,9 @@
     "English"
   ],
   "research_areas": [
-    "T03",
-    "T14",
-    "T29"
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "2024.findings-acl.578",
   "acl_url": "https://aclanthology.org/2024.findings-acl.578/"

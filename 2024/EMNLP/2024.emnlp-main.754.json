@@ -14,9 +14,9 @@
     "Chinese"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T09 Inference and Reasoning",
-    "T16 Machine Translation"
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "2024.emnlp-main.754",
   "acl_url": "https://aclanthology.org/2024.emnlp-main.754/"

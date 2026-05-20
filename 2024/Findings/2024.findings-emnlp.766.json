@@ -26,8 +26,8 @@
     "Hindi"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T19 Text Simplification",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
     "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
   ],
   "paper_id": "2024.findings-emnlp.766",

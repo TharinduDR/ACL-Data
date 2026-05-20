@@ -7,9 +7,9 @@
     "English"
   ],
   "research_areas": [
-    "T13",
-    "T11",
-    "T09"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T09 Inference and Reasoning"
   ],
   "paper_id": "2024.kallm-1.6",
   "acl_url": "https://aclanthology.org/2024.kallm-1.6/"

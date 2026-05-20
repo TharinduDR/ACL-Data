@@ -19,9 +19,9 @@
     "Tok Pisin"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T16 Machine Translation",
-    "T13 Knowledge discovery/representation"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
   ],
   "paper_id": "2024.inlg-main.7",
   "acl_url": "https://aclanthology.org/2024.inlg-main.7/"

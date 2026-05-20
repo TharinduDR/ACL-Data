@@ -9,15 +9,14 @@
     "English",
     "Spanish",
     "Amharic",
-    "Algerian Arabic",
-    "Moroccan Arabic",
+    "Arabic",
     "Hausa",
     "Marathi",
     "Telugu",
     "Kinyarwanda"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T15 Lexicon and Semantics",
     "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],

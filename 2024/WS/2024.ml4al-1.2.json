@@ -10,9 +10,9 @@
     "Hebrew"
   ],
   "research_areas": [
-    "T14",
-    "T02",
-    "T04"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
   ],
   "paper_id": "2024.ml4al-1.2",
   "acl_url": "https://aclanthology.org/2024.ml4al-1.2/"

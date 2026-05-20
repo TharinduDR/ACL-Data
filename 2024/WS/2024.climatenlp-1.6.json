@@ -11,12 +11,12 @@
     "English"
   ],
   "research_areas": [
-    "T03",
-    "T10",
-    "T11",
-    "T12",
-    "T14",
-    "T28"
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
   ],
   "paper_id": "2024.climatenlp-1.6",
   "acl_url": "https://aclanthology.org/2024.climatenlp-1.6/"

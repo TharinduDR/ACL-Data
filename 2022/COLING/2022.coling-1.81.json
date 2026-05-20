@@ -9,9 +9,9 @@
     "English"
   ],
   "research_areas": [
-    "T13",
-    "T08",
-    "T12"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
   ],
   "paper_id": "2022.coling-1.81",
   "acl_url": "https://aclanthology.org/2022.coling-1.81/"

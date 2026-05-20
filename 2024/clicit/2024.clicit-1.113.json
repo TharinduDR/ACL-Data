@@ -11,11 +11,11 @@
     "English"
   ],
   "research_areas": [
-    "T02",
-    "T03",
-    "T08",
-    "T14",
-    "T26"
+    "T02 Corpora, Treebanks and Annotation; Tools, Systems and Platforms",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
   ],
   "paper_id": "2024.clicit-1.113",
   "acl_url": "https://aclanthology.org/2024.clicit-1.113/"

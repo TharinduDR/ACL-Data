@@ -11,10 +11,10 @@
   ],
   "languages": [],
   "research_areas": [
-    "T13",
-    "T06",
-    "T10",
-    "T11"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
   ],
   "paper_id": "2024.knowllm-1.5",
   "acl_url": "https://aclanthology.org/2024.knowllm-1.5/"

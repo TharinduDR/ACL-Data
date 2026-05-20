@@ -8,8 +8,8 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T20 Sentiment Analysis"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
   ],
   "paper_id": "2024.repl4nlp-1.6",
   "acl_url": "https://aclanthology.org/2024.repl4nlp-1.6/"

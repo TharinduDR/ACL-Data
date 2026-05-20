@@ -13,17 +13,16 @@
     "Amharic",
     "Igbo",
     "Kinyarwanda",
-    "Moroccan Arabic",
     "Nigerian Pidgin",
-    "Mozambican Portuguese",
+    "Portuguese",
     "Swahili",
     "Twi",
     "Yoruba"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T20 Sentiment Analysis",
-    "T19 Text Simplification"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T19 Text Simplification, Plain Language and Assistive Technologies"
   ],
   "paper_id": "2024.naacl-short.39",
   "acl_url": "https://aclanthology.org/2024.naacl-short.39/"

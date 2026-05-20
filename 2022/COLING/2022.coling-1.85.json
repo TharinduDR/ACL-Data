@@ -9,8 +9,8 @@
     "Chinese"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T13 Knowledge discovery/representation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
     "T06 Information Retrieval and Cross-lingual Retrieval"
   ],
   "paper_id": "2022.coling-1.85",

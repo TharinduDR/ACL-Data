@@ -14,9 +14,9 @@
     "English"
   ],
   "research_areas": [
-    "T20 Opinion & Argument Mining",
-    "T14 Language Modeling",
-    "T11 Information Extraction"
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
   ],
   "paper_id": "2024.acl-long.275",
   "acl_url": "https://aclanthology.org/2024.acl-long.275/"
