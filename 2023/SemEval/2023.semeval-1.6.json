@@ -23,18 +23,17 @@
     "Hausa",
     "Igbo",
     "Kinyarwanda",
-    "Darija",
-    "Naija",
-    "Mozambican Portuguese",
+    "Nigerian Pidgin",
+    "Portuguese",
     "Swahili",
-    "Xitsonga",
+    "Tsonga",
     "Twi",
     "Yoruba",
     "Tigrinya",
     "Oromo"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
     "T23 Social Media Processing"
   ],

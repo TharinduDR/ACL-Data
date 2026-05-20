@@ -9,7 +9,7 @@
     "English",
     "Hindi",
     "Bengali",
-    "Oriya",
+    "Odia",
     "Assamese",
     "Gujarati",
     "Marathi",
@@ -17,17 +17,16 @@
     "Telugu",
     "Malayalam",
     "Tamil",
-    "Panjabi",
+    "Punjabi",
     "Sanskrit",
-    "Bihari",
     "Nepali",
     "Sinhala",
     "Dhivehi"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T11 Information Extraction",
-    "T20 Opinion & Argument Mining, Sentiment Analysis"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
   ],
   "paper_id": "2023.findings-eacl.50",
   "acl_url": "https://aclanthology.org/2023.findings-eacl.50/"

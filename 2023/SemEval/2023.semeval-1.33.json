@@ -8,22 +8,21 @@
   ],
   "languages": [
     "Amharic",
-    "Algerian Arabic",
+    "Arabic",
     "Hausa",
     "Igbo",
     "Kinyarwanda",
-    "Darija",
     "Swahili",
     "Nigerian Pidgin",
-    "Mozambican Portuguese",
-    "Xitsonga",
+    "Portuguese",
+    "Tsonga",
     "Twi",
     "Yoruba",
     "Oromo",
     "Tigrinya"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
   ],
   "paper_id": "2023.semeval-1.33",

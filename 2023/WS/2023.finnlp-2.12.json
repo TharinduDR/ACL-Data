@@ -9,9 +9,9 @@
     "French"
   ],
   "research_areas": [
-    "T14",
-    "T16",
-    "T23"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T23 Social Media Processing"
   ],
   "paper_id": "2023.finnlp-2.12",
   "acl_url": "https://aclanthology.org/2023.finnlp-2.12/"

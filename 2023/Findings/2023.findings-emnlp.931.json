@@ -38,7 +38,7 @@
     "Ukrainian",
     "Chinese",
     "Afrikaans",
-    "Assyrian",
+    "Assyrian Neo-Aramaic",
     "Akkadian",
     "Amharic",
     "Belarusian",
@@ -57,14 +57,13 @@
     "Armenian",
     "Indonesian",
     "Kazakh",
-    "Komi-Permyak",
     "Komi-Zyrian",
     "Karelian",
     "Lithuanian",
     "Moksha",
     "Marathi",
     "Erzya",
-    "Naija",
+    "Nigerian Pidgin",
     "Sanskrit",
     "Slovenian",
     "Serbian",
@@ -78,7 +77,7 @@
     "Cantonese"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
     "T12 Interpretability/explainability of language models and language and speech processing tools"
   ],

@@ -9,9 +9,9 @@
     "Spanish"
   ],
   "research_areas": [
-    "T13",
-    "T11",
-    "T21"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "2023.contents-1.2",
   "acl_url": "https://aclanthology.org/2023.contents-1.2/"

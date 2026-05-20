@@ -11,9 +11,9 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T21 Parsing",
-    "T13 Knowledge discovery/representation"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)"
   ],
   "paper_id": "2023.acl-long.271",
   "acl_url": "https://aclanthology.org/2023.acl-long.271/"

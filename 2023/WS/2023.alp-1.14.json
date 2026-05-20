@@ -10,9 +10,9 @@
     "Chinese"
   ],
   "research_areas": [
-    "T14",
-    "T15",
-    "T4"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T15 Lexicon and Semantics",
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science"
   ],
   "paper_id": "2023.alp-1.14",
   "acl_url": "https://aclanthology.org/2023.alp-1.14/"

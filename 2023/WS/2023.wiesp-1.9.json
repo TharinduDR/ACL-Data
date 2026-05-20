@@ -10,9 +10,9 @@
     "English"
   ],
   "research_areas": [
-    "T10",
-    "T14",
-    "T11"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection"
   ],
   "paper_id": "2023.wiesp-1.9",
   "acl_url": "https://aclanthology.org/2023.wiesp-1.9/"

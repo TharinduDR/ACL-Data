@@ -11,8 +11,8 @@
   ],
   "research_areas": [
     "T09 Inference and Reasoning",
-    "T14 Language Modeling",
-    "T26 Clinical/biomedical NLP"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
   ],
   "paper_id": "2023.semeval-1.107",
   "acl_url": "https://aclanthology.org/2023.semeval-1.107/"

@@ -12,10 +12,10 @@
   ],
   "research_areas": [
     "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
-    "T10 Question Answering",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
     "T18 Text Summarization",
     "T25 Legal NLP",
-    "T26 Clinical/biomedical NLP"
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
   ],
   "paper_id": "2023.genbench-1.8",
   "acl_url": "https://aclanthology.org/2023.genbench-1.8/"

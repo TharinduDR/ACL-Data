@@ -11,9 +11,9 @@
     "Portuguese"
   ],
   "research_areas": [
-    "T11 Information Extraction",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
     "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
-    "T10 Question Answering"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
   ],
   "paper_id": "2023.stil-1.15",
   "acl_url": "https://aclanthology.org/2023.stil-1.15/"

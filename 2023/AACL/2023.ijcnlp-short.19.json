@@ -7,14 +7,14 @@
     "Ehsaneddin Asgari"
   ],
   "languages": [
-    "Iranian Azerbaijani",
+    "Azerbaijani",
     "Persian",
     "Turkish"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology",
-    "T16 Machine Translation"
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "2023.ijcnlp-short.19",
   "acl_url": "https://aclanthology.org/2023.ijcnlp-short.19/"

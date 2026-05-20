@@ -11,9 +11,9 @@
     "Swiss German"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T16 Machine Translation",
-    "T24 Speech Resources and Processing"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
   ],
   "paper_id": "2023.mtsummit-users.6",
   "acl_url": "https://aclanthology.org/2023.mtsummit-users.6/"

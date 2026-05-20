@@ -9,13 +9,13 @@
     "English"
   ],
   "research_areas": [
-    "T03",
-    "T10",
-    "T11",
-    "T13",
-    "T14",
-    "T18",
-    "T28"
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
   ],
   "paper_id": "2023.inlg-main.17",
   "acl_url": "https://aclanthology.org/2023.inlg-main.17/"

@@ -8,9 +8,9 @@
     "English"
   ],
   "research_areas": [
-    "T10",
-    "T14",
-    "T18"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T18 Text Summarization"
   ],
   "paper_id": "2023.semeval-1.66",
   "acl_url": "https://aclanthology.org/2023.semeval-1.66/"

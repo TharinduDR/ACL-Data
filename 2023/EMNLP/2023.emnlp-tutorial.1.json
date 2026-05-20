@@ -7,9 +7,9 @@
   ],
   "languages": [],
   "research_areas": [
-    "T12",
-    "T14",
-    "T17"
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
   ],
   "paper_id": "2023.emnlp-tutorial.1",
   "acl_url": "https://aclanthology.org/2023.emnlp-tutorial.1/"

@@ -14,8 +14,8 @@
     "Arabic"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T20 Opinion & Argument Mining",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
     "T23 Social Media Processing"
   ],
   "paper_id": "2023.arabicnlp-1.61",
