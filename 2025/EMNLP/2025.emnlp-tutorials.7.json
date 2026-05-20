@@ -8,8 +8,8 @@
   ],
   "languages": [],
   "research_areas": [
-    "T14 Language Modeling",
-    "T13 Knowledge discovery/representation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
     "T07 Ethics, Research Reproducibility and Replicability, and Environmental Issues"
   ],
   "paper_id": "2025.emnlp-tutorials.7",

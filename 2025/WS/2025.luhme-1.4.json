@@ -7,14 +7,12 @@
   "languages": [
     "English",
     "Portuguese",
-    "Guinea-Bissau Creole",
     "Chinese",
     "French",
     "German",
     "Russian",
     "Bengali",
     "Indonesian",
-    "Mandarin Chinese",
     "Arabic",
     "Japanese",
     "Korean",
@@ -24,13 +22,12 @@
     "Punjabi",
     "Uyghur",
     "Zulu",
-    "Xhosa",
-    "Indonesian"
+    "Xhosa"
   ],
   "research_areas": [
-    "T04",
-    "T16",
-    "T29"
+    "T04 Digital Humanities, Cultural Heritage and Computational Social Science",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "2025.luhme-1.4",
   "acl_url": "https://aclanthology.org/2025.luhme-1.4/"

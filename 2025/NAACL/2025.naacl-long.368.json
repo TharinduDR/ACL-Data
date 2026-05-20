@@ -8,8 +8,8 @@
   ],
   "languages": [],
   "research_areas": [
-    "T14 Language Modeling",
-    "T10 Question Answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
     "T18 Text Summarization"
   ],
   "paper_id": "2025.naacl-long.368",

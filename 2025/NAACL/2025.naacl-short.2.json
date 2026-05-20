@@ -6,12 +6,10 @@
     "Jacob Eisenstein"
   ],
   "languages": [
-    "English",
-    "Indian English",
-    "Nigerian English"
+    "English"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
     "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],

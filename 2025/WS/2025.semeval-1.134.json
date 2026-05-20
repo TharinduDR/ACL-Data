@@ -16,7 +16,7 @@
     "Czech",
     "German",
     "English",
-    "Farsi",
+    "Persian",
     "French",
     "Hindi",
     "Italian",
@@ -25,9 +25,9 @@
     "Chinese"
   ],
   "research_areas": [
-    "T28",
-    "T13",
-    "T08"
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance",
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],
   "paper_id": "2025.semeval-1.134",
   "acl_url": "https://aclanthology.org/2025.semeval-1.134/"

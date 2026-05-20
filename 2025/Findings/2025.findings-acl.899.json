@@ -15,9 +15,9 @@
     "Russian"
   ],
   "research_areas": [
-    "T10",
-    "T16",
-    "T12"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T12 Interpretability/explainability of language models and language and speech processing tools"
   ],
   "paper_id": "2025.findings-acl.899",
   "acl_url": "https://aclanthology.org/2025.findings-acl.899/"

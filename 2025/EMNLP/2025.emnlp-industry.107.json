@@ -11,9 +11,9 @@
     "Chinese"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T29 NLP for education",
-    "T10 Question Answering"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
   ],
   "paper_id": "2025.emnlp-industry.107",
   "acl_url": "https://aclanthology.org/2025.emnlp-industry.107/"

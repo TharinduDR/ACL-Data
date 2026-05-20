@@ -9,9 +9,9 @@
     "French"
   ],
   "research_areas": [
-    "T08",
-    "T10",
-    "T16"
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "2025.findings-naacl.306",
   "acl_url": "https://aclanthology.org/2025.findings-naacl.306/"

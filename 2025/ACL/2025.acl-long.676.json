@@ -13,8 +13,8 @@
   ],
   "research_areas": [
     "T27 Code generation and programming languages",
-    "T14 Language Modeling",
-    "T17 Multimodality, Cross-modality"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition"
   ],
   "paper_id": "2025.acl-long.676",
   "acl_url": "https://aclanthology.org/2025.acl-long.676/"

@@ -7,8 +7,8 @@
   "languages": [
     "English",
     "Chinese",
-    "Quechuan",
-    "Haitian",
+    "Quechua",
+    "Haitian Creole",
     "Basque",
     "Turkish",
     "Russian",
@@ -59,14 +59,12 @@
     "Kazakh",
     "Khmer",
     "Mongolian",
-    "Pashto",
     "Tagalog",
-    "Turkish",
     "Uyghur",
     "Zulu"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],
   "paper_id": "2025.coling-main.175",

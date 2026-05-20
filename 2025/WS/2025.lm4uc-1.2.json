@@ -6,13 +6,13 @@
     "Mohammad Shariful Islam"
   ],
   "languages": [
-    "Bangla",
+    "Bengali",
     "English"
   ],
   "research_areas": [
-    "T10",
-    "T16",
-    "T06"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
   ],
   "paper_id": "2025.lm4uc-1.2",
   "acl_url": "https://aclanthology.org/2025.lm4uc-1.2/"

@@ -38,7 +38,7 @@
     "Kannada",
     "Marathi",
     "Gujarati",
-    "Oriya",
+    "Odia",
     "Assamese",
     "Bodo",
     "Manipuri",
@@ -48,20 +48,13 @@
     "Mongolian",
     "Khmer",
     "Lao",
-    "Myanmar",
+    "Burmese",
     "Filipino",
     "Tagalog",
     "Cebuano",
     "Ilocano",
     "Hiligaynon",
-    "Bisaya",
     "Chamorro",
-    "Samoan",
-    "Tongan",
-    "Fijian",
-    "Tok Pisin",
-    "Hawaiian",
-    "Maori",
     "Samoan",
     "Tongan",
     "Fijian",
@@ -70,9 +63,9 @@
     "Maori"
   ],
   "research_areas": [
-    "T14",
-    "T16",
-    "T09"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T09 Inference and Reasoning"
   ],
   "paper_id": "2025.findings-naacl.81",
   "acl_url": "https://aclanthology.org/2025.findings-naacl.81/"

@@ -8,13 +8,12 @@
   ],
   "languages": [
     "Arabic",
-    "Brazilian Portuguese",
+    "Portuguese",
     "Czech",
     "English",
     "French",
     "Japanese",
     "Korean",
-    "Portuguese",
     "Romanian",
     "Serbian",
     "Sinhala",
@@ -23,7 +22,7 @@
   ],
   "research_areas": [
     "T18 Text Summarization",
-    "T16 Machine Translation and Translation Aids",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
     "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],
   "paper_id": "2025.acl-short.27",

@@ -8,9 +8,9 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T19 Text Simplification",
-    "T16 Machine Translation"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T19 Text Simplification, Plain Language and Assistive Technologies",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "2025.naacl-long.135",
   "acl_url": "https://aclanthology.org/2025.naacl-long.135/"

@@ -9,8 +9,8 @@
     "French"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphology"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "2025.coling-main.348",
   "acl_url": "https://aclanthology.org/2025.coling-main.348/"

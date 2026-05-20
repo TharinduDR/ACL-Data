@@ -6,7 +6,7 @@
   ],
   "languages": [
     "Assamese",
-    "Bangla",
+    "Bengali",
     "Dogri",
     "English",
     "Gujarati",
@@ -17,9 +17,9 @@
     "Telugu"
   ],
   "research_areas": [
-    "T10",
-    "T11",
-    "T18"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization"
   ],
   "paper_id": "2025.nlpai4health-main.9",
   "acl_url": "https://aclanthology.org/2025.nlpai4health-main.9/"

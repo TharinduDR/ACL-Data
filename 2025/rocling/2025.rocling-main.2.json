@@ -7,9 +7,9 @@
     "Chinese"
   ],
   "research_areas": [
-    "T06",
-    "T10",
-    "T03"
+    "T06 Information Retrieval and Cross-lingual Retrieval",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction"
   ],
   "paper_id": "2025.rocling-main.2",
   "acl_url": "https://aclanthology.org/2025.rocling-main.2/"

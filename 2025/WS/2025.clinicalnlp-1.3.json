@@ -11,9 +11,9 @@
     "Chinese"
   ],
   "research_areas": [
-    "T10",
-    "T17",
-    "T26"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
   ],
   "paper_id": "2025.clinicalnlp-1.3",
   "acl_url": "https://aclanthology.org/2025.clinicalnlp-1.3/"

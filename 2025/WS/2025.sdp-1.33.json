@@ -10,9 +10,9 @@
     "English"
   ],
   "research_areas": [
-    "T08",
-    "T14",
-    "T28"
+    "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
   ],
   "paper_id": "2025.sdp-1.33",
   "acl_url": "https://aclanthology.org/2025.sdp-1.33/"

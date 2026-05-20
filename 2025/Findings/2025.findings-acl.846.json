@@ -15,9 +15,9 @@
     "English"
   ],
   "research_areas": [
-    "T10",
-    "T09",
-    "T06"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T09 Inference and Reasoning",
+    "T06 Information Retrieval and Cross-lingual Retrieval"
   ],
   "paper_id": "2025.findings-acl.846",
   "acl_url": "https://aclanthology.org/2025.findings-acl.846/"

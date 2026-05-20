@@ -9,13 +9,13 @@
   "languages": [
     "Bribri",
     "Maya",
-    "Guaraní",
+    "Guarani",
     "Nahuatl"
   ],
   "research_areas": [
-    "T29",
-    "T14",
-    "T21"
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "2025.americasnlp-1.12",
   "acl_url": "https://aclanthology.org/2025.americasnlp-1.12/"

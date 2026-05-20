@@ -26,7 +26,7 @@
     "Bengali",
     "Telugu",
     "Assamese",
-    "Azeri",
+    "Azerbaijani",
     "Bambara",
     "Ewe",
     "Fulani",
@@ -39,7 +39,6 @@
     "Xhosa",
     "Cantonese",
     "Japanese",
-    "Korean",
     "Italian",
     "Serbian",
     "Slovak",
@@ -47,9 +46,9 @@
     "Yoruba"
   ],
   "research_areas": [
-    "T10",
-    "T11",
-    "T18"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T18 Text Summarization"
   ],
   "paper_id": "2025.findings-naacl.73",
   "acl_url": "https://aclanthology.org/2025.findings-naacl.73/"

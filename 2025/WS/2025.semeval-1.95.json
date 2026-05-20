@@ -10,13 +10,12 @@
     "Arabic",
     "Czech",
     "English",
-    "Farsi",
+    "Persian",
     "Finnish",
     "French",
     "German",
     "Hindi",
     "Italian",
-    "Persian",
     "Portuguese",
     "Spanish",
     "Swedish",
@@ -27,9 +26,9 @@
     "Uyghur"
   ],
   "research_areas": [
-    "T10",
-    "T14",
-    "T28"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
   ],
   "paper_id": "2025.semeval-1.95",
   "acl_url": "https://aclanthology.org/2025.semeval-1.95/"

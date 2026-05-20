@@ -10,8 +10,8 @@
     "Spanish",
     "Hausa",
     "Amharic",
-    "Algerian Arabic",
-    "Mandarin Chinese",
+    "Arabic",
+    "Chinese",
     "German",
     "Portuguese",
     "Romanian",
@@ -19,8 +19,8 @@
     "Ukrainian"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T20 Sentiment Analysis, Emotion Recognition/Generation"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
   ],
   "paper_id": "2025.semeval-1.244",
   "acl_url": "https://aclanthology.org/2025.semeval-1.244/"

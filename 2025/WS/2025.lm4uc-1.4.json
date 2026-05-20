@@ -19,7 +19,6 @@
     "Galician",
     "Italian",
     "Korean",
-    "Latin",
     "Latvian",
     "Turkish",
     "Polish",
@@ -31,7 +30,7 @@
     "Ukrainian"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "2025.lm4uc-1.4",

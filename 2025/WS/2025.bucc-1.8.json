@@ -10,16 +10,15 @@
   ],
   "languages": [
     "English",
-    "Latin",
     "Russian",
-    "Central Kurdish",
+    "Kurdish",
     "Turkish",
     "Mongolian",
     "Central Pame",
-    "Murrinh-patha"
+    "Murrinhpatha"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "2025.bucc-1.8",

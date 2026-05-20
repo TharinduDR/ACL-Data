@@ -7,8 +7,8 @@
     "English"
   ],
   "research_areas": [
-    "T14",
-    "T28"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T28 Authorship Attribution, AI-Generated Text Detection and Provenance"
   ],
   "paper_id": "2025.naacl-srw.47",
   "acl_url": "https://aclanthology.org/2025.naacl-srw.47/"

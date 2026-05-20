@@ -14,9 +14,9 @@
     "English"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T12 Interpretability/explainability of language models and language and speech processing tools",
-    "T26 Clinical/biomedical NLP"
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
   ],
   "paper_id": "2025.acl-long.455",
   "acl_url": "https://aclanthology.org/2025.acl-long.455/"

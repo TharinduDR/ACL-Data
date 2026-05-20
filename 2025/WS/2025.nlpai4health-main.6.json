@@ -13,15 +13,15 @@
     "Marathi",
     "Gujarati",
     "Assamese",
-    "Bangla",
+    "Bengali",
     "Kannada",
     "Dogri"
   ],
   "research_areas": [
     "T18 Text Summarization",
-    "T10 Question Answering",
-    "T11 Information Extraction",
-    "T26 Clinical/biomedical NLP"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
   ],
   "paper_id": "2025.nlpai4health-main.6",
   "acl_url": "https://aclanthology.org/2025.nlpai4health-main.6/"

@@ -10,9 +10,9 @@
     "Chinese"
   ],
   "research_areas": [
-    "T16",
-    "T15",
-    "T14"
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
   ],
   "paper_id": "2025.rocling-main.20",
   "acl_url": "https://aclanthology.org/2025.rocling-main.20/"

@@ -12,8 +12,8 @@
     "Chinese"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T24 Speech Resources and Processing"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T24 Speech Resources and Processing (including Phonetic Databases, Phonology, Prosody, Speech Recognition, Synthesis and Spoken Language Understanding)"
   ],
   "paper_id": "2025.rocling-main.61",
   "acl_url": "https://aclanthology.org/2025.rocling-main.61/"

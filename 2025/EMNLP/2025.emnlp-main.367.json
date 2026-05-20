@@ -9,7 +9,7 @@
   "languages": [
     "Indonesian",
     "Javanese",
-    "Aceh",
+    "Acehnese",
     "Buginese",
     "Minangkabau",
     "Sundanese"
@@ -17,7 +17,7 @@
   "research_areas": [
     "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
     "T06 Information Retrieval and Cross-lingual Retrieval",
-    "T29 NLP for education"
+    "T29 NLP for education, Automated essay scoring and feedback generation, grammatical error correction and detection, intelligent tutoring systems"
   ],
   "paper_id": "2025.emnlp-main.367",
   "acl_url": "https://aclanthology.org/2025.emnlp-main.367/"

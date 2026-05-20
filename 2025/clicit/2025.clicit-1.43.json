@@ -5,13 +5,11 @@
     "Andrea Ballatore",
     "Barbara McGillivray"
   ],
-  "languages": [
-    "Latin"
-  ],
+  "languages": [],
   "research_areas": [
-    "T11",
-    "T15",
-    "T14"
+    "T11 Information Extraction, Named Entity Recognition, Relationship Extraction and Event Detection",
+    "T15 Lexicon and Semantics",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)"
   ],
   "paper_id": "2025.clicit-1.43",
   "acl_url": "https://aclanthology.org/2025.clicit-1.43/"

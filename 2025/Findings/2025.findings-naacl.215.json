@@ -11,9 +11,9 @@
     "English"
   ],
   "research_areas": [
-    "T13",
-    "T17",
-    "T26"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T17 Multimodality, Cross-modality (including Sign Languages, Vision and Other Modalities), Multimodal Applications, Grounded Language Acquisition",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
   ],
   "paper_id": "2025.findings-naacl.215",
   "acl_url": "https://aclanthology.org/2025.findings-naacl.215/"

@@ -29,9 +29,9 @@
     "Portuguese",
     "Basque",
     "Korean",
-    "isiXhosa",
-    "isiZulu",
-    "Moore",
+    "Xhosa",
+    "Zulu",
+    "Mossi",
     "Swahili",
     "Cantonese",
     "Kazakh",
@@ -41,8 +41,8 @@
     "Uzbek"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T16 Machine Translation and Translation Aids",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
     "T21 Parsing, Tagging, Chunking, Grammar, Syntax, Morphosyntax, Morphology"
   ],
   "paper_id": "2025.loreslm-1.1",

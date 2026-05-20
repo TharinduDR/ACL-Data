@@ -10,9 +10,9 @@
     "English"
   ],
   "research_areas": [
-    "T03",
-    "T10",
-    "T16"
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids"
   ],
   "paper_id": "2025.arabicnlp-main.7",
   "acl_url": "https://aclanthology.org/2025.arabicnlp-main.7/"

@@ -10,9 +10,9 @@
   ],
   "languages": [],
   "research_areas": [
-    "T13",
-    "T14",
-    "T27"
+    "T13 Knowledge discovery/representation (knowledge graphs, linked data, terminologies, lexicons, ontologies, etc.)",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
   ],
   "paper_id": "2025.findings-emnlp.777",
   "acl_url": "https://aclanthology.org/2025.findings-emnlp.777/"

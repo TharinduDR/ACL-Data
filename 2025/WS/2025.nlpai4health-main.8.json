@@ -11,7 +11,7 @@
   "languages": [
     "English",
     "Hindi",
-    "Bangla",
+    "Bengali",
     "Tamil",
     "Telugu",
     "Kannada",
@@ -20,10 +20,10 @@
     "Assamese"
   ],
   "research_areas": [
-    "T03",
-    "T10",
-    "T18",
-    "T26"
+    "T03 Dialogue, Conversational Systems, Chatbots, Human-Robot Interaction",
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering",
+    "T18 Text Summarization",
+    "T26 Clinical/biomedical NLP, NLP for Mental Health and Wellbeing"
   ],
   "paper_id": "2025.nlpai4health-main.8",
   "acl_url": "https://aclanthology.org/2025.nlpai4health-main.8/"

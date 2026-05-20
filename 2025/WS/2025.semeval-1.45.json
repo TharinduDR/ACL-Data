@@ -9,7 +9,6 @@
     "Arabic",
     "Amharic",
     "Aramaic",
-    "Aryan",
     "Chinese",
     "German",
     "English",
@@ -23,11 +22,9 @@
     "Punjabi",
     "Portuguese",
     "Pitjantjatjara",
-    "Ptarmigan",
-    "Punjabi",
     "Russian",
     "Romanian",
-    "Sorani",
+    "Kurdish",
     "Somali",
     "Sundanese",
     "Swahili",
@@ -39,8 +36,8 @@
     "Yoruba"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T20 Sentiment Analysis, Emotion Recognition/Generation"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation"
   ],
   "paper_id": "2025.semeval-1.45",
   "acl_url": "https://aclanthology.org/2025.semeval-1.45/"

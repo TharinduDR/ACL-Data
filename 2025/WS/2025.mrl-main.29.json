@@ -23,7 +23,7 @@
     "Sundanese",
     "Cebuano",
     "Tagalog",
-    "Standard Malay",
+    "Malay",
     "German",
     "French",
     "Hindi",
@@ -31,7 +31,7 @@
     "Spanish",
     "Lao",
     "Khmer",
-    "Banjar",
+    "Banjarese",
     "Balinese",
     "Mizo",
     "Waray",
@@ -45,7 +45,7 @@
     "Marathi"
   ],
   "research_areas": [
-    "T14 Language Modeling",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
     "T22 Psycholinguistics, Cognitive Linguistics and Linguistic Theories",
     "T08 Evaluation, Validation, Quality Assurance and Benchmarking Methodologies"
   ],

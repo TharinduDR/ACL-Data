@@ -12,9 +12,9 @@
     "Chinese"
   ],
   "research_areas": [
-    "T12",
-    "T14",
-    "T27"
+    "T12 Interpretability/explainability of language models and language and speech processing tools",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T27 Code generation and programming languages"
   ],
   "paper_id": "2025.findings-acl.471",
   "acl_url": "https://aclanthology.org/2025.findings-acl.471/"

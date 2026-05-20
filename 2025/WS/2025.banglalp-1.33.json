@@ -5,13 +5,13 @@
     "Bishwaraj Paul"
   ],
   "languages": [
-    "Bangla",
+    "Bengali",
     "English"
   ],
   "research_areas": [
-    "T14",
-    "T20",
-    "T23"
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
+    "T23 Social Media Processing"
   ],
   "paper_id": "2025.banglalp-1.33",
   "acl_url": "https://aclanthology.org/2025.banglalp-1.33/"

@@ -16,10 +16,10 @@
     "Crimean Tatar"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T16 Machine Translation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T16 Machine Translation (including Speech-to-Speech) and Translation Aids",
     "T18 Text Summarization",
-    "T10 Question Answering"
+    "T10 Question Answering, Open-domain question answering, closed-domain question answering, extractive and abstractive QA, multi-hop question answering"
   ],
   "paper_id": "2025.ranlp-1.100",
   "acl_url": "https://aclanthology.org/2025.ranlp-1.100/"

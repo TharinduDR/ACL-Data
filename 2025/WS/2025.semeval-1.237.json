@@ -9,7 +9,7 @@
   "languages": [
     "English",
     "Afrikaans",
-    "Algerian Arabic",
+    "Arabic",
     "Amharic",
     "Chinese",
     "Emakhuwa",
@@ -19,7 +19,6 @@
     "Igbo",
     "Kinyarwanda",
     "Marathi",
-    "Moroccan Arabic",
     "Nigerian Pidgin",
     "Oromo",
     "Portuguese",
@@ -34,8 +33,8 @@
     "Yoruba"
   ],
   "research_areas": [
-    "T14 Language Modeling",
-    "T20 Sentiment Analysis, Emotion Recognition/Generation",
+    "T14 Language Modeling (including training, fine-tuning, representation learning, and generation of synthetic data)",
+    "T20 Opinion & Argument Mining, Offensive Language/ Hate speech/ Toxic Language Detection, Sentiment Analysis, Emotion Recognition/Generation",
     "T15 Lexicon and Semantics"
   ],
   "paper_id": "2025.semeval-1.237",
